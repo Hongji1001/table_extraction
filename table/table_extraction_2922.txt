@@ -1,0 +1,14 @@
+              club      location                 stadium  capacity             manager kitmaker
+0          ac oulu          oulu                 castrén      4000        juha malinen    umbro
+1         fc honka         espoo  tapiolan urheilupuisto      6000       mika lehkosuo    kappa
+2         fc inter         turku         veritas stadion      9372        job dragtsma     nike
+3         fc lahti         lahti          lahden stadion     15000        ilkka mäkelä    umbro
+4          ff jaro     jakobstad  jakobstads centralplan      5000  alexei eremenko sr    errea
+5             haka   valkeakoski          tehtaan kenttä      3516        sami ristilä    umbro
+6              hjk      helsinki          sonera stadium     10770      antti muurinen   adidas
+7    ifk mariehamn     mariehamn    wiklöf holding arena      4000        pekka lyyski     puma
+8              jjk     jyväskylä          harjun stadion      3000       kari martonen    legea
+9             kups        kuopio    kuopion keskuskenttä      5000         esa pekonen     puma
+10            mypa  anjalankoski               saviniemi      4167      janne lindberg     puma
+11  tampere united       tampere          ratina stadion     17000           ari hjelm     puma
+12             tps         turku         veritas stadion      9372      marko rajamäki     puma

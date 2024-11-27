@@ -1,0 +1,6 @@
+                winner       country  winter olympics fis nordic world ski championships        holmenkollen
+0      ljubov kozyreva  soviet union             1956                        1954 , 1956                1955
+1  klavdija bojarskikh  soviet union             1964                        1964 , 1966         1965 , 1966
+2     toini gustafsson        sweden             1968                               1968  1960 , 1967 , 1968
+3      galina kulakova  soviet union             1972                        1972 , 1974         1970 , 1979
+4      raisa smetanina  soviet union             1976                               1976                1975

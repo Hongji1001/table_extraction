@@ -1,0 +1,15 @@
+      Unnamed: 0  total freshwater withdrawal  per capita withdrawal  domestic use  industrial use  agricultural use
+0   turkmenistan                        24.65                   5104             2               1                98
+1     kazakhstan                        35.00                   2360             2              17                82
+2     uzbekistan                        58.34                   2194             5               2                93
+3         guyana                         1.64                   2187             2               1                98
+4        hungary                        21.03                   2082             9              59                32
+5     azerbaijan                        17.25                   2051             5              28                68
+6     kyrgyzstan                        10.08                   1916             3               3                94
+7     tajikistan                        11.96                   1837             4               5                92
+8            usa                       477.00                   1600            13              46                41
+9       suriname                         0.67                   1489             4               3                93
+10          iraq                        42.70                   1482             3               5                92
+11        canada                        44.72                   1386            20              69                12
+12      thailand                        82.75                   1288             2               2                95
+13       ecuador                        16.98                   1283            12               5                82

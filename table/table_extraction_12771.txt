@@ -1,0 +1,12 @@
+       model number frequency l1 cache  mult voltage
+0      x5 - 133 adh   133 mhz   16 kib     4  3.45 v
+1      x5 - 133 ady   133 mhz   16 kib     4  3.45 v
+2      x5 - 133 adw   133 mhz   16 kib     4  3.45 v
+3      x5 - 133 adz   133 mhz   16 kib     4  3.45 v
+4      x5 - 133 bgc   133 mhz   16 kib     4  3.45 v
+5   x5 - 133 v16bgc   133 mhz   16 kib     4  3.45 v
+6   x5 - 133 w16bgc   133 mhz   16 kib     4   3.3 v
+7   x5 - 133 v16bhc   133 mhz   16 kib     4  3.45 v
+8   x5 - 133 w16bhc   133 mhz   16 kib     4   3.3 v
+9      x5 - 133 sfz   133 mhz   16 kib     4   3.3 v
+10     x5 - 150 adw   150 mhz   16 kib     3  3.45 v

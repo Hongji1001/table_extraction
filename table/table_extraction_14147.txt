@@ -1,0 +1,13 @@
+    nat           name          moving from         type transfer window         ends
+0   ned  van der vaart         hamburger sv     transfer          summer         2013
+1   esp    javi garcía              osasuna     transfer          summer         2012
+2   esp      de la red               getafe     transfer          summer         2011
+3   arg          garay      racingsantander     transfer          summer         2014
+4   esp       gonzález            gimnàstic  loan return          summer  undisclosed
+5   ury         garcía               murcia  loan return          summer  undisclosed
+6   esp           agus        celta de vigo  loan return          summer  undisclosed
+7   esp        granero               getafe  loan return          summer  undisclosed
+8   ned      huntelaar                 ajax     transfer          winter         2013
+9   fra           lass           portsmouth     transfer          winter         2013
+10  esp         parejo  queens park rangers  loan return          winter         2017
+11  fra        faubert      west ham united         loan          winter         2009

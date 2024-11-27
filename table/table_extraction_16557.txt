@@ -1,0 +1,9 @@
+                                      name                   language                     owner            group          type
+0                                      tv1                      malay                       rtm  free - to - air   terrestrial
+1                                      tv2                      malay                       rtm  free - to - air   terrestrial
+2                                      tv3                      malay                      stmb  free - to - air   terrestrial
+3                   cnn international news                    english                       cnn             news  subscription
+4                        discovery channel   english (malay subtitle)  discovery communications        education  subscription
+5                espn international sports                    english                      espn           sports  subscription
+6                 hbo international movies  english ([malay subtitle)                       hbo           movies  subscription
+7  cartoon network & turner classic movies   english (malay subtitle)           cartoon network         animated  subscription

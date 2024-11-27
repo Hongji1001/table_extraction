@@ -1,0 +1,11 @@
+               school     location      mascot  enrollment ihsaa class         county
+0              austin       austin      eagles         368          aa       72 scott
+1  brownstown central   brownstown      braves         596         aaa     36 jackson
+2         charlestown  charlestown     pirates         729         aaa       10 clark
+3         clarksville  clarksville    generals         473          aa       10 clark
+4     corydon central      corydon    panthers         774         aaa    31 harrison
+5       eastern pekin    new pekin  musketeers         522          aa  88 washington
+6      north harrison       ramsey     cougars         685         aaa    31 harrison
+7               salem        salem       lions         627         aaa  88 washington
+8          scottsburg   scottsburg    warriors         877         aaa       72 scott
+9        silver creek  sellersburg     dragons         716         aaa       10 clark

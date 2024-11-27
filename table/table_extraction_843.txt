@@ -1,0 +1,10 @@
+   season                             race name     winning driver   chassis       engine      tires                 team
+0    1973                             texas 200           al unser  parnelli  offenhauser  firestone  vels parnelli jones
+1    1976                             texas 150            aj foyt    coyote         foyt   goodyear       gilmore racing
+2    1976  benihana world series of auto racing  johnny rutherford   mclaren  offenhauser   goodyear         team mclaren
+3    1977                      texas grand prix          tom sneva   mclaren     cosworth   goodyear          team penske
+4    1977                    american parts 200  johnny rutherford   mclaren     cosworth   goodyear         team mclaren
+5    1978                             coors 200       danny ongais  parnelli     cosworth   goodyear    interscope racing
+6    1978                      texas grand prix            aj foyt    coyote         foyt   goodyear       gilmore racing
+7    1979                             coors 200            aj foyt    coyote         foyt   goodyear       gilmore racing
+8    1979                  lubriloln grand prix            aj foyt  parnelli     cosworth   goodyear       gilmore racing

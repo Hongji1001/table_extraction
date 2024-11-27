@@ -1,0 +1,10 @@
+       rank                    player       nationality           team      opponent  score                                     competition vote percentage
+0       1st            hamit altıntop            turkey         turkey    kazakhstan  0 - 2               uefa euro 2012 qualifying group a          40.55%
+1       2nd           linus hallenius            sweden    hammarby if  syrianska fc  2 - 0                                 2010 superettan          13.23%
+2       3rd             matty burrows  northern ireland      glentoran     portadown  1 - 0                       2010 - 11 ifa premiership          10.61%
+3  unranked  giovanni van bronckhorst       netherlands    netherlands       uruguay  1 - 0                2010 fifa world cup semi - final           n / a
+4  unranked              lionel messi         argentina      barcelona      valencia  3 - 0                               2009 - 10 la liga           n / a
+5  unranked               samir nasri            france        arsenal      fc porto  5 - 0  2009 - 10 uefa champions league knockout phase           n / a
+6  unranked                    neymar            brazil         santos   santo andré  2 - 1                        2010 campeonato paulista           n / a
+7  unranked              arjen robben       netherlands  bayern munich    schalke 04  1 - 0                2009 - 10 dfb - pokal semifinals           n / a
+8  unranked        siphiwe tshabalala      south africa   south africa        mexico  1 - 0                 2010 fifa world cup group stage           n / a

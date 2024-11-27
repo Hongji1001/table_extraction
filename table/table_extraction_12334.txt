@@ -1,0 +1,9 @@
+                                   school             location  founded  enrollment      nickname
+0                arizona state university           tempe , az     1885       59794    sun devils
+1                university of california        berkeley , ca     1868       35409  golden bears
+2  university of california , los angeles     los angeles , ca     1919       38000        bruins
+3                    university of oregon          eugene , or     1876       22386         ducks
+4       university of southern california     los angeles , ca     1880       32160       trojans
+5                      university of utah  salt lake city , ut     1850       30819          utes
+6                university of washington         seattle , wa     1861       42708       huskies
+7             washington state university         pullman , wa     1890       25135       cougars

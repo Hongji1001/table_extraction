@@ -1,0 +1,16 @@
+             district                   vacator                           reason for change               successor date successor seated
+0       tennessee 1st                    vacant      tennessee re - admitted into the union  nathaniel g taylor (u)        july 24 , 1866
+1       tennessee 2nd                    vacant      tennessee re - admitted into the union     horace maynard (uu)        july 24 , 1866
+2       tennessee 3rd                    vacant      tennessee re - admitted into the union   william b stokes (uu)        july 24 , 1866
+3       tennessee 4th                    vacant      tennessee re - admitted into the union       edmund cooper (u)        july 24 , 1866
+4       tennessee 5th                    vacant      tennessee re - admitted into the union  william b campbell (u)        july 24 , 1866
+5       tennessee 6th                    vacant      tennessee re - admitted into the union    samuel m arnell (uu)        july 24 , 1866
+6       tennessee 7th                    vacant      tennessee re - admitted into the union     isaac r hawkins (u)        july 24 , 1866
+7       tennessee 8th                    vacant      tennessee re - admitted into the union    john w leftwich (uu)        july 24 , 1866
+8       new york 16th       orlando kellogg (r)                       died august 24 , 1865       robert s hale (r)     december 3 , 1866
+9   pennsylvania 16th  alexander h coffroth (d)  lost contested election february 19 , 1866    william h koontz (r)        july 18 , 1866
+10        indiana 7th     daniel w voorhees (d)  lost contested election february 23 , 1866    henry d washburn (r)    february 23 , 1866
+11       new york 8th          james brooks (d)      lost contested election april 7 , 1866     william e dodge (r)        april 7 , 1866
+12       new york 3rd        james humphrey (r)                         died june 16 , 1866       john w hunter (d)     december 4 , 1866
+13       kentucky 3rd          henry grider (d)                     died september 7 , 1866         elijah hise (d)     december 3 , 1866
+14  pennsylvania 11th        philip johnson (d)                      died january 29 , 1867                  vacant  not filled this term

@@ -1,0 +1,8 @@
+                         school        mascot      location  enrollment ihsaa class ihsaa football class        county
+0  indianapolis decatur central         hawks  indianapolis        1870        aaaa                aaaaa     49 marion
+1            franklin community  grizzly cubs      franklin        1601        aaaa                aaaaa    41 johnson
+2                     greenwood       woodmen     greenwood        1167        aaaa                 aaaa    41 johnson
+3                  martinsville     artesians  martinsville        1661        aaaa                aaaaa     55 morgan
+4                   mooresville      pioneers   mooresville        1348        aaaa                 aaaa     55 morgan
+5                    plainfield       quakers    plainfield        1388        aaaa                 aaaa  32 hendricks
+6           whiteland community      warriors     whiteland        1713        aaaa                aaaaa    41 johnson

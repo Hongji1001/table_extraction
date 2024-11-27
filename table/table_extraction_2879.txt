@@ -1,0 +1,10 @@
+   no  -                  title     directed by                       written by   original air date production code  us viewers (million)
+0  13  1               red rain    bryan spicer  scott rosenbaum & gregg hurwitz    january 4 , 2011          3x6201                  6.59
+1  14  2       serpent 's tooth     steve shill                    gregg hurwitz   january 11 , 2011          3x6202                  5.77
+2  15  3              laid bare   david barrett               gwendolyn m parker   january 18 , 2011          3x6203                  5.70
+3  16  4        unholy alliance      dean white                rockne s o'bannon   february 1 , 2011          3x6204                  5.29
+4  17  5              concordia      jesse warn                      david rambo   february 8 , 2011          3x6205                  5.40
+5  18  6                  siege    john behring                   dean widenmann  february 15 , 2011          3x6206                  5.43
+6  19  7            birth pangs   david barrett                 cathryn humphris  february 22 , 2011          3x6207                  5.14
+7  20  8   uneasy lies the head  jeff woolnough  cameron litvack & gregg hurwitz      march 1 , 2011          3x6208                  5.04
+8  21  9  devil in a blue dress  ralph hemecker                    hans tobeason      march 8 , 2011          3x6209                  4.98

@@ -1,0 +1,11 @@
+                  hand  1 credit  2 credits  3 credits  4 credits  5 credits
+0  natural royal flush       300        600        900       1200       4000
+1          four deuces       200        400        600        800       1000
+2     wild royal flush        25         50         75        100        125
+3       five of a kind        15         30         45         60         75
+4       straight flush         9         18         27         36         45
+5       four of a kind         5         10         15         20         25
+6           full house         3          6          9         12         15
+7                flush         2          4          6          8         10
+8             straight         2          4          6          8         10
+9      three of a kind         1          2          3          4          5

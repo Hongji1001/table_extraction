@@ -1,0 +1,7 @@
+   year   grand slam         round          winner               loser
+0  1968  french open   first round    nikola špear       daniel contet
+1  1987  french open  second round   karel nováček  eduardo bengoechea
+2  1987    wimbledon   first round   stefan edberg     stefan eriksson
+3  1987      us open   first round      ivan lendl          barry moir
+4  1993  french open  second round  sergi bruguera    thierry champion
+5  2011    davis cup  second round     andy murray        laurent bram

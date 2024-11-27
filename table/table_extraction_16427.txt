@@ -1,0 +1,9 @@
+                 name  pre - season  a - league  finals  total
+0         eugene dadi             0          10       0     10
+1   nikita rukavytsya             0          10       0     10
+2      jamie harnwell             0           3       0      3
+3  adriano pellegrino             0           2       0      2
+4     adrian trinidad             1           1       0      2
+5         wayne srhoj             0           1       0      1
+6       scott bulloch             0           1       0      1
+7     anthony skorich             0           1       0      1

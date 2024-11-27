@@ -1,0 +1,30 @@
+         date      opponent                                      score                                       loss                                     record
+0    august 1       marlins                                      5 - 2                            volstad (2 - 2)                                    50 - 61
+1    august 2       marlins                                      5 - 3                      de los santos (0 - 1)                                    50 - 62
+2    august 3       marlins                                      3 - 2                             nelson (2 - 1)                                    51 - 62
+3    august 4     nationals                                      9 - 4                              cook (14 - 7)                                    51 - 63
+4    august 5     nationals                                      8 - 2                              ayala (1 - 7)                                    52 - 63
+5    august 6     nationals  postponed (rain) rescheduled for august 7  postponed (rain) rescheduled for august 7  postponed (rain) rescheduled for august 7
+6    august 7     nationals                                      6 - 3                            francis (3 - 8)                                    52 - 64
+7    august 7     nationals                                      6 - 3                           jiménez (8 - 10)                                    52 - 65
+8    august 8        padres                                      6 - 3                              peavy (8 - 8)                                    53 - 65
+9    august 9        padres                                      8 - 3                              cook (14 - 8)                                    53 - 66
+10  august 10        padres                                     16 - 7                         hernández (10 - 9)                                    53 - 67
+11  august 12  diamondbacks                                      4 - 2                           jiménez (8 - 11)                                    53 - 68
+12  august 13  diamondbacks                                      6 - 5                              rauch (4 - 3)                                    54 - 68
+13  august 14  diamondbacks                                      6 - 2                              rusch (5 - 4)                                    54 - 69
+14  august 15     nationals                                      4 - 3                            redding (8 - 8)                                    55 - 69
+15  august 16     nationals                                     13 - 6                            lannan (6 - 12)                                    56 - 69
+16  august 17     nationals                                      7 - 2                              pérez (5 - 9)                                    57 - 69
+17  august 19       dodgers                                      8 - 3                             kuroda (7 - 9)                                    58 - 69
+18  august 20       dodgers                                      4 - 3                            broxton (3 - 5)                                    59 - 69
+19  august 21       dodgers                                      3 - 1                         de la rosa (6 - 7)                                    59 - 70
+20  august 22          reds                                      8 - 5                        hernández (11 - 10)                                    59 - 71
+21  august 23          reds                                      7 - 6                            lincoln (1 - 4)                                    60 - 71
+22  august 24          reds                                 4 - 3 (12)                            lincoln (1 - 5)                                    61 - 71
+23  august 25        giants                                      4 - 2                              cain (8 - 10)                                    62 - 71
+24  august 26        giants                                      7 - 2                             palmer (0 - 2)                                    63 - 71
+25  august 27        giants                                      4 - 1                        hernández (11 - 11)                                    63 - 72
+26  august 29        padres                                      9 - 4                           hayhurst (0 - 1)                                    64 - 72
+27  august 30        padres                                      9 - 4                           jiménez (9 - 12)                                    64 - 73
+28  august 31        padres                                      2 - 1                           buchholz (6 - 4)                                    64 - 74

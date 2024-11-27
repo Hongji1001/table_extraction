@@ -1,0 +1,28 @@
+    year                                 film name                    co - singer             music director    language
+0   2000                         ganga kare insaaf                           solo              ravindra jain    bhojpuri
+1   1999                           tomay pabo bole                   bappi lahiri               bappi lahiri     bengali
+2   1997                  nehiya lagvani saiyan se                           solo             surender kohli    bhojpuri
+3   1997                          mohabbat kya hai                   vinod rathod                 rajan bawa       hindi
+4   1997                    shaan - e - khwaja - 2                           solo                mami bhachu        urdu
+5   1995                          kalyug ke avtaar                  mohammad aziz              ravindra jain       hindi
+6   1995  parbatiya banal panditayain bitiya bhail                usha mangeshkar                chitragupta    bhojpuri
+7   1995                             bhagya debata                       abhijeet               madhu burman     bengali
+8   1995                             bhagya debata                           solo               madhu burman     bengali
+9   1995                             bhagya debata                   udit narayan               madhu burman     bengali
+10  1995                       tera dukh mera dukh                  suresh wadkar             rajan - arvind       hindi
+11  1995                       tera dukh mera dukh                   vinod rathod             rajan - arvind       hindi
+12  1995                       tera dukh mera dukh                           solo             rajan - arvind       hindi
+13  1994                           beta ho to aisa                           solo              ravindra jain       hindi
+14  1994                                      kokh                           solo              ravindra jain       hindi
+15  1993                              kaal bhairav                    k j yesudas              ravindra jain       hindi
+16  1993                           jaan pe khelkar  suresh wadkar , mohammad aziz              ravindra jain       hindi
+17  1993                           jaan pe khelkar                  suresh wadkar              ravindra jain       hindi
+18  1993                                     gouri                           solo  jugal kishore - tilak raj  rajasthani
+19  1993                                     gouri                jayshri shivram  jugal kishore - tilak raj  rajasthani
+20  1992                                rajoo dada                  suresh wadkar                usha khanna       hindi
+21  1992                                rajoo dada                   manhar udhas                usha khanna       hindi
+22  1992                                rajoo dada                           solo                usha khanna       hindi
+23  1991                   princess from kathmandu                  suresh wadkar              ravindra jain       hindi
+24  1991                             pyar ka sawan                    anup jalota              ravindra jain       hindi
+25  1991                                 prem daan                   vivek sharma              ravindra jain       hindi
+26  1991                               khooni raat                           solo                usha khanna       hindi

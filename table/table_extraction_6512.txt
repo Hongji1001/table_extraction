@@ -1,0 +1,6 @@
+   rank             player        country  earnings  wins
+0     1        lee trevino  united states   6715649    27
+1     2        bob charles    new zealand   6621207    23
+2     3        jim colbert  united states   6570797    18
+3     4      dave stockton  united states   5781417    13
+4     5  chi chi rodriguez    puerto rico   5696544    22

@@ -1,0 +1,14 @@
+               name pos       height weight   date of birth                       club
+0     james stanton  gk   m (ft 6in)      -  1983 - 07 - 21         fremantle mariners
+1      dean semmens  cb   m (ft 2in)      -  1979 - 11 - 22             cn sant andreu
+2    trent franklin   d   m (ft 0in)      -  1979 - 02 - 12    sydney university lions
+3   pietro figlioli   d   m (ft 2in)      -  1984 - 05 - 29               cn barcelona
+4      craig miller   d   m (ft 3in)      -  1971 - 11 - 23            cronulla sharks
+5      toby jenkins  cf   m (ft 4in)      -  1979 - 11 - 26        brisbane barracudas
+6       tim neesham   d   m (ft 0in)      -  1979 - 10 - 20         firenze pallanuoto
+7      sam mcgregor  cb   m (ft 4in)      -  1984 - 08 - 12                 cn terassa
+8     thomas whalan  cb   m (ft 4in)      -  1980 - 10 - 13  cn atlã¨tic - barceloneta
+9       gavin woods  cf   m (ft 6in)      -  1978 - 03 - 01             balmain tigers
+10    alex osadchuk   d  m (ft 11in)      -  1972 - 02 - 19        brisbane barracudas
+11    nathan thomas   d   m (ft 4in)      -  1972 - 08 - 28               cn barcelona
+12     rafael sterk  gk   m (ft 1in)      -  1978 - 01 - 27        brisbane barracudas

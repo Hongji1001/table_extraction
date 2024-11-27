@@ -1,0 +1,9 @@
+  position                    gymnast  a score  b score   total
+0      1st        li xiaopeng ( chn )      6.9    9.525  16.425
+1      2nd    nikolay kryukov ( rus )      6.8    9.375  16.175
+2      3rd        anton fokin ( uzb )      6.8    9.350  16.150
+3      4th     yoo won - chul ( kor )      7.0    9.150  16.150
+4      5th   mitja petkovå¡ek ( slo )      6.6    9.525  16.125
+5      6th   yang tae - young ( kor )      7.0    9.100  16.100
+6      7th           huang xu ( chn )      7.0    9.075  16.075
+7      8th  fabian hambuechen ( ger )      6.9    9.150  16.050

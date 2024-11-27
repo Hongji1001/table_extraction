@@ -1,0 +1,8 @@
+  proto - slavic                     russian        ukrainian        belarusian   polish   czech   slovak slovene             serbo - croatian        bulgarian                 macedonian
+0      uxo (ear)                  ухо (úkho)     вухо (vúkho)      вуха (vúkha)     ucho    ucho     ucho     uho              уво / uvo , uho       ухо (ukhó)                  уво (úvo)
+1    ognь (fire)               огонь (ogónʹ)  вогонь (vohónʹ)     агонь (ahónʹ)    ogień    oheň     oheň   ogenj                 огањ / oganj      огън (ógǎn)  оган / огин (ógan / ógin)
+2    ryba (fish)                 рыба (rýba)      риба (rýba)       рыба (rýba)     ryba    ryba     ryba    riba                  риба / riba      риба (ríba)                риба (ríba)
+3  gnězdo (nest)             гнездо (gnezdó)  гнiздо (hnizdó)  гняздо (hnyazdó)  gniazdo  hnízdo  hniezdo  gnezdo  гн (иј) ездо / gn (ij) ezdo  гнездо (gnezdó)            гнездо (gnézdo)
+4      oko (eye)  око (óko) (dated , poetic)        око (óko)       вока (vóka)      oko     oko      oko     oko                    око / oko        око (óko)                  око (óko)
+5   golva (head)             голова (golová)  голова (holová)   галава (halavá)    głowa   hlava    hlava   glava                глава / glava    глава (glavá)              глава (gláva)
+6    rǫka (hand)                 рука (ruká)      рука (ruká)       рука (ruká)     ręka    ruka     ruka    roka                  рука / ruka      ръка (rǎká)                рака (ráka)

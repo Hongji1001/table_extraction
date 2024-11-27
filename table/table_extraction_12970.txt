@@ -1,0 +1,14 @@
+                  name pos height weight                   2012 club
+0       flóra bolonyai  gk      m      -                 usc trojans
+1         dóra czigány  cf      m      -                   zf - eger
+2           dóra antal  cf      m      -                   zf - eger
+3      hanna kisteleki  cf      m      -                bvsc ‐ zugló
+4      gabriella szűcs  cf      m      -    dunaújvárosi főiskola ve
+5       orsolya takács  cb      m      -     szentesi vizilabda klub
+6         rita drávucz   d      m      -                   pro recco
+7      rita keszthelyi   d      m      -     szentesi vizilabda klub
+8          ildikó tóth  cb      m      -                bvsc ‐ zugló
+9        barbara bujka  cb      m      -  waterpolo fontalba messina
+10         dóra csabai  cb      m      -                bvsc ‐ zugló
+11  katalin menczinger  cb      m      -    dunaújvárosi főiskola ve
+12         edina gangl  gk      m      -                   zf - eger

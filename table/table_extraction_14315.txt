@@ -1,0 +1,13 @@
+             name  total           first            last highest rank
+0     kotonishiki     34  september 1990  september 1999     sekiwake
+1            kaiō     32        may 1994       july 2000        ōzeki
+2        musōyama     31      march 1994  september 2000        ōzeki
+3        hasegawa     30   november 1965  september 1974     sekiwake
+4     kotomitsuki     30    january 2001       july 2007        ōzeki
+5      akinoshima     27   november 1988  september 2000     sekiwake
+6      takamiyama     27   november 1969  september 1982     sekiwake
+7      takatōriki     26        may 1991        may 2000     sekiwake
+8      wakanosato     26   november 2000  september 2005     sekiwake
+9        daikirin     22   november 1966  september 1970        ōzeki
+10  tochiazuma ii     22       july 1997    january 2005        ōzeki
+11     kisenosato     22       july 2006  september 2011        ōzeki

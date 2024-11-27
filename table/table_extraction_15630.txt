@@ -1,0 +1,23 @@
+    draw    language                                       artist                                       song                        english translation  place  points
+0      1     serbian                                    baby doll                            brazil (бразил)                                          -     21       1
+1      2   icelandic                                stefán & eyfi                            draumur um nínu                                       nina     15      26
+2      3     english                  georgina & paul giordimaina                                could it be                                          -      6     106
+3      4       greek                                sophia vossou                         i anixi (η άνοιξη)                                     spring     13      36
+4      5     italian                                  sandra simó                             canzone per te                             a song for you      5     118
+5      6      german                              thomas forstner                           venedig im regen                         venice in the rain     22       0
+6      7      french                                   sarah bray                             un baiser volé                              a stolen kiss     14      29
+7      8     swedish                                       carola                     fångad av en stormvind                    captured by a stormwind      1     146
+8      9      french                                        amina  c'est le dernier qui a parlé qui a raison  it 's the last one who spoke who is right      2     146
+9     10     turkish  izel çeliköz , reyhan karaca & can uğurluer                                 iki dakika                                two minutes     12      44
+10    11     english                                  kim jackson               could it be that i'm in love                                          -     10      47
+11    12  portuguese                                 dulce pontes                            lusitana paixão                         lusitanian passion      8      62
+12    13      danish                              anders frandsen                 lige der hvor hjertet slår                 just where the heart beats     19       8
+13    14   norwegian                                   just 4 fun                               mrs thompson                                          -     17      14
+14    15      hebrew                                     duo datz                                  kan (כאן)                                       here      3     139
+15    16     finnish                               kaija kärkinen                                   hullu yö                              a crazy night     20       6
+16    17      german                                atlantis 2000          dieser traum darf niemals sterben                   this dream may never die     18      10
+17    18       dutch                                     clouseau                                geef het op                                 give it up     16      23
+18    19     spanish                                 sergio dalma                             bailar pegados                            dancing closely      4     119
+19    20     english                               samantha janus                    a message to your heart                                          -     10      47
+20    21       greek                              elena patroklou                                        sos                                          -      9      60
+21    22  neapolitan                             peppino di capri                      comme è ddoce 'o mare                       how sweet is the sea      7      89

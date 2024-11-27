@@ -1,0 +1,7 @@
+  call sign  frequency mhz               city of license  erp w class fcc info
+0      wcrg           90.7   williamsport , pennsylvania   3000     a      fcc
+1      wjrc           90.9      lewistown , pennsylvania     94     a      fcc
+2      wzrg           91.9       kulpmont , pennsylvania   1450     a      fcc
+3    w269bz          101.7  state college , pennsylvania      4     d      fcc
+4    w296ap          107.1   williamsport , pennsylvania      5     d      fcc
+5    w299af          107.7      catawissa , pennsylvania      1     d      fcc

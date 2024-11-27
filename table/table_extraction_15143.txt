@@ -1,0 +1,17 @@
+   place              player        country  score to par
+0     t1  vicente fernã¡ndez      argentina     70      e
+1     t1            nick job        england     70      e
+2     t3           isao aoki          japan     71    + 1
+3     t3        david graham      australia     71    + 1
+4     t3        tony jacklin        england     71    + 1
+5     t3       johnny miller  united states     71    + 1
+6     t3          simon owen    new zealand     71    + 1
+7     t3      hal sutton (a)  united states     71    + 1
+8     t9        howard clark        england     72    + 2
+9     t9        ben crenshaw  united states     72    + 2
+10    t9        david jagger        england     72    + 2
+11    t9          mark james        england     72    + 2
+12    t9         greg norman      australia     72    + 2
+13    t9       arnold palmer  united states     72    + 2
+14    t9         bill rogers  united states     72    + 2
+15    t9        sam torrance       scotland     72    + 2

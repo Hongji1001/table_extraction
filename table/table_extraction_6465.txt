@@ -1,0 +1,21 @@
+    year                     race       team  pos         co - driver
+0   1970      24 hours of daytona  john wyer    1   kinnunen / redman
+1   1970      12 hours of sebring  john wyer    4  kinnunen / siffert
+2   1970  1000 km of brands hatch  john wyer    1        leo kinnunen
+3   1970            1000 km monza  john wyer    1        leo kinnunen
+4   1970             targa florio  john wyer    2        leo kinnunen
+5   1970              1000 km spa  john wyer  ret        leo kinnunen
+6   1970      1000 km nürburgring  john wyer  ret        leo kinnunen
+7   1970      24 hours of le mans  john wyer  ret        leo kinnunen
+8   1970  6 hours of watkins glen  john wyer    1        leo kinnunen
+9   1970          1000 km zeltweg  john wyer  ret        leo kinnunen
+10  1971  1000 km of buenos aires  john wyer  ret       jackie oliver
+11  1971      24 hours of daytona  john wyer    1       jackie oliver
+12  1971      12 hours of sebring  john wyer    4       jackie oliver
+13  1971     1000 km brands hatch  john wyer  ret       jackie oliver
+14  1971            1000 km monza  john wyer    1       jackie oliver
+15  1971              1000 km spa  john wyer    1       jackie oliver
+16  1971             targa florio  john wyer  ret      herbert müller
+17  1971      1000 km nürburgring  john wyer    2    oliver / siffert
+18  1971      24 hours of le mans  john wyer   18       jackie oliver
+19  1971          1000 km zeltweg  john wyer    1     richard attwood

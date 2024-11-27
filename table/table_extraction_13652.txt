@@ -1,0 +1,32 @@
+                                 province    largest city          2nd largest     3rd largest           4th largest
+0                                  tehran          tehran           eslamshahr        golestan        shahr - e qods
+1                                  alborz           karaj            nazarabad     savojbolagh              taleghan
+2                         razavi khorasan         mashhad             sabzevar       neyshabur  torbat - e heydarieh
+3                                 isfahan         isfahan               kashan   khomeynishahr             najafabad
+4                                    fars          shiraz            marvdasht          jahrom                  fasa
+5                               khuzestan           ahvaz               dezful          abadan          khorramshahr
+6                         east azarbaijan          tabriz             maragheh          marand                mianeh
+7                              mazandaran            sari                babol            amol           qa'em shahr
+8                         west azarbaijan           urmia                 khoy        miandoab                salmas
+9                                  kerman          kerman               sirjan       rafsanjan                jiroft
+10                                  gilan           rasht    bandar - e anzali         lahijan               langrud
+11                 sistan and baluchistan         zahedan                zabol      iran shahr              chabahar
+12                             kermanshah      kermanshah  eslamabad - e gharb          harsin              kangavar
+13                               lorestan     khorramabad             borujerd          dorood             koohdasht
+14                                hamadan         hamadan              malayer        nahavand              asadabad
+15                               golestan          gorgan     gonbad - e qabus        ali abad       bandar torkaman
+16                              kurdistan        sanandaj               saghez         marivan                 baneh
+17                              hormozgan    bandar abbas                minab        dehbarez         bandar lengeh
+18                                markazi            arak                saveh         khomein              mahallat
+19                                ardabil         ardabil             parsabad    meshkinshahr              khalkhal
+20                                 qazvin          qazvin             takestan          alvand             eqbaliyeh
+21                                    qom             qom             jamkaran         qanavat             jafariyeh
+22                                   yazd            yazd               meybod         ardakan                  bafq
+23                                 zanjan          zanjan                abhar    khorramdareh                 qidar
+24                                bushehr         bushehr             borazjan  bandar ganaveh               khormuj
+25            chahar mahaal and bakhtiari  shahr - e kord              borujen    farrokhshahr                farsan
+26                         north khorasan         bojnurd              shirvan       esfarayen         garmeh jajarm
+27  kohgiluyeh and boyer - ahmad province           yasuj           dogonbadan        dehdasht                 likak
+28                         south khorasan         birjand               ghayen         ferdows             nehbandan
+29                                 semnān        shahrood               semnan         damghan               garmsar
+30                                   ilam            ilam                eyvan        dehloran               abdanan

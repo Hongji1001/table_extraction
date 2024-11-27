@@ -1,0 +1,8 @@
+   channel                       channel name    callsign signal power broadcast area
+0        1       nhk general tv / nhk g (gtv)  joak - dtv        10 kw  greater tokyo
+1        2   nhk educational tv / nhk e (etv)  joab - dtv        10 kw      all kantō
+2        4  nippon television / nittele (ntv)  joax - dtv        10 kw      all kantō
+3        5         tv asahi / tele - asa (ex)  joex - dtv        10 kw      all kantō
+4        6                                tbs  jorx - dtv        10 kw      all kantō
+5        7             tv tokyo / teleto (tx)  jotx - dtv        10 kw      all kantō
+6        8               fuji television (cx)  jocx - dtv        10 kw      all kantō

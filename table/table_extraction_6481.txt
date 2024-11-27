@@ -1,0 +1,12 @@
+    pick           player                 team position                             school
+0     31       j p howell   kansas city royals      lhp      university of texas at austin
+1     32     zach jackson    toronto blue jays      lhp               texas a&m university
+2     33  justin orenduff  los angeles dodgers      rhp   virginia commonwealth university
+3     34    tyler lumsden    chicago white sox      lhp                 clemson university
+4     35         matt fox      minnesota twins      rhp      university of central florida
+5     36     danny putnam    oakland athletics       of                stanford university
+6     37     jon poterson     new york yankees        c          chandler high school (az)
+7     38     gio gonzalez    chicago white sox      lhp  monsignor edward pace high school
+8     39    jay rainville      minnesota twins      rhp      bishop hendricken high school
+9     40    huston street    oakland athletics      rhp      university of texas at austin
+10    41     jeff marquez     new york yankees      rhp            sacramento city college

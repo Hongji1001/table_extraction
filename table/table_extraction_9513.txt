@@ -1,0 +1,9 @@
+                        school      mascot      location  enrollment ihsaa class ihsaa football class       county
+0       indianapolis ben davis      giants  indianapolis    4892.000        aaaa                aaaaa    49 marion
+1                       carmel  greyhounds        carmel    4443.000        aaaa                aaaaa  29 hamilton
+2                 center grove     trojans     greenwood       2.366        aaaa                aaaaa   41 johnson
+3               lawrence north    wildcats      lawrence    2457.000        aaaa                aaaaa    49 marion
+4   indianapolis north central    panthers  indianapolis    3492.000        aaaa                aaaaa    49 marion
+5            terre haute north    patriots   terre haute    2083.000        aaaa                aaaaa      84 vigo
+6            terre haute south      braves   terre haute    1829.000        aaaa                aaaaa      84 vigo
+7  indianapolis warren central    warriors  indianapolis    3691.000        aaaa                aaaaa    49 marion

@@ -1,0 +1,16 @@
+                           team        location                                           home ground  first year in qld cup  last year in qld cup qld cup premierships
+0                aspley broncos        brisbane                                           bishop park                   2007                  2007                  nil
+1            brothers - valleys        brisbane                                      o'callaghan park                   2004                  2004                  nil
+2           bundaberg grizzlies       bundaberg                                           salter oval                   1996                  1998                  nil
+3               cairns cyclones          cairns                                           barlow park                   1996                  2000                  nil
+4                central capras     rockhampton                                           browne park                   1996                  1997                  nil
+5            gold coast vikings      gold coast                         owen park and carrara stadium                   1998                  1998                  nil
+6               logan scorpions      logan city                                           meakin park                   1996                  2002                  nil
+7             mackay sea eagles          mackay                     mackay junior rugby league ground                   1996                  1996                  nil
+8   north queensland young guns      townsville                                 dairy farmers stadium                   2002                  2007                 2005
+9                 past brothers        brisbane  corbett park , crosby park , lang park , anz stadium                   1996                  1998                  nil
+10          port moresby vipers    port moresby                                     lloyd robson oval                   1996                  1997                  nil
+11               souths magpies        brisbane                                           davies park                   1996                  2002                  nil
+12       sunshine coast falcons  sunshine coast                                             quad park                   1996                  1996                  nil
+13          townsville stingers      townsville     dairy farmers stadium , townsville sports reserve                   1998                  1998                  nil
+14        toowoomba clydesdales       toowoomba               athletic oval (clive berghofer stadium)                   1996                  2006          1996 , 2001

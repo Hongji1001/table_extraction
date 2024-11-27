@@ -1,0 +1,10 @@
+             region              date             label                format      catalog
+0             japan     may 14 , 2008  sony music japan  cd with bonus tracks     eicp 968
+1  united states uk     may 27 , 2008      epic records                    cd       706592
+2  united states uk     may 27 , 2008      epic records         paid download       706592
+3         argentina     may 27 , 2008          sony bmg                    cd       706592
+4           finland     may 28 , 2008                 -                     -            -
+5         australia     june 7 , 2008              epic                    cd  88697065922
+6         australia     june 7 , 2008              epic         paid download  88697065922
+7         indonesia  august 15 , 2008          sony bmg                    cd            -
+8         indonesia  august 15 , 2008          sony bmg              cassette            -

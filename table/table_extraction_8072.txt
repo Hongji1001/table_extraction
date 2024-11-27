@@ -1,0 +1,30 @@
+                                    name gender          area         authority  decile  roll
+0                 ascot community school   coed  invercargill             state       3   195
+1                         aurora college   coed  invercargill             state       2   349
+2                 bluff community school   coed         bluff             state       2   111
+3                 donovan primary school   coed  invercargill             state       5   290
+4               fernworth primary school   coed  invercargill             state       2   390
+5             invercargill middle school   coed  invercargill             state       3   148
+6                  james hargest college   coed  invercargill             state       8  1992
+7                        makarewa school   coed      makarewa             state       8   131
+8                     myross bush school   coed  invercargill             state      10   163
+9                      new river primary   coed           kew             state       2   174
+10                  newfield park school   coed  invercargill             state       2   292
+11                        otatara school   coed       otatara             state      10   288
+12                   ruru special school   coed  invercargill             state       4    67
+13                   sacred heart school   coed       waikiwi  state integrated       9   187
+14                        salford school   coed  invercargill             state       9   231
+15  southland adventist christian school   coed       waikiwi  state integrated       4    47
+16           southland boys' high school   boys  invercargill             state       5  1028
+17          southland girls' high school  girls  invercargill             state       5  1171
+18              st john 's girls' school  girls  invercargill  state integrated       8   125
+19                   st joseph 's school   coed  invercargill  state integrated       3    79
+20                  st patrick 's school   coed    georgetown  state integrated       3   247
+21                   st teresa 's school   coed         bluff  state integrated       3    34
+22                  st theresa 's school   coed  invercargill  state integrated       8   286
+23              te wharekura o arowhenua   coed  invercargill             state       2    85
+24                        tisbury school   coed  invercargill             state       4   108
+25                        verdon college   coed  invercargill  state integrated       5   575
+26                       waihopai school   coed  invercargill             state       9   318
+27                  waverley park school   coed  invercargill             state       5   235
+28                  windsor north school   coed       windsor             state       8   279

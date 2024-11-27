@@ -1,0 +1,8 @@
+        block  launched  operational  not usable  retired  launch failures
+0     block i        11            0           0       10                1
+1    block ii         9            0           0        9                0
+2   block iia        19            8           1       10                0
+3   block iir        13           12           0        0                1
+4  block iirm         8            7           0        1                0
+5   block iif         4            4           0        0                0
+6       total        64           31           1       30                2

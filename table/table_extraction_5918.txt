@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0                damon hill      williams - renault    69    1:36:03.465     1
+1        jacques villeneuve      williams - renault    69        + 4.183     2
+2                jean alesi      benetton - renault    69       + 54.656     4
+3           david coulthard      mclaren - mercedes    69     + 1:03.673    10
+4            mika hã¤kkinen      mclaren - mercedes    68        + 1 lap     6
+5            martin brundle        jordan - peugeot    68        + 1 lap     9
+6            johnny herbert           sauber - ford    68        + 1 lap    15
+7      giancarlo fisichella          minardi - ford    67       + 2 laps    16
+8                pedro lamy          minardi - ford    44      collision    19
+9               luca badoer            forti - ford    44        gearbox    20
+10           gerhard berger      benetton - renault    42       spun off     7
+11       michael schumacher                 ferrari    41      halfshaft     3
+12            olivier panis  ligier - mugen - honda    39         engine    11
+13                mika salo        tyrrell - yamaha    39         engine    14
+14              pedro diniz  ligier - mugen - honda    38         engine    18
+15       rubens barrichello        jordan - peugeot    22         clutch     8
+16        andrea montermini            forti - ford    22     electrical    22
+17  heinz - harald frentzen           sauber - ford    19        gearbox    12
+18           jos verstappen         footwork - hart    10         engine    13
+19           ricardo rosset         footwork - hart     6      collision    21
+20            ukyo katayama        tyrrell - yamaha     6      collision    17
+21             eddie irvine                 ferrari     1     suspension     5

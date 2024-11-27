@@ -1,0 +1,10 @@
+  constituency number           name reserved for ( sc / st / none)  district  number of electorates (2009)
+0                  14  gwalior rural                           none   gwalior                        165543
+1                  15        gwalior                           none   gwalior                        208294
+2                  16   gwalior east                           none   gwalior                        202849
+3                  17  gwalior south                           none   gwalior                        184465
+4                  18      bhitarwar                           none   gwalior                        172171
+5                  19          dabra                             sc   gwalior                        159077
+6                  23         karera                             sc  shivpuri                        169759
+7                  24         pohari                           none  shivpuri                        158217
+8             total :        total :                        total :   total :                       1420375

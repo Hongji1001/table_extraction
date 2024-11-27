@@ -1,0 +1,17 @@
+    year            song title              movie  music director              co - singers
+0   1997            sasivadane             iddaru      a r rahman             unni krishnan
+1   2001              manohara              cheli  harris jayaraj                      solo
+2   2002  tiya tiyani kalalanu            sreeram     r p patnaik                      solo
+3   2005  hrudayam ekkadunnadi            ghajini  harris jayaraj        harish raghavendra
+4   2005      aamani koyilanai          premikulu    sajan madhav                      solo
+5   2006      vere maina anani     amma cheppindi   m m keeravani                      solo
+6   2006         yentho dooram     amma cheppindi   m m keeravani                      solo
+7   2006       ulike o chilake          jalakanta  harris jayaraj                   karthik
+8   2007                 banam           raghavan  harris jayaraj        harish raghavendra
+9   2008    anti pettukundhuna            16 days          dharan                haricharan
+10  2008           enduko madi  nenu meeku telusa            achu               hemachandra
+11  2008       muddula muddula             salute  harris jayaraj  balram , sunitha sarathy
+12  2009    eenaadu ee samaram            eeenadu  shruthi hassan              kamal haasan
+13  2011          ee manchullo             rangam  harris jayaraj      sriram parthasarathy
+14  2012             vennelave          thuppakki  harris jayaraj                 hariharan
+15  2013           kamalaasana   intinta annamaya   m m keeravani                      solo

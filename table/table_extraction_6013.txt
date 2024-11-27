@@ -1,0 +1,46 @@
+                           name  election year                        party               birth state       resident state
+0   charles cotesworth pinckney           1804                   federalist       lost south carolina  lost south carolina
+1   charles cotesworth pinckney           1808                   federalist       lost south carolina  lost south carolina
+2                    rufus king           1816                   federalist         won massachusetts        lost new york
+3                    henry clay           1824      democratic - republican             lost virginia         won kentucky
+4                    henry clay           1832          national republican             lost virginia         won kentucky
+5                  william wirt           1832               anti - masonic             lost maryland        lost maryland
+6        william henry harrison           1836                         whig             lost virginia             won ohio
+7             hugh lawson white           1836                         whig       lost north carolina        won tennessee
+8                daniel webster           1836                         whig        lost new hampshire    won massachusetts
+9          willie person mangum           1836                         whig       lost north carolina  lost north carolina
+10             martin van buren           1840                     democrat             lost new york        lost new york
+11                   henry clay           1844                         whig             lost virginia         won kentucky
+12               winfield scott           1852                         whig             lost virginia      lost new jersey
+13               john c frãmont           1856                   republican              lost georgia      lost california
+14             millard fillmore           1856               know - nothing             lost new york        lost new york
+15            stephen a douglas           1860                     democrat              lost vermont        lost illinois
+16          john c breckinridge           1860            southern democrat             lost kentucky        lost kentucky
+17           george b mcclellan           1864                     democrat         lost pennsylvania       won new jersey
+18               horace greeley           1872  liberal republican democrat        lost new hampshire        lost new york
+19       winfield scott hancock           1880                     democrat         lost pennsylvania    lost pennsylvania
+20             grover cleveland           1888                     democrat            won new jersey        lost new york
+21            benjamin harrison           1892                   republican                  won ohio         lost indiana
+22               james b weaver           1892                     populist                 lost ohio            lost iowa
+23       william jennings bryan           1896          democrat - populist             lost illinois         won nebraska
+24       william jennings bryan           1900          democrat - populist             lost illinois        lost nebraska
+25               alton b parker           1904                     democrat             lost new york        lost new york
+26       william jennings bryan           1908                     democrat             lost illinois         won nebraska
+27           theodore roosevelt           1912                  progressive             lost new york        lost new york
+28          william howard taft           1912                   republican                 lost ohio            lost ohio
+29                  james m cox           1920                     democrat                 lost ohio            lost ohio
+30                 john w davis           1924                     democrat        lost west virginia        lost new york
+31                     al smith           1928                     democrat             lost new york        lost new york
+32               herbert hoover           1932                   republican                 lost iowa      lost california
+33                   alf landon           1936                   republican         lost pennsylvania          lost kansas
+34               thomas e dewey           1944                   republican             lost michigan        lost new york
+35              adlai stevenson           1952                     democrat           lost california        lost illinois
+36              adlai stevenson           1956                     democrat           lost california        lost illinois
+37              hubert humphrey           1968                     democrat         lost south dakota        won minnesota
+38              george mcgovern           1972                     democrat         lost south dakota    lost south dakota
+39                  gerald ford           1976                   republican              won nebraska         won michigan
+40              george h w bush           1992                   republican        lost massachusetts            won texas
+41                      al gore           2000                     democrat  won district of columbia       lost tennessee
+42                   john kerry           2004                     democrat             lost colorado    won massachusetts
+43                  john mccain           2008                   republican                     n / a          won arizona
+44                  mitt romney           2012                   republican             lost michigan   lost massachusetts

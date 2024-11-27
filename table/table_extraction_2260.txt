@@ -1,0 +1,26 @@
+   year (ceremony)                          english title              portuguese title              director         result
+0     1980: (53rd)                       morning undersea                manhã submersa         lauro antónio  not nominated
+1     1982: (55th)                              francisca                     francisca    manoel de oliveira  not nominated
+2     1983: (56th)                        no trace of sin          sem sombra de pecado  josé fonseca e costa  not nominated
+3     1988: (61st)                             hard times               tempos difíceis          joão botelho  not nominated
+4     1989: (62nd)                          the cannibals                   os canibais    manoel de oliveira  not nominated
+5     1990: (63rd)                      the king 's trial             o processo do rei      joão mário grilo  not nominated
+6     1991: (64th)                               o sangue                      o sangue           pedro costa  not nominated
+7     1992: (65th)                         day of despair            o dia do desespero    manoel de oliveira  not nominated
+8     1993: (66th)                      abraham 's valley                   vale abraão    manoel de oliveira  not nominated
+9     1994: (67th)                       three palm trees                três palmeiras          joão botelho  not nominated
+10    1995: (68th)                          god 's comedy              a divina comédia    manoel de oliveira  not nominated
+11    1997: (70th)  journey to the beginning of the world  viagem ao princípio do mundo    manoel de oliveira  not nominated
+12    1998: (71st)                                anxiety                    inquietude    manoel de oliveira  not nominated
+13    1999: (72nd)                            the mutants                   os mutantes     teresa villaverde  not nominated
+14    2000: (73rd)                               too late                  tarde demais       josé nascimento  not nominated
+15    2001: (74th)                               camarate                      camarate     luís filipe rocha  not nominated
+16    2003: (76th)                      a talking picture               um filme falado    manoel de oliveira  not nominated
+17    2004: (77th)        the miracle according to salomé      o milagre segundo salomé         mário barroso  not nominated
+18    2005: (78th)                           noite escura                  noite escura           joão canijo  not nominated
+19    2006: (79th)                                  alice                         alice         marco martins  not nominated
+20    2007: (80th)                         belle toujours                belle toujours    manoel de oliveira  not nominated
+21    2008: (81st)            our beloved month of august  aquele querido mês de agosto          miguel gomes  not nominated
+22    2009: (82nd)                            doomed love           um amor de perdição         mário barroso  not nominated
+23    2010: (83rd)                      to die like a man          morrer como um homem  joão pedro rodrigues  not nominated
+24    2012: (85th)                      blood of my blood          sangue do meu sangue           joão canijo  not nominated

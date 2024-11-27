@@ -1,0 +1,22 @@
+         city    country     region iata  icao                                   airport
+0     changde      china  east asia  cgd  zgcd                           changde airport
+1    changsha      china  east asia  csx  zgha   changsha huanghua international airport
+2   chongqing      china  east asia  ckg  zuck  chongqing jiangbei international airport
+3      dalian      china  east asia  dlc  zytl   dalian zhoushuizi international airport
+4   guangzhou      china  east asia  can  zggg    guangzhou baiyun international airport
+5      guilin      china  east asia  kwl  zgkl   guilin liangjiang international airport
+6      haikou      china  east asia  hak  zjhk       haikou meilan international airport
+7    hangzhou      china  east asia  hgh  zshc   hangzhou xiaoshan international airport
+8   hong kong  hong kong  east asia  hkg  vhhh           hong kong international airport
+9       macau      macau  east asia  mfm  vmmc               macau international airport
+10    nanjing      china  east asia  nkg  zsnj       nanjing lukou international airport
+11    qingdao      china  east asia  tao  zsqd     qingdao liuting international airport
+12      sanya      china  east asia  syx  zgsy       sanya phoenix international airport
+13   shanghai      china  east asia  sha  zsss   shanghai hongqiao international airport
+14   shenyang      china  east asia  she  zytx    shenyang taoxian international airport
+15   shenzhen      china  east asia  szx  zgsz     shenzhen bao'an international airport
+16    tianjin      china  east asia  tsn  zbtj      tianjin binhai international airport
+17      wuhan      china  east asia  wuh  zhhh        wuhan tianhe international airport
+18      xi'an      china  east asia  xiy  zlxy      xi'an xianyang international airport
+19     xiamen      china  east asia  xmn  zsam        xiamen gaoqi international airport
+20  zhengzhou      china  east asia  cgo  zhcc  zhengzhou xinzheng international airport

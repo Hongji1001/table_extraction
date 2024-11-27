@@ -1,0 +1,6 @@
+           series 1          series 2          series 3          series 5          series 9         series 11
+0       peter jones       peter jones       peter jones       peter jones       peter jones       peter jones
+1   simon woodroffe     theo paphitis     theo paphitis     theo paphitis     theo paphitis      piers linney
+2     doug richards     doug richards    deborah meaden    deborah meaden    deborah meaden    deborah meaden
+3  duncan bannatyne  duncan bannatyne  duncan bannatyne  duncan bannatyne  duncan bannatyne  duncan bannatyne
+4    rachel elnaugh    rachel elnaugh  richard farleigh        james caan      hilary devey      kelly hoppen

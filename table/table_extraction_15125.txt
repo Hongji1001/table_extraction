@@ -1,0 +1,6 @@
+        goalkeeper  goals  matches  average         team
+0   dani hernández     21       38     0.55    real jaén
+1     álvaro núñez     19       29     0.66  guadalajara
+2  alejandro avila     33       37     0.89     marbella
+3  joaquín valerio     30       32     0.94   poli ejido
+4      noé calleja     36       38     0.95  puertollano

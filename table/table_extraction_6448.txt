@@ -1,0 +1,17 @@
+                  driver      constructor  laps time / retired  grid
+0         clay regazzoni          ferrari    60     1:01:25.34     3
+1      patrick depailler   tyrrell - ford    60      + 0:08.35     5
+2            jochen mass   mclaren - ford    60      + 0:15.44     4
+3        ronnie peterson     lotus - ford    60      + 0:40.14    10
+4            john watson   surtees - ford    60      + 0:45.55     6
+5            carlos pace   brabham - ford    60      + 0:45.90     7
+6              tom pryce    shadow - ford    60      + 0:46.66     8
+7             james hunt   hesketh - ford    59        + 1 lap    11
+8             chris amon    ensign - ford    59        + 1 lap     9
+9        jacques laffite  williams - ford    59        + 1 lap    13
+10    vittorio brambilla     march - ford    58       + 2 laps    12
+11        rolf stommelen      hill - ford    58       + 2 laps    14
+12          tony trimmer      maki - ford    54       + 6 laps    16
+13         jo vonlanthen  williams - ford    51       + 9 laps    15
+14  jean - pierre jarier    shadow - ford    33   transmission     1
+15    emerson fittipaldi   mclaren - ford     6         clutch     2

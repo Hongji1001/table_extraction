@@ -1,0 +1,30 @@
+    year manufacturer start finish            team
+0   1961     chrysler    28     40      buck baker
+1   1962     chrysler    15     29      buck baker
+2   1964     plymouth    42     29    david walker
+3   1965        dodge    18     40      buck baker
+4   1966    chevrolet    36     32      buck baker
+5   1967        dodge     9     28             fox
+6   1968        dodge    13     30             fox
+7   1969        dodge     1      5             fox
+8   1970        dodge     2     27           owens
+9   1971        dodge     6      2           petty
+10  1972        dodge    31     34           petty
+11  1973        dodge     1      6       krauskopf
+12  1975         ford    13     20           moore
+13  1976         ford     5     33           moore
+14  1977         ford     8      3           moore
+15  1978   oldsmobile    31      7        anderson
+16  1979   oldsmobile     1     40          ranier
+17  1980   oldsmobile     1      1          ranier
+18  1981   oldsmobile     6      4       ellington
+19  1982        buick     4      8       ellington
+20  1983         ford     5      3            wood
+21  1984         ford     5     38            wood
+22  1985   oldsmobile     7      4  baker / schiff
+23  1986   oldsmobile    17     26  baker / schiff
+24  1987   oldsmobile     7      4  baker / schiff
+25  1988   oldsmobile    18      9  baker / schiff
+26  1991      pontiac    16     37       osterlund
+27  1992   oldsmobile    24     11    derick close
+28  1994         ford   dnq    dnq          moroso

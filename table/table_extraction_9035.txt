@@ -1,0 +1,8 @@
+          date        visiting team final score           host team                      stadium
+0  november 11  san francisco 49ers      24 - 6      dallas cowboys                texas stadium
+1  november 18  pittsburgh steelers      3 - 27  cincinnati bengals           riverfront stadium
+2  november 25     seattle seahawks     13 - 10  san diego chargers          jack murphy stadium
+3   december 2    green bay packers      7 - 23   minnesota vikings  hubert h humphrey metrodome
+4   december 9  philadelphia eagles     20 - 23      miami dolphins           joe robbie stadium
+5  december 16        chicago bears     21 - 38       detroit lions           pontiac silverdome
+6  december 30  pittsburgh steelers     14 - 34      houston oilers                    astrodome

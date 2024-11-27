@@ -1,0 +1,9 @@
+  opposing teams  against            date                         venue       status
+0          wales       11  05 / 02 / 2005  millennium stadium , cardiff  six nations
+1         france       18  13 / 02 / 2005           twickenham , london  six nations
+2        ireland       19  27 / 02 / 2005       lansdowne road , dublin  six nations
+3          italy        7  12 / 03 / 2005           twickenham , london  six nations
+4       scotland       22  19 / 03 / 2005           twickenham , london  six nations
+5      australia       16  12 / 11 / 2005           twickenham , london   test match
+6    new zealand       23  19 / 11 / 2005           twickenham , london   test match
+7          samoa        3  26 / 11 / 2005           twickenham , london   test match

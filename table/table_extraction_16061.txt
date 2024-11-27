@@ -1,0 +1,9 @@
+   round  pick            player nationality         college / junior / club team
+0      1    10  chris oddleifson      canada               winnipeg jets ( wchl )
+1      2    19  pete laframboise      canada                 ottawa 67 's ( oha )
+2      3    33        randy rota      canada         calgary centennials ( wchl )
+3      4    47     ted mcaneeley      canada          edmonton oil kings ( wchl )
+4      5    61         ray gibbs      canada               charlottetown (senior)
+5      6    75        doug moyes      canada          sorel black hawks ( qmjhl )
+6      7    88      terry murray      canada                 ottawa 67 's ( oha )
+7      8   100        alan henry      canada  university of north dakota ( ncaa )

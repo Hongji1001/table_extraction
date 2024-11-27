@@ -1,0 +1,12 @@
+    round  pick                player        position school / club team
+0       2    38        cotton speyrer   wide receiver              texas
+1       6   141         conway hayman           guard           delaware
+2       7   166        willie germany  defensive back       morgan state
+3       9   219          mike fanucci   defensive end      arizona state
+4      10   244          jesse taylor    running back         cincinnati
+5      11   272         george starke          tackle           columbia
+6      12   297         jeff severson  defensive back   cal - long beach
+7      13   322            dan ryczek          center           virginia
+8      14   349            bill bynum     quarterback    west new mexico
+9      15   375  anthony christnovich           guard    la crosse (wis)
+10     16   400          glenn tucker      linebacker        north texas

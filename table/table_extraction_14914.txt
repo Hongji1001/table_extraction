@@ -1,0 +1,22 @@
+                       station name                  opening year                  municipality             park and ride lot                free fare zone
+0                      station name                  opening year                  municipality             park and ride lot                free fare zone
+1          northwestern end of line      northwestern end of line      northwestern end of line      northwestern end of line      northwestern end of line
+2                           airport                          2013                salt lake city                            no                            no
+3               1940 w north temple                          2013                salt lake city                            no                            no
+4                             power                          2013                salt lake city                            no                            no
+5                          fairpark                          2013                salt lake city                        coming                            no
+6                  jackson / euclid                          2013                salt lake city                            no                            no
+7   north temple bridge / guadalupe                          2013                salt lake city                          soon                            no
+8                             arena                          1999                salt lake city                            no                           yes
+9                     temple square                          1999                salt lake city                            no                           yes
+10                      city center                          1999                salt lake city                            no                           yes
+11                   gallivan plaza                          1999                salt lake city                            no                           yes
+12                       courthouse                          1999                salt lake city                            no                           yes
+13                        900 south                          2005                salt lake city                            no                            no
+14                         ballpark                          1999                salt lake city                           yes                            no
+15                   central pointe                          1999               south salt lake                           yes                            no
+16                      river trail                          2011              west valley city                            no                            no
+17                 redwood junction                          2011              west valley city                            no                            no
+18                      decker lake                          2011              west valley city                           yes                            no
+19              west valley central                          2011              west valley city                           yes                            no
+20     southwestern end of the line  southwestern end of the line  southwestern end of the line  southwestern end of the line  southwestern end of the line

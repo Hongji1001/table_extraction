@@ -1,0 +1,6 @@
+                 team  played  drawn  lost  points
+0  lahore lajpaals fc       8      1     1      19
+1      quetta zorawar       8      2     1      17
+2     karachi bazigar       8      2     2      14
+3    islamabad united       8      2     5       5
+4   tribe fc peshawar       8      2     6       2

@@ -1,0 +1,31 @@
+                                     team manufacturer       car model               engine                   driver
+0                                 kerrick         saab           9 - 3     chevrolet 6.0 v8              dean randle
+1        hercules engineering mack trucks       nissan           300zx     chevrolet 6.0 v8           stephen voight
+2                             audi spares         audi              a4     chevrolet 6.0 v8           darren hossack
+3                        b&m ricciardello   alfa romeo     alfetta gtv     chevrolet 6.0 v8        tony ricciardello
+4                     b&v auto techniques         ford     escort mkii     chevrolet 6.0 v8          mick monterosso
+5                   domain prestige homes         opel         calibra     chevrolet 6.0 v8            daniel tamasi
+6               p & l mechanical services        mazda          rx - 7            mazda 13b         graeme gilliland
+7                       roddy jag service       jaguar             xjs       jaguar 6.0 v12  jordan roddy mike roddy
+8                            interleasing         saab           9 - 3     chevrolet 6.0 v8              mark nelson
+9            qld commercial constructions        honda         prelude     chevrolet 6.0 v8           charlie senese
+10                       speedy fasteners         opel         calibra    ford 2.0 v6 turbo             graham smith
+11  marinelli 's mechanical & performance         ford          anglia      mazda 13b turbo           luke marinelli
+12  marinelli 's mechanical & performance       holden    commodore vs     chevrolet 6.0 v8           bob mcloughlin
+13    kings fibreglass harrop engineering       holden       torana lj        holden 3.3 i6           damian johnson
+14              rds - wall racing pty ltd    chevrolet  corvette c - 6     chevrolet 6.0 v8                 des wall
+15                          datafin p / l         ford         mustang          ford 6.0 v8            phil crompton
+16                       airey industrial       nissan           300zx     chevrolet 6.0 v8              kerry baily
+17               national metal recyclers    chevrolet          camaro     chevrolet 6.0 v8             geoff munday
+18                  rk & t young plumbing        mazda          rx - 7      mazda 20b turbo              trent young
+19                 aston air conditioning         ford       falcon eb          ford 5.8 v8           shane bradford
+20                          mr automotive        rover         vitesse     chevrolet 6.0 v8              colin smith
+21           cambelltown frames & trusses       jaguar             xkr     chevrolet 6.0 v8           daniel jameson
+22                         dave mcginniss         opel         calibra     chevrolet 6.0 v8           dave mcginniss
+23            executive heating & cooling        mazda          rx - 7            mazda 20b            luke chambers
+24        csj engineering steves toy shop         opel         calibra     chevrolet 6.0 v8            chris jackson
+25                      five star fencing        honda         prelude     chevrolet 6.0 v8                dean camm
+26                     quality concreting        mazda          rx - 7  nissan 2.0 i4 turbo              bobby ervin
+27                    austrack motorsport       holden    commodore vx     chevrolet 6.0 v8               fred axisa
+28                        amg engineering        rover         vitesse     chevrolet 6.0 v8         anthony macready
+29                    whiteline transport    chevrolet          camaro     chevrolet 6.0 v8            chris templar

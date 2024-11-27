@@ -1,0 +1,25 @@
+    year                award                                           category                           nominee     result
+0   1985           tony award                                       best musical                      best musical        won
+1   1985           tony award                             best book of a musical                  william hauptman        won
+2   1985           tony award                                best original score                      roger miller        won
+3   1985           tony award  best performance by a featured actor in a musical                    ron richardson        won
+4   1985           tony award  best performance by a featured actor in a musical                  daniel h jenkins  nominated
+5   1985           tony award  best performance by a featured actor in a musical                  rené auberjonois  nominated
+6   1985           tony award                        best direction of a musical                       des mcanuff        won
+7   1985           tony award                                 best scenic design                   heidi landesman        won
+8   1985           tony award                                best costume design                 patricia mcgourty  nominated
+9   1985           tony award                               best lighting design                   richard riddell        won
+10  1985     drama desk award                     outstanding actor in a musical                    ron richardson        won
+11  1985     drama desk award                     outstanding actor in a musical                  daniel h jenkins  nominated
+12  1985     drama desk award            outstanding featured actor in a musical                  rené auberjonois        won
+13  1985     drama desk award            outstanding featured actor in a musical                        john short  nominated
+14  1985     drama desk award            outstanding featured actor in a musical                        bob gunton  nominated
+15  1985     drama desk award            outstanding featured actor in a musical                      john goodman  nominated
+16  1985     drama desk award          outstanding featured actress in a musical                    patti cohenour  nominated
+17  1985     drama desk award                         outstanding orchestrations  steven margoshes and danny troob        won
+18  1985     drama desk award                                 outstanding lyrics                      roger miller        won
+19  1985     drama desk award                                  outstanding music                      roger miller        won
+20  1985     drama desk award                             outstanding set design                   heidi landesman        won
+21  1985     drama desk award                         outstanding costume design                 patricia mcgourty        won
+22  1985     drama desk award                        outstanding lighting design                   richard riddell        won
+23  1985  theatre world award                                theatre world award                    patti cohenour        won

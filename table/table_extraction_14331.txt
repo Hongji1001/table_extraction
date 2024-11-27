@@ -1,0 +1,15 @@
+            name / generation        model  frequency  architecture version  cores  process
+0   godson - 1 (embedded cpu)            1        266                mips32      1      180
+1   godson - 1 (embedded cpu)           1a        300                mips32      1      130
+2   godson - 1 (embedded cpu)           1b        200                mips32      1      130
+3     godson - 2 (singlecore)           2b        250   mips - iii 64 - bit      1      180
+4     godson - 2 (singlecore)           2c        450   mips - iii 64 - bit      1      180
+5     godson - 2 (singlecore)       stls2e       1000   mips - iii 64 - bit      1       90
+6     godson - 2 (singlecore)       stls2f       1200   mips - iii 64 - bit      1       90
+7     godson - 2 (singlecore)         l2 g    9001000                mips64      1       65
+8     godson - 2 (singlecore)          l2h       1000                mips64      1       65
+9      godson - 3 (multicore)  l3a / l2 gq       1000                mips64      4       65
+10     godson - 3 (multicore)          l3b       1050                mips64      8       65
+11     godson - 3 (multicore)          l3c     1500 +                mips64     16       28
+12      godson - t (manycore)   godson - t       1000                mips32     64       28
+13          name / generation        model  frequency  architecture version  cores  process

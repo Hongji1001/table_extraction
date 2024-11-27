@@ -1,0 +1,13 @@
+              land formation  area , km square  of which currently forests , km square % forests   habitat type
+0   northern moldavian hills              4630                                     476     10.3%  forest steppe
+1      dniester - rāut ridge              2480                                     363     14.6%  forest steppe
+2         middle prut valley              2930                                     312     10.6%  forest steppe
+3               bălţi steppe              1920                                      51      2.7%         steppe
+4     ciuluc - soloneţ hills              1690                                     169     10.0%  forest steppe
+5     corneşti hills (codru)              4740                                    1300     27.5%         forest
+6       lower dniester hills              3040                                     371     12.2%  forest steppe
+7          lower prut valley              1810                                     144      8.0%  forest steppe
+8              tigheci hills              3550                                     533     15.0%  forest steppe
+9               bugeac plain              3210                                     195      6.1%         steppe
+10  part of podolian plateau              1920                                     175      9.1%  forest steppe
+11   part of eurasian steppe              1920                                     140      7.3%         steppe

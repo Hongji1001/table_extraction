@@ -1,0 +1,24 @@
+                 driver           constructor  laps   time / retired  grid
+0         stirling moss        lotus - climax    75        2:28:52.2     1
+1         innes ireland        lotus - climax    75           + 38.0     7
+2         bruce mclaren       cooper - climax    75           + 52.0    10
+3          jack brabham       cooper - climax    74          + 1 lap     2
+4            jo bonnier                   brm    74          + 1 lap     4
+5             phil hill       cooper - climax    74          + 1 lap    13
+6              jim hall        lotus - climax    73          + 1 lap    12
+7         roy salvadori       cooper - climax    73         + 2 laps    15
+8    wolfgang von trips     cooper - maserati    72         + 3 laps    16
+9           chuck daigh                scarab    70         + 5 laps    18
+10          pete lovely  cooper - castellotti    69         + 6 laps    20
+11    olivier gendebien       cooper - climax    69         + 6 laps     8
+12         robert drake              maserati    68         + 7 laps    22
+13         henry taylor       cooper - climax    68         + 7 laps    14
+14  maurice trintignant     cooper - maserati    66         + 9 laps    19
+15            jim clark        lotus - climax    61        + 14 laps     5
+16          graham hill                   brm    34          gearbox    11
+17          ian burgess     cooper - maserati    29         ignition    23
+18         brian naylor     cooper - maserati    20           engine    17
+19           dan gurney                   brm    18  blown core plug     3
+20        ron flockhart       cooper - climax    11     transmission    21
+21          tony brooks       cooper - climax     6         spun off     9
+22         john surtees        lotus - climax     3         accident     6

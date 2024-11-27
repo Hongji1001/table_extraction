@@ -1,0 +1,18 @@
+    week            date              opponent          result                    game site  kickoff  attendance
+0      1  2002 - 09 - 08         buffalo bills  w 37 - 31 (ot)         ralph wilson stadium  1:00 pm     72751.0
+1      2  2002 - 09 - 15  new england patriots        l 44 - 7              the meadowlands  1:00 pm     78726.0
+2      3  2002 - 09 - 22        miami dolphins        l 30 - 3           pro player stadium  1:00 pm     73426.0
+3      4  2002 - 09 - 29  jacksonville jaguars        l 28 - 3               alltel stadium  1:00 pm     55670.0
+4      5  2002 - 10 - 06    kansas city chiefs       l 29 - 25              the meadowlands  4:15 pm     78149.0
+5      6               -                     -               -                            -        -         NaN
+6      7  2002 - 10 - 20     minnesota vikings        w 20 - 7              the meadowlands  1:00 pm     78516.0
+7      8  2002 - 10 - 27      cleveland browns       l 24 - 21              the meadowlands  1:00 pm     78502.0
+8      9  2002 - 11 - 03    san diego chargers       w 44 - 13             qualcomm stadium  4:15 pm     59772.0
+9     10  2002 - 11 - 10        miami dolphins       w 13 - 10              the meadowlands  8:30 pm     78920.0
+10    11  2002 - 11 - 17         detroit lions       w 31 - 14                   ford field  4:15 pm     61720.0
+11    12  2002 - 11 - 24         buffalo bills       w 31 - 13              the meadowlands  1:00 pm     78745.0
+12    13  2002 - 12 - 02       oakland raiders       l 26 - 20  network associates coliseum  9:00 pm     62257.0
+13    14  2002 - 12 - 08        denver broncos       w 19 - 13              the meadowlands  4:15 pm     78521.0
+14    15  2002 - 12 - 15         chicago bears       l 20 - 13             memorial stadium  1:00 pm     62226.0
+15    16  2002 - 12 - 22  new england patriots       w 30 - 17             gillette stadium  8:30 pm     68436.0
+16    17  2002 - 12 - 29     green bay packers       w 42 - 17              the meadowlands  4:15 pm     78733.0

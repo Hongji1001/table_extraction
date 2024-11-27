@@ -1,0 +1,7 @@
+   year                 competition                  venue     position            event
+0  2005  european u23 championships       erfurt , germany          2nd  4 x 400 m relay
+1  2006          commonwealth games  melbourne , australia          4th  4 x 400 m relay
+2  2007         world championships          osaka , japan  4th (heats)            400 m
+3  2007         world championships          osaka , japan          6th  4 x 400 m relay
+4  2008               olympic games        beijing , china  8th (semis)            400 m
+5  2008               olympic games        beijing , china          4th  4 x 400 m relay

@@ -1,0 +1,17 @@
+                          name  years gender      area         authority  decile  roll
+0         conifer grove school  1 - 8   coed  takanini             state       7   526
+1              cosgrove school  1 - 6   coed  papakura             state       2   606
+2                 drury school  1 - 8   coed     drury             state       8   423
+3        edmund hillary school  1 - 8   coed  papakura             state       1   146
+4     hingaia peninsula school  1 - 8   coed    karaka             state       9    91
+5           kelvin road school  1 - 6   coed  papakura             state       1   459
+6           kereru park campus  1 - 8   coed  papakura             state       1    76
+7        mansell senior school  7 - 8   coed  papakura             state       1   149
+8               opaheke school  1 - 8   coed  papakura             state       5   605
+9      papakura central school  1 - 6   coed  papakura             state       5   347
+10      papakura normal school  1 - 8   coed  papakura             state       3   651
+11          park estate school  1 - 6   coed  papakura             state       1   112
+12              redhill school  1 - 8   coed  papakura             state       1   199
+13       rosehill intermediate  7 - 8   coed  papakura             state       4   368
+14  st mary 's catholic school  1 - 8   coed  papakura  state integrated       4   281
+15             takanini school  1 - 8   coed  takanini             state       1   442

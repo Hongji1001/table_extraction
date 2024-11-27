@@ -1,0 +1,11 @@
+  place              player        country          score to par
+0     1         tim simpson  united states  66 + 69 = 135    - 9
+1     2         jeff sluman  united states  66 + 70 = 136    - 8
+2     3         mike donald  united states  67 + 70 = 137    - 7
+3     4         mark brooks  united states  68 + 70 = 138    - 6
+4    t5          hale irwin  united states  69 + 70 = 139    - 5
+5    t5       scott simpson  united states  66 + 73 = 139    - 5
+6    t7     billy ray brown  united states  69 + 71 = 140    - 4
+7    t7  jim gallagher , jr  united states  71 + 69 = 140    - 4
+8    t7         john huston  united states  68 + 72 = 140    - 4
+9    t7         ian woosnam          wales  70 + 70 = 140    - 4

@@ -1,0 +1,10 @@
+          card       weight class  round  time                 method
+0  preliminary       welterweight      3  5:00       decision (split)
+1  preliminary  light heavyweight      3  5:00       decision (split)
+2  preliminary        lightweight      3  5:00   decision (unanimous)
+3  preliminary       welterweight      3  5:00   decision (unanimous)
+4         main        lightweight      3  5:00       decision (split)
+5         main       welterweight      3  5:00             no contest
+6         main  light heavyweight      3  5:00   decision (unanimous)
+7         main  light heavyweight      1  4:59             ko (punch)
+8         main       welterweight      4  5:00  tko (doctor stoppage)

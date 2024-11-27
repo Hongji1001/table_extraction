@@ -1,0 +1,8 @@
+                     cartridge bullet weight muzzle velocity muzzle energy       source
+0                  .375 dakota        gr (g)  ft / s (m / s)    ft lbf (j)  dakota arms
+1                  .375 dakota        gr (g)  ft / s (m / s)    ft lbf (j)  dakota arms
+2              .375 h&h magnum        gr (g)  ft / s (m / s)    ft lbf (j)      hornady
+3  .375 remington ultra magnum        gr (g)  ft / s (m / s)    ft lbf (j)    remington
+4                   .375 ruger        gr (g)  ft / s (m / s)    ft lbf (j)      hornady
+5              .375 winchester        gr (g)  ft / s (m / s)    ft lbf (j)   winchester
+6        .375 weatherby magnum        gr (g)  ft / s (m / s)    ft lbf (j)    weatherby

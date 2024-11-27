@@ -1,0 +1,7 @@
+                   ceremony               award             category                name    outcome
+0         2010 vijay awards         vijay award        best comedian           santhanam        won
+1         2010 vijay awards         vijay award  best music director  yuvan shankar raja  nominated
+2         2010 vijay awards         vijay award        best lyricist       na muthukumar        won
+3         2010 vijay awards         vijay award   best debut actress      anuya bhagvath  nominated
+4  2010 mirchi music awards  mirchi music award  film music composer  yuvan shankar raja        won
+5  2010 mirchi music awards  mirchi music award        film lyricist       na muthukumar        won

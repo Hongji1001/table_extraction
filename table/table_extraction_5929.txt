@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0            gerhard berger     benetton - renault    45    1:20:59.046     1
+1        michael schumacher                ferrari    45       + 17.527     4
+2            mika hã¤kkinen     mclaren - mercedes    45       + 24.770     3
+3              jarno trulli  prost - mugen - honda    45       + 27.165    11
+4           ralf schumacher       jordan - peugeot    45       + 29.995     7
+5                jean alesi     benetton - renault    45       + 34.717     6
+6             shinji nakano  prost - mugen - honda    45     + 1:19.722    17
+7                damon hill        arrows - yamaha    44        + 1 lap    13
+8          norberto fontana      sauber - petronas    44        + 1 lap    18
+9            jos verstappen         tyrrell - ford    44        + 1 lap    20
+10     giancarlo fisichella       jordan - peugeot    40       radiator     2
+11       rubens barrichello         stewart - ford    33         engine    12
+12                mika salo         tyrrell - ford    33         clutch    19
+13       jacques villeneuve     williams - renault    33       spun off     9
+14            jan magnussen         stewart - ford    27         engine    15
+15            ukyo katayama         minardi - hart    23    out of fuel    22
+16           johnny herbert      sauber - petronas     8      collision    14
+17              pedro diniz        arrows - yamaha     8      collision    16
+18          david coulthard     mclaren - mercedes     1   transmission     8
+19  heinz - harald frentzen     williams - renault     1      collision     5
+20             eddie irvine                ferrari     1      collision    10
+21            tarso marques         minardi - hart     0        gearbox    21

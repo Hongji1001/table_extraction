@@ -1,0 +1,18 @@
+                             player    nationality          position       from   school / country
+0                      earl gardner  united states           forward       1948             depauw
+1                     dick garmaker  united states   guard / forward       1955          minnesota
+2   garrett , calvin calvin garrett  united states           forward       1983       oral roberts
+3                      dick garrett  united states             guard       1969  southern illinois
+4                         pau gasol          spain  forward / center       2008              spain
+5                     devean george  united states           forward       1999           augsburg
+6                        mel gibson  united states             guard       1963   western carolina
+7                      norman glick  united states           forward       1949   loyola marymount
+8                     gail goodrich  united states             guard  1965 1970               ucla
+9                  andrew goudelock  united states             guard       2011         charleston
+10                      brian grant  united states  forward / center       2004             xavier
+11                        bud grant  united states           forward       1949          minnesota
+12                     horace grant  united states  forward / center  2000 2003            clemson
+13                     travis grant  united states           forward       1950     kentucky state
+14                         ac green  united states           forward  1985 1999       oregon state
+15                      jerry grote  united states             guard       1964   loyola marymount
+16                pétur guðmundsson        iceland            center       1985         washington

@@ -1,0 +1,26 @@
+    year                            title billboard hot 100 uk singles chart                                     album
+0   1987                      little suzi                91                -                      mechanical resonance
+1   1987                modern day cowboy                 -                -                      mechanical resonance
+2   1989                       hang tough                 -                -               the great radio controversy
+3   1989     heaven 's trail (no way out)                 -                -               the great radio controversy
+4   1989                        love song                10                -               the great radio controversy
+5   1990                            signs                 -                -                   five man acoustical jam
+6   1991                    the way it is                55                -                   five man acoustical jam
+7   1991            call it what you want                 -                -                          psychotic supper
+8   1991               edison 's medicine                 -                -                          psychotic supper
+9   1991                         paradise                 -                -                   five man acoustical jam
+10  1991             signs (re - release)                 8               70                   five man acoustical jam
+11  1992         love song (re - release)                 -                -               the great radio controversy
+12  1992                       stir it up                 -                -                          psychotic supper
+13  1992                   song & emotion                 -                -                          psychotic supper
+14  1992                    what you give                86                -                          psychotic supper
+15  1994                     mama 's fool                 -                -                                bust a nut
+16  1994                 need your lovin'                 -                -                                bust a nut
+17  1995                     alot to lose                 -                -                                bust a nut
+18  1995  need your lovin' (re - release)                 -                -                                bust a nut
+19  1995                    steppin' over                 -                -  times makin' changes - the best of tesla
+20  2004                caught in a dream                 -                -                              into the now
+21  2004              words can't explain                 -                -                              into the now
+22  2007                        thank you                 -                -                              real to reel
+23  2008                     i wanna live                 -                -                              forever more
+24  2013                    taste my pain                 -                -                                       tba

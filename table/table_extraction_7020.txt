@@ -1,0 +1,8 @@
+         name country      type    moving from transfer window  ends               transfer fee                         source
+0       henry     fra  transfer        arsenal          summer  2011                       24 m                 fcbarcelonacat
+1  touré yaya     civ  transfer         monaco          summer  2011                        9 m  fcbarcelonacat fcbarcelonacat
+2      abidal     fra  transfer           lyon          summer  2011                       15 m                 fcbarcelonacat
+3      milito     arg  transfer       zaragoza          summer  2011  17 m + 3.5 m in variables                 fcbarcelonacat
+4  dos santos     mex   promote    barcelona b          summer  2009               youth system                 fcbarcelonacat
+5       bojan     esp   promote    barcelona b          summer  2009               youth system                 fcbarcelonacat
+6       pinto     esp      loan  celta de vigo          winter  2008                      0.5 m  fcbarcelonacat fcbarcelonacat

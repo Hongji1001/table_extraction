@@ -1,0 +1,9 @@
+   pick                                   team            player          position               college
+0    33                         denver broncos  bob breitenstein            tackle                 tulsa
+1    34                         houston oilers      frank molden  defensive tackle         jackson state
+2    35  denver broncos (from oakland raiders)       max leetzow     defensive end                 idaho
+3    36                          new york jets      glenn sasser     defensive end  north carolina state
+4    37                     kansas city chiefs        smith reed          halfback          alcorn state
+5    38                     san diego chargers       rick redman        linebacker            washington
+6    39                        boston patriots   corwyn aldredge               end    northwestern state
+7    40                          buffalo bills      dave simmons        linebacker          georgia tech

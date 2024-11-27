@@ -1,0 +1,7 @@
+   year  result world rank     location    date
+0  1973   45.50        9th  bakersfield  jun 16
+1  1974   45.76       11th       austin  aug 24
+2  1975   45.90       30th  bakersfield  may 17
+3  1976   44.82        4th     westwood  jun 12
+4  1977   45.45        7th       zurich  aug 24
+5  1978   45.15        6th     westwood  jun 10

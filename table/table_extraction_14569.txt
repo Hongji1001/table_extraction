@@ -1,0 +1,15 @@
+           short vowels 17th - c american british australian
+0                 a / æ        ɐ        æ       æ          æ
+1               ar / ɑr       ɐr       ɑɹ      ɑː         aː
+2                 e / ɛ        ɛ        ɛ       ɛ          e
+3                 æ / ɛ        ɛ        ɛ       ɛ          e
+4                   / ɛ        ɛ        ɛ       ɛ          e
+5               er / ɜr       ɛr        ɝ      ɜː         ɜː
+6                 i / ɪ        ɪ        ɪ       ɪ          ɪ
+7                 y / ɪ        ɪ        ɪ       ɪ          ɪ
+8               ir / ɜr       ɪr        ɚ      ɜː         ɜː
+9               yr / ɜr       ɪr        ɚ      ɜː         ɜː
+10    w - colored a / ɒ        ɔ       ɑ̹       ɒ         wɔ
+11                o / ɒ        ɔ       ɑ̹       ɒ         wɔ
+12  w - colored ar / ɔr       ɔr      ɔ̹ɹ      ɔː         ɔː
+13              or / ɔr       ɔr      ɔ̹ɹ      ɔː         ɔː

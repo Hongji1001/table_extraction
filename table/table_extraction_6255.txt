@@ -1,0 +1,12 @@
+    pick                round           player        position                  school
+0     22                    1        ray snell           guard               wisconsin
+1     49                    2      kevin house   wide receiver       southern illinois
+2     76                    3    scot brantley      linebacker                 florida
+3    102  4 (from washington)    larry flowers  defensive back              texas tech
+4    186                    7      jim leonard           guard             santa clara
+5    213                    8  derrick goddard  defensive back                   drake
+6    240                    9    gerald carter   wide receiver               texas a&m
+7    267                   10     andy hawkins      linebacker  texas a&m - kingsville
+8    275  10 (from san diego)      brett davis    running back                    unlv
+9    299                   11      terry jones   defensive end        central oklahoma
+10   326                   12     gene coleman  defensive back              miami (fl)

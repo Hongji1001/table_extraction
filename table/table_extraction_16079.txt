@@ -1,0 +1,13 @@
+                  name height weight    spike             2008 club
+0          yessica paz      m      -  cm (in)                aragua
+1   génesis franchesco      m      -  cm (in)               miranda
+2         maria valero      m      -  cm (in)               barinas
+3      amarilis villar      m      -  cm (in)                vargas
+4        jayce andrade      m      -  cm (in)                 zulia
+5         desiree glod      m      -  cm (in)               miranda
+6   gheraldine quijada      m      -  cm (in)                    dc
+7      shirley florian      m      -  cm (in)                 zulia
+8      aleoscar blanco      m      -  cm (in)                vargas
+9     maría josé pérez      m      -  cm (in)  llaneras de toa baja
+10     roslandy acosta      m      -  cm (in)                vargas
+11        wendy romero      m      -  cm (in)               cojedes

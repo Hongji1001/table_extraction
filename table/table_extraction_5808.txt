@@ -1,0 +1,29 @@
+                                    driver       constructor  laps time / retired  grid
+0                       juan manuel fangio           ferrari   101      2:59:47.0     2
+1         alfonso de portago peter collins           ferrari   100        + 1 lap    12
+2                               jean behra          maserati    99       + 2 laps    13
+3                             jack fairman  connaught - alta    98       + 3 laps    21
+4                             horace gould          maserati    97       + 4 laps    14
+5                          luigi villoresi          maserati    96       + 5 laps    19
+6                           cesare perdisa          maserati    95       + 6 laps    15
+7                               paco godia          maserati    94       + 7 laps    25
+8                            robert manzon           gordini    94       + 7 laps    18
+9   eugenio castellotti alfonso de portago           ferrari    92       + 9 laps     8
+10                              bob gerard  cooper - bristol    88      + 13 laps    22
+11                           stirling moss          maserati    94           axle     1
+12                            harry schell           vanwall    87    fuel system     5
+13                    desmond titterington  connaught - alta    74         engine    11
+14                     maurice trintignant           vanwall    74    fuel system    16
+15                 hernando da silva ramos           gordini    71           axle    26
+16                           peter collins           ferrari    64   oil pressure     4
+17                           roy salvadori          maserati    59    fuel system     7
+18                             tony brooks               brm    39       accident     9
+19                           mike hawthorn               brm    24   transmission     3
+20                            louis rosier          maserati    23     electrical    27
+21                           bruce halford          maserati    22         engine    20
+22                        umberto maglioli          maserati    21        gearbox    24
+23                      archie scott brown  connaught - alta    16   transmission    10
+24                              paul emery   emeryson - alta    12       ignition    23
+25                            jack brabham          maserati     3         engine    28
+26                           ron flockhart               brm     2         engine    17
+27                   josé froilán gonzález           vanwall     0   transmission     6

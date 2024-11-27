@@ -1,0 +1,19 @@
+                             club     location                             current manager             team captain                        stadium  capacity
+0                  standard liège        liège                               lászló bölöni            steven defour         stade maurice dufrasne     30000
+1                  rsc anderlecht   anderlecht                                ariel jacobs        olivier deschacht  constant vanden stock stadium     28063
+2                  club brugge kv       bruges                            jacky mathijssen         philippe clement            jan breydel stadium     29415
+3               cercle brugge ksv       bruges                               glen de boeck              denis viane            jan breydel stadium     29415
+4          kfc germinal beerschot      antwerp                              aimé anthuenis              daniel cruz              olympisch stadion     12148
+5                        kaa gent        ghent                          michel preud'homme               bryan ruiz             jules ottenstadion     12919
+6                sv zulte waregem      waregem                                francky dury  ludwin van nieuwenhuyze               regenboogstadion      8500
+7                  r charleroi sc    charleroi                                john collins             frank defays     stade du pays de charleroi     25000
+8                    kvc westerlo     westerlo                               jan ceulemans                jef delen                     het kuipje      8200
+9                        krc genk         genk  pierre denier and hans visser (caretakers)            hans cornelis                  cristal arena     24900
+10                    re mouscron     mouscron                                  enzo scifo      gonzague van dooren             stade le canonnier     11500
+11  ksc lokeren oost - vlaanderen      lokeren                         aleksandar janković             olivier doll                  daknamstadion     10000
+12                    kv mechelen     mechelen                                  peter maes              jonas ivens               veolia - stadion     14145
+13                  ksv roeselare    roeselare                             dennis van wijk           stefaan tanghe            schiervelde stadion      9036
+14     fc verbroedering dender eh  denderleeuw                               johan boskamp         steven de petter        florent beeckmanstadion      6800
+15                      raec mons         mons                christophe dessy (caretaker)            roberto mirri         stade charles tondreau      9504
+16                    kv kortrijk     kortrijk                         hein vanhaezebrouck          stéphane demets           guldensporen stadion      8770
+17                     afc tubize       tubize                              albert cartier            gregory neels                 stade leburton      4000

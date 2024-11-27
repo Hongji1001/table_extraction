@@ -1,0 +1,9 @@
+                             name                                      title  start term  end term        house
+0  maximilian i joseph of bavaria  elector of the palatinate king of bavaria        1799      1825  wittelsbach
+1               ludwig i augustus                            king of bavaria        1825      1848  wittelsbach
+2                   maximilian ii                            king of bavaria        1848      1864  wittelsbach
+3                       ludwig ii                            king of bavaria        1864      1886  wittelsbach
+4                          otto i                            king of bavaria        1886      1913  wittelsbach
+5          prince regent luitpold                   prince regent of bavaria        1886      1912  wittelsbach
+6                      ludwig iii   prince regent of bavaria king of bavaria        1913      1918  wittelsbach
+7          crown prince rupprecht                    crown prince of bavaria        1913      1955  wittelsbach

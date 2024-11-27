@@ -1,0 +1,13 @@
+    rank                  club  winners  runners - up  third
+0      1         cr belouizdad        3             1      0
+1      2         club africain        3             0      0
+2      3              es sahel        1             0      1
+3      4            cs sfaxien        0             2      0
+4      5              es tunis        0             1      2
+5      6            js kabylie        0             1      0
+6      6              mc alger        0             1      0
+7      6      raja beni mellal        0             1      0
+8      9     al - ittihad club        0             0      1
+9      9             far rabat        0             0      1
+10     9  racing ac casablanca        0             0      1
+11     9             rs settat        0             0      1

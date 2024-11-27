@@ -1,0 +1,9 @@
+   rank  lane                     name    nationality     time
+0     1     4           jenny thompson  united states    58.18
+1     2     3        martina moravcová       slovakia    58.49
+2     3     7             diana mocanu        romania    59.12
+3     4     5       otylia jędrzejczak         poland    59.14
+4     5     2        natalya sutyagina         russia    59.30
+5     6     6           mette jacobsen        denmark    59.75
+6     7     8           cécile jeanson         france    59.80
+7     8     1  anna - karin kammerling         sweden  1:00.40

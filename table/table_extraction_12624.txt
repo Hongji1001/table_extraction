@@ -1,0 +1,26 @@
+                   driver                         team  laps time / retired  grid
+0            jimmy vasser          target chip ganassi    65    2:00:46.856     1
+1            scott pruett               patrick racing    65     + 7.7 secs     2
+2              greg moore              forsythe racing    65    + 12.3 secs     8
+3       maurício gugelmin               pacwest racing    65    + 20.2 secs    11
+4    christian fittipaldi         newman - haas racing    65    + 26.8 secs     6
+5        stefan johansson          bettenhausen racing    65    + 44.2 secs    20
+6            eddie lawson  galles racing international    65  + 1:06.3 secs    22
+7           andré ribeiro           tasman motorsports    65  + 1:45.0 secs     9
+8           al unser , jr         marlboro team penske    64        + 1 lap    16
+9         hiro matsushita        payton / coyne racing    64        + 1 lap    25
+10          gil de ferran                  hall racing    63           fuel    12
+11         roberto moreno        payton / coyne racing    61       + 3 laps    19
+12            raul boesel                   team green    60           fuel    15
+13        carlos guerrero       scandia / simon racing    48        contact    21
+14  juan manuel fangio ii          all american racing    46           fuel    23
+15           robby gordon                walker racing    45     electrical    14
+16            bryan herta                   team rahal    40       pit fire    17
+17          jeff krosnoff       arciero - wells racing    38        contact    24
+18       michael andretti         newman - haas racing    36     electrical     5
+19            bobby rahal                   team rahal    33   transmission    13
+20           alex zanardi          target chip ganassi    31   transmission     3
+21             paul tracy         marlboro team penske    16        contact     4
+22       adrián fernández           tasman motorsports    14        contact    10
+23       parker johnstone              comptech racing    10        contact     7
+24     emerson fittipaldi                 hogan racing     8         engine    18

@@ -1,0 +1,24 @@
+                     2004 / 05                   2006 / 07                   2007 / 08                   2009 / 10                   2010 / 11                   2011 / 12                   2012 / 13
+0                           ur                          ur                          75                          ur                          72                          69                          43
+1          ranking tournaments         ranking tournaments         ranking tournaments         ranking tournaments         ranking tournaments         ranking tournaments         ranking tournaments
+2          tournament not held         tournament not held         tournament not held               non - ranking               non - ranking               non - ranking                          lq
+3          tournament not held         tournament not held         tournament not held         tournament not held         tournament not held                          lq                          lq
+4          tournament not held         tournament not held                          lq                          lq                          lq                          lq                          lq
+5          tournament not held         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held
+6          tournament not held         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held                          lq
+7                           lq                          lq                          lq                          lq                          lq                          lq                          lq
+8          tournament not held         tournament not held         tournament not held         tournament not held                          lq                          lq                          lq
+9                           lq                          2r                          lq                          lq                          lq                          lq                          lq
+10                          lq                          rr                          rr                          lq                          lq                          lq                          lq
+11         tournament not held         tournament not held         tournament not held         tournament not held                         dnq                          1r                          qf
+12                          lq                          lq                          lq                          lq                          lq                          1r                          lq
+13                          lq                          lq                          lq                          lq                          lq                          lq                          1r
+14   non - ranking tournaments   non - ranking tournaments   non - ranking tournaments   non - ranking tournaments   non - ranking tournaments   non - ranking tournaments   non - ranking tournaments
+15                           a                          lq                          lq                          lq                           a                           a                           a
+16  variant format tournaments  variant format tournaments  variant format tournaments  variant format tournaments  variant format tournaments  variant format tournaments  variant format tournaments
+17                    not held                    not held                    not held                    not held                           a                          1r                          2r
+18  former ranking tournaments  former ranking tournaments  former ranking tournaments  former ranking tournaments  former ranking tournaments  former ranking tournaments  former ranking tournaments
+19                          lq         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held
+20                          lq                          nr         tournament not held         tournament not held         tournament not held         tournament not held         tournament not held
+21                          lq                          lq                          nr         tournament not held         tournament not held         tournament not held         tournament not held
+22                    not held                          lq                          lq         tournament not held         tournament not held         tournament not held         tournament not held

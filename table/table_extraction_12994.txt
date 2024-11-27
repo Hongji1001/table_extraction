@@ -1,0 +1,12 @@
+    year                     tournament                venue result       extra
+0   2000     world junior championships     santiago , chile    7th  heptathlon
+1   2003     european u23 championships   bydgoszcz , poland    2nd  heptathlon
+2   2003                    universiade  daegu , south korea   11th  pentathlon
+3   2005                    universiade       izmir , turkey    5th  pentathlon
+4   2005                       décastar     talence , france    8th  heptathlon
+5   2006                 hypo - meeting     götzis , austria   18th  heptathlon
+6   2007                 hypo - meeting     götzis , austria   23rd  heptathlon
+7   2007            world championships        osaka , japan   16th  heptathlon
+8   2008                 hypo - meeting     götzis , austria   17th  heptathlon
+9   2009  european indoor championships        turin , italy    8th  pentathlon
+10  2009                 hypo - meeting     götzis , austria    8th  heptathlon

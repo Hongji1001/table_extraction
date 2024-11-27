@@ -1,0 +1,10 @@
+     tournament     surface        week                                         winner and score            finalist                     semifinalists
+0  indian wells        hard     march 6                       pete sampras 7 - 5 , 6 - 3 , 7 - 5        andre agassi        stefan edberg boris becker
+1   key biscane        hard    march 13                   andre agassi 3 - 6 , 6 - 2 , 7 - 6 (3)        pete sampras     jonas björkman magnus larsson
+2   monte carlo        clay    april 24  thomas muster 4 - 6 , 5 - 7 , 6 - 1 , 7 - 6 (6) , 6 - 0        boris becker  andrea gaudenzi goran ivanišević
+3       hamburg        clay       may 8                    andriy medvedev 6 - 3 , 6 - 2 , 6 - 1    goran ivanišević       sergi bruguera pete sampras
+4          rome        clay      may 15          thomas muster 3 - 6 , 7 - 6 (5) , 6 - 2 , 6 - 3      sergi bruguera   goran ivanišević wayne ferreira
+5      montréal        hard     july 24                       andre agassi 3 - 6 , 6 - 2 , 6 - 3        pete sampras      mats wilander thomas enqvist
+6    cincinnati        hard    august 7                               andre agassi 7 - 5 , 6 - 2       michael chang      thomas enqvist michael stich
+7         essen  carpet (i)  october 23          thomas muster 7 - 6 (6) , 2 - 6 , 6 - 3 , 6 - 4  malivai washington       arnaud boetsch pete sampras
+8         paris  carpet (i)  october 30                   pete sampras 7 - 6 (5) , 6 - 4 , 6 - 4        boris becker        jim courier wayne ferreira

@@ -1,0 +1,11 @@
+  place         player        country          score to par
+0     1      ben hogan  united states  70 + 69 = 139    - 5
+1     2   bob hamilton  united states  71 + 69 = 140    - 4
+2    t3  chick harbert  united states  68 + 73 = 141    - 3
+3    t3      ted kroll  united states  71 + 70 = 141    - 3
+4    t5  lloyd mangrum  united states  74 + 68 = 142    - 2
+5    t5  milan marusic  united states  70 + 72 = 142    - 2
+6    t5      ed oliver  united states  69 + 73 = 142    - 2
+7    t8   al besselink  united states  69 + 75 = 144      e
+8    t8   julius boros  united states  73 + 71 = 144      e
+9    t8    lew worsham  united states  74 + 70 = 144      e

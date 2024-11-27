@@ -1,0 +1,10 @@
+   rank                    circuit      headquarters  screens  sites
+0     1  regal entertainment group    knoxville , tn     7367    580
+1     2      amc entertainment inc  kansas city , mo     5894    483
+2     3          cinemark theatres        plano , tx     3895    298
+3     4      carmike cinemas , inc     columbus , ga     2242    232
+4     5     cineplex entertainment      toronto , on     1438    133
+5     6       rave motion pictures       dallas , tx      939     62
+6     7            marcus theatres    milwaukee , wi      687     55
+7     8        national amusements       dedham , ma      450     34
+8     9            empire theatres   stellarton , ns      438     53

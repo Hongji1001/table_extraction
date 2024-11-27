@@ -1,0 +1,15 @@
+    game     date              opponent result  dolphins points  opponents  record  attendance
+0      1  sept 15  new england patriots   loss               24         34   0 - 1       55006
+1      2  sept 22         buffalo bills    win               24         16   1 - 1       80020
+2      3  sept 29    san diego chargers    win               28         21   2 - 1       44706
+3      4    oct 7         new york jets    win               21         17   3 - 1       60727
+4      5   oct 13   washington redskins   loss               17         20   3 - 2       54395
+5      6   oct 20    kansas city chiefs    win                9          3   4 - 2       67779
+6      7   oct 27       baltimore colts    win               17          7   5 - 2       65868
+7      8    nov 3       atlanta falcons    win               42          7   6 - 2       64399
+8      9   nov 10    new orleans saints    win               21          0   7 - 2       74289
+9     10   nov 17         buffalo bills    win               35         28   8 - 2       69313
+10    11   nov 24         new york jets   loss               14         17   8 - 3       57162
+11    12    dec 2    cincinnati bengals    win               24          3   9 - 3       71962
+12    13    dec 8       baltimore colts    win               17         16  10 - 3       34420
+13    14   dec 15  new england patriots    win               34         27  11 - 3       56920

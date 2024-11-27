@@ -1,0 +1,7 @@
+   year   location             gold             silver                   bronze
+0  1990    beijing       chen sitan     wang zengxiang           nobutsugu arai
+1  1994  hiroshima    masaru masuda      chan ming shu  han gyeong su daniel go
+2  1998    bangkok    chan ming shu   toshiya watanabe          nguyen anh minh
+3  2002      busan  yang seong chan      chan ming shu                 bobby co
+4  2006       doha         wu yanan       hei zhi hong              goh qiu bin
+5  2010  guangzhou         wu yanan  nguyen thanh tung         hsiao yung - jih

@@ -1,0 +1,13 @@
+                   name                sweet                 species  gender      attribute birthday media debut                             voice actor
+0      sakuran ( さくらん )          sakuramochi              brown bear  female    magical red  unknown   jps ep 38                             rina hidaka
+1    melorina ( メロリーナ )             melonpan                  poodle  female    magical red  unknown   jps ep 38     asuka ōgame (sweets dance princess)
+2        eclan ( エクレン )               eclair              rex rabbit  female    magical red  unknown   jps ep 38     chiwa saito (sweets dance princess)
+3   macaronia ( マカロニア )              macaron             holland lop  female    magical red  unknown   jps ep 38    miyu matsuki (sweets dance princess)
+4     donadona ( ドナドナ )                donut          golden hamster    male    magical red  unknown   jps ep 38     saki fujita (sweets dance princess)
+5         honey ( ハニー )        honey waffles         flying squirrel  female    magical red  unknown   jps ep 38    megumi mukai (sweets dance princess)
+6     purinki ( プリンキー )        crème caramel  common squirrel monkey  female  magical green  unknown   jps ep 38  mana matsufuji (sweets dance princess)
+7     chocolat ( ショコラ )  chocolate ice cream        asian black bear  female    magical red  unknown   jps ep 38    marie miyake (sweets dance princess)
+8           maco ( マコ )              macaron      roborovski hamster  female    magical red  unknown   jps ep 38                                    mako
+9           kaco ( カコ )              macaron      roborovski hamster    male  magical green  unknown   jps ep 38                             asuka ōgame
+10          roco ( ロコ )              macaron      roborovski hamster  female    magical red  unknown   jps ep 38                            marie miyake
+11        coron ( コロン )              macaron      roborovski hamster    male    magical red  unknown   jps ep 38                             saki fujita

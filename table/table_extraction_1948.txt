@@ -1,0 +1,12 @@
+                       ostrich               hamerkop             hadeda ibis              african spoonbill         whitefaced duck       knobbilled duck
+0               egyptian goose         secretary bird            cape vulture         lappet - faced vulture  white - backed vulture           tawny eagle
+1            wahlberg 's eagle          martial eagle       brown snake eagle   black - breasted snake eagle                bateleur    african fish eagle
+2        dark chanting goshawk          gabar goshawk       crested francolin          swainson 's francolin            common quail           melba finch
+3          helmeted guineafowl           blue waxbill  violet - eared waxbill  white - browed sparrow weaver         paradise whydah          kori bustard
+4         lesser masked weaver          black korhaan      redcrested korhaan                 crowned plover       blacksmith plover        spotted dikkop
+5   double - banded sandgrouse            rock pigeon         red - eyed dove               cape turtle dove           laughing dove          namaqua dove
+6         green - spotted dove            grey lourie          jacobin cuckoo                diederik cuckoo      burchell 's coucal              barn owl
+7            white - faced owl  pearl - spotted owlet     flernecked nightjar      rufous - cheeked nightjar    european bee - eater    little bee - eater
+8   blue - cheeked bee - eater        european roller           purple roller        lilac - breasted roller                  hoopoe         grey hornbill
+9     yellow - billed hornbill  red - billed hornbill             pied barbet               european swallow    fork - tailed drongo             pied crow
+10   brown - hooded kingfisher             titbabbler                puffback          long - billed crombec        wattled starling  burchell 's starling

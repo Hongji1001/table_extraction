@@ -1,0 +1,11 @@
+        year    channel play - by - play color commentator (s) studio host
+0  1979 - 80  wsbk - tv      fred cusick        johnny peirson  tom larson
+1  1978 - 79  wsbk - tv      fred cusick        johnny peirson  tom larson
+2  1977 - 78  wsbk - tv      fred cusick        johnny peirson  tom larson
+3  1976 - 77  wsbk - tv      fred cusick        johnny peirson  tom larson
+4  1975 - 76  wsbk - tv      fred cusick        johnny peirson  tom larson
+5  1974 - 75  wsbk - tv      fred cusick        johnny peirson  tom larson
+6  1973 - 74  wsbk - tv      fred cusick        johnny peirson  tom larson
+7  1972 - 73  wsbk - tv      fred cusick        johnny peirson  tom larson
+8  1971 - 72  wsbk - tv      fred cusick        johnny peirson  tom larson
+9  1970 - 71  wsbk - tv        don earle        johnny peirson  tom larson

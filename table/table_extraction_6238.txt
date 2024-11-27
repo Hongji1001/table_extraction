@@ -1,0 +1,10 @@
+                                           race              circuit         date          pole position         winning driver                 constructor tyre  report
+0                          argentine grand prix         buenos aires   17 january        giuseppe farina     juan manuel fangio                    maserati    p  report
+1                              indianapolis 500         indianapolis       31 may           jack mcgrath          bill vukovich  kurtis kraft - offenhauser    f  report
+2                            belgian grand prix  spa - francorchamps      20 june     juan manuel fangio     juan manuel fangio                    maserati    p  report
+3                             french grand prix                reims       4 july     juan manuel fangio     juan manuel fangio                    mercedes    c  report
+4                            british grand prix          silverstone      17 july     juan manuel fangio  josé froilán gonzález                     ferrari    p  report
+5  german grand prix (aka european grand prix )          nürburgring     1 august     juan manuel fangio     juan manuel fangio                    mercedes    c  report
+6                              swiss grand prix           bremgarten    22 august  josé froilán gonzález     juan manuel fangio                    mercedes    c  report
+7                            italian grand prix                monza  5 september     juan manuel fangio     juan manuel fangio                    mercedes    c  report
+8                            spanish grand prix            pedralbes   24 october         alberto ascari          mike hawthorn                     ferrari    p  report

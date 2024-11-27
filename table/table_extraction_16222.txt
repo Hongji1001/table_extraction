@@ -1,0 +1,31 @@
+                      title series         director  production number    release date reissue
+0               dog pounded     lt        i freleng               1278  1954 - 01 - 02     yes
+1        captain hareblower     mm        i freleng               1284  1954 - 01 - 16      no
+2              i gopher you     mm        i freleng               1277  1954 - 01 - 30      no
+3         feline frame - up     lt  charles m jones               1279  1954 - 02 - 13      no
+4                 wild wife     mm  robert mckimson               1280  1954 - 02 - 20      no
+5                no barking     mm  charles m jones               1282  1954 - 02 - 27     yes
+6            bugs and thugs     lt        i freleng               1299  1954 - 03 - 13      no
+7            the cat 's bah     lt  charles m jones               1285  1954 - 03 - 20      no
+8        design for leaving     lt  robert mckimson               1283  1954 - 03 - 27     yes
+9                bell hoppy     mm  robert mckimson               1286  1954 - 04 - 17      no
+10          no parking hare     lt  robert mckimson               1301  1954 - 05 - 01      no
+11        dr jerkyl 's hide     lt        i freleng               1287  1954 - 05 - 08      no
+12          claws for alarm     mm  charles m jones               1288  1954 - 05 - 22      no
+13           little boy boo     lt  robert mckimson               1289  1954 - 06 - 05      no
+14           devil may hare     lt  robert mckimson               1304  1954 - 06 - 19      no
+15             muzzle tough     mm        i freleng               1290  1954 - 06 - 26      no
+16        the oily american     mm  robert mckimson               1298  1954 - 07 - 10      no
+17          bewitched bunny     lt  charles m jones               1303  1954 - 07 - 24      no
+18         satan 's waitin'     lt        i freleng               1293  1954 - 08 - 07     yes
+19  stop! look! and hasten!     mm  charles m jones               1294  1954 - 08 - 14      no
+20       yankee doodle bugs     lt        i freleng               1323  1954 - 08 - 28      no
+21               gone batty     lt  robert mckimson               1292  1954 - 09 - 04     yes
+22          goo goo goliath     mm        i freleng               1296  1954 - 09 - 18      no
+23         by word of mouse     lt        i freleng               1336  1954 - 10 - 02      no
+24  from a to z - z - z - z     lt  charles m jones               1297  1954 - 10 - 16     yes
+25               quack shot     mm  robert mckimson               1306  1954 - 10 - 30      no
+26     lumber jack - rabbit     lt  charles m jones               1291  1954 - 11 - 13      no
+27       my little duckaroo     mm  charles m jones               1300  1954 - 11 - 27      no
+28               sheep ahoy     mm  charles m jones               1322  1954 - 12 - 11      no
+29         baby buggy bunny     mm  charles m jones               1324  1954 - 12 - 18      no

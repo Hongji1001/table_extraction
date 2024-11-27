@@ -1,0 +1,13 @@
+   place                player           country  score to par
+0      1         sergio garcía             spain     65    - 6
+1      2         paul mcginley           ireland     67    - 4
+2     t3          markus brier           austria     68    - 3
+3     t3         ángel cabrera         argentina     68    - 3
+4     t3      michael campbell       new zealand     68    - 3
+5     t3      rory mcilroy (a)  northern ireland     68    - 3
+6     t3           boo weekley     united states     68    - 3
+7     t8               kj choi       south korea     69    - 2
+8     t8          stewart cink     united states     69    - 2
+9     t8    pádraig harrington           ireland     69    - 2
+10    t8  miguel ángel jiménez             spain     69    - 2
+11    t8           tiger woods     united states     69    - 2

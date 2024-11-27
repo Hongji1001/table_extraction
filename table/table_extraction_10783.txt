@@ -1,0 +1,8 @@
+   year                     tournament              venue result          extra
+0  2000  european indoor championships    ghent , belgium    2nd  4x400 m relay
+1  2001            world championships  edmonton , canada    2nd          400 m
+2  2002         european championships   munich , germany    1st          400 m
+3  2002         european championships   munich , germany    7th  4x400 m relay
+4  2002                      world cup     madrid , spain    2nd          400 m
+5  2002                      world cup     madrid , spain    7th  4x400 m relay
+6  2004                  olympic games    athens , greece    7th  4x400 m relay

@@ -1,0 +1,11 @@
+   round  overall            player position         college
+0      1       15       marc wilson       qb   brigham young
+1      2       43       matt millen       lb      penn state
+2      5      125       kenny lewis       hb   virginia tech
+3      5      126        john adams       lb             lsu
+4      5      128    william bowens       lb   north alabama
+5      7      173  malcolm barnwell       wr  virginia union
+6      8      194        kenny hill        s            yale
+7     10      231     walter carter       dt   florida state
+8     11      264       mike massey       lb        arkansas
+9     12      322   calvin muhammad       wr  texas southern

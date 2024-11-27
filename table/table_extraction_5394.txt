@@ -1,0 +1,22 @@
+    year             competition       venue  placed           event
+0   1988           olympic games       seoul  silver  men 's doubles
+1   1987     world championships   new delhi  bronze     men 's team
+2   1987     world championships   new delhi  silver  men 's doubles
+3   1991     world championships       chiba  silver     men 's team
+4   1993     world championships  gothenburg  bronze  men 's singles
+5   1995     world championships     tianjin  silver  men 's doubles
+6   1999     world championships   eindhoven  bronze  men 's doubles
+7   1986  european championships      prague  bronze  men 's doubles
+8   1988  european championships       paris  silver  men 's doubles
+9   1990  european championships  gothenburg  bronze     men 's team
+10  1990  european championships  gothenburg    gold  men 's doubles
+11  1992  european championships   stuttgart  bronze  men 's singles
+12  1992  european championships   stuttgart  bronze   mixed doubles
+13  1994  european championships  birmingham  bronze  men 's singles
+14  1994  european championships  birmingham  silver  men 's doubles
+15  1994  european championships  birmingham    gold   mixed doubles
+16  1998  european championships   eindhoven  silver  men 's singles
+17  2000  european championships      bremen  silver  men 's singles
+18  2002  european championships      zagreb  bronze  men 's singles
+19  2005  european championships      aarhus  bronze  men 's singles
+20  2007  european championships    belgrade  silver     men 's team

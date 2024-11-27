@@ -1,0 +1,12 @@
+    round  pick          player          position school / club team
+0       1     5      todd lyght        cornerback         notre dame
+1       2    31    roman phifer        linebacker               ucla
+2       4   107   robert bailey        cornerback         miami (fl)
+3       5   116    robert young     defensive end  mississippi state
+4       6   143       neal fort  offensive tackle                byu
+5       7   170  tyrone shelton      running back     william & mary
+6       8   201     pat tyrance        linebacker           nebraska
+7       9   228     jeff fields  defensive tackle     arkansas state
+8      11   281     terry crews        linebacker   western michigan
+9      12   311    jeff pahukoa             guard         washington
+10     12   312  ernie thompson      running back            indiana

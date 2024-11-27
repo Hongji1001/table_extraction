@@ -1,0 +1,8 @@
+   round  pick            player    nationality               college
+0      2    30     nate mcmillan  united states  north carolina state
+1      2    38    lemone lampley  united states                depaul
+2      3    53        tod murphy  united states             uc irvine
+3      4    76    michael graham  united states            georgetown
+4      5    99  dominic pressley  united states        boston college
+5      6   122    curtis kitchen  united states         south florida
+6      7   145      glen mccants  united states               clemson

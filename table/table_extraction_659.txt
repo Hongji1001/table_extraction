@@ -1,0 +1,20 @@
+    district               incumbent       party  first elected                             result                                        candidates
+0    texas 1           wright patman  democratic           1928                       re - elected                       wright patman (d) unopposed
+1    texas 2             jack brooks  democratic           1952                       re - elected                         jack brooks (d) unopposed
+2    texas 3          brady p gentry  democratic           1952                       re - elected                      brady p gentry (d) unopposed
+3    texas 4             sam rayburn  democratic           1912                       re - elected                         sam rayburn (d) unopposed
+4    texas 5  joseph franklin wilson  democratic           1946            retired republican gain  bruce r alger (r) 52.9% wallace savage (d) 47.1%
+5    texas 6           olin e teague  democratic           1946                       re - elected                       olin e teague (d) unopposed
+6    texas 7              john dowdy  democratic           1952                       re - elected                          john dowdy (d) unopposed
+7    texas 9        clark w thompson  democratic           1947                       re - elected                    clark w thompson (d) unopposed
+8   texas 10        homer thornberry  democratic           1948                       re - elected                    homer thornberry (d) unopposed
+9   texas 11         william r poage  democratic           1936                       re - elected                     william r poage (d) unopposed
+10  texas 12         wingate h lucas  democratic           1946  lost renomination democratic hold                          jim wright (d) unopposed
+11  texas 13           frank n ikard  democratic           1951                       re - elected                       frank n ikard (d) unopposed
+12  texas 14        john e lyle , jr  democratic           1944            retired democratic hold         john j bell (d) 93.8% d c dewitt (r) 6.2%
+13  texas 15           lloyd bentsen  democratic           1948            retired democratic hold                       joe m kilgore (d) unopposed
+14  texas 16         kenneth m regan  democratic           1947  lost renomination democratic hold                      j t rutherford (d) unopposed
+15  texas 17           omar burleson  democratic           1946                       re - elected                       omar burleson (d) unopposed
+16  texas 19          george h mahon  democratic           1934                       re - elected                      george h mahon (d) unopposed
+17  texas 20           paul j kilday  democratic           1938                       re - elected                       paul j kilday (d) unopposed
+18  texas 21              o c fisher  democratic           1942                       re - elected                          o c fisher (d) unopposed

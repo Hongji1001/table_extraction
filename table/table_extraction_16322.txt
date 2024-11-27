@@ -1,0 +1,27 @@
+    rank                  canton              highest point highest elevation                                 lowest point lowest elevation
+0      1                  valais  monte rosa (dufourspitze)                 -                                  lake geneva                -
+1      2                   berne             finsteraarhorn                 -                 aar river , solothurn border                -
+2      3              graubünden                piz bernina                 -                  moesa river , ticino border                -
+3      4                     uri                 dammastock                 -                                 lake lucerne                -
+4      5                  glarus                       tödi                 -               linth river , st gallen border                -
+5      6                  ticino              rheinwaldhorn                 -                                lake maggiore                -
+6      7               st gallen                ringelspitz                 -                               lake constance                -
+7      8                obwalden                     titlis                 -                                 lake lucerne                -
+8      9                    vaud                 diablerets                 -                                  lake geneva                -
+9     10               nidwalden                 rotstöckli                 -                                 lake lucerne                -
+10    11                  schwyz                  bös fulen                 -                                  lake zurich                -
+11    12  appenzell ausserrhoden                     säntis                 -                                   lutzenberg                -
+12    12   appenzell innerrhoden                     säntis                 -  appenzell ausserrhoden and st gallen border                -
+13    14                fribourg                 vanil noir                 -                                lake neuchtel                -
+14    15                 lucerne           brienzer rothorn                 -          reuss river , zug and aargau border                -
+15    16                     zug                  wildspitz                 -                  reuss river , zurich border                -
+16    17                neuchtel            chasseral ouest                 -                                    lake biel                -
+17    18               solothurn                  hasenmatt                 -                   birs , basel - land border                -
+18    19                    jura               mont raimeux                 -              allaine river , national border                -
+19    20                  zurich               schnebelhorn                 -                rhine river , national border                -
+20    21         basel - country                hinteri egg                 -            birs river , basel - stadt border                -
+21    22                 thurgau            hohgrat (groot)                 -                   thur river , zurich border                -
+22    23            schaffhausen             hagen (randen)                 -                  rhine river , zurich border                -
+23    24                  aargau              geissfluegrat                 -                rhine river , national border                -
+24    25            basel - city              st chrischona                 -                rhine river , national border                -
+25    26                  geneva                 les arales                 -                rhone river , national border                -

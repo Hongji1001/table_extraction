@@ -1,0 +1,7 @@
+   round  pick  overall              name       position                college
+0      2     6       37   travis claridge          guard                    usc
+1      3     5       67     mark simoneau     linebacker           kansas state
+2      4     6      100  michael thompson          guard        tennessee state
+3      5     5      134    anthony midget     cornerback          virginia tech
+4      6     6      172    mareno philyaw  wide receiver                   troy
+5      7     5      211    darrick vaughn     cornerback  southwest texas state

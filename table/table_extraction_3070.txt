@@ -1,0 +1,6 @@
+                player  touchdowns  extra points  field goals  points
+0        joe magidsohn           2             0            0      10
+1  frederick l conklin           0             3            1       6
+2      stanfield wells           1             0            0       5
+3         donald green           1             0            0       5
+4      george m lawton           0             0            1       3

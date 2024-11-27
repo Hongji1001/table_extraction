@@ -1,0 +1,6 @@
+              tournament  wins  top - 5  top - 10  top - 25  events  cuts made
+0     masters tournament     0        0         1         5      11          7
+1                us open     0        0         1         2      13          8
+2  the open championship     1        3         4         8      22         17
+3       pga championship     0        0         1         2      15          6
+4                 totals     1        3         7        17      61         38

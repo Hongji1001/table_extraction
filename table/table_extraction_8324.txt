@@ -1,0 +1,8 @@
+           player        country               year (s) won  total to par finish
+0     tiger woods  united states  1997 , 2001 , 2002 , 2005    283    - 5      2
+1  phil mickelson  united states                2004 , 2006    286    - 2     t5
+2     vijay singh           fiji                       2000    289    + 1    t14
+3       mike weir         canada                       2003    290    + 2    t17
+4    zach johnson  united states                       2007    291    + 3    t20
+5     ian woosnam          wales                       1991    300   + 12     44
+6      sandy lyle       scotland                       1988    302   + 14     45

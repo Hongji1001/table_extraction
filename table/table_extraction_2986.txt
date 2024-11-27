@@ -1,0 +1,22 @@
+                     software                                         description                    platform                                       license                               developer
+0                     amphora                      metagenomics analysis software                       linux                    gnu general public license                               developer
+1                    autodock                    suite of automated docking tools                    platform                                       gnu gpl                               developer
+2                bioconductor           r (programming language) language toolkit  linux , mac os x , windows                          artistic license 2.0  fred hutchinson cancer research center
+3                  biohaskell                      haskell (programming language)  linux , mac os x , windows                          gpl , lgpl , and bsd                   collaborative project
+4                     biojava                         java (programming language)  linux , mac os x , windows                                     lgpl v2.1          open bioinformatics foundation
+5                     biomoby                            registry of web services                         web                                       license          open bioinformatics foundation
+6                     bioperl                               perl language toolkit            cross - platform                        artistic license & gpl          open bioinformatics foundation
+7                      biophp                                php language toolkit                    platform                                       license          open bioinformatics foundation
+8                   biopython                             python language toolkit            cross - platform                             biopython license          open bioinformatics foundation
+9                     bioruby                               ruby language toolkit                    platform                    gnu gpl v2 or ruby license          open bioinformatics foundation
+10               biosmalltalk                          smalltalk language toolkit            cross - platform                                   mit license                               developer
+11                     cacore                ontologic representation environment                    platform                                       license               national cancer institute
+12                    caarray                ontologic representation environment                    platform                                       license               national cancer institute
+13                     emboss  suite of packages for sequencing , searching , etc                    platform  general public licence (gpl) and library gpl                   collaborative project
+14                     galaxy     scientific workflow and data integration system                 unix - like                                       license         penn state and emory university
+15                geworkbench                   genomic data integration platform  linux , mac os x , windows                                       license                     columbia university
+16  integrated genome browser                 java - based desktop genome browser  linux , mac os x , windows                                       cpl 1.0                                 genoviz
+17                     intact                      molecular interaction database                    platform                                       license       european bioinformatics institute
+18              java treeview                              microarray data viewer            cross - platform                                       license                               developer
+19          taverna workbench          tool for designing and executing workflows  linux , mac os x , windows                                          lgpl                                  mygrid
+20                      ugene                     integrated bioinformatics tools  linux , mac os x , windows                                  gpl2 license                                  unipro

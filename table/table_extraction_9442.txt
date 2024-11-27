@@ -1,0 +1,10 @@
+   round             player         position     nationality          college / junior / club team
+0      1       jack johnson          defense   united states  us national team development program
+1      2        nate hagemo          defense   united states        university of minnesota (wcha)
+2      3         joe barnes           center          canada                saskatoon blades (whl)
+3      4        jakub vojta          defense  czech republic            hc sparta praha jr (czech)
+4      4     ondrej otcenas  center / winger        slovakia                 trenčín jr (slovakia)
+5      5          tim kunes           center   united states         new england jr falcons (ejhl)
+6      5     risto korhonen           winger         finland                kärpät jr (finnish jr)
+7      6  nicolas blanchard           center          canada         chicoutimi saguenéens (qmjhl)
+8      7        kyle lawson          defense   united states  us national team development program

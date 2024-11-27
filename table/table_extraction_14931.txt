@@ -1,0 +1,15 @@
+   place             player        country          score  to par
+0      1        vijay singh           fiji  70 + 66 = 136       4
+1     t2         scott gump  united states  68 + 69 = 136       3
+2     t2  colin montgomerie       scotland  70 + 67 = 137       3
+3     t2     steve stricker  united states  69 + 68 = 137       3
+4     t5    steve elkington      australia  69 + 69 = 138       2
+5     t5         brad faxon  united states  70 + 68 = 138       2
+6     t5     davis love iii  united states  70 + 68 = 138       2
+7     t5       andrew magee  united states  70 + 68 = 138       2
+8     t5        tiger woods  united states  66 + 72 = 138       2
+9    t10          john cook  united states  71 + 68 = 139       1
+10   t10           glen day  united states  68 + 71 = 139       1
+11   t10        david frost   south africa  70 + 69 = 139       1
+12   t10    frank lickliter  united states  68 + 71 = 139       1
+13   t10       mark o'meara  united states  69 + 70 = 139       1

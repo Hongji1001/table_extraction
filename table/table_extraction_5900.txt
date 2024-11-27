@@ -1,0 +1,27 @@
+                  driver               constructor  laps time / retired  grid
+0       riccardo patrese        williams - renault    53    1:33:09.533     2
+1         gerhard berger           mclaren - honda    53       + 13.729     4
+2         martin brundle           benetton - ford    53     + 1:15.503    13
+3      andrea de cesaris           tyrrell - ilmor    52        + 1 lap     9
+4             jean alesi                   ferrari    52        + 1 lap    15
+5   christian fittipaldi     minardi - lamborghini    52        + 1 lap    12
+6         stefano modena           jordan - yamaha    52        + 1 lap    17
+7           aguri suzuki  footwork - mugen - honda    52        + 1 lap    16
+8               jj lehto         dallara - ferrari    52        + 1 lap    22
+9      pierluigi martini         dallara - ferrari    52        + 1 lap    19
+10         ukyo katayama   larrousse - lamborghini    52        + 1 lap    20
+11         nicola larini                   ferrari    52        + 1 lap    11
+12     emanuele naspetti             march - ilmor    51       + 2 laps    26
+13     gianni morbidelli     minardi - lamborghini    51       + 2 laps    14
+14      michele alboreto  footwork - mugen - honda    51       + 2 laps    24
+15         nigel mansell        williams - renault    44         engine     1
+16         mika häkkinen              lotus - ford    44         engine     7
+17       bertrand gachot   larrousse - lamborghini    39      collision    18
+18            érik comas          ligier - renault    36         engine     8
+19           jan lammers             march - ilmor    27         clutch    23
+20     maurício gugelmin           jordan - yamaha    22       spun off    25
+21        johnny herbert              lotus - ford    15        gearbox     6
+22    michael schumacher           benetton - ford    13        gearbox     5
+23    olivier grouillard           tyrrell - ilmor     6       spun off    21
+24       thierry boutsen          ligier - renault     3        gearbox    10
+25          ayrton senna           mclaren - honda     2         engine     3

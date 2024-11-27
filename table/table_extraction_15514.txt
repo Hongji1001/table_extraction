@@ -1,0 +1,22 @@
+    rank              player                         team  runs  balls  year                      against
+0      1       kevin o'brien   gloucestershire gladiators   119     52  2011           middlesex panthers
+1      2          matt prior                sussex sharks   117     55  2010            glamorgan dragons
+2      3         wes durston           derbyshire falcons   111     59  2010      nottinghamshire outlaws
+3      4        richard levi  northamptonshire steelbacks   110     62  2013                    glamorgan
+4      5  marcus trescothick                     somerset   108     61  2011                 essex eagles
+5      6     michael klinger   gloucestershire gladiators   108     64  2013        worcestershire royals
+6      7      james hildreth                     somerset   107     60  2012                welsh dragons
+7      8        scott styris                 essex eagles   106     50  2010                       surrey
+8      9       azhar mahmood               kent spitfires   106     57  2011   gloucestershire gladiators
+9     10      adam gilchrist           middlesex panthers   106     52  2010               kent spitfires
+10    11         ravi bopara                 essex eagles   105     62  2010                     somerset
+11    12          brad hodge         leicestershire foxes   103     66  2010      nottinghamshire outlaws
+12    13  ryan ten doeschate                 essex eagles   102     54  2010           middlesex panthers
+13    14     hamish marshall   gloucestershire gladiators   102     54  2011           middlesex panthers
+14    15    herschelle gibbs           yorkshire carnegie   101     53  2010  northamptonshire steelbacks
+15    16           jason roy                       surrey   101     57  2010               kent spitfires
+16    17        scott styris                sussex sharks   100     37  2012   gloucestershire gladiators
+17    18         jimmy adams             hampshire royals   101     67  2010                       surrey
+18    19      murray goodwin                sussex sharks   100     59  2011                       surrey
+19    20         jimmy adams             hampshire royals   100     61  2010            glamorgan dragons
+20    21    michael carberry             hampshire royals   100     66  2013         lancashire lightning

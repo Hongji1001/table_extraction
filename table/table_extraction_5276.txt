@@ -1,0 +1,35 @@
+                       club                          premier league championship / first division league one / second division league two / third division
+0         manchester united  5 ( 2002 , 2006 , 2007 , 2008 , 2010 )                             0                            0                           0
+1                   arsenal                3 ( 2003 , 2004 , 2012 )                             0                            0                           0
+2                 liverpool                3 ( 2001 , 2009 , 2011 )                             0                            0                           0
+3                   chelsea                              1 ( 2005 )                             0                            0                           0
+4   wolverhampton wanderers                                       0             2 ( 2002 , 2007 )                            0                           0
+5                   watford                                       0                    1 ( 2011 )                            0                           0
+6      west bromwich albion                                       0                    1 ( 2010 )                            0                           0
+7       sheffield wednesday                                       0                    1 ( 2009 )                            0                           0
+8          sheffield united                                       0                    1 ( 2008 )                            0                           0
+9                   reading                                       0                    1 ( 2006 )                            0                           0
+10        preston north end                                       0                    1 ( 2005 )                            0                           0
+11             norwich city                                       0                    1 ( 2004 )                            0                           0
+12               portsmouth                                       0                    1 ( 2003 )                            0                           0
+13        nottingham forest                                       0                    1 ( 2001 )                            0                           0
+14        huddersfield town                                       0                             0                   1 ( 2011 )                           0
+15              southampton                                       0                             0                   1 ( 2010 )                           0
+16             leeds united                                       0                             0                   1 ( 2009 )                           0
+17          southend united                                       0                             0                   1 ( 2006 )                  1 ( 2005 )
+18   brighton & hove albion                                       0                             0                   1 ( 2002 )                  1 ( 2001 )
+19                 millwall                                       0                             0                   1 ( 2008 )                           0
+20        scunthorpe united                                       0                             0                   1 ( 2007 )                           0
+21                blackpool                                       0                             0                   1 ( 2005 )                           0
+22              bournemouth                                       0                             0                   1 ( 2004 )                           0
+23             cardiff city                                       0                             0                   1 ( 2003 )                           0
+24             bristol city                                       0                             0                   1 ( 2001 )                           0
+25               gillingham                                       0                             0                            0                  1 ( 2011 )
+26             notts county                                       0                             0                            0                  1 ( 2010 )
+27                brentford                                       0                             0                            0                  1 ( 2009 )
+28             chesterfield                                       0                             0                            0                  1 ( 2008 )
+29             swindon town                                       0                             0                            0                  1 ( 2007 )
+30          carlisle united                                       0                             0                            0                  1 ( 2006 )
+31         northampton town                                       0                             0                            0                  1 ( 2004 )
+32             swansea city                                       0                             0                            0                  1 ( 2003 )
+33               luton town                                       0                             0                            0                  1 ( 2002 )

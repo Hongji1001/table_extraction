@@ -1,0 +1,9 @@
+              team 1               agg               team 2 1st leg        2nd leg
+0         anderlecht             2 - 6        bayern munich   0 - 5          2 - 1
+1            rangers             2 - 1        werder bremen   2 - 0          0 - 1
+2   bolton wanderers             1 - 2          sporting cp   1 - 1          0 - 1
+3   bayer leverkusen       3 - 3 ( a )              hamburg   1 - 0          2 - 3
+4            benfica             1 - 3               getafe   1 - 2          0 - 1
+5         fiorentina  2 - 2 (4 - 2 p )              everton   2 - 0  0 - 2 ( aet )
+6  tottenham hotspur  1 - 1 (5 - 6 p )        psv eindhoven   0 - 1  1 - 0 ( aet )
+7          marseille       3 - 3 ( a )  zenit st petersburg   3 - 1          0 - 2

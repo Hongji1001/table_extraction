@@ -1,0 +1,8 @@
+     year  division league      regular season         playoffs         open cup
+0    2008         4   npsl  2nd , mid atlantic  did not qualify  did not qualify
+1    2009         4   npsl      5th , atlantic  did not qualify    did not enter
+2    2010         4   npsl      5th , atlantic  did not qualify    did not enter
+3  201011         5  csl i         in progress            n / a            n / a
+4    2011         4   npsl      4th , atlantic  did not qualify    did not enter
+5    2012         4   npsl      3rd , atlantic  did not qualify    did not enter
+6    2013         4   npsl      3rd , atlantic  did not qualify    did not enter

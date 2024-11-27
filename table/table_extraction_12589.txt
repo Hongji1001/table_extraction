@@ -1,0 +1,15 @@
+    week                 date             opponent     result  attendance
+0      1  september 15 , 1974  philadelphia eagles    w 7 - 3       40322
+1      2  september 22 , 1974  washington redskins  w 17 - 10       53888
+2      3  september 29 , 1974     cleveland browns   w 29 - 7       43472
+3      4     october 6 , 1974  san francisco 49ers   w 34 - 9       48675
+4      5    october 13 , 1974       dallas cowboys  w 31 - 28       49885
+5      6    october 20 , 1974       houston oilers  w 31 - 27       26371
+6      7    october 27 , 1974  washington redskins  w 23 - 20       49410
+7      8    november 3 , 1974       dallas cowboys  l 17 - 14       64146
+8      9   november 11 , 1974    minnesota vikings  l 28 - 24       50183
+9     10   november 17 , 1974  philadelphia eagles   w 13 - 3       61982
+10    11   november 24 , 1974      new york giants  w 23 - 21       40615
+11    12    december 1 , 1974   kansas city chiefs  l 17 - 13       41863
+12    13    december 8 , 1974   new orleans saints   l 14 - 0       57152
+13    14   december 15 , 1974      new york giants  w 26 - 14       47414

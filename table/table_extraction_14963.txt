@@ -1,0 +1,33 @@
+    tie no                   home team  score               away team  attendance
+0        1             hinckley united  1 - 1           curzon ashton         555
+1        2              kettering town  3 - 0           burton albion        1726
+2        3                    tamworth  0 - 4                  barrow        1012
+3        4                king 's lynn  1 - 5  kidderminster harriers        1460
+4        5               boston united  2 - 3        cambridge united        1956
+5        6         newcastle blue star  1 - 2              altrincham         305
+6        7                   droylsden  0 - 0             belper town         557
+7        8                 durham city  2 - 2                  histon         257
+8        9              retford united  1 - 3           alfreton town         922
+9       10          northwich victoria  0 - 3      afc telford united        1003
+10      11              blyth spartans  3 - 1               sheffield         680
+11      12                   york city  0 - 0          mansfield town        1976
+12      13              fleetwood town  4 - 3           nantwich town         808
+13      14                     wrexham  0 - 0           eastwood town        3115
+14      15           stevenage borough  2 - 2                 horsham        1051
+15      16                      woking  2 - 2        ebbsfleet united        1462
+16      17  hampton & richmond borough  0 - 1           brackley town         582
+17      18               oxford united  2 - 0  hayes & yeading united        2521
+18      19            maidstone united  0 - 1           afc wimbledon        1719
+19      20                   team bath  1 - 0          salisbury city         649
+20      21             dorchester town  1 - 0     bishop 's stortford         433
+21      22                 oxford city  0 - 1      eastbourne borough         564
+22      23        ashford town (middx)  0 - 0     forest green rovers         337
+23      24              evesham united  2 - 0      rushden & diamonds         609
+24      25                   bury town  4 - 1        basingstoke town        1121
+25      26           burgess hill town  0 - 3             harlow town         845
+26      27              grays athletic  2 - 0              afc totton         590
+27      28            aylesbury united  0 - 1           sutton united         554
+28      29              torquay united  4 - 1               chipstead        1800
+29      30                     leiston  1 - 1                   lewes         847
+30      31                crawley town  0 - 3  havant & waterlooville        1253
+31      32                    weymouth  1 - 2          afc hornchurch         904

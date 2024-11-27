@@ -1,0 +1,18 @@
+                                           government  federal excise tax ( cad / l )  total excise tax (cad / l)  minimum tax incl sales taxes (cad / l)  min tax (cad / us gal)
+0                                    canada (average)                              10                       24.50                                   25.30                    95.8
+1                           newfoundland and labrador                              10                       26.50                                   29.90                   113.2
+2                                prince edward island                              10                       25.80                                   27.00                   102.2
+3                                         nova scotia                              10                       25.50                                   29.30                   110.9
+4                                       new brunswick                              10                       23.60                                   26.70                   101.1
+5                           québec excluding montréal                              10                       30.20                                   46.50                   175.8
+6                                             ontario                              10                       24.70                                   27.90                   105.7
+7                                            manitoba                              10                       24.00                                   22.60                    85.6
+8                                        saskatchewan                              10                       25.00                                   26.20                    99.2
+9                                             alberta                              10                       19.00                                   20.00                    75.7
+10  british columbia excluding vancouver and victoria                              10                       30.06                                   31.56                   119.5
+11                                              yukon                              10                       16.20                                   17.00                    64.4
+12                              northwest territories                              10                       20.70                                   21.70                    82.1
+13                                            nunavut                              10                       20.70                                   21.70                    82.1
+14                                      montréal , qc                              10                       33.20                                   49.70                   187.8
+15                                     vancouver , bc                              10                       39.06                                   41.01                   155.2
+16                                      victoria , bc                              10                       33.56                                   35.24                   133.4

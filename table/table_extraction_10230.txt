@@ -1,0 +1,8 @@
+             denomination           metal weight            shape                     size
+0               one rupee          nickel   10 g         circular                    28 mm
+1        fifty naye paise          nickel    5 g         circular                    24 mm
+2  twenty five naye paise          nickel  2.5 g         circular                    19 mm
+3          ten naye paise  cupro - nickel    5 g  eight scalloped  23 mm (across scallops)
+4         five naye paise  cupro - nickel    4 g           square   22 mm (across corners)
+5          two naye paise  cupro - nickel    3 g  eight scalloped  18 mm (across scallops)
+6          one naya paisa          bronze  1.5 g         circular                    16 mm

@@ -1,0 +1,31 @@
+                         name          circuit          date             winning driver winning constructor    report
+0   swedish winter grand prix            rämen   28 february             olle bennström                ford    report
+1            tunis grand prix         carthage       3 april              achille varzi             bugatti    report
+2           monaco grand prix           monaco      17 april             tazio nuvolari          alfa romeo    report
+3             rome grand prix         littorio      24 april              luigi fagioli            maserati    report
+4             oran grand prix           arcone      24 april      jean - pierre wimille             bugatti    report
+5       british empire trophy       brooklands      30 april                  john cobb              delage    report
+6                targa florio          madonie         8 may             tazio nuvolari          alfa romeo    report
+7          finnish grand prix   eläintarharata         8 may     per - viktor widengren     mercedes - benz    report
+8   grand prix des frontières           chimay        15 may               arthur legat             bugatti    report
+9             provence trophy            nîmes        16 may       stanislas czaykowski             bugatti    report
+10           nîmes grand prix            nîmes        16 may           benoît falchetto             bugatti    report
+11                 avusrennen             avus        22 may    manfred von brauchitsch     mercedes - benz    report
+12      casablanca grand prix     anfa circuit        22 may              marcel lehoux             bugatti    report
+13                eifelrennen      nürburgring        29 may          rudolf caracciola          alfa romeo    report
+14        torvilliers circuit           troyes        29 may            robert gauthier             bugatti    report
+15         picardy grand prix          péronne        5 june         philippe étancelin          alfa romeo    report
+16            lviv grand prix             lviv       19 june          rudolf caracciola          alfa romeo    report
+17        lorraine grand prix            nancy       26 june      jean - pierre wimille          alfa romeo    report
+18          dieppe grand prix           dieppe       24 july               louis chiron             bugatti    report
+19          nice circuit race             nice       31 july               louis chiron             bugatti    report
+20                coppa ciano        montenero       31 july             tazio nuvolari          alfa romeo    report
+21               coppa acerbo          pescara     14 august             tazio nuvolari          alfa romeo    report
+22    grand prix du comminges  saint - gaudens     14 august          goffredo zehender          alfa romeo    report
+23        la baule grand prix         la baule     17 august  william grover - williams             bugatti    report
+24         masaryk grand prix             brno   4 september               louis chiron             bugatti    report
+25      mountain championship       brooklands  10 september           malcolm campbell             sunbeam    report
+26           monza grand prix            monza  11 september          rudolf caracciola          alfa romeo    report
+27         antibes grand prix          garoupe  11 september           benoît falchetto             bugatti    report
+28       marseille grand prix          miramas  25 september             raymond sommer          alfa romeo  f report
+29            munkkiniemenajo         helsinki  25 september     per - viktor widengren          alfa romeo    report

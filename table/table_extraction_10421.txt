@@ -1,0 +1,11 @@
+   rank             province  gold  silver  bronze  total
+0     1              bangkok   125      90      76    291
+1     2             chonburi    44      34      48    126
+2     3           chiang mai    37      34      41    112
+3     4          phitsanulok    24      15      31     70
+4     5          suphan buri    21      27      24     72
+5     6    nakhon ratchasima    21      21      31     73
+6     7  nakhon si thammarat    11      10      15     36
+7     8            khon kaen     9      15       8     32
+8     9         pathum thani     9      11       9     29
+9    10            si sa ket     9       6      21     36

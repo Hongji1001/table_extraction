@@ -1,0 +1,10 @@
+        round home team win / loss    score      opposition  location
+0     round 1  wanganui        win   71 - 6      east coast  wanganui
+1     round 2  wanganui        win   43 - 0   thames valley    paeroa
+2     round 3  wanganui        win  36 - 16     poverty bay  wanganui
+3     round 4  wanganui        win  47 - 19    king country  te kuiti
+4     round 5  wanganui        win  43 - 12  mid canterbury  wanganui
+5     round 6  wanganui        win  42 - 10          buller  wanganui
+6     round 7  wanganui        win   52 - 7      west coast  westport
+7     round 8  wanganui        win   19 - 8     north otago  wanganui
+8  semi final  wanganui        win  40 - 18      west coast  wanganui

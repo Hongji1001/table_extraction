@@ -1,0 +1,8 @@
+                          line       speed  length construction begun  expected start of revenue services
+0  svilengrad - turkish border  200 km / h   19 km               2010                                2012
+1    dimitrovgrad - svilengrad  200 km / h   70 km               2012                                2013
+2             plovdiv - burgas  200 km / h  291 km               2010                                2013
+3              sofia - plovdiv  200 km / h  156 km               2010                                2015
+4              sofia - radomir  200 km / h   53 km               2014                                2017
+5             sofia - dragoman  200 km / h   44 km               2014                                2017
+6                vidin - sofia  200 km / h  222 km            unknown                                2020

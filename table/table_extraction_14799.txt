@@ -1,0 +1,8 @@
+                                   club  nickname                  location gfl premierships        years in gfl
+0                                barwon  bulldogs        belmont , victoria              nil         1979 - 1989
+1                          east geelong    eagles   east geelong , victoria              nil                1979
+2                       geelong amateur     ammos        highton , victoria              nil         1986 - 1988
+3  geelong west cricket & football club  cheetahs   geelong west , victoria              nil           1979 - 85
+4                         north geelong   magpies  north geelong , victoria              nil         1979 - 1982
+5                             st peters    saints     herne hill , victoria              nil  1979 , 1982 - 1987
+6                               thomson    tigers        thomson , victoria              nil  1979 - 1981 , 1984

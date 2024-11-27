@@ -1,0 +1,7 @@
+                 name    first captaincy  games as captain  wins  draws  losses
+0        noel spencer     26 august 2005                40    13     14      13
+1      alex wilkinson   12 november 2006                97    42     23      32
+2         tony vidmar     31 august 2007                 5     3      1       1
+3     john hutchinson  23 september 2007                 4     1      1       2
+4         john aloisi    19 january 2008                 1     1      0       0
+5  patrick zwaanswijk     8 october 2011                 3     0      1       2

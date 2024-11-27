@@ -1,0 +1,13 @@
+         date  opponent home / away                        field     result
+0      may 31  rattlers        away         bishop kearney field  l 13 - 23
+1      june 6   cannons        home  the ballpark at harbor yard  l 17 - 23
+2     june 12  bayhawks        home  the ballpark at harbor yard  l 14 - 21
+3     june 14     pride        away       commerce bank ballpark   l 9 - 16
+4     june 27   lizards        away     mitchel athletic complex  l 19 - 23
+5     july 12   lizards        home  the ballpark at harbor yard  l 16 - 17
+6     july 19  bayhawks        away               homewood field  w 22 - 17
+7     july 24  rattlers        home  the ballpark at harbor yard  l 19 - 21
+8     july 31     pride        home  the ballpark at harbor yard  l 14 - 22
+9    august 2  rattlers        away         bishop kearney field  l 13 - 28
+10   august 7   cannons        away      cawley memorial stadium  l 15 - 21
+11  august 14  rattlers        home  the ballpark at harbor yard  l 18 - 23

@@ -1,0 +1,22 @@
+                        race name           circuit          date      winning driver        constructor  report
+0               ii lombank trophy        snetterton      26 march        jack brabham    cooper - climax  report
+1                ix glover trophy          goodwood       3 april        john surtees    cooper - climax  report
+2              xxi pau grand prix               pau       3 april           jim clark     lotus - climax  report
+3         iii brussels grand prix            heysel       9 april        jack brabham    cooper - climax  report
+4            ii vienna grand prix  aspern aerodrome      16 april       stirling moss     lotus - climax  report
+5                  vi aintree 200           aintree      22 april        jack brabham    cooper - climax  report
+6          xi syracuse grand prix          syracuse      25 april  giancarlo baghetti            ferrari  report
+7           xix naples grand prix         posillipo        14 may  giancarlo baghetti            ferrari  report
+8                ix london trophy    crystal palace        23 may       roy salvadori    cooper - climax  report
+9           vi silver city trophy      brands hatch        3 june       stirling moss     lotus - climax  report
+10            solitude grand prix      solitudering       23 july       innes ireland     lotus - climax  report
+11                vii kanonloppet         karlskoga     20 august       stirling moss     lotus - climax  report
+12           ii danish grand prix      roskildering   2627 august       stirling moss     lotus - climax  report
+13           xv modena grand prix            modena   3 september       stirling moss     lotus - climax  report
+14            iii flugplatzrennen  zeltweg airfield  17 september       innes ireland     lotus - climax  report
+15                  viii gold cup       oulton park  23 september       stirling moss  ferguson - climax  report
+16         v lewis - evans trophy      brands hatch     1 october          tony marsh       brm - climax  report
+17                 i coppa italia        vallelunga    12 october  giancarlo baghetti            porsche  report
+18              v rand grand prix           kyalami    9 december           jim clark     lotus - climax  report
+19             i natal grand prix          westmead   17 december           jim clark     lotus - climax  report
+20  viii south african grand prix       east london   26 december           jim clark     lotus - climax  report

@@ -1,0 +1,6 @@
+                  awards  year                          category       result  production          roll
+0    british soap awards  2010                    sexiest female    nominated  eastenders  amira masood
+1    british soap awards  2012                    sexiest female  shortlisted  eastenders  amira masood
+2     inside soap awards  2009  best family (for masood family )   longlisted  eastenders  amira masood
+3     inside soap awards  2010  best wedding (with marc elliot )          won  eastenders  amira masood
+4  all about soap awards  2010                    bride and doom    nominated  eastenders  amira masood

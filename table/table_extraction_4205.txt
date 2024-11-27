@@ -1,0 +1,24 @@
+                                              date                            track                               event name       pole winner       race winner
+0   february 11 (rain - delayed until february 12)   daytona international speedway                         daytona arca 200     bobby gerhart     bobby gerhart
+1                                         april 15          nashville superspeedway                           pfg lester 150     steve wallace    stephen leicht
+2                                         april 23                   salem speedway        kentuckiana ford dealers arca 200      brad coleman   billy venturini
+3                                            may 7              winchester speedway                      winchester arca 200        brett rowe      frank kimmel
+4                                           may 13                kentucky speedway      harley - davidson of cincinnati 150     steve wallace     steve wallace
+5                                           may 21                  toledo speedway                          hantz group 200      frank kimmel      ken schrader
+6                                          june 10                   pocono raceway                               pocono 200     david stremme      chase miller
+7                                          june 16  michigan international speedway                          hantz group 200      chuck webber     david stremme
+8                                           july 1                  kansas speedway                 kansas lottery 200 grand      brad coleman      frank kimmel
+9                                           july 7                kentucky speedway                            channel 5 150      erin crocker      brad coleman
+10                                         july 15                   berlin raceway             sara lee gfs marketplace 200   blake bjorklund  brian keselowski
+11                                         july 22                   pocono raceway                         pennsylvania 200      frank kimmel      frank kimmel
+12                                         july 28    gateway international raceway                         shop 'n save 150      chase miller         cale gale
+13                                       august 12          nashville superspeedway                        arca re / max 200      brad coleman    mario gosselin
+14                                       august 18  michigan international speedway                          hantz group 200     brent sherman     brent sherman
+15                                       august 20              illinois state fair                 allen crowe memorial 100        damon lusk   justin allgaier
+16                                       august 26                   milwaukee mile                      governor 's cup 200   blake bjorklund       phil bozell
+17                                     september 1                  toledo speedway                          hantz group 200  brian keselowski   chuck barnes jr
+18                                     september 4        duquoin state fairgrounds                    southern illinois 100      ken schrader      ken schrader
+19                                     september 9             chicagoland speedway                         sk hand tool 200     steve wallace     steve wallace
+20                                    september 16                   salem speedway  eddie gilstrap motors arca fall classic       dexter bean   blake bjorklund
+21                                       october 6          talladega superspeedway                           food world 250     bobby gerhart      frank kimmel
+22                                      october 15                    iowa speedway                      prairie meadows 250     steve wallace     steve wallace

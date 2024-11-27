@@ -1,0 +1,7 @@
+  nominative    ergative     dative   genitive instrumental  adverbial
+0   chem - i   chem - ma   chem - s   chem - i    chem - is   chem - s
+1   shen - i   shen - ma   shen - s   shen - i    shen - is   shen - s
+2    mis - i    mis - ma        mis    mis - i      mis - i        mis
+3  chven - i  chven - ma  chven - s  chven - i    chven - s  chven - s
+4  tkven - i  tkven - ma  tkven - s  tkven - i    tkven - s  tkven - s
+5    mat - i    mat - ma        mat    mat - i      mat - i        mat

@@ -1,0 +1,11 @@
+                name    total   league canadian championship concacaf champions league
+0        stefan frei   96 (0)   81 (0)                 9 (0)                     6 (0)
+1        jim brennan   93 (4)   84 (4)                 7 (0)                     2 (0)
+2   julian de guzman   93 (3)   65 (2)                10 (0)                    18 (1)
+3      carl robinson   84 (3)   74 (3)                 8 (0)                     2 (0)
+4  richard eckersley   80 (0)   61 (0)                 6 (0)                    13 (0)
+5       chad barrett  78 (21)  65 (16)                 7 (3)                     6 (2)
+6  dwayne de rosario  75 (32)  57 (27)                 8 (4)                    10 (1)
+7      marvell wynne   75 (2)   67 (2)                 6 (0)                     2 (0)
+8      nana attakora   68 (4)   56 (3)                 6 (0)                     6 (1)
+9     ashtone morgan   68 (0)   47 (0)                 4 (0)                    17 (0)

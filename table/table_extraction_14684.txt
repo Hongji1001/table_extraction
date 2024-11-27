@@ -1,0 +1,8 @@
+           region                 date             format (s)        edition (s)            label
+0       australia  september 19 , 2008  cd , digital download  standard , deluxe  universal music
+1         germany  september 19 , 2008  cd , digital download  standard , deluxe  universal music
+2  united kingdom  september 19 , 2008  cd , digital download             deluxe          polydor
+3  united kingdom  september 22 , 2008  cd , digital download           standard          polydor
+4   united states  september 23 , 2008  cd , digital download  standard , deluxe       interscope
+5           japan   december 10 , 2008  cd , digital download             deluxe  universal music
+6         germany      april 24 , 2009  cd , digital download       re - edition  universal music

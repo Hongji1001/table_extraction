@@ -1,0 +1,10 @@
+   year                            competition                       venue position      event
+0  1962  british empire and commonwealth games           perth , australia      6th  high jump
+1  1964                          olympic games               tokyo , japan     10th  high jump
+2  1966  british empire and commonwealth games          kingston , jamaica      1st  high jump
+3  1968                          olympic games        mexico city , mexico      8th  high jump
+4  1969               pacific conference games               tokyo , japan      1st  high jump
+5  1970                     commonwealth games        edinburgh , scotland      1st  high jump
+6  1972                          olympic games       munich , west germany     18th  high jump
+7  1973               pacific conference games            toronto , canada      3rd  high jump
+8  1974             british commonwealth games  christchurch , new zealand      2nd  high jump

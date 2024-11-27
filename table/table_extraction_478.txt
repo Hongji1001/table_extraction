@@ -1,0 +1,12 @@
+    no              player  height position  year born           current club
+0    4     marco belinelli    1.96    guard       1986  golden state warriors
+1    5     gianluca basile    1.95    guard       1975       axa fc barcelona
+2    6  stefano mancinelli    2.03  forward       1983       climamio bologna
+3    7      matteo soragna    1.97    guard       1975       benetton treviso
+4    8     denis marconato    2.12   center       1975       axa fc barcelona
+5    9      marco mordente    1.90    guard       1979       benetton treviso
+6   10     andrea bargnani    2.12  forward       1985        toronto raptors
+7   11    andrea crosariol    2.13   center       1984       vidivici bologna
+8   12     massimo bulleri    1.87    guard       1977    armani jeans milano
+9   13      fabio di bella    1.86    guard       1978       vidivici bologna
+10  14        luigi datome    2.02  forward       1987          legea scafati

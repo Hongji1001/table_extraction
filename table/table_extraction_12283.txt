@@ -1,0 +1,24 @@
+       season                skip                                    third                                    second                               lead
+0   1982 - 83      anette norberg                           carina nilsson                            louise marmont                     anna rindeskog
+1   1984 - 85      anette norberg                           anna rindeskog                             sofie marmont                     louise marmont
+2   1985 - 86      anette norberg                            sofie marmont                            anna rindeskog                     louise marmont
+3   1986 - 87      anette norberg                           carina westman                            anna rindeskog                     louise marmont
+4   1987 - 88      anette norberg  anna rindeskog (began season as second)     sofie marmont (began season as third)                     louise marmont
+5    1988 ecc  elisabeth högström                           anette norberg                            monika jansson                   marie henriksson
+6    1989 wcc      anette norberg                           anna rindeskog                             sofie marmont                     louise marmont
+7   1989 - 90      anette norberg                           anna rindeskog                             sofie marmont                     louise marmont
+8   1990 - 91      anette norberg                         cathrine norberg                            anna rindeskog                   helene granqvist
+9   1991 - 92      anette norberg                           anna rindeskog                          cathrine norberg                   helene granqvist
+10  1994 - 95      anette norberg                         cathrine norberg                             helena klange                   helene granqvist
+11  1998 - 99      anette norberg                         cathrine norberg                           helena svensson                          anna blom
+12  2000 - 01      anette norberg                         cathrine norberg                                  eva lund                     helena lingham
+13  2001 - 02      anette norberg                         cathrine norberg                                  eva lund                   maria hasselborg
+14  2002 - 03      anette norberg        eva lund (began season as second)  cathrine norberg (began season as third)                     helena lingham
+15  2003 - 04      anette norberg                                 eva lund                          cathrine norberg                     anna bergström
+16  2004 - 05      anette norberg                                 eva lund                          cathrine lindahl                     anna bergström
+17  2005 - 06      anette norberg                                 eva lund                          cathrine lindahl                         anna svärd
+18  2006 - 07      anette norberg                                 eva lund                          cathrine lindahl                         anna svärd
+19  2007 - 08      anette norberg                                 eva lund                          cathrine lindahl                         anna svärd
+20  2008 - 09      anette norberg                                 eva lund                          cathrine lindahl  anna svärd margaretha sigfridsson
+21  2009 - 10      anette norberg                                 eva lund                          cathrine lindahl                      anna le moine
+22  2010 - 11      anette norberg                          cecilia östlund                             sara carlsson              liselotta lennartsson

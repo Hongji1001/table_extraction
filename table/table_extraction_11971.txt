@@ -1,0 +1,18 @@
+             race      pole position         fastest lap       most laps led      winning driver         winning team  report
+0       são paulo   dario franchitti          will power    dario franchitti          will power          team penske  report
+1   st petersburg         will power            e j viso          will power          will power          team penske  report
+2          barber         will power       justin wilson      marco andretti   hélio castroneves          team penske  report
+3      long beach         will power  ryan hunter - reay  ryan hunter - reay  ryan hunter - reay   andretti autosport  report
+4          kansas       ryan briscoe         tony kanaan         scott dixon         scott dixon  chip ganassi racing  report
+5    indianapolis  hélio castroneves          will power    dario franchitti    dario franchitti  chip ganassi racing  report
+6           texas       ryan briscoe  ryan hunter - reay        ryan briscoe        ryan briscoe          team penske  report
+7            iowa         will power    dario franchitti    dario franchitti         tony kanaan   andretti autosport  report
+8    watkins glen         will power          will power          will power          will power          team penske  report
+9         toronto      justin wilson          will power       justin wilson          will power          team penske  report
+10       edmonton         will power         scott dixon          will power         scott dixon  chip ganassi racing  report
+11     mid - ohio         will power        ryan briscoe       alex tagliani    dario franchitti  chip ganassi racing  report
+12         sonoma         will power      j r hildebrand          will power          will power          team penske  report
+13    chicagoland       ryan briscoe         scott dixon        ryan briscoe    dario franchitti  chip ganassi racing  report
+14       kentucky       ed carpenter  ryan hunter - reay         dan wheldon   hélio castroneves          team penske  report
+15         motegi  hélio castroneves   hélio castroneves   hélio castroneves   hélio castroneves          team penske  report
+16      homestead   dario franchitti      marco andretti    dario franchitti         scott dixon  chip ganassi racing  report

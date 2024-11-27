@@ -1,0 +1,31 @@
+                     player      position date of birth (age)  caps  club / province
+0               adam freier        hooker       20 march 1980    15         waratahs
+1              sean hardman        hooker          6 may 1977     3  queensland reds
+2             stephen moore        hooker     20 january 1983    16  queensland reds
+3                 al baxter          prop     21 january 1977    47         waratahs
+4              matt dunning          prop    19 december 1978    32         waratahs
+5               greg holmes          prop        11 june 1983    11  queensland reds
+6           guy shepherdson          prop    17 february 1982    14         brumbies
+7             mark chisholm          lock   18 september 1981    32         brumbies
+8            hugh mcmeniman          lock     1 november 1983     8  queensland reds
+9             nathan sharpe          lock    26 february 1978    60    western force
+10         daniel vickerman          lock         4 june 1979    48         waratahs
+11              rocky elsom       flanker    14 february 1983    28         waratahs
+12      george smith ( vc )       flanker        14 july 1980    79         brumbies
+13               phil waugh       flanker   22 september 1979    62         waratahs
+14             wycliff palu      number 8        27 july 1982    13         waratahs
+15           stephen hoiles      number 8     13 october 1981    10         brumbies
+16           sam cordingley  scrum - half       20 march 1976    12  queensland reds
+17     george gregan ( vc )  scrum - half       19 april 1973   134         brumbies
+18           berrick barnes    fly - half         28 may 1986     0  queensland reds
+19          stephen larkham    fly - half         29 may 1974   101         brumbies
+20           morgan turinui        centre      5 january 1982    22  queensland reds
+21              matt giteau        centre   29 september 1982    47    western force
+22  stirling mortlock ( c )        centre         20 may 1977    60         brumbies
+23         scott staniforth        centre    12 december 1977    10    western force
+24     adam ashley - cooper          wing       27 march 1984     8         brumbies
+25         cameron shepherd          wing       30 march 1984     6    western force
+26              lote tuqiri          wing   23 september 1979    53         waratahs
+27            drew mitchell          wing       26 march 1984    16    western force
+28            julian huxley      fullback       3 august 1979     6         brumbies
+29             chris latham      fullback    8 september 1975    73  queensland reds

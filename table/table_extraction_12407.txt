@@ -1,0 +1,18 @@
+    season             player                    club          nationality  goals
+0     2008      roberto brown         montreal impact               panama      2
+1     2008     rohan ricketts              toronto fc              england      2
+2     2008   eduardo sebrango     vancouver whitecaps                 cuba      2
+3     2009  dwayne de rosario              toronto fc               canada      3
+4     2010       chad barrett              toronto fc        united states      1
+5     2010     philippe billy         montreal impact               france      1
+6     2010        peter byers         montreal impact  antigua and barbuda      1
+7     2010  dwayne de rosario              toronto fc               canada      1
+8     2010       marcus haber     vancouver whitecaps               canada      1
+9     2010          ty harden              toronto fc        united states      1
+10    2010         ansu toure     vancouver whitecaps              liberia      1
+11    2011      maicon santos              toronto fc               brazil      3
+12    2012       reggie lambe              toronto fc              bermuda      2
+13    2012       ryan johnson              toronto fc              jamaica      2
+14    2012  sébastien le toux  vancouver whitecaps fc               france      2
+15    2012        éric hassli  vancouver whitecaps fc               france      2
+16    2013             camilo  vancouver whitecaps fc               brazil      3

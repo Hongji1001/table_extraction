@@ -1,0 +1,37 @@
+   group                     name     nationality 4.00 result
+0      a        yelena isinbayeva          russia    -   4.60
+1      b           vanessa boslak          france    -   4.50
+2      a              gao shuying           china    -   4.50
+3      b            fabiana murer          brazil    -   4.50
+4      b      jennifer stuczynski   united states    -   4.50
+5      a       svetlana feofanova          russia    -   4.50
+6      a    april steiner bennett   united states    -   4.50
+7      a             monika pyrek          poland    -   4.50
+8      b            anna rogowska          poland    -   4.50
+9      b      yuliya golubchikova          russia    -   4.50
+10     a           carolin hingst         germany    -   4.50
+11     b        silke spiegelburg         germany    -   4.50
+12     a             naroa agirre           spain    o   4.40
+13     a     anastasija reiberger         germany    -   4.40
+14     b            kate dennison   great britain   xo   4.40
+15     b               alana boyd       australia    -   4.30
+16     b           roslinda samsu        malaysia    o   4.30
+17     b            kelsie hendry          canada    -   4.30
+18     a        joanna piwowarska          poland   xo   4.30
+19     a         afrodíti skafída          greece    -   4.30
+20     a  sandra - helena tavares        portugal    o   4.30
+21     b           nicole büchler     switzerland  xxo   4.30
+22     a           marion buisson          france    o   4.15
+23     b   thórey edda elisdóttir         iceland    -   4.15
+24     b                zhou yang           china   xo   4.15
+25     b         krisztina molnár         hungary  xxo   4.15
+26     a           natalya kushch         ukraine    -   4.15
+27     b   nikoléta kiriakopoúlou          greece    -   4.15
+28     a                  li ling           china    -   4.15
+29     a           yarisley silva            cuba    -   4.15
+30     a         alejandra garcía       argentina  xxo   4.15
+31     a        leila ben youssef         tunisia   xo   4.00
+32     a            vanessa vandy         finland   xo   4.00
+33     b             anna fitídou          cyprus  xxo   4.00
+34     b        kateřina baďurová  czech republic  xxx     nm
+35     b          erica bartolina   united states    -     nm

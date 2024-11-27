@@ -1,0 +1,12 @@
+                                   shooter              event              rank points             score points                    total
+0                 natalia paderina ( rus )           wcf 2007       defending champion       defending champion       defending champion
+1                       guo wenjun ( chn )         og beijing    olympic gold medalist    olympic gold medalist    olympic gold medalist
+2                  nino salukvadze ( geo )         og beijing  olympic bronze medalist  olympic bronze medalist  olympic bronze medalist
+3                     sandra kolly ( sui )  wc rio de janeiro                       15                        9                       24
+4                 stephanie tirode ( fra )         wc beijing                       15                        8                       23
+5   miroså‚awa sagun - lewandowska ( pol )          wc munich                       10                       11                       21
+6              lalita yauhleuskaya ( aus )           wc milan                        8                        9                       17
+7                   sonia franquet ( esp )  wc rio de janeiro                       10                        7                       17
+8                          ren jie ( chn )         wc beijing                        8                        8                       16
+9                    zsofia csonka ( hun )         wc beijing                       10                        6                       16
+10                tien chia - chen ( tpe )           wc milan                        8                        7                       15

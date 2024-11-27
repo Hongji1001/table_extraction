@@ -1,0 +1,6 @@
+            region             date           label   format                   catalog
+0      scandinavia  28 january 2009       universal       cd  0 - 6025 - 17918 - 7 - 7
+1          ireland  30 january 2009  reveal records  cd / lp           reveal50cd / lp
+2   united kingdom  2 february 2009  reveal records  cd / lp           reveal50cd / lp
+3  mainland europe    20 march 2009  reveal records  cd / lp           reveal50cd / lp
+4    united states  april 28 , 2009        nettwerk       cd  0 - 6700 - 30838 - 2 - 9

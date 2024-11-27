@@ -1,0 +1,12 @@
+   opposing teams  against            date                               venue        status
+0        scotland       13  01 / 02 / 1997                 twickenham , london  five nations
+1         ireland        6  15 / 02 / 1997             lansdowne road , dublin  five nations
+2          france       23  01 / 03 / 1997                 twickenham , london  five nations
+3           wales       13  15 / 03 / 1997         cardiff arms park , cardiff  five nations
+4       argentina       20  31 / 05 / 1997  ferrocarril stadium , buenos aires    first test
+5       argentina       33  07 / 06 / 1997  ferrocarril stadium , buenos aires   second test
+6       australia       25  12 / 07 / 1997    sydney football stadium , sydney    test match
+7       australia       15  15 / 11 / 1997                 twickenham , london    test match
+8     new zealand       25  22 / 11 / 1997           old trafford , manchester    first test
+9    south africa       29  29 / 11 / 1997                 twickenham , london    test match
+10    new zealand       26  06 / 12 / 1997                 twickenham , london   second test

@@ -1,0 +1,12 @@
+                  title language country               years published                                    frequency                            medium                     classification
+0        fish rap live!  english     usa  1985 - 1988 , 1990 - present                                   9 per year                             paper  satire , absurdism , theme issues
+1       harvard lampoon  english     usa                1876 - present                                five per year                             paper                             satire
+2              krokodil  russian  russia  1922 - 1991 , 2005 - present                                       weekly                             paper                             satire
+3    le canard enchaîné   french  france                1915 - present                                       weekly                             paper                             satire
+4                   mad  english     usa                1952 - present  monthly (1952 - 2009) , quarterly (2009 - )                             paper                    satire , comics
+5       princeton tiger  english     usa                1882 - present                                    quarterly  paper (1882 - ) online (2009 - )                             satire
+6           private eye  english      uk                1961 - present                                     biweekly                             paper                             satire
+7                rumpus  english     usa                1992 - present                                 six per year                             paper                   satire / tabloid
+8   the wittenburg door  english     usa                1971 - present                                    bimonthly                             paper                   christian satire
+9       the yale record  english     usa                1872 - present                                   8 per year                             paper              satire , theme issues
+10   jester of columbia  english     usa  1991 - 1997 , 2005 - present                                    quarterly                             paper                 satire , absurdism

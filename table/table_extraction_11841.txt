@@ -1,0 +1,10 @@
+   pick          nfl team             player           position           college
+0    18  tennessee oilers       kenny holmes      defensive end             miami
+1    46  tennessee oilers          joey kent      wide receiver         tennessee
+2    75  tennessee oilers      denard walker         cornerback        kent state
+3    81  tennessee oilers    scott sanderson   offensive tackle  washington state
+4    98  tennessee oilers      derrick mason      wide receiver    michigan state
+5   107  tennessee oilers        pratt lyons  defensive lineman        troy state
+6   143  tennessee oilers  george mccullough     defensive back            baylor
+7   181  tennessee oilers   dennis stallings         linebacker          illinois
+8   216  tennessee oilers     armon williams         linebacker           arizona

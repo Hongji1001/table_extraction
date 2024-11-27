@@ -1,0 +1,10 @@
+   round  pick              player          position             team
+0      1    17     gosder cherilus  offensive tackle   boston college
+1      2    45        jordon dizon        linebacker         colorado
+2      3    64         kevin smith      running back  central florida
+3      3    87      andre fluellen  defensive tackle    florida state
+4      3    92         cliff avril        linebacker           purdue
+5      5   136  kenneth moore , jr     wide receiver      wake forest
+6      5   146       jerome felton          fullback           furman
+7      7   216        landon cohen  defensive tackle             ohio
+8      7   218      caleb campbell            safety             army

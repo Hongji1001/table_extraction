@@ -1,0 +1,14 @@
+               week                    theme                   song choice     original artist  order    result
+0          audition                    n / a                     the climb         miley cyrus  n / a  advanced
+1         hollywood              group round                     get ready     the temptations  n / a  advanced
+2         hollywood              second solo                         angel     sarah mclachlan  n / a  advanced
+3   top 24 (12 men)   billboard hot 100 hits            here comes goodbye       rascal flatts      2      safe
+4   top 20 (10 men)   billboard hot 100 hits                       my girl     the temptations      8      safe
+5    top 16 (8 men)   billboard hot 100 hits             i'm already there            lonestar      6      safe
+6            top 12       the rolling stones                         angie  the rolling stones     11      safe
+7            top 11  billboard number 1 hits  i don't want to miss a thing           aerosmith      4      safe
+8            top 10               r&b / soul             ain't no sunshine        bill withers     10      safe
+9             top 9          lennonmccartney     the long and winding road         the beatles      1  bottom 3
+10            top 9            elvis presley              blue suede shoes        carl perkins      5      safe
+11            top 7            inspirational           i believe i can fly             r kelly      4  bottom 3
+12            top 6             shania twain              you've got a way        shania twain      5      safe

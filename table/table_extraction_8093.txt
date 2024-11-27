@@ -1,0 +1,42 @@
+    heat  lane                      name     nationality     time
+0      6     4             susie o'neill       australia  1:59.14
+1      4     2             helene muller    south africa  1:59.89
+2      5     4              claudia poll      costa rica  2:00.11
+3      6     5             lindsay benko   united states  2:00.13
+4      4     4             camelia potec         romania  2:00.18
+5      6     6          kerstin kielgass         germany  2:00.25
+6      5     5     franziska van almsick         germany  2:00.37
+7      4     5         martina moravcová        slovakia  2:00.46
+8      5     6        nadezhda chemezova          russia  2:00.47
+9      4     3      natalya baranovskaya         belarus  2:00.58
+10     6     1              carla geurts     netherlands  2:00.60
+11     6     3                 wang luna           china  2:00.89
+12     5     3              giaan rooney       australia  2:00.99
+13     4     8               mandy leach        zimbabwe  2:01.05
+14     5     7                 rada owen   united states  2:01.10
+15     4     1               sara parise           italy  2:01.31
+16     5     2                   yang yu           china  2:01.34
+17     6     2            jessica deglau          canada  2:01.42
+18     4     7           karen pickering   great britain  2:01.42
+19     4     6            solenne figuès          france  2:01.46
+20     3     1              rania elwani           egypt  2:01.93
+21     5     1       nina van koeckhoven         belgium  2:02.15
+22     6     8            laura nicholls          canada  2:02.69
+23     5     8                laura roca           spain  2:03.37
+24     3     2            zoi dimoschaki          greece  2:04.06
+25     3     5            olena lapunova         ukraine  2:04.39
+26     2     5  lára hrund bjargardóttir         iceland  2:05.22
+27     3     4            chantal gibney         ireland  2:05.24
+28     2     6         vesna stojanovska       macedonia  2:05.58
+29     3     8     pilin tachakittiranan        thailand  2:05.88
+30     3     3             elina partõka         estonia  2:05.90
+31     3     6            tsai shu - min  chinese taipei  2:06.12
+32     3     7             roh joo - hee     south korea  2:07.21
+33     2     7          ivanka moralieva        bulgaria  2:07.61
+34     2     3           anna korshikova      kyrgyzstan  2:08.08
+35     2     2             petra banović         croatia  2:08.30
+36     1     4              nisha millet           india  2:08.89
+37     1     5            pamela vásquez        honduras  2:15.83
+38     1     3            marella mamoun           syria  2:18.78
+39     2     4         florencia szigeti       argentina      dsq
+40     6     7                karen legg   great britain      dns

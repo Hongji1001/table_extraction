@@ -1,0 +1,6 @@
+  house name composition    named after  founded colours
+0      benue        coed    river benue     1973  yellow
+1    gongola        coed  gongola river     1980  purple
+2      niger        coed    river niger     1973   green
+3       rima        coed     rima river     1980   brown
+4       ogun        coed     ogun river     1980    blue

@@ -1,0 +1,24 @@
+                   fieldbus  bus power  cabling redundancy    synchronisation  sub millisecond cycle
+0                      afdx         no                 yes                 no                unknown
+1            as - interface        yes                  no                 no                     no
+2                   canopen         no                  no                yes                     no
+3                  componet        yes                  no                 no                    yes
+4                controlnet         no                 yes                 no                     no
+5                 cc - link         no                  no                 no                     no
+6                 devicenet        yes                  no                 no                     no
+7                  ethercat         no                 yes                yes                    yes
+8        ethernet powerlink         no            optional                yes                    yes
+9             ethernet / ip         no            optional                yes                     no
+10                 interbus         no                  no                 no                     no
+11                 lonworks         no                  no                 no                     no
+12                   modbus         no                  no                 no                     no
+13              profibus dp         no            optional                yes                     no
+14              profibus pa        yes                  no                 no                     no
+15              profinet io         no            optional                 no                     no
+16             profinet irt         no            optional                yes                    yes
+17               sercos iii         no                 yes                yes                    yes
+18         sercos interface         no                  no                yes                    yes
+19   foundation fieldbus h1        yes                  no                yes                     no
+20  foundation fieldbus hse         no                 yes                yes                     no
+21                 rapienet         no                 yes  under development            conditional
+22                 fieldbus  bus power  cabling redundancy    synchronisation  sub millisecond cycle

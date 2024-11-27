@@ -1,0 +1,11 @@
+   year manufacturer  start  finish            team
+0  1959    chevrolet     13      40      buck baker
+1  1960   oldsmobile     64      51         gazaway
+2  1963         ford     12       1            wood
+3  1964         ford     13      11     graham shaw
+4  1965         ford     24      29    lyle stelter
+5  1967     plymouth     11       4           petty
+6  1968      mercury      5       9           moore
+7  1970        dodge      8      13  john mcconnell
+8  1971        dodge     23      39  john mcconnell
+9  1973    chevrolet     19      36      carl price

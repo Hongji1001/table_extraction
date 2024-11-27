@@ -1,0 +1,36 @@
+    serial no                  district    headquartered city  city population (2009)  city area (km 2 )
+0           1           attock district           attock city                   94620                 20
+1           2     bahawalnagar district     bahawalnagar city                  134936                 13
+2           3       bahawalpur district       bahawalpur city                  530438                 38
+3           4          bhakkar district          bhakkar city                   89380                 15
+4           5          chakwal district          chakwal city                  113524                 10
+5           6          chiniot district          chiniot city                  219254                 12
+6           7  dera ghazi khan district  dera ghazi khan city                  464742                 22
+7           8       faisalabad district       faisalabad city                 2793721                147
+8           9       gujranwala district       gujranwala city                 1526168                 75
+9          10           gujrat district           gujrat city                  328512                 25
+10         11        hafizabad district        hafizabad city                  165936                 10
+11         12            jhang district            jhang city                  365198                 28
+12         13           jhelum district           jhelum city                  172073                 22
+13         14            kasur district            kasur city                  314617                 18
+14         15         khanewal district         khanewal city                  165038                 17
+15         16          khushab district       jauharabad city                   38475                 12
+16         17           lahore district           lahore city                 6936563                462
+17         18           layyah district           layyah city                   82734                 10
+18         19          lodhran district          lodhran city                   93232                  8
+19         20  mandi bahauddin district  mandi bahauddin city                  150980                  9
+20         21         mianwali district         mianwali city                   93659                 20
+21         22           multan district           multan city                 1566932                133
+22         23     muzaffargarh district     muzaffargarh city                  158597                 15
+23         24    nankana sahib district    nankana sahib city                   60137                  6
+24         25          narowal district          narowal city                   74417                  7
+25         26            okara district            okara city                  232386                 21
+26         27        pakpattan district        pakpattan city                  136510                 14
+27         28   rahim yar khan district   rahim yar khan city                  340810                 22
+28         29         rajanpur district         rajanpur city                   42986                  6
+29         30       rawalpindi district       rawalpindi city                 1933933                110
+30         31          sahiwal district          sahiwal city                  247706                 28
+31         32         sargodha district         sargodha city                  586922                 50
+32         33      sheikhupura district      sheikhupura city                  411834                 22
+33         34          sialkot district          sialkot city                  502721                 42
+34         35   toba tek singh district   toba tek singh city                   74480                  9

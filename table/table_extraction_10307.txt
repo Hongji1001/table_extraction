@@ -1,0 +1,27 @@
+                                    year                          english title                        original title                               country                              director
+0   best foreign film - foreign language   best foreign film - foreign language  best foreign film - foreign language  best foreign film - foreign language  best foreign film - foreign language
+1                                   1965                  juliet of the spirits               giulietta degli spiriti                                 italy                      federico fellini
+2                                   1965                      always further on       tarahumara , cada vez más lejos                                mexico                         luis alcoriza
+3                                   1965                         circle of love                              la ronde                                france                           roger vadim
+4                                   1965                              red beard                               akahige                                 japan                        akira kurosawa
+5                                   1965             the umbrellas of cherbourg           les parapluies de cherbourg                                france                          jacques demy
+6                                   1966                      a man and a woman                 un homme et une femme                                france                        claude lelouch
+7                                   1966  the birds , the bees and the italians                     signore & signori                                 italy                          pietro germi
+8                                   1966                                 hamlet                                гамлет                                  ussr                     grigori kozintsev
+9                                   1966                 impossible on saturday                pas question le samedi               france / israel / italy                            alex joffé
+10                                  1966                      loves of a blonde               lásky jedné plavovlásky                        czechoslovakia                          miloš forman
+11                                  1967                          live for life                      vivre pour vivre                                france                        claude lelouch
+12                                  1967                                 climax                            l'immorale                        france / italy                          pietro germi
+13                                  1967                 closely watched trains                 ostře sledované vlaky                        czechoslovakia                           jirí menzel
+14                                  1967                         elvira madigan                        elvira madigan                                sweden                          bo widerberg
+15                                  1967                           the stranger                          lo straniero                                france                      luchino visconti
+16                                  1968                          war and peace                           voyna i mir                                  ussr                     sergei bondarchuk
+17                                  1968                   the bride wore black               la mariée était en noir                                france                     françois truffaut
+18                                  1968               i even met happy gypsies                       skupljaci perja                            yugoslavia                   aleksandar petrović
+19                                  1968                                  shame                               skammen                                sweden                        ingmar bergman
+20                                  1968                          stolen kisses                         baisers volés                                france                     françois truffaut
+21                                  1969                                      z                                     z                               algeria                        costa - gavras
+22                                  1969                              adalen 31                            ådalen '31                                sweden                          bo widerberg
+23                                  1969                        blaumilch canal                     te'alat blaumilch                                israel                        ephraim kishon
+24                                  1969                       girls in the sun                    koritsia ston ilio                                greece                    vasilis georgiadis
+25                                  1969                              satyricon                   fellini - satyricon                                 italy                      federico fellini

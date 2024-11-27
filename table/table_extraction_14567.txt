@@ -1,0 +1,6 @@
+  semi - closed initial unstressed vowels 17th c american australian                                        examples
+0                                   a / ə      ɐ        ə          ə        addendum , appendix , calliope , farrago
+1                               e / ɛ , ɨ      ɛ    ɛ , ə      e , ə               ellipsis , ecclesiastes , erratum
+2                               i / ɪ , ɨ      ɪ    ɪ , ə      ɪ , ə                          illyria , cf cirrhosis
+3                                   y / ɨ      ɪ    ɪ , ə      ɪ , ə                                       syllepsis
+4                                   o / ə      ɔ        ə          ə  collector , oppressor , opprobrium , possessor

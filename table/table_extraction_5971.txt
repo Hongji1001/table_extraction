@@ -1,0 +1,23 @@
+                     driver         constructor  laps time / retired  grid
+0           david coulthard  mclaren - mercedes    71    1:27:45.927     7
+1        michael schumacher             ferrari    71        + 2.190     1
+2        rubens barrichello             ferrari    71        + 2.527     4
+3            kimi räikkönen   sauber - petronas    71       + 41.593     9
+4             olivier panis         bar - honda    71       + 53.775    10
+5            jos verstappen   arrows - asiatech    70        + 1 lap    16
+6              eddie irvine   jaguar - cosworth    70        + 1 lap    13
+7        jacques villeneuve         bar - honda    70        + 1 lap    12
+8             nick heidfeld   sauber - petronas    69       + 2 laps     6
+9                jean alesi        prost - acer    69       + 2 laps    20
+10            luciano burti        prost - acer    69       + 2 laps    17
+11            jenson button  benetton - renault    60         engine    21
+12         pedro de la rosa   jaguar - cosworth    48   transmission    14
+13       juan pablo montoya      williams - bmw    41     hydraulics     2
+14          fernando alonso  minardi - european    38        gearbox    18
+15            tarso marques  minardi - european    25        gearbox    22
+16         enrique bernoldi   arrows - asiatech    17     hydraulics    15
+17             jarno trulli      jordan - honda    14   disqualified     5
+18          ralf schumacher      williams - bmw    10         brakes     3
+19     giancarlo fisichella  benetton - renault     3         engine    19
+20            mika häkkinen  mclaren - mercedes     1   transmission     8
+21  heinz - harald frentzen      jordan - honda     0        gearbox    11

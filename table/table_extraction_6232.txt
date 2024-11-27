@@ -1,0 +1,6 @@
+                      race name      circuit      date winning driver      constructor  report
+0              vi glover trophy     goodwood   7 april  mike hawthorn          ferrari  report
+1  viii gran premio di siracusa     syracuse  13 april    luigi musso          ferrari  report
+2         xiii barc aintree 200      aintree  19 april  stirling moss  cooper - climax  report
+3   x brdc international trophy  silverstone     3 may  peter collins          ferrari  report
+4         vi grand prix de caen         caen   20 july  stirling moss  cooper - climax  report

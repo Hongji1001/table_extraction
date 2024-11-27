@@ -1,0 +1,27 @@
+   abbr          common english                          french             italian              romansh
+0    ag                  aargau                         argovie             argovia              argovia
+1    ai   appenzell innerrhoden  appenzell rhodes - intérieures  appenzello interno     appenzell dadens
+2    ar  appenzell ausserrhoden  appenzell rhodes - extérieures  appenzello esterno      appenzell dador
+3    bs           basel - stadt                     ble - ville     basilea - città      basilea - citad
+4    bl      basel - landschaft                  ble - campagne  basilea - campagna  basilea - champagna
+5    be                    bern                           berne               berna                berna
+6    fr                fribourg                        fribourg            friborgo              friburg
+7    ge                  geneva                          genève             ginevra              genevra
+8    gl                  glarus                          glaris             glarona              glaruna
+9    gr              graubünden                         grisons            grigioni             grischun
+10   ju                    jura                            jura               giura                giura
+11   lu                 lucerne                         lucerne             lucerna              lucerna
+12   ne                neuchtel                        neuchtel            neuchtel             neuchtel
+13   nw               nidwalden                         nidwald            nidvaldo          sutsilvania
+14   ow                obwalden                          obwald             obvaldo          sursilvania
+15   sh            schaffhausen                     schaffhouse           sciaffusa            schaffusa
+16   sz                  schwyz             schwyz (or schwytz)              svitto                 sviz
+17   so               solothurn                         soleure             soletta             soloturn
+18   sg               st gallen                    saint - gall           san gallo             son gagl
+19   tg                 thurgau                       thurgovie            turgovia             turgovia
+20   ti                  ticino                          tessin              ticino               tessin
+21   ur                     uri                             uri                 uri                  uri
+22   vs                  valais                          valais             vallese              vallais
+23   vd                    vaud                            vaud                vaud                  vad
+24   zg                     zug                            zoug                zugo                  zug
+25   zh                  zurich                          zurich              zurigo               turitg

@@ -1,0 +1,10 @@
+            call sign  frequency mhz             city of license  erp w class     fcc info
+0              k224bv           92.7           kingman , arizona     82     d          fcc
+1              k246ae           97.1  lake havasu city , arizona     10     d          fcc
+2              k248bj           97.5     mohave valley , arizona    220     d          fcc
+3              k264ak          100.7           laughlin , nevada     10     d          fcc
+4  kjjj - fm1 booster          102.3  lake havasu city , arizona   1000     d  booster fcc
+5  kjjj - fm2 booster          102.3           kingman , arizona    500     d  booster fcc
+6              k292es          106.3      cane springs , arizona     51     d          fcc
+7              k292eu          106.3           laughlin , nevada     10     d          fcc
+8              k294bv          106.7  lake havasu city , arizona     10     d          fcc

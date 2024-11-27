@@ -1,0 +1,20 @@
+                 player  league  title playoff  super cup  total
+0       mbark boussoufa      11              0          0     11
+1         tom de sutter       9              0          0      9
+2      guillaume gillet       8              0          0      9
+3     marcin wasilewski       8              0          0      8
+4       jonathan legear       5              1          0      7
+5        nicolás frutos       6              0          0      6
+6       thomas chatelle       4              0          0      4
+7         roland juhász       4              0          0      4
+8       stanislav vlček       4              0          0      4
+9          lucas biglia       2              0          0      3
+10       dmitri bulykin       3              0          0      3
+11            jan polák       2              0          0      3
+12        matías suárez       1              0          1      3
+13      jelle van damme       3              0          0      3
+14  oleksandr iakovenko       2              0          0      2
+15        hernán losada       1              0          0      2
+16     víctor bernárdez       1              0          0      1
+17            bart goor       1              0          0      1
+18         nemanja rnić       0              0          0      1

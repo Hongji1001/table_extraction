@@ -1,0 +1,28 @@
+                         location  control           type  enrollment  founded
+0   wright - patterson afb , ohio   public            dru         719     1919
+1           pasadena , california  private        ru / vh        2231     1891
+2    san luis obispo , california   public    master 's l       18762     1901
+3             pomona , california   public    master 's l       22273     1938
+4                    potsdam , ny  private         ru / h        3187     1896
+5               golden , colorado   public         ru / h        4296     1874
+6     colorado springs , colorado  private            dru       30020     1965
+7             melbourne , florida  private            dru        8985     1958
+8               atlanta , georgia   public        ru / vh       20487     1885
+9              chicago , illinois  private         ru / h        7787     1890
+10      cambridge , massachusetts  private        ru / vh       10894     1861
+11            houghton , michigan   public         ru / h        6957     1885
+12               rolla , missouri   public         ru / h        7521     1870
+13                butte , montana   public  bac / diverse        2694     1900
+14            newark , new jersey  private         ru / h        9558     1881
+15           socorro , new mexico   public    master 's m        1921     1889
+16         klamath falls , oregon   public  bac / diverse        3927     1947
+17            brooklyn , new york  private         ru / h        4514     1854
+18                troy , new york  private        ru / vh        7521     1824
+19           henrietta , new york  private    master 's l       17652     1829
+20          terre haute , indiana  private    spec / engg        1970     1874
+21      rapid city , south dakota   public    spec / engg        2354     1885
+22           hoboken , new jersey  private         ru / h        5260     1870
+23                lubbock , texas   public         ru / h       32327     1923
+24          menomonie , wisconsin   public    master 's l        9339     1891
+25          blacksburg , virginia   public        ru / vh       30739     1872
+26      worcester , massachusetts  private            dru        5071     1865

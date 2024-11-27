@@ -1,0 +1,29 @@
+                                    name   years gender             area         authority  decile  roll
+0                 arowhenua maori school   1 - 8   coed        arowhenua             state       4    24
+1                    barton rural school   1 - 8   coed  timaru district             state       8   140
+2                    beaconsfield school   1 - 8   coed  timaru district             state       8   120
+3                       bluestone school   1 - 8   coed           timaru             state       5   548
+4              craighead diocesan school  7 - 13  girls           timaru  state integrated       9   372
+5                  geraldine high school  7 - 13   coed        geraldine             state       8   578
+6               geraldine primary school   1 - 6   coed        geraldine             state       8   323
+7                         gleniti school   1 - 8   coed           timaru             state      10   306
+8                  grantlea downs school   1 - 8   coed           timaru             state       4   385
+9                       highfield school   1 - 8   coed           timaru             state       7   283
+10              mountainview high school  9 - 13   coed           timaru             state       6   559
+11              oceanview heights school   1 - 8   coed           timaru             state       2    80
+12                         opihi college  7 - 13   coed           temuka             state       5   290
+13         pleasant point primary school   1 - 8   coed   pleasant point             state       8   265
+14                      roncalli college  9 - 13   coed           timaru  state integrated       6   537
+15                   sacred heart school   1 - 8   coed           timaru  state integrated       5   180
+16  st joseph 's school (pleasant point)   1 - 8   coed   pleasant point  state integrated       7    72
+17          st joseph 's school (temuka)   1 - 8   coed           temuka  state integrated       5    93
+18          st joseph 's school (timaru)   1 - 8   coed           timaru  state integrated       7   189
+19                 temuka primary school   1 - 6   coed           temuka             state       5   243
+20              timaru boys' high school  9 - 13   boys           timaru             state       7   701
+21               timaru christian school   1 - 8   coed           timaru  state integrated       6    90
+22             timaru girls' high school  9 - 13  girls           timaru             state       5   409
+23                   timaru south school   1 - 8   coed           timaru             state       3   228
+24                          waihi school   4 - 8   boys       winchester           private       9    95
+25                    waimataitai school   1 - 8   coed           timaru             state       7   389
+26               winchester rural school   1 - 6   coed       winchester             state       5   244
+27                       woodbury school   1 - 6   coed           timaru             state       9    57

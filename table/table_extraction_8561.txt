@@ -1,0 +1,12 @@
+    rank                      player        from  transfer fee ( million)  year
+0      1           miralem sulejmani  heerenveen                    16.25  2008
+1      2         strootman & mertens     utrecht                    13.00  2011
+2      3               mateja kežman    partizan                    11.30  2000
+3      4       klaas - jan huntelaar  heerenveen                     9.00  2006
+4      5               nikos machlas     vitesse                     8.60  1999
+5      6          zlatan ibrahimović    malmö ff                     8.40  2001
+6      7  jan vennegoor of hesselink      twente                     8.20  2001
+7      8                 luis suárez   groningen                     7.50  2007
+8      9             darío cvitanich    banfield                     7.50  2008
+9     10              ferdi vierklau    tenerife                     7.30  1998
+10    11                  adam maher          az                     6.50  2013

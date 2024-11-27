@@ -1,0 +1,7 @@
+   year                                      category         character                           for the show     result
+0  2003     ita award for best actress - drama (jury)       prerna basu                  kasautii zindagii kay        won
+1  2004  ita award for best actress - drama (popular)       prerna basu                  kasautii zindagii kay  nominated
+2  2005  ita award for best actress - drama (popular)       prerna basu                  kasautii zindagii kay  nominated
+3  2006  ita award for best actress - drama (popular)       prerna basu                  kasautii zindagii kay  nominated
+4  2007  ita award for best actress - drama (popular)       prerna basu                  kasautii zindagii kay  nominated
+5  2012     ita award for best actress - drama (jury)  sweety ahluwalia  parvarrish kuchh khattee kuchh meethi        won

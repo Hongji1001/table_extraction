@@ -1,0 +1,12 @@
+    south american rank  world rank     nation  2011 (imf)  2008 (cia factbook)
+0                     1          51  argentina       17376                14500
+1                     2          55      chile       16171                15400
+2                     3          59    uruguay       15469                12300
+3                     4          71  venezuela       12407                13500
+4                     5          74     brazil       11845                10513
+5                     6          82   colombia       10155                 9000
+6                     7          83       peru       10000                 8500
+7                     8          86   suriname        9492                 8900
+8                     9          91    ecuador        8335                 7700
+9                    10          96     guyana        7541                 4000
+10                   11         110   paraguay        5548                 4400

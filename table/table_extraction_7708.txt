@@ -1,0 +1,29 @@
+       date   opponent       score                loss   record
+0    july 1  athletics       7 - 6    atherton (5 - 5)  46 - 31
+1    july 2     angels       6 - 3      clancy (6 - 9)  46 - 32
+2    july 3     angels       4 - 0        john (4 - 7)  47 - 32
+3    july 4     angels       6 - 3    romanick (8 - 9)  48 - 32
+4    july 5   mariners      10 - 8     beattie (8 - 8)  49 - 32
+5    july 6   mariners       9 - 2    langston (6 - 7)  50 - 32
+6    july 7   mariners       8 - 4     clancy (6 - 10)  50 - 33
+7    july 8   mariners       7 - 1        gott (5 - 3)  50 - 34
+8   july 12  athletics       7 - 4        lamp (4 - 4)  50 - 35
+9   july 13  athletics       6 - 3      burris (8 - 4)  51 - 35
+10  july 14  athletics       2 - 1     caudill (8 - 2)  52 - 35
+11  july 15  athletics       6 - 3       young (2 - 1)  53 - 35
+12  july 16     angels       3 - 0        gott (5 - 4)  53 - 36
+13  july 17     angels       5 - 3       acker (2 - 5)  53 - 37
+14  july 18     angels       8 - 2        zahn (9 - 7)  54 - 37
+15  july 19   mariners       8 - 1  vande berg (6 - 9)  55 - 37
+16  july 20   mariners      12 - 7   mirabella (1 - 4)  56 - 37
+17  july 21   mariners       9 - 3        lamp (4 - 5)  56 - 38
+18  july 22   mariners       5 - 3    langston (8 - 8)  57 - 38
+19  july 23     royals       9 - 8     jackson (6 - 2)  57 - 39
+20  july 23     royals       7 - 2        gott (5 - 5)  57 - 40
+21  july 24     royals       5 - 4      stieb (11 - 4)  57 - 41
+22  july 25     royals  5 - 4 (13)       clark (0 - 1)  57 - 42
+23  july 27    rangers       4 - 2   alexander (8 - 5)  57 - 43
+24  july 28    rangers       5 - 4     jackson (6 - 3)  57 - 44
+25  july 29    rangers       6 - 2      darwin (6 - 6)  58 - 44
+26  july 30     royals       7 - 4     clancy (7 - 11)  58 - 45
+27  july 31     royals       6 - 5       wills (1 - 2)  59 - 45

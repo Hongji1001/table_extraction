@@ -1,0 +1,18 @@
+                team                head coach           team captain   kit maker                    shirt sponsor past season
+0          esteghlal           parviz mazloomi          farhad majidi    uhlsport  tehran municipality & city bank         3rd
+1             foolad              majid jalali         saeed ramezani  daei sport              foolad khuzestan co        10th
+2            malavan        farhad pourgholami           pejman nouri      merooj                 anzali free zone        12th
+3         mes kerman             samad marfavi    farzad hosseinkhani    uhlsport    gashte gole yas travel agency         9th
+4        naft tehran            hossein faraki        darius mikaeili  daei sport     national iranian oil company    promoted
+5        pas hamedan   ali asghar modir roosta             saman safa         jej                      unsponsored        14th
+6             paykan           hamid alidousti          rahman rezaei      merooj                      iran khodro        11th
+7         persepolis                  ali daei          karim bagheri    uhlsport  tehran municipality & city bank         4th
+8           rah ahan         rasoul korbekandi         ebrahim karimi      aghili                             raja        15th
+9           saba qom            abdollah veisi  sohrab bakhtiarizadeh  daei sport                            varna         6th
+10             saipa     mohammad mayeli kohan        ebrahim sadeghi     nahangi                            saipa         8th
+11        sanat naft  gholam hossein peyrovani           hassan houri  daei sport     national iranian oil company    promoted
+12           sepahan            amir ghalenoei      moharram navidkia       lotto         foolad mobarakeh complex    champion
+13            shahin              hamid estili           reza baziari     nahangi                      unsponsered        13th
+14  shahrdari tabriz          hamid derakhshan     ebrahim abarghouei    uhlsport                        city bank    promoted
+15        steel azin            mahmoud yavari       mehdi mahdavikia       umbro               steel azin company         5th
+16      tractor sazi           faraz kamalvand       mohammad nosrati    uhlsport         hamrah aval & bank sepah         7th

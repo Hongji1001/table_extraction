@@ -1,0 +1,27 @@
+                    driver      constructor  laps     time / retired  grid
+0       emerson fittipaldi     lotus - ford    76          1:47:50.2     2
+1           jackie stewart   tyrrell - ford    76              + 4.1     4
+2             peter revson   mclaren - ford    76           + 1:12.5     3
+3               chris amon            matra    75            + 1 lap    17
+4              denny hulme   mclaren - ford    75            + 1 lap    11
+5          arturo merzario          ferrari    75            + 1 lap     9
+6          ronnie peterson     march - ford    74  engine / spun off     8
+7         carlos reutemann   brabham - ford    73           + 3 laps    10
+8               niki lauda     march - ford    73           + 3 laps    19
+9           rolf stommelen     march - ford    71           + 5 laps    25
+10  jean - pierre beltoise              brm    70           + 6 laps     6
+11       wilson fittipaldi   brabham - ford    69         suspension    22
+12           mike beuttler     march - ford    69           + 7 laps    23
+13            tim schenken   surtees - ford    64         suspension     5
+14        franã§ois cevert   tyrrell - ford    60           spun off    12
+15             dave walker     lotus - ford    59         suspension    15
+16              jacky ickx          ferrari    49       oil pressure     1
+17             graham hill   brabham - ford    47           spun off    21
+18             carlos pace     march - ford    39       differential    13
+19           jackie oliver              brm    36         suspension    14
+20           mike hailwood   surtees - ford    31            gearbox     7
+21           dave charlton     lotus - ford    21            gearbox    24
+22             nanni galli            tecno     9           spun off    18
+23         henri pescarolo  politoys - ford     7           accident    26
+24            peter gethin              brm     5             engine    16
+25       andrea de adamich   surtees - ford     3           accident    20

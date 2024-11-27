@@ -1,0 +1,10 @@
+   round  overall           player     nationality                       club team
+0      1        1     bryan berard   united states      detroit jr red wings (ohl)
+1      2       27        marc moro          canada       kingston frontenacs (ohl)
+2      3       53      brad larsen          canada     swift current broncos (whl)
+3      4       89  kevin bolibruck          canada        peterborough petes (ohl)
+4      4      103       kevin boyd          canada            london knights (ohl)
+5      6      131     david hruska  czech republic           banik sokolov (czech)
+6      8      183        kaj linna         finland        boston university (ncaa)
+7      8      184      ray schultz          canada      tri - city americans (whl)
+8      9      231    erik kaminski   united states  northeastern university (ncaa)

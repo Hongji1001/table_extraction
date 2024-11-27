@@ -1,0 +1,9 @@
+   pick               player country of origin                        pba team            college
+0     1  earl sonny alvarado       puerto rico            tanduay rhum masters     texas - austin
+1     2    anastacio mendoza       philippines          barangay ginebra kings        far eastern
+2     3           erwin luna       philippines                   formula shell            adamson
+3     4          bryan gahol       philippines             mobiline phone pals              state
+4     5          richard yee       philippines  purefoods tender juicy hotdogs        santo tomas
+5     6    roel buenaventura       philippines                   pop cola 800s               east
+6     7     arnold rodriguez       philippines                   formula shell                pup
+7     8    don carlos allado       philippines                  alaska milkmen  la salle - manila

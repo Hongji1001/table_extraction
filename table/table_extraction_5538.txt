@@ -1,0 +1,22 @@
+   province                   comune  population (inh)  area (km square)  total (km square)
+0    napoli                  agerola              7399             19.62             121.14
+1    napoli  castellammare di stabia             64533             17.71             121.14
+2    napoli           massa lubrense             13914             19.71             121.14
+3    napoli                     meta              8010              2.50             121.14
+4    napoli        piano di sorrento             13057              7.50             121.14
+5    napoli                  pimonte              6052             12.00             121.14
+6    napoli             sant'agnello              9010              4.09             121.14
+7    napoli                 sorrento             16616              9.93             121.14
+8    napoli             vico equense             21006             29.30             121.14
+9   salerno                   amalfi              5345              6.15              70.99
+10  salerno                   atrani               914              0.20              70.99
+11  salerno                   cetara              2345              4.91              70.99
+12  salerno         conca dei marini               734              1.00              70.99
+13  salerno                   furore               859              1.73              70.99
+14  salerno                   maiori              5649             16.00              70.99
+15  salerno                   minori              2864              2.00              70.99
+16  salerno                 positano              3981              8.00              70.99
+17  salerno                  praiano              2069              2.00              70.99
+18  salerno                  ravello              2477              7.00              70.99
+19  salerno                    scala              1551             13.00              70.99
+20  salerno          vietri sul mare              8328              9.00              70.99

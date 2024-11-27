@@ -1,0 +1,6 @@
+           team  tries for  tries against try diff  points for  points against points diff
+0      toulouse         21             13        8         157             142          15
+1       cardiff         16              7        9         135              97          38
+2  london wasps         17             14        3         156             115          41
+3       munster         11             22     - 11         109             135        - 26
+4         milan          6             15      - 9          73             141        - 68

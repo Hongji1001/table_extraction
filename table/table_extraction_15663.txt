@@ -1,0 +1,20 @@
+           name country       status            moving to transfer fee
+0        solano     per  transferred             released         free
+1        zamora     eng  transferred               fulham        4.8 m
+2      paintsil     gha  transferred               fulham        1.5 m
+3        wright     eng  transferred         ipswich town        0.5 m
+4     ljungberg     swe  transferred             released         free
+5     ferdinand     eng  transferred           sunderland          8 m
+6     mccartney     nir  transferred           sunderland          6 m
+7     blackmore     eng       loaned             thurrock        n / a
+8       jeffery     eng       loaned        leyton orient        n / a
+9         payne     eng       loaned      cheltenham town        n / a
+10      quashie     sco       loaned      birmingham city        n / a
+11       miller     eng       loaned  bishop 's stortford        n / a
+12       n'gala     eng       loaned              mk dons        n / a
+13       spence     eng       loaned        leyton orient        n / a
+14         reid     eng       loaned            blackpool        n / a
+15       walker     eng       loaned    colchester united        n / a
+16      tomkins     eng       loaned         derby county        n / a
+17    stanislas     eng       loaned             southend        n / a
+18  etherington     eng  transferred                stoke  undisclosed

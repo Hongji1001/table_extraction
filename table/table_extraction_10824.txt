@@ -1,0 +1,8 @@
+   round  pick  overall              name          position            college
+0      1     9        9   lincoln kennedy  offensive tackle         washington
+1      2     9       38      roger harper            safety         ohio state
+2      3    11       67  harold alexander            punter  appalachian state
+3      5     9      121        ron george        linebacker           stanford
+4      6    11      151       mitch lyons         tight end     michigan state
+5      7    10      178    darnell walker        cornerback           oklahoma
+6      8     9      205     shannon baker     wide receiver      florida state

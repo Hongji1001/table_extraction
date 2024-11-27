@@ -1,0 +1,6 @@
+  modern english day name old english day name english day name meaning glossed from latin day name latin day name meaning
+0                 tuesday             tiwesdæg               tiw 's day                 dies martis            day of mars
+1               wednesday            wōdnesdæg             woden 's day               dies mercurii         day of mercury
+2                thursday            þūnresdæg            thunor 's day                  dies iovis         day of jupiter
+3                  friday             frigedæg             frija 's day                dies veneris           day of venus
+4                saturday          sæturnesdæg            saturn 's day                dies saturni          day of saturn

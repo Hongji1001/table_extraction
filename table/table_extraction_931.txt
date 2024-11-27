@@ -1,0 +1,25 @@
+    school year    class a                             class aa                  class aaa            class aaaa          class aaaaa
+0     1986 - 87     menard                             florence                    dalhart              monahans  wichita falls rider
+1     1987 - 88      happy                                troup                orangefield         wichita falls  round rock westwood
+2     1988 - 89     abbott                                olney                 falfurrias  port neches - groves      converse judson
+3     1989 - 90     jayton        (tie) brackettville / overton                   gonzales            midlothian  wichita falls rider
+4     1990 - 91     abbott                       rosebud - lott                orangefield          stephenville          duncanville
+5     1991 - 92    trenton                               cooper                       troy         mineral wells              weslaco
+6     1992 - 93    trenton                       rosebud - lott                     ferris            livingston              abilene
+7     1993 - 94  lazbuddie                       rosebud - lott  mont belvieu barbers hill  port neches - groves          duncanville
+8     1994 - 95  lazbuddie                               idalou                     friona              rockwall   fort worth paschal
+9     1995 - 96  lazbuddie                       rosebud - lott  mont belvieu barbers hill              carthage      humble kingwood
+10    1996 - 97        era                       rosebud - lott                    dalhart        canyon randall              abilene
+11    1997 - 98        era                             stamford                    dalhart               kaufman              abilene
+12    1998 - 99  lazbuddie                       rosebud - lott                    dalhart                snyder              abilene
+13  1999 - 2000  lazbuddie                       rosebud - lott         hamshire - fannett              lockhart              abilene
+14    2000 - 01  lazbuddie                       rosebud - lott                cameron yoe           north lamar              abilene
+15    2001 - 02    trenton                       rosebud - lott                   giddings                snyder     fort bend dulles
+16    2002 - 03    trenton                       rosebud - lott                cameron yoe             brownwood    southlake carroll
+17    2003 - 04  lazbuddie                          caddo mills         hamshire - fannett             brownwood    southlake carroll
+18    2004 - 05    trenton                       rosebud - lott                    dalhart             brownwood               keller
+19    2005 - 06       loop                       rosebud - lott                    dalhart             brownwood               keller
+20    2006 - 07      sudan                      tuscola jim ned                   giddings       mesquite poteet               keller
+21    2007 - 08      sudan                      tuscola jim ned                     snyder             brownwood               keller
+22    2008 - 09      sudan  tuscola jim ned / caddo mills (tie)                    dalhart            hallsville             edinburg
+23    2009 - 10      happy     grandview / rosebud - lott (tie)                   giddings              granbury        laredo united

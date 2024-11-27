@@ -1,0 +1,11 @@
+   season  division  tms  pos           fa cup
+0    2003         1   12   11    quarter final
+1    2004         1   13   10      round of 32
+2    2005         1   13    8    quarter final
+3    2006         1   14    7    quarter final
+4    2007         1   14   12      round of 16
+5    2008         1   14   11       semi final
+6    2009         1   15   15  quarter - final
+7    2010         1   15   15      round of 32
+8    2011         1   16   12      round of 32
+9    2012         1   16   10      round of 16

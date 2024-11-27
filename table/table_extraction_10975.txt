@@ -1,0 +1,8 @@
+                    name        novelty status                               authors                   unit location
+0  actinidia oregonensis         sp nov  valid                            manchester       clarno formation      usa
+1      cornus clarnensis         sp nov  valid                            manchester       clarno formation      usa
+2             coryloides  gen et sp nov  valid                            manchester       clarno formation      usa
+3      eucommia constans         sp nov  valid  magallón - puebl & cevallos - ferriz  pié de vaca formation   mexico
+4           kardiasperma  gen et sp nov  valid                            manchester       clarno formation      usa
+5             paleopanax  gen et sp nov  valid                            manchester       clarno formation      usa
+6           rhus rooseae         sp nov  valid                            manchester       clarno formation      usa

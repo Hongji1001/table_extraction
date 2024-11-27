@@ -1,0 +1,13 @@
+   date of opinion poll                              conductor  sample size  for against undecided
+0     27 september 2009  sunday independent / quantum research         1000  68%     17%       15%
+1     26 september 2009           red c / sunday business post         1000  55%     27%       18%
+2     25 september 2009               tns / mrbi / irish times         1000  48%     33%       19%
+3     18 september 2009             millward brown / lansdowne         1000  53%     26%       21%
+4     12 september 2009  quantum research / sunday independent         1000  63%     15%       22%
+5     12 september 2009                           red c / post         1000  52%     25%       23%
+6      4 september 2009                             tns / mrbi         1000  46%     29%       25%
+7           28 may 2009                             tns / mrbi         2000  54%     28%       18%
+8           13 may 2009                             tns / mrbi         2000  52%     29%       19%
+9         25 april 2009                       quantum research          500  54%     24%       22%
+10      28 january 2009                           red c / post         1001  58%     28%       14%
+11      23 january 2009                              lansdowne         1000  58%     29%       12%

@@ -1,0 +1,10 @@
+    original nfl team           player pos             college        conf
+0      denver broncos        john amos  rb      colorado state         ind
+1      houston oilers   willie frazier  te  arkansaspine bluff        swac
+2      houston oilers         wk hicks  cb      texas southern        swac
+3  kansas city chiefs    mack lee hill  fb            southern        swac
+4  kansas city chiefs  willie mitchell  cb     tennessee state  midwestern
+5       new york jets  bill rademacher  wr   northern michigan       n / a
+6       new york jets     john schmitt   c             hofstra       n / a
+7  san diego chargers    speedy duncan  cb       jackson state        swac
+8  san diego chargers     jimmy warren  cb            illinois     big ten

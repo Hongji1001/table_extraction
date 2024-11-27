@@ -1,0 +1,8 @@
+                                  team name                               schools                                            sports             host        nickname (s)             colors  enrollment (2013 / 14)
+0          christopher - zeigler - royalton        christopher zeigler - royalton                        football , track and field      christopher  bearcats lady cats        blue orange                     412
+1                        eldorado - galatia                      eldorado galatia            cross country , golf , track and field         eldorado              eagles        purple gold                     461
+2                          elverado - trico                        elverado trico                                          football         elverado             falcons          blue gold                     436
+3                         fairfield - cisne                       cisne fairfield                                         wrestling        fairfield    mules lady mules          red black                     549
+4             sesser - valier - waltonville           sesser - valier waltonville  girls' basketball , track and field , volleyball  sesser - valier          red devils       maroon white                     309
+5  sesser - valier - waltonville - woodlawn  sesser - valier waltonville woodlawn                                          football  sesser - valier          red devils       maroon white                     494
+6                        vienna - goreville                      goreville vienna                                          football           vienna              eagles  royal blue orange                     503

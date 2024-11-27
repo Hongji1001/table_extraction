@@ -1,0 +1,11 @@
+   pos  car         driver       make                        team
+0    1   51     kyle busch     toyota    billy ballew motorsports
+1    2   33   ron hornaday  chevrolet  kevin harvick incorporated
+2    3    5   mike skinner     toyota           bill davis racing
+3    4   88   matt crafton  chevrolet            thorsport racing
+4    5    8  chad mccumbee  chevrolet             mrd motorsports
+5    6    2   jack sprague  chevrolet  kevin harvick incorporated
+6    7   59   ted musgrave     toyota              ht motorsports
+7    8    5     terry cook     toyota                wyler racing
+8    9   30    todd bodine     toyota              germain racing
+9   10   21       jon wood       ford        wood brothers racing

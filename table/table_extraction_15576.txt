@@ -1,0 +1,13 @@
+                  name height weight    spike              2008 club
+0    aleksandr korneev      m      -  cm (in)            zenit kazan
+1     semen poltavskiy      m      -  cm (in)          dynamo moscow
+2    aleksandr kosarev      m      -  cm (in)  lokomotiv - belogorie
+3       sergey grankin      m      -  cm (in)          dynamo moscow
+4     sergey tetyukhin      m      -  cm (in)  lokomotiv - belogorie
+5   vadim khamuttskikh      m      -  cm (in)  lokomotiv - belogorie
+6        yury berezhko      m      -  cm (in)          dynamo moscow
+7    aleksey ostapenko      m      -  cm (in)          dynamo moscow
+8     aleksandr volkov      m      -  cm (in)          dynamo moscow
+9       aleksey verbov      m      -  cm (in)        iskra odintsovo
+10     maxim mikhaylov      m      -  cm (in)            yaroslavich
+11    aleksey kuleshov      m      -  cm (in)        iskra odintsovo

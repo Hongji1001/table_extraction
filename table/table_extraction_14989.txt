@@ -1,0 +1,23 @@
+            artist                     album country  year                          catalog   format
+0   the beach boys          la (light album)      us  1979                         jz 35752       lp
+1   the beach boys          la (light album)      us  1989                         zk 35752       cd
+2   the beach boys  keepin' the summer alive      us  1980                         fz 36293       lp
+3   the beach boys  keepin' the summer alive      us  1991                         zk 36293       cd
+4   the beach boys      ten years of harmony      us  1981                        z2x 37445      2lp
+5   the beach boys      ten years of harmony      us  1988                        z2k 37445      2cd
+6   the beach boys            the beach boys      us  1985                        bfz 39946       lp
+7   the beach boys            the beach boys      us  1985                         zk 39946       cd
+8      carl wilson               carl wilson      us  1981                        njz 37010       lp
+9      carl wilson               carl wilson   japan  1991                        srcs 6102       cd
+10     carl wilson                youngblood      us  1983                        bfz 37970       lp
+11     carl wilson                youngblood   japan  1991                        srcs 6103       cd
+12   dennis wilson        pacific ocean blue      us  1977                         pz 34354       lp
+13   dennis wilson        pacific ocean blue      us  1991                         zk 34354       cd
+14   dennis wilson        pacific ocean blue      us  2008  cd : 88697339322 lp : suz5212.1  cd / lp
+15      la express            the la express      us  1976                         pz 33940       lp
+16      la express               shadow play      us  1976                         pz 34355       lp
+17            lake                     ouch!      us  1980                         jz 37083       lp
+18   matthew moore             winged horses      us  1978                         jz 35611       lp
+19   matthew moore     the sport of guessing      us  1979                         jz 36118       lp
+20        oc smith                  together      us  1977                         pz 34471       lp
+21   james vincent      waiting for the rain      ca  1978                         al 34899       lp

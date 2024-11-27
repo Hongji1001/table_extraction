@@ -1,0 +1,12 @@
+    round  pick  overall             name          position         college
+0       1    25       25     bobby butler        cornerback   florida state
+1       2    26       54      lyman white        linebacker             lsu
+2       3    24       80    scott woerner    defensive back         georgia
+3       4    26      109      john scully             guard      notre dame
+4       5    25      136     eric sanders  offensive tackle          nevada
+5       6    26      164  harry standback  defensive tackle  north carolina
+6       8    26      219      cliff toney    defensive back          auburn
+7       9    24      245     calvin fance      running back            rice
+8      10    26      274    robert murphy    defensive back      ohio state
+9      11    25      301  keith chappelle     wide receiver            iowa
+10     12    26      330     mark mccants    defensive back          temple

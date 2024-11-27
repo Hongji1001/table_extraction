@@ -1,0 +1,21 @@
+    rank                                     title                studio             director      gross
+0      1                        back to the future             universal      robert zemeckis  215000000
+1      2                                  rocky iv        united artists   sylvester stallone  127873716
+2      3               rambo : first blood part ii  tri - star / carolco  george pan cosmatos  150415432
+3      4                             out of africa             universal       sydney pollack  128499205
+4      5                          the color purple           warner bros     steven spielberg   98467863
+5      6                     the jewel of the nile      20th century fox         lewis teague   96773200
+6      7                                    cocoon      20th century fox           ron howard   85313124
+7      8                                   witness             paramount           peter weir   68706993
+8      9  police academy 2: their first assignment    warner bros / ladd          jerry paris   61600000
+9     10                               the goonies           warner bros       richard donner   61389680
+10    11                             spies like us           warner bros          john landis   60088980
+11    12                          a view to a kill        united artists            john glen   50300000
+12    13                                    fletch             universal      michael ritchie   50600000
+13    14     national lampoon 's european vacation           warner bros       amy heckerling   49364621
+14    15                                      mask             universal    peter bogdanovich   48230162
+15    16                      brewster 's millions             universal          walter hill   45833132
+16    17                        the breakfast club             universal          john hughes   45000000
+17    18                              white nights              columbia      taylor hackford   42160849
+18    19                                pale rider           warner bros       clint eastwood   41410568
+19    20                pee - wee 's big adventure           warner bros           tim burton   40940662

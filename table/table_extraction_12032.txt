@@ -1,0 +1,19 @@
+   frequency     call sign                               format                                     owner                notes
+0    fm 88.3     ckia - fm                            community                       radio basse - ville               french
+1    fm 89.1     ckrl - fm                            community                          ckrl - mf 89 , 1               french
+2    fm 90.9     cion - fm      christian religious programming                   fondation radio galilée               french
+3    fm 91.9     cjec - fm                   adult contemporary                     leclerc communication               french
+4    fm 92.7     cjsq - fm                      classical music                radio - classique montréal               french
+5    fm 93.3     cjmf - fm                          active rock                                    cogeco               french
+6    fm 94.3     chyz - fm                         campus radio                          laval university               french
+7    fm 95.3     cbvx - fm                         public music         canadian broadcasting corporation               french
+8    fm 96.1  cbm - fm - 2                         public music         canadian broadcasting corporation              english
+9    fm 98.1     choi - fm                           talk radio                                 rnc media               french
+10   fm 98.9     chik - fm               contemporary hit radio                          bell media radio               french
+11  fm 100.3     cihw - fm  community ( huron - wendat nation )  comité de la radio communautaire huronne  french , montagnais
+12  fm 100.9     chxx - fm                          modern rock                                 rnc media               french
+13  fm 102.1     cfel - fm               contemporary hit radio                     leclerc communication               french
+14  fm 102.9     cfom - fm                classic hits / oldies                                    cogeco               french
+15  fm 104.7     cbve - fm                   public news / talk         canadian broadcasting corporation              english
+16  fm 106.3      cbv - fm                   public news / talk         canadian broadcasting corporation               french
+17  fm 107.5     citf - fm              soft adult contemporary                          bell media radio               french

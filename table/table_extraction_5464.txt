@@ -1,0 +1,35 @@
+                       serial title                   year               chapters                              director                                 cast
+0                    silent serials         silent serials         silent serials                        silent serials                       silent serials
+1                  the silent flyer                   1926                     10                   william james craft                     malcolm mcgregor
+2                heroes of the wild                   1927                     10                          harry s webb                           jack hoxie
+3               isle of sunken gold                   1927                     10                          harry s webb      anita stewart & duke kahanamoku
+4               the golden stallion                   1927                     10                          harry s webb           maurice flynn & joe bonomo
+5                the vanishing west                   1928                     10                        richard thorpe        jack perrin & eileen sedgwick
+6               vultures of the sea                   1928                     10                        richard thorpe       johnnie walker & shirley mason
+7                 the fatal warning                   1929                     10                        richard thorpe       helene costello & ralph graves
+8             partial sound serials  partial sound serials  partial sound serials                 partial sound serials                partial sound serials
+9             the king of the kongo                   1929                     10                        richard thorpe     jacqueline logan & walter miller
+10                all sound serials      all sound serials      all sound serials                     all sound serials                    all sound serials
+11                the lone defender                   1930                     12                        richard thorpe          rin tin tin & walter miller
+12          the phantom of the west                   1931                     10                       d ross lederman          tom tyler & william desmond
+13                 king of the wild                   1931                     12     b reeves eason and richard thorpe          walter miller and nora lane
+14             the vanishing legion                   1931                     12         ford beebe and b reeves eason         harry carey and edwina booth
+15              the galloping ghost                   1931                     12   b reeves eason and benjamin h kline                  harold 'red' grange
+16            the lightning warrior                   1931                     12  benjamin h kline and armand schaefer                          rin tin tin
+17          the shadow of the eagle                   1932                     12         ford beebe and b reeves eason                           john wayne
+18         the last of the mohicans                   1932                     12         ford beebe and b reeves eason                          harry carey
+19            the hurricane express                   1932                     12        jp mcgowan and armand schaefer                           john wayne
+20                  the devil horse                   1932                     12                           otto brower             harry carey & noah beery
+21            the whispering shadow                   1933                     12       colbert clark and albert herman                          bela lugosi
+22             the three musketeers                   1933                     12     colbert clark and armand schaefer         john wayne and lon chaney jr
+23         fighting with kit carson                   1933                     12     colbert clark and armand schaefer  johnny mack brown & betsy king ross
+24                     the wolf dog                   1933                     12      colbert clark and harry l fraser          rin tin tin & frankie darro
+25             the mystery squadron                   1933                     12        colbert clark and david howard  bob steele & guinn big boy williams
+26                  the lost jungle                   1934                     12      david howard and armand schaefer        clyde beatty & cecilia parker
+27               burn 'em up barnes                   1934                     12     colbert clark and armand schaefer         jack mulhall & frankie darro
+28              the law of the wild                   1934                     12    b reeves eason and armand schaefer                          rin tin tin
+29                 mystery mountain                   1934                     12        otto brower and b reeves eason                          ken maynard
+30               the phantom empire                   1935                     12        otto brower and b reeves eason                           gene autry
+31                the miracle rider                   1935                     15        otto brower and b reeves eason          tom mix & charles middleton
+32  the adventures of rex and rinty                   1935                     12         b reeves eason and ford beebe                    rex & rin tin tin
+33             the fighting marines                   1935                     12        b reeves eason and joseph kane                        grant withers

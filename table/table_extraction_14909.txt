@@ -1,0 +1,23 @@
+                                                 name  no specimens   abbr  country                  city
+0                           royal botanic gardens kew       7000000      k       uk         kew , england
+1                   british museum of natural history       5200000     bm       uk      london , england
+2                    royal botanic garden , edinburgh       2000000      e       uk  edinburgh , scotland
+3                             university of cambridge       1000000    cge       uk   cambridge , england
+4                            university of manchester       1000000  manch       uk  manchester , england
+5                  national botanic gardens , ireland        600000    dbn  ireland                dublin
+6               national museums & galleries of wales        550000    nmw       uk       cardiff , wales
+7   fielding - druce herbarium , university of oxford        500000    oxf       uk      oxford , england
+8                           cabi bioscience uk centre        385000    imi       uk      surrey , england
+9                              world museum liverpool        350000    liv       uk   liverpool , england
+10           daubeny herbarium , university of oxford        300000    fho       uk      oxford , england
+11                              university of reading        254000    rng       uk     reading , england
+12                                    trinity college        230000    tcd  ireland                dublin
+13                           university of birmingham        150000   birm       uk  birmingham , england
+14                            university of leicester        125000    ltr       uk   leicester , england
+15                             university of aberdeen        120000    abd       uk   aberdeen , scotland
+16                   south london botanical institute        100000   slbi       uk      london , england
+17                  nottingham natural history museum         91000    not       uk  nottingham , england
+18                             leicestershire museums         90000    lsr       uk   leicester , england
+19                           british antarctic survey         40000    aas       uk   cambridge , england
+20                       derby museum and art gallery          8000    dby       uk       derby , england
+21                      charterhouse school herbarium          8000    god       uk   godalming , england

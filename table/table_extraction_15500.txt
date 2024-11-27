@@ -1,0 +1,9 @@
+  rank              rider              team      speed       time
+0    1         rem fowler  peugeot - norton  36.21 mph  4:21.52.8
+1    2  w h 'billy' wells            vindec  32.30 mph  4:53.44.5
+2    3         w m heaton               rex  30.50 mph  5:11.03.5
+3    4           j a dent            vindec          -          -
+4  ret        t h tessier               bat          -          -
+5  ret           h martin             kerry          -          -
+6  ret     oliver godfrey               rex          -          -
+7  ret   frank a applebee               rex          -          -

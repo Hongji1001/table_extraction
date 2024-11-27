@@ -1,0 +1,37 @@
+                    name  league  fa cup  league cup  other  total
+0           shaun barker      45       5           1      4     55
+1              ian evatt      44       5           1      4     54
+2          keigan parker      45       4           1      4     54
+3        michael jackson      43       5           1      3     52
+4           wes hoolahan      42       3           1      3     49
+5           andy morrell      40       4           1      3     48
+6         keith southern      39       5           1      3     48
+7              david fox      37       5           1      2     45
+8           scott vernon      38       4           1      1     44
+9          adrian forbes      34       5           0      4     43
+10            rhys evans      32       5           1      1     39
+11  claus bech jørgensen      31       4           0      4     39
+12         simon gillett      31       0           0      3     34
+13           ben burgess      27       3           0      2     32
+14            danny coid      18       0           1      0     19
+15        kaspars gorkšs      10       3           0      0     13
+16          paul tierney      10       2           1      0     13
+17       robbie williams       9       0           0      3     12
+18         paul rachubka       8       0           0      3     11
+19           marcus bean       6       2           1      1     10
+20        carl dickinson       7       2           0      1     10
+21           marc joseph       8       0           0      1      9
+22        andy wilkinson       7       0           0      0      7
+23      rory prendergast       5       0           1      0      6
+24         chris brandon       5       0           0      0      5
+25              joe hart       5       0           0      0      5
+26          danny graham       4       0           0      0      4
+27     matthew blinkhorn       2       0           0      1      3
+28       gareth farrelly       1       1           0      0      2
+29     vincent fernandez       1       1           0      0      2
+30           jamie burns       0       0           0      0      0
+31           kyle clancy       0       0           0      0      0
+32       ciaran donnelly       0       0           0      1      1
+33            lewis edge       1       0           0      0      1
+34             lee jones       0       0           0      0      0
+35             matty kay       0       0           0      0      0

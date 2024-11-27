@@ -1,0 +1,10 @@
+   platform  frequency (per hour)                      destination           operator         line
+0         1                     4             highbury & islington  london overground  east london
+1         1                     4                 dalston junction  london overground  east london
+2         1                     4                    london bridge           southern        metro
+3         2                     4                   crystal palace  london overground  east london
+4         2                     4                     west croydon  london overground  east london
+5         2                     2      london victoria (mon - sat)           southern        metro
+6         2                     2             caterham (mon - sat)           southern        metro
+7         2                     2  west croydon (peaks & sun only)           southern        metro
+8         2                     2      tattenham corner (sun only)           southern        metro

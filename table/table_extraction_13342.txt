@@ -1,0 +1,22 @@
+     rank          nation  gold  silver  bronze  total
+0       1     south korea    12       1       2     15
+1       2   united states     2       2       2      6
+2       3  chinese taipei     1       3       3      7
+3       4           egypt     1       0       2      3
+4       5          turkey     0       2       4      6
+5       6          canada     0       2       1      3
+6       7           chile     0       2       0      2
+7       8          france     0       1       1      2
+8       8          mexico     0       1       1      2
+9      10           italy     0       1       0      1
+10     10     netherlands     0       1       0      1
+11     12           spain     0       0       4      4
+12     13            iran     0       0       3      3
+13     14       australia     0       0       2      2
+14     14    west germany     0       0       2      2
+15     16         finland     0       0       1      1
+16     16        malaysia     0       0       1      1
+17     16           nepal     0       0       1      1
+18     16     philippines     0       0       1      1
+19     16    saudi arabia     0       0       1      1
+20  total           total    16      16      32     64

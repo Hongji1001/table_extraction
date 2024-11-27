@@ -1,0 +1,10 @@
+   pick                           cfl team            player position          college
+0    45                 calgary stampeders       brett ralph       wr          alberta
+1    46                   ottawa renegades  lenard semajuste       fb      adams state
+2    47              winnipeg blue bombers       ryan bisson       ol        northwood
+3    48           saskatchewan roughriders    ryan gottselig       dl     saskatchewan
+4    49  montreal alouettes (via edmonton)       adam eckert       wr  dickinson state
+5    50              hamilton tiger - cats     andrew paopao       dl   san jose state
+6    51                 montreal alouettes   olivier manigat       ol         columbia
+7    52                           bc lions     karl ortmanns       ol           acadia
+8    53                  toronto argonauts         ian forde       rb         waterloo

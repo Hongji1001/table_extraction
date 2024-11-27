@@ -1,0 +1,15 @@
+    year             competition               venue position            event
+0   1979     world championships           melbourne      2nd        foil team
+1   1981     world championships  clermont - ferrand      2nd        foil team
+2   1982     world championships                rome      2nd  foil individual
+3   1982     world championships                rome       3d        foil team
+4   1982  european championships             mãdling      1st  foil individual
+5   1984           olympic games         los angeles      1st  foil individual
+6   1984           olympic games         los angeles      1st        foil team
+7   1985     world championships           barcelona      1st  foil individual
+8   1985     world championships           barcelona      1st        foil team
+9   1986     world championships               sofia       3d  foil individual
+10  1986     world championships               sofia      1st        foil team
+11  1989     world championships              denver       3d  foil individual
+12  1989     world championships              denver       3d        foil team
+13  1990     world championships                lyon      1st        foil team

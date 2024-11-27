@@ -1,0 +1,6 @@
+   year conference                       city        country        local host (s)
+0  2006       lcc1      berkeley , california  united states                   sai
+1  2007       lcc2      berkeley , california  united states     sai and alex fink
+2  2009       lcc3  providence , rhode island  united states          david durand
+3  2011       lcc4                  groningen    netherlands  christophe grandsire
+4  2013       lcc5             austin , texas  united states            alex sands

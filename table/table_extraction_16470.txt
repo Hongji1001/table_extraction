@@ -1,0 +1,9 @@
+              school      location     mascot  enrollment ihsaa class ihsaa football class      county
+0             caston        fulton     comets         240           a                    a   25 fulton
+1           frontier      chalmers    falcons         258           a                    a    91 white
+2        north white         monon    vikings         278           a                    a    91 white
+3            pioneer  royal center   panthers         316           a                    a     09 cass
+4       south newton      kentland     rebels         270           a                    a   56 newton
+5       tri - county       wolcott  cavaliers         227           a                    a  91 white 1
+6       west central   medaryville    trojans         264           a                    a  66 pulaski
+7  winamac community       winamac   warriors         395          aa                    a  66 pulaski

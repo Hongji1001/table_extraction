@@ -1,0 +1,20 @@
+                               institution       location         nickname  founded  enrollment  joined
+0     abraham baldwin agricultural college         tifton        stallions     1908        3284    2010
+1                 albany technical college         albany           titans     1961        4000    2010
+2                           andrew college       cuthbert  fighting tigers     1854         350    2010
+3       atlanta metropolitan state college        atlanta     trailblazers     1965        2001    2010
+4        central georgia technical college          macon           titans     1962        3896    2010
+5          chattahoochee technical college       marietta           eagles     2003        6264    2010
+6                     darton state college         albany        cavaliers     1963        6000    2010
+7               east georgia state college     swainsboro          bobcats     1973        2384    2010
+8                georgia highlands college           rome         chargers     1970        5529    2011
+9                 georgia military college  milledgeville         bulldogs     1879        1200    2010
+10  georgia northwestern technical college           rome          bobcats     1962        6000    2010
+11               georgia perimeter college        decatur          jaguars     1964       24000    2010
+12                    gordon state college    barnesville      highlanders     1872        4555    2010
+13            middle georgia state college        cochran          knights     1884        2960    2010
+14         north georgia technical college   clarkesville           wolves     1944         500    2011
+15      oxford college of emory university         oxford           eagles     1836         753    2010
+16             south georgia state college        douglas            hawks     1906        1959    2010
+17         south georgia technical college       americus             jets     1948        1972    2010
+18     southern crescent technical college        griffin           tigers     1961         501    2010

@@ -1,0 +1,8 @@
+         name  country      status  moving to transfer window  transfer fee
+0  habarugira  bel bdi  loaned out      union          summer             0
+1      ngolok  bel cmr  loaned out      union          summer             0
+2       siani      cmr  loaned out      union          summer             0
+3       tiote      civ  loaned out    roda jc          summer             0
+4       lamah      bel  loaned out    roda jc          summer             0
+5        kums      bel  loaned out   kortrijk          winter             0
+6     théréau      fra  loaned out  charleroi          winter             0

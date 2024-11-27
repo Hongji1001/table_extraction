@@ -1,0 +1,8 @@
+                     Unnamed: 0  played  charlton wins  drawn  millwall wins  charlton goals  millwall goals
+0           the football league      67             11     23             33              62             111
+1           anglo - italian cup       2              1      1              0               4               3
+2                   sub - total      69             12     24             33              66             114
+3  kent fa challenge cup finals      18              9      5              4              36              31
+4          london challenge cup       1              1      0              0               1               0
+5  football league jubilee fund       2              1      1              0               2               1
+6       london pfa charity fund       5              2      1              2               7               5

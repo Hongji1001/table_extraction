@@ -1,0 +1,9 @@
+             school        location     mascot  enrollment ihsaa class ihsaa football class         county
+0    crawfordsville  crawfordsville  athenians         689         aaa                  aaa  54 montgomery
+1          danville        danville   warriors         824         aaa                  aaa   32 hendricks
+2         frankfort       frankfort   hot dogs         887         aaa                 aaaa     12 clinton
+3           lebanon         lebanon     tigers        1038         aaa                 aaaa       06 boone
+4  north montgomery  crawfordsville   chargers         641         aaa                  aaa  54 montgomery
+5         southmont  crawfordsville   mounties         612         aaa                  aaa  54 montgomery
+6        tri - west          lizton     bruins         620         aaa                  aaa   32 hendricks
+7     western boone       thorntown      stars         592         aaa                  aaa       06 boone

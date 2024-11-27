@@ -1,0 +1,10 @@
+           date                                     result    score             stadium        city  crowd
+0  13 june 1997             adelaide rams def leeds rhinos   34 - 8       adelaide oval    adelaide  14630
+1  13 june 1997      hunter mariners def castleford tigers  42 - 12        wheldon road  castleford   3087
+2  14 june 1997  north queensland cowboys def oldham bears  54 - 16   stockland stadium  townsville  12631
+3  14 june 1997       auckland warriors def bradford bulls  20 - 16       odsal stadium    bradford  13133
+4  15 june 1997   canterbury bulldogs def halifax blue sox   58 - 6             belmore      sydney   5034
+5  15 june 1997        canberra raiders def london broncos  66 - 20       bruce stadium    canberra   6471
+6  15 june 1997            sheffield eagles def perth reds  26 - 22  don valley stadium   sheffield   3000
+7  15 june 1997     penrith panthers def warrington wolves  52 - 22         wilderspool  warrington   3850
+8  16 june 1997        brisbane broncos def wigan warriors   34 - 0         anz stadium    brisbane  14833

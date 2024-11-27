@@ -1,0 +1,20 @@
+                 rider manufacturer  laps time / retired  grid
+0         casey stoner       ducati    25      43:16.907     4
+1      valentino rossi       yamaha    25        + 0.069     1
+2         dani pedrosa        honda    25        + 0.390     3
+3         john hopkins       suzuki    25        + 7.814     5
+4      randy de puniet     kawasaki    25       + 17.853     2
+5      loris capirossi       ducati    25       + 19.409    17
+6      chris vermeulen       suzuki    25       + 19.495    11
+7          alex barros       ducati    25       + 24.862    14
+8       marco melandri        honda    25       + 24.963     9
+9        colin edwards       yamaha    25       + 35.348     6
+10        nicky hayden        honda    25       + 36.301     7
+11       makoto tamada       yamaha    25       + 38.720    16
+12        alex hofmann       ducati    25       + 40.934    10
+13    sylvain guintoli       yamaha    25       + 44.399    13
+14       shinya nakano        honda    25       + 54.103    12
+15  kenny roberts , jr       kr212v    25       + 59.655    18
+16        carlos checa        honda    25     + 1:02.315    15
+17      kurtis roberts       kr212v    25     + 1:03.322    19
+18         toni elã­as        honda    14     retirement     8

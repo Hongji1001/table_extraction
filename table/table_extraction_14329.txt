@@ -1,0 +1,10 @@
+   nat         name   moving from         type transfer window  ends  transfer fee source
+0  dnk     d jensen  youth system     promoted          summer  2011  youth system  fckdk
+1  dnk  albrechtsen  youth system     promoted          summer  2010  youth system  fckdk
+2  dnk      bertolt        viborg  end of loan          summer  2009         n / a  fckdk
+3  dnk   kristensen  nordsjãlland     transfer          summer  2012   undisclosed  fckdk
+4  bra       santin     kalmar ff     transfer          summer  2013  dkk 15000000  fckdk
+5  swe      larsson  halmstads bk     transfer          summer  2013  dkk 15000000  fckdk
+6  swe       wiland   if elfsborg     transfer          winter  2013   dkk 8000000  fckdk
+7  dnk     vingaard       esbjerg     transfer          winter  2012   dkk 8000000  fckdk
+8  sen       n'doye           ofi     transfer          winter  2013  dkk 15000000  fckdk

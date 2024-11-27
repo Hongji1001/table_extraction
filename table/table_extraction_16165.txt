@@ -1,0 +1,11 @@
+                                      race  dist (f)              course  runners  placing  margin           jockey           trainer
+0     south norfolk caterers maiden stakes         8            yarmouth       18        1    5.00  frankie dettori       david loder
+1        doncaster sponsorship club stakes         8           doncaster        4        1    9.00  frankie dettori  saeed bin suroor
+2                       predominate stakes        10            goodwood        6        1    3.50  frankie dettori  saeed bin suroor
+3                                    derby        12               epsom       16        9    9.25  frankie dettori  saeed bin suroor
+4                         prix eugene adam        10  maisons - laffitte        5        1    3.00  frankie dettori  saeed bin suroor
+5                   prix jacques le marois         8           deauville        5        1    2.50  frankie dettori  saeed bin suroor
+6                queen elizabeth ii stakes         8               ascot        4        1    6.00  frankie dettori  saeed bin suroor
+7  maktoum bin rashid al maktoum challenge        10        nad al sheba        6        1    4.50  frankie dettori  saeed bin suroor
+8                          dubai world cup        10        nad al sheba       13        1    6.00  frankie dettori  saeed bin suroor
+9                prince of wales 's stakes        10               ascot        6        1    8.00     jerry bailey  saeed bin suroor

@@ -1,0 +1,6 @@
+   name of deity     bhuta (tatwa)    name of the stone (sila)         name of the river name of the state where found in india
+0        ganesha       apu (water)              red sonabhadra                      sone                                  bihar
+1    surya (sun)        vayu (air)                     crystal                    vallam                  tamil nadu (tanjavur)
+2         vishnu    akasha (space)                   saligrama                   gandaki                                  nepal
+3          shiva  prithivi (earth)                   banalinga  narmada (omkara - kunda)                         madhya pradesh
+4  ambika (devi)       agni (fire)  swarna mukhi (rekha shila)               swarnamukhi                         andhra pradesh

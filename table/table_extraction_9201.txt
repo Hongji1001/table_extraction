@@ -1,0 +1,13 @@
+                driver  season  wins  entries percentage
+0   michael schumacher    2004    13       18     72.22%
+1   michael schumacher    2002    11       17     64.70%
+2     sebastian vettel    2011    11       19     57.89%
+3     sebastian vettel    2013    11       17     64.70%
+4        nigel mansell    1992     9       16     56.25%
+5   michael schumacher    1995     9       17     52.94%
+6   michael schumacher    2000     9       17     52.94%
+7   michael schumacher    2001     9       17     52.94%
+8         ayrton senna    1988     8       16     50.00%
+9   michael schumacher    1994     8       14     57.14%
+10          damon hill    1996     8       16     50.00%
+11      mika hã¤kkinen    1998     8       16     50.00%

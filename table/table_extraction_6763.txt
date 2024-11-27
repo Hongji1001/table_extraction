@@ -1,0 +1,6 @@
+                   team  games played  wins  losses  ties  goals for  goals against
+0  montreal hockey club             8     5       3     0         25             15
+1    ottawa hockey club             8     5       3     0         24             16
+2    montreal victorias             8     5       3     0         36             20
+3    quebec hockey club             8     5       3     0         26             27
+4     montreal crystals             8     0       8     0         10             43

@@ -1,0 +1,11 @@
+   round  overall           player          position          college
+0      1       25        greg hill      running back        texas a&m
+1      2       58  donnell bennett      running back            miami
+2      3       92      lake dawson     wide receiver       notre dame
+3      3       96       chris penn     wide receiver            tulsa
+4      4      127     bracy walker            safety   north carolina
+5      5      151     james burton        cornerback     fresno state
+6      5      156      rob waldrop  defensive tackle          arizona
+7      6      185   anthony daigle      running back     fresno state
+8      7      199   steve matthews       quarterback          memphis
+9      7      219     tracy greene         tight end  grambling state

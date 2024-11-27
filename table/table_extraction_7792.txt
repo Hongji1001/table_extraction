@@ -1,0 +1,8 @@
+                       name   years gender          area         authority  decile  roll
+0             hapuku school   1 - 8   coed        hapuku             state       4    23
+1      kaikoura high school  7 - 13   coed      kaikoura             state       4   217
+2   kaikoura primary school   1 - 6   coed      kaikoura             state       5    90
+3  kaikoura suburban school   1 - 6   coed      kaikoura             state       7    93
+4       lynton downs school   1 - 6   coed  lynton downs             state       9    15
+5       st joseph 's school   1 - 8   coed      kaikoura  state integrated       5    72
+6           woodbank school   1 - 6   coed      kaikoura             state       4     3

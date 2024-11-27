@@ -1,0 +1,9 @@
+  singular singular gender        plural plural gender         meaning
+0      awu               m           awe             f            bull
+1    bila'               m      bil'aawe             f           cliff
+2   nyaqot               m    nyaqootma'             f  colobus monkey
+3   hhampa               m     hhampeeri             n            wing
+4   tlanka               f      tlankadu             n          bridge
+5     lama               f       lameemo             n             lie
+6    hlanã               m      hlaneemo             n          python
+7   xweera               n  xweer (a) du             n           night

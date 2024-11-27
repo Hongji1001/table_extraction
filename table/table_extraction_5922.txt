@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0           david coulthard     mclaren - mercedes    58    1:30:28.718     4
+1        michael schumacher                ferrari    58       + 20.046     3
+2            mika hã¤kkinen     mclaren - mercedes    58       + 22.177     6
+3            gerhard berger     benetton - renault    58       + 22.841    10
+4             olivier panis  prost - mugen - honda    58     + 1:00.308     9
+5             nicola larini      sauber - petronas    58     + 1:36.040    13
+6             shinji nakano  prost - mugen - honda    56       + 2 laps    16
+7   heinz - harald frentzen     williams - renault    55         brakes     2
+8              jarno trulli         minardi - hart    55       + 3 laps    17
+9               pedro diniz        arrows - yamaha    54       + 4 laps    22
+10       rubens barrichello         stewart - ford    49         engine    11
+11                mika salo         tyrrell - ford    42         engine    18
+12            jan magnussen         stewart - ford    36     suspension    19
+13               jean alesi     benetton - renault    34    out of fuel     8
+14            ukyo katayama         minardi - hart    32     electrical    15
+15     giancarlo fisichella       jordan - peugeot    14       spun off    14
+16           jos verstappen         tyrrell - ford     2       spun off    21
+17          ralf schumacher       jordan - peugeot     1        gearbox    12
+18       jacques villeneuve     williams - renault     0      collision     1
+19             eddie irvine                ferrari     0      collision     5
+20           johnny herbert      sauber - petronas     0      collision     7
+21               damon hill        arrows - yamaha     0       throttle    20

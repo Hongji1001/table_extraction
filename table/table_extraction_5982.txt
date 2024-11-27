@@ -1,0 +1,21 @@
+                  driver         constructor  laps time / retired  grid
+0     rubens barrichello             ferrari    77    1:41:49.001     1
+1     michael schumacher             ferrari    77        + 0.434     2
+2        ralf schumacher      williams - bmw    77       + 13.356     3
+3         kimi räikkönen  mclaren - mercedes    77       + 29.479    11
+4        david coulthard  mclaren - mercedes    77       + 37.800    10
+5   giancarlo fisichella      jordan - honda    77     + 1:08.804     5
+6           felipe massa   sauber - petronas    77     + 1:13.612     7
+7           jarno trulli             renault    76        + 1 lap     6
+8          nick heidfeld   sauber - petronas    76        + 1 lap     8
+9            takuma sato      jordan - honda    76        + 1 lap    14
+10    juan pablo montoya      williams - bmw    76        + 1 lap     4
+11         olivier panis         bar - honda    76        + 1 lap    12
+12      pedro de la rosa   jaguar - cosworth    75       + 2 laps    15
+13          allan mcnish              toyota    75       + 2 laps    18
+14             mika salo              toyota    75       + 2 laps    17
+15           mark webber  minardi - asiatech    75       + 2 laps    19
+16      anthony davidson  minardi - asiatech    58           spin    20
+17         jenson button             renault    30           spin     9
+18          eddie irvine   jaguar - cosworth    23         engine    16
+19    jacques villeneuve         bar - honda    20   transmission    13

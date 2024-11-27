@@ -1,0 +1,8 @@
+      season             team    country  division  apps  goals
+0       2007     dalian shide      china         1     0      0
+1  2007 - 08       citizen aa  hong kong         1     8     10
+2       2008     dalian shide      china         1    17      0
+3       2009     dalian shide      china         1    21      2
+4       2010     dalian shide      china         1    26      5
+5       2011     dalian shide      china         1     8      1
+6       2012  chongqing lifan      china         2     9      0

@@ -1,0 +1,10 @@
+    rank   nation  gold  silver  bronze  total
+0      1   sweden     4       1       1      6
+1      2   turkey     1       4       2      7
+2      3  hungary     1       2       1      4
+3      4    egypt     1       0       2      3
+4      5  finland     1       0       0      1
+5      6  lebanon     0       1       0      1
+6      7    italy     0       0       1      1
+7      7   norway     0       0       1      1
+8  total    total     8       8       8     24

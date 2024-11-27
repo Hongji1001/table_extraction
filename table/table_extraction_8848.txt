@@ -1,0 +1,23 @@
+         country          film title used in nomination                    language                       original title                   director
+0        belgium                     the lonely killers                      french                      les tueurs fous           boris szulzinger
+1         brazil      how tasty was my little frenchman  portuguese , french , tupi       como era gostoso o meu francês  nelson pereira dos santos
+2       bulgaria                          the goat horn                   bulgarian                           козият рог             metodi andonov
+3         canada          the true nature of bernadette                      french        la vraie nature de bernadette               gilles carle
+4        denmark           oh , to be on the bandwagon!                      danish      man sku være noget ved musikken            henning carlsen
+5          egypt                    my wife and the dog                      arabic                        زوجتي و الكلب               said marzouk
+6         france  the discreet charm of the bourgeoisie            french , spanish  le charme discret de la bourgeoisie                luis buñuel
+7   west germany                                 trotta                      german                               trotta            johannes schaaf
+8        hungary                     present indicative                   hungarian                             jelenidő                péter bacsó
+9          india                                 uphaar                       hindi                                उपहार               sudhendu roy
+10        israel                        i love you rosa                      hebrew                   אני אוהב אותך רוזה              moshé mizrahi
+11         italy                                   roma                     italian                                 roma           federico fellini
+12         japan       under the flag of the rising sun                    japanese                             軍旗はためく下に             kinji fukasaku
+13        kuwait                          the cruel sea                      arabic                        فيلم بس يابحر           khalid al siddiq
+14          peru                                 mirage                     spanish                            espejismo       armando robles godoy
+15        poland                     pearl in the crown                      polish                      perla w koronie             kazimierz kutz
+16         spain                    my dearest senorita                     spanish                  mi querida señorita           jaime de armiñán
+17        sweden                           the new land                     swedish                           nybyggarna                 jan troell
+18   switzerland                          la salamandre                      french                        la salamandre               alain tanner
+19        taiwan                    execution in autumn                     chinese                                   秋決                   li hsing
+20  soviet union               the dawns here are quiet                     russian                   а зори здесь тихие        stanislav rostotsky
+21    yugoslavia                the master and margaret            serbo - croatian                  majstor i margarita        aleksandar petrović

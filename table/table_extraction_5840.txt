@@ -1,0 +1,22 @@
+                    driver      constructor  laps time / retired  grid
+0              graham hill     lotus - ford    65     1:56:43.95     3
+1            bruce mclaren   mclaren - ford    65      + 1:19.32     9
+2            jackie oliver     lotus - ford    65      + 1:40.65    14
+3          pedro rodríguez              brm    65      + 1:41.09    12
+4               jo bonnier            honda    64        + 1 lap    18
+5               jo siffert     lotus - ford    64        + 1 lap     1
+6           jackie stewart     matra - ford    64        + 1 lap     7
+7               vic elford     cooper - brm    63       + 2 laps    17
+8          henri pescarolo            matra    62       + 3 laps    20
+9             jack brabham  brabham - repco    59   oil pressure     8
+10   johnny servoz - gavin     matra - ford    57       ignition    16
+11              dan gurney   mclaren - ford    28     suspension     5
+12           piers courage              brm    25         engine    19
+13          lucien bianchi     cooper - brm    21         engine    21
+14            john surtees            honda    17    overheating     6
+15              chris amon          ferrari    16   transmission     2
+16           moisés solana     lotus - ford    14    broken wing    11
+17             denny hulme   mclaren - ford    10     suspension     4
+18  jean - pierre beltoise            matra    10     suspension    13
+19              jacky ickx          ferrari     3       ignition    15
+20            jochen rindt  brabham - repco     2       ignition    10

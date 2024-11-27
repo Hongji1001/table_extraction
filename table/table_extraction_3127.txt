@@ -1,0 +1,41 @@
+             ab - angry boar            b - bishop          ba - running bear         bb - blind bear        bc - beast cadet
+0        bd - buddhist devil     be - bear soldier        bg - bishop general          bi - blind dog        bl - blue dragon
+1          bm - blind monkey  bn - burning soldier         bo - beast officer       bs - boar soldier        bt - blind tiger
+2         c - copper general        ca - capricorn          cc - chinese cock       cd - ceramic dove        ce - cloud eagle
+3       cg - chicken general  ch - chariot soldier         ci - stone chariot        ck - flying cock       cl - cloud dragon
+4       cm - climbing monkey  cn - center standard       co - captive officer       cp - crown prince     cr - copper chariot
+5             cs - cat sword    ct - captive cadet                    d - dog   de - drunken elephant        dg - roaring dog
+6          dh - dragon horse      dk - dragon king                do - donkey         dm - fire demon        ds - dark spirit
+7                  dv - deva    ea - earth general      eb - enchanted badger      ec - earth chariot       ed - earth dragon
+8          eg - fierce eagle    el - soaring eagle     es - eastern barbarian          ew - evil wolf        f - fire general
+9            fc - flying cat    fd - flying dragon            fe - free eagle  fg - fragrant elephant       fh - flying horse
+10          fi - fire dragon        fk - free king     fl - ferocious leopard       fo - forest demon           fp - free pup
+11           fr - free demon   fs - flying swallow    ft - free dream - eater       fy - flying goose        g - gold general
+12           gb - go between     gc - gold chariot          gd - great dragon     ge - great standard      gg - great general
+13          gl - golden deer     gm - great master          gn - wood general        go - golden bird         gr - great dove
+14           gs - great stag     gt - great turtle  gu - guardian of the gods       h - horse general        hd - howling dog
+15  he - rams - head soldier    hf - horned falcon            hm - hook mover           ho - horseman      hr - running horse
+16        hs - horse soldier      i - iron general                   k - king       km - kirin master              kr - kirin
+17                 l - lance  lb - longbow soldier          lc - left chariot           ld - lion dog        le - left dragon
+18         lg - left general  lh - liberated horse             li - lion hawk      ll - little turtle               ln - lion
+19  lo - long - nosed goblin  lp - leopard soldier       ls - little standard         lt - left tiger    m - mountain general
+20        md - mountain dove   me - mountain eagle       mf - mountain falcon        mk - side monkey      ms - mountain stag
+21        mt - center master            n - knight    nb - northern barbarian   nk - neighboring king       nt - violent wolf
+22            o - ox general           oc - oxcart              ok - old kite         om - old monkey            or - old rat
+23           os - ox soldier     ow - swooping owl             ox - flying ox                p - pawn            pc - peacock
+24          pg - pup general          ph - phoenix           pi - pig general     pm - phoenix master      pr - prancing stag
+25      ps - poisonous snake              r - rook           ra - rain dragon       rb - rushing bird      rc - right chariot
+26     rd - reclining dragon    re - river general         rg - right general    rh - running chariot       ri - right dragon
+27           rm - roc master     rn - running stag          ro - rook general        rp - running pup     rr - running rabbit
+28        rs - rear standard    rt - running tiger       ru - running serpent    rv - reverse chariot       rw - running wolf
+29        s - silver general        sa - side boar   sb - cross - bow soldier     sd - front standard      se - sword soldier
+30           sf - side flier    sg - stone general           si - side dragon       sl - side soldier         sm - side mover
+31       sn - coiled serpent          so - soldier         sp - spear soldier       sq - square mover      sr - silver rabbit
+32         ss - side serpent   st - strutting crow    su - southern barbarian     sv - silver chariot     sw - swallows wings
+33              sx - side ox      t - tile general          tc - tile chariot    tf - treacherous fox       tg - savage tiger
+34       ts - turtle - snake      tt - right tiger          vb - violent bear     vd - violent dragon      ve - vertical bear
+35         vg - vice general   vh - vertical horse    vi - vermillion sparrow   vl - vertical leopard     vm - vertical mover
+36           vo - violent ox     vp - vertical pup      vr - vertical soldier          - violent stag     vt - vertical tiger
+37        vw - vertical wolf             w - whale          wa - water dragon      wb - water buffalo       wc - wood chariot
+38          wd - wind dragon   we - white elephant             wf - side wolf      wg - water general        wh - white horse
+39       wl - woodland demon     wn - wind general           wo - wooden dove           wr - wrestler  ws - western barbarian

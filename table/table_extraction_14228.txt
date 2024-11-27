@@ -1,0 +1,11 @@
+   rank                               company         country     industry revenue in usd
+0     1                     royal dutch shell     netherlands    petroleum  481.7 billion
+1     2                               walmart   united states       retail  469.2 billion
+2     3                            exxonmobil   united states    petroleum  449.9 billion
+3     4                               sinopec           china    petroleum  428.2 billion
+4     5  china national petroleum corporation           china    petroleum  408.6 billion
+5     6                                    bp  united kingdom    petroleum  388.3 billion
+6     7       state grid corporation of china           china        power  298.4 billion
+7     8                                toyota           japan  automobiles  265.7 billion
+8     9                            volkswagen         germany  automobiles  247.6 billion
+9    10                                 total          france    petroleum  234.3 billion

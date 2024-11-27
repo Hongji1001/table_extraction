@@ -1,0 +1,15 @@
+                           hand 1 credit 2 credits 3 credits 4 credits 5 credits
+0                   royal flush      250       500       750      1000      4000
+1                straight flush       50       100       150       200       250
+2    four aces w / 2 , 3 , or 4      400       800      1200      1600      2000
+3   four 2 , 3 , or 4 w / a - 4      160       320       480       640       800
+4                     four aces      160       320       480       640       800
+5             four 2 , 3 , or 4       80       160       240       320       400
+6                    four 5 - k       50       100       150       200       250
+7                    full house       10        20        30        40        50
+8                         flush        6        12        18        24        30
+9                      straight        4         8        12        16        20
+10              three of a kind        3         6         9        12        15
+11                     two pair        1         2         3         4         5
+12              jacks or better        1         2         3         4         5
+13           theoretical return    98.9%     98.9%     98.9%     98.9%    100.1%

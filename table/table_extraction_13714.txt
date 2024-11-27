@@ -1,0 +1,25 @@
+    pick                  player    nationality  new wnba team     former wnba team college / country / team
+0      1      gordana grubin (g)     yugoslavia  indiana fever   los angeles sparks               yugoslavia
+1      2       edna campbell (g)  united states  seattle storm      phoenix mercury                    texas
+2      3       kate starbird (g)  united states      miami sol  sacramento monarchs                 stanford
+3      4        alisa burras (f)  united states  portland fire    cleveland rockers           louisiana tech
+4      5       sonja henning (g)  united states  portland fire       houston comets                 stanford
+5      6     sandy brondello (g)  united states      miami sol        detroit shock                australia
+6      7  sophia witherspoon (g)  united states  seattle storm     new york liberty                  florida
+7      8  stephanie mccarthy (g)  united states  indiana fever      charlotte sting                   purdue
+8      9       nyree roberts (c)  united states  indiana fever   washington mystics             old dominion
+9     10       angela aycock (f)  united states  seattle storm       minnesota lynx                   kansas
+10    11        debbie black (g)  united states      miami sol          utah starzz             st joseph 's
+11    12       tari phillips (c)  united states  portland fire      orlando miracle                  florida
+12    13  coquese washington (g)  united states  portland fire     new york liberty               notre dame
+13    14      sharon manning (f)  united states      miami sol      charlotte sting     north carolina state
+14    15         nina bjedov (c)     yugoslavia  seattle storm   los angeles sparks               yugoslavia
+15    16       rita williams (g)  united states  indiana fever   washington mystics              connecticut
+16    17        kara wolters (c)  united states  indiana fever       houston comets              connecticut
+17    18         toni foster (f)  united states  seattle storm      phoenix mercury                     iowa
+18    19        lesley brown (f)  united states      miami sol        detroit shock                 virginia
+19    20    molly goodenbour (g)  united states  portland fire  sacramento monarchs                 stanford
+20    21      jamila wideman (g)  united states  portland fire    cleveland rockers                 stanford
+21    22       yolando moore (f)  united states      miami sol      orlando miracle              mississippi
+22    23       charmin smith (g)  united states  seattle storm       minnesota lynx                 stanford
+23    24  chantel tremitiere (g)  united states  indiana fever          utah starzz                   auburn

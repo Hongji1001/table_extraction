@@ -1,0 +1,18 @@
+    year                                  title  genre                                  label     result
+0   year                                  title  genre                                  label     result
+1   1986       black codes from the underground   jazz                               columbia     winner
+2   1987                                 j mood   jazz                               columbia     winner
+3   1988      marsalis standard time - volume 1   jazz                               columbia     winner
+4   1988                             trio jeepy   jazz                               columbia  nominated
+5   1990           mo better blues (soundtrack)   jazz                                    cbs  nominated
+6   1993       i heard you twice the first time   jazz                               columbia     winner
+7   1996                               panamonk   jazz                                impulse  nominated
+8   1998                               songbook   jazz                            warner bros  nominated
+9   2000                                requiem   jazz                               columbia  nominated
+10  2000                 time is of the essence   jazz                                  verve  nominated
+11  2001                      contemporary jazz   jazz                               columbia     winner
+12  2001                                refugee   jazz                                  verve  nominated
+13  2005                                eternal   jazz                         marsalis music  nominated
+14  2010                                  watts   jazz                dark key (watts' label)     winner
+15  2011                            positootly!   jazz                      resonance records  nominated
+16  2011  mingus big band live at jazz standard   jazz  mingus workshop , inc / jazz standard     winner

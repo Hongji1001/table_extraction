@@ -1,0 +1,7 @@
+  builder  model                          years of daylight service                    retired  current disposition
+0    alco     pa                                        1953 - 1968                       1968         no survivors
+1     emd     e7                                        1953 - 1968                       1968         no survivors
+2     emd     e8                                        1954 - 1968                       1968         no survivors
+3     emd     e9                                        1954 - 1971                       1971  one survives , 6051
+4     emd    fp7  1953 - 1971 , all but 6462 sold to amtrak in 1971  early 1980s (with amtrak)         no survivors
+5     emd  sdp45          1967 - 1971 , leased by amtrak until 1974                early 1990s         no survivors

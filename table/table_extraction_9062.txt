@@ -1,0 +1,8 @@
+            molecule  percent of mass molweight (daltons)     molecules percent of molecules
+0              water             65.0                  18  1.740000e+14                98.73
+1  other s inorganic              1.5               n / a  1.310000e+12                 0.74
+2            s lipid             12.0               n / a  8.400000e+11                0.475
+3    other s organic              0.4               n / a  7.700000e+10                0.044
+4            protein             20.0               n / a  1.900000e+10                0.011
+5                rna              1.0               n / a  5.000000e+07               3e - 5
+6                dna              0.1                1e11  4.600000e+01              3e - 11

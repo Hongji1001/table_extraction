@@ -1,0 +1,15 @@
+                club  wins  runners - up           years won years runner - up
+0          barcelona     3             1  1958 , 1960 , 1966              1962
+1           valencia     2             1         1962 , 1963              1964
+2       leeds united     2             1         1968 , 1971              1967
+3      real zaragoza     1             1                1964              1966
+4        ferencváros     1             1                1965              1968
+5      dinamo zagreb     1             1                1967              1963
+6               roma     1             0                1961                 -
+7   newcastle united     1             0                1969                 -
+8            arsenal     1             0                1970                 -
+9    birmingham city     0             2                   -       1960 , 1961
+10          juventus     0             2                   -       1965 , 1971
+11         london xi     0             1                   -              1958
+12            újpest     0             1                   -              1969
+13        anderlecht     0             1                   -              1970

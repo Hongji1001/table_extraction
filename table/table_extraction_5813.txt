@@ -1,0 +1,19 @@
+                             driver constructor  laps time / retired  grid
+0                     stirling moss     vanwall    87      2:35:03.9     2
+1                juan manuel fangio    maserati    87    + 41.2 secs     4
+2                wolfgang von trips     ferrari    85       + 2 laps     8
+3                    masten gregory    maserati    84       + 3 laps    11
+4    giorgio scarlatti harry schell    maserati    84       + 3 laps    12
+5                     mike hawthorn     ferrari    83       + 4 laps    10
+6                       tony brooks     vanwall    82       + 5 laps     3
+7                       luigi musso     ferrari    82       + 5 laps     9
+8                        paco godia    maserati    81       + 6 laps    15
+9                      horace gould    maserati    78       + 9 laps    18
+10  andrã simon ottorino volonterio    maserati    72      + 15 laps    16
+11                    peter collins     ferrari    62         engine     7
+12             stuart lewis - evans     vanwall    49         engine     1
+13                       jean behra    maserati    49    overheating     5
+14                    bruce halford    maserati    47         engine    14
+15                     harry schell    maserati    34       oil leak     6
+16                       jo bonnier    maserati    31    overheating    13
+17                     luigi piotti    maserati     3         engine    17

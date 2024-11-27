@@ -1,0 +1,6 @@
+                     candidate party eu party  1st count   29th count
+0      busuttil simon busuttil    pn      epp      68782  41363 41362
+1              casa david casa    pn      epp       6539        41362
+2            grech louis grech    pl      pes      27753        40529
+3     scicluna edward scicluna    pl      pes      24574        39250
+4  attard john attard montalto    pl      pes      12880        30129

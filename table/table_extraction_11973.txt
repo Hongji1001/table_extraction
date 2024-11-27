@@ -1,0 +1,9 @@
+             date    rocket         type      launch site     satellite
+0  2013 - 10 - 23  delta iv  m + (4 , 2)  ccafs slc - 37b   gps iif - 5
+1       2014 - 05  delta iv  m + (4 , 2)  ccafs slc - 37b   gps iif - 6
+2            2014   atlas v          401   ccafs slc - 41   gps iif - 7
+3            2016   atlas v          401   ccafs slc - 41   gps iif - 8
+4         unknown  delta iv  m + (4 , 2)  ccafs slc - 37b   gps iif - 9
+5         unknown  delta iv  m + (4 , 2)  ccafs slc - 37b  gps iif - 10
+6         unknown       tbd          tbd            ccafs  gps iif - 11
+7         unknown       tbd          tbd            ccafs  gps iif - 12

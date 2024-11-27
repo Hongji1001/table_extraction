@@ -1,0 +1,23 @@
+                     driver                          entrant    constructor                    chassis          engine tyre
+0              nello pagani           scuderia achille varzi       maserati         maserati 4clt - 48    maserati l4s    p
+1              johnny claes                     ecurie belge  talbot - lago         talbot - lago t26c       talbot l6    d
+2   yves giraud - cabantous  automobiles talbot - darracq sa  talbot - lago    talbot - lago t26c - da       talbot l6    d
+3             eugène martin  automobiles talbot - darracq sa  talbot - lago    talbot - lago t26c - da       talbot l6    d
+4              louis rosier  automobiles talbot - darracq sa  talbot - lago    talbot - lago t26c - da       talbot l6    d
+5             luigi fagioli                    sa alfa romeo     alfa romeo             alfa romeo 158  alfa romeo l8s    p
+6        juan manuel fangio                    sa alfa romeo     alfa romeo             alfa romeo 158  alfa romeo l8s    p
+7               nino farina                    sa alfa romeo     alfa romeo             alfa romeo 158  alfa romeo l8s    p
+8            alberto ascari                 scuderia ferrari        ferrari                ferrari 125    ferrari v12s    p
+9            raymond sommer                 scuderia ferrari        ferrari                ferrari 125    ferrari v12s    p
+10          luigi villoresi                 scuderia ferrari        ferrari                ferrari 125    ferrari v12s    p
+11          peter whitehead                 scuderia ferrari        ferrari                ferrari 125    ferrari v12s    p
+12             louis chiron        officine alfieri maserati       maserati         maserati 4clt - 48    maserati l4s    p
+13               franco rol        officine alfieri maserati       maserati         maserati 4clt - 48    maserati l4s    p
+14              prince bira                     enrico platé       maserati         maserati 4clt - 48    maserati l4s    p
+15     toulo de graffenried                     enrico platé       maserati         maserati 4clt - 48    maserati l4s    p
+16           felice bonetto                  scuderia milano       maserati  maserati milano 4clt - 50    maserati l4s    p
+17              reg parnell              scuderia ambrosiana       maserati         maserati 4clt - 48    maserati l4s    d
+18             rudi fischer                   ecurie espadon     sva - fiat                   sva 1500        fiat l4s    p
+19              toni branca                          private       maserati               maserati 4cl    maserati l4s    p
+20       philippe étancelin                          private  talbot - lago         talbot - lago t26c       talbot l6    d
+21             harry schell                     ecurie bleue  talbot - lago         talbot - lago t26c       talbot l6    d

@@ -1,0 +1,12 @@
+                team       outgoing manager         manner of departure  date of vacancy             replaced by position in the table 
+0             getafe         bernd schuster                    resigned      9 july 2007         michael laudrup     9th (2006 - 2007) 
+1              betis          paco chaparro  end of tenure as caretaker      3 july 2007            hector cuper    16th (2006 - 2007) 
+2   racing santander  miguel ángel portugal             end of contract     30 june 2007  marcelino garcía toral   10th (2006 - 2007 ) 
+3            levante            abel resino                      sacked   8 october 2007         gianni de biasi                  20th 
+4            sevilla           juande ramos                    resigned  27 october 2007          manolo jiménez                  10th 
+5           valencia         quique sánchez                      sacked  29 october 2007           ronald koeman                   4th 
+6              betis           hector cuper                      sacked  3 december 2007           paco chaparro                  19th 
+7      real zaragoza       víctor fernández                      sacked  14 january 2008          ander garitano                  12th 
+8      real zaragoza         ander garitano                    resigned  22 january 2008          javier irureta                  11th 
+9         recreativo           víctor muñoz                      sacked  4 february 2008         manolo zambrano                  19th 
+10     real zaragoza         javier irureta                    resigned     3 march 2008        manolo villanova                  17th 

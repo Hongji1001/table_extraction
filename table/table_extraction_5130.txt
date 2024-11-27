@@ -1,0 +1,9 @@
+   pick                                        cfl team             player position          college
+0    17                         bc lions (via hamilton)       tad crawford        s         columbia
+1    18               montreal alouettes (via edmonton)     chris van zeyl       dl         mcmaster
+2    19  montreal alouettes (via hamilton via winnipeg)        brian jones       ol          windsor
+3    20                        saskatchewan roughriders     yannick carter       lb  wilfrid laurier
+4    21                calgary stampeders (via toronto)  patrick macdonald       dl          alberta
+5    22             winnipeg blue bombers (via calgary)      eugene boakye       lb         mcmaster
+6    23                              montreal alouettes  donovan alexander       db     north dakota
+7    24                                        bc lions    andre sadeghian       rb         mcmaster

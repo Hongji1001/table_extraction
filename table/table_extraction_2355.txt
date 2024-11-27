@@ -1,0 +1,10 @@
+   year network       race caller         s host                              s analyst                              reporters trophy presentation
+0  1979     cbs  marshall cassidy  jack whitaker        frank i wright and jimmy snyder     phyllis george and charlsie cantey       jack whitaker
+1  1978     cbs     chic anderson  jack whitaker        frank i wright and jimmy snyder     phyllis george and charlsie cantey       jack whitaker
+2  1977     cbs     chic anderson  jack whitaker        frank i wright and jimmy snyder     phyllis george and charlsie cantey       jack whitaker
+3  1976     cbs     chic anderson  jack whitaker  heywood hale broun and frank i wright                         phyllis george       jack whitaker
+4  1975     cbs     chic anderson  jack whitaker  heywood hale broun and frank i wright                         phyllis george       jack whitaker
+5  1974     cbs     chic anderson  jack whitaker  heywood hale broun and frank i wright  heywood hale broun and frank i wright       jack whitaker
+6  1973     cbs     chic anderson  jack whitaker  heywood hale broun and frank i wright  heywood hale broun and frank i wright       jack whitaker
+7  1972     cbs     chic anderson  jack whitaker                     heywood hale broun   heywood hale broun and pia lindström       jack whitaker
+8  1971     cbs     chic anderson  jack whitaker                     heywood hale broun                          pia lindström       jack whitaker

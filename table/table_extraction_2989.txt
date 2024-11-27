@@ -1,0 +1,15 @@
+    pick              mls team          player    position                                   affiliation
+0     33    philadelphia union   kyle nakazawa  midfielder                      ucla los angeles legends
+1     35            chivas usa   kevin tangney    defender                        university of maryland
+2     36   kansas city wizards   nick cardenas    defender      san diego state university ogden outlaws
+3     37  san jose earthquakes    andrew hoxie     forward                 the college of william & mary
+4     38             fc dallas   jason yeisley     forward            penn state university reading rage
+5     39        real salt lake   chris schuler    defender     creighton university chicago fire premier
+6     40       colorado rapids      chad borak    defender  cal state northridge orange county blue star
+7     41   kansas city wizards   mauro fuzetti  midfielder         university of michigan michigan bucks
+8     42            chivas usa     isaac kissi  midfielder                          university of dayton
+9     43        houston dynamo    david walker  midfielder                              uc santa barbara
+10    44             fc dallas  eric alexander  midfielder          indiana university kalamazoo outrage
+11    45          chicago fire   steven kinney    defender               elon university carolina dynamo
+12    46        houston dynamo   samuel appiah  midfielder                             boston university
+13    47            chivas usa    ben zemanski  midfielder  university of akron cleveland internationals

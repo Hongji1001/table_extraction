@@ -1,0 +1,28 @@
+       date   opponent       score                   loss  attendance   record
+0    june 1     royals  5 - 3 (10)     montgomery (1 - 3)       31107  25 - 29
+1    june 2     royals       7 - 5         janzen (3 - 1)       32253  25 - 30
+2    june 4    yankees       5 - 4         hanson (6 - 7)       17368  25 - 31
+3    june 5    yankees      12 - 7            key (2 - 6)       17142  26 - 31
+4    june 6    yankees       8 - 1      quantrill (2 - 6)       18475  26 - 32
+5    june 7    rangers      10 - 7         janzen (3 - 2)       40046  26 - 33
+6    june 8    rangers       2 - 0         guzmán (4 - 4)       43439  26 - 34
+7    june 9    rangers       8 - 6         hanson (6 - 8)       41605  26 - 35
+8   june 10    yankees       5 - 3        hentgen (6 - 5)       37332  26 - 36
+9   june 11    yankees       6 - 4      quantrill (2 - 7)       32114  26 - 37
+10  june 12    yankees       7 - 4        mendoza (1 - 2)       44238  27 - 37
+11  june 13     angels       6 - 4         guzmán (4 - 5)       20528  27 - 38
+12  june 14     angels       7 - 4         hanson (6 - 9)       18503  27 - 39
+13  june 15     angels       7 - 5       crabtree (2 - 2)       40352  27 - 40
+14  june 16     angels       6 - 4        abbott (1 - 10)       22979  28 - 40
+15  june 18   mariners      11 - 3        wolcott (5 - 7)       25912  29 - 40
+16  june 19   mariners       9 - 2      harikkala (0 - 1)       26265  30 - 40
+17  june 20  athletics       1 - 0        wengert (2 - 5)        8027  31 - 40
+18  june 21  athletics       7 - 5          johns (4 - 9)       10278  32 - 40
+19  june 22  athletics       8 - 4           ware (0 - 4)       20124  32 - 41
+20  june 23  athletics       5 - 4  wojciechowski (5 - 5)       14407  33 - 41
+21  june 25   mariners       8 - 7       charlton (2 - 2)       31420  34 - 41
+22  june 26   mariners       6 - 5          ayala (0 - 1)       30158  35 - 41
+23  june 27   mariners       9 - 1      quantrill (4 - 8)       31108  35 - 42
+24  june 28    brewers       5 - 1         guzmán (6 - 6)       31333  35 - 43
+25  june 29    brewers       7 - 4         janzen (4 - 3)       31170  35 - 44
+26  june 30    brewers      15 - 2          bones (6 - 9)       30104  36 - 44

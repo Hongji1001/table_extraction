@@ -1,0 +1,18 @@
+                   rioplatense       castilian     andalusian                                    mexican                       chilean  english ( us / uk )              italian
+0                      durazno       melocotón      melocotón                                    durazno                       durazno                peach                pesca
+1                      damasco     albaricoque    albaricoque                                  chabacano                       damasco              apricot            albicocca
+2                     frutilla           fresa          fresa                                      fresa                      frutilla           strawberry              fragola
+3                         papa          patata  patata / papa                                       papa                          papa               potato               patata
+4                       poroto  judía / alubia    habichuelas                                     frijol                        poroto                 bean              fagiolo
+5   sweater / suéter / pulóver          jersey         jersey                                     suéter     suéter / chomba / chaleco   sweater / pullover             pullover
+6                         moño        pajarita       pajarita                                       moño              (corbata) humita               bowtie           farfallino
+7                         auto           coche          coche                              carro / coche                          auto                  car        auto (mobile)
+8                      celular           móvil          móvil                                    celular                       celular  cell phone / mobile            cellulare
+9                  computadora       ordenador      ordenador                                computadora                    computador             computer             computer
+10             baúl (del auto)        maletero       maletero                                    cajuela  maleta (del auto) / maletero   (car) trunk / boot                baule
+11                      valija          maleta         maleta                            maleta / petaca                        maleta  luggage or suitcase              valigia
+12                     pollera           falda          falda                                      falda                         falda                skirt                gonna
+13                      ricota        requesón       requesón                                   requesón                        ricota       ricotta cheese              ricotta
+14                      remera        camiseta        playera                         camiseta / playera             polera / camiseta            t - shirt            maglietta
+15                      pancho         perrito      salchicha                             hotdog / jocho             hotdog / completo               hotdog  hot dog / salsiccia
+16                pibe / chico          chaval         chaval  chavo / muchacho / chamaco / bato / chico          lolo / cabro / chico                  boy              ragazzo

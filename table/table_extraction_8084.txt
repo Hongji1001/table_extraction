@@ -1,0 +1,9 @@
+              title studio            role    leading lady      director
+0      texas terror   mono    john higgins   lucile browne   rn bradbury
+1    rainbow valley   mono     john martin   lucile browne   rn bradbury
+2  the desert trail   mono      john scott    mary kornman  cullen lewis
+3    the dawn rider   mono      john mason    marion burns   rn bradbury
+4   paradise canyon   mono      john wyatt    marion burns  carl pierson
+5       westward ho    rep      john wyatt  sheila mannors   rn bradbury
+6  the new frontier    rep     john dawson    muriel evans  carl pierson
+7     lawless range    rep  john middleton  sheila mannors   rn bradbury

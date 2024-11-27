@@ -1,0 +1,13 @@
+                      shooter         event              rank points             score points                    total
+0      erminio frasca ( ita )      wcf 2007       defending champion       defending champion       defending champion
+1    david kostelecký ( cze )    og beijing    olympic gold medalist    olympic gold medalist    olympic gold medalist
+2   giovanni pellielo ( ita )    og beijing  olympic silver medalist  olympic silver medalist  olympic silver medalist
+3      aleksei alipov ( rus )    og beijing  olympic bronze medalist  olympic bronze medalist  olympic bronze medalist
+4     michael diamond ( aus )  wc kerrville                       15                       13                       28
+5    stéphane clamens ( fra )   wc belgrade                       15                       12                       27
+6     mário filipovič ( svk )    wc beijing                       15                        8                       23
+7       bret erickson ( usa )       wc suhl                       10                       12                       22
+8    dominic grazioli ( usa )  wc kerrville                        8                       13                       21
+9    massimo fabbrizi ( ita )   wc belgrade                       10                       11                       21
+10  massimiliano mola ( ita )  wc kerrville                       10                       10                       20
+11    francesco amici ( smr )   wc belgrade                        8                       10                       18

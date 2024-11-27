@@ -1,0 +1,10 @@
+   round  pick             player           position                          school / club team
+0      1     8   kermit alexander               back                                        ucla
+1      2    21          walt rock              guard                                    maryland
+2      3    36         don lisbon               back                               bowling green
+3      4    46   harrison rosdahl              guard      penn state (choice from philadelphia )
+4      4    49  choice to chicago  choice to chicago                           choice to chicago
+5      4    50      hugh campbell                end  washington state (choice from washington )
+6      5    64         vern burke                end                                oregon state
+7      5    65          jim pilot               back   new mexico state (choice from cleveland )
+8      5    66       gary moeller              guard           ohio state (choice from chicago )

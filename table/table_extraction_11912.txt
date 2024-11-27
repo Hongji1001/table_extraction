@@ -1,0 +1,13 @@
+    rank                        name                  team      country  points
+0      1                     romario          fc barcelona       brazil     346
+1      2           hristo stoitchkov          fc barcelona     bulgaria     100
+2      3              roberto baggio           juventus fc        italy      80
+3      4               gheorghe hagi          fc barcelona      romania      50
+4      5               paolo maldini              milan ac        italy      40
+5      6                      bebeto   deportivo la coruna       brazil      16
+6      7             dennis bergkamp           inter milan  netherlands      11
+7      8  carlos bledorn verri dunga         vfb stuttgart       brazil       9
+8      9               franco baresi              milan ac        italy       7
+9      9                tomas brolin              parma fc       sweden       7
+10     9           jã¼rgen klinsmann  tottenham hotspur fc      germany       7
+11     9        mauro da silva gomes   deportivo la coruna       brazil       7

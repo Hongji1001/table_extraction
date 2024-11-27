@@ -1,0 +1,44 @@
+                                            name            built                  listed               location            county
+0                            abiaca creek bridge             1930          2004 - 03 - 22                 vaiden           carroll
+1                            bahala creek bridge             1909          1988 - 11 - 16                    oma          lawrence
+2                            bayou pierre bridge           ca1920          2005 - 06 - 10              carpenter            copiah
+3                            bayou pierre bridge    ca1900 , 1940          2005 - 06 - 10              carpenter            copiah
+4                big black river railroad bridge             1917          1988 - 11 - 16       bovina , edwards    hinds , warren
+5                                   byram bridge           ca1905          1979 - 05 - 23  bryam , frenchs store    hinds , rankin
+6                            chunky river bridge             1911          2004 - 03 - 22                 chunky            newton
+7                                columbus bridge      1925 - 1927          1988 - 11 - 16               columbus           lowndes
+8           confederate avenue brick arch bridge             1935          1988 - 11 - 16              vicksburg            warren
+9                           coon box fork bridge             1919          1979 - 05 - 23               coon box         jefferson
+10                              eddiceton bridge             1909          1988 - 11 - 16              eddiceton          franklin
+11                             enterprise bridge  ca1925 , ca1935          1988 - 11 - 16             enterprise            clarke
+12                     fairchild 's creek bridge             1930          2005 - 06 - 08                natchez             adams
+13                      fairground street bridge             1895          1988 - 11 - 16              vicksburg            warren
+14                             gatesville bridge             1908          1988 - 11 - 16     gatesville , pearl  copiah , simpson
+15                               rh henry bridge             1929          2005 - 06 - 08                edwards             hinds
+16           highway 11 bridge over chunky river             1926          1988 - 11 - 16             enterprise            clarke
+17                       homochitto river bridge             1909          1988 - 11 - 16             hazelhurst            copiah
+18                                keesler bridge             1925          1988 - 11 - 16              greenwood           leflore
+19                            lamb - fish bridge             1905          1982 - 05 - 17             charleston      tallahatchie
+20                             leaf river bridge             1907          1988 - 11 - 16                mcclain            greene
+21                                 lucien bridge             1938          2005 - 06 - 16           mccall creek          franklin
+22                                 mahned bridge             1903          1997 - 11 - 24            new augusta             perry
+23                      mississippi river bridge      1928 - 1930          1989 - 02 - 14              vicksburg            warren
+24                          motley slough bridge             1920          1988 - 11 - 16               columbus           lowndes
+25                         old hill place bridge           ca1920          1979 - 05 - 23                fayette         jefferson
+26                            owens creek bridge             1917          1988 - 11 - 16                  utica         claiborne
+27  pearl river bridge on mississippi highway 28             1940          2005 - 06 - 10             georgetown            copiah
+28                    running water creek bridge             1928          1988 - 11 - 16              shuqualak           noxubee
+29                                shubuta bridge             1919          1988 - 11 - 16                shubuta            clarke
+30                             stuckey 's bridge             1901          1988 - 11 - 16               meridian        lauderdale
+31                                 tibbee bridge             1896          1988 - 11 - 16             west point              clay
+32                     valley of the moon bridge  ca1925 , ca1930          2005 - 06 - 08            port gibson         claiborne
+33                                waverly bridge             1914          1989 - 03 - 20     columbus , waverly    clay , lowndes
+34                         widow 's creek bridge             1917          1988 - 11 - 16            port gibson         claiborne
+35                         woodrow wilson bridge             1925          1988 - 11 - 16                jackson    hinds , rankin
+36                               woodburn bridge           ca1916          1988 - 11 - 16              indianola         sunflower
+37                           yellow creek bridge             1910          1988 - 11 - 16             waynesboro             wayne
+38                             youngblood bridge      1900 , 1915          1979 - 05 - 23           union church         jefferson
+39          confederate avenue steel arch bridge             1903  removed 2002 - 12 - 16              vicksburg            warren
+40                        hickahala creek bridge             1926  removed 1996 - 03 - 15              senatobia              tate
+41                               rockport bridge             1910  removed 1999 - 12 - 15    georgetown , pinola  copiah , simpson
+42                             waynesboro bridge             1910  removed 2004 - 04 - 07             waynesboro             wayne

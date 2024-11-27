@@ -1,0 +1,21 @@
+                  driver          constructor  laps time / retired  grid
+0        fernando alonso              renault    62    1:27:41.921     2
+1     michael schumacher              ferrari    62        + 0.215    13
+2         alexander wurz   mclaren - mercedes    62       + 27.554     7
+3     jacques villeneuve    sauber - petronas    62     + 1:04.442    11
+4           jarno trulli               toyota    62     + 1:10.258     5
+5          nick heidfeld       williams - bmw    62     + 1:11.282     8
+6            mark webber       williams - bmw    62     + 1:23.297     4
+7      vitantonio liuzzi  red bull - cosworth    62     + 1:23.764    15
+8        ralf schumacher               toyota    62     + 1:35.841    10
+9           felipe massa    sauber - petronas    61        + 1 lap    18
+10       david coulthard  red bull - cosworth    61        + 1 lap    14
+11    narain karthikeyan      jordan - toyota    61        + 1 lap    16
+12        tiago monteiro      jordan - toyota    60       + 2 laps    17
+13     christijan albers   minardi - cosworth    20     hydraulics    20
+14    rubens barrichello              ferrari    18     electrical     9
+15        kimi räikkönen   mclaren - mercedes     9     driveshaft     1
+16    patrick friesacher   minardi - cosworth     8         clutch    19
+17  giancarlo fisichella              renault     5       accident    12
+18         jenson button          bar - honda    62       + 10.481     3
+19           takuma sato          bar - honda    62       + 34.783     6

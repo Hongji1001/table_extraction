@@ -1,0 +1,6 @@
+                title  year country                       music uncut run time
+0          mondo cane  1962   italy                riz ortolani    108 minutes
+1  la donna nel mondo  1963   italy  riz ortolani nino oliviero    107 minutes
+2        mondo cane 2  1963   italy               nino oliviero     95 minutes
+3        africa addio  1966   italy                riz ortolani    139 minutes
+4       addio zio tom  1971   italy                riz ortolani    136 minutes

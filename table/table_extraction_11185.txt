@@ -1,0 +1,6 @@
+              name position  number       season acquisition via
+0         ron hale  forward      22         2002          import
+1    rudy hatfield  forward      99  2002 - 2005     free agency
+2     bong hawkins  forward      16         2002     free agency
+3   bakari hendrix  forward      23         2005          import
+4  reynel hugnatan  forward      21  2003 - 2005    rookie draft

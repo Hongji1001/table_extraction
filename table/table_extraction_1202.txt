@@ -1,0 +1,7 @@
+            team outgoing manager manner of departure   date of vacancy               replaced by date of appointment
+0        rangers     walter smith            resigned          may 1998             dick advocaat           june 1998
+1         celtic       wim jansen            resigned          may 1998            jozef vengloå¡           june 1998
+2  dundee united     tommy mclean      mutual consent  4 september 1998             paul sturrock    5 september 1998
+3   st johnstone    paul sturrock            resigned  5 september 1998               sandy clark    7 september 1998
+4     motherwell    harri kampman            resigned   15 october 1998              billy davies     15 october 1998
+5       aberdeen      alex miller              sacked   8 december 1998  paul hegarty (caretaker)     8 december 1998

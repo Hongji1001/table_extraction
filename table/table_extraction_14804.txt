@@ -1,0 +1,12 @@
+    frequency  power d / n callsign                        brand city of license
+0         790  1 kw / 500w     xefe                  la pura ley    nuevo laredo
+1         890    10 / 1 kw     kvoz  la radio cristiana ( kczo )          laredo
+2         960     5 / 1 kw      xek           la estación grande    nuevo laredo
+3        1000  1 kw / 250w    xenlt                radio formula    nuevo laredo
+4        1090  1 kw / 250w     xewl              w radio ( xew )    nuevo laredo
+5        1300  1 kw / 500w     klar                  radio poder          laredo
+6        1340     1 / 1 kw     xebk                 el norteñazo    nuevo laredo
+7        1370  1 kw / 250w    xegnk             mariachi estéreo    nuevo laredo
+8        1410  1 kw / 250w     xeas                ke buena xhpo    nuevo laredo
+9        1490     1 / 1 kw     klnt                   espn radio          laredo
+10       1550  5 kw / 250w     xenu                la rancherita    nuevo laredo

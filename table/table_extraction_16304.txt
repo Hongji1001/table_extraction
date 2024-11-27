@@ -1,0 +1,11 @@
+                  location                          name of mill         type               built               notes
+0                  andenne                         molen de stud  grondzeiler        18th century  molenechos (dutch)
+1                 belgrade                       moulin massinon  grondzeiler                1828  molenechos (dutch)
+2   frasnes - lez - couvin  moulin tromcourt moulin de géronsart  grondzeiler  early 19th century  molenechos (dutch)
+3  gembloux - sur - orneau          moulin staquet moulin créton  grondzeiler        19th century  molenechos (dutch)
+4             grand - leez                       moulin defrenne  grondzeiler                1830  molenechos (dutch)
+5               grand leez                          moulin lorge  grondzeiler        19th century  molenechos (dutch)
+6                   mettet           moulin de scry vieux moulin  grondzeiler                1792  molenechos (dutch)
+7               sauvenière                        moulin michaux  grondzeiler                1802  molenechos (dutch)
+8                tongrinne                   moulin de tongrinne  grondzeiler        19th century  molenechos (dutch)
+9   velaine - sur - sambre                   moulin des golettes  grondzeiler   late 18th century  molenechos (dutch)

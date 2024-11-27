@@ -1,0 +1,6 @@
+                    date     home captain away captain         venue           result
+0     29 , 3031 may 1902  archie maclaren  joe darling     edgbaston             draw
+1  12 , 13 , 14 jun 1902  archie maclaren  joe darling       lord 's             draw
+2     3 , 4 , 5 jul 1902  archie maclaren  joe darling  bramall lane  aus by 143 runs
+3  24 , 25 , 26 jul 1902  archie maclaren  joe darling  old trafford    aus by 3 runs
+4  11 , 12 , 13 aug 1902  archie maclaren  joe darling          oval     eng by 1 wkt

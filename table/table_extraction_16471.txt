@@ -1,0 +1,12 @@
+                school    location    mascot  enrollment ihsaa class       county
+0     angola community      angola   hornets         963         aaa   76 steuben
+1        central noble      albion   cougars         416          aa     57 noble
+2           churubusco  churubusco    eagles         427          aa   92 whitley
+3             eastside      butler    blazer         467          aa    17 dekalb
+4            fairfield      goshen   falcons         590         aaa   20 elkhart
+5              fremont     fremont    eagles         375          aa   76 steuben
+6   hamilton community    hamilton   marines         164           a   76 steuben
+7    lagrange lakeland    lagrange    lakers         671         aaa  44 lagrange
+8      prairie heights    lagrange  panthers         505          aa  44 lagrange
+9           west noble    ligonier  chargers         739         aaa     57 noble
+10            westview      topeka  warriors         397          aa  44 lagrange

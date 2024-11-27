@@ -1,0 +1,23 @@
+   position  jersey              name  height (cm)  weight (kg)            birthdate                      birthplace        20092010 team
+0         g       1        ben bishop          201           93   november 21 , 1986               denver , colorado      peoria rivermen
+1         g      30  scott clemmensen          191           93       july 23 , 1977               des moines , iowa     florida panthers
+2         g      33      david leggio          180           81       july 31 , 1984        williamsville , new york            tps turku
+3         d      41    taylor chorney          180           83      april 27 , 1987  thunder bay , ontario , canada      edmonton oilers
+4         d      97       matt gilroy          185           91       july 20 , 1984       north bellmore , new york     new york rangers
+5         d       6       andy greene          180           82    october 30 , 1982              trenton , michigan    new jersey devils
+6         d       2       matt greene          191          108        may 13 , 1983          grand ledge , michigan    los angeles kings
+7         d      38       jack hillen          180           91    january 24 , 1986               portland , oregon   new york islanders
+8         d       3      jack johnson          185          102    january 13 , 1987          indianapolis , indiana    los angeles kings
+9         d      39       mike lundin          188           89  september 24 , 1984        apple valley , minnesota  tampa bay lightning
+10        d      93      keith yandle          188           88   september 9 , 1986          boston , massachusetts      phoenix coyotes
+11        f      22       ryan carter          188           91      august 3 , 1983     white bear lake , minnesota        anaheim ducks
+12        f      17  brandon dubinsky          185           93      april 29 , 1986              anchorage , alaska     new york rangers
+13        f      71      nick foligno          183           95    october 31 , 1987              buffalo , new york      ottawa senators
+14        f      18       tj galiardi          188           88      april 22 , 1988      calgary , alberta , canada   colorado avalanche
+15        f      20  christian hanson          191           92      march 10 , 1986          glens falls , new york  toronto maple leafs
+16        f      13       tim kennedy          178           80      april 30 , 1986              buffalo , new york       buffalo sabres
+17        f      19     chris kreider          188           91      april 30 , 1991         boxford , massachusetts       boston college
+18        f      25        david moss          191           91   december 28 , 1981              livonia , michigan       calgary flames
+19        f      23      eric nystrom          185           88   february 14 , 1983              syosset , new york       calgary flames
+20        f      21       kyle okposo          185           91      april 16 , 1988             st paul , minnesota   new york islanders
+21        f      16      ryan potulny          183           86   september 5 , 1984      grand forks , north dakota      edmonton oilers

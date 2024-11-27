@@ -1,0 +1,6 @@
+   settlement cyrillic name     type  population (2011) largest ethnic group (2002) dominant religion (2002)
+0       titel         тител     town               5294                       serbs    orthodox christianity
+1  gardinovci    гардиновци  village               1297                       serbs    orthodox christianity
+2         lok           лок  village               1114                       serbs    orthodox christianity
+3     mošorin       мошорин  village               2569                       serbs    orthodox christianity
+4      šajkaš        шајкаш  village               4374                       serbs    orthodox christianity

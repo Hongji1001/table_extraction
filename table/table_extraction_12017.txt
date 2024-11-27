@@ -1,0 +1,13 @@
+    year    chassis     engine  start  finish                  team
+0   2002  g - force  chevrolet      5      28                  nunn
+1   2003    dallara      honda      2       3        andretti green
+2   2004    dallara      honda      5       2        andretti green
+3   2005    dallara      honda      1       8        andretti green
+4   2006    dallara      honda      5       5        andretti green
+5   2007    dallara      honda      2      12        andretti green
+6   2008    dallara      honda      6      29        andretti green
+7   2009    dallara      honda      6      27        andretti green
+8   2010    dallara      honda     33      11    andretti autosport
+9   2011    dallara      honda     22       4  kv racing technology
+10  2012    dallara  chevrolet      8       3  kv racing technology
+11  2013    dallara  chevrolet     12       1  kv racing technology

@@ -1,0 +1,7 @@
+   year              fighter nation represented   sport sanctioning body or league         weight class represented or contested
+0  2007  floyd mayweather jr      united states  boxing             not applicable                                  welterweight
+1  2008  floyd mayweather jr      united states  boxing             not applicable              welterweight junior middleweight
+2  2009       manny pacquiao        philippines  boxing             not applicable  super featherweight lightweight welterweight
+3  2010  floyd mayweather jr      united states  boxing             not applicable                                  welterweight
+4  2011       manny pacquiao        philippines  boxing             not applicable                                  welterweight
+5  2012  floyd mayweather jr      united states  boxing             not applicable                                  welterweight

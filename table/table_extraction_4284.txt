@@ -1,0 +1,26 @@
+    year                  rider        country     distance                 pacing                   velodrome
+0   1894         constant huret         france   736.946 km           tandem paced           vélodrome buffalo
+1   1895         constant huret         france   829.498 km           tandem paced           vélodrome buffalo
+2   1896        gaston rivierre         france   859.120 km           tandem paced           vélodrome buffalo
+3   1897           lucien stein         france   764.826 km           tandem paced           vélodrome buffalo
+4   1898         constant huret         france   852.468 km          triplet paced           roubaix vélodrome
+5   1899         albert walters  great britain  1020.977 km  electric tandem paced  parc des princes vélodrome
+6   1900        mathieu cordang    netherlands   956.775 km          triplet paced      vélodrome de vincennes
+7   1902         constant huret         france   779.488 km           tandem paced           vélodrome buffalo
+8   1903           léon georget         france   847.803 km           tandem paced           vélodrome buffalo
+9   1904  lucien petit - breton         france   852.000 km           tandem paced           vélodrome buffalo
+10  1905    arthur vanderstuyft        belgium   943.666 km           tandem paced           vélodrome d'hiver
+11  1906           rené pottier         france   925.290 km           tandem paced           vélodrome buffalo
+12  1907           léon georget         france   904.420 km           tandem paced           vélodrome buffalo
+13  1908           léon georget         france   973.666 km           tandem paced           vélodrome d'hiver
+14  1909           léon georget         france   845.700 km           tandem paced           vélodrome buffalo
+15  1910           léon georget         france   923.300 km           tandem paced           vélodrome buffalo
+16  1911           léon georget         france   915.160 km           tandem paced           vélodrome buffalo
+17  1912           léon georget         france   951.750 km           tandem paced           vélodrome d'hiver
+18  1913           léon georget         france   909.984 km           tandem paced           vélodrome d'hiver
+19  1919           léon georget         france   924.680 km           tandem paced           vélodrome d'hiver
+20  1924              oscar egg    switzerland   936.325 km           tandem paced           vélodrome buffalo
+21  1925      honoré barthélémy         france  1035.114 km           tandem paced          bordeaux vélodrome
+22  1927      honoré barthélémy         france   924.500 km           tandem paced           vélodrome buffalo
+23  1928        hubert opperman      australia   950.060 km           tandem paced           vélodrome buffalo
+24  1950         fiorenzo magni          italy   867.609 km            derny paced           vélodrome d'hiver

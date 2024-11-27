@@ -1,0 +1,17 @@
+                    name  gain  loss  long  avg / g
+0          temple , tony  1135    96    44     86.6
+1        maclin , jeremy   388    13    30     26.8
+2        jackson , jimmy   342    11    18     23.6
+3         daniel , chase   471   218    39     18.1
+4   washington , derrick   199    15    20     15.3
+5         woods , marcus   120     0    19     20.0
+6       goldsmith , earl    99     7    19      7.7
+7        rucker , martin    51     1     9      3.6
+8         patton , chase    35     1    18      3.4
+9    alexander , danario    36     5    19      3.1
+10       coffman , chase     8     0     8      0.6
+11      saunders , tommy     8    11     8      0.2
+12         perry , jered     0     5     0      0.4
+13                  team     0    42     0      4.2
+14                 total  2892   425    44    176.2
+15             opponents  2106   397    66    122.1

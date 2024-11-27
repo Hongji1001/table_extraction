@@ -1,0 +1,7 @@
+                  club location                 ground                 manager  titles last title
+0        flora tallinn  tallinn        sportland arena        richard barnwell       0      n / a
+1  sk 10 premium tartu    tartu         kambja stadium           andrei tjunin       0      n / a
+2                pärnu    pärnu  pärnu raeküla stadium               jüri saar       8       2013
+3      levadia tallinn  tallinn      maarjamäe stadium          maksim rõtškov       9       2009
+4        tammeka tartu    tartu          tamme stadium  aleksandra ševoldajeva       0      n / a
+5         lootos põlva    põlva             lootospark  kaido - meinhard kukli       0      n / a

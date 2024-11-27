@@ -1,0 +1,10 @@
+               actor                   character        soap opera                                     years  duration
+0     michael galvin                chris warner  shortland street                       1992 - 1996 , 2000-  18 years
+1        anette hoff         juni anker - hansen       hotel cæsar                       1998 - 2005 , 2006-  16 years
+2   christos politis                yagos drakos         the shine                               1991 - 2005  14 years
+3       karl burnett               nick harrison  shortland street                               1992 - 2005  13 years
+4  angela bloomfield              rachel mckenna  shortland street  1993 - 1999 , 2001 - 2003 , 2007 , 2009-  13 years
+5        kim kolstad  jens august anker - hansen       hotel cæsar         1998 - 2000 , 2001 - 2005 , 2007-  13 years
+6          elin sogn        julie anker - hansen       hotel cæsar                       2000 - 2004 , 2005-  13 years
+7       sossen krogh       astrid anker - hansen       hotel cæsar                               1998 - 2010  12 years
+8  tom eddie brudvik              svein krogstad       hotel cæsar                               1999 - 2010  11 years

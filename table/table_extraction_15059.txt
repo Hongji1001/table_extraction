@@ -1,0 +1,10 @@
+          player        country                    year (s) won  total to par finish
+0  raymond floyd  united states                     1969 , 1982    284    - 4     t7
+1     hal sutton  united states                            1983    284    - 4     t7
+2  payne stewart  united states                            1989    285    - 3    t13
+3  jack nicklaus  united states  1963 , 1971 , 1973 1975 , 1980    287    - 1    t23
+4    wayne grady      australia                            1990    290    + 2    t43
+5  lanny wadkins  united states                            1977    290    + 2    t43
+6   david graham      australia                            1979    292    + 4    t52
+7    jeff sluman  united states                            1988    294    + 6    t61
+8       bob tway  united states                            1986    296    + 8    t66

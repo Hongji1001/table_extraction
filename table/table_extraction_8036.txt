@@ -1,0 +1,9 @@
+   year                    entrant               chassis                        engine  points
+0  1950              sa alfa romeo        alfa romeo 158       alfa romeo straight - 8       0
+1  1951           scuderia ferrari        ferrari 375 f1                   ferrari v12      10
+2  1952           scuderia ferrari           ferrari 500          ferrari straight - 4      22
+3  1954           scuderia ferrari           ferrari 625          ferrari straight - 4       0
+4  1955           scuderia ferrari           ferrari 555          ferrari straight - 4       9
+5  1955            daimler benz ag  mercedes - benz w196  mercedes - benz straight - 8       9
+6  1956  officine alfieri maserati         maserati 250f         maserati straight - 6       0
+7  1956    vandervell products ltd               vanwall          vanwall straight - 4       0

@@ -1,0 +1,33 @@
+                                         name   years gender         area         authority  decile  roll
+0                            allandale school   1 - 6   coed     kopeopeo             state       3   419
+1                               apanui school   1 - 6   coed    whakatane             state       5   373
+2                              awakeri school   1 - 8   coed    whakatane             state       6   348
+3                           edgecumbe college  9 - 13   coed    edgecumbe             state       3   249
+4                            edgecumbe school   1 - 8   coed    edgecumbe             state       2   180
+5                              galatea school   1 - 8   coed      galatea             state       7    85
+6                         james street school   1 - 6   coed    whakatane             state       2   254
+7                               matata school   1 - 8   coed       matata             state       5    83
+8                        murupara area school  1 - 13   coed     murupara             state       1   321
+9                        nukuhou north school   1 - 8   coed      waimana             state       4    66
+10                 ohope beach primary school   1 - 6   coed  ohope beach             state       9   296
+11                             otakiri school   1 - 8   coed    whakatane             state       6   157
+12              rangitaiki independent school  1 - 15   coed    whakatane           private       8    52
+13      st joseph 's catholic school (matata)   1 - 8   coed       matata  state integrated       2    12
+14   st joseph 's catholic school (whakatane)   1 - 8   coed    whakatane  state integrated       6   252
+15                            taneatua school   1 - 8   coed     taneatua             state       1   234
+16                    tawera bilingual school   1 - 8   coed      ruatoki             state       3    30
+17                te kura mana maori o matahi   1 - 8   coed      waimana             state       1    32
+18         te kura maori - a - rohe o waiohau  1 - 13   coed      waiohau             state       1    40
+19                         te kura o te paroa   1 - 8   coed    whakatane             state       2   242
+20                          te kura o te teko   1 - 8   coed      te teko             state       1   133
+21  te kura toitu o te whaiti - nui - a - toi  1 - 13   coed    te whaiti             state       1    31
+22                            te mahoe school   1 - 8   coed      galatea             state       1    44
+23                     te wharekura o ruatoki  1 - 13   coed      ruatoki             state       1   155
+24                            thornton school   1 - 8   coed    whakatane             state       5   102
+25                    tkk motuhake o tawhiuau  1 - 13   coed     murupara             state       1   115
+26                             tkkm o huiarau  1 - 13   coed    ruatahuna             state       1    81
+27                        trident high school  9 - 13   coed    whakatane             state       5  1183
+28                             waimana school   1 - 8   coed      waimana             state       1    44
+29                      whakatane high school  9 - 13   coed    whakatane             state       4   798
+30                     whakatane intermediate   7 - 8   coed    whakatane             state       4   539
+31   whakatane seventh - day adventist school   1 - 8   coed     kopeopeo  state integrated       5    35

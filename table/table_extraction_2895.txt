@@ -1,0 +1,24 @@
+                     name    nationality position boston breakers career  appearances  starts  minutes  goals  assists
+0            stacy bishop  united states       mf                   2009           10       6      553      0        2
+1         candace chapman         canada       df                   2009           11       8      697      0        0
+2           abby crumpton  united states       fw                   2009            4       1      144      0        0
+3                 fabiana         brazil       fw                   2009            7       7      465      0        0
+4            ariel harris  united states       df                   2009            0       0        0      0        0
+5           angela hucles  united states       mf                   2009           19      19     1692      2        1
+6        christine latham         canada       fw                 2009 -           16       8      654      2        1
+7           amy lepeilbet  united states       df                 2009 -           19      19     1710      0        0
+8          kristine lilly  united states       mf                 2009 -           20      20     1800      3        3
+9         allison lipsher  united states       gk                 2009 -           11      10      928      0        0
+10     kristin luckenbill  united states       gk                   2009           10      10      872      0        0
+11          heather mitts  united states       df                   2009           19      19     1631      0        1
+12  mary - frances monroe  united states       mf                 2009 -            5       4      298      0        1
+13            kasey moore  united states       df                 2009 -           13       7      640      0        0
+14           sophia mundy  united states       mf                   2009            3       2      185      0        0
+15         jennifer nobis  united states       fw                 2009 -           11       7      637      2        0
+16        ashley phillips  united states       gk                   2009            0       0        0      0        0
+17          amy rodriguez  united states       fw                   2009           17      11      982      1        0
+18         kelly schmedes  united states       fw                   2009           17      10     1033      1        1
+19             alex scott        england       df                 2009 -           17      17     1446      1        1
+20            kelly smith        england       fw                 2009 -           15      13     1170      6        2
+21           erika sutton  united states       df                   2009            1       1       90      0        0
+22         maggie tomecka  united states       mf                 2009 -           11       6      653      0        0

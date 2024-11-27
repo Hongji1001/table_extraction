@@ -1,0 +1,8 @@
+                name        novelty       status                       authors      location
+0  criocephalosaurus        gen nov        valid              kammerer & sidor  south africa
+1   kitchinganomodon        gen nov        valid                        maisch  south africa
+2      kwazulusaurus  gen et sp nov        valid                        maisch  south africa
+3   lanthanocephalus  gen et sp nov  preoccupied  modesto , rubidge , & welman  south africa
+4     neotrirachodon  gen et sp nov        valid                     tatarinov        russia
+5     ruhuhucerberus  gen et sp nov        valid                        maisch      tanzania
+6       titanogorgon        gen nov        valid                        maisch      tanzania

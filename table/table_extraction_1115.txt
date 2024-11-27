@@ -1,0 +1,9 @@
+             player  no    nationality          position years in orlando school / club team
+0    victor oladipo   5  united states             guard   2013 - present            indiana
+1     jawann oldham  55  united states            center      1989 - 1990            seattle
+2       kevin ollie   3  united states             guard             1998        connecticut
+3  shaquille o'neal  32  united states            center      1992 - 1996    louisiana state
+4      daniel orton  21  united states            center      2010 - 2012           kentucky
+5         bo outlaw  45  united states  forward - center      1997 - 2001            houston
+6         bo outlaw  45  united states  forward - center      2005 - 2008            houston
+7      doug overton  11  united states             guard      1998 - 1999           la salle

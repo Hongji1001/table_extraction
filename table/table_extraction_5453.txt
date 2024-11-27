@@ -1,0 +1,10 @@
+   pick                  cfl team                player position            college
+0    27        calgary stampeders           kyler jukes       ol             regina
+1    28          ottawa renegades         cory hathaway  te / fb              tulsa
+2    29     winnipeg blue bombers          scott mennie       lb           manitoba
+3    30  saskatchewan roughriders  jo gagnon - gordillo       dl   eastern michigan
+4    31          edmonton eskimos     anthony posteraro    k / p          graceland
+5    32     hamilton tiger - cats        jeremy steeves        s  st francis xavier
+6    33        montreal alouettes              mike ray    k / p           mcmaster
+7    34                  bc lions      sebastian clovis       db      saint mary 's
+8    35         toronto argonauts             tye smith       ol           manitoba

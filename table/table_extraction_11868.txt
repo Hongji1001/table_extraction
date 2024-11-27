@@ -1,0 +1,12 @@
+   headphone model headphone class  driver - matched db                           construction            earpads                             termination  us msrp
+0           igrado        prestige                 0.10                                plastic       comfort pads                     1 / 8 (3.5 mm) plug       49
+1            sr60i        prestige                 0.10                                plastic       comfort pads  1 / 8 (3.5 mm) plug with 1 / 4 adaptor       79
+2            sr80i        prestige                 0.10                                plastic       comfort pads  1 / 8 (3.5 mm) plug with 1 / 4 adaptor       99
+3           sr125i        prestige                 0.10                                plastic       comfort pads                     1 / 4 (6.5 mm) plug      150
+4           sr225i        prestige                 0.05                                plastic              bowls                     1 / 4 (6.5 mm) plug      200
+5          sr325is        prestige                 0.05  aluminum alloy / plastic inner sleeve              bowls                     1 / 4 (6.5 mm) plug      295
+6             rs2i       reference                 0.05                hand - crafted mahogany              bowls                     1 / 4 (6.5 mm) plug      495
+7             rs1i       reference                 0.05                hand - crafted mahogany              bowls                     1 / 4 (6.5 mm) plug      695
+8          gs1000i       statement                 0.05                hand - crafted mahogany  circumaural bowls                     1 / 4 (6.5 mm) plug      995
+9            ps500    professional                 0.05     hand - crafted mahogany / aluminum              bowls                     1 / 4 (6.5 mm) plug      595
+10          ps1000    professional                 0.05     hand - crafted mahogany / aluminum  circumaural bowls                     1 / 4 (6.5 mm) plug     1695

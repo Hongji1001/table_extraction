@@ -1,0 +1,11 @@
+    rank               nation  gold  silver  bronze  total
+0      1  united states (usa)     6       2       1      9
+1      2         brazil (bra)     2       6       3     11
+2      3      australia (aus)     1       0       1      2
+3      3        germany (ger)     1       0       1      2
+4      5          china (chn)     0       1       1      2
+5      6          spain (esp)     0       1       0      1
+6      7         canada (can)     0       0       1      1
+7      7         latvia (lat)     0       0       1      1
+8      7    switzerland (sui)     0       0       1      1
+9  total                total    10      10      10     30

@@ -1,0 +1,9 @@
+                                   event name  established        category   sub category                main venue
+0                   dieppe kite international         2001        sporting    kite flying                dover park
+1                           the frye festival         2000            arts       literary     university of moncton
+2                      hubcap comedy festival         2000            arts         comedy                   various
+3                          touchdown atlantic         2010        sporting       football           moncton stadium
+4  atlantic nationals automotive extravaganza         2000  transportation     automotive          moncton coliseum
+5                      world wine & food expo         1990            arts   food & drink          moncton coliseum
+6                    shediac lobster festival         1950            arts   food & drink  shediac festival grounds
+7              mosaã¯q multicultural festival         2004        festival  multicultural   moncton city hall plaza

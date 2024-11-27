@@ -1,0 +1,9 @@
+   pick                  cfl team          player position           college
+0    17  saskatchewan roughriders   teddy neptune       lb            ottawa
+1    18        montreal alouettes     phil gibson       dl            toledo
+2    19     winnipeg blue bombers     ben wearing       wr            mcgill
+3    20     hamilton tiger - cats    randy bowles       te      simon fraser
+4    21          edmonton eskimos    glenn carson       ol      saskatchewan
+5    22        calgary stampeders   farwan zubedi       wr  washington state
+6    23        calgary stampeders    lukas shaver        s            ottawa
+7    24                  bc lions  scott robinson       wr      simon fraser

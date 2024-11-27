@@ -1,0 +1,6 @@
+             player  height                        school          hometown     college
+0  anthony randolph  6 - 10    woodrow wilson high school       dallas , tx         lsu
+1       nolan smith   6 - 3              oak hill academy   washington , dc        duke
+2      corey fisher   6 - 0        st patrick high school    elizabeth , nj   villanova
+3     nick calathes   6 - 4       lake howell high school  winter park , fl     florida
+4    austin freeman   6 - 4  dematha catholic high school  hyattsville , md  georgetown

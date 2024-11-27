@@ -1,0 +1,11 @@
+   year network play - by - play           color commentator (s)              sideline reporter (s)
+0  2000     abc      al michaels                  boomer esiason        lesley visser and dan fouts
+1  2001     abc      al michaels     dan fouts and dennis miller   eric dickerson and melissa stark
+2  2002     abc      al michaels     dan fouts and dennis miller   eric dickerson and melissa stark
+3  2003     abc      al michaels                       dan fouts       melissa stark and lynn swann
+4  2004    espn     mike patrick  joe theismann and paul maguire    suzy kolber and chris mortensen
+5  2005    espn     mike patrick  joe theismann and paul maguire    suzy kolber and michelle tafoya
+6  2006    espn     mike patrick  joe theismann and paul maguire    suzy kolber and michelle tafoya
+7  2007     cbs      greg gumbel     phil simms and dan dierdorf                     shannon sharpe
+8  2008     fox     kenny albert                  daryl johnston  tony siragusa and brian baldinger
+9  2009     nbc      al michaels               cris collinsworth      andrea kremer and tiki barber

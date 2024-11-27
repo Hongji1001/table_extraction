@@ -1,0 +1,7 @@
+   year             award                                          category                    nominee     result
+0  1999        tony award                         best revival of a musical  best revival of a musical  nominated
+1  1999        tony award  best performance by a leading actor in a musical               martin short        won
+2  1999        tony award                                 best choreography               rob marshall  nominated
+3  1999        tony award                               best orchestrations             harold wheeler  nominated
+4  1999  drama desk award                    outstanding actor in a musical               martin short  nominated
+5  1999  drama desk award                          outstanding choreography               rob marshall  nominated

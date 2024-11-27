@@ -1,0 +1,33 @@
+   conference division                  team                          city                         home stadium
+0    american     east         buffalo bills       orchard park , new york                 ralph wilson stadium
+1    american     east        miami dolphins       miami gardens , florida                     sun life stadium
+2    american     east  new england patriots    foxborough , massachusetts                     gillette stadium
+3    american     east         new york jets  east rutherford , new jersey                      metlife stadium
+4    american    north      baltimore ravens          baltimore , maryland                     m&t bank stadium
+5    american    north    cincinnati bengals             cincinnati , ohio                   paul brown stadium
+6    american    north      cleveland browns              cleveland , ohio                  firstenergy stadium
+7    american    north   pittsburgh steelers     pittsburgh , pennsylvania                          heinz field
+8    american    south        houston texans               houston , texas                      reliant stadium
+9    american    south    indianapolis colts        indianapolis , indiana                    lucas oil stadium
+10   american    south  jacksonville jaguars        jacksonville , florida                       everbank field
+11   american    south      tennessee titans         nashville , tennessee                             lp field
+12   american     west        denver broncos             denver , colorado  sports authority field at mile high
+13   american     west    kansas city chiefs        kansas city , missouri                    arrowhead stadium
+14   american     west       oakland raiders          oakland , california                         oco coliseum
+15   american     west    san diego chargers        san diego , california                     qualcomm stadium
+16   national     east        dallas cowboys             arlington , texas                         at&t stadium
+17   national     east       new york giants  east rutherford , new jersey                      metlife stadium
+18   national     east   philadelphia eagles   philadelphia , pennsylvania              lincoln financial field
+19   national     east   washington redskins           landover , maryland                           fedexfield
+20   national    north         chicago bears            chicago , illinois                        soldier field
+21   national    north         detroit lions            detroit , michigan                           ford field
+22   national    north     green bay packers         green bay , wisconsin                        lambeau field
+23   national    north     minnesota vikings       minneapolis , minnesota          hubert h humphrey metrodome
+24   national    south       atlanta falcons             atlanta , georgia                         georgia dome
+25   national    south     carolina panthers    charlotte , north carolina              bank of america stadium
+26   national    south    new orleans saints       new orleans , louisiana            mercedes - benz superdome
+27   national    south  tampa bay buccaneers               tampa , florida                raymond james stadium
+28   national     west     arizona cardinals            glendale , arizona        university of phoenix stadium
+29   national     west         st louis rams           st louis , missouri                    edward jones dome
+30   national     west   san francisco 49ers    san francisco , california                     candlestick park
+31   national     west      seattle seahawks          seattle , washington                    centurylink field

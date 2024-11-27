@@ -1,0 +1,13 @@
+                         track name            location                length  seating  year opened  year acquired
+0                auto club speedway        fontana , ca                     -    92000         1997           1999
+1              chicagoland speedway         joliet , il                     -    75000         2001           2007
+2                darlington raceway     darlington , sc                     -    63000         1950           1982
+3    daytona international speedway  daytona beach , fl                     -   168000         1959           1959
+4        homestead - miami speedway      homestead , fl                     -    65000         1995           1999
+5                   kansas speedway    kansas city , ks                     -    81687         2001           2001
+6             martinsville speedway       ridgeway , va                     -    65000         1947           2004
+7   michigan international speedway       brooklyn , mi                     -   137243         1968           1999
+8     phoenix international raceway       avondale , az                     -    76812         1964           1997
+9    richmond international raceway       richmond , va                     -   107097         1946           1999
+10                 route 66 raceway         joliet , il  miles (km) dragstrip    30000         1998           2007
+11          talladega superspeedway      talladega , al                     -   175000         1969           1969

@@ -1,0 +1,19 @@
+    rank              city                population                      definition      country
+0      1          shanghai                  13831900  core districts + inner suburbs        china
+1      2             seoul                  10456034                    special city  south korea
+2      3           beijing                  10123000  core districts + inner suburbs        china
+3      4             tokyo                   8795000           23 special wards area        japan
+4      5           jakarta                   8489910        special capital district    indonesia
+5      6             wuhan  8001541 (2006 - 12 - 31)                  core districts        china
+6      7  ho chi minh city                   7123340   province - level municipality      vietnam
+7      8           bangkok                   7025000             administrative area     thailand
+8      9         hong kong                   7008900            the entire territory    hong kong
+9     10         guangzhou  6172839 (2006 - 12 - 31)                  core districts        china
+10    11           tianjin                   5800000  core districts + inner suburbs        china
+11    12         singapore                   4839400                         country    singapore
+12    13         chongqing                   4776027                  core districts        china
+13    14          shenyang  4101197 (2006 - 12 - 31)                  core districts        china
+14    15            yangon                   4088000             urban agglomeration        burma
+15    16          yokohama                   3670000                     city proper        japan
+16    17             busan                   3596076               metropolitan city  south korea
+17    18         pyongyang                   3255388          directly governed city  north korea

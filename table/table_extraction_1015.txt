@@ -1,0 +1,9 @@
+   round  choice          player       position height weight        college
+0      2      59     mike pollak         center    6'4      -  arizona state
+1      3      93  philip wheeler     linebacker    6'2      -   georgia tech
+2      4     127     jacob tamme      tight end    6'5      -       kentucky
+3      5     161   marcus howard  defensive end    6'0      -        georgia
+4      6     196       tom santi      tight end    6'3      -       virginia
+5      6     201   steve justice         center    6'3      -    wake forest
+6      6     202       mike hart   running back    5'8      -       michigan
+7      6     205   pierre garcon  wide receiver   5'11      -    mount union

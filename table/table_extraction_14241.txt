@@ -1,0 +1,10 @@
+          date                                        race                            circuit                          location         winner
+0   27 january  south pacific championship for racing cars                  gnoo blas circuit          orange , new south wales   jack brabham
+1  23 february                       victorian trophy race                  fisherman 's bend              melbourne , victoria     stan jones
+2      3 march                             longford trophy                   longford circuit               longford , tasmania       ted gray
+3      5 april                south australian trophy race             port wakefield circuit  port wakefield , south australia      len lukey
+4      15 june         queensland road racing championship                     lowood circuit               lowood , queensland   alec mildren
+5    31 august                               lowood trophy                     lowood circuit               lowood , queensland   alec mildren
+6   23 october                       australian grand prix             mount panorama circuit        bathurst , new south wales    lex davison
+7  30 november                        melbourne grand prix                        albert park              melbourne , victoria  stirling moss
+8  26 december                  phillip island trophy race  phillip island grand prix circuit         phillip island , victoria     stan jones

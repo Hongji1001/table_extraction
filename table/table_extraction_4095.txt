@@ -1,0 +1,6 @@
+   number        origin final destination         frequency distance
+0       1  bryngelstorp              harg  every 15 minutes  km (mi)
+1       2          arnö         brandkärr  every 15 minutes  km (mi)
+2       3   bus station       brandholmen     twice an hour  km (mi)
+3     161   bus station       bus station    10 times / day       na
+4     162   bus station       bus station    10 times / day       na

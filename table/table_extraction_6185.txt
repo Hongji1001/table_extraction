@@ -1,0 +1,12 @@
+   release format         country       label         cat no  release date
+0           vinyl    west germany      ariola  203 265 - 320          1980
+1        cassette    west germany      ariola  401 265 - 352          1980
+2           vinyl    west germany      ariola        302 208          1980
+3           vinyl           spain      ariola     1 - 201265          1980
+4           vinyl          canada     quality        sv 2070          1980
+5           vinyl      yugoslavia         rtb     st 2220164          1980
+6           vinyl           italy  rca victor       pl 31503          1980
+7        cassette           italy  rca victor       pk 31503          1980
+8           vinyl        portugal      ariola         72 877          1980
+9           vinyl  united kingdom      ariola       arl 5051          1980
+10          vinyl       worldwide      ariola  201 265 - 352          1980

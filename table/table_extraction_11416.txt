@@ -1,0 +1,22 @@
+            player                    club  league  fa cup  fa trophy  league cup  total
+0       lee hughes  kidderminster harriers      30       1          2           1     34
+1    lennie dennis          welling united      21       1          1           2     25
+2   andy whittaker               southport      19       6          2           0     27
+3      gary abbott             slough town      18       0          0           0     18
+4   justin jackson                  woking      17       4          2           0     23
+5     barry hayles       stevenage borough      16       3          2           0     21
+6   david leworthy      rushden & diamonds      16       4          0           0     20
+7       lee steele      northwich victoria      16       0          0           0     16
+8     joe o'connor              hednesford      15       9          0           0     24
+9    paul thompson               gateshead      15       6          1           1     23
+10    clive walker                  woking      15       3          1           0     19
+11      steve wood       macclesfield town      15       0          0           1     16
+12      mike davis               bath city      14       7          0           0     21
+13    neil doherty  kidderminster harriers      14       1          1           0     16
+14     niell hardy              altrincham      14       3          1           0     18
+15  mickey norbury            halifax town      14       0          0           0     14
+16     carl alford      rushden & diamonds      13       2          0           0     15
+17      ian arnold      stalybridge celtic      13       0          0           0     13
+18    chris boothe        farnborough town      13       9          0           3     25
+19  martin randall                   hayes      13       0          4           0     17
+20  phil wingfield        farnborough town      13       2          1           0     16

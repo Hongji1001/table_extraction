@@ -1,0 +1,33 @@
+     region                                host                                                  venue                      city           state
+0      east                  clemson university                                    littlejohn coliseum                   clemson  south carolina
+1      east            florida state university                                        tully gymnasium               tallahassee         florida
+2      east             old dominion university                     old dominion university fieldhouse                   norfolk        virginia
+3      east              university of maryland                                       cole field house              college park        maryland
+4      east                  providence college                               alumni hall (providence)                providence    rhode island
+5      east           university of connecticut                                harry a gampel pavilion                    storrs     connecticut
+6      east             university of tennessee                                thompson - boling arena                 knoxville       tennessee
+7      east              university of virginia               university hall (university of virginia)           charlottesville        virginia
+8   mideast                   depaul university                        alumni hall (depaul university)                   chicago        illinois
+9   mideast        university of south carolina                                      carolina coliseum                  columbia  south carolina
+10  mideast                      tennessee tech                                           eblen center                cookeville       tennessee
+11  mideast               vanderbilt university             memorial gymnasium (vanderbilt university)                 nashville       tennessee
+12  mideast                   auburn university  memorial coliseum (beard - eaves - memorial coliseum)                    auburn         alabama
+13  mideast             northwestern university                                     welsh - ryan arena                  evanston        illinois
+14  mideast                  university of iowa                                 carver - hawkeye arena                 iowa city         indiana
+15  mideast            university of washington                                 hec edmundson pavilion                   seattle      washington
+16  midwest        northern illinois university                                chick evans field house                    dekalb        illinois
+17  midwest               ohio state university                                          st john arena                  columbus            ohio
+18  midwest  university of southern mississippi                                    reed green coliseum               hattiesburg     mississippi
+19  midwest           oklahoma state university                                  gallagher - iba arena                stillwater        oklahoma
+20  midwest           louisiana tech university                                 thomas assembly center                    ruston       louisiana
+21  midwest     north carolina state university                                      reynolds coliseum                   raleigh  north carolina
+22  midwest                 university of texas                                     frank erwin center                    austin           texas
+23  midwest                   purdue university                                           mackey arena            west lafayette         indiana
+24     west                    long beach state                             university gym (gold mine)                long beach      california
+25     west           university of mississippi                                     tad smith coliseum  university , mississippi     mississippi
+26     west               university of montana                                         dahlberg arena                  missoula         montana
+27     west              university of arkansas                                         barnhill arena              fayetteville        arkansas
+28     west               university of georgia                   georgia coliseum (stegeman coliseum)                    athens         georgia
+29     west                 stanford university                                        maples pavilion                  stanford      california
+30     west    university of nevada , las vegas                                              south gym                  paradise          nevada
+31     west         stephen f austin university                             william r johnson coliseum               nacogdoches           texas

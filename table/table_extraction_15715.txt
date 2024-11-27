@@ -1,0 +1,9 @@
+   lane              athlete          nationality   time  react
+0     8         paul hession              ireland  20.32  0.190
+1     4     wallace spearmon        united states  20.39  0.202
+2     6  jaysuma saidy ndure               norway  20.45  0.131
+3     7      rondell sorillo  trinidad and tobago  20.63  0.164
+4     5        ramil guliyev           azerbaijan  20.66  0.174
+5     3        visa hongisto              finland  20.76  0.124
+6     2         thuso mpuang         south africa  21.04  0.162
+7     9      marvin anderson              jamaica    dnf  0.187

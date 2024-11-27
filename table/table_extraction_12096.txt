@@ -1,0 +1,11 @@
+   year                    competition                venue position  event
+0  2002  european indoor championships     vienna , germany      3rd   60 m
+1  2002         european championships     munich , germany      9th  100 m
+2  2004     world indoor championships   budapest , hungary      9th   60 m
+3  2005  european indoor championships       madrid , spain      2nd   60 m
+4  2006         european championships  gothenburg , sweden      9th  100 m
+5  2006                      world cup      athens , greece      6th  100 m
+6  2009    european team championships    leiria , portugal      6th  100 m
+7  2009            mediterranean games      pescara , italy      1st  100 m
+8  2010         european championships    barcelona , spain      7th  100 m
+9  2011  european indoor championships       paris , france      9th   60 m

@@ -1,0 +1,19 @@
+   call sign  frequency mhz             city of license  erp w class fcc info
+0     k217ez           91.3      coachella , california     10     d      fcc
+1     k217ef           91.3  desert center , california     10     d      fcc
+2     k251ah           98.1  grand terrace , california      8     d      fcc
+3     k242br           96.3          indio , california     10     d      fcc
+4     k225ao           92.9         lompoc , california      5     d      fcc
+5     k208da           89.5      los banos , california     10     d      fcc
+6     k295ai          106.9         muscoy , california      7     d      fcc
+7     k238bb           95.5   palm springs , california      6     d      fcc
+8     k252ei           98.3         rialto , california     30     d      fcc
+9     k217cq           91.3        salinas , california     10     d      fcc
+10    k211dk           90.1      santa ana , california     10     d      fcc
+11    k240ak           95.9        soledad , california     27     d      fcc
+12    k219dk           91.7    victorville , california     10     d      fcc
+13    k279be          103.7    bakersfield , california     99     d      fcc
+14    k293bg          106.5        cambria , california     10     d      fcc
+15    k239az           95.7  lake isabella , california     10     d      fcc
+16    k212dl           90.3       rosamond , california    250     d      fcc
+17    k269ew          101.7    santa maria , california     10     d      fcc

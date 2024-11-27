@@ -1,0 +1,22 @@
+           country              film title used in nomination          language                      original title                   director
+0          algeria             chronicle of the years of fire            arabic      chronique des années de braise  mohammed lakhdar - hamina
+1        argentina                 nazareno cruz and the wolf           spanish             nazareno cruz y el lobo             leonardo favio
+2           brazil                             ogum 's amulet        portuguese                   o amuleto de ogum  nelson pereira dos santos
+3           canada                                     orders            french                          les ordres              michel brault
+4   czechoslovakia                       circus in the circus             czech                    cirkus v cirkuse             oldřich lipský
+5          denmark                                        per            danish                                 per            hans kristensen
+6            egypt                          i want a solution            arabic                           أريد حلاً               said marzouk
+7           france                                 india song            french                          india song           marguerite duras
+8     west germany  every man for himself and god against all            german  jeder für sich und gott gegen alle              werner herzog
+9           greece                     the travelling players             greek                            ο θίασος     theodoros angelopoulos
+10         hungary                                   adoption         hungarian                       örökbefogadás             márta mészáros
+11          israel                                 my michael            hebrew                           מיכאל שלי                 dan wolman
+12           italy                           scent of a woman           italian                    profumo di donna                  dino risi
+13           japan                              sandakan no 8          japanese                        サンダカン八番娼館 望郷                  kei kumai
+14          mexico                       letters from marusia           spanish                    actas de marusia              miguel littín
+15     netherlands                     dr pulder sows poppies             dutch        dokter pulder zaait papavers              bert haanstra
+16          poland                            land of promise            polish                     ziemia obiecana              andrzej wajda
+17           spain                                   poachers           spanish                            furtivos            josé luis borau
+18     switzerland                              confrontation            german                       konfrontation                 rolf lyssy
+19    soviet union                                dersu uzala           russian                         дерсу узала             akira kurosawa
+20      yugoslavia               the day that shook the world  serbo - croatian                  sarajevski atentat             veljko bulajić

@@ -1,0 +1,6 @@
+  weight division         winner              loser            method  round  time
+0     heavyweight    kimbo slice        tank abbott        ko (punch)      1  0:43
+1     heavyweight  antonio silva    ricco rodriguez  decision (split)      3  5:00
+2    middleweight    scott smith          kyle noke        ko (punch)      2  0:07
+3     lightweight   yves edwards  james edson berto  ko (flying knee)      1  4:56
+4     heavyweight   brett rogers     james thompson     tko (strikes)      1  2:24

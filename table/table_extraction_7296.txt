@@ -1,0 +1,13 @@
+    reported isn on july 2007 press release disposition  citizenship country of act
+0             92                        yes      killed  afghanistan    afghanistan
+1            203                         no      arrest       russia         russia
+2             69                        yes      arrest       russia         russia
+3            220                         no      killed       kuwait           iraq
+4            294                         no      arrest      morocco        morocco
+5            297                         no      arrest       turkey         turkey
+6            363                        yes      killed  afghanistan    afghanistan
+7            587                        yes      killed  afghanistan    afghanistan
+8            587                         no      arrest      morocco        morocco
+9            633                        yes       large  afghanistan    afghanistan
+10           674                         no      arrest       russia         russia
+11           930                        yes     capture  afghanistan    afghanistan

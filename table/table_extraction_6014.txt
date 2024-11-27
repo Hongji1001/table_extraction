@@ -1,0 +1,25 @@
+    draw            artist                         song  points  place
+0      1             teens                miris ljubavi      28     14
+1      2          kristina                  da zora zna       0     21
+2      3      alen nižetić                      samo ti      23     16
+3      4              andy                samo nebo zna      49      9
+4      5           en face            kad prestane kiša       0     21
+5      6          giuliano       dobro mi došla ljubavi      87      6
+6      7   josip katalenić                          san     106      4
+7      8            nikita                kraljica noći       5     19
+8      9           magazin                     kasno je     105      5
+9     10   sanja lukanović                   jos jednom       8     18
+10    11           turbo x  cijeli svijet je između nas       0     21
+11    12       goran karan            nisam te vrijedan     122      3
+12    13               joy                       uzalud      11     17
+13    14             mandi          lako je reći zbogom       2     20
+14    15  marina tomašević            ja sam tvoja žena      28     14
+15    16   đani stipaničev      jos jedno jutro budi se      38     12
+16    17    branka bliznac                dajte ljubavi       0     21
+17    18            zrinka              jednom u životu      55      8
+18    19     zorana šiljeg                nije te briga      38     12
+19    20    renata sabljak        i kako sada ići dalje      39     11
+20    21    doris dragović             marija magdalena     207      1
+21    22    mladen grdović                  mama marija      74      7
+22    23             minea              u ponoć pozvoni      40     10
+23    24       petar grašo            ljubav jedne žene     153      2

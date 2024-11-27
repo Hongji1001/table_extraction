@@ -1,0 +1,44 @@
+                        actor              character  soap opera                years  duration
+0                  tom jordon          charlie kelly   fair city                1989-  25 years
+1                 tony tormey           paul brennan   fair city                1989-  25 years
+2                 jim bartley             bela doyle   fair city                1989-  25 years
+3                 sarah flood         suzanne halpin   fair city          1989 - 2013  24 years
+4                   pat nolan         barry o'hanlon   fair city          1989 - 2011  22 years
+5             martina stanley         dolores molloy   fair city                1992-  22 years
+6          joan brosnan walsh             mags kelly   fair city          1989 - 2009  20 years
+7               jean costello             rita doyle   fair city   1989 - 2008 , 2010  19 years
+8           ciara o'callaghan         yvonne gleeson   fair city  1991 - 2004 , 2008-  19 years
+9                celia murphy          niamh cassidy   fair city                1995-  19 years
+10                 mick lally            miley byrne     glenroe          1983 - 2001  18 years
+11         geraldine plunkett   mary mcdermott moran     glenroe          1983 - 2001  18 years
+12               emmet bergin             dick moran     glenroe          1983 - 2001  18 years
+13         robert carrickford        stephen brennan     glenroe          1983 - 2001  18 years
+14                  joe lynch            dinny byrne     glenroe          1983 - 2000  17 years
+15                mary mcevoy  biddy mcdermott byrne     glenroe          1983 - 2000  17 years
+16  diarmuid mac an adhastair        séamus ocatháin  ros na rún                1996-  18 years
+17                 dave duffy            leo dowling   fair city                1996-  18 years
+18               seamus power           dermot fahey   fair city                1996-  18 years
+19             david mitchell            jimmy doyle   fair city          1991 - 2008  17 years
+20               maureen toal            teasy byrne     glenroe          1985 - 2001  16 years
+21              alan stanford         george manning     glenroe          1985 - 2001  16 years
+22               isobel mahon               michelle     glenroe          1985 - 2001  16 years
+23               niamh quirke         rachel brennan   fair city                1997-  17 years
+24               aaron harris            miles byrne   fair city                1998-  16 years
+25              maclean burke          damien halpin   fair city                1998-  16 years
+26                tom hopkins         christy phelan   fair city                1998-  16 years
+27            claudia carroll     nicola prendergast   fair city   1990 - 2005 , 2008  15 years
+28            aisling o'neill           carol meehan   fair city                1999-  15 years
+29              shiela mcwade           kay costello   fair city          1994 - 2008  14 years
+30                paul raynor           harry molloy   fair city          1992 - 2005  13 years
+31                 mick nolan          ray o'connell   fair city                2000-  14 years
+32             sorcha furlong            orla kirwan   fair city                2000-  14 years
+33               gerard byrne       malachy costello   fair city          1996 - 2009  13 years
+34                joan o'hara         eunice dunstan   fair city          1994 - 2007  13 years
+35                  pat leavy        hannah finnegan   fair city          1990 - 2003  13 years
+36        rachel sarah murray               jo fahey   fair city  2000 - 2011 , 2012-  13 years
+37       una crawford o'brien           renee phelan   fair city  1998 - 2009 , 2012-  13 years
+38              tommy o'neill            john deegan   fair city                2001-  13 years
+39               seamus moran           mike gleeson   fair city          1996 - 2008  12 years
+40              rebecca smith           annette daly   fair city          1997 - 2009  12 years
+41                grace barry       mary - ann byrne     glenroe          1990 - 2001  11 years
+42               gemma doorly          sarah o'leary   fair city          2001 - 2011  10 years

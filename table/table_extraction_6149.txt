@@ -1,0 +1,14 @@
+                 title   directed by               written by    original air date production code
+0            park city  don colliver  peter field rachael ray     august 20 , 2004          ad1c02
+1         grand canyon  don colliver  peter field rachael ray     august 27 , 2004          ad1c04
+2               durham  don colliver  peter field rachael ray     august 29 , 2004          ad1c08
+3            las vegas  don colliver  peter field rachael ray  september 10 , 2004          ad1c05
+4              bermuda  don colliver  peter field rachael ray  september 24 , 2004          ad1c06
+5           sun valley  don colliver  peter field rachael ray    october 15 , 2004          ad1c01
+6          chattanooga  don colliver  peter field rachael ray    october 29 , 2004          ad1c10
+7          hilton head  don colliver  peter field rachael ray   november 12 , 2004          ad1c07
+8            asheville  don colliver  peter field rachael ray   november 19 , 2004          ad1c09
+9            telluride  don colliver  peter field rachael ray   november 26 , 2004          ad1c03
+10             newport  don colliver  peter field rachael ray   december 17 , 2004          ad1c12
+11  martha 's vineyard  don colliver  peter field rachael ray     january 7 , 2005          ad1c13
+12        the hamptons  don colliver  peter field rachael ray      april 22 , 2005          ad1c11

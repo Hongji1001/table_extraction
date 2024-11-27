@@ -1,0 +1,14 @@
+    tournament            winner            runner - up                  score        third place
+0      belfast     anders järryd        mikael pernfors          6 - 3 , 7 - 6               none
+1    barcelona      marcelo ríos          michael stich          6 - 3 , 6 - 3     cédric pioline
+2         rome     thomas muster          henri leconte          6 - 3 , 6 - 3               none
+3      hamburg     michael stich  marc - kevin goellner      6 - 2 , 7 - 6 (4)           pat cash
+4    são paulo      pete sampras           marcelo ríos      6 - 2 , 7 - 6 (5)       jaime oncins
+5     istanbul  goran ivanišević      fernando meligeni          6 - 4 , 6 - 4     cédric pioline
+6         graz    patrick rafter          michael stich      6 - 3 , 7 - 6 (4)      henri leconte
+7      algarve      marcelo ríos       goran ivanišević              6 - 4 ret     sergi bruguera
+8        paris     stefan edberg         sergi bruguera          3 - 6 , 7 - 5     cédric pioline
+9   luxembourg      john mcenroe          henri leconte          6 - 1 , 6 - 4  johnny goudenbour
+10   eindhoven  richard krajicek       goran ivanišević      7 - 6 (5) , 6 - 4     sergi bruguera
+11    budapest  goran ivanišević          henri leconte      7 - 6 (0) , 6 - 3       john mcenroe
+12      london    cédric pioline          greg rusedski  6 - 7 (4) , 7 - 6 (3)               none

@@ -1,0 +1,20 @@
+    series  season                        title       directed by                written by    original air date
+0       45       1               jaunt (part 2)         john bell              james nadler  september 27 , 1998
+1       46       2  comings and goings (part 3)         john bell             tracey forbes     october 4 , 1998
+2       47       3                    heartland  stephen williams                john dolin    october 11 , 1998
+3       48       4                     the kiss      doug jackson    cd frewer & fj kennedy    october 18 , 1998
+4       49       5                   absolution        clay boris            damian kindler    october 25 , 1998
+5       50       6              all hallows eve     luc chalifour             donald martin    november 1 , 1998
+6       51       7                   palimpsest       craig pryce               paula smith    november 8 , 1998
+7       52       8                       return     bruce pittman              james nadler   november 15 , 1998
+8       53       9                    harlequin        ron oliver              larry raskin   november 22 , 1998
+9       54      10                little people       craig pryce                 rick drew   november 29 , 1998
+10      55      11            the winding cloth        clay boris                 rick drew    january 24 , 1999
+11      56      12                       chango     bruce pittman                sarah dodd    january 31 , 1999
+12      58      14                    valentine        ross clyde  sheila prescott - vessey   february 14 , 1999
+13      60      16          the observer effect      giles walker            damian kindler   february 28 , 1999
+14      61      17            school of thought         john bell                 rick drew      april 18 , 1999
+15      62      18                          y2k        ron oliver    cd frewer & fj kennedy      april 25 , 1999
+16      63      19                 the tribunal         john bell            jean hurtubise         may 2 , 1999
+17      64      20                     john doe      giles walker            damian kindler         may 9 , 1999
+18      65      21   forever and a day (part 1)        ron oliver              james nadler        may 16 , 1999

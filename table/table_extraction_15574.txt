@@ -1,0 +1,13 @@
+                       title                     localized title         creator           years origin
+0                atashin'chi                    아따맘마 , attamamma       eiko kera     2004 - 2008  japan
+1                baby and me                     아기와 나 , agiwana   marimo ragawa     1995 - 2002  japan
+2            gakko no ojikan              학교에 가자! , hakgyoe gaja     mimi tajima  2004 - present  japan
+3              gakuen prince                 학원왕자 , hagwonwangja      jun yuzuki  2007 - present  japan
+4      hanasekeru seishounen                                 카시카  natsumi itsuki     1997 - 2000  japan
+5                 koucha ōji                                홍차왕자   nanpei yamada     1998 - 2004  japan
+6     koucha ōji no himegimi  애장판 홍차왕자 , aejangpan hongchawangja   nanpei yamada  2008 - present  japan
+7   papillon - hana to chō -                     빠삐용 , ppappiyon       miwa ueda  2007 - present  japan
+8         penguin revolution         펭귄혁명 , penggwin hyeokmyeong  sakura tsukuba     2005 - 2008  japan
+9                sailor moon                          달의 요정 세일러문  naoko takeuchi     1997 - 1999  japan
+10              shanimuni go               just go go! , 저스트 고고!   marimo ragawa  1999 - present  japan
+11                    sprout                       스프라우트 , 스프라우트    atsuko nanba  2006 - present  japan

@@ -1,0 +1,6 @@
+   Unnamed: 0                     nation  played  won  drawn  lost  for  against difference  table points
+0           1   vva - podmoskovye monino      10    9      0     1  399      128        271            37
+1           2  yenisey - stm krasnoyarsk      10    9      0     1  331      140        191            37
+2           3     krasny yar krasnoyarsk      10    6      0     4  247      198         49            28
+3           4               slava moscow      10    3      0     7  126      267      - 141            19
+4           5     imperia - dynamo penza      10    2      0     8  130      284      - 154            16

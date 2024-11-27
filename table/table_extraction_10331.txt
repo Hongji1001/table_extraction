@@ -1,0 +1,10 @@
+  call sign  frequency mhz    city of license  erp w class fcc info
+0    w264bg          100.7  benedicta , maine     19     d      fcc
+1    w272cg          102.3  biddeford , maine     19     d      fcc
+2    w250bb           97.9    houlton , maine    250     d      fcc
+3    w255bi           98.7    lincoln , maine     38     d      fcc
+4    w223bh           92.5   portland , maine    250     d      fcc
+5    w300bn          107.9   portland , maine     10     d      fcc
+6    w233be           94.5   richmond , maine    250     d      fcc
+7    w246bp           97.1    sanford , maine     10     d      fcc
+8    w272bv          102.3   yarmouth , maine     80     d      fcc

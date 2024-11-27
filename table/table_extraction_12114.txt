@@ -1,0 +1,40 @@
+                   rider manufacturer  laps        time  grid
+0           simone corsi      aprilia    20   39:59.020     8
+1         gabor talmacsi      aprilia    20     + 0.019     2
+2          pol espargaro        derbi    20     + 0.036     4
+3         mike di meglio        derbi    20     + 0.135     3
+4          bradley smith      aprilia    20     + 0.178     7
+5           sergio gadea      aprilia    20     + 0.490     5
+6          nicolas terol      aprilia    20     + 0.832     9
+7         sandro cortese      aprilia    20     + 3.865     6
+8             joan olivã        derbi    20     + 3.928    14
+9           stefan bradl      aprilia    20     + 5.439    11
+10          steve bonsey      aprilia    20    + 10.244    13
+11        andrea iannone      aprilia    20    + 10.447    12
+12      raffaele de rosa          ktm    20    + 18.366     1
+13         scott redding      aprilia    20    + 23.201    16
+14      michael ranseder      aprilia    20    + 24.440    18
+15      takaaki nakagami      aprilia    20    + 26.631    15
+16    randy krummenacher          ktm    20    + 30.629    19
+17         efren vazquez      aprilia    20    + 30.730    25
+18          marc marquez          ktm    20    + 33.868    23
+19       lorenzo zanetti          ktm    20    + 36.928    31
+20         pere tutusaus      aprilia    20    + 49.951    32
+21      lorenzo savadori      aprilia    20    + 50.038    22
+22          jules cluzel       loncin    20    + 50.040    24
+23    dominique aegerter        derbi    20    + 50.052    26
+24          esteve rabat          ktm    20    + 56.360    20
+25      riccardo moretti        honda    20  + 1:06.247    35
+26         alexis masbou       loncin    20  + 1:06.566    38
+27          robin lasser      aprilia    20  + 1:06.982    33
+28     hugo van den berg      aprilia    20  + 1:09.266    28
+29           luca vitali      aprilia    20  + 1:10.551    38
+30        gabriele ferro        honda    20  + 1:10.567    34
+31           louis rossi        honda    20  + 1:36.451    37
+32  ferrucio lamborghini      aprilia    20  + 1:39.883    36
+33        robert muresan      aprilia    18    + 2 laps    30
+34            danny webb      aprilia    19    accident    17
+35      tomoyoshi koyama          ktm    16  retirement    10
+36   roberto lacalendola      aprilia    11  retirement    29
+37           pablo nieto          ktm     8  retirement    27
+38        stefano bianco      aprilia     2    accident    21

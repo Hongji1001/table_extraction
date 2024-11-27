@@ -1,0 +1,8 @@
+      district                incumbent                    party            first elected                                result                                         candidates
+0   new york 5           thomas b cooke  democratic - republican                     1810               retired federalist gain                             thomas p grosvenor (f)
+1   new york 8            benjamin pond  democratic - republican                     1810               retired federalist gain      samuel sherwood (f) 53.6% john ely (dr) 46.4%
+2   new york 9           thomas sammons  democratic - republican                     1808               retired federalist gain                                    john lovett (f)
+3  new york 10               silas stow  democratic - republican                     1810               retired federalist gain                                  hosea moffitt (f)
+4  new york 11            thomas r gold               federalist                     1808  retired democratic - republican gain  john w taylor (dr) 52.8% samuel stewart (f) 47.2%
+5  new york 14  none (district created)  none (district created)  none (district created)              new seat federalist gain  jacob markell (f) 55.6% james mcintyre (dr) 44.4%
+6  new york 18  none (district created)  none (district created)  none (district created)              new seat federalist gain         moss kent (f) 61.2% jacob brown (dr) 38.8%

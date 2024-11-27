@@ -1,0 +1,31 @@
+    pick                 player     nationality position                             team from                            league from
+0     31          tyler pitlick   united states        c  minnesota state university , mankato  western collegiate hockey association
+1     32           jared knight   united states        c                        london knights                  ontario hockey league
+2     33         john mcfarland          canada        c                        sudbury wolves                  ontario hockey league
+3     34           dalton smith          canada       lw                          ottawa 67 's                  ontario hockey league
+4     35       ludvig rensfeldt          sweden        c                             brynäs if                 j20 superelit (sweden)
+5     36          alex petrovic          canada        d                       red deer rebels                  western hockey league
+6     37           justin faulk   united states        d               us national u - 18 team            united states hockey league
+7     38            jon merrill   united states        d               us national u - 18 team            united states hockey league
+8     39           brett bulmer          canada       rw                       kelowna rockets                  western hockey league
+9     40       christian thomas          canada       rw                       oshawa generals                  ontario hockey league
+10    41          patrik nemeth          sweden        d                                   aik                 j20 superelit (sweden)
+11    42  devante smith - pelly          canada       rw      mississauga st michael 's majors                  ontario hockey league
+12    43           bradley ross          canada       lw                  portland winterhawks                  western hockey league
+13    44    sebastian wannstrom          sweden        c                             brynäs if                 j20 superelit (sweden)
+14    45           ryan spooner          canada        c                    peterborough petes                  ontario hockey league
+15    46        martin marincin        slovakia        d                             hc košice                       slovak extraliga
+16    47          tyler toffoli          canada       rw                          ottawa 67 's                  ontario hockey league
+17    48        curtis hamilton          canada       lw                      saskatoon blades                  western hockey league
+18    49         calvin pickard          canada        g                  seattle thunderbirds                  western hockey league
+19    50        connor brickley   united states        c                 des moines buccaneers            united states hockey league
+20    51         calle jarnkrok          sweden        c                             brynäs if                    elitserien (sweden)
+21    52            philip lane   united states       rw                    brampton battalion                  ontario hockey league
+22    53               mark alt   united states        d                  cretin - derham hall         united states high school - mn
+23    54            justin holl   united states        d                         omaha lancers            united states hockey league
+24    55            petr straka  czech republic        f                      rimouski océanic      quebec major junior hockey league
+25    56          johan larsson          sweden        c                             brynäs if                 j20 superelit (sweden)
+26    57         oscar lindberg          sweden        c                        skellefteå aik                    elitserien (sweden)
+27    58           kent simpson          canada        g                    everett silvertips                  western hockey league
+28    59           jason zucker   united states       rw               us national u - 18 team            united states hockey league
+29    60          stephen johns   united states        d               us national u - 18 team            united states hockey league

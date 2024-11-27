@@ -1,0 +1,8 @@
+                      school      location        mascot  enrollment ihsaa football class       county
+0             eastern greene    bloomfield  thunderbirds         406                    a    28 greene
+1            linton stockton        linton        miners         344                    a    28 greene
+2  north central farmersburg   farmersburg  thunderbirds         336                    a  77 sullivan
+3              north daviess        elnora       cougars         306                    a   14 daviess
+4                 north knox      bicknell      warriors         408                    a      42 knox
+5               union dugger        dugger      bulldogs         117                    a  77 sullivan
+6              wood memorial  oakland city       trojans         292                    a    26 gibson

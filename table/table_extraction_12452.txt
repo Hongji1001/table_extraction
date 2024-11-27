@@ -1,0 +1,14 @@
+                   name pos height weight                    2012 club
+0   elizabeth armstrong  gk      m      -          great lakes wp club
+1         heather petri   d      m      -       new york athletic club
+2     melissa seidemann  cb      m      -          stanford university
+3          brenda villa   d      m      -            orizzonte catania
+4         lauren wenger   d      m      -       new york athletic club
+5       maggie steffens  cb      m      -            diablo water polo
+6    courtney mathewson   d      m      -       new york athletic club
+7      jessica steffens  cb      m      -       new york athletic club
+8          elsie windes  cb      m      -           tualatin hills wpc
+9           kelly rulon   d      m      -                     asd roma
+10         annika dries  cf      m      -          stanford university
+11           kami craig  cf      m      -  santa barbara wp foundation
+12           tumua anae  gk      m      -                        socal

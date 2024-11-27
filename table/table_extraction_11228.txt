@@ -1,0 +1,19 @@
+    rank         nation  gold  silver  bronze  total
+0      1          japan     3       5       2     10
+1      2         france     3       0       5      8
+2      3   soviet union     2       2       4      8
+3      4  great britain     2       2       0      4
+4      5           cuba     1       1       2      4
+5      6          italy     1       1       0      2
+6      7    south korea     1       0       4      5
+7      8          china     1       0       2      3
+8      9        belgium     1       0       1      2
+9     10     yugoslavia     1       0       0      1
+10    11        germany     0       1       4      5
+11    12   east germany     0       1       1      2
+12    12       mongolia     0       1       1      2
+13    12    netherlands     0       1       1      2
+14    15  united states     0       1       0      1
+15    16         poland     0       0       3      3
+16    17          spain     0       0       1      1
+17    17    north korea     0       0       1      1

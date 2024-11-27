@@ -1,0 +1,27 @@
+    rank            city / town                    county region / province  population              country
+0      1                 dublin             county dublin          leinster      505739  republic of ireland
+1      2              liverpool                merseyside        north west      447500              england
+2      3                belfast             county antrim            ulster      276459     northern ireland
+3      5              blackpool                lancashire        north west      142900              england
+4      6              southport                merseyside        north west       99456              england
+5      7             birkenhead                merseyside        north west       83729              england
+6      8                 bangor               county down            ulster       76851     northern ireland
+7      9  barrow - in - furness                   cumbria        north west       71980              england
+8     10               wallasey                merseyside        north west       58710              england
+9     11                 crosby                merseyside        north west       51789              england
+10    12              morecambe                lancashire        north west       45000              england
+11    13        lytham st annes                lancashire        north west       41330              england
+12    14               drogheda              county louth          leinster       35190  republic of ireland
+13    15                dundalk              county louth          leinster       35085  republic of ireland
+14    16                   rhyl              denbighshire             clwyd       35000                wales
+15    17                   bray            county wicklow          leinster       31901  republic of ireland
+16    18   thornton - cleveleys                lancashire        north west       31157              england
+17    19             colwyn bay                     conwy             clwyd       30265                wales
+18    20          carrickfergus             county antrim            ulster       27201     northern ireland
+19    21              fleetwood                lancashire        north west       26840              england
+20    22                douglas                     n / a       isle of man       26218          isle of man
+21    20             workington                   cumbria        north west       25978              england
+22    23             whitehaven                   cumbria        north west       25500              england
+23    24          dún laoghaire  dún laoghaire - rathdown          leinster       23857  republic of ireland
+24    25              llandudno                     conwy             clwyd       20090                wales
+25    26                  larne             county antrim            ulster       18228     northern ireland

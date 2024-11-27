@@ -1,0 +1,7 @@
+       opposing team  against            date                            venue                 round
+0  charlton athletic        1  02 / 09 / 1992              the valley , london  preliminary round g6
+1           millwall        1  22 / 09 / 1992        fratton park , portsmouth  preliminary round g6
+2             cesena        0  11 / 11 / 1992        fratton park , portsmouth               group a
+3               bari        3  24 / 11 / 1992         stadio san nicola , bari               group a
+4           lucchese        1  08 / 12 / 1992        fratton park , portsmouth               group a
+5             ascoli        1  16 / 12 / 1992  stadio del duca , ascoli piceno               group a

@@ -1,0 +1,6 @@
+  call sign frequency    city of license  facility id  erp / power w height m ( ft ) class
+0      wmhi   94.7 fm  cape vincent , ny        40435           5800               -     a
+1      wmhn   89.3 fm       webster , ny        40430           1000               -     a
+2      wmhq   90.1 fm        malone , ny        89863           2700               -     a
+3      wmhr  102.9 fm      syracuse , ny        40432          20000               -     b
+4      wmhu   91.1 fm    cold brook , ny       174468            560               -     a

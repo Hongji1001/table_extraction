@@ -1,0 +1,21 @@
+                driver       constructor  laps time / retired  grid
+0      lorenzo bandini           ferrari   105     2:06:18.23     7
+1       richie ginther               brm   105         + 6.18     5
+2         bob anderson  brabham - climax   102       + 3 laps    14
+3           tony maggs               brm   102       + 3 laps    19
+4        innes ireland         brp - brm   102       + 3 laps    11
+5           jo bonnier  brabham - climax   101       + 4 laps    10
+6   giancarlo baghetti               brm    96       + 9 laps    15
+7        mike hailwood       lotus - brm    95      + 10 laps    18
+8         jack brabham  brabham - climax    76      + 29 laps     6
+9         jochen rindt     brabham - brm    58       steering    13
+10           phil hill   cooper - climax    58       accident    20
+11          dan gurney  brabham - climax    47     suspension     4
+12       bruce mclaren   cooper - climax    43         engine     9
+13         mike spence    lotus - climax    41      halfshaft     8
+14           jim clark    lotus - climax    40      halfshaft     3
+15       trevor taylor         brp - brm    21     suspension    16
+16          jo siffert     brabham - brm    18       accident    12
+17        john surtees           ferrari     9     suspension     2
+18          chris amon    lotus - climax     7         engine    17
+19         graham hill               brm     5    distributor     1

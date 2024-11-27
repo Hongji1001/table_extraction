@@ -1,0 +1,9 @@
+   pick                  cfl team           player position           college
+0     9  saskatchewan roughriders     jason french       wr      murray state
+1    10        calgary stampeders    lawrence deck       db      fresno state
+2    11        montreal alouettes     pat woodcock       wr          syracuse
+3    12     hamilton tiger - cats      karim grant       lb            acadia
+4    13          edmonton eskimos     fabian burke       cb            toledo
+5    14        calgary stampeders  duncan o'mahony        k  british columbia
+6    15        montreal alouettes     jesse palmer       qb           florida
+7    16                  bc lions    jamie boreham    k / s          manitoba

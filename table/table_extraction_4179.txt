@@ -1,0 +1,18 @@
+                      payee                           purpose amount (millions)                              signatories       date signed
+0             anglo leasing                  forensic lab cid           us54.56  ps - treasury ps - internal security op    16 august 2001
+1   silverson establishment                 security vehicles              us90  ps - treasury ps - internal security op    16 august 2001
+2              apex finance                   police security              us30  ps - treasury ps - internal security op   9 february 2002
+3               lba systems                    security - met              us25                            ps - treasury       7 june 2002
+4              apex finance                   police security            us21.8  ps - treasury ps - internal security op      14 june 2002
+5        universal satspace                satellite services           us28.11             ps - treasury ps - transport      11 july 2002
+6          first mechantile                   police security            us21.8             ps - treasury ps - transport      11 july 2002
+7         apex finance corp                   police security            us22.8  ps - treasury ps - internal security op      12 july 2002
+8               lba systems                   prison security            us29.7                            ps - treasury  19 november 2002
+9                   nedemar                          security            us26.9             ps - treasury ps - transport  19 november 2002
+10             midland bank                   police security           us29.65                            ps - treasury       29 may 2003
+11           naviga capital              oceanographic vessel          eur 26.6                            ps - treasury      15 july 2003
+12                 empressa              oceanographic vessel            eur 15                            ps - treasury      15 july 2003
+13               euromarine              oceanographic vessel          eur 10.4                            ps - treasury      15 july 2003
+14               infotalent                   police security          eur 59.7  ps - treasury ps - internal security op  19 november 2003
+15        apex finance corp                   police security            eur 40  ps - treasury ps - internal security op  17 december 2003
+16       ciaria systems inc  design , maintain satellite nsis           us24.56                ps treasury director nsis   20 january 2004

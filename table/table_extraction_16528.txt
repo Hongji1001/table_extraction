@@ -1,0 +1,9 @@
+             school      location        mascot  enrollment ihsaa class         county
+0            attica        attica  red ramblers         283           a    23 fountain
+1         covington     covington       trojans         292           a    23 fountain
+2  fountain central   veedersburg      mustangs         435          aa    23 fountain
+3  north vermillion        cayuga       falcons         238           a  83 vermillion
+4    riverton parke     montezuma      panthers         316           a       61 parke
+5         rockville     rockville           rox         248           a       61 parke
+6            seeger  west lebanon      patriots         427          aa      86 warren
+7        turkey run      marshall      warriors         174           a       61 parke

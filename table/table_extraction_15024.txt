@@ -1,0 +1,7 @@
+   election                  1st member       1st party                  2nd member       2nd party
+0      1832           john brocklehurst         liberal                   john ryle    conservative
+1      1837           john brocklehurst         liberal           thomas grimsditch    conservative
+2      1847           john brocklehurst         liberal               john williams    conservative
+3      1852           john brocklehurst         liberal  edward christopher egerton    conservative
+4      1868  william coare brocklehurst         liberal              david chadwick         liberal
+5      1880              writ suspended  writ suspended              writ suspended  writ suspended

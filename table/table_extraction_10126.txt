@@ -1,0 +1,13 @@
+              nation  total wins  team wins  individual wins  individual winners
+0      united states          32          1               31                  12
+1          australia           5          0                5                   3
+2            england           5          1                4                   3
+3       south africa           4          2                2                   1
+4   northern ireland           2          0                2                   1
+5            germany           2          1                1                   1
+6             canada           1          0                1                   1
+7               fiji           1          0                1                   1
+8             sweden           1          0                1                   1
+9              italy           1          0                1                   1
+10             japan           1          1                0                   0
+11             wales           1          1                0                   0

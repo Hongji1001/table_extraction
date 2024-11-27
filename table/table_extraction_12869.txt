@@ -1,0 +1,13 @@
+                 city               country iata  icao                              airport
+0           bangalore                 india  blr  vobl     bengaluru international airport 
+1             chennai                 india  maa  vomm       chennai international airport 
+2             colombo             sri lanka  cmb  vcbi   bandaranaike international airport
+3             colombo             sri lanka  rml  vccc                    ratmalana airport
+4               dubai  united arab emirates  dxb  omdb          dubai international airport
+5              jaffna             sri lanka  jaf  vccj                kankesanturai airport
+6                malã              maldives  mle  vrmm  ibrahim nasir international airport
+7                rome                 italy  fco  lirf                    fiumicino airport
+8           singapore             singapore  sin  wsss         changi international airport
+9   thiruvanathapuram                 india  trv  votv                  trivandrum airport 
+10    tiruchirappalli                 india  trz  votr              tiruchirappalli airport
+11        trincomalee             sri lanka  trr  vcct                    china bay airport

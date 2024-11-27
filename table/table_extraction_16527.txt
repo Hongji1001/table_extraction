@@ -1,0 +1,9 @@
+                   school        location          mascot  size ihsaa class ihsaa football class       county
+0  cambridge city lincoln  cambridge city   golden eagles   400          aa                    a     89 wayne
+1             centerville     centerville        bulldogs   552          aa                   aa     89 wayne
+2              hagerstown      hagerstown          tigers   366          aa                    a     89 wayne
+3            northeastern   fountain city         knights   342          aa                    a     89 wayne
+4                     tri        straughn          titans   301           a                    a     33 henry
+5    union city community      union city         indians   280           a                    a  68 randolph
+6            union county         liberty        patriots   467          aa                   aa     81 union
+7    winchester community      winchester  golden falcons   490          aa                   aa  68 randolph

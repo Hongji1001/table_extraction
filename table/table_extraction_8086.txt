@@ -1,0 +1,10 @@
+                      title studio             role           leading lady        director
+0           the lucky texan   mono      jerry mason        barbara sheldon     rn bradbury
+1        west of the divide   mono       ted hayden  virginia browne faire     rn bradbury
+2                blue steel   mono  john carruthers           eleanor hunt     rn bradbury
+3         the man from utah   mono      john westen        polly ann young     rn bradbury
+4         randy rides alone   mono     randy bowers         alberta vaughn  harry l fraser
+5           the star packer   mono     john travers           verna hillie     rn bradbury
+6          the trail beyond   mono         rod drew           verna hillie     rn bradbury
+7      the lawless frontier   mono       john tobin           sheila terry     rn bradbury
+8  'neath the arizona skies   mono    chris morrell           sheila terry    harry fraser

@@ -1,0 +1,27 @@
+                  driver               constructor  laps   time / retired  grid
+0           ayrton senna            mclaren - ford    71      1:51:15.485     3
+1             damon hill        williams - renault    71         + 16.625     2
+2     michael schumacher           benetton - ford    71         + 45.436     4
+3         johnny herbert              lotus - ford    71         + 46.557    12
+4          mark blundell          ligier - renault    71         + 52.127    10
+5     alessandro zanardi              lotus - ford    70          + 1 lap    15
+6        philippe alliot   larrousse - lamborghini    70          + 1 lap    11
+7             jean alesi                   ferrari    70          + 1 lap     9
+8          derek warwick  footwork - mugen - honda    69         + 2 laps    18
+9            ã‰rik comas   larrousse - lamborghini    69         + 2 laps    17
+10      michele alboreto            lola - ferrari    68         + 3 laps    25
+11           luca badoer            lola - ferrari    68         + 3 laps    21
+12       karl wendlinger                    sauber    61           engine     8
+13              jj lehto                    sauber    52       electrical     7
+14     andrea de cesaris          tyrrell - yamaha    48      fuel system    23
+15           alain prost        williams - renault    29        collision     1
+16  christian fittipaldi            minardi - ford    28        collision    20
+17          aguri suzuki  footwork - mugen - honda    27         spun off    19
+18         ukyo katayama          tyrrell - yamaha    26         spun off    22
+19    rubens barrichello             jordan - hart    13          gearbox    14
+20      riccardo patrese           benetton - ford     3       suspension     6
+21      michael andretti            mclaren - ford     0        collision     5
+22        gerhard berger                   ferrari     0        collision    13
+23        martin brundle          ligier - renault     0        collision    16
+24     fabrizio barbazza            minardi - ford     0        collision    24
+25          ivan capelli             jordan - hart     0  did not qualify    26

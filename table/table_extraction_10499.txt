@@ -1,0 +1,12 @@
+                 team copa libertadores 1999 copa mercosur 1999 copa conmebol 1999 intercontinental cup 1999
+0         corinthians          quarterfinals      quarterfinals    did not qualify                     n / a
+1            cruzeiro        did not qualify      quarterfinals    did not qualify                     n / a
+2                 csa        did not qualify    did not qualify        runner - up                     n / a
+3            flamengo        did not qualify          champions    did not qualify                     n / a
+4              grêmio        did not qualify        group stage    did not qualify                     n / a
+5           palmeiras              champions        runner - up    did not qualify               runner - up
+6              paraná        did not qualify    did not qualify      quarterfinals                     n / a
+7           são paulo        did not qualify        group stage    did not qualify                     n / a
+8   são raimundo (am)        did not qualify    did not qualify         semifinals                     n / a
+9               vasco            round of 16        group stage    did not qualify                     n / a
+10          vila nova        did not qualify    did not qualify        round of 16                     n / a

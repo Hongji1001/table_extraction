@@ -1,0 +1,22 @@
+               rider manufacturer  laps time / retired  grid
+0    loris capirossi       ducati    24      47:05.484     8
+1    randy de puniet     kawasaki    24       + 10.853     4
+2        toni elã­as        honda    24       + 11.526     5
+3   sylvain guintoli       yamaha    24       + 12.192    18
+4     marco melandri        honda    24       + 28.569    10
+5       casey stoner       ducati    24       + 31.179     9
+6       anthony west     kawasaki    24       + 50.001     6
+7        alex barros       ducati    24       + 52.343    15
+8       nicky hayden        honda    24       + 53.629     3
+9       john hopkins       suzuki    24       + 59.715    11
+10   chris vermeulen       suzuki    24     + 1:02.804    17
+11     makoto tamada       yamaha    24     + 1:09.313    16
+12   valentino rossi       yamaha    24     + 1:09.699     2
+13     colin edwards       yamaha    24     + 1:11.735     7
+14     shinichi itoh       ducati    24     + 1:12.290    20
+15     shinya nakano        honda    24     + 1:32.979    12
+16    akira yanagawa     kawasaki    23        + 1 lap    19
+17      carlos checa        honda    23        + 1 lap    14
+18  kousuke akiyoshi       suzuki    20     retirement    13
+19      dani pedrosa        honda    14       accident     1
+20    kurtis roberts       kr212v     1     retirement    21

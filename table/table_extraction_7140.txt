@@ -1,0 +1,18 @@
+    year             award                                          category            nominee     result
+0   1984        tony award                                      best musical       best musical        won
+1   1984        tony award                            best book of a musical   harvey fierstein        won
+2   1984        tony award                               best original score       jerry herman        won
+3   1984        tony award  best performance by a leading actor in a musical       george hearn        won
+4   1984        tony award  best performance by a leading actor in a musical         gene barry  nominated
+5   1984        tony award                       best direction of a musical    arthur laurents        won
+6   1984        tony award                                 best choreography       scott salmon  nominated
+7   1984        tony award                               best costume design  theoni v aldredge        won
+8   1984        tony award                              best lighting design       jules fisher  nominated
+9   1984  drama desk award                     outstanding book of a musical   harvey fierstein  nominated
+10  1984  drama desk award                    outstanding actor in a musical       george hearn        won
+11  1984  drama desk award                    outstanding actor in a musical         gene barry  nominated
+12  1984  drama desk award                                 outstanding music       jerry herman        won
+13  1984  drama desk award                                outstanding lyrics       jerry herman  nominated
+14  1984  drama desk award                        outstanding orchestrations          jim tyler  nominated
+15  1984  drama desk award                        outstanding costume design  theoni v aldredge        won
+16  1984  drama desk award                       outstanding lighting design       jules fisher  nominated

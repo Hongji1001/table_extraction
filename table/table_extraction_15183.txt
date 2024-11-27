@@ -1,0 +1,9 @@
+  opposing teams  against            date                         venue                status
+0        ireland       17  07 / 02 / 1987       lansdowne road , dublin          five nations
+1         france       19  21 / 02 / 1987           twickenham , london          five nations
+2          wales       19  07 / 03 / 1987   cardiff arms park , cardiff          five nations
+3       scotland       12  04 / 04 / 1987           twickenham , london          five nations
+4      australia       19  23 / 05 / 1987         concord oval , sydney  1987 rugby world cup
+5          japan        7  30 / 05 / 1987         concord oval , sydney  1987 rugby world cup
+6            usa        6  03 / 06 / 1987         concord oval , sydney  1987 rugby world cup
+7          wales       16  08 / 06 / 1987  ballymore stadium , brisbane  1987 rugby world cup

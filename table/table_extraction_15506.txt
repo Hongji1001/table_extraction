@@ -1,0 +1,31 @@
+    pick             player                   team position                                          school
+0      1      josh hamilton   tampa bay devil rays       of      athens drive hs (raleigh , north carolina)
+1      2       josh beckett        florida marlins        p                      spring hs (spring , texas)
+2      3        eric munson         detroit tigers        c               university of southern california
+3      4        corey myers   arizona diamondbacks       ss             desert vista hs (phoenix , arizona)
+4      5           bj garbe        minnesota twins   of , p         moses lake hs (moses lake , washington)
+5      6       josh girdley         montreal expos        p                      jasper hs (jasper , texas)
+6      7        kyle snyder     kansas city royals        p                    university of north carolina
+7      8      bobby bradley     pittsburgh pirates        p  wellington community hs (wellington , florida)
+8      9         barry zito      oakland athletics        p               university of southern california
+9     10         ben sheets      milwaukee brewers        p                  northeast louisiana university
+10    11  ryan christianson       seattle mariners        c           arlington hs (riverside , california)
+11    12        brett myers  philadelphia phillies        p    englewood senior hs (jacksonville , florida)
+12    13       mike paradis      baltimore orioles        p                              clemson university
+13    14       ty howington        cincinnati reds        p       hudson 's bay hs (vancouver , washington)
+14    15        jason stumm      chicago white sox        p           centralia hs (centralia , washington)
+15    16     jason jennings       colorado rockies        p                               baylor university
+16    17    rick asadoorian         boston red sox       of   northbridge hs (whitinsville , massachusetts)
+17    18      richard stahl      baltimore orioles        p          newton county hs (covington , georgia)
+18    19          alex ríos      toronto blue jays       of             san pedro martin hs (guaynabo , pr)
+19    20       vince faison       san diego padres       of              toombs county hs (lyons , georgia)
+20    21       larry bigbie      baltimore orioles       of                           ball state university
+21    22        matt ginter      chicago white sox        p                    mississippi state university
+22    23         keith reed      baltimore orioles       of                              providence college
+23    24     kurt ainsworth   san francisco giants        p                      louisiana state university
+24    25     mike macdougal     kansas city royals        p                          wake forest university
+25    26    ben christensen           chicago cubs        p                        wichita state university
+26    27      david walling       new york yankees        p                          university of arkansas
+27    28       gerik baxter       san diego padres        p       edmonds woodway hs (edmonds , washington)
+28    29         omar ortíz       san diego padres        p              university of texas - pan american
+29    30       chance caple     st louis cardinals        p                            texas a&m university

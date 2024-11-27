@@ -1,0 +1,20 @@
+                   player  rank                                           event   surface                                                  score
+0                    2009  2009                                            2009      2009                                                   2009
+1            gaël monfils     9                    indian wells , united states      hard                          6 - 7 (5 - 7) , 6 - 1 , 6 - 4
+2    jo - wilfried tsonga     7                      washington , united states      hard                  4 - 6 , 7 - 6 (7 - 2) , 7 - 6 (7 - 4)
+3            andy roddick     5              us open , new york , united states      hard  7 - 6 (7 - 3) , 6 - 3 , 3 - 6 , 5 - 7 , 7 - 6 (7 - 5)
+4                    2010  2010                                            2010      2010                                                   2010
+5       nikolay davydenko     6                                 beijing , china      hard                                  7 - 6 (7 - 2) , 6 - 4
+6                    2011  2011                                            2011      2011                                                   2011
+7            david ferrer     5                                  paris , france  hard (i)                                  6 - 3 , 3 - 6 , 6 - 3
+8                    2012  2012                                            2012      2012                                                   2012
+9           roger federer     3              davis cup , fribourg , switzerland  clay (i)                  4 - 6 , 6 - 3 , 7 - 6 (7 - 4) , 6 - 2
+10         novak djokovic     1                    indian wells , united states      hard                  7 - 6 (9 - 7) , 3 - 6 , 7 - 6 (7 - 5)
+11   jo - wilfried tsonga     6  davis cup , roquebrune - cap - martin , france      clay                  6 - 3 , 7 - 6 (7 - 4) , 5 - 7 , 6 - 3
+12       janko tipsarević     8                     olympics , london , england     grass                                7 - 5 , 7 - 6 (16 - 14)
+13   jo - wilfried tsonga     6                 winston - salem , united states      hard                          6 - 4 , 3 - 6 , 7 - 6 (7 - 3)
+14          tomáš berdych     7                 winston - salem , united states      hard                         3 - 6 , 6 - 4 , 7 - 6 (11 - 9)
+15                   2013  2013                                            2013      2013                                                   2013
+16           milos raonic    10                      cincinnati , united states      hard                                  7 - 6 (7 - 5) , 6 - 4
+17         novak djokovic     1                      cincinnati , united states      hard                          7 - 6 (7 - 5) , 3 - 6 , 7 - 5
+18  juan martín del potro     7                      cincinnati , united states      hard                 6 - 7 (5 - 7) , 7 - 6 (11 - 9) , 6 - 3

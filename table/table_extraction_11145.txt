@@ -1,0 +1,6 @@
+                team  match  points  draw  lost
+0         amk kraków      8      12     0     2
+1        cwk czeladź      8      12     0     2
+2        unia tarnów      8       8     0     4
+3       legia krosno      8       6     0     5
+4  sparta wrocław ii      8       2     0     7

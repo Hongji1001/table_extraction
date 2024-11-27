@@ -1,0 +1,46 @@
+     sign                  name        date                                        content                                city                     country
+0       א            sinaiticus         4th              s gospel , paul , acts , ce , rev                      london leipzig      united kingdom germany
+1       a          alexandrinus         5th              s gospel , acts , ce , paul , rev                              london              united kingdom
+2       b             vaticanus         4th                    s gospel , acts , ce , paul                        vatican city                     vatican
+3       c              ephraemi         5th                   s gospel , acts , paul , rev                               paris                      france
+4    d ea                 bezae         5th                                s gospel , acts                           cambridge              united kingdom
+5     d p         claromontanus         6th                               pauline epistles                               paris                      france
+6     e e            basilensis         8th                                       s gospel                               basel                 switzerland
+7     e a             laudianus         6th                           acts of the apostles                              oxford              united kingdom
+8     f e           boreelianus         9th                                       s gospel                             utrecht                 netherlands
+9     f p             augiensis         9th                               pauline epistles                           cambridge              united kingdom
+10    g e         seidelianus i         9th                                       s gospel                              london              united kingdom
+11    g p          boernerianus         9th                               pauline epistles                             dresden                     germany
+12    h e        seidelianus ii         9th                                       s gospel                   hamburg cambridge      germany united kingdom
+13    h a            mutinensis         9th                           acts of the apostles                              modena                       italy
+14    h p          coislinianus         6th                               pauline epistles  paris mount athos saint petersburg        france greece russia
+15      i            freerianus         5th                               pauline epistles                     washington , dc               united states
+16    k e               cyprius         9th                                       s gospel                               paris                      france
+17   k ap            mosquensis         9th                                    acts , paul                              moscow                      russia
+18    l e                regius         8th                                       s gospel                               paris                      france
+19   l ap             angelicus         9th                                    acts , paul                                rome                       italy
+20      m             campianus         9th                                       s gospel                               paris                      france
+21      n   petropolitanus purp         6th                                       s gospel             saint petersburg patmos               russia greece
+22      o            sinopensis         6th                              gospel of matthew                               paris                      france
+23    p e      guelferbytanus a         6th                                       s gospel                        wolfenbüttel                     germany
+24  p apr          porphyrianus         9th                         acts , paul , ce , rev                    saint petersburg                      russia
+25      q      guelferbytanus b         5th  luke 4 , 6 , 12 , 15 , 17 - 23 , john 12 , 14                        wolfenbüttel                     germany
+26      r            nitriensis         6th                                 gospel of luke                              london              united kingdom
+27      s         vaticanus 354         949                                       s gospel                        vatican city                vatican city
+28      t             borgianus         5th                                    luke - john          vatican city new york city  vatican city united states
+29      u              nanianus         9th                                       s gospel                              venice                       italy
+30      v         mosquensis ii         9th                                       s gospel                              moscow                      russia
+31      w       washingtonianus         5th                                       s gospel                     washington , dc               united states
+32      x            monacensis        10th                                       s gospel                              munich                     germany
+33      y         macedoniensis         9th                                       s gospel                           cambridge              united kingdom
+34      z           dublinensis         6th         matt 1 - 2 , 4 - 8 , 10 - 15 , 17 - 26                              dublin                     ireland
+35      γ   tischendorfianus iv        10th                                       s gospel             oxford saint petersburg       united kingdom russia
+36      δ          sangallensis         9th                                       s gospel                           st gallen                 switzerland
+37      θ         coridethianus         9th                                       s gospel                             tbilisi                     georgia
+38      λ  tischendorfianus iii         9th                                    luke , john                              oxford              united kingdom
+39      ξ            zacynthius         6th                                 gospel of luke                           cambridge              united kingdom
+40      π        petropolitanus         9th                                       s gospel                    saint petersburg                      russia
+41      σ           rossanensis         6th                                 matthew , mark                             rossano                       italy
+42      φ             beratinus         6th                                 matthew , mark                              tirana                     albania
+43      ψ      athous lavrensis  9th / 10th                         s gospel , acts , paul                         mount athos                      greece
+44      ω      athous dionysiou         9th                                       s gospel                         mount athos                      greece

@@ -1,0 +1,8 @@
+            school           location        mascot  enrollment ihsaa class        county  year joined previous conference
+0  decatur central  indianapolis , in         hawks        1856       aaaaa     49 marion         2006  conference indiana
+1         franklin      franklin , in  grizzly cubs        1592       aaaaa    41 johnson         1981       south central
+2        greenwood     greenwood , in       woodmen        1389        aaaa    41 johnson         1942         independent
+3     martinsville  martinsville , in     artesians        2012       aaaaa     55 morgan         2006  conference indiana
+4      mooresville   mooresville , in      pioneers        1428        aaaa     55 morgan         1942         independent
+5       plainfield    plainfield , in       quakers        1304        aaaa  32 hendricks         1942         independent
+6        whiteland     whiteland , in      warriors        1785       aaaaa    41 johnson         1968       mid - hoosier

@@ -1,0 +1,38 @@
+    season              pitcher decision                       opponent                           location
+0     1977          diego seguí        l              california angels                           kingdome
+1     1978         glenn abbott        w                minnesota twins                           kingdome
+2     1979     glenn abbott (2)   nd (w)              california angels                           kingdome
+3     1980         mike parrott        w              toronto blue jays                           kingdome
+4     1981     glenn abbott (3)        l              california angels                           kingdome
+5     1982      floyd bannister        w                minnesota twins        hubert h humphrey metrodome
+6     1983        gaylord perry   nd (w)               new york yankees                           kingdome
+7     1984           mike moore   nd (w)              toronto blue jays                           kingdome
+8     1985       mike moore (2)        w              oakland athletics                           kingdome
+9     1986       mike moore (3)   nd (w)              california angels                           kingdome
+10    1987        mark langston        l              california angels                    anaheim stadium
+11    1988    mark langston (2)        l              oakland athletics        network associates coliseum
+12    1989    mark langston (3)        l              oakland athletics        network associates coliseum
+13    1990         brian holman        w              california angels                           kingdome
+14    1991          erik hanson        l              california angels                           kingdome
+15    1992        randy johnson   nd (l)                  texas rangers                           kingdome
+16    1993    randy johnson (2)        w              toronto blue jays                           kingdome
+17    1994    randy johnson (3)   nd (l)              cleveland indians                       jacobs field
+18    1995    randy johnson (4)        w                 detroit tigers                           kingdome
+19    1996    randy johnson (5)   nd (w)              chicago white sox                           kingdome
+20    1997         jeff fassero        w               new york yankees                           kingdome
+21    1998    randy johnson (6)   nd (l)              cleveland indians                           kingdome
+22    1999     jeff fassero (2)        l              chicago white sox                           kingdome
+23    2000          jamie moyer        l                 boston red sox                       safeco field
+24    2001        freddy garcía   nd (w)              oakland athletics                       safeco field
+25    2002    freddy garcía (2)        l              chicago white sox                       safeco field
+26    2003    freddy garcía (3)        l              oakland athletics        network associates coliseum
+27    2004      jamie moyer (2)        l                 anaheim angels                       safeco field
+28    2005      jamie moyer (3)        w                minnesota twins                       safeco field
+29    2006      jamie moyer (4)   nd (l)  los angeles angels of anaheim                       safeco field
+30    2007      félix hernández        w              oakland athletics                       safeco field
+31    2008          érik bédard   nd (w)                  texas rangers                       safeco field
+32    2009  félix hernández (2)        w                minnesota twins        hubert h humphrey metrodome
+33    2010  félix hernández (3)   nd (w)              oakland athletics  oakland - alameda county coliseum
+34    2011  félix hernández (4)        w              oakland athletics  oakland - alameda county coliseum
+35    2012  félix hernández (5)   nd (w)              oakland athletics                         tokyo dome
+36    2013  félix hernández (6)        w              oakland athletics  oakland - alameda county coliseum

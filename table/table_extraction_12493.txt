@@ -1,0 +1,10 @@
+             date       opponent                               site    result  attendance
+0  09 / 22 / 1945       missouri  memorial stadium minneapolis , mn   w34 - 0       34246
+1  10 / 06 / 1945       nebraska      memorial stadium lincoln , ne   w61 - 7       25000
+2  10 / 13 / 1945    fort warren  memorial stadium minneapolis , mn   w14 - 0       32465
+3  10 / 20 / 1945   northwestern  memorial stadium minneapolis , mn   w30 - 7       55940
+4  10 / 27 / 1945  12 ohio state  memorial stadium minneapolis , mn   l7 - 20       56000
+5  11 / 03 / 1945    10 michigan    michigan stadium ann arbor , mi   l0 - 26       84472
+6  11 / 10 / 1945        indiana  memorial stadium minneapolis , mn   l0 - 49       41400
+7  11 / 17 / 1945           iowa        iowa stadium iowa city , ia  l19 - 20       13880
+8  11 / 24 / 1945      wisconsin  memorial stadium minneapolis , mn  l12 - 26       34800

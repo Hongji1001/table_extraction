@@ -1,0 +1,23 @@
+                            tie no                       home team                           score                       away team                      attendance
+0                                1                     aston villa                           4 - 0            west bromwich albion                 24 january 1998
+1                                2             sheffield wednesday                           0 - 3                blackburn rovers                 26 january 1998
+2                                3                   middlesbrough                           1 - 2                         arsenal                 24 january 1998
+3                                4                    ipswich town                           1 - 1                sheffield united                 24 january 1998
+4                           replay                sheffield united                           1 - 0                    ipswich town                 3 february 1998
+5                                5                 tranmere rovers                           1 - 0                      sunderland                 24 january 1998
+6                                6               tottenham hotspur                           1 - 1                        barnsley                 24 january 1998
+7                           replay                        barnsley                           3 - 1               tottenham hotspur                 4 february 1998
+8                                7                 manchester city                           1 - 2                 west ham united                 25 january 1998
+9                                8                   coventry city                           2 - 0                    derby county                 24 january 1998
+10                               9               manchester united                           5 - 1                         walsall                 24 january 1998
+11                              10                  crystal palace                           3 - 0                  leicester city                 24 january 1998
+12                              11               huddersfield town                           0 - 1                       wimbledon                 24 january 1998
+13                              12                    cardiff city                           1 - 1                         reading                 24 january 1998
+14                          replay                         reading                           1 - 1                    cardiff city                 3 february 1998
+15  reading won 4 - 3 on penalties  reading won 4 - 3 on penalties  reading won 4 - 3 on penalties  reading won 4 - 3 on penalties  reading won 4 - 3 on penalties
+16                              13               charlton athletic                           1 - 1         wolverhampton wanderers                 24 january 1998
+17                          replay         wolverhampton wanderers                           3 - 0               charlton athletic                 3 february 1998
+18                              14                    leeds united                           2 - 0                    grimsby town                 24 january 1998
+19                              15                 birmingham city                           2 - 1                stockport county                 24 january 1998
+20                              16               stevenage borough                           1 - 1                newcastle united                 25 january 1998
+21                          replay                newcastle united                           2 - 1               stevenage borough                 4 february 1998

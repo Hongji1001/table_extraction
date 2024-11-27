@@ -1,0 +1,8 @@
+       continent                  structure height  year                 country
+0           asia               burj khalifa      -  2009    united arab emirates
+1         africa          nador transmitter      -  1972                 morocco
+2  north america             kvly - tv mast      -  1963           united states
+3  south america        gran torre santiago      -  2012                   chile
+4         europe         mercury city tower      -  2013                  russia
+5      australia   vlf transmitter woodside      -  1971               australia
+6        oceania  vlf transmitter lualualei      -  1972  united states (hawaii)

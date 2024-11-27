@@ -1,0 +1,6 @@
+  state       type    name  title royal house     from
+0   cao  sovereign   zhong   lord           -  1002 bc
+1    lu  sovereign  bo qin  ruler          ji  1043 bc
+2    lu  sovereign     kao   duke          ji   997 bc
+3    lu  sovereign    yang   duke          ji   993 bc
+4    qi  sovereign    ding   duke           -   999 bc

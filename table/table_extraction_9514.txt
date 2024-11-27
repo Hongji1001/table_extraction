@@ -1,0 +1,9 @@
+          school    mascot       location  enrollment ihsaa class ihsaa football class      county
+0     chesterton   trojans     chesterton        1986        aaaa                aaaaa   64 porter
+1    crown point  bulldogs    crown point        2532        aaaa                aaaaa     45 lake
+2        laporte   slicers        laporte        1839        aaaa                aaaaa  46 laporte
+3   lake central   indians     saint john        3225        aaaa                aaaaa     45 lake
+4   merrillville   pirates   merrillville        2396        aaaa                aaaaa     45 lake
+5  michigan city    wolves  michigan city        1909        aaaa                aaaaa  46 laporte
+6        portage   indians        portage        2668        aaaa                aaaaa   64 porter
+7     valparaiso   vikings     valparaiso        2114        aaaa                aaaaa   64 porter

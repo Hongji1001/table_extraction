@@ -1,0 +1,28 @@
+   ave - no                        name                            country   highest mountain  height (m)
+0        25                     rätikon  switzerland austria liechtenstein        schesaplana        2964
+1        26              silvretta alps                switzerland austria         piz linard        3411
+2        27                samnaun alps                austria switzerland            muttler        3294
+3        28                verwall alps                            austria      hoher riffler        3168
+4        29               sesvenna alps          switzerland italy austria       piz sesvenna        3204
+5        30                 ötztal alps                      austria italy         wildspitze        3768
+6        31                 stubai alps                      austria italy         zuckerhütl        3507
+7        32                sarntal alps                              italy             hirzer        2781
+8        33                    tux alps                            austria    lizumer reckner        2884
+9        34          kitzbühel alps (1)                            austria          kreuzjoch        2558
+10       35              zillertal alps                            austria         hochfeiler        3510
+11       36             venediger group                            austria      großvenediger        3666
+12       37          rieserferner group                      italy austria           hochgall        3436
+13       38        villgraten mountains                      austria italy       weiße spitze        2962
+14       39          granatspitze group                            austria   großer muntanitz        3232
+15       40              glockner group                            austria       großglockner        3798
+16       41               schober group                            austria            petzeck        3283
+17       42              goldberg group                            austria            hocharn        3254
+18       43              kreuzeck group                            austria  mölltaler polinik        2784
+19       44               ankogel group                            austria      hochalmspitze        3360
+20      45a             radstadt tauern                            austria            weißeck        2711
+21      45b           schladming tauern                            austria        hochgolling        2862
+22      45c  rottenmann and wölz tauern                            austria   rettlkirchspitze        2475
+23      45d               seckau tauern                            austria         geierhaupt        2417
+24      46a                gurktal alps                            austria           eisenhut        2441
+25      46b              lavanttal alps                   austria slovenia       zirbitzkogel        2396
+26       47     prealps east of the mur                            austria           stuhleck        1782

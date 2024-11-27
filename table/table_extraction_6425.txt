@@ -1,0 +1,21 @@
+                player    nationality          position  years for jazz    school / club team
+0          jeff malone  united states    shooting guard       1991 - 94     mississippi state
+1          karl malone  united states     power forward       1985 - 03        louisiana tech
+2        danny manning  united states     combo forward       2000 - 01                kansas
+3         pace mannion  united states   guard - forward       1984 - 86                  utah
+4        pete maravich  united states       point guard       1974 - 80                   lsu
+5     donyell marshall  united states           forward       2000 - 02           connecticut
+6      tony massenburg  united states           forward       2002 - 03              maryland
+7         keith mcleod  united states             guard       2004 - 06         bowling green
+8          jim mcelroy  united states             guard       1975 - 79      central michigan
+9       billy mckinney  united states             guard       1980 - 81          northwestern
+10     joe meriweather  united states  forward - center       1977 - 79     southern illinois
+11           c j miles  united states   guard - forward  2005 - present            skyline hs
+12         dick miller  united states           forward       1980 - 81                toledo
+13        paul millsap  united states     power forward     2006present        louisiana tech
+14         mikki moore  united states  forward - center       2003 - 04              nebraska
+15          otto moore  united states  forward - center       1974 - 77  texas - pan american
+16  darren morningstar  united states            center            1994            pittsburgh
+17        chris morris  united states     small forward       1995 - 98                auburn
+18          chris munk  united states           forward       1990 - 91                   usc
+19        eric murdock  united states             guard       1991 - 92            providence

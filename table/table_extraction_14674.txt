@@ -1,0 +1,11 @@
+               name      hometown  games  goals  assists  points  pen min
+0        doug hayes   long island     48    104      126     230       52
+1      paul suggate      maryland     48     92      127     219       71
+2        john davis      montreal     48     79      129     208       16
+3     ivan thompson        boston     46     91      116     207       45
+4      dave durante        quebec     48     89      117     206       22
+5      brian tasker      maryland     48     73      125     198       58
+6   john grant , sr  philadelphia     47     64      134     198       52
+7       terry lloyd  philadelphia     48    113       56     169       54
+8  jim j j johnston   long island     38     79       87     166       26
+9         jan magee   long island     47     57      103     160       49

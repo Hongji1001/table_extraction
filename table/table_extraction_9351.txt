@@ -1,0 +1,10 @@
+   year  class   team  points  rank  wins
+0  1989  125cc  honda    29.0    15     0
+1  1990  125cc  honda   113.0   5th     0
+2  1991  125cc  honda    81.0   8th     0
+3  1992  125cc  honda    91.0   6th     1
+4  1993  125cc  honda   280.0   1st     9
+5  1994  125cc  honda   162.0   4th     3
+6  1995  125cc  honda   124.5   5th     1
+7  1996  125cc  honda    81.0  13th     0
+8  1997  125cc  honda     8.0  25th     0

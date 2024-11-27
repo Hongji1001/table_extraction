@@ -1,0 +1,9 @@
+                    team  match  points  draw  lost
+0          górnik rybnik     14      23     1     2
+1         sparta wrocław     14      18     0     5
+2            unia leszno     14      16     0     6
+3  włókniarz częstochowa     14      16     0     6
+4      polonia bydgoszcz     14      14     2     6
+5         legia warszawa     14      13     1     7
+6           stal rzeszów     14       7     1    10
+7    stal świętochłowice     14       5     1    11

@@ -1,0 +1,27 @@
+                driver               constructor  laps                time / retired  grid
+0          alain prost             mclaren - tag    65                   1:18:10.436     3
+1     michele alboreto                   ferrari    64                       + 1 lap     6
+2      jacques laffite          ligier - renault    64                       + 1 lap    16
+3        nelson piquet             brabham - bmw    64                       + 1 lap     2
+4        derek warwick                   renault    64                       + 1 lap    12
+5           marc surer             brabham - bmw    63                      + 2 laps    15
+6       martin brundle         tyrrell - renault    63                      + 2 laps    20
+7       gerhard berger              arrows - bmw    63                      + 2 laps    17
+8     riccardo patrese                alfa romeo    62                      + 3 laps    14
+9         ayrton senna           lotus - renault    60  fuel injection , electronics     4
+10       stefan bellof            tyrrell - ford    59                      + 6 laps    26
+11          niki lauda             mclaren - tag    57                    electrical    10
+12     thierry boutsen              arrows - bmw    57                      spun off    19
+13   andrea de cesaris          ligier - renault    41                        clutch     7
+14   pierluigi martini  minardi - motori moderni    38                  transmission    23
+15     elio de angelis           lotus - renault    37                not classified     8
+16  manfred winkelhock                ram - hart    28                         turbo    18
+17        keke rosberg          williams - honda    21                       exhaust     1
+18       nigel mansell          williams - honda    17                        clutch     5
+19       eddie cheever                alfa romeo    17                         turbo    22
+20     jonathan palmer                  zakspeed     6                        engine    24
+21            teo fabi            toleman - hart     4                  transmission     9
+22    stefan johansson                   ferrari     1                      accident    11
+23      patrick tambay                   renault     0                     collision    13
+24     philippe alliot                ram - hart     0                      accident    21
+25  piercarlo ghinzani       osella - alfa romeo     0                      accident    25

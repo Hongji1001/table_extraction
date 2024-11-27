@@ -1,0 +1,33 @@
+                               network origin of programming   language    genre service
+0                             abp news                 india      hindi     news   pehla
+1                          ary digital              pakistan       urdu  general   pehla
+2                              asianet                 india  malayalam  general   pehla
+3                         asianet news                 india  malayalam     news   pehla
+4                        channel india                 india      hindi    music   pehla
+5                               colors                 india      hindi  general   pehla
+6                            gemini tv                 india     telugu  general   pehla
+7                               geo tv              pakistan       urdu  general   pehla
+8                               hum tv              pakistan       urdu  general   pehla
+9                         indus vision              pakistan       urdu  general   pehla
+10                             jaya tv                 india      tamil  general   pehla
+11                             kairali                 india  malayalam  general   pehla
+12                             life ok                 india      hindi  general   pehla
+13                           mtv india                 india      hindi    music   pehla
+14                           ndtv 24x7                 india    english     news   pehla
+15                             set max                 india      hindi   movies   pehla
+16  sony entertainment television asia                 india      hindi  general   pehla
+17                           star gold                 india      hindi   movies   pehla
+18                         star jalsha                 india    bengali  general   pehla
+19                           star plus                 india      hindi  general   pehla
+20                              sun tv                 india      tamil  general   pehla
+21                            surya tv                 india  malayalam  general   pehla
+22                         ten cricket                 india    english  cricket   pehla
+23                            udaya tv                 india    kannada  general   pehla
+24                               vijay                 india      tamil  general   pehla
+25                           times now                 india    english     news   pehla
+26                         utv bindass                 india      hindi  general   pehla
+27                          utv movies                 india      hindi   movies   pehla
+28                           utv stars                 india      hindi   movies   pehla
+29                          zee cinema                 india      hindi   movies   pehla
+30                            zee news                 india      hindi     news   pehla
+31                              zee tv                 india      hindi  general   pehla

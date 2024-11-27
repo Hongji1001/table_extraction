@@ -1,0 +1,10 @@
+  constituency number               name reserved for ( sc / st / none) district  number of electorates (2009)
+0                 212  nagada - khachrod                           none   ujjain                        162552
+1                 213           mahidpur                           none   ujjain                        150807
+2                 214             tarana                             sc   ujjain                        141812
+3                 215            ghatiya                             sc   ujjain                        157084
+4                 216       ujjain uttar                           none   ujjain                        165064
+5                 217     ujjain dakshin                           none   ujjain                        167463
+6                 218           badnagar                           none   ujjain                        150093
+7                 223               alot                             sc   ratlam                        157254
+8             total :            total :                        total :  total :                       1252129

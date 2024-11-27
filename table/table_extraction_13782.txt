@@ -1,0 +1,15 @@
+    game  december                 opponent  score       record
+0     25         1  california golden seals  3 - 3   15 - 7 - 3
+1     26         3           atlanta flames  3 - 2   16 - 7 - 3
+2     27         6           buffalo sabres  3 - 2   16 - 8 - 3
+3     28         9       new york islanders  4 - 1   17 - 8 - 3
+4     29        10       new york islanders  4 - 1   18 - 8 - 3
+5     30        13      toronto maple leafs  4 - 3   19 - 8 - 3
+6     31        14            boston bruins  4 - 2   19 - 9 - 3
+7     32        16    minnesota north stars  5 - 1  19 - 10 - 3
+8     33        17      pittsburgh penguins  9 - 1  20 - 10 - 3
+9     34        20           st louis blues  5 - 4  21 - 10 - 3
+10    35        21           atlanta flames  5 - 2  21 - 11 - 3
+11    36        24        detroit red wings  5 - 0  22 - 11 - 3
+12    37        27           buffalo sabres  4 - 1  22 - 12 - 3
+13    38        31           st louis blues  6 - 1  23 - 12 - 3

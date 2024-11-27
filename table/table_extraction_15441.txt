@@ -1,0 +1,12 @@
+                      club league / division                   home ground                      location               position in 2012 - 13
+0                 sai kung   fourth division                         n / a                         n / a               7th , fourth division
+1         sai kung friends   fourth division                         n / a                         n / a               5th , fourth division
+2             sham shui po    third division                         n / a                         n / a  11th , second division (relegated)
+3                   shatin   second division  ma on shan recreation ground  ma on shan , new territories               7th , second division
+4                    solon   fourth division                         n / a                         n / a               9th , fourth division
+5              south china    first division             hong kong stadium  so kon po , hong kong island                1st , first division
+6                 southern    first division        aberdeen sports ground   aberdeen , hong kong island                4th , first division
+7             st joseph 's   fourth division                         n / a                         n / a               6th , fourth division
+8   sunray cave jc sun hei    first division        tsing yi sports ground    tsing yi , new territories                7th , first division
+9              sun pegasus    first division              mong kok stadium            mong kok , kowloon                5th , first division
+10              sun source    third division                         n / a                         n / a    4th , fourth division (promoted)

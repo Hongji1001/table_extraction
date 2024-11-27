@@ -1,0 +1,35 @@
+                  artist                           country                  number - one single (s)  year  weeks at 1 straight to 1 
+0            m , mélissa                            france                                     elle  2007           1            yes
+1                 madcon                            norway                                  beggin'  2008           7             no
+2     mad stuntman , the               trinidad and tobago                      i like to move it 1  1994           5             no
+3                madonna                     united states                           la isla bonita  1986           3             no
+4                madonna                     united states               don't cry for me argentina  1997           4             no
+5                madonna                     united states                                  hung up  2005           5             no
+6           magic system                       ivory coast                     même pas fatigué !!!  2009           7            yes
+7       maé , christophe                            france                             on s'attache  2007           1            yes
+8       maé , christophe                            france                 dingue , dingue , dingue  2010           3            yes
+9                   maná                            mexico                             baila morena  2006           4             no
+10                 manau                            france                         la tribu de dana  1998          12             no
+11                 manau                            france                  mais qui est la belette  1999           1             no
+12    marocco , cristina                            france                         j'ai tout oublié  2002           2             no
+13        martin , ricky                       puerto rico                                    maría  1997           9             no
+14        martin , ricky                       puerto rico                       la copa de la vida  1998           6             no
+15          mas , jeanne                            france                          johnny , johnny  1985           4             no
+16          mas , jeanne                            france                         en rouge et noir  1985           2             no
+17       matador , jessy  democratic republic of the congo                            allez ola olé  2010           5             no
+18         maya , edward                           romania                              stereo love  2009           4             no
+19  mc miker g & dj sven                       netherlands                              holiday rap  1986           2             no
+20             mc solaar                            france                           hasta la vista  2001           5             no
+21             mc solaar                            france                               inch'allah  2002           4             no
+22                mecano                             spain                 une femme avec une femme  1990           7             no
+23      medeiros , glenn                     united states  nothing 's gonna change my love for you  1988           8             no
+24      medeiros , glenn                     united states                        un roman d'amitié  1988           6             no
+25     mercury , freddie                    united kingdom                         living on my own  1993          15            yes
+26      michael , george                    united kingdom          don't let the sun go down on me  1991           7             no
+27                  mika                    united kingdom                     relax , take it easy  2007           2             no
+28        miles , robert               switzerland , italy                                 children  1996          11             no
+29       minogue , kylie                         australia             can't get you out of my head  2001           1             no
+30      mitrecey , ilona                            france                         un monde parfait  2005          15             no
+31                  moby                     united states             slipping away (crier la vie)  2006           1            yes
+32        modena , diego                            france                          song of ocarina  1991           2             no
+33                  moos                            france                        au nom de la rose  1999           9             no

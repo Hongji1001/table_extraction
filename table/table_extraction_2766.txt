@@ -1,0 +1,20 @@
+                   player  group legs won  play - off legs won  winners group legs won  winners play - off legs won  final position money won  total money won
+0             mervyn king             100                   20                      23                            1                      2500            11900
+1             phil taylor              71                   22                      42                           10                      5000            17550
+2            adrian lewis             160                    6                      28                            0                         0            11400
+3             alan tabern              87                    4                       0                            0                         0             4750
+4             colin lloyd             114                    0                       0                            0                         0             6200
+5              mark walsh             108                   21                      28                            0                         0            10300
+6              james wade              41                   12                      24                            2                      2500             8550
+7   vincent van der voort              54                    8                       0                            0                         0             3500
+8           colin osborne              95                   10                      37                           12                     10000            21850
+9         robert thornton              30                    0                       0                            0                         0             1500
+10          andy hamilton              26                    0                       0                            0                         0             1300
+11       dennis priestley              24                    0                       0                            0                         0             1200
+12              john part              22                    0                       0                            0                         0             1100
+13          ronnie baxter              21                    0                       0                            0                         0             1050
+14         mark dudbridge              41                    3                       0                            0                         0             2350
+15           wayne mardle              36                   12                      20                            0                         0             5000
+16            denis ovens              64                    0                       0                            0                         0             3200
+17           peter manley              27                    0                       0                            0                         0             1350
+18          kevin painter              61                   10                       0                            0                         0             4050

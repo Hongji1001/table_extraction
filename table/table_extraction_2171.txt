@@ -1,0 +1,6 @@
+                 school  location                                    catchment  roll gender         external link
+0      arbroath academy  arbroath  north - east arbroath and surrounding areas   630  mixed      arbroath academy
+1  arbroath high school  arbroath    west arbroath and surrounding rural areas  1015  mixed  arbroath high school
+2   brechin high school   brechin          brechin and surrounding rural areas   625  mixed   brechin high school
+3        forfar academy    forfar                       forfar and rural areas  1057  mixed  no website available
+4      montrose academy  montrose                montrose and surrounding area   911  mixed      montrose academy

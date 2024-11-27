@@ -1,0 +1,17 @@
+    draw          language                   artist                             song          english translation  place  points
+0      1           english           ronnie carroll             say wonderful things                            -      4      28
+1      2             dutch             annie palmen                    een speeldoos                a musical box     13       0
+2      3            german              heidi brühl                           marcel                            -      9       5
+3      4  german , english           carmela corren  vielleicht geschieht ein wunder  maybe a miracle will happen      7      16
+4      5         norwegian           anita thallaug                         solhverv                     solstice     13       0
+5      6           italian          emilio pericoli                    uno per tutte                  one for all      3      37
+6      7           finnish              laila halme                 muistojeni laulu      the song of my memories     13       0
+7      8            danish  grethe & jørgen ingmann                        dansevise                 dance ballad      1      42
+8      9          croatian               vice vukov                          brodovi                        ships     11       3
+9     10            french            esther ofarim                      t'en va pas                don't go away      2      40
+10    11            french           alain barrière              elle était si jolie            she was so pretty      5      25
+11    12           spanish           josé guardiola                  algo prodigioso         something marvellous     12       2
+12    13           swedish        monica zetterlund              en gång i stockholm            once in stockholm     13       0
+13    14             dutch          jacques raymond                           waarom                          why     10       4
+14    15            french          françoise hardy                  l'amour s'en va               love goes away      5      25
+15    16            french           nana mouskouri                 à force de prier       by the might of prayer      8      13

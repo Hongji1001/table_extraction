@@ -1,0 +1,11 @@
+                        name                      years  matches  goals                                      clubs
+0              arsenio erico                  1934 - 47      332    293                              independiente
+1              angel labruna                  1939 - 59      515    293                                river plate
+2        herminio masantonio                  1931 - 45      358    256                         huracán , banfield
+3          manuel pellegrina                  1938 - 56      490    231                      estudiantes , huracán
+4             martín palermo  1991 - 2000 , 2004 - 2011      410    227     estudiantes de la plata , boca juniors
+5  josé francisco sanfilippo   1953 - 63 , 66 - 67 , 72      330    226                 san lorenzo , boca juniors
+6            ricardo infante                  1942 - 61      439    217  estudiantes , huracán , gimnasia la plata
+7                  oscar más   1964 - 77 , 79 , 82 , 85      429    215                                river plate
+8           bernabé ferreyra                  1931 - 39      197    206                        tigre , river plate
+9             carlos bianchi      1967 - 72 , 1980 - 84      324    206                            vélez sársfield

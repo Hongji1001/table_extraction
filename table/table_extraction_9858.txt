@@ -1,0 +1,13 @@
+            date                      city      opponent results         type of game
+0    february 13       frankfurt , germany         spain     1:0   wc 1974 qualifying
+1       april 17                    zenica          ussr     0:1             friendly
+2         may 29  szekesfehervar , hungary       hungary     2:3             friendly
+3         june 5                  belgrade       england     2:2             friendly
+4        june 13      düsseldorf , germany        brazil     0:0           wc round 1
+5        june 18   gelsenkirchen , germany         zaire     9:0           wc round 1
+6        june 22       frankfurt , germany      scotland     1:1           wc round 1
+7        june 26      düsseldorf , germany  west germany     0:2           wc round 2
+8        june 30       frankfurt , germany        poland     1:2           wc round 2
+9         july 3      düsseldorf , germany        sweden     1:2           wc round 2
+10  september 28                    zagreb         italy     1:0             friendly
+11    october 30                  belgrade        norway     3:1  euro '76 qualifying

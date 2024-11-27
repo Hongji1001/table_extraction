@@ -1,0 +1,11 @@
+                 team                    stadium  capacity  highest  lowest  average
+0           east fife            bayview stadium      2000     1300     540      769
+1            arbroath              gayfield park      6488      959     421      611
+2            montrose                 links park      3292     1470     321      597
+3           dumbarton  strathclyde homes stadium      2025      907     258      559
+4          elgin city             borough briggs      3927      624     301      471
+5       stenhousemuir             ochilview park      3776      755     212      414
+6     forfar athletic               station park      5177      615     270      410
+7  east stirlingshire                  firs park      1800      791     235      377
+8       albion rovers                cliftonhill      1249      512     186      307
+9           stranraer                 stair park      5600      487     117      255

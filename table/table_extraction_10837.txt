@@ -1,0 +1,15 @@
+    round  pick  overall               name          position                   college
+0       2    13       39          greg marx     defensive end                notre dame
+1       4    16       94       tom geredine     wide receiver  northeast missouri state
+2       6    12      142        nick bebout  offensive tackle                   wyoming
+3       7    14      170    george campbell    defensive back                iowa state
+4       8    13      195           tom reed             guard                  arkansas
+5       9    12      220        russ ingram            center                texas tech
+6      10    14      248  nick mike - mayer            kicker                    temple
+7      11    13      273       byron buelow    defensive back        wisconsinla crosse
+8      12    12      298       mike samples        linebacker                     drake
+9      13    14      326      chris stecher  offensive tackle         claremont mckenna
+10     14    13      351        john madeya       quarterback                louisville
+11     15    12      376        thomas gage    defensive back                     lamar
+12     16    14      404     rufus ferguson      running back                 wisconsin
+13     17    12      428          jim hedge     wide receiver                  arkansas

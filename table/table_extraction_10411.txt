@@ -1,0 +1,24 @@
+    round  pick           player          position              school
+0       1    14        earl gros      running back                 lsu
+1       2    28        ed blaine             guard            missouri
+2       3    41      gary barnes     wide receiver             clemson
+3       4    56      ron gassert  defensive tackle            virginia
+4       5    65     chuck morris              back            ole miss
+5       5    70       jon schopf             guard            michigan
+6       6    79       john sutro            tackle      san jose state
+7       6    84    oscar donahue               end      san jose state
+8       7    98   gary cutsinger            tackle      oklahoma state
+9       8   112       jim tullis              back         florida a&m
+10      9   126    peter schenck              back    washington state
+11     10   140     gale weidner       quarterback            colorado
+12     11   154       jim thrush            tackle              xavier
+13     12   158       joe thorne              back  south dakota state
+14     12   168   tom pennington              back             georgia
+15     13   182       tom kepner            tackle           villanova
+16     14   196      ernie green              back          louisville
+17     15   210  roger holdinsky              back       west virginia
+18     16   224      jimmy field              back                 lsu
+19     17   238    buck buchanan            tackle           grambling
+20     18   252       bob joiner       quarterback        presbyterian
+21     19   266   jerry scattini          halfback          california
+22     20   280   mike snodgrass            center    western michigan

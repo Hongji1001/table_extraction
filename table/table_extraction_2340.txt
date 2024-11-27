@@ -1,0 +1,10 @@
+   year network     race caller                     s host                         s analyst                                          reporters          trophy presentation
+0  1989     abc    dave johnson  jim mckay and al michaels  charlsie cantey and dave johnson                       jack whitaker and lynn swann                    jim mckay
+1  1988     abc    dave johnson  jim mckay and al michaels  charlsie cantey and dave johnson                       jack whitaker and lynn swann                    jim mckay
+2  1987     abc    dave johnson  jim mckay and al michaels  charlsie cantey and dave johnson                       jack whitaker and lynn swann                    jim mckay
+3  1986     abc  mike battaglia  jim mckay and al michaels  charlsie cantey and bill hartack                       jack whitaker and lynn swann                    jim mckay
+4  1985     abc  mike battaglia                  jim mckay                      bill hartack                    howard cosell and jack whitaker                    jim mckay
+5  1984     abc  mike battaglia                  jim mckay                      bill hartack                    howard cosell and jack whitaker                    jim mckay
+6  1983     abc  mike battaglia                  jim mckay                      bill hartack  howard cosell , frank gifford , and jack whitaker                    jim mckay
+7  1982     abc  mike battaglia                  jim mckay                     john m veitch                    howard cosell and jack whitaker                    jim mckay
+8  1981     abc  mike battaglia                  jim mckay                      eddie arcaro                                      howard cosell  jim mckay and howard cosell

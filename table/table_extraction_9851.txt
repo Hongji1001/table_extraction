@@ -1,0 +1,7 @@
+           date                 city        opponent results         type of game
+0      march 31  bruxelles , belgium         belgium     1:0  euro '64 qualifying
+1       june 19             belgrade          sweden     0:0  euro '64 qualifying
+2  september 18       malmö , sweden          sweden     2:3  euro '64 qualifying
+3     october 6             belgrade         hungary     2:0             friendly
+4    october 27   bucarest , romania         romania     1:2             friendly
+5    november 3               zagreb  czechoslovakia     2:0             friendly

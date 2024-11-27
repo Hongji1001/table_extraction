@@ -1,0 +1,8 @@
+          player        country        year (s) won  total to par finish
+0  jack nicklaus  united states  1962 , 1967 , 1972    282    - 2     t4
+1  arnold palmer  united states                1960    282    - 2     t4
+2    lee trevino  united states         1968 , 1971    282    - 2     t4
+3   julius boros  united states         1952 , 1963    283    - 1     t7
+4    gary player   south africa                1965    287    + 3     12
+5   gene littler  united states                1961    291    + 7    t18
+6   tony jacklin        england                1970    300   + 16    t52

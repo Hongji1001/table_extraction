@@ -1,0 +1,14 @@
+                  name pos       height weight   date of birth               club
+0      whynter lamarre  gk   m (ft 8in)      -  1979 - 01 - 14                ddo
+1       rachel riddell  gk   m (ft 0in)      -  1984 - 09 - 05      pacific storm
+2      marianne illing   d   m (ft 9in)      -  1974 - 02 - 12      ottawa titans
+3       susan gardiner  cf   m (ft 3in)      -  1980 - 04 - 13      pacific storm
+4         andrea dewar  cf  m (ft 10in)      -  1979 - 07 - 09                ddo
+5      marie luc arpin   d   m (ft 8in)      -  1978 - 07 - 04       sainte - foy
+6        cora campbell   d  m (ft 10in)      -  1974 - 05 - 28  calgary renegades
+7      melissa collins   d   m (ft 5in)      -  1976 - 09 - 25                ddo
+8              ann dow  cb   m (ft 5in)      -  1971 - 05 - 01               camo
+9           jana salat  cb   m (ft 9in)      -  1979 - 04 - 06       sainte - foy
+10      valérie dionne   d   m (ft 8in)      -  1980 - 07 - 29       sainte - foy
+11  christine robinson  cf  m (ft 11in)      -  1984 - 05 - 17                ddo
+12       johanne bégin  cf  m (ft 11in)      -  1971 - 10 - 21       sainte - foy

@@ -1,0 +1,8 @@
+      position                              name                school unanimous                       college hall of fame
+0         ends      bennie oosterbaan mike tully    michigan dartmouth     no no                  oosterbaan hof profile no
+1      tackles               ed weir ralph chase   nebraska pittsburgh    yes no                        weir hof profile no
+2       guards                carl diehl ed hess  dartmouth ohio state     no no                                      no no
+3       center                 edward l mcmillan             princeton        no                                         no
+4  quarterback                    benny friedman              michigan        no                       friedman hof profile
+5    halfbacks  andy swede oberlander red grange    dartmouth illinois    yes no  oberlander hof profile grange hof profile
+6     fullback              ernie big dog nevers              stanford        no                         nevers hof profile

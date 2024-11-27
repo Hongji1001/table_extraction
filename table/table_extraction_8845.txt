@@ -1,0 +1,9 @@
+                        club league       sport                        venue  established
+0        zenit st petersburg   rfpl    football            petrovsky stadium         1926
+1      spartak st petersburg    pbl  basketball      yubileyny sports palace         1935
+2  avtomobilist st petesburg    vsl  volleyball  platonov volleyball academy         1935
+3          ska st petersburg    khl  ice hockey                   ice palace         1946
+4     politekh st petersburg   mfsl      futsal        kalinin district mfok         1995
+5   petrotrest st petersburg    fnl    football                msa petrovsky         2001
+6   ska - 1946 st petersburg    mhl  ice hockey                msa yubileyny         2009
+7            serebryanye lvy    mhl  ice hockey           spartak ice palace         2010

@@ -1,0 +1,21 @@
+                       clubs position 2010 - 11                region                         stadium  capacity
+0                  samtredia      umaglesi liga               imereti       erosi manjgaladze stadium     15000
+1         chikhura sachkhere                  4               imereti    tsentral stadium (sachkhere)      2000
+2              dinamo batumi                  5                adjara                  batumi stadium     30000
+3           guria lanchkhuti                  6                 guria    evgrapi shevardnadze stadium     22000
+4             kolkheti khobi                  7             samegrelo        tsentral stadium (khobi)     12000
+5              imereti khoni                  8               imereti        tsentral stadium (khoni)      2000
+6          meshakhte tkibuli                  9               imereti  vladimer bochorishvili stadium     11700
+7   norchi dinamoeli tbilisi                 10               tbilisi       sport - kompleksi shatili      2000
+8     chkherimela kharagauli                 11               imereti              kharagauli stadium      6000
+9               adeli batumi                 12                adjara       tsentral stadium (batumi)     15000
+10       mertskhali ozurgeti                 13                 guria               megobroba stadium      3500
+11      samgurali tskhaltubo                 14               imereti                  26 may stadium     12000
+12         skuri tsalenjikha                 15             samegrelo     sasha kvaratskhelia stadium      4000
+13        chiatura sachkhere                 16               imereti         temur maghradze stadium     11700
+14        lokomotivi tbilisi                 17               tbilisi          mikheil meskhi stadium     24680
+15               sulori vani         meore liga               imereti    grigol nikoleishvili stadium      2500
+16               stu tbilisi         meore liga               tbilisi       sport - kompleksi shatili      2000
+17      meskheri akhaltsikhe         meore liga  samtskhe - javakheti  tsentral stadium (akhaltsikhe)      4000
+18              aeti sokhumi         meore liga              abkhazia       sport - kompleksi shatili      2000
+19           zooveti tbilisi         meore liga               tbilisi      sportis akademiis stadioni      1000

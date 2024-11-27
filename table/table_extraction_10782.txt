@@ -1,0 +1,14 @@
+                            round                           pick                         player                       position                        college
+0                               1                             14                 chris williams                             ot                     vanderbilt
+1                               2                             44                     matt forte                             rb                         tulane
+2                               3                             70                   earl bennett                             wr                     vanderbilt
+3                               3                             90                marcus harrison                             dt                       arkansas
+4                               4                            120                   craig steltz                              s                            lsu
+5                               5                            142                    zack bowman                             cb                       nebraska
+6                               5                            158                   kellen davis                             te                 michigan state
+7                               7                            208                  ervin baldwin                             de                 michigan state
+8                               7                            222                  chester adams                             og                        georgia
+9                               7                            243                  joey larocque                             lb                   oregon state
+10                              7                            247                    kirk barton                             ot                     ohio state
+11                              7                            248                    marcus monk                             wr                       arkansas
+12  according to official website  according to official website  according to official website  according to official website  according to official website

@@ -1,0 +1,31 @@
+               city province / region country iata  icao                           airport
+0       hachijōjima             kantō   japan  hac  rjth               hachijojima airport
+1        miyakejima             kantō   japan  mye  rjtq                miyakejima airport
+2            ōshima             kantō   japan  oim  rjto                    oshima airport
+3           komatsu             chūbu   japan  kmq  rjnk                   komatsu airport
+4           niigata             chūbu   japan  kij  rjsn                   niigata airport
+5          shizouka             chūbu   japan  fsz  rjns                  shizuoka airport
+6            toyama             chūbu   japan  toy  rjnt                    toyama airport
+7            wajima             chūbu   japan  ntq  rjnw                      noto airport
+8              kobe            kansai   japan  ukb  rjbe                      kobe airport
+9         hiroshima           chūgoku   japan  hij  rjoa                 hiroshima airport
+10          iwakuni           chūgoku   japan  iwk  rjoi  marine corps air station iwakuni
+11          okayama           chūgoku   japan  okj  rjob                   okayama airport
+12      ōnan / hagi           chūgoku   japan  iwj  rjow                     iwami airport
+13          tottori           chūgoku   japan  ttj  rjor                   tottori airport
+14           yonago           chūgoku   japan  ygj  rjoh             miho - yonago airport
+15  yamaguchi - ube           chūgoku   japan  ubj  rjdc             yamaguchi ube airport
+16            akita            tōhoku   japan  axt  rjsk                     akita airport
+17        fukushima            tōhoku   japan  fks  rjsf                 fukushima airport
+18            odate            tōhoku   japan  onj  rjsr           odate - noshiro airport
+19           sendai            tōhoku   japan  sdj  rjss                    sendai airport
+20           shōnai            tōhoku   japan  syo  rjsy                    shonai airport
+21        asahikawa          hokkaidō   japan  akj  rjec                 asahikawa airport
+22         hakodate          hokkaidō   japan  hkd  rjch                  hakodate airport
+23          kushiro          hokkaidō   japan  kuh  rjck                   kushiro airport
+24         monbetsu          hokkaidō   japan  mbe  rjeb                  monbetsu airport
+25     nakashibetsu          hokkaidō   japan  shb  rjcn              nakashibetsu airport
+26            ōzora          hokkaidō   japan  mmb  rjcm                memanbetsu airport
+27   rishiri island          hokkaidō   japan  ris  rjer                   rishiri airport
+28          sapporo          hokkaidō   japan  cts  rjcc               new chitose airport
+29         wakkanai          hokkaidō   japan  wkj  rjcw                  wakkanai airport

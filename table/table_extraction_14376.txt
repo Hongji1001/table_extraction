@@ -1,0 +1,11 @@
+                         circuit               city / state       date           winner                    team
+0       mallala motor sport park  mallala , south australia      7 may  mark mclaughlin       elfin sports cars
+1       mallala motor sport park  mallala , south australia      7 may     rohan onslow      rjmacarthur onslow
+2           winton motor raceway         benalla , victoria     4 june     rohan onslow      rjmacarthur onslow
+3           winton motor raceway         benalla , victoria     4 june      john briggs             john briggs
+4              oran park raceway   sydney , new south wales   4 august     rohan onslow      rjmacarthur onslow
+5              oran park raceway   sydney , new south wales   4 august     rohan onslow      rjmacarthur onslow
+6                    amaroo park   sydney , new south wales  20 august    neil crompton           boylan racing
+7                    amaroo park   sydney , new south wales  20 august       simon kane  clive kane photography
+8  sandown international raceway       melbourne , victoria  9 october       sam astuti     cascone corporation
+9  sandown international raceway       melbourne , victoria  9 october    neil crompton           boylan racing

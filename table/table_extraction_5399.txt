@@ -1,0 +1,31 @@
+    pick                   player    nationality position                                league from
+0    182               erik haula        finland       lw                           midget major aaa
+1    183          kirill gotovets        belarus        d                           midget major aaa
+2    184                gus young  united states        d  united states high school - massachusetts
+3    185              levko koper         canada       lw                                        whl
+4    186             jordan nolan         canada        c                                        ohl
+5    187           steven anthony         canada       lw                                      qmjhl
+6    188             barron smith  united states        d                                        ohl
+7    189          marek viedensky       slovakia        c                                        whl
+8    190               brad peltz  united states       lw    united states high school - connecticut
+9    191             michael sdao  united states        d                                       ushl
+10   192                nic rusak         canada        c                                       bchl
+11   193          anthony hamburg  united states        c                                        ehl
+12   194           maxime legault         canada       rw                                      qmjhl
+13   195            paul phillips  united states        d                                       ushl
+14   196         oliver lauridsen        denmark        d                                       wcha
+15   197              kyle neuber         canada       rw                                        ohl
+16   198                 nic dowd  united states        c               north american hockey league
+17   199            michael cichy  united states        c                                       ushl
+18   200          mikhail pashnin         russia        d                       russian major league
+19   201         gaelan patterson         canada        c                                        whl
+20   202            maxwell tardy  united states        c      united states high school - minnesota
+21   203  jordan samuels - thomas  united states       lw                                       ushl
+22   204             curtis gedig         canada        d                                       bchl
+23   205        benjamin casavant         canada       lw                                      qmjhl
+24   206               ben sexton         canada        c                                       cchl
+25   207           dominik bielke        germany        d          deutsche eishockey liga (germany)
+26   208            tommi kivisto        finland        d                                        whl
+27   209            david gilbert         canada        c                                      qmjhl
+28   210            adam almqvist         sweden        d                     j20 superelit (sweden)
+29   211           petteri simila        finland        g                  jr a sm - liiga (finland)

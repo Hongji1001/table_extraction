@@ -1,0 +1,20 @@
+    week          date      opponent              location final score attendance  record
+0      1       june 27  blue bombers    canad inns stadium   w 23 - 16      26155   1 - 0
+1      2        july 3  tiger - cats         rogers centre   l 32 - 13      30822   1 - 1
+2      3       july 10       eskimos  commonwealth stadium   l 47 - 28      31707   1 - 2
+3      4       july 20       eskimos         rogers centre   w 35 - 31      28522   2 - 2
+4      5       july 27   roughriders        mosaic stadium   l 28 - 22      28800   2 - 3
+5      6      august 1  blue bombers         rogers centre   w 19 - 11      28523   3 - 3
+6      7      august 7  tiger - cats    ivor wynne stadium   l 45 - 21      19423   3 - 4
+7      8     august 15     alouettes         rogers centre   l 32 - 14      30521   3 - 5
+8      9             -             -                     -           -          -     NaN
+9     10   september 1  tiger - cats    ivor wynne stadium   w 34 - 31      25911   4 - 5
+10    11   september 7     alouettes        molson stadium   l 45 - 19      20202   4 - 6
+11    12  september 12  blue bombers         rogers centre    l 39 - 9      28453   4 - 7
+12    13  september 20    stampeders       mcmahon stadium    l 34 - 4      33135   4 - 8
+13    14  september 27    stampeders         rogers centre   l 44 - 16      28672   4 - 9
+14    15     october 3         lions         rogers centre   l 24 - 20      28273  4 - 10
+15    16    october 10  blue bombers    canad inns stadium   l 25 - 16      27268  4 - 11
+16    17    october 18     alouettes         rogers centre   l 43 - 34      30262  4 - 12
+17    18    october 25         lions      bc place stadium   l 55 - 32      35994  4 - 13
+18    19    october 30   roughriders         rogers centre   l 45 - 38      28654  4 - 14

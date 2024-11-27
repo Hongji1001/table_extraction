@@ -1,0 +1,11 @@
+                    artist        country            number - one single (s)  year  weeks at 1 straight to 1 
+0              ace of base         sweden                       happy nation  1993           4             no
+1            adams , bryan         canada  (everything i do) i do it for you  1991           8             no
+2            adams , bryan         canada                  please forgive me  1993           2             no
+3                   alizée         france                            l'alizé  2000           2             no
+4                    amine        morocco                          j'voulais  2006           4            yes
+5          antonn , kareen         france            si demain (turn around)  2004          10             no
+6                     aqua        denmark                        barbie girl  1997           1             no
+7  audin , jean - philippe         france                    song of ocarina  1991           2             no
+8                avalanche         norway            johnny johnny come home  1989           8             no
+9                 aventura  united states                           obsesión  2004           7             no

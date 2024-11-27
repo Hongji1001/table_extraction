@@ -1,0 +1,9 @@
+              player  position starter  touchdowns  extra points  field goals  points
+0  albert herrnstein  halfback     yes           5             0            0      25
+1     james lawrence  fullback     yes           2             7            0      17
+2      willie heston  halfback     yes           2             0            0      10
+3             palmer    tackle     yes           2             0            0      10
+4        dan mcgugin     guard     yes           2             0            0      10
+5         paul jones  fullback      no           1             0            0       5
+6        joe maddock    tackle     yes           1             0            0       5
+7    everett sweeley       end     yes           0             4            0       4

@@ -1,0 +1,28 @@
+                driver          constructor  laps time / retired  grid
+0          alain prost        mclaren - tag    71    1:37:21.468     1
+1           niki lauda        mclaren - tag    71       + 10.283     6
+2        nigel mansell      lotus - renault    71     + 1:19.544    12
+3      elio de angelis      lotus - renault    70        + 1 lap     3
+4             teo fabi        brabham - bmw    70        + 1 lap    10
+5       patrick tambay              renault    70        + 1 lap     5
+6    françois hesnault     ligier - renault    69       + 2 laps    20
+7         keke rosberg     williams - honda    68    out of fuel     7
+8      jonathan palmer           ram - hart    67       + 4 laps    22
+9      philippe alliot           ram - hart    67       + 4 laps    26
+10         rené arnoux              ferrari    66     electrical    15
+11          jo gartner  osella - alfa romeo    66       + 5 laps    23
+12       eddie cheever           alfa romeo    65    out of fuel    17
+13       stefan bellof       tyrrell - ford    69   disqualified    24
+14    stefan johansson       tyrrell - ford    69   disqualified    25
+15     thierry boutsen         arrows - bmw    59       accident    11
+16   huub rothengatter        spirit - hart    53       throttle    27
+17    riccardo patrese           alfa romeo    51         engine    18
+18   andrea de cesaris     ligier - renault    31         engine    14
+19     jacques laffite     williams - honda    23         engine     8
+20       derek warwick              renault    23       spun off     4
+21  manfred winkelhock            ats - bmw    22       spun off    16
+22        ayrton senna       toleman - hart    19         engine    13
+23          marc surer         arrows - bmw    17          wheel    19
+24       nelson piquet        brabham - bmw    10   oil pressure     2
+25  piercarlo ghinzani  osella - alfa romeo     8      fuel pump    21
+26    michele alboreto              ferrari     7         engine     9

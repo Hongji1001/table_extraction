@@ -1,0 +1,8 @@
+       district         incumbent       party  elected                               status
+0  california 1   john all barham  republican     1894                         re - elected
+1  california 2   marion de vries  democratic     1896                         re - elected
+2  california 3  samuel g hilborn  republican     1894  defeated in primary republican hold
+3  california 4   james g maguire  democratic     1892     ran for governor republican gain
+4  california 5     eugene f loud  republican     1890                         re - elected
+5  california 6  charles a barlow    populist     1900   lost re - election republican gain
+6  california 7   curtis h castle    populist     1896   lost re - election republican gain

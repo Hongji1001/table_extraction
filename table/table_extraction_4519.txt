@@ -1,0 +1,32 @@
+     region                              host                                                  venue             city           state
+0      east       western kentucky university                                        ea diddle arena    bowling green        kentucky
+1      east          james madison university            james madison university convocation center     harrisonburg        virginia
+2      east         university of connecticut                               hugh s greer field house           storrs     connecticut
+3      east             vanderbilt university             memorial gymnasium (vanderbilt university)        nashville       tennessee
+4      east           university of tennessee                                thompson - boling arena        knoxville       tennessee
+5      east             ohio state university                                          st john arena         columbus            ohio
+6      east                  long beach state                             university gym (gold mine)       long beach      california
+7      east            university of virginia               university hall (university of virginia)  charlottesville        virginia
+8   mideast             university of georgia                   georgia coliseum (stegeman coliseum)           athens         georgia
+9   mideast                rutgers university                            louis brown athletic center       piscataway      new jersey
+10  mideast           old dominion university                     old dominion university fieldhouse          norfolk        virginia
+11  mideast                 temple university                                         mcgonigle hall     philadelphia    pennsylvania
+12  mideast   north carolina state university                                      reynolds coliseum          raleigh  north carolina
+13  mideast         university of mississippi                                     tad smith coliseum       university     mississippi
+14  mideast                 auburn university  memorial coliseum (beard - eaves - memorial coliseum)           auburn         alabama
+15  mideast                clemson university                                    littlejohn coliseum          clemson  south carolina
+16  midwest      university of south carolina                                      carolina coliseum         columbia  south carolina
+17  midwest         oklahoma state university                                  gallagher - iba arena       stillwater        oklahoma
+18  midwest         illinois state university                                          redbird arena           normal        illinois
+19  midwest                 purdue university                                           mackey arena   west lafayette         indiana
+20  midwest         louisiana tech university                                 thomas assembly center           ruston       louisiana
+21  midwest                university of iowa                                 carver - hawkeye arena        iowa city         indiana
+22  midwest               stanford university                                        maples pavilion         stanford      california
+23     west             university of montana                                         dahlberg arena         missoula         montana
+24     west          university of washington                                 hec edmundson pavilion          seattle      washington
+25     west  university of nevada , las vegas                                              south gym        las vegas          nevada
+26     west    bowling green state university                                         anderson arena    bowling green            ohio
+27     west            university of maryland                                       cole field house     college park        maryland
+28     west               university of texas                                     frank erwin center           austin           texas
+29     west            university of colorado                 cu events center (coors events center)          boulder        colorado
+30     west       stephen f austin university                             william r johnson coliseum      nacogdoches           texas

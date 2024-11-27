@@ -1,0 +1,31 @@
+    pick               player     nationality position                             team from                              league from
+0     62       anders nilsson          sweden        g                              luleå hf                   j20 superelit (sweden)
+1     63         ben hanowski   united states       rw  little falls , minnesota high school    united states high school - minnesota
+2     64         tyson barrie          canada        d                       kelowna rockets                    western hockey league
+3     65      joonas nattinen         finland        c                           espoo blues                jr a sm - liiga (finland)
+4     66       brayden mcnabb          canada        d                          kootenay ice                    western hockey league
+5     67        josh birkholz   united states       rw                           fargo force              united states hockey league
+6     68         jamie devane          canada       lw                      plymouth whalers                    ontario hockey league
+7     69         reilly smith          canada       rw                 st michael 's buzzers             ontario junior hockey league
+8     70          taylor beck          canada       lw                          guelph storm                    ontario hockey league
+9     71         troy hesketh   united states        d                minnetonka high school    united states high school - minnesota
+10    72        michael latta          canada        c                          guelph storm                    ontario hockey league
+11    73      alexander urbom          sweden        d              djurgårdens if stockholm                      elitserien (sweden)
+12    74           ryan howse          canada       lw                     chilliwack bruins                    western hockey league
+13    75     andrej nestrasil  czech republic   c / rw                  victoriaville tigres        quebec major junior hockey league
+14    76          igor bobkov          russia        g                metallurg magnitogorsk              russian hockey first league
+15    77      matthew hackett          canada        g                      plymouth whalers                    ontario hockey league
+16    78      sergei andronov          russia       rw                        lada togliatti       kontinental hockey league (russia)
+17    79          mac bennett   united states        d                      hotchkiss school  united states high school - connecticut
+18    80         ryan bourque   united states        c  us national team development program              united states hockey league
+19    81        adam morrison          canada        g                      saskatoon blades                    western hockey league
+20    82        cameron abney          canada       rw                    everett silvertips                    western hockey league
+21    83      kevin connauton          canada        d           western michigan university    central collegiate hockey association
+22    84  nicolas deslauriers          canada        d               rouyn - noranda huskies        quebec major junior hockey league
+23    85           cody eakin          canada        c                 swift current broncos                    western hockey league
+24    86          ryan button          canada        d                 prince albert raiders                    western hockey league
+25    87     simon bertilsson          sweden        d                       brynäs if gävle                   j20 superelit (sweden)
+26    88    mattias lindstrom          sweden       lw                        skellefteå aik                   j20 superelit (sweden)
+27    89       daniel delisle   united states   c / lw            totino - grace high school    united states high school - minnesota
+28    90     gleason fournier          canada        d                      rimouski océanic        quebec major junior hockey league
+29    91          michael lee   united states        g                           fargo force              united states hockey league

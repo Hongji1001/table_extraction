@@ -1,0 +1,17 @@
+    number (cmnh) number (pnm)     date  site             altitude       sex and other data
+0             634         3475        -     3  app 1900 m (6234ft)                     male
+1             635         3476        -     3  app 1900 m (6234ft)                   female
+2             636            -        -     3  app 1900 m (6234ft)                   female
+3             637         3477        -     3  app 1900 m (6234ft)                     male
+4             639            -        -     3  app 1900 m (6234ft)                     male
+5             640            -        -     3  app 1900 m (6234ft)                     male
+6             641         3478        -     3  app 1900 m (6234ft)                     male
+7             642            -   may 28     2  app 1255 m (4117ft)               young male
+8             643         3439   june 1     2  app 1255 m (4117ft)             adult female
+9             644            -   june 4     1  app 1580 m (5184ft)               young male
+10            645            -   june 7     1  app 1580 m (5184ft)               young male
+11            646            -   june 7     1  app 1700 m (5577ft)             adult female
+12            647            -   june 9     1  app 1700 m (5577ft)         young adult male
+13            648         3480  june 10     1  app 1700 m (5577ft)               adult male
+14            649         3481  june 11     1  app 1700 m (5577ft)                 old male
+15            650         3482  june 12     1  app 1580 m (5184ft)  adult male ( holotype )

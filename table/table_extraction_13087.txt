@@ -1,0 +1,25 @@
+                                  product                                vendor        edition    release date java ee compatibility           license
+0                              coldfusion                         adobe systems        10.0.11  2013 - 07 - 09                     5       proprietary
+1                               dynamo as                                   atg            6.3       2005 - 03                   1.3       proprietary
+2                                 enhydra                                lutris          5.1.9  2005 - 03 - 23                    no               gpl
+3                       enterprise server                               borland            6.7       2007 - 01                   1.4       proprietary
+4                                geronimo                                   asf          3.0.1  2013 - 05 - 28                     6    apache license
+5                               glassfish                   glassfish community            4.0       2013 - 05                     7        cddl , gpl
+6                        glassfish server                    oracle corporation            9.1  2007 - 09 - 17                     5       proprietary
+7                      iplanet web server                    oracle corporation          7.0u5  2007 - 12 - 21                   yes       proprietary
+8                                jboss as                               red hat    7.1.1.final  2012 - 03 - 09                     6              lgpl
+9                                   jetty                    eclipse foundation          9.0.3  2013 - 05 - 06               partial  apache 2.0 , epl
+10                                   jeus                              tmaxsoft              6  2007 - 06 - 07                     5       proprietary
+11                                  jonas  ow2 consortium (formerly objectweb )          5.2.4  2013 - 01 - 22                     5              lgpl
+12                                   jrun                         adobe systems    4 updater 7  2007 - 11 - 06                   1.3       proprietary
+13           netweaver application server                                sap ag            7.3  2011 - 05 - 31                     5       proprietary
+14             oracle containers for j2ee                    oracle corporation     10.1.3.5.0       2009 - 08                   1.4       proprietary
+15               orion application server                             ironflare          2.0.7  2006 - 03 - 09                   1.3       proprietary
+16  resin servlet container (open source)                     caucho technology         4.0.36  2013 - 04 - 25                     6               gpl
+17  resin professional application server                     caucho technology         4.0.36  2013 - 04 - 25                     6       proprietary
+18                                 siwpas                              mechsoft          2.0.0  2011 - 07 - 29                   yes       proprietary
+19                                  tomee                                   asf          1.5.2  2013 - 04 - 20                     6    apache license
+20                        weblogic server        oracle corporation bea systems  12c release 2  2013 - 07 - 11                     6       proprietary
+21                             webobjects                             apple inc          5.4.3  2008 - 09 - 15               partial       proprietary
+22           websphere application server                                   ibm        8.5.0.0  2012 - 06 - 15                     6       proprietary
+23         websphere as community edition                                   ibm        3.0.0.4  2013 - 06 - 21                     6       proprietary

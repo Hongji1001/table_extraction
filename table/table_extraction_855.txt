@@ -1,0 +1,6 @@
+                 high school           type  established  enrollment        mascot wiaa classification                       notes
+0                 henry foss  comprehensive         1973        1298       falcons                  3a   located in central tacoma
+1                    lincoln  comprehensive         1913        1618          abes                  3a      located in east tacoma
+2               mount tahoma  comprehensive         1961        1865  thunderbirds                  3a     located in south tacoma
+3        oakland alternative    alternative         1988         106        eagles               n / a   located in central tacoma
+4  tacoma school of the arts         magnet         2001         500         n / a               n / a  located in downtown tacoma

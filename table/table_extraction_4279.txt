@@ -1,0 +1,21 @@
+                  driver         constructor  laps time / retired  grid
+0     michael schumacher             ferrari    53    1:24:26.985     1
+1        ralf schumacher      williams - bmw    53       + 14.098     2
+2          jenson button         bar - honda    53       + 19.662     5
+3            takuma sato         bar - honda    53       + 31.781     4
+4        fernando alonso             renault    53       + 37.767    11
+5         kimi räikkönen  mclaren - mercedes    53       + 39.362    12
+6     juan pablo montoya      williams - bmw    53       + 55.347    13
+7   giancarlo fisichella   sauber - petronas    53       + 56.276     7
+8           felipe massa   sauber - petronas    53     + 1:29.656    19
+9     jacques villeneuve             renault    52        + 1 lap     9
+10          jarno trulli              toyota    52        + 1 lap     6
+11       christian klien   jaguar - cosworth    52        + 1 lap    14
+12         nick heidfeld       jordan - ford    52        + 1 lap    16
+13         olivier panis              toyota    51        + 2 lap    10
+14            timo glock       jordan - ford    51        + 2 lap    17
+15       gianmaria bruni  minardi - cosworth    50        + 3 lap    18
+16     zsolt baumgartner  minardi - cosworth    41           spin    20
+17       david coulthard  mclaren - mercedes    38      collision     8
+18    rubens barrichello             ferrari    38      collision    15
+19           mark webber   jaguar - cosworth    20    overheating     3

@@ -1,0 +1,10 @@
+   season      team 1 score      team 2                             venue
+0    2009    chonburi   4:1  eastern aa  suphachalasai stadium , thailand
+1    2009       kedah   0:1    chonburi     darul aman stadium , malaysia
+2    2009   hanoi acb   0:2    chonburi        hang day stadium , vietnam
+3    2009    chonburi   6:0   hanoi acb  suphachalasai stadium , thailand
+4    2009  eastern aa   2:1    chonburi       mongkok stadium , hong kong
+5    2009    chonburi   3:1       kedah  suphachalasai stadium , thailand
+6    2009    chonburi   4:0  psms medan    rajamangala stadium , thailand
+7    2009    chonburi   2:2  binh duong    rajamangala stadium , thailand
+8    2009  binh duong   2:0    chonburi      binh duong stadium , vietnam

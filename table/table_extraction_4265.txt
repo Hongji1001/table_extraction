@@ -1,0 +1,18 @@
+   positional or automatic opponents  suits material or non - material count rectified
+0                   either    single      2                        yes             yes
+1                automatic    single      2                        yes             yes
+2               positional    single      3                        yes             yes
+3                   either    double      3                        yes             yes
+4               positional    double      3                        yes             yes
+5               positional    single      2                        yes             yes
+6               positional    single      1                        yes              no
+7               positional    single  2 - 3                        yes              no
+8               positional    single      2                        yes             yes
+9               positional    either      2                         no              no
+10              positional    either  2 - 3                        yes             yes
+11              positional    single      3                         no              no
+12              positional    either      3                        yes             yes
+13              positional    double      4                        yes             yes
+14                   n / a     n / a  n / a                         no           n / a
+15                  either    either      3                         no              no
+16                  either    single      3                         no              no

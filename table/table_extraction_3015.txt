@@ -1,0 +1,8 @@
+                     institution                    location                         type  joined  enrollment   nickname
+0   arizona christian university           phoenix , arizona          private / christian    2012         429  firestorm
+1               biola university      la mirada , california        private / evangelical    1994        5942     eagles
+2           concordia university         irvine , california           private / lutheran    1987        2564     eagles
+3  hope international university      fullerton , california          private / christian    1999         987     royals
+4          the master 's college  santa clarita , california          private / christian    2001        1348   mustangs
+5    san diego christian college       el cajon , california      private / baptist (sbc)    1999         439      hawks
+6            vanguard university     costa mesa , california  private / assemblies of god    1986        1923      lions

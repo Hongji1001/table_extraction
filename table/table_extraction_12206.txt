@@ -1,0 +1,12 @@
+        nat                 name       moving from      type transfer window  ends transfer fee
+0       por         nuno capucho             porto  transfer          summer  2005       0.67 m
+1   georgia  zurab khizanishvili            dundee  transfer          summer  2006         free
+2       ita         paolo vanoli           bologna  transfer          summer  2005         free
+3       nor         henning berg  blackburn rovers  transfer          summer  2004         free
+4       bra              emerson    atléticomadrid  transfer          summer  2005         free
+5       nor       egil østenstad  blackburn rovers  transfer          summer  2004         free
+6       tun       hamed namouchi            cannes  transfer           n / a  2005         free
+7       fra         marc kalenga           auxerre  transfer           n / a  2004         free
+8       sco            gavin rae            dundee  transfer          winter  2007       0.25 m
+9       ned        frank de boer       galatasaray  transfer          winter  2004         free
+10      mkd         bajram fetai               b93  transfer          winter  2006        0.2 m

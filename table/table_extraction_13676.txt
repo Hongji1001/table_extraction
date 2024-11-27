@@ -1,0 +1,21 @@
+   place                 player        country  score to par
+0      1            bob rosburg  united states     68      2
+1      2          peter thomson      australia     70      e
+2     t3             errie ball          wales     71    + 1
+3     t3           julius boros  united states     71    + 1
+4     t3              wes ellis  united states     71    + 1
+5     t3              doug ford  united states     71    + 1
+6     t3              ed furgol  united states     71    + 1
+7     t3             jay hebert  united states     71    + 1
+8     t3        cary middlecoff  united states     71    + 1
+9    t10           jerry barber  united states     72    + 2
+10   t10              al brosch  united states     72    + 2
+11   t10           dave douglas  united states     72    + 2
+12   t10              fred haas  united states     72    + 2
+13   t10           e j harrison  united states     72    + 2
+14   t10              ben hogan  united states     72    + 2
+15   t10       bill hyndman (a)  united states     72    + 2
+16   t10              ted kroll  united states     72    + 2
+17   t10          billy maxwell  united states     72    + 2
+18   t10          arnold palmer  united states     72    + 2
+19   t10  frank taylor , jr (a)  united states     72    + 2

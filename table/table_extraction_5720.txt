@@ -1,0 +1,41 @@
+                                        name                    model                                           park             opened              status
+0                         g 'sengte sau (de)   bobsled roller coaster                        erlebnispark tripsdrill               1998           operating
+1   oachkatzl (bavarian slang for squirrel )           family coaster                         märchenwald im isartal               1999           operating
+2                             thor 's hammer   bobsled roller coaster                               djurs sommerland               2002           operating
+3                                drachenjagd           junior coaster                           legoland deutschland               2003           operating
+4                                drachenritt   bobsled roller coaster                                  belantis (de)               2003           operating
+5                         vild - svinet (de)           euro - fighter                                  bonbon - land               2003           operating
+6                                vilda musen   bobsled roller coaster                                     gröna lund               2003           operating
+7                                  aqua wind   bobsled roller coaster                                      lagunasia               2004           operating
+8                              coastersaurus           junior coaster                            legoland california               2004           operating
+9                         fairly odd coaster  spinning roller coaster                           nickelodeon universe               2004           operating
+10                               heiße fahrt   bobsled roller coaster  wild - und freizeitpark klotten / cochem (de)               2004           operating
+11                          spinning dragons  spinning roller coaster                                  worlds of fun               2004           operating
+12                                   typhoon           euro - fighter                                  bobbejaanland               2004           operating
+13                               pandemonium  spinning roller coaster                          six flags new england               2005           operating
+14                                     cobra   bobsled roller coaster                                  paultons park               2006           operating
+15                         speed : no limits           euro - fighter                             oakwood theme park               2006           operating
+16                            galaxy orbiter  spinning roller coaster                                     galaxyland               2007           operating
+17                                 hankatten  spinning roller coaster                                  bonbon - land               2007           operating
+18                              mystery mine           euro - fighter                                      dollywood               2007           operating
+19                                      rage           euro - fighter                               adventure island               2007           operating
+20                               pandemonium  spinning roller coaster                         six flags fiesta texas               2007           operating
+21                               pandemonium  spinning roller coaster                             six flags st louis               2007           operating
+22                                     lynet     launched lsm coaster                               fårup sommerland               2008           operating
+23  spongebob squarepants rock bottom plunge           euro - fighter                           nickelodeon universe               2008           operating
+24                               pandemonium  spinning roller coaster                           six flags over texas               2008           operating
+25                        troublesome trucks           junior coaster                                  drayton manor               2008           operating
+26                         anubis : the ride     launched lsm coaster                            plopsaland de panne               2009           operating
+27                                    falcon           euro - fighter                                       duinrell               2009           operating
+28                            saw : the ride           euro - fighter                                    thorpe park               2009           operating
+29                           dare devil dive           euro - fighter                         six flags over georgia               2011           operating
+30                                   untamed           euro - fighter                              canobie lake park               2011           operating
+31                    van helsing 's factory          bobsled coaster                             movie park germany               2011           operating
+32                                 takabisha           euro - fighter                              fuji - q highland               2011           operating
+33                                iron shark           euro - fighter        galveston island historic pleasure pier               2012           operating
+34                           tren de la mina           family coaster                parque de atracciones de madrid               2012           operating
+35                                 gold rush   family shuttle coaster                                      ok corral               2012           operating
+36                                the smiler         infinity coaster                                   alton towers               2013           operating
+37            the joker formerly pandemonium  spinning roller coaster   six flags méxico six flags discovery kingdom  2013 2008 to 2012           operating
+38                                     abyss           euro - fighter                                adventure world               2013           operating
+39                        firechaser express  launched family coaster                                      dollywood               2014  under construction

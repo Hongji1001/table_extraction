@@ -1,0 +1,9 @@
+              player  round  pick        position            nfl club
+0  lecharles bentley      2    44           guard  new orleans saints
+1         derek ross      3    75  defensive back      dallas cowboys
+2     jonathan wells      4    99    running back      houston texans
+3    darnell sanders      4   122       tight end    cleveland browns
+4       jamar martin      4   129        fullback      dallas cowboys
+5  courtland bullard      5   167      linebacker       st louis rams
+6       tyson walter      6   179          center      dallas cowboys
+7    steve bellisari      6   205     quarterback       st louis rams

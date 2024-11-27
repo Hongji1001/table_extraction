@@ -1,0 +1,8 @@
+   year             award                                            category            nominee     result
+0  2009        tony award                                           best play       yasmina reza        won
+1  2009        tony award                                best actor in a play       jeff daniels  nominated
+2  2009        tony award                                best actor in a play   james gandolfini  nominated
+3  2009        tony award                              best actress in a play  marcia gay harden        won
+4  2009        tony award                              best actress in a play         hope davis  nominated
+5  2009        tony award                             best director of a play    matthew warchus        won
+6  2009  drama desk award  drama desk award for outstanding actress in a play  marcia gay harden  nominated

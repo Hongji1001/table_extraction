@@ -1,0 +1,7 @@
+                 date             venue   score result                        competition
+0      june 10 , 1995             seoul  1 goal  2 - 3                     1995 korea cup
+1     march 23 , 1996             dubai  1 goal  2 - 2                   1996 emarate cup
+2     march 25 , 1996             dubai  1 goal  2 - 2                   1996 emarate cup
+3    august 11 , 1996  ho chi minh city  1 goal  4 - 0   1996 afc asian cup qualification
+4  november 26 , 1996         guangzhou  1 goal  3 - 2         korea - china annual match
+5      march 2 , 1997           bangkok  1 goal  3 - 1  1998 fifa world cup qualification

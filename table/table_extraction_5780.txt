@@ -1,0 +1,34 @@
+    grid                                          driver                 constructor    qual  rank  laps time / retired
+0      5                                 johnnie parsons  kurtis kraft - offenhauser  132.04     8   138     2:46:55.97
+1     10                                    bill holland         deidt - offenhauser  130.48    21   137        + 1 lap
+2      3                                      mauri rose         deidt - offenhauser  132.31     6   137        + 1 lap
+3     12                                     cecil green  kurtis kraft - offenhauser  132.91     2   137        + 1 lap
+4      9  joie chitwood (relieved by tony bettenhausen )  kurtis kraft - offenhauser  130.75    19   136       + 2 laps
+5     23                                     lee wallard         moore - offenhauser  132.43     5   136       + 2 laps
+6      1                                   walt faulkner  kurtis kraft - offenhauser  134.34     1   135       + 3 laps
+7      4                                   george connor      lesovsky - offenhauser  132.16     7   135       + 3 laps
+8     19                                      paul russo       nichels - offenhauser  130.79    18   135       + 3 laps
+9     11                                    pat flaherty  kurtis kraft - offenhauser  129.60    30   135       + 3 laps
+10    16                                      myron fohr      marchese - offenhauser  131.71    11   133       + 5 laps
+11    13                                    duane carter       stevens - offenhauser  131.66    12   133       + 5 laps
+12    26                                   mack hellings  kurtis kraft - offenhauser  130.68    20   132       + 6 laps
+13     6                                    jack mcgrath  kurtis kraft - offenhauser  131.86    10   131       spun off
+14    24                                    troy ruttman      lesovsky - offenhauser  131.91     9   130       + 8 laps
+15    31                                    gene hartley       langley - offenhauser  129.21    32   128      + 10 laps
+16    27                                    jimmy davies         ewing - offenhauser  130.40    23   128      + 10 laps
+17    33                                 johnny mcdowell  kurtis kraft - offenhauser  129.69    27   128      + 10 laps
+18    20                                      walt brown  kurtis kraft - offenhauser  130.45    22   127      + 11 laps
+19    14                                     spider webb      maserati - offenhauser  129.74    26   126      + 12 laps
+20    15                                      jerry hoyt  kurtis kraft - offenhauser  129.52    31   125      + 13 laps
+21    29                                       walt ader           rae - offenhauser  129.94    25   123      + 15 laps
+22    30                                   jackie holmes         olson - offenhauser  129.69    28   123       spun off
+23    28                                    jim rathmann     wetteroth - offenhauser  129.95    24   122      + 16 laps
+24    21      henry banks (relieved by fred agabashian )      maserati - offenhauser  129.64    29   112       oil line
+25    22                                  bill schindler    snowberger - offenhauser  132.69     4   111   transmission
+26    17    bayliss levrett (relieved by bill cantrell )         adams - offenhauser  131.18    14   108   oil pressure
+27     2                                 fred agabashian  kurtis kraft - offenhauser  132.79     3    64       oil leak
+28    32                                   jimmy jackson      kurtis kraft - cummins  129.20    33    52     compressor
+29    25                                       sam hanks  kurtis kraft - offenhauser  131.59    13    42   oil pressure
+30     8                               tony bettenhausen         deidt - offenhauser  130.94    16    30  wheel bearing
+31    18                                   dick rathmann        watson - offenhauser  130.92    17    25        stalled
+32     7                                   duke dinsmore  kurtis kraft - offenhauser  131.06    15    10       oil leak

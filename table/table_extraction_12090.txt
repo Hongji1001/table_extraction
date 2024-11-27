@@ -1,0 +1,7 @@
+   lane               name     country      mark  react
+0     5  tyler christopher      canada  45.67 wl  0.241
+1     4      johan wissman      sweden  46.04 pb  0.224
+2     6        chris brown     bahamas  46.26 sb  0.263
+3     3        nery brenes  costa rica     46.65  0.251
+4     1      maksim dyldin      russia     46.79  0.248
+5     2          sean wroe   australia  46.93 pb  0.270

@@ -1,0 +1,7 @@
+   period civilians security forces insurgents  total per period
+0    1996     n / a           n / a      n / a               156
+1    1997       202              44        102               348
+2    1998       118              42        110               270
+3    1999       115              36        212               363
+4    2000     n / a           n / a      n / a                50
+5    2001     n / a           n / a      n / a               564

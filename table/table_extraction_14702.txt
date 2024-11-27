@@ -1,0 +1,7 @@
+           region                 date              label format      catalog
+0  united kingdom    october 29 , 2007               epic   3 cd  88697185162
+1          europe   november 12 , 2007           columbia   3 cd  88697185162
+2          canada   november 13 , 2007           columbia   3 cd  88697185162
+3       australia    december 8 , 2007               epic   3 cd  88697185162
+4   united states    january 29 , 2008           columbia   3 cd  88697185162
+5   united states  september 29 , 2009  legacy recordings   3 cd  88697559672

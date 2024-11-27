@@ -1,0 +1,11 @@
+   year                             play                author                            theatre                type                 role
+0  1944                      the wedding  stanisław wyspiański       polish army theatre , lublin               actor                 isia
+1  1948                           omyłka         bolesław prus          powszechny theatre , łódź            director                    -
+2  1953                       barbarians           maxim gorky            teatr wybrzeże , gdańsk            director                    -
+3  1958                        the visit  friedrich dürrenmatt  juliusz słowacki theatre , kraków  director and actor  claire zachanassian
+4  1960                           na dne           maxim gorky               old theatre , kraków            director                    -
+5  1962  mother courage and her children        bertolt brecht               old theatre , kraków  director and actor       mother courage
+6  1963                         caligula          albert camus               old theatre , kraków  director and actor             caesonia
+7  1966                          macbeth   william shakespeare  juliusz słowacki theatre , kraków  director and actor         lady macbeth
+8  1969                      the wedding  stanisław wyspiański  juliusz słowacki theatre , kraków            director                    -
+9  1972          for whom the bell tolls      ernest hemingway              teatr studio , warsaw            director                    -

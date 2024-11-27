@@ -1,0 +1,17 @@
+   order  year olympic games   medal       weight              boxer              club
+0    1st  1952       finland  silver       bantam       john mcnally     white city bc
+1    2nd  1956     melbourne  silver       welter         fred tiedt             n / a
+2    3rd  1956     melbourne  bronze          fly      john caldwell             n / a
+3    4th  1956     melbourne  bronze       bantam        fred gilroy             n / a
+4    5th  1956     melbourne  bronze        light         tony byrne             n / a
+5    6th  1964         tokyo  bronze        light        jim mccourt             n / a
+6    7th  1980        moscow  bronze          fly       hugh russell             n / a
+7    8th  1992     barcelona    gold       welter    michael carruth       drimnagh bc
+8    9th  1992     barcelona  silver       bantam   wayne mccullough             n / a
+9   10th  2008       beijing  silver  light heavy       kenneth egan      neilstown bc
+10  11th  2008       beijing  bronze       middle  darren sutherland    st saviours bc
+11  12th  2008       beijing  bronze    light fly       paddy barnes    holy family bc
+12  13th  2012        london  silver       bantam     john joe nevin          cavan bc
+13  14th  2012        london    gold        light       katie taylor           bray bc
+14  15th  2012        london  bronze          fly     michael conlon  st john bosco bc
+15  16th  2012        london  bronze    light fly       paddy barnes    holy family bc

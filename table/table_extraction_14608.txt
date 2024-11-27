@@ -1,0 +1,40 @@
+                           battle             date bulgarian commander      byzantine commander             result
+0                 battle of ongal              680            asparukh           constantine iv  bulgarian victory
+1             battle of anchialus              708              tervel             justinian ii  bulgarian victory
+2             battle of marcellae              756              vinekh            constantine v  byzantine victory
+3       battle of the rishki pass              759              vinekh            constantine v  bulgarian victory
+4             battle of anchialus      30 june 763              telets            constantine v  byzantine victory
+5              battle of berzitia      october 774             unknown                  unknown  byzantine victory
+6             battle of marcellae              792              kardam           constantine vi  bulgarian victory
+7                siege of serdica       spring 809                krum                  unknown  bulgarian victory
+8                battle of pliska      26 july 811                krum             nicephorus i  bulgarian victory
+9            battle of versinikia      22 june 813                krum        michael i rangabe  bulgarian victory
+10            siege of adrianople              813                krum                  unknown  bulgarian victory
+11       battle of boulgarophygon       summer 896            simeon i                  unknown  bulgarian victory
+12            battle of anchialus    20 august 917            simeon i               leo phokas  bulgarian victory
+13           battle of katasyrtai       august 917            simeon i               leo phokas  bulgarian victory
+14                battle of pegae        march 922   theodore sigritsa           pothos argyros  bulgarian victory
+15  battle of the gates of trajan      16 july 986              samuil                 basil ii  bulgarian victory
+16             battle of salonica       summer 996              samuil        gregory taronites  bulgarian victory
+17           battle of spercheios      16 july 996              samuil       nikephoros ouranos  byzantine victory
+18               battle of skopie             1004              samuil                 basil ii  byzantine victory
+19                battle of kreta             1009              samuil                 basil ii  byzantine victory
+20         battle of thessalonica        july 1014          nestoritsa  theophylact botaneiates  byzantine victory
+21             battle of kleidion     29 july 1014              samuil                 basil ii  byzantine victory
+22            battle of strumitsa      august 1014      gavril radomir  theophylact botaneiates  bulgarian victory
+23               battle of bitola      autumn 1015               ivats       george gonitsiates  bulgarian victory
+24               battle of setina      autumn 1017      ivan vladislav                 basil ii  byzantine victory
+25          battle of dyrrhachium  february , 1018      ivan vladislav        niketas pegonites  byzantine victory
+26         battle of thessalonica             1040     peter ii delyan               michael iv  bulgarian victory
+27         battle of thessalonica      autumn 1040             alusian                  unknown  byzantine victory
+28              battle of ostrovo             1041     peter ii delyan               michael iv  byzantine victory
+29                siege of lovech      spring 1190             unknown         isaac ii angelos  bulgarian victory
+30              battle of tryavna      spring 1190         ivan asen i         isaac ii angelos  bulgarian victory
+31         battle of arcadiopolis             1194         ivan asen i           basil vatatzes  bulgarian victory
+32               battle of serres             1196         ivan asen i                    isaac  bulgarian victory
+33                 siege of varna  2124 march 1201             kaloyan                  unknown  bulgarian victory
+34          battle of klokotnitsa     9 march 1230        ivan asen ii        theodore komnenos  bulgarian victory
+35           battle of adrianople             1254             unknown                  unknown  byzantine victory
+36               battle of devina     17 july 1279              ivailo                    murin  bulgarian victory
+37              battle of skafida             1304  theodore svetoslav               michael ix  bulgarian victory
+38           battle of rusokastro     18 july 1332      ivan alexander           andronikos iii  bulgarian victory

@@ -1,0 +1,12 @@
+                           elector nationality              order                            title             elevated      elevator
+0           rinaldo conti de segni   ni anagni  cardinal - bishop       bishop of ostia e velletri  september 18 , 1227    gregory ix
+1               romano bonaventura       roman  cardinal - bishop   bishop of porto e santa rufina                 1216  innocent iii
+2          goffredo da castiglione   ese milan  cardinal - bishop                 bishop of sabina  september 18 , 1227    gregory ix
+3                 tommaso da capua       capua  cardinal - priest                title of s sabina                 1216  innocent iii
+4   stefano de normandis dei conti       roman  cardinal - priest   title of s maria in trastevere                 1216  innocent iii
+5                 giovanni colonna       roman  cardinal - priest              title of s prassede   february 18 , 1212  innocent iii
+6                sinibaldo fieschi   lavagnesi  cardinal - priest     title of s lorenzo in lucina  september 18 , 1227    gregory ix
+7         rainiero capocci , ocist        todi  cardinal - deacon    deacon of s maria in cosmedin                 1216  innocent iii
+8                       gil torres     spanish  cardinal - deacon     deacon of ss cosma e damiano      december , 1216  honorius iii
+9               riccardo annibaldi       roman  cardinal - deacon  deacon of s angelo in pescheria                 1237    gregory ix
+10               robert somercotes     english  cardinal - deacon            deacon of s eustachio                 1238    gregory ix

@@ -1,0 +1,6 @@
+      season league         winner  goals  assists  points
+0  1967 - 68  wcjhl   bobby clarke     51      117     168
+1  1968 - 69  wcjhl   bobby clarke     51       86     137
+2  1969 - 70   wchl   reggie leach     65       46     111
+3  1970 - 71   wchl  chuck arnason     79       84     163
+4  2007 - 08   sjhl   reid macleod     47       42      89

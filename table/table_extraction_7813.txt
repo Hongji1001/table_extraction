@@ -1,0 +1,20 @@
+               rider manufacturer  laps time / retired  grid
+0       dani pedrosa        honda    30      41:53.196     2
+1    loris capirossi       ducati    30       + 13.166     7
+2       nicky hayden        honda    30       + 16.771    14
+3      colin edwards       yamaha    30       + 18.299    13
+4       casey stoner       ducati    30       + 31.426     1
+5     marco melandri        honda    30       + 31.917     3
+6       john hopkins       suzuki    30       + 33.395     5
+7       anthony west     kawasaki    30       + 41.194    12
+8       alex hofmann       ducati    30       + 43.214    16
+9    michel fabrizio        honda    30       + 44.459    17
+10   chris vermeulen       suzuki    30     + 1:01.894    11
+11    kurtis roberts       kr212v    30     + 1:10.721    19
+12     makoto tamada       yamaha    28       + 2 laps    18
+13      carlos checa        honda    27       + 3 laps    15
+14   randy de puniet     kawasaki    29     retirement     4
+15     shinya nakano        honda    19     retirement    10
+16       alex barros       ducati     9       accident     8
+17   valentino rossi       yamaha     5       accident     6
+18  sylvain guintoli       ducati     3       accident     9

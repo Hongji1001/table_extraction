@@ -1,0 +1,8 @@
+             school          location         mascot  enrollment ihsaa class ihsaa football class         county
+0      brown county         nashville         eagles         755         aaa                  aaa        7 brown
+1          edgewood      ellettsville       mustangs         833         aaa                  aaa      53 monroe
+2         northview            brazil        knights        1142        aaaa                 aaaa        11 clay
+3       owen valley           spencer       patriots         908         aaa                 aaaa        60 owen
+4  south vermillion           clinton       wildcats         583         aaa                   aa  83 vermillion
+5          sullivan          sullivan  golden arrows         543         aaa                   aa    77 sullivan
+6         west vigo  west terre haute        vikings         640         aaa                  aaa        84 vigo

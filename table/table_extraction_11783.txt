@@ -1,0 +1,22 @@
+                 usage sn / sb (%) liquid at (degree) casting at (degree) remelting at (degree) hardness
+0            typograph      3 / 12                250             280…290               310…330       19
+1               ludlow      5 / 12                245             270…285               300…320       21
+2   lino / intertype a      5 / 12                245             270…285               300…320       21
+3   lino / intertype b      6 / 12                243             270…285               300…320     21.5
+4   lino / intertype c      7 / 12                241             270…285               300…320       22
+5         stereotyping      5 / 15                265                 320               320…340       23
+6         stereotyping      7 / 14                258                 315               320…340       23
+7           monotype a      5 / 15                265                 350               330…350       23
+8           monotype b      8 / 15                260                 360               350…370       25
+9           monotype c      7 / 17                280                 370               360…380       26
+10          monotype d      9 / 19                285                 390               380…400     28.5
+11          monotype e    9.5 / 15                270                 360               350…370       26
+12          monotype f    9.5 / 17                280                 380               370…390     27.5
+13          monotype g     10 / 16                275                 370               360…380       27
+14      regeneration a      9 / 11                  -                   -                     -        -
+15      regeneration b      9 / 12                  -                   -                     -        -
+16      regeneration c      9 / 16                  -                   -                     -        -
+17     support metal a       1 / 2                310                   -               360…380        6
+18     support metal b       3 / 5                295                   -               340…360       14
+19     support metal c       5 / 5                280                   -               340…360       16
+20        typefounding  5.5 / 28.5                360                   -               420…430     29.5

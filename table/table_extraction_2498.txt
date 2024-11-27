@@ -1,0 +1,13 @@
+    rank            team  total points  2008 - 09 points  2007 - 08 points  2006 - 07 points  2005 - 06 points
+0      7    london wasps            19                 3                 2                11                 3
+1     12        saracens            14                 2                 7                 2                 3
+2     19        bourgoin             8                 3                 2                 1                 2
+3     22       worcester             7                 2                 3                 0                 2
+4     25       newcastle             6                 1                 2                 1                 2
+5     27         castres             5                 1                 1                 2                 1
+6     30           leeds             4                 0                 1                 0                 3
+7     31       calvisano             3                 1                 0                 1                 1
+8     34        connacht             2                 1                 0                 0                 1
+9     35       montauban             1                 1                 0                 0                 0
+10    37     montpellier             1                 0                 1                 0                 0
+11    38  overmach parma             1                 0                 0                 1                 0

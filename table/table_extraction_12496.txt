@@ -1,0 +1,9 @@
+             date            opponent                               site   result  attendance
+0  09 / 30 / 1933  south dakota state  memorial stadium minneapolis , mn  w19 - 6       25000
+1  10 / 07 / 1933             indiana  memorial stadium minneapolis , mn   t6 - 6       20000
+2  10 / 14 / 1933              purdue  memorial stadium minneapolis , mn   t7 - 7       26497
+3  10 / 21 / 1933          pittsburgh  memorial stadium minneapolis , mn   w7 - 3       26000
+4  10 / 28 / 1933                iowa  memorial stadium minneapolis , mn  w19 - 7       45000
+5  11 / 04 / 1933        northwestern        dyche stadium evanston , il   t0 - 0       35000
+6  11 / 18 / 1933            michigan    michigan stadium ann arbor , mi   t0 - 0       52137
+7  11 / 25 / 1933           wisconsin  memorial stadium minneapolis , mn   w6 - 3       25000

@@ -1,0 +1,9 @@
+   position                         name  played  drawn  lost  points
+0         1                   ev pegnitz      14      0     1      26
+1         2             ehc straubing ii      14      0     5      18
+2         3                    ec amberg      14      3     5      15
+3         4                  ek mã¼nchen      14      1     6      15
+4         5                  se freising      14      1     7      13
+5         6                  ersc amberg      14      1     7      13
+6         7               ehc regensburg      14      1     9       9
+7         8  ehc stiftland - mitterteich      14      1    12       3

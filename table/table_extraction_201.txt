@@ -1,0 +1,35 @@
+                                    race name            circuit          date         winning driver       constructor  report
+0   xi grande prêmio cidade do rio de janeiro              gávea    20 january  josé froilán gonzález           ferrari  report
+1                  ii gran premio di siracusa           syracuse      16 march         alberto ascari           ferrari  report
+2                vi gran premio del valentino     valentino park       6 april        luigi villoresi           ferrari  report
+3                          iv richmond trophy           goodwood      14 april  josé froilán gonzález           ferrari  report
+4                               iv lavant cup           goodwood      14 april          mike hawthorn  cooper - bristol  report
+5                         xiii pau grand prix                pau      14 april         alberto ascari           ferrari  report
+6                         i ibsley grand prix           ringwood      19 april          mike hawthorn  cooper - bristol  report
+7                   x grand prix de marseille          marseille      27 april         alberto ascari           ferrari  report
+8       i aston martin owners club grand prix         snetterton         3 may           dickie stoop       frazer nash  report
+9                iv brdc international trophy        silverstone        10 may          lance macklin        hwm - alta  report
+10                        xiv eläintarhanajot     eläintarharata        11 may          roger laurent     talbot - lago  report
+11                    v gran premio di napoli          posillipo        11 may        giuseppe farina           ferrari  report
+12       xvi internationales adac eifelrennen        nürburgring        25 may           rudi fischer           ferrari  report
+13                     vi grand prix de paris          montlhéry        25 may          piero taruffi           ferrari  report
+14              xiv grand prix de l'albigeois               albi        1 june           louis rosier           ferrari  report
+15             xxii grand prix des frontières             chimay        1 june             paul frère        hwm - alta  report
+16                           vi ulster trophy            dundrod        7 june          piero taruffi           ferrari  report
+17      v gran premio dell'autodromo di monza              monza        8 june        giuseppe farina           ferrari  report
+18            iv aix les bains circuit du lac  aix - les - bains        8 june             jean behra           gordini  report
+19                       i west essex cc race            boreham       21 june            reg parnell  cooper - bristol  report
+20                  xx grand prix de la marne              reims       29 june             jean behra           gordini  report
+21           ii grand prix de sables d'olonne             sables       13 july        luigi villoresi           ferrari  report
+22                       i grand prix de caen               caen       27 july    maurice trintignant           gordini  report
+23                       ii daily mail trophy            boreham      2 august        luigi villoresi           ferrari  report
+24                xvi grand prix de comminges          comminges     10 august            andré simon           ferrari  report
+25                          i national trophy          turnberry     23 august          mike hawthorn         connaught  report
+26                  xi grand prix de la baule           la baule     24 august         alberto ascari           ferrari  report
+27                  iii gran premio di modena             modena  14 september        luigi villoresi           ferrari  report
+28                      iv circuit de cadours            cadours  14 september           louis rosier           ferrari  report
+29                        ii skarpnäcksloppet          skarpnäck  14 september        gunnar carlsson           mercury  report
+30                             v madgwick cup           goodwood  27 september            ken downing         connaught  report
+31            viii internationales avusrennen               avus  28 september           rudi fischer           ferrari  report
+32                  i joe fry memorial trophy       castle combe     4 october          roy salvadori           ferrari  report
+33                 i newcastle journal trophy        charterhall    11 october           dennis poore         connaught  report

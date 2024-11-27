@@ -1,0 +1,9 @@
+   year                champion              finalist    score       place
+0  2005  gravelines - dunkerque            strasbourg  88 - 71  gravelines
+1  2006                   dijon               le mans  70 - 69     le mans
+2  2007         pau lacq orthez                roanne  79 - 74         pau
+3  2008                   nancy                 asvel  76 - 73       nancy
+4  2009                   asvel               le mans  76 - 54      angers
+5  2010                  cholet               orléans  85 - 79      cholet
+6  2011                   nancy  chalon - sur - saône  89 - 83       nancy
+7  2012                 limoges  chalon - sur - saône  78 - 76       paris

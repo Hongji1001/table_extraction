@@ -1,0 +1,20 @@
+    cons                democratic coalition                     alliance     together we can do more independent regional force    independents
+0    2nd             (r) carmen frei ( pdc )    (r) carlos cantero ( rn )  salvador barrientos ( pc )        luis thompson (ind)            none
+1    2nd         josé antonio gómez ( prsd )        cristián leay ( udi )   josé gabriel feres ( ph )      humberto zuleta (ind)            none
+2    4th           (r) jorge pizarro ( pdc )        arturo longton ( rn )        luis aguilera ( pc )                       none            none
+3    4th                 jorge arrate ( ps )   (r) evelyn matthei ( udi )     joaquín arduengo ( ph )                       none            none
+4    7th         (r) andrés zaldívar ( pdc )       roberto fantuzzi (ind)        gonzalo rovira (ind)                       none            none
+5    7th               guido girardi ( ppd )     (r) jovino novoa ( udi )         eduardo artés (ind)                       none            none
+6    8th              soledad alvear ( pdc )            lily pérez ( rn )        manuel riesco ( pc )                       none            none
+7    8th              gonzalo martner ( ps )      pablo longueira ( udi )         efrén osorio ( ph )                       none            none
+8    9th                aníbal pérez ( ppd )          ramón achurra (ind)        carmen moncada (ind)                       none            none
+9    9th          juan pablo letelier ( ps )  (r) andrés chadwick ( udi )      marilén cabrera ( ph )                       none            none
+10  12th            (r) hosain sabag ( pdc )          alberto gyhra (ind)         hugo corvalán (ind)                       none            none
+11  12th            alejandro navarro ( ps )        carlos bombal ( udi )      wilfredo alfsen ( ph )                       none            none
+12  13th  (r) mariano ruiz - esquide ( pdc )        (r) mario ríos ( rn )        marta morales ( pc )                       none            none
+13  13th               eleodoro torres (ind)         víctor pérez ( udi )        gloria mujica ( ph )                       none            none
+14  16th                eduardo frei ( pdc )       andrés allamand ( rn )  guillermo tripailaf ( pc )         raúl silva ( ani )            none
+15  16th             marcos saldías ( prsd )       andrés allamand ( rn )           hugo gerter (ind)       carlos boero ( ani )            none
+16  17th             (r) sergio páez ( pdc )        carlos kuschel ( rn )        irma alvarado ( pc )    josé luis cáceres (ind)            none
+17  17th              camilo escalona ( ps )        joaquín brahm ( udi )            tomás bize (ind)          mario osses (ind)            none
+18  19th                zarko luksic ( pdc )        eduardo catalán (ind)         josé foppiano (ind)                       none  carlos bianchi

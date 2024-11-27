@@ -1,0 +1,17 @@
+                                         condition prothrombin time partial thromboplastin time bleeding time           platelet count
+0                 vitamin k deficiency or warfarin        prolonged  normal or mildly prolonged    unaffected               unaffected
+1           disseminated intravascular coagulation        prolonged                   prolonged     prolonged                decreased
+2                           von willebrand disease       unaffected     prolonged or unaffected     prolonged               unaffected
+3                                       hemophilia       unaffected                   prolonged    unaffected               unaffected
+4                                          aspirin       unaffected                  unaffected     prolonged               unaffected
+5                                 thrombocytopenia       unaffected                  unaffected     prolonged                decreased
+6                            liver failure , early        prolonged                  unaffected    unaffected               unaffected
+7                      liver failure , end - stage        prolonged                   prolonged     prolonged                decreased
+8                                           uremia       unaffected                  unaffected     prolonged               unaffected
+9                       congenital afibrinogenemia        prolonged                   prolonged     prolonged               unaffected
+10                             factor v deficiency        prolonged                   prolonged    unaffected               unaffected
+11  factor x deficiency as seen in amyloid purpura        prolonged                   prolonged    unaffected               unaffected
+12                     glanzmann 's thrombasthenia       unaffected                  unaffected     prolonged               unaffected
+13                      bernard - soulier syndrome       unaffected                  unaffected     prolonged  decreased or unaffected
+14                           factor xii deficiency       unaffected                   prolonged    unaffected               unaffected
+15                                c1inh deficiency       unaffected                   shortened    unaffected               unaffected

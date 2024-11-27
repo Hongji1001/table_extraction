@@ -1,0 +1,19 @@
+               country           contestant  age  height (cm) height (ft)           hometown
+0            argentina          yanina ruiz   24          175         5'9              morón
+1              bahamas         nikie severe   26          170         5'7           freeport
+2              bolivia      flavia foianini   20          176       5'9.5         santa cruz
+3               brazil  mariana notarangelo   23          175         5'9     rio de janeiro
+4               canada      mariana valente   24          175         5'9            toronto
+5             colombia      alejandra tovar   23          170         5'7              neiva
+6           costa rica         angie alfaro   18          174       5'8.5           alajuela
+7   dominican republic          audris rijo   24          170         5'7      santo domingo
+8          el salvador  michelle bustamante   19          175         5'9        la libertad
+9            guatemala         jessana paté   22          177       5'9.5     guatemala city
+10            honduras         blaise masey   20          173         5'8     san pedro sula
+11            paraguay      viviana benítez   24          172       5'7.5  san juan bautista
+12                peru        danissa zurek   19          173         5'8               lima
+13              poland    iwona wyrzykowska   19          171       5'7.5               lodz
+14         puerto rico     yerlyn rodríguez   23          178        5'10           mayagüez
+15               spain    ara jurado calero   21          181         6'0          peñarroya
+16       united states       amanda delgado   20          176       5'9.5             upland
+17             uruguay      cinthia furtado   26          172       5'7.5            durazno

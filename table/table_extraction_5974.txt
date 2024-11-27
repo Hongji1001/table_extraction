@@ -1,0 +1,23 @@
+                     driver         constructor  laps time / retired  grid
+0        michael schumacher             ferrari    67    1:29:42.724     1
+1        juan pablo montoya      williams - bmw    67        + 4.127     3
+2           david coulthard  mclaren - mercedes    67       + 24.993     5
+3           ralf schumacher      williams - bmw    67       + 33.345     2
+4        rubens barrichello             ferrari    67       + 45.495     4
+5             mika häkkinen  mclaren - mercedes    67     + 1:04.868     6
+6              eddie irvine   jaguar - cosworth    67     + 1:06.198    12
+7          pedro de la rosa   jaguar - cosworth    66        + 1 lap    16
+8        jacques villeneuve         bar - honda    66        + 1 lap    11
+9            kimi räikkönen   sauber - petronas    66        + 1 lap     9
+10     giancarlo fisichella  benetton - renault    66        + 1 lap    15
+11            luciano burti        prost - acer    65       + 2 laps    17
+12            jenson button  benetton - renault    65       + 2 laps    20
+13          fernando alonso  minardi - european    65       + 2 laps    21
+14               jean alesi        prost - acer    64       spun off    14
+15           jos verstappen   arrows - asiatech    58         engine    19
+16            nick heidfeld   sauber - petronas    54     driveshaft    10
+17  heinz - harald frentzen      jordan - honda    48       spun off     8
+18             jarno trulli      jordan - honda    44   transmission     7
+19         enrique bernoldi   arrows - asiatech    29        gearbox    18
+20            olivier panis         bar - honda    23     electrical    13
+21            tarso marques  minardi - european     7     electrical    22

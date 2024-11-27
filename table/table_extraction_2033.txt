@@ -1,0 +1,6 @@
+             central - southern calabrian phonetic greek    italian      french  english
+0                                 batràci      vátrakhos  ranocchio  grenouille     frog
+1                             zinnapòtamu    kynopotamus     lontra      loutre    otter
+2  bampurìddha / lampurìdda / vampurìddha      lampurida   lucciola     luciole  firefly
+3                               purtuàllu       portocli    arancia      orange   orange
+4                                  'nnàca           nàke      culla     berceau   cradle

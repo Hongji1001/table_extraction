@@ -1,0 +1,9 @@
+  position                     gymnast  a score  b score   total
+0      1st      diego hypólito ( bra )      6.6    9.350  15.950
+1      2nd   marian drăgulescu ( rou )      6.9    9.025  15.925
+2      3rd     gervasio deferr ( esp )      6.5    9.325  15.825
+3      4th   fabian hambuechen ( ger )      6.5    9.300  15.800
+4      5th      kōhei uchimura ( jpn )      6.5    9.225  15.725
+5      6th             zou kai ( chn )      6.7    9.100  15.700
+6      7th  anton golotsutskov ( rus )      6.5    9.100  15.600
+7      8th   alexandr shatilov ( isr )      6.6    9.000  15.600

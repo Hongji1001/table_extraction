@@ -1,0 +1,8 @@
+              physical property  helium     neon    argon  krypton   xenon
+0        boiling point (degree)   268.8  245.900  185.800  151.700  106.60
+1        melting point (degree)       -  248.500  189.600  157.400  111.50
+2      critical temperature (k)    5.25   44.500  150.850  209.350  289.74
+3       critical pressure (atm)    2.26   26.900   48.300   54.300   57.64
+4     critical density (g / ml)  0.0693    0.484    0.536    0.908    1.10
+5  triple point temperature (k)  24.562   83.800  115.760  161.370  202.00
+6   triple point pressure (kpa)     5.1   43.370   68.900   73.150   81.66

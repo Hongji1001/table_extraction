@@ -1,0 +1,17 @@
+    draw                                        dancers                                      dance styles  place  points
+0      1              denise biellmann & sven ninnemann                              paso doble and swing     16       0
+1      2            mariya sittel & vladislav borodinov                              rumba and paso doble      7      72
+2      3              alexandra matteman & redmond valk                         cha - cha - cha and rumba     12      34
+3      4                camilla dallerup & brendan cole                               rumba and freestyle     15      18
+4      5                             kelly & andy kainz                               jive and paso doble      5      74
+5      6             wolke hegenbarth & oliver seefeldt                         samba dance and freestyle      8      59
+6      7              ourania kolliou & spiros pavlidis                                  jive and sirtaki     13      31
+7      8  gabrielė valiukaitė & gintaras svistunavičius  paso doble and traditional lithuanian folk dance     11      35
+8      9            amagoya benlloch & abraham martinez                    cha - cha - cha and paso doble     10      38
+9     10                    nicola byrne & mick donegan                                 jive and fandango      3      95
+10    11             katarzyna cichopek & marcin hakiel                     cha - cha - cha and showdance      4      84
+11    12            mette skou elkjær & david jørgensen                               rumba and showdance      9      38
+12    13                   sónia araújo & ricardo silva                                    jive and tango      5      74
+13    14            yulia okropiridze & illya sydorenko                           quickstep and showdance      2     121
+14    15               cecilia ehrling & martin lidberg                       paso doble and disco fusion     14      23
+15    16                katja koukkula & jussi väänänen                              rumba and paso doble      1     132

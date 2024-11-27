@@ -1,0 +1,12 @@
+              dance                  best dancer  best score              worst dancer  worst score
+0   cha - cha - cha                 emmitt smith          30            tucker carlson           12
+1           foxtrot    mario lopez joey lawrence          29                sara evans           15
+2             mambo                 emmitt smith          30                sara evans           21
+3         quickstep                joey lawrence          29            jerry springer           19
+4              jive  monique coleman mario lopez          27  joey lawrence willa ford           22
+5             tango                  mario lopez          30              emmitt smith           19
+6             waltz                 emmitt smith          29            jerry springer           22
+7             rumba                joey lawrence          30             joey lawrence           24
+8        paso doble                  mario lopez          30            jerry springer           18
+9             samba                 emmitt smith          30           monique coleman           23
+10        freestyle                  mario lopez          30              emmitt smith           29

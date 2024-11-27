@@ -1,0 +1,11 @@
+   round  pick  overall            name position               college
+0      1     6        6     sammy baugh       qb       texas christian
+1      2     6       16  nello falaschi       fb           santa clara
+2      3     6       26   maurice eldar       rb          kansas state
+3      4     6       36      dick bassi        g           santa clara
+4      5     6       46      chuck bond       ot            washington
+5      6     6       56     jimmie cain       rb            washington
+6      7     6       66   rotta holland        g          kansas state
+7      8     6       76      joel eaves        e                auburn
+8      9     6       86   bill docherty       ot                temple
+9     10     6       96        mac cara        e  north carolina state

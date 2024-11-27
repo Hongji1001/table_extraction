@@ -1,0 +1,27 @@
+    pick             player                   team position             hometown / school
+0      1      harold baines      chicago white sox       of        st michaels , maryland
+1      2    bill gullickson         montreal expos      rhp              orland park , il
+2      3       paul molitor      milwaukee brewers       ss       university of minnesota
+3      4           tim cole         atlanta braves      lhp               saugerties , ny
+4      5     kevin richards         detroit tigers      rhp                wyandotte , mi
+5      6      terry kennedy     st louis cardinals        c      florida state university
+6      7     richard dotson      california angels      rhp               cincinnati , oh
+7      8        brian greer       san diego padres       of                     brea , ca
+8      9       david hibner          texas rangers       ss                   howell , mi
+9     10       craig landis   san francisco giants       ss                     napa , ca
+10    11      bruce compton      cleveland indians       of                   norman , ok
+11    12        randy martz           chicago cubs      rhp  university of south carolina
+12    13      andrew madden         boston red sox      rhp             new hartford , ny
+13    14        ricky adams         houston astros       ss                montclair , ca
+14    15         paul croft        minnesota twins       of               morristown , nj
+15    16      wally backman          new york mets       ss                beaverton , or
+16    17       craig harris      oakland athletics      rhp             sierra vista , az
+17    18     anthony nicely     pittsburgh pirates       of                   dayton , oh
+18    19    drungo hazewood      baltimore orioles       of               sacramento , ca
+19    20          bob welch    los angeles dodgers      rhp   eastern michigan university
+20    21         mike jones     kansas city royals      lhp                pittsford , ny
+21    22  scott munninghoff  philadelphia phillies      rhp               cincinnati , oh
+22    23       steve taylor       new york yankees      rhp        university of delaware
+23    24         tad venger        cincinnati reds       3b                  newhall , ca
+24    25        tom goffena      toronto blue jays       ss                   sidney , oh
+25    26     dave henderson       seattle mariners       of                dos palos , ca

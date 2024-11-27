@@ -1,0 +1,6 @@
+   year           name        country language (s)   literary tradition
+0  2005  ismail kadare        albania     albanian  albanian literature
+1  2007  chinua achebe        nigeria      english  nigerian literature
+2  2009    alice munro         canada      english  canadian literature
+3  2011    philip roth  united states      english  american literature
+4  2013    lydia davis  united states      english  american literature

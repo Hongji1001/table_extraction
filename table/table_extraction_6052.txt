@@ -1,0 +1,8 @@
+   year                name                   film             role     status
+0  year                name                   film             role     status
+1  1957       miyoshi umeki               sayonara    katsumi kelly        won
+2  1985           meg tilly           agnes of god     sister agnes  nominated
+3  1994      jennifer tilly  bullets over broadway       olive neal  nominated
+4  2003  shohreh aghdashloo  house of sand and fog  nadereh behrani  nominated
+5  2006       rinko kikuchi                  babel    chieko wataya  nominated
+6  2010    hailee steinfeld              true grit      mattie ross  nominated

@@ -1,0 +1,23 @@
+                      player  ranking record hardcourt   clay  grass carpet
+0         caroline wozniacki        1  2 - 2     0 - 1  2 - 1  0 - 0  0 - 0
+1          / jelena janković        1  1 - 2     1 - 1  0 - 1  0 - 0  0 - 0
+2            maria sharapova        1  0 - 1     0 - 1  0 - 0  0 - 0  0 - 0
+3            serena williams        1  0 - 2     0 - 2  0 - 0  0 - 0  0 - 0
+4          victoria azarenka        1  0 - 1     0 - 0  0 - 0  0 - 1  0 - 0
+5             vera zvonareva        2  0 - 2     0 - 2  0 - 0  0 - 0  0 - 0
+6           elena dementieva        3  0 - 1     0 - 1  0 - 0  0 - 0  0 - 0
+7              nadia petrova        3  0 - 1     0 - 1  0 - 0  0 - 0  0 - 0
+8        agnieszka radwańska        3  0 - 1     0 - 0  0 - 1  0 - 0  0 - 0
+9        kimiko date - krumm        4  1 - 1     1 - 1  0 - 0  0 - 0  0 - 0
+10            / jelena dokić        4  1 - 1     1 - 1  0 - 0  0 - 0  0 - 0
+11                     li na        4  0 - 3     0 - 3  0 - 0  0 - 0  0 - 0
+12       francesca schiavone        4  0 - 1     0 - 1  0 - 0  0 - 0  0 - 0
+13          anna chakvetadze        5  1 - 0     0 - 0  1 - 0  0 - 0  0 - 0
+14              alicia molik        8  1 - 0     1 - 0  0 - 0  0 - 0  0 - 0
+15           flavia pennetta       10  1 - 0     1 - 0  0 - 0  0 - 0  0 - 0
+16           andrea petkovic       10  1 - 2     1 - 0  0 - 2  0 - 0  0 - 0
+17              shahar pe'er       11  0 - 2     0 - 1  0 - 1  0 - 0  0 - 0
+18            sabine lisicki       12  0 - 1     0 - 0  0 - 0  0 - 1  0 - 0
+19          yanina wickmayer       12  0 - 3     0 - 3  0 - 0  0 - 0  0 - 0
+20  anastasia pavlyuchenkova       13  1 - 2     0 - 2  0 - 0  1 - 0  0 - 0
+21             aravane rezaï       15  2 - 0     2 - 0  0 - 0  0 - 0  0 - 0

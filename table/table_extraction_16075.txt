@@ -1,0 +1,9 @@
+            school     location    mascot          county  year joined  year left                             conference joined
+0          hanover      hanover  bulldogs    39 jefferson         1952       1960        none (consolidated into southwestern )
+1  north (madison)      madison    tigers    39 jefferson         1952       1953             none (colsolidated into madison )
+2           osgood       osgood   cowboys       69 ripley         1952       1960     none (consolidated into jac - cen - del )
+3       versailles   versailles     lions       69 ripley         1952       1966        none (consolidated into south ripley )
+4        dillsboro    dillsboro  bulldogs     15 dearborn         1953       1978      none (consolidated into south dearborn )
+5      moores hill  moores hill   knights     15 dearborn         1953       1978      none (consolidated into south dearborn )
+6           sunman       sunman   trojans       69 ripley         1953       1973        none (consolidated into east central )
+7            vevay        vevay  warriors  78 switzerland         1953       1968  none (consolidated into switzerland county )

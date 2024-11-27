@@ -1,0 +1,21 @@
+                  driver            constructor  laps         time / retired  grid
+0         lewis hamilton     mclaren - mercedes    67            1:31:20.874     1
+1       nelson piquet jr                renault    67                + 5.586    17
+2           felipe massa                ferrari    67                + 9.339     2
+3          nick heidfeld             bmw sauber    67                + 9.825    12
+4      heikki kovalainen     mclaren - mercedes    67               + 12.411     3
+5         kimi räikkönen                ferrari    67               + 14.403     6
+6          robert kubica             bmw sauber    67               + 22.682     7
+7       sebastian vettel   toro rosso - ferrari    67               + 33.299     9
+8           jarno trulli                 toyota    67               + 37.158     4
+9           nico rosberg      williams - toyota    67               + 37.625    13
+10       fernando alonso                renault    67               + 38.600     5
+11    sébastien bourdais   toro rosso - ferrari    67               + 39.111    15
+12       david coulthard     red bull - renault    67               + 54.971    10
+13       kazuki nakajima      williams - toyota    67             + 1:00.003    16
+14          adrian sutil  force india - ferrari    67             + 1:09.488    19
+15  giancarlo fisichella  force india - ferrari    67             + 1:24.093    20
+16         jenson button                  honda    66                + 1 lap    14
+17    rubens barrichello                  honda    50       collision damage    18
+18           mark webber     red bull - renault    40               oil leak     8
+19            timo glock                 toyota    35  suspension / accident    11

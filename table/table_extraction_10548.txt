@@ -1,0 +1,7 @@
+  call sign  frequency mhz        city of license  erp w class fcc info
+0    k210cb           89.9  broken bow , nebraska    250     d      fcc
+1    k211dp           90.1        alma , nebraska    250     d      fcc
+2    k214dk           90.7    holdrege , nebraska    250     d      fcc
+3    k218dy           91.5     holyoke , colorado    203     d      fcc
+4    k230ap           93.9     hyannis , nebraska    250     d      fcc
+5    k281ar          104.1    chappell , nebraska    205     d      fcc

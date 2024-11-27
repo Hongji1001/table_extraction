@@ -1,0 +1,10 @@
+                                         name   opened      closed       length                                 location
+0  campbeltown and machrihanish light railway     1877        1932            -               mull of kintyre , scotland
+1                           caphouse colliery     1988     present  c yards (m)  national coal mining museum , wakefield
+2                              corris railway     1859     present            -                      machynlleth , wales
+3                   hendra china stone quarry    1860s  after 1967      unknown                        nanpean , england
+4                            huncoat colliery  unknown        1968      unknown                        huncoat , england
+5                 plynlimon and hafan tramway     1897        1899            -                         talybont , wales
+6              quarry close china stone works     1863        1973      unknown                        nanpean , england
+7                            talyllyn railway     1865     present            -                            tywyn , wales
+8                       york gasworks company     1915        1959   c feet (m)                           york , england

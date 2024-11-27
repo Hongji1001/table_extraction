@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0             piero taruffi                ferrari    62      3:01:46.1     2
+1              rudi fischer                ferrari    62       + 2:37.2     5
+2                jean behra                gordini    61        + 1 lap     7
+3               ken wharton  frazer nash - bristol    60       + 2 laps    13
+4                alan brown       cooper - bristol    59       + 3 laps    15
+5      toulo de graffenried       maserati - platé    58       + 4 laps     8
+6                peter hirt                ferrari    56       + 6 laps    19
+7              eric brandon       cooper - bristol    55       + 7 laps    17
+8               prince bira        simca - gordini    52         engine    11
+9   andré simon nino farina                ferrari    51        magneto     4
+10             harry schell       maserati - platé    31         engine    18
+11            stirling moss             hwm - alta    24       withdrew     9
+12            lance macklin             hwm - alta    24       withdrew    12
+13            robert manzon                gordini    20       radiator     3
+14              nino farina                ferrari    16        magneto     1
+15            peter collins             hwm - alta    12      halfshaft     6
+16         george abecassis             hwm - alta    12      halfshaft    10
+17               hans stuck           afm - küchen     4         engine    14
+18               toni ulmen                veritas     4      fuel leak    16
+19             louis rosier                ferrari     2       accident    20
+20             max de terra        simca - gordini     1        magneto    21
+21      maurice trintignant                ferrari     0         engine    22

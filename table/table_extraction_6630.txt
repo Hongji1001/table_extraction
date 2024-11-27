@@ -1,0 +1,11 @@
+             cyclist         nation               team       time  uci protour points
+0  christophe moreau         france    ag2r prévoyance  29h 50'35                  50
+1        cadel evans      australia  predictor - lotto       + 14                  40
+2  andrey kashechkin     kazakhstan             astana     + 1'27                  35
+3      denis menchov         russia           rabobank     + 1'52                  30
+4    david zabriskie  united states           team csc     + 2'16                  25
+5   alberto contador          spain  discovery channel     + 4'24                  20
+6    mikel astarloza          spain                eus     + 5'00                  15
+7     manuel beltrán          spain           liquigas     + 5'01                  10
+8     tadej valjavec       slovenia  lampre - fondital     + 5'17                   5
+9   sylvain chavanel         france            cofidis     + 5'38                   2

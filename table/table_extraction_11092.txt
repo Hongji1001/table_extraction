@@ -1,0 +1,8 @@
+   position                   team  points  played  drawn  lost  against difference
+0         1             paulistano      19      12      1     2       17         23
+1         2           aa são bento      14      11      2     3       27        - 1
+2         3              mackenzie      13      12      1     5       23          4
+3         4          ypiranga - sp      13      12      1     5       19          0
+4         5                 santos       9      11      1     6       31        - 8
+5         6       aa das palmeiras       6      12      0     8       28        - 8
+6         7  palestra itã¡lia - sp       8      12      2     8       26       - 10

@@ -1,0 +1,8 @@
+   year   track           250 cc           500 cc  report
+0  1990  rijeka    carlos cardãs     wayne rainey  report
+1  1989  rijeka        sito pons   kevin schwantz  report
+2  1988  rijeka        sito pons    wayne gardner  report
+3  1987  rijeka    carlos lavado    wayne gardner  report
+4  1986  rijeka        sito pons     eddie lawson  report
+5  1985  rijeka  freddie spencer     eddie lawson  report
+6  1984  rijeka   manfred herweh  freddie spencer  report

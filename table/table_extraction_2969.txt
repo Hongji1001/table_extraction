@@ -1,0 +1,8 @@
+  letters              organization          nickname   founding date               founding university        type
+0     αεπ        alpha epsilon pi 1              aepi  1913 - 11 - 07               new york university  fraternity
+1     αεφ       alpha epsilon phi 2             aephi  1909 - 10 - 24                   barnard college    sorority
+2    σαεπ  sigma alpha epsilon pi 3             sigma  1998 - 10 - 01  university of california , davis    sorority
+3     σαμ          sigma alpha mu 1             sammy  1909 - 11 - 26          city college of new york  fraternity
+4     σδτ         sigma delta tau 2  sdt or sig delts  1917 - 03 - 25                cornell university    sorority
+5     τεφ         tau epsilon phi 1    tep , tau boys  1910 - 10 - 10               columbia university  fraternity
+6     ζβτ           zeta beta tau 1               zbt  1898 - 12 - 29          city college of new york  fraternity

@@ -1,0 +1,15 @@
+                        race name       circuit          date winning driver       constructor  report
+0               iv lombank trophy    snetterton      30 march    graham hill               brm  report
+1            xxiii pau grand prix           pau      15 april      jim clark    lotus - climax  report
+2                xi glover trophy      goodwood      15 april  innes ireland       lotus - brm  report
+3   iv gran premio citta di imola         imola      21 april      jim clark    lotus - climax  report
+4     xiv gran premio di siracusa      syracuse      25 april     jo siffert       lotus - brm  report
+5            xix barc aintree 200       aintree      27 april    graham hill               brm  report
+6   xvi brdc international trophy   silverstone        11 may      jim clark    lotus - climax  report
+7          xv gran premio di roma    vallelunga        19 may   bob anderson     lola - climax  report
+8              iii solituderennen  solitudering       28 july   jack brabham  brabham - climax  report
+9                 xii kanonloppet     karlskoga     11 august      jim clark    lotus - climax  report
+10   iii mediterranean grand prix  enna pergusa     18 august   john surtees           ferrari  report
+11          i austrian grand prix       zeltweg   1 september   jack brabham  brabham - climax  report
+12       x international gold cup   oulton park  21 september      jim clark    lotus - climax  report
+13                rand grand prix       kyalami   14 december   john surtees           ferrari  report

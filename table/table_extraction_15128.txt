@@ -1,0 +1,15 @@
+    year country / territory    miss international          national title         location
+0   2013                 tba                   tba                     tba    tokyo , japan
+1   2012               japan      ikumi yoshimatsu              miss japan  okinawa , japan
+2   2011             ecuador      fernanda cornejo            miss ecuador  chengdu , china
+3   2010           venezuela    elizabeth mosquera          miss venezuela  chengdu , china
+4   2009              mexico  anagabriela espinoza  nuestra belleza méxico  chengdu , china
+5   2008               spain      alejandra andreu              miss spain    macau , china
+6   2007              mexico      priscila perales  nuestra belleza méxico    tokyo , japan
+7   2006           venezuela    daniela di giacomo          miss venezuela  beijing , china
+8   2005         philippines         lara quigaman    binibining pilipinas    tokyo , japan
+9   2004            colombia         jeymmy vargas           miss colombia  beijing , china
+10  2003           venezuela         goizeder azúa          miss venezuela    tokyo , japan
+11  2002             lebanon      christina sawaya            miss lebanon    tokyo , japan
+12  2001              poland  małgorzata rożniecka            miss polonia    tokyo , japan
+13  2000           venezuela       vivian urdaneta          miss venezuela    tokyo , japan

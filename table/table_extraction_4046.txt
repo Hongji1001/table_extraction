@@ -1,0 +1,8 @@
+   round  pick          player       position       college
+0      1    12  marshawn lynch   running back    california
+1      2    34   paul posluzny     linebacker    penn state
+2      3    92   trent edwards    quarterback      stanford
+3      4   111   dwayne wright   running back  fresno state
+4      6   184   john wendling         safety       wyoming
+5      7   222  derek schouman      tight end   boise state
+6      7   239      c j ah you  defensive end      oklahoma

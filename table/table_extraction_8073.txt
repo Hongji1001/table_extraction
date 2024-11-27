@@ -1,0 +1,14 @@
+                     team           city        state                  home venue  capacity
+0            bengaluru fc      bangalore    karnataka  bangalore football stadium     40000
+1      churchill brothers       salcette          goa               duler stadium      6000
+2                   dempo         panjim          goa               duler stadium      6000
+3             east bengal        kolkata  west bengal           salt lake stadium    120000
+4              mohammedan        kolkata  west bengal           salt lake stadium    120000
+5             mohun bagan        kolkata  west bengal           salt lake stadium    120000
+6                  mumbai         mumbai  maharashtra     balewadi sports complex     20000
+7           prayag united        kolkata  west bengal           salt lake stadium    120000
+8                    pune           pune  maharashtra     balewadi sports complex     20000
+9       rangdajied united       shillong    meghalaya               nehru stadium     30000
+10              salgaocar  vasco da gama          goa               duler stadium      6000
+11        shillong lajong       shillong    meghalaya               nehru stadium     30000
+12  sporting clube de goa         panjim          goa               duler stadium      6000

@@ -1,0 +1,19 @@
+          city      country iata  icao                                  airport
+0        seoul  south korea  icn  rksi            incheon international airport
+1        seoul  south korea  gmp  rkss              gimpo international airport
+2         jeju  south korea  cju  rkpc               jeju international airport
+3    siem reap     cambodia  rep  vdsr          siem reap international airport
+4      sapporo        japan  cts  rjcc                      new chitose airport
+5     nagasaki        japan  ngs  rjfu                         nagasaki airport
+6      okinawa        japan  oka  roah                             naha airport
+7       fuzhou        china  foc  zsfz     fuzhou changle international airport
+8     shanghai        china  pvg  zspd    shanghai pudong international airport
+9    hong kong    hong kong  hkg  vhhh          hong kong international airport
+10       macao        macau  mfm  vmmc              macao international airport
+11        guam         guam  gum  pgum  antonio b won pat international airport
+12      taipei       taiwan  tpe  rctp            taoyuan international airport
+13     bangkok     thailand  bkk  vtbs                     suvarnabhumi airport
+14  chiang mai     thailand  cnx  vtcc         chiang mai international airport
+15   vientiane         laos  vte  vlvt             wattay international airport
+16        cebu  philippines  ceb  rpvm        mactan cebu international airport
+17       clark  philippines  crk  rplc              clark international airport

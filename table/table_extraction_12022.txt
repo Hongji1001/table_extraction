@@ -1,0 +1,16 @@
+                  team                 city inaugural season final season            captain           coach
+0   abbottabad falcons      abbottabad , kp        2005 - 06    2012 - 13        younus khan    sajjad akbar
+1        lahore eagles          lahore , pj        2004 - 05    2012 - 13       taufeeq umar   manzoor elahi
+2    faisalabad wolves      faisalabad , pj        2004 - 05    2012 - 13  misbah - ul - haq    naveed anjum
+3     bahawalpur stags      bahawalpur , pj        2012 - 13    2012 - 13       bilal khilji    shahid anwar
+4      hyderabad hawks       hyderabad , sn        2004 - 05    2012 - 13       rizwan ahmed   shaukat mirza
+5   islamabad leopards       islamabad , ct        2005 - 06    2012 - 13           umar gul    taimoor azam
+6      afghan cheetahs  kabul , afghanistan        2011 - 12    2011 - 12      mohammad nabi  raees ahmadzai
+7     karachi dolphins         karachi , sn        2004 - 05    2012 - 13      shahid afridi   tauseef ahmed
+8         lahore lions          lahore , pj        2004 - 05    2012 - 13    mohammad hafeez    mohsin kamal
+9        multan tigers          multan , pj        2004 - 05    2012 - 13         abdur rauf   manzoor elahi
+10   peshawar panthers        peshawar , kp        2004 - 05    2012 - 13      akbar badshah    abdur rehman
+11        quetta bears          quetta , bl        2004 - 05    2012 - 13         gohar faiz     arshad khan
+12     rawalpindi rams      rawalpindi , pj        2004 - 05    2012 - 13      sohail tanvir     sabih azhar
+13   sialkot stallions         sialkot , pj        2004 - 05    2012 - 13       shoaib malik  ijaz ahmed jnr
+14      karachi zebras         karachi , sn        2004 - 05    2012 - 13        rameez raja       azam khan

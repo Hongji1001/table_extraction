@@ -1,0 +1,5 @@
+      episode    broadcast date run time  viewers (in millions)                 archive
+0    part one  15 december 1973    24:15                    8.7  pal 2 colour videotape
+1    part two  22 december 1973    24:10                    7.0  pal 2 colour videotape
+2  part three  29 december 1973    23:30                    6.6  pal 2 colour videotape
+3   part four    5 january 1974    24:57                   10.6  pal 2 colour videotape

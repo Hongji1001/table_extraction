@@ -1,0 +1,9 @@
+                 name                 type          date                               condition                ownership
+0    borthwick castle          tower house          1430                                occupied                  private
+1     crichton castle     courtyard castle  14th century                               preserved        historic scotland
+2    dalhousie castle       historic house  16th century                                occupied                  private
+3     dalkeith palace       historic house  18th century                                occupied        duke of buccleuch
+4  hawthornden castle          tower house  17th century                                occupied                  private
+5     melville castle  castellated mansion  18th century                                restored                  private
+6     newbattle abbey      fortified house  17th century                                 altered  newbattle abbey college
+7       roslin castle        keep & ranges  14th century  keep is a ruin , later ranges occupied          earl of rosslyn

@@ -1,0 +1,15 @@
+              player       team         date opposition                     game
+0     jimmy crampton  tipperary       may 20  waterford  munster quarter - final
+1      mick culligan      clare      june 24   limerick     munster semi - final
+2         seán hehir      clare      june 24   limerick     munster semi - final
+3      séamus horgan   limerick      june 24      clare     munster semi - final
+4      ger loughnane      clare      june 24   limerick     munster semi - final
+5   michael o'connor      clare      june 24   limerick     munster semi - final
+6          noel ryan      clare      june 24   limerick     munster semi - final
+7           tim ryan      clare      june 24   limerick     munster semi - final
+8        joe mckenna   limerick      june 24      clare     munster semi - final
+9       john buckley       cork       july 1  tipperary     munster semi - final
+10        noel dunne       cork       july 1  tipperary     munster semi - final
+11        pat moylan       cork       july 1  tipperary     munster semi - final
+12          tom ryan   limerick      july 29  tipperary            munster final
+13        brian cody   kilkenny  september 2   limerick      all - ireland final

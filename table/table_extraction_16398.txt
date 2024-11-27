@@ -1,0 +1,9 @@
+   lane                  name           nationality  react   time
+0     4             tyson gay         united states  0.143  19.76
+1     5            usain bolt               jamaica  0.159  19.91
+2     6      wallace spearmon         united states  0.144  20.05
+3     8         rodney martin         united states  0.186  20.06
+4     3      churandy martina  netherlands antilles  0.144  20.28
+5     7       marvin anderson               jamaica  0.171  20.28
+6     9  christopher williams               jamaica  0.154  20.57
+7     7     anastasios gousis                greece  0.143  20.75

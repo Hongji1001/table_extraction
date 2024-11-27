@@ -1,0 +1,28 @@
+        nat              name             moving to             type transfer window                              transfer fee
+0       gre             zikos            retirement          retired          summer                                         -
+1       arg            blanco                 colón      loan return          summer                                         -
+2       por            edinho      vitóriadesetúbal      loan return          summer                                         -
+3       hun            tozser                  genk         transfer          summer                                     1.5 m
+4       gre           bourbos  iraklis thessaloniki         released          summer                                      free
+5       arg          azcarate            poli ejido  end of contract          summer                                      free
+6       sen             diouf   anagennisi karditsa             loan          summer                                         -
+7       bra       julio cesar       rapid bucurești  end of contract          summer                                      free
+8       por              manu               benfica      loan return          summer                                         -
+9       bra           moretto               benfica      loan return          summer                                         -
+10      sle            kallon             al shabab  end of contract          summer                                      free
+11      gre         kapetanos       steauabucurești         released          summer                                      free
+12      cyp             tofas   anagennisi karditsa             loan          summer                                         -
+13      ita        sorrentino                chievo             loan          summer                                      200k
+14      gre            pappas          skoda xanthi         transfer          summer                                       60k
+15      gre      liberopoulos   eintracht frankfurt         released          summer                                      free
+16      gha            yahaya   anagennisi karditsa             loan          summer                                         -
+17  gre rom         barboudis     apollon kalamaria             loan          summer                                         -
+18      gre            dellas  anorthosis famagusta         released          summer                                      free
+19      gre  papastathopoulos                 genoa         transfer          summer  3.8 m + 15% of the profit from next sale
+20      arg      arruabarrena                 tigre         released          summer                                      free
+21      bra           rivaldo             bunyodkor         transfer          summer                                       1 m
+22  gre alb              kone  iraklis thessaloniki         transfer          summer                                      free
+23      bra     edson ratinho            mogi mirim         transfer          winter                                      350k
+24      gre           basinas            portsmouth         released          winter                                      free
+25      gre            zorbas           panetolikos             loan          winter                                         -
+26      cyp             tofas  anorthosis famagusta             loan          winter                                         -

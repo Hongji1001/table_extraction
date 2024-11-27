@@ -1,0 +1,12 @@
+                                   player   no (s) height in ft          position school / club team / country
+0                   davis , ben ben davis        4        6 - 9           forward                      arizona
+1           davis , emanual emanual davis       15        6 - 4             guard               delaware state
+2                   davis , jim jim davis       30        6 - 9            center                     colorado
+3                 davis , josh josh davis       00        6 - 8           forward                      wyoming
+4   dickerson , michael michael dickerson        3        6 - 5             guard                      arizona
+5           dinkins , byron byron dinkins        9        6 - 1             guard   north carolina - charlotte
+6             dorsey , jacky jacky dorsey       44        6 - 7           forward                      georgia
+7               dorsey , joey joey dorsey       15        6 - 7  forward / center                      memphis
+8                 drew , bryce bryce drew       11        6 - 3             guard                   valparaiso
+9           drexler , clyde clyde drexler       22        6 - 7             guard                      houston
+10          dunleavy , mike mike dunleavy  10 , 31        6 - 3             guard               south carolina

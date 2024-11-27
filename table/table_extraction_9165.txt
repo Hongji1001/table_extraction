@@ -1,0 +1,13 @@
+                                          team            city , region          arena                colours              head coach
+0                                      fjölnir  grafarvogur , reykjavík         dalhús          yellow / blue     hjalti vilhjálmsson
+1                                    grindavík                grindavík      grindavík            blue / gold  sverrir þór sverrisson
+2                                           ír                reykjavík     seljaskóli           blue / white    jón arnar ingvarsson
+3                                     keflavík             reykjanesbær  toyota höllin           blue / white  sigurður ingimundarson
+4                                           kr                reykjavík   dhl - höllin          black / white     helgi már magnússon
+5                                          kfí               ísafjörður       ísjakinn            red / white    pétur már sigurðsson
+6                                     njarðvík                 njarðvík   ljónagryfjan          green / white        einar jóhannsson
+7                                 skallagrímur                borgarnes      borgarnes         green / yellow     pálmi þór sævarsson
+8                                      snæfell             sauðárkrókur  stykkishólmur            red / white   ingi þór steinþórsson
+9                                     stjarnan                 garðabær       ásgarður           blue / white        teitur örlygsson
+10  thor thorl ( icelandic : þór þorlákshöfn )              þorlákshöfn    þorlákshöfn           blue / black    benedikt guðmundsson
+11                                  tindastóll             sauðárkrókur   sauðárkrókur  maroon / white / blue        bárður eyþórsson

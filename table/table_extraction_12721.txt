@@ -1,0 +1,15 @@
+    week                 date             opponent     result  attendance
+0      1  september 17 , 1961  washington redskins   w 35 - 3       43412
+1      2  september 24 , 1961    green bay packers  l 30 - 10       38624
+2      3     october 1 , 1961        detroit lions   w 49 - 0       53155
+3      4     october 8 , 1961     los angeles rams   w 35 - 0       59004
+4      5    october 15 , 1961    minnesota vikings  w 38 - 24       34415
+5      6    october 22 , 1961        chicago bears   l 31 - 0       49070
+6      7    october 29 , 1961  pittsburgh steelers  l 20 - 10       19686
+7      8    november 5 , 1961        detroit lions  t 20 - 20       56878
+8      9   november 12 , 1961     los angeles rams   l 17 - 7       63766
+9     10   november 19 , 1961        chicago bears  w 41 - 31       52972
+10    11   november 26 , 1961    minnesota vikings  w 38 - 28       48905
+11    12    december 3 , 1961      baltimore colts  l 20 - 17       57641
+12    13   december 10 , 1961    green bay packers  w 22 - 21       55722
+13    14   december 16 , 1961      baltimore colts  l 27 - 24       45517

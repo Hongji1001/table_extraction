@@ -1,0 +1,12 @@
+   Unnamed: 0              week 1             week 2           week 3                week 4              week 5
+0     january      mackenzie ryan       kelli peters   meagan radelat      kimberly holland                 NaN
+1    february     rochelle loewen   rebecca roozrokh     andrea marin          j'tia taylor                 NaN
+2       march         jenny gable      claudia costa      crystal lee  meagan rose campbell      natalie taylor
+3       april  carrie ann beckett     amy sue cooper     amanda renae           summer ehly                 NaN
+4         may   masha christensen      tiffany logan      cynthia lea        hollie winnard  elizabeth primeaux
+5        june       mandy ashford  tiffani hollowell   jessica kramer        danielle gamba                 NaN
+6        july       sheila levell          tanya sue    paula larocca        araya robinson                 NaN
+7      august      marie thompson         misty dawn     amy robinson          alexis tyler          kate marie
+8   september       brandy canada   christina carson  vivian le brock          amy mccarthy                 NaN
+9     october         julia marie     jeniffer silva     brenda jones         carrie minter                 NaN
+10   november            yumi lee      nicole kelley    trista ashley     christina linehan        alex chanler

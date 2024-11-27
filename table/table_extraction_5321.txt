@@ -1,0 +1,15 @@
+             film title director                   writer                                     voiced character (s)          producer / executive producer     sound
+0             toy story       jl       jl , jhr , pd , as                                     jdr , jhr , jep , as                      rg , ba , ec , sj        gr
+1         a bug 's life       jl            jl , jhr , as                                            jl , as , jdr                               dka , kr        gr
+2           toy story 2       jl             jl , pd , as                           jdr , jl , jhr , jep , as , lu  jhr , jep , jak , bp , jap , jok , bl        gr
+3        monsters , inc       pd  jep , dg , pd , re , as                      jdr , jhr , jep , dg , pd , gq , lu                          dka , jl , as   gr , tm
+4          finding nemo       as                  bp , as                                 jdr , jhr , bp , as , lu                                     jl        gr
+5       the incredibles       bb                       bb  jdr , jhr , bb , jep , tn , lr , pd , bp , as , bl , ps                                jw , jl        rt
+6                  cars       jl       jl , jhr , bc , jk                  jdr , jhr , ds , tn , lr , bp , as , gq                                    dka        tm
+7           ratatouille       bb                 bb , jap                                  jdr , bb , tn , lr , ps                                jl , as        rt
+8              wall - e       as                       as                                                      jdr                                jl , pd      bebu
+9                    up       pd                  bc , gr                                            jdr , pd , bp                                jl , as        tm
+10          toy story 3       lu        ma , jl , as , lu                                       jdr , tn , bl , lu                               dka , jl        tm
+11               cars 2       jl                  jl , bl                                       jdr , jl , bl , gq                                     dr        tm
+12                brave       ma                       bc                                                      jdr                      ks , jl , as , pd  gr , ejh
+13  monsters university       ds            dg , rlb , ds                                                      jdr                                kr , jl        tm

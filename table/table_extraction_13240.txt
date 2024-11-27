@@ -1,0 +1,31 @@
+    round  pick  overall             name position            college
+0       1    10       10     jack jenkins       fb         vanderbilt
+1       3    10       25      bill dutton       hb         pittsburgh
+2       5    10       40         bob dove       de         notre dame
+3       6    10       50     wally ziemba        c         notre dame
+4       7    10       60       lou rymkus       ot         notre dame
+5       8    10       70        tony leon        g            alabama
+6       9    10       80         bob motl        e       northwestern
+7      10    10       90    walt mcdonald       db             tulane
+8      11    10      100   george perpich       ot         georgetown
+9      12    10      110         dan wood        c        mississippi
+10     13    10      120     harry wright        g         notre dame
+11     14    10      130      oscar britt        g        mississippi
+12     15    10      140       dick weber        g           syracuse
+13     16    10      150          joe day       rb       oregon state
+14     17    10      160  frank dornfield       rb         georgetown
+15     18    10      170     john baklarz       ot      arizona state
+16     19    10      180        leo mogus        e   youngstown state
+17     20    10      190     dick secrest       rb          rochester
+18     21    10      200     don nolander        c          minnesota
+19     22    10      210   johnny barrett       rb         georgetown
+20     23    10      220         tom vohs       ot            colgate
+21     24    10      230   charlie yancey       rb  mississippi state
+22     25    10      240      roman bentz        g             tulane
+23     26    10      250  swifty berthold        e           syracuse
+24     27    10      260    vince pacewic       hb             loyola
+25     28    10      270     joe riccardi       ot               ohio
+26     29    10      280     john jaffurs        g         penn state
+27     30    10      290      frank akins       fb   washington state
+28     31     5      295       bill corry       rb            florida
+29     32     5      300      bo bogovich        g           delaware

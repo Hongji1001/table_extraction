@@ -1,0 +1,31 @@
+    round  pick              player  position school / club team
+0       1     6  johnny strzykalski      back          marquette
+1       3    21      bob nussbaumer  halfback           michigan
+2       4    36             ed cody      back             purdue
+3       6    46        john ferraro    tackle                usc
+4       7    56          art renner       end           michigan
+5       8    66           bert cole    tackle     oklahoma state
+6       9    76       grant darnell     guard          texas a&m
+7      10    86          joe mcafee      back         holy cross
+8      11    96        steve conroy      back         holy cross
+9      12   106    billy hildebrand       end  mississippi state
+10     13   116            tom hand    center               iowa
+11     14   126         george hill     guard       georgia tech
+12     15   136           jim hough      back            clemson
+13     16   146         dean gaines    tackle       georgia tech
+14     17   156          j p miller     guard            georgia
+15     18   166          boyd morse       end            arizona
+16     19   176        joe bradford    center                usc
+17     20   186         bill derosa      back     boston college
+18     21   196         ralph grant      back           bucknell
+19     22   206         howie brown     guard            indiana
+20     23   216         andy kosmac    center                lsu
+21     24   226       maurice stacy      back         washington
+22     25   236      chick davidson    tackle            cornell
+23     26   246         john norton      back         washington
+24     27   256       ed holtsinger      back       georgia tech
+25     28   266        joe campbell       end         holy cross
+26     29   276    francis saunders    tackle            clemson
+27     30   286          al sparlis     guard               ucla
+28     31   291        ralph clymer     guard             purdue
+29     32   296   joervin henderson    center           missouri

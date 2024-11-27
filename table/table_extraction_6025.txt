@@ -1,0 +1,6 @@
+             pitcher                 date          team  result                site
+0          al leiter        may 11 , 1996       rockies  11 - 0  pro player stadium
+1        kevin brown       june 10 , 1997        giants   9 - 0    candlestick park
+2        a j burnett        may 12 , 2001        padres   3 - 0    qualcomm stadium
+3     aníbal sánchez   september 6 , 2006  diamondbacks   2 - 0     dolphin stadium
+4  henderson alvarez  september 29 , 2013        tigers   1 - 0        marlins park

@@ -1,0 +1,10 @@
+   149   9 february                  friendly    israel  croatia
+0  150     26 march  world cup 2006 qualifier   croatia  iceland
+1  151     30 march  world cup 2006 qualifier   croatia    malta
+2  152       4 june  world cup 2006 qualifier  bulgaria  croatia
+3  153    17 august                  friendly   croatia   brazil
+4  154  3 september  world cup 2006 qualifier   iceland  croatia
+5  155  7 september  world cup 2006 qualifier     malta  croatia
+6  156    8 october  world cup 2006 qualifier   croatia   sweden
+7  157   12 october  world cup 2006 qualifier   hungary  croatia
+8  158  12 november                  friendly  portugal  croatia

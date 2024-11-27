@@ -1,0 +1,23 @@
+    year    date                    drivers   distance / duration                                        race title
+0   1976  sept 5             george follmer  45 laps - miles (km)                 le grand prix de trois - rivières
+1   1979  sept 1             john paul , sr  45 laps - miles (km)                 le grand prix de trois - rivières
+2   1980  aug 23                  roy woods  35 laps - miles (km)          le grand prix molson de trois - rivières
+3   1981  sept 6              eppie wietzes  35 laps - miles (km)          le grand prix molson de trois - rivières
+4   1982  sept 5  elliott forbes - robinson  35 laps - miles (km)          le grand prix labatt de trois - rivières
+5   1983  sept 4             john paul , jr  35 laps - miles (km)          le grand prix labatt de trois - rivières
+6   1984  sept 2                   tom gloy  35 laps - miles (km)          le grand prix labatt de trois - rivières
+7   1985  sept 1              willy t ribbs  40 laps - miles (km)          le grand prix labatt de trois - rivières
+8   1990  aug 19              tommy kendall  50 laps - miles (km)                    grand prix de trois - rivières
+9   1991  aug 18                scott sharp  50 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+10  1992  aug 16               jack baldwin  50 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+11  1993  aug 15                scott sharp  50 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+12  1994   aug 7              tommy kendall  55 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+13  1995   aug 6                ron fellows  55 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+14  1996   aug 4                ron fellows  55 laps - miles (km)  le grand prix player 's ltee de trois - rivières
+15  1997   aug 3              tommy kendall  55 laps - miles (km)       le grand prix player 's de trois - rivières
+16  1998   aug 2            paul gentilozzi  55 laps - miles (km)       le grand prix player 's de trois - rivières
+17  1999   aug 1            paul gentilozzi  55 laps - miles (km)       le grand prix player 's de trois - rivières
+18  2002   aug 4           butch leitzinger               66 laps                 le grand prix de trois - rivières
+19  2003   aug 2               scott pruett  65 laps - miles (km)                 le grand prix de trois - rivières
+20  2004   aug 1            paul gentilozzi  65 laps - miles (km)                 le grand prix de trois - rivières
+21  2011   aug 7                   tony ave  61 laps - miles (km)                 le grand prix de trois - rivières

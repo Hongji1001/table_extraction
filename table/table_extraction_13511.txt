@@ -1,0 +1,17 @@
+   place            player        country  score to par
+0     t1  seve ballesteros          spain     69    - 2
+1     t1     john mahaffey  united states     69    - 2
+2     t1        bob murphy  united states     69    - 2
+3      4      bruce devlin      australia     70    - 1
+4     t5        lou graham  united states     71      e
+5     t5     bobby wadkins  united states     71      e
+6     t5      d a weibring  united states     71      e
+7     t8        jim booros  united states     72    + 1
+8     t8      frank conner  united states     72    + 1
+9     t8     raymond floyd  united states     72    + 1
+10    t8        hale irwin  united states     72    + 1
+11    t8       jim nelford         canada     72    + 1
+12    t8        nick price       zimbabwe     72    + 1
+13    t8      joey rassett  united states     72    + 1
+14    t8     lanny wadkins  united states     72    + 1
+15    t8        tom watson  united states     72    + 1

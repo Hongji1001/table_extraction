@@ -1,0 +1,18 @@
+                       name  la liga  copa del rey  uefa champions league  fifa club world championship  total
+0                      raúl       17             0                     10                             2     29
+1        fernando morientes       12             0                      6                             1     19
+2                     sávio        4             0                      4                             1      9
+3            roberto carlos        4             0                      4                             0      8
+4                      guti        6             1                      1                             0      8
+5            nicolas anelka        2             0                      2                             3      7
+6           fernando hierro        5             0                      1                             1      7
+7                  own goal        2             0                      3                             0      5
+8           steve mcmanaman        3             0                      1                             0      4
+9            rolando zárate        1             2                      0                             0      3
+10            ivan helguera        0             0                      2                             0      2
+11             elvir baljić        1             0                      0                             0      1
+12  josé manuel meca garcía        1             0                      0                             0      1
+13        perica ognjenović        0             1                      0                             0      1
+14       christian karembeu        0             0                      1                             0      1
+15                   geremi        0             0                      0                             1      1
+16                   totals       58             4                     35                             9    106

@@ -1,0 +1,6 @@
+  urban area   country                 region  population globalization index
+0     madrid     spain    community of madrid     6321398               alpha
+1  barcelona     spain              catalonia     4604000             alpha -
+2     lisbon  portugal          lisbon region     3035000             alpha -
+3      porto  portugal           norte region     1676848             gamma -
+4   valencia     spain  community of valencia     1564145               gamma

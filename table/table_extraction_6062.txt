@@ -1,0 +1,29 @@
+                                             name                country           reign began           reign ended   length
+0                                emperor taichang                  china        28 august 1620     26 september 1620  29 days
+1                                      emperor he                  china                 74 bc                 74 bc  27 days
+2                                     pope leo xi               holy see          1 april 1605         27 april 1605  27 days
+3                                   pope pius iii               holy see     22 september 1503       18 october 1503  27 days
+4                      prince milan obrenoviä‡ ii                 serbia          25 june 1839           8 july 1839  26 days
+5                                 pope damasus ii               holy see          17 july 1048         9 august 1048  24 days
+6                             emperor constantine         russian empire       1 december 1825      25 december 1825  24 days
+7                            pharaoh amenemhet vi                  egypt              c1780 bc              c1780 bc  23 days
+8                               pope marcellus ii               holy see          9 april 1555            1 may 1555  22 days
+9                               emperor gordian i           roman empire          22 march 238          12 april 238  21 days
+10                             emperor gordian ii           roman empire          22 march 238          12 april 238  21 days
+11                                 pope sisinnius               holy see     15 january 708 ad     4 february 708 ad  21 days
+12                               pope theodore ii               holy see       december 897 ad       december 897 ad  20 days
+13                                  emperor shang                  china            8 july 710           25 july 710  18 days
+14                       king anikanga mahadipada            polonnaruwa                  1209                  1209  17 days
+15                              pope celestine iv               holy see       25 october 1241      10 november 1241  17 days
+16                               pope boniface vi               holy see          april 896 ad          april 896 ad  16 days
+17                            emperor napoleon ii  emperor of the french          22 june 1815           7 july 1815  16 days
+18                                 pope urban vii               holy see     15 september 1590     27 september 1590  13 days
+19                               king lodewijk ii                holland           1 july 1810          13 july 1810  12 days
+20                                   emperor puyi                  china           1 july 1917          12 july 1917  12 days
+21                                     queen jane    england and ireland          10 july 1553          19 july 1553   9 days
+22  emir saad al - abdullah al - salim al - sabah                 kuwait       15 january 2006       24 january 2006   9 days
+23                                   king henry v         king of france         2 august 1830         9 august 1830   7 days
+24                                 king thong lan      ayutthaya kingdom                  1370                  1370   7 days
+25                                  pharaoh hor i                  egypt              c1775 bc              c1775 bc   7 days
+26                                   king sigeric                  spain                   415                   415   7 days
+27                                     king zimri                 israel  c 885 bc or c 876 bc  c 885 bc or c 876 bc   7 days

@@ -1,0 +1,13 @@
+           country             skip  ends won  ends lost blank ends f / a  stolen ends for  stolen ends against  shot %
+0           canada     kevin martin        47         33            1 / 6               11                    2      88
+1         scotland    david murdoch        45         38           6 / 11               11                    6      83
+2      switzerland    ralph stöckli        44         41           4 / 11               13                   12      80
+3           norway    thomas ulsrud        42         37           14 / 4               14                   10      83
+4    united states     john shuster        49         41            4 / 7               19                   10      78
+5          germany        andy kapp        45         46           6 / 11               10                    9      81
+6          denmark    ulrik schmidt        44         44           10 / 5               12                   10      79
+7           france    thomas dufour        33         39           16 / 3                6                   12      75
+8            china    wang fengchun        45         47            4 / 7               11                   11      81
+9            japan  yusuke morozumi        38         45            4 / 7                9                   13      79
+10  czech republic      jiří snítil        39         46            9 / 3                8                   16      75
+11         finland  kalle kiiskinen        35         49            2 / 5                7                   21      74

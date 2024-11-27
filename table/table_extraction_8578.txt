@@ -1,0 +1,18 @@
+               competition                          venue  year        category  result
+0      world championships                     pol leszno  1999     world class  bronze
+1      world championships                      esp lillo  2001     world class  bronze
+2      world championships                      svk nitra  2003     world class    gold
+3      world championships                    nor elverum  2004      club class    gold
+4      world championships              fra saint - auban  2005      grand prix    gold
+5   european championships                      svk nitra  2005      club class    gold
+6      world championships       fra vinon - sur - verdon  2006      club class    gold
+7   european championships                   ltu pociunai  2007      club class    gold
+8      world championships                    nzl omarama  2007      grand prix    gold
+9          world air games                     ita torino  2009      grand prix    gold
+10     world championships          chl santiago de chile  2010      grand prix    gold
+11     world championships                  svk prievidza  2010  standard class    gold
+12  european championships                      svk nitra  2011  standard class    gold
+13     world championships                     usa uvalde  2012            15 m    gold
+14     world championships               argentina chavez  2013  standard class    gold
+15  european championships       fra vinon - sur - verdon  2013            18 m    gold
+16  european championships  pol ostrã cubicw wielkopolski  2013  standard class    gold

@@ -1,0 +1,16 @@
+                   team outgoing manager manner of departure   date of vacancy incoming manager date of appointment position in table
+0    milton keynes dons        paul ince            resigned     16 april 2010    karl robinson         10 may 2010      pre - season
+1       plymouth argyle     paul mariner   became head coach        6 may 2010       peter reid        24 june 2010      pre - season
+2          notts county  steve cotterill     end of contract       27 may 2010      craig short         4 june 2010      pre - season
+3           southampton      alan pardew              sacked    30 august 2010     nigel adkins   12 september 2010              21st
+4          notts county      craig short              sacked   24 october 2010        paul ince     28 october 2010              16th
+5        bristol rovers    paul trollope              sacked  15 december 2010      dave penney     10 january 2011              21st
+6               walsall  chris hutchings              sacked    4 january 2011       dean smith     21 january 2011              24th
+7     charlton athletic   phil parkinson              sacked    4 january 2011     chris powell     14 january 2011               5th
+8   peterborough united     gary johnson      mutual consent   10 january 2011  darren ferguson     12 january 2011               7th
+9           bournemouth       eddie howe   signed by burnley   16 january 2011     lee bradbury     28 january 2011               4th
+10  sheffield wednesday      alan irvine              sacked   3 february 2011      gary megson     4 february 2011              12th
+11            brentford       andy scott              sacked   3 february 2011    nicky forster        1 march 2011              19th
+12         swindon town     danny wilson            resigned      2 march 2011        paul hart        3 march 2011              22nd
+13         notts county        paul ince      mutual consent      3 march 2011     martin allen       11 april 2011              19th
+14       bristol rovers      dave penney              sacked      7 march 2011      paul buckle         30 may 2011              23rd

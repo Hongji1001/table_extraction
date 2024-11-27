@@ -1,0 +1,6 @@
+               date                             venue  score result               competition
+0  3 september 2010         zimbru stadium , chișinău  1 - 0  2 - 0       euro 2012 qualifier
+1  7 september 2010  szusza ferenc stadium , budapest  1 - 2  1 - 2       euro 2012 qualifier
+2     29 march 2011           råsunda stadium , solna  1 - 2  1 - 2       euro 2012 qualifier
+3   11 october 2011         zimbru stadium , chișinău  3 - 0  4 - 0       euro 2012 qualifier
+4     26 march 2013     chornomorets stadium , odessa  1 - 2  1 - 2  2014 world cup qualifier

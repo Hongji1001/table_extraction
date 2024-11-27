@@ -1,0 +1,9 @@
+  region                             title label       format       catalog - nr
+0    usa  a gift from a flower to a garden  epic      mono lp            l2n6071
+1    usa  a gift from a flower to a garden  epic    stereo lp             b2n171
+2     uk  a gift from a flower to a garden   pye      mono lp           npl20000
+3     uk  a gift from a flower to a garden   pye    stereo lp         nspl 20000
+4    usa        wear your love like heaven  epic  monaural lp           ln 24349
+5    usa        wear your love like heaven  epic    stereo lp  bn 26349 (stereo)
+6    usa                   for little ones  epic  monaural lp            ln24350
+7    usa                   for little ones  epic    stereo lp   bn26350 (stereo)

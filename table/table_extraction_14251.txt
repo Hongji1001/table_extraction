@@ -1,0 +1,6 @@
+        type           name    title       royal house                from
+0  sovereign  mentuhotep ii  pharaoh  eleventh dynasty             2010 bc
+1  sovereign  mentuhotep iv  pharaoh  eleventh dynasty  1998 bc or 1997 bc
+2  sovereign    amenemhat i  pharaoh   twelfth dynasty             1991 bc
+3  sovereign     senusret i  pharaoh   twelfth dynasty             1971 bc
+4  sovereign   amenemhat ii  pharaoh   twelfth dynasty             1929 bc

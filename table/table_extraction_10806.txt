@@ -1,0 +1,30 @@
+    year  class       team  points  wins
+0   1959  125cc     ducati       2     0
+1   1960  125cc  mv agusta       0     0
+2   1960  250cc  aermacchi       2     0
+3   1960  350cc     norton       0     0
+4   1960  500cc     norton       0     0
+5   1961  250cc  aermacchi       0     0
+6   1961  500cc     norton       3     0
+7   1962  125cc      honda       2     0
+8   1962  250cc      honda       8     0
+9   1963   50cc   kreidler       9     0
+10  1963  350cc     norton       0     0
+11  1964  250cc      paton       6     0
+12  1965  250cc  aermacchi       1     0
+13  1965  350cc  aermacchi       0     0
+14  1966  250cc  aermacchi       4     0
+15  1966  350cc  aermacchi      11     0
+16  1967  250cc  aermacchi       0     0
+17  1967  350cc  aermacchi      11     0
+18  1968  500cc      linto       9     0
+19  1969  350cc  aermacchi       0     0
+20  1969  500cc      linto      15     1
+21  1970  250cc  aermacchi       4     0
+22  1970  500cc      linto      30     0
+23  1971  125cc      derbi       4     0
+24  1971  250cc     suzuki       0     0
+25  1971  500cc      linto      29     1
+26  1971  500cc  mv agusta      29     1
+27  1972  350cc  mv agusta       4     0
+28  1972  500cc  mv agusta      87     1

@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0              eddie irvine                 ferrari    71    1:28:12.438     3
+1           david coulthard      mclaren - mercedes    71        + 0.313     2
+2             mika häkkinen      mclaren - mercedes    71       + 22.282     1
+3   heinz - harald frentzen  jordan - mugen - honda    71       + 52.803     4
+4            alexander wurz     benetton - playlife    71     + 1:06.358    10
+5               pedro diniz       sauber - petronas    71     + 1:10.933    16
+6              jarno trulli         prost - peugeot    70        + 1 lap    13
+7                damon hill  jordan - mugen - honda    70        + 1 lap    11
+8                 mika salo                 ferrari    70        + 1 lap     7
+9             olivier panis         prost - peugeot    70        + 1 lap    18
+10                marc gené          minardi - ford    70        + 1 lap    22
+11     giancarlo fisichella     benetton - playlife    68         engine    12
+12              luca badoer          minardi - ford    68       + 3 laps    19
+13           johnny herbert          stewart - ford    67       + 4 laps     6
+14            ricardo zonta          bar - supertec    63         clutch    15
+15       rubens barrichello          stewart - ford    55         engine     5
+16               jean alesi       sauber - petronas    49    out of fuel    17
+17         pedro de la rosa                  arrows    38       spun off    21
+18       alessandro zanardi     williams - supertec    35    out of fuel    14
+19       jacques villeneuve          bar - supertec    34      halfshaft     9
+20        toranosuke takagi                  arrows    25         engine    20
+21          ralf schumacher     williams - supertec     8       spun off     8

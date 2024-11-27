@@ -1,0 +1,15 @@
+                  team 1               agg            team 2 1st leg 2nd leg
+0      defensor sporting             5 - 4          libertad   2 - 1   3 - 3
+1              ldu quito             5 - 4           bolívar   4 - 2   1 - 2
+2                américa             2 - 1    deportivo cali   2 - 0   0 - 1
+3               ñublense             1 - 4      sport áncash   1 - 0   0 - 4
+4   universidad católica             6 - 2           olimpia   4 - 0   2 - 2
+5                 aragua             2 - 3       guadalajara   1 - 2   1 - 1
+6               san luis             5 - 4   deportivo quito   3 - 1   2 - 3
+7                arsenal             6 - 1           motagua   4 - 0   2 - 1
+8          independiente  3 - 3 (3 - 5 p )       estudiantes   2 - 1   1 - 2
+9     argentinos juniors             2 - 0       san lorenzo   0 - 0   2 - 0
+10   atlético paranaense  0 - 0 (4 - 3 p )         são paulo   0 - 0   0 - 0
+11         internacional       3 - 3 ( a )            grêmio   1 - 1   2 - 2
+12         vasco da gama             3 - 4         palmeiras   3 - 1   0 - 3
+13              botafogo             8 - 3  atlético mineiro   3 - 1   5 - 2

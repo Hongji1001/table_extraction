@@ -1,0 +1,6 @@
+   rank          player        country  earnings  wins
+0     1   miller barber  united states   2214603    24
+1     2     bob charles    new zealand   1910413    13
+2     3   orville moody  united states   1862956     9
+3     4  bruce crampton      australia   1682961    15
+4     5     gary player   south africa   1604659    14

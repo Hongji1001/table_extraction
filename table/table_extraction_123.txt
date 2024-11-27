@@ -1,0 +1,9 @@
+   pick                  cfl team            player position          college
+0    27     hamilton tiger - cats     connor healey       db  wilfrid laurier
+1    28        calgary stampeders  anthony forgione       ol             york
+2    29          ottawa renegades      lp ladouceur       dt       california
+3    30         toronto argonauts     frank hoffman       dl             york
+4    31  saskatchewan roughriders     luc mullinder       de   michigan state
+5    32  saskatchewan roughriders       ryan strong       ol      wayne state
+6    33     winnipeg blue bombers     neil mckinlay       lb     simon fraser
+7    34        montreal alouettes         rudy hage       de        concordia

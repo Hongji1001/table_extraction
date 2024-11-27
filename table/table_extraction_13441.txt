@@ -1,0 +1,14 @@
+         game          day , date anand gelfand             standing
+0           1     friday , 11 may     ½       ½     match tied ½ - ½
+1           2   saturday , 12 may     ½       ½     match tied 1 - 1
+2           3     monday , 14 may     ½       ½   match tied 1½ - 1½
+3           4    tuesday , 15 may     ½       ½     match tied 2 - 2
+4           5   thursday , 17 may     ½       ½   match tied 2½ - 2½
+5           6     friday , 18 may     ½       ½     match tied 3 - 3
+6           7     sunday , 20 may     0       1  gelfand leads 4 - 3
+7           8     monday , 21 may     1       0     match tied 4 - 4
+8           9  wednesday , 23 may     ½       ½   match tied 4½ - 4½
+9          10   thursday , 24 may     ½       ½     match tied 5 - 5
+10         11   saturday , 26 may     ½       ½   match tied 5½ - 5½
+11         12     monday , 28 may     ½       ½     match tied 6 - 6
+12  tie break  wednesday , 30 may    2½      1½   anand wins 8½ - 7½

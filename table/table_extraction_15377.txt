@@ -1,0 +1,41 @@
+      province , community                           contestant height                    hometown    geographical regions
+0                     azua                odalisse meran castro   5'10             padre las casas  el valle de enriquillo
+1                  baoruco                sandra hidalgo vargas   5'10                   el palmar  el valle de enriquillo
+2                 barahona           miguelina henríquez stuart    5'7               vicente noble  el valle de enriquillo
+3           com dom canada                mariasela esmero melo    5'7                     toronto                exterior
+4      com dom connecticut                   carina german faro   5'11                    hartford                exterior
+5      com dom lto america                cinthia peña de lizio    5'5                     caracas                exterior
+6    com dom massachusetts                      lucia moya alvo    5'9                      boston                exterior
+7            com dom miami                      kayla soto ynoa    5'8                 miami beach                exterior
+8               com dom nj                 catia gordon ferrano   5'11                      newark                exterior
+9               com dom ny            suanny frotaán de la cruz    6'0                    new york                exterior
+10         com dom orlando                sandy de lara tavares    6'0                    colonial                exterior
+11    com dom pennsylvania               jeymi garcía espaillat    5'9                  pittsburgh                exterior
+12    com dom rhode island               roselkys tavarez golfo    5'9                  providence                exterior
+13                 dajabón              elizabeth rondón garcía    5'9             loma de cabrera        cibao occidental
+14       distrito nacional     elizabeth magdalena matos palmas    6'0    urbanización de el rosal                   ozama
+15                  duarte                 kenia guerra polanco    5'7                    pimentel          cibao oriental
+16              elías piña                  lizbeth veras perez    5'6     san francisco de bánica  el valle de enriquillo
+17                el seibo                   oliva de soto ríos   5'10      santa cruz de el seibo                 higüamo
+18               espaillat        katherine wanda camacho tatis   5'10                 joba arriba        cibao occidental
+19              hato mayor                fernanda sosa santana    5'8            sabana de la mar                 higüamo
+20           independencia                   denise rivera sosa   5'11                      jimaní  el valle de enriquillo
+21           la altagracia                   milka ramos javier    6'0                 bahia buena                 higüamo
+22               la romana            dayani altagracia jiménez    5'8                   la romana                 higüamo
+23                 la vega  carolina gianela rodríguez familias   5'11       concepción de la vega        cibao occidental
+24  maría trinidad sánchez                bárbara gómez batista    6'0      trinidad sánchez nagua          cibao oriental
+25          monseñor nouel                viviana zamora padron   5'11                       bonao          cibao oriental
+26            monte cristi            ana lucia de arollo sesto    5'8                    guayubín        cibao occidental
+27             monte plata                   elisa mayos duarte    6'0       sabana grande de boyá                   ozama
+28              pedernales       maría alejandra guzmán carmona   5'11                  pedernales  el valle de enriquillo
+29                 peravia                   eva cuello tavares    5'7                        baní                   ozama
+30            puerto plata                   milly grono suarez   5'11  san felipe de puerto plata        cibao occidental
+31                 salcedo                emma alvarez granados    6'0                     tenares          cibao oriental
+32                  samaná             alicia oviedo de la cruz    5'8                    el limón          cibao oriental
+33         sánchez ramírez         maría eugenia vargas rosario    6'1                       cotuí          cibao oriental
+34           san cristóbal             elixandra tobias carasco    6'0               san cristóbal                   ozama
+35                san juan               tatiana vargas rosales    5'8         las matas de farfán  el valle de enriquillo
+36    san pedro de macorís                alisa castaño jiménez    5'6                   quisqueya                 higüamo
+37                santiago               cindy guerrero reynoso    5'9   pueblo nuevo de navarrete        cibao occidental
+38      santiago rodríguez              margarita rosario valle    6'0                     monción        cibao occidental
+39                valverde                  luisa peralta ramos    5'8                   esperanza        cibao occidental

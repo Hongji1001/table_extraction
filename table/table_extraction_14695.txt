@@ -1,0 +1,38 @@
+    year                                            title sales certified certification (france) peak position
+0     fr                                          fr (dd)         be (wa)                be (fl)           sui
+1   1983                                     little girls               -                      -             -
+2   1985                                    back to tokyo               -                      -             -
+3   1989                                kennedy boulevard               -                      -             -
+4   1991                                    aretha et moi               -                      -             -
+5   1992                                 elle danse seule               -                      -             -
+6   1993                                     je t'attends               -                      -            13
+7   1993                                       sensualité          250000            gold (1994)             2
+8   1993                              le monde tourne mal               -                      -            38
+9   1996                                          à ttons               -                      -             -
+10  1997                              rien que d'y penser               -                      -             -
+11  1997                                         mon café               -                      -             -
+12  1997                                        ma prière               -                      -             -
+13  1998                                   à quoi ça sert               -                      -            45
+14  1998                                     rester femme          125000          silver (1998)             9
+15  1998                               la cour des grands               -                      -            16
+16  1999                                         ce matin               -                      -            17
+17  1999                                faire des mamours               -                      -             -
+18  1999                              parce que c'est toi          250000            gold (2000)             2
+19  2000                                      bimbo à moi               -                      -            44
+20  2000  j'ai jamais dit (je serai ton amie) (radio mix)               -                      -             -
+21  2001                             aretha et moi (live)               -                      -             -
+22  2002                               manhattan - kaboul          500000        platinum (2002)             2
+23  2002                                       je me fche               -                      -            56
+24  2003                                   pas maintenant               -                      -            61
+25  2003                                   venez vers moi               -                      -             -
+26  2003                                         toujours               -                      -             -
+27  2004                                           gloria               -                      -             -
+28  2004                                   je pense à toi               -                      -             -
+29  2005                                j'ai fait un rêve               -                      -             -
+30  2006                                   changer ma vie               -                      -             -
+31  2006                                  temps pour nous               -                      -            67
+32  2007                           si tu savais (janelle)               -                      -             -
+33  2007                                            naïve               -                      -             -
+34  2007                                    over 't water               -                      -             -
+35  2011                                        la claque               -                      -             -
+36  2013                                     rouge ardent               -                      -            89

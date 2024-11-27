@@ -1,0 +1,10 @@
+       country                             local name                                    host      network       date premiered
+0       brazil           meu pai é melhor que seu pai                         celso portiolli          sbt      april 18 , 2010
+1        china                     老爸拼吧 lao ba pin ba                                 unknown  xiamen star        june 1 , 2013
+2      croatia         moj tata je bolji od tvog tate                          toni jeričević      nova tv     august 23 , 2008
+3        egypt                 الفائز أبى el faez abi                        mohammad el qusi    channel 1     september , 2009
+4      finland  meidän isä on parempi kuin teidän isä                            ville klinga      nelonen                 2008
+5  netherlands                 mijn vader is de beste  yolanthe sneijder - cabau monique smit      tros tv                 2010
+6       panama           mi papá es mejor que tu papá                          miguel esteban          tvn  september 11 , 2011
+7  philippines         my dad is better than your dad                            paolo contis  gma network    february 8 , 2009
+8       sweden       min pappa är bättre än din pappa                             adam alsing          tv3         may 9 , 2012

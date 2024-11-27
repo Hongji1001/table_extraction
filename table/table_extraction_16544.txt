@@ -1,0 +1,16 @@
+                      team  2002 position  2003 position  total position                           qualification
+0             dalian shide            0.5            3.0             3.5  entry to the 2004 chinese super league
+1       shenzhen jianlibao            1.0            4.0             5.0  entry to the 2004 chinese super league
+2   shanghai international            4.5            2.0             6.5  entry to the 2004 chinese super league
+3         shanghai shenhua            6.0            1.0             7.0  entry to the 2004 chinese super league
+4       liaoning zhongshun            2.5            6.0             8.5  entry to the 2004 chinese super league
+5     beijing hyundai cars            1.5            9.0            10.5  entry to the 2004 chinese super league
+6           shenyang ginde            5.5            5.0            10.5  entry to the 2004 chinese super league
+7            yunnan hongta            3.5            7.0            10.5  entry to the 2004 chinese super league
+8          shandong luneng            2.0           12.0            14.0  entry to the 2004 chinese super league
+9         qingdao beilaite            4.0           11.0            15.0  entry to the 2004 chinese super league
+10       sichuan guancheng            7.0            8.0            15.0  entry to the 2004 chinese super league
+11       tianjin kangshifu            5.0           10.0            15.0  entry to the 2004 chinese super league
+12         chongqing lifan            3.0           13.0            16.0             relegated to the jia league
+13              august 1st            6.5           14.0            20.5             relegated to the jia league
+14           shaanxi guoli            7.5           15.0            22.5             relegated to the jia league

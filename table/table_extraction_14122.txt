@@ -1,0 +1,9 @@
+           railway                           builder  built   wheels     location objectnumber
+0            c&slr  mather & platt / beyer , peacock   1890       bo     ltmuseum   1923 - 301
+1  waterloo & city             siemens brothers & co   1898       bo      shildon  1978 - 7003
+2              ner                               bth   1904  bo - bo      shildon  1975 - 7022
+3              nsr               nsr / thomas bolton   1917       bo         york  1978 - 7004
+4               br                         br gorton   1951  bo - bo         york  1978 - 7005
+5               br                      br doncaster   1958  bo - bo      shildon  1978 - 7006
+6               br                     north british   1960  bo - bo  barrow hill  1979 - 7001
+7               br                        brel crewe   1974  bo - bo         york  2005 - 7698

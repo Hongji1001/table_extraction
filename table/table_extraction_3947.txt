@@ -1,0 +1,43 @@
+    constituency no                       vidhan sabha constituency reservation for sc / st    district        lok sabha
+0               201             dumraon (vidhan sabha constituency)                    none       buxar         33 buxar
+1               202              rajpur (vidhan sabha constituency)                      sc       buxar         33 buxar
+2               203    ramgarh , kaimur (vidhan sabha constituency)                    none      kaimur         33 buxar
+3               204             mohania (vidhan sabha constituency)                      sc      kaimur  34 sasaram (sc)
+4               205              bhabua (vidhan sabha constituency)                    none      kaimur  34 sasaram (sc)
+5               206            chainpur (vidhan sabha constituency)                    none      kaimur  34 sasaram (sc)
+6               207             chenari (vidhan sabha constituency)                      sc      rohtas  34 sasaram (sc)
+7               208             sasaram (vidhan sabha constituency)                    none      rohtas  34 sasaram (sc)
+8               209            kargahar (vidhan sabha constituency)                    none      rohtas  34 sasaram (sc)
+9               210              dinara (vidhan sabha constituency)                    none      rohtas         33 buxar
+10              211               nokha (vidhan sabha constituency)                    none      rohtas       35 karakat
+11              212               dehri (vidhan sabha constituency)                    none      rohtas       35 karakat
+12              213             karakat (vidhan sabha constituency)                    none      rohtas       35 karakat
+13              214               arwal (vidhan sabha constituency)                    none       arwal     36 jahanabad
+14              215              kurtha (vidhan sabha constituency)                    none       arwal     36 jahanabad
+15              216           jehanabad (vidhan sabha constituency)                    none   jehanabad     36 jahanabad
+16              217               ghosi (vidhan sabha constituency)                    none   jehanabad     36 jahanabad
+17              218          makhdumpur (vidhan sabha constituency)                      sc   jehanabad     36 jahanabad
+18              219                 goh (vidhan sabha constituency)                    none  aurangabad       35 karakat
+19              220                obra (vidhan sabha constituency)                    none  aurangabad       35 karakat
+20              221           nabinagar (vidhan sabha constituency)                    none  aurangabad       35 karakat
+21              222             kutumba (vidhan sabha constituency)                      sc  aurangabad    37 aurangabad
+22              223  aurangabad , bihar (vidhan sabha constituency)                    none  aurangabad    37 aurangabad
+23              224            rafiganj (vidhan sabha constituency)                    none  aurangabad    37 aurangabad
+24              225               gurua (vidhan sabha constituency)                    none        gaya    37 aurangabad
+25              226           sherghati (vidhan sabha constituency)                    none        gaya     38 gaya (sc)
+26              227            imamganj (vidhan sabha constituency)                      sc        gaya    37 aurangabad
+27              228          barachatti (vidhan sabha constituency)                      sc        gaya     38 gaya (sc)
+28              229           bodh gaya (vidhan sabha constituency)                      sc        gaya     38 gaya (sc)
+29              230           gaya town (vidhan sabha constituency)                    none        gaya     38 gaya (sc)
+30              231              tikari (vidhan sabha constituency)                    none        gaya    37 aurangabad
+31              232            belaganj (vidhan sabha constituency)                    none        gaya     38 gaya (sc)
+32              233                atri (vidhan sabha constituency)                    none        gaya     36 jahanabad
+33              234           wazirganj (vidhan sabha constituency)                    none        gaya     38 gaya (sc)
+34              235             rajauli (vidhan sabha constituency)                      sc      nawada        39 nawada
+35              236               hisua (vidhan sabha constituency)                    none      nawada        39 nawada
+36              237              nawada (vidhan sabha constituency)                    none      nawada        39 nawada
+37              238           gobindpur (vidhan sabha constituency)                    none      nawada        39 nawada
+38              239         warsaliganj (vidhan sabha constituency)                    none      nawada        39 nawada
+39              240            sikandra (vidhan sabha constituency)                      sc       jamui    40 jamui (sc)
+40              241               jamui (vidhan sabha constituency)                    none       jamui    40 jamui (sc)
+41              242              jhajha (vidhan sabha constituency)                    none       jamui    40 jamui (sc)

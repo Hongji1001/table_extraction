@@ -1,0 +1,17 @@
+             player    nationality        position        years for jazz school / club team
+0    ben handlogten  united states         forward             2003 - 04   western michigan
+1      bobby hansen  united states           guard             1983 - 90               iowa
+2       james hardy  united states         forward             1978 - 82      san francisco
+3     matt harpring  united states         forward           2002 - 2009       georgia tech
+4      devin harris  united states           guard           2011 - 2012          wisconsin
+5       steve hayes  united states          center             1985 - 86        idaho state
+6    gordon hayward  united states   small forward           2010present             butler
+7   spencer haywood  united states   power forward             1978 - 79            detroit
+8     jeff hornacek  united states  shooting guard           1994 - 2000         iowa state
+9       josh howard  united states   small forward        2011 - present        wake forest
+10        mo howard  united states           guard             1977 - 78           maryland
+11   stephen howard  united states         forward  1992 - 94 ,1996 - 97             depaul
+12      troy hudson  united states           guard             1997 - 98  southern illinois
+13     eddie hughes  united states           guard             1987 - 88     colorado state
+14    jay humphries  united states           guard             1992 - 95           colorado
+15   kris humphries  united states         forward             2004 - 06          minnesota

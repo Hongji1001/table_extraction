@@ -1,0 +1,43 @@
+    district         representative party                        residence                                counties represented  term ends  first elected
+0          1          larry farnese   dem                     philadelphia                                        philadelphia       2016           2008
+1          2  christine tartaglione   dem                     philadelphia                                        philadelphia       2014           1994
+2          3        shirley kitchen   dem                     philadelphia                                        philadelphia       2016           1996
+3          4      leanna washington   dem                     philadelphia                           montgomery , philadelphia       2014           2005
+4          5    michael j stack iii   dem                     philadelphia                                        philadelphia       2016           2008
+5          6        tommy tomlinson   rep                         bensalem                                               bucks       2014           1994
+6          7         vincent hughes   dem                     philadelphia                           montgomery , philadelphia       2016           1994
+7          8     anthony h williams   dem                     philadelphia                             delaware , philadelphia       2014           1998
+8          9        dominic pileggi   rep                          chester                                  chester , delaware       2016           2002
+9         10     charlie mcilhinney   rep                       doylestown                                  bucks , montgomery       2014           2006
+10        11           judy schwank   dem                        fleetwood                                               berks       2016           2011
+11        12      stewart greenleaf   rep                     willow grove                                  bucks , montgomery       2014           1978
+12        13          lloyd smucker   rep                        lancaster                                    lancaster , york       2016           2008
+13        14          john yudichak   dem                plymouth township                                    carbon , luzerne       2014           2010
+14        15            rob teplitz   dem             susquehanna township                                      dauphin , york       2016           2012
+15        16             pat browne   rep                        allentown                       lehigh , monroe , northampton       2014           2005
+16        17           daylin leach   dem            upper merion township                               delaware , montgomery       2016           2008
+17        18           lisa boscola   dem                        bethlehem                       lehigh , monroe , northampton       2014           1998
+18        19          andy dinniman   dem                     west chester                                chester , montgomery       2016           2006
+19        22             john blake   dem                          blakely                       lackawanna , luzerne , monroe       2014           2010
+20        24             bob mensch   rep             marlborough township           bucks , lehigh , montgomery , northampton       2014           2009
+21        26           ted erickson   rep                   newtown square                                  chester , delaware       2014           2001
+22        28             mike waugh   rep                             york                                                york       2014           1998
+23        30      john eichelberger   rep                     duncansville     bedford , blair , fulton , huntingdon , mifflin       2014           2006
+24        31              pat vance   rep           silver spring township                                   cumberland , york       2016           2004
+25        32           rich kasunic   dem                           dunbar      fayette , somerset , washington , westmoreland       2014           1994
+26        33        richard alloway   rep  hamilton township , franklin co                             adams , franklin , york       2016           2008
+27        34            jake corman   rep                  benner township          centre , juniata , mifflin , perry , union       2014           1998
+28        35           john wozniak   dem                        johnstown  cambria , centre , clearfield , clinton , somerset       2016           1996
+29        36          mike brubaker   rep                          ephrata                                 chester , lancaster       2014           2006
+30        37             matt smith   dem                      bethel park                              allegheny , washington       2016           2012
+31        38              jim ferlo   dem                       pittsburgh                allegheny , armstrong , westmoreland       2014           2002
+32        39               kim ward   rep               hempfield township                                        westmoreland       2016           2008
+33        40       randy vulakovich   rep                         glenshaw                                  allegheny , butler       2014           2012
+34        41              don white   rep                          indiana     armstrong , clearfield , indiana , westmoreland       2016           2000
+35        42          wayne fontana   dem                       pittsburgh                                           allegheny       2014           2005
+36        43              jay costa   dem                     forest hills                                           allegheny       2016           1996
+37        44     john rafferty , jr   rep                     collegeville                        berks , chester , montgomery       2014           2002
+38        45           jim brewster   dem                       mckeesport                            allegheny , westmoreland       2016           2010
+39        47            elder vogel   rep           new sewickley township                       allegheny , beaver , lawrence       2016           2008
+40        48            mike folmer   rep                          lebanon               berks , dauphin , lancaster , lebanon       2014           2006
+41        49             sean wiley   dem                             erie                                                erie       2016           2012

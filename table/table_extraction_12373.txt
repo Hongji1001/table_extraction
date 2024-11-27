@@ -1,0 +1,13 @@
+    year                             award                                category          nominated work     result
+0   2009            laurence olivier award               best actress in a musical  little shop of horrors  nominated
+1   2010            evening standard award                            best actress          legally blonde  nominated
+2   2011            laurence olivier award               best actress in a musical          legally blonde        won
+3   2011        theatregoers' choice award               best actress in a musical          legally blonde        won
+4   2011            evening standard award                            best actress              flare path        won
+5   2011            broadwayworld uk award         best featured actress in a play              flare path        won
+6   2012            laurence olivier award   best performance in a supporting role              flare path        won
+7   2013        theatregoers' choice award                  best actress in a play            hedda gabler        won
+8   2013        national television awards  outstanding drama performance (female)               mrs biggs  nominated
+9   2013   royal television society awards                            best actress               mrs biggs  nominated
+10  2013  british academy television award                            best actress               mrs biggs        won
+11  2013                  tv choice awards                            best actress               mrs biggs    pending

@@ -1,0 +1,17 @@
+                     club              city                               stadium                     2009 season    group
+0       atlético nacional       panama city                   estadio javier cruz                      3rd in lna  group b
+1             chiriquí fc            bugaba                 estadio san cristóbal                         invited  group b
+2   chiriquí occidente fc  puerto armuelles  estadio glorias deportivas barüenses                         invited  group b
+3            panamá oeste          arraiján                     cancha del mystic                      4th in lna  group b
+4                coclé fc          penonomé              estadio virgilio tejeira                         invited  group b
+5             colón c - 3             colón           estadio armando dely valdés                         invited  group a
+6                el tecal          arraiján                     cancha del mystic                      9th in lna  group b
+7                 génesis       panama city    cancha de entrenamiento luis tapia                     10th in lna  group a
+8        independiente fc       la chorrera               estadio agustín sánchez                      7th in lna  group b
+9            millenium fc       panama city    cancha de entrenamiento luis tapia                      8th in lna  group a
+10                  orión     san miguelito    cancha de entrenamiento luis tapia        5th in lna (runner - up)  group a
+11          pan de azúcar     san miguelito    cancha de entrenamiento luis tapia                      6th in lna  group a
+12        tierra firme fc     san miguelito    cancha de entrenamiento luis tapia                      2nd in lna  group a
+13           río abajo fc       panama city    cancha de entrenamiento luis tapia           1st in lna (champion)  group a
+14            suntracs fc     san miguelito    cancha de entrenamiento luis tapia  copa rommel fernández champion  group a
+15          veraguas 2010          santiago           estadio áristocles castillo                         invited  group b

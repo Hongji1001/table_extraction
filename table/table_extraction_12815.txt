@@ -1,0 +1,6 @@
+            player    nationality  jersey number (s) position        years          from
+0   frank oleynick  united states                 44       pg  1975 - 1977       seattle
+1      kevin ollie  united states                  8       pg         2003   connecticut
+2        bud olsen  united states                 24   pf / c  1967 - 1968    louisville
+3      billy owens  united states                 30  sf / sg         1999      syracuse
+4  olumide oyedeji        nigeria                  0        c  2000 - 2002  djk würzburg

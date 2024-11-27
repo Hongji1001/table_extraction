@@ -1,0 +1,8 @@
+                office democratic ticket        republican ticket     socialist ticket      workers ticket
+0             governor    alfred e smith  theodore roosevelt , jr        norman thomas      james p cannon
+1  lieutenant governor     george r lunn           seymour lowman      charles solomon    franklin p brill
+2   secretary of state  james a hamilton       florence e s knapp   frank r crosswaith          lilly lore
+3          comptroller   james w fleming         vincent b murphy      theresa b wiley     abraham epstein
+4     attorney general      carl sherman          albert ottinger        louis waldman      arthur s leeds
+5            treasurer   george k shuler           lewis h pounds   john h vandenbosch     edward lindgren
+6       state engineer     dwight b ladu              roy g finch  vladimir karapetoff  richard j verhagen

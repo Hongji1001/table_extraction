@@ -1,0 +1,31 @@
+    round  pick  overall              name position               college
+0       2     3       16       mike sommer       hb     george washington
+1       3     3       28      stan flowers       rb          georgia tech
+2       3     6       31     bill anderson        e             tennessee
+3       4     3       40         dan nolan       qb                lehigh
+4       5     5       54      jim van pelt       qb              michigan
+5       6     5       66        dick lynch       db            notre dame
+6       7     5       78      leon bennett       ot        boston college
+7       8     5       90       buddy payne        e        north carolina
+8       9     5      102      frank kuchta       lb            notre dame
+9      10     5      114       ben preston       ot                auburn
+10     11     5      126      darrell dess        g  north carolina state
+11     12     5      138    eddie michaels        g             villanova
+12     13     5      150          ken ford       qb      hardin - simmons
+13     14     5      162        jack faris        e            penn state
+14     15     5      174        jack davis        g               arizona
+15     16     5      186       fred polzer        e              virginia
+16     17     5      198         fred wilt       ot              richmond
+17     18     5      210       lennie king       rb           connecticut
+18     19     5      222    don stephenson        c          georgia tech
+19     20     5      234        lou pelham        e               florida
+20     21     5      246    jackie simpson       lb           mississippi
+21     22     5      258   charley sanders       rb      west texas state
+22     23     5      270   ron schomburger        e         florida state
+23     24     5      282        rod hanson        e              illinois
+24     25     5      294        john groom        g       texas christian
+25     26     5      306  frank bloomquist        g                  iowa
+26     27     5      318     perry gehring        e             minnesota
+27     28     5      330         joe biggs        g      hardin - simmons
+28     29     5      342         ed coffin       rb              syracuse
+29     30     4      353         ted smith        e          georgia tech

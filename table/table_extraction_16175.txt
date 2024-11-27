@@ -1,0 +1,14 @@
+                   actor                  character    soap opera                years  duration
+0           szőke zoltán             berényi miklós  barátok közt                1998-  16 years
+1           ábrahám edit            berényi claudia  barátok közt                1998-  16 years
+2         varga izabella                balogh nóra  barátok közt                1998-  16 years
+3        várkonyi andrás             kertész vilmos  barátok közt                1998-  16 years
+4   tihanyi - tóth csaba               novák lászló  barátok közt                1998-  16 years
+5          rékasi károly               bartha zsolt  barátok közt                1998-  16 years
+6        r kárpáti péter             berényi andrás  barátok közt          1998 - 2012  14 years
+7         németh kristóf               kertész géza  barátok közt          1999 - 2012  13 years
+8            fodor zsóka  kertész vilmosné magdolna  barátok közt          1998 - 2011  13 years
+9          csomor csilla             berényi zsuzsa  barátok közt  1998 - 2008 , 2011-  13 years
+10          kővári tamás                novák csaba  barátok közt          1998 - 2010  12 years
+11          kinizsi ottó               balassa imre  barátok közt          1999 - 2010  11 years
+12           kiss zoltán              csurgó istván  barátok közt          1998 - 2009  11 years

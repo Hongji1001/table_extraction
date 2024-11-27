@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0        michael schumacher                 ferrari    60    1:47:02.450     2
+1            mika hã¤kkinen      mclaren - mercedes    60       + 22.465     1
+2              eddie irvine                 ferrari    60       + 29.199     5
+3            alexander wurz     benetton - playlife    59        + 1 lap    11
+4      giancarlo fisichella     benetton - playlife    59        + 1 lap    10
+5           ralf schumacher  jordan - mugen - honda    59        + 1 lap    21
+6        jacques villeneuve   williams - mecachrome    59        + 1 lap     3
+7             shinji nakano          minardi - ford    58       + 2 laps    19
+8         toranosuke takagi          tyrrell - ford    56       + 4 laps    17
+9                jean alesi       sauber - petronas    53     electrical     8
+10              pedro diniz                  arrows    45       spun off    12
+11            olivier panis         prost - peugeot    40       spun off    22
+12       rubens barrichello          stewart - ford    39       accident    16
+13           jos verstappen          stewart - ford    38         engine    15
+14          david coulthard      mclaren - mercedes    37       spun off     4
+15             jarno trulli         prost - peugeot    37       spun off    14
+16           ricardo rosset          tyrrell - ford    29       spun off    20
+17            esteban tuero          minardi - ford    29       spun off    18
+18           johnny herbert       sauber - petronas    27       spun off     9
+19                mika salo                  arrows    27       throttle    13
+20  heinz - harald frentzen   williams - mecachrome    15       spun off     6
+21               damon hill  jordan - mugen - honda    13       spun off     7

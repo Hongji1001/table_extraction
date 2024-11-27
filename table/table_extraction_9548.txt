@@ -1,0 +1,12 @@
+           storm name                 dates active max 1 - min wind mph (km / h) min press ( mbar ) damage (millions usd )             deaths
+0                 one              may 19 - may 25                      65 (100)               <995                   none               none
+1                 two         august 3 - august 10                     100 (155)                972                  10.75                  7
+2               three         august 5 - august 14                     100 (155)                972                     13                 52
+3                four      august 26 - september 2                     110 (175)                961                   4.05                  7
+4                five   september 7 - september 17                     100 (155)               <988                   1.49                  3
+5                 six  september 18 - september 25                       50 (85)               1002                  0.039                  2
+6               seven  september 22 - september 28                     100 (155)               <977                   none               none
+7               eight      october 20 - october 24                      80 (130)               <983                unknown               none
+8                nine      october 24 - october 26                       45 (75)              <1007                   none               none
+9   season aggregates            season aggregates             season aggregates  season aggregates      season aggregates  season aggregates
+10         9 cyclones          may 19 - october 26                     110 (175)                961                   29.3                 71

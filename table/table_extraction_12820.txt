@@ -1,0 +1,11 @@
+          player    nationality  jersey number (s) position        years                      from
+0     jim farmer  united states                 21  pg / sg         1990                   alabama
+1     noel felix  united states                 16       pf         2006              fresno state
+2     al fleming  united states                 30        f         1978                   arizona
+3  alphonso ford  united states                  3       sg         1994  mississippi valley state
+4      jake ford  united states                 33        g  1970 - 1972    maryland eastern shore
+5   sherell ford  united states                  1       sf  1995 - 1996        illinois (chicago)
+6   joseph forte  united states                 40       sg  2002 - 2003            north carolina
+7  danny fortson  united states                 21       pf  2004 - 2007                cincinnati
+8    greg foster  united states                 44   pf / c  1999 - 2000                      utep
+9        jim fox  united states                 31   pf / c  1972 - 1975            south carolina

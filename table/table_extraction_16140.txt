@@ -1,0 +1,11 @@
+            call sign  broadcast channel  digital psip  cable channel                            network
+0           cbft - dt                 19           2.1              4                 ici radio - canada
+1           cbmt - dt                 21           6.1             13                                cbc
+2           cftm - dt                 10          10.1              7                                tva
+3           cfcf - dt                 12          12.1             11                                ctv
+4           ckmi - dt                 15          15.1              3                             global
+5           civm - dt                 26          17.1              8                      télé - québec
+6           cftu - dt                 29          29.1             26                       canal savoir
+7           cfjp - dt                 35          35.1              5                                  v
+8  cfhd - dt (future)                 47          47.1             16  ici (to be affiliated with omni )
+9           cjnt - dt                 49          62.1             14                               city

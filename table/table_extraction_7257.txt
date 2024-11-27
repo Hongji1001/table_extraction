@@ -1,0 +1,21 @@
+          last    first  year            sport              country
+0    andersson    jonas  2008         swimming               sweden
+1       augmon   stacey  1988       basketball        united states
+2      bartoch      joe  2008         swimming               canada
+3   diaconescu    ioana  2000         swimming              romania
+4       dickel     mark  2000       basketball          new zealand
+5       dickel     mark  2004       basketball          new zealand
+6     harrigan     lori  1996         softball        united states
+7     harrigan     lori  2000         softball        united states
+8     harrigan     lori  2004         softball        united states
+9     hortness  richard  2008         swimming               canada
+10  hutchinson   ayanna  2000  track and field  trinidad and tobago
+11  hutchinson   ayanna  2004  track and field  trinidad and tobago
+12  livingston   andrew  2000         swimming          puerto rico
+13  livingston   andrew  2004         swimming          puerto rico
+14      marion    shawn  2004       basketball        united states
+15    mintenko     mike  2000         swimming               canada
+16    mintenko     mike  2004         swimming               canada
+17       perri    tista  2000         baseball                italy
+18       simon   jacint  2000         swimming              hungary
+19       tyson   alicia  2000  track and field  trinidad and tobago

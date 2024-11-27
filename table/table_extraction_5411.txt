@@ -1,0 +1,22 @@
+              power plant                                         producer              location           state  total capacity (mwe)
+0   vankusawade wind park                                suzlon energy ltd       satara district     maharashtra                 259.0
+1            cape comorin                    aban loyd chiles offshore ltd           kanyakumari      tamil nadu                  33.0
+2        kayathar subhash                                      subhash ltd              kayathar      tamil nadu                  30.0
+3            ramakkalmedu                                      subhash ltd          ramakkalmedu          kerala                  25.0
+4          muppandal wind                              muppandal wind farm             muppandal      tamil nadu                  22.0
+5            gudimangalam                           gudimangalam wind farm          gudimangalam      tamil nadu                  21.0
+6             puthlur rci                              wescare (india) ltd               puthlur  andhra pradesh                  20.0
+7            lamda danida                                 danida india ltd                 lamba         gujarat                  15.0
+8           chennai mohan               mohan breweries & distilleries ltd               chennai      tamil nadu                  15.0
+9           jamgudrani mp                                 mp windfarms ltd                 dewas  madhya pradesh                  14.0
+10          jogmatti bses                                         bses ltd  chitradurga district       karnataka                  14.0
+11        perungudi newam                          newam power company ltd             perungudi      tamil nadu                  12.0
+12     kethanur wind farm                               kethanur wind farm              kethanur      tamil nadu                  11.0
+13       hyderabad apsrtc  andhra pradesh state road transport corporation             hyderabad  andhra pradesh                  10.0
+14       muppandal madras                               madras cements ltd             muppandal      tamil nadu                  10.0
+15      shah gajendragarh                                            mmtcl                 gadag       karnataka                  15.0
+16      shah gajendragarh                                sanjay d ghodawat                 gadag       karnataka                  10.8
+17   acciona tuppadahalli        tuppadahalli energy india private limited  chitradurga district       karnataka                  56.1
+18    poolavadi chettinad                        chettinad cement corp ltd             poolavadi      tamil nadu                  10.0
+19       shalivahana wind                     shalivahana green energy ltd               tirupur      tamil nadu                  20.4
+20      dangiri wind farm                                    oil india ltd             jaiselmer       rajasthan                  54.0

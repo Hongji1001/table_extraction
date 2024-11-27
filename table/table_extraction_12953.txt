@@ -1,0 +1,20 @@
+    rank       nation  gold  silver  bronze  total
+0      1  netherlands     2       2       0      4
+1      2       france     2       1       3      6
+2      3      austria     2       0       0      2
+3      4        spain     1       3       1      5
+4      5      germany     1       2       3      6
+5      6       russia     1       2       1      4
+6      7        italy     1       1       1      3
+7    8 =      georgia     1       0       3      4
+8    8 =     portugal     1       0       3      4
+9     10      romania     1       0       1      2
+10    11      belgium     1       0       0      1
+11    12      hungary     0       1       2      3
+12    13   azerbaijan     0       1       1      2
+13    14       poland     0       1       0      1
+14    15     slovenia     0       0       3      3
+15  16 =      belarus     0       0       2      2
+16  16 =       israel     0       0       2      2
+17  18 =       greece     0       0       1      1
+18  18 =      ukraine     0       0       1      1

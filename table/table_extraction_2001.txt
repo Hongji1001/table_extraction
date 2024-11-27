@@ -1,0 +1,28 @@
+                 player  starts  cuts made  best finish  money list rank  earnings
+0       harrison frazar      27         19           t7              112    738615
+1        derek fathauer      24          8          t22              203    125305
+2         james nitties      26         15           t4               96    931532
+3           john huston      13          7          t19              199    135476
+4          chris stroud      28         17           t6              113    735019
+5       robert garrigus      25         17           t9              127    657204
+6   david berganio , jr      15          7          t32              205    115517
+7              glen day      26         14  t13 (twice)              151    445720
+8              james oh      20          4          t39              220     57271
+9          webb simpson      30         16           t5               70   1249674
+10       tyler aldridge      17          3  t66 (twice)              239     24370
+11      notah begay iii      14          4          t28              223     54645
+12     matthew borchert      18          4           65              234     34324
+13         jason dufner      26         19           t2               33   2190792
+14           troy kelly      16          3          t51              238     25828
+15         jimmy walker      24         14           t5              125    662683
+16        gary woodland      17          8          t28              204    121031
+17          wil collins      18          5          t26              207     84569
+18     mathias grãnberg      13          6            6              162    354163
+19           bob heintz      20         11           t8              169    312699
+20           kent jones      24         12           t9              171    301879
+21           leif olson      21          5           t3              154    412966
+22            ted purdy      30         21           t5              100    838707
+23          chris riley      22         16           t7              129    630417
+24        brian vranesh      20          6           t8              189    198567
+25        aaron watkins      18          6           t7              178    263969
+26       jay williamson      22         14          t13              184    240574

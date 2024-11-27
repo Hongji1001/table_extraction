@@ -1,0 +1,12 @@
+                               name            built                  listed      location     county
+0                   clarkson bridge             1904          1974 - 06 - 25       cullman    cullman
+1    coldwater creek covered bridge           ca1845          1973 - 04 - 11     coldwater    calhoun
+2             easley covered bridge           ca1927          1981 - 08 - 20       oneonta     blount
+3            five mile creek bridge           ca1911          1973 - 02 - 28       mccalla  jefferson
+4              half - chance bridge           ca1880          1972 - 09 - 14        dayton    marengo
+5        horton mill covered bridge      1934 , 1935          1970 - 12 - 29       oneonta     blount
+6   kymulga mill and covered bridge  ca1860 , ca1864          1976 - 10 - 29  childersburg  talladega
+7             nectar covered bridge             1934          1981 - 08 - 20        nectar     blount
+8           oakachoy covered bridge             1915  removed 2001 - 09 - 23       nixburg      coosa
+9              edmund pettus bridge             1940          2013 - 03 - 11         selma     dallas
+10             swann covered bridge             1933          1981 - 08 - 20     cleveland     blount

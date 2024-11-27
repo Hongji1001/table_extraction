@@ -1,0 +1,13 @@
+       tallangatta dfl  wins  byes  losses  draws  against
+0    kiewa sandy creek    16     0       2      0     1013
+1   tallangatta valley    16     0       2      0     1165
+2           beechworth    15     0       3      0     1085
+3         yackandandah    13     0       5      0     1277
+4            thurgoona    11     0       7      0     1267
+5         mitta united    11     0       7      0     1689
+6          barnawartha     8     0      10      0     1686
+7           rutherglen     7     0      11      0     1479
+8            wahgunyah     5     0      13      0     1731
+9   dederang mt beauty     4     0      14      0     2027
+10      wodonga saints     1     0      17      0     2250
+11            chiltern     1     0      17      0     2535

@@ -1,0 +1,6 @@
+     city / municipality  population (2010)  area (km square)                   pop density (per km square) income classification
+0            baguio city             318676             57.50  category : pages with bad rounding precision             1st class
+1  la trinidad , benguet             107188             82.74  category : pages with bad rounding precision             1st class
+2       itogon , benguet              55960            450.00  category : pages with bad rounding precision             1st class
+3       sablan , benguet              10511            106.00  category : pages with bad rounding precision             5th class
+4         tuba , benguet              42874            296.00  category : pages with bad rounding precision             1st class

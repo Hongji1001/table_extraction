@@ -1,0 +1,17 @@
+                              driver                constructor  laps time / retired  grid
+0                     alberto ascari                    ferrari    97      3:01:04.6     1
+1                    luigi villoresi                    ferrari    96        + 1 lap     3
+2              josé froilán gonzález                   maserati    96        + 1 lap     5
+3                      mike hawthorn                    ferrari    96        + 1 lap     6
+4               oscar alfredo gálvez                   maserati    96        + 1 lap     9
+5                         jean behra                    gordini    94       + 3 laps    11
+6   maurice trintignant harry schell                    gordini    91       + 6 laps     7
+7                        john barber           cooper - bristol    90       + 7 laps    16
+8                         alan brown           cooper - bristol    87      + 10 laps    12
+9                      robert manzon                    gordini    67          wheel     8
+10                juan manuel fangio                   maserati    36   transmission     2
+11                    felice bonetto                   maserati    32   transmission    15
+12                       nino farina                    ferrari    31       accident     4
+13                 carlos menditeguy                    gordini    24        gearbox    10
+14                      pablo birger  simca - gordini - gordini    21   differential    14
+15               adolfo schwelm cruz           cooper - bristol    20          wheel    13

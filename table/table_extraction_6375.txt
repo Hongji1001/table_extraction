@@ -1,0 +1,14 @@
+      mountain west  lost  tied   pct  years  total games
+0       boise state   148     2  7230   45.0          538
+1      fresno state   388    27  5907   91.0          981
+2            hawaii   397    24  5635   96.0          945
+3   san diego state   398    32  5553   90.0          931
+4         air force   291    13  5451   57.0          654
+5            nevada   447    33  5351  106.0          997
+6    san jose state   461    38  5016   95.0          963
+7        utah state   505    31  4961  115.0         1033
+8           wyoming   532    28  4844  116.0         1059
+9    colorado state   544    33  4702  114.0         1058
+10       new mexico   553    31  4539  114.0         1041
+11             unlv   301     4  4434   45.0          512
+12            total  4959   296   522   90.3        10687

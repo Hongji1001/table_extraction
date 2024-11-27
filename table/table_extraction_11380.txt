@@ -1,0 +1,12 @@
+             player    nationality          position years in orlando      school / club team
+0      reece gaines  united states             guard      2003 - 2004              louisville
+1     kiwane garris  united states             guard      1999 - 2000                illinois
+2       pat garrity  united states           forward      1999 - 2008              notre dame
+3     chris gatling  united states  forward - center      1999 - 2000            old dominion
+4    gordan giriček        croatia             guard      2003 - 2004  cska moscow ( russia )
+5       drew gooden  united states           forward      2003 - 2004                  kansas
+6     marcin gortat         poland            center      2007 - 2010                  poland
+7      horace grant  united states  forward - center      1994 - 1999                 clemson
+8      horace grant  united states  forward - center      2001 - 2003                 clemson
+9   litterial green  united states             guard      1992 - 1994                 georgia
+10     sidney green  united states           forward      1989 - 1990                    unlv

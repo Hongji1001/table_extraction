@@ -1,0 +1,6 @@
+           region               date label                      format      catalog
+0  united kingdom  27 september 2004   zzt                          cd     ztt192cd
+1           japan  28 september 2004   zzt                          cd  xecz - 1040
+2          europe   28 february 2005  edel                 enhanced cd   0159952ere
+3         germany       20 june 2005  edel          cd (basic edition)   0163832ere
+4         germany      24 march 2006  edel  enhanced cd (gold edition)   0171022ere

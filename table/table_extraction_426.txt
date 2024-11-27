@@ -1,0 +1,6 @@
+       character     portrayed by main cast seasons  recurring cast seasons  of episodes
+0     nick lucas       nick jonas     seasons 1 - 2  appears in all seasons           34
+1      joe lucas        joe jonas     seasons 1 - 2  appears in all seasons           34
+2    kevin lucas      kevin jonas     seasons 1 - 2  appears in all seasons           34
+3  stella malone     chelsea kane     seasons 1 - 2  appears in all seasons           34
+4      macy misa  nicole anderson     seasons 1 - 2  appears in all seasons           30

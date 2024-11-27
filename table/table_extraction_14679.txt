@@ -1,0 +1,13 @@
+        month                       15th - 20th century                 us (1912)                        us (2013)           britain (2013)              hindu
+0     january                                    garnet                    garnet                           garnet                   garnet      serpent stone
+1    february               amethyst , hyacinth , pearl                  amethyst                         amethyst                 amethyst       chandrakanta
+2       march                       heliotrope , jasper   heliotrope , aquamarine          aquamarine , heliotrope  aquamarine , heliotrope  gold siva - linga
+3       april                        diamond , sapphire                   diamond                          diamond   diamond , rock crystal            diamond
+4         may                           emerald , agate                   emerald                          emerald    emerald , chrysoprase            emerald
+5        june            cat 's eye , turquoise , agate         pearl , moonstone  pearl , moonstone , alexandrite        pearl , moonstone              pearl
+6        july                          turquoise , onyx                      ruby                             ruby         ruby , carnelian           sapphire
+7      august  sardonyx , carnelian , moonstone , topaz        sardonyx , peridot                          peridot       peridot , sardonyx               ruby
+8   september                                chrysolite                  sapphire                         sapphire  sapphire , lapis lazuli             zircon
+9     october                         opal , aquamarine         opal , tourmaline                opal , tourmaline                     opal              coral
+10   november                             topaz , pearl                     topaz                  topaz , citrine          topaz , citrine       cat 's - eye
+11   december                         heliotrope , ruby  turquoise , lapis lazuli   turquoise , zircon , tanzanite    tanzanite , turquoise              topaz

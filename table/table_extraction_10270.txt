@@ -1,0 +1,21 @@
+                            lema / sublema               candidates    votes ch of senators ch of deputies
+0                           national party                    total   765990             12             39
+1       herrerismo - renovación y victoria     luis alberto lacalle   444839              8              -
+2                  en defensa de la nación     carlos julio pereyra   218656              3              -
+3                            por la patria          alberto zumarán   101046              1              -
+4                                     lema                        -     1449              -              -
+5                           colorado party                    total   596964              9             30
+6                                batllismo             jorge batlle   291944              5              -
+7               unión colorada y batllista      jorge pacheco areco   289222              4              -
+8                          batllismo unido  hugo fernández faingold    14482              -              -
+9                                     lema                        -     1316              -              -
+10                             broad front            liber seregni   418403              7             21
+11  party for the government of the people             hugo batalla   177453              2              9
+12                   ecologist green party         rodolfo v tálice    10835              0              0
+13                        justice movement         bolívar espínola      441              0              0
+14                          workers' party            vital andrada      310              0              0
+15                       convergence party         nancy espasandín      190              0              0
+16                       total valid votes                        -  1970586              -              -
+17                             blank votes                        -    64284              -              -
+18                              null votes                        -    21485              -              -
+19                             total votes                        -  2056355              -              -

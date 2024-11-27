@@ -1,0 +1,14 @@
+    year               office         candidate  popular votes percentage
+0   1988           us senator   derrick grimmer           9016      0.43%
+1   1988  us representative 5      chris wright           6468      2.68%
+2   1990           us senator   russell bentley          29820      1.65%
+3   1992  us representative 3    dwight fellman           9164      2.91%
+4   1992  us representative 4       dan r vacek           4418      1.59%
+5   1992  us representative 5   russell bentley           6786      2.24%
+6   1994           us senator  candice sjostrom          15920      0.90%
+7   1994  us representative 4       dan r vacek           6211      2.94%
+8   1996           us senator         tim davis          14139      0.65%
+9   1996  us representative 4      phil willkie           3615      1.41%
+10  1996  us representative 5    erica anderson          13102      5.33%
+11  2000           us senator     david daniels          21447      0.89%
+12  2012           us senator         tim davis          30532      1.07%

@@ -1,0 +1,11 @@
+  round              location                        circuit         date     winning driver
+0    nc  united arab emirates                dubai autodrome   january 25  gianni morbidelli
+1    nc  united arab emirates                dubai autodrome   january 26  gianni morbidelli
+2     1             indonesia   sentul international circuit  february 16         jean alesi
+3     2             indonesia   sentul international circuit  february 17          uwe alzen
+4     3              malaysia   sepang international circuit     march 22         jean alesi
+5     4              malaysia   sepang international circuit     march 23          uwe alzen
+6     5               bahrain  bahrain international circuit      april 5      david terrien
+7     6               bahrain  bahrain international circuit      april 6  gianni morbidelli
+8     7  united arab emirates                dubai autodrome     april 11     johnny herbert
+9     8  united arab emirates                dubai autodrome     april 12     johnny herbert

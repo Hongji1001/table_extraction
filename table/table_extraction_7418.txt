@@ -1,0 +1,23 @@
+                name  country          status        moving to transfer window transfer fee
+0             ujkani  alb bel     transferred          palermo          summer  undisclosed
+1    van steenberghe      bel  contract ended           dender          summer         free
+2             felipe      bra     transferred         nacional          summer  undisclosed
+3               kone      bel     transferred       londerzeel          summer  undisclosed
+4            olufemi      nga     transferred         boavista          summer  undisclosed
+5           weydisch      bel     transferred         ur namur          summer  undisclosed
+6        al - abdeen      irq     transferred          al hazm          summer  undisclosed
+7            cavallo      bel     transferred             mons          summer  undisclosed
+8           gündoğan  bel tur     transferred   gençlerbirliği          summer  undisclosed
+9              kolář      cze     transferred  helsingborgs if          summer  undisclosed
+10           lacroix      bel     transferred           tienen          summer  undisclosed
+11          lifondja  bel cod     transferred     rkc waalwijk          summer  undisclosed
+12      vanden borre      bel     transferred       fiorentina          summer        3.8 m
+13        yakassongo      bel     transferred         mouscron          summer  undisclosed
+14           allagui  ger tun     transferred  carl zeiss jena          summer  undisclosed
+15           mbokani      cod     transferred    standardliège          summer  undisclosed
+16  owusu acheampong      gha    end of trial      real tamale          summer        n / a
+17            tchité      cod     transferred  racingsantander          summer        7.5 m
+18          baseggio      bel     transferred         mouscron          winter  undisclosed
+19    odjidja - ofoe      bel     transferred     hamburger sv          winter  undisclosed
+20         triguinho      bra     end of loan      são caetano          winter        n / a
+21   von schlebrügge      swe     transferred          brøndby          winter  undisclosed

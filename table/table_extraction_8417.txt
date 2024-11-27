@@ -1,0 +1,35 @@
+           status                    name  first performance   last performance                        style
+0   original cast              liam mower      31 march 2005  30 september 2006                       ballet
+1   original cast             james lomas       2 april 2005  17 september 2005                 street dance
+2   original cast          george maguire         april 2005    3 december 2005                 street dance
+3            past              leon cooke  19 september 2005        2 june 2007                       ballet
+4            past            travis yates   19 december 2005   1 september 2007  ballet / street combination
+5            past            matthew koon       1 march 2006    2 december 2006           rhythmic gymnastic
+6            past             colin bates      13 march 2006   24 february 2007                       ballet
+7            past           dean mccarthy    4 december 2006     4 october 2007                 street dance
+8            past         layton williams   26 february 2007   29 november 2008                 street dance
+9            past             corey snide        16 may 2007        5 july 2008                       ballet
+10           past           oliver taylor       18 june 2007    1 december 2007                       ballet
+11           past              sam angell   3 september 2007      29 march 2008  ballet / street combination
+12           past          joshua fedrick   12 november 2007  27 september 2008                 street dance
+13           past           trent kowalik   17 december 2007        7 june 2008                       ballet
+14           past            hogan fulton        19 may 2008   6 september 2008                       ballet
+15           past      fox jackson - keen       23 june 2008      27 march 2010                 street dance
+16           past             tom holland   8 september 2008        29 may 2010                 street dance
+17           past         tanner pflueger  29 september 2008  26 september 2009  ballet / street combination
+18           past             brad wilson    1 december 2008    31 october 2009                       ballet
+19           past          oliver gardner        12 may 2009  25 september 2010                 street dance
+20           past  dean - charles chapman   30 november 2009   12 november 2011                       ballet
+21           past            rhys yeomans      24 march 2010       9 april 2011                       ballet
+22           past            aaron watson       10 june 2010   19 february 2011          ballet / gymnastics
+23           past          scott mckenzie   6 september 2010   3 september 2011                       ballet
+24           past              josh baker   24 february 2011       3 march 2012                       ballet
+25           past          ryan collinson      13 april 2011   1 september 2012                 street dance
+26           past          adam vesperman       25 july 2011     18 august 2012                       ballet
+27           past              kaine ward   14 november 2011   16 february 2013                       ballet
+28           past          harris beattie   22 february 2012        8 june 2013                       ballet
+29           past          tade biesinger    6 february 2013     31 august 2013                       ballet
+30   current cast        harrison dowzell        14 may 2012       current cast                 street dance
+31   current cast           redmand rance     22 august 2012       current cast                       ballet
+32   current cast               ali rasul        13 may 2013       current cast                 street dance
+33   current cast           elliott hanna       17 july 2013       current cast                       ballet

@@ -1,0 +1,10 @@
+                                   school           location  founded               affiliation    mascot division
+0           cincinnati country day school  cincinnati , ohio     1926                   private   indians     gray
+1            cincinnati christian schools   fairfield , ohio     1989         private christian   cougars     gray
+2      cincinnati hills christian academy  cincinnati , ohio     1989         private christian    eagles  scarlet
+3                    lockland high school  cincinnati , ohio     1851  public / open enrollment  panthers  scarlet
+4            clark montessori high school  cincinnati , ohio     1994                    public   cougars     gray
+5          north college hill high school  cincinnati , ohio     1901                    public   trojans  scarlet
+6                   new miami high school   new miami , ohio     1972  public / open enrollment   vikings     gray
+7                      seven hills school  cincinnati , ohio     1906                   private  stingers  scarlet
+8  st bernard - elmwood place high school  cincinnati , ohio     1900  public / open enrollment    titans     gray

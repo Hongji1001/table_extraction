@@ -1,0 +1,31 @@
+    round  pick           player          position      school / club team
+0       1     7    al carmichael          halfback                     usc
+1       2    19        gil reich              back           army / kansas
+2       3    31    bill forester        linebacker                     smu
+3       4    43       gib dawson          halfback                   texas
+4       5    55    roger zatkoff        linebacker                michigan
+5       6    67      bob kennedy             guard               wisconsin
+6       7    79        jim ringo            center                syracuse
+7       8    91  lauren hargrove              back                 georgia
+8       9   103  floyd harrawood            tackle                   tulsa
+9      10   115       vic rimkus             guard              holy cross
+10     11   127      joe johnson          halfback          boston college
+11     12   139      dick curran              back           arizona state
+12     13   151       bob orders            center    army / west virginia
+13     14   163    charley wrenn            tackle                     tcu
+14     15   175      gene helwig              back                   tulsa
+15     16   187        john hlay          fullback              ohio state
+16     17   199     bill georges               end                   texas
+17     18   211       jim philee              back                 bradley
+18     19   223       bill lucky  defensive tackle                  baylor
+19     20   235    john harville              back                     tcu
+20     21   247       bob conway              back                 alabama
+21     22   259  bill turnbeaugh            tackle                  auburn
+22     23   271      bill murray               end  american international
+23     24   283  james haslam jr            tackle               tennessee
+24     25   295        ike jones               end                    ucla
+25     26   307   george bozanic              back                     usc
+26     27   319  jim mcconaughey               end                 houston
+27     28   331      zack jordan               end                colorado
+28     29   343    henry o'brien             guard          boston college
+29     30   355         al barry             guard                     usc

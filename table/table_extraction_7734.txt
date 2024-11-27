@@ -1,0 +1,18 @@
+                tournament                    2007                    2008                    2009                    2010                    2011                    2012
+0   grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments
+1          australian open                       a                       a                      1r                       a                      q1                      q1
+2              french open                       a                       a                      2r                      1r                       a                      q1
+3                wimbledon                       a                       a                      q1                      1r                       a                      q1
+4                  us open                       a                      2r                      q3                      q1                       a                       a
+5               win - loss                   0 - 0                   1 - 1                   1 - 2                   0 - 2                   0 - 0                   0 - 0
+6            olympic games           olympic games           olympic games           olympic games           olympic games           olympic games           olympic games
+7          summer olympics                      nh                       a                not held                not held                not held                      1r
+8        premier mandatory       premier mandatory       premier mandatory       premier mandatory       premier mandatory       premier mandatory       premier mandatory
+9            miami masters                       a                       a                      1r                      q2                       a                       a
+10          madrid masters                not held                not held                      1r                      q2                      q1                      q2
+11              win - loss                   0 - 0                   0 - 0                   0 - 2                   0 - 0                   0 - 0                   0 - 0
+12               premier 5               premier 5               premier 5               premier 5               premier 5               premier 5               premier 5
+13            italian open                       a                       a                      1r                       a                       a                       a
+14      cincinnati masters                       a                       a                       a                      q1                       a                       a
+15              win - loss                   0 - 0                   0 - 0                   0 - 1                   0 - 0                   0 - 0                   0 - 0
+16        year end ranking                     201                     110                     191                     128                     190                     140

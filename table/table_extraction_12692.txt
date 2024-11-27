@@ -1,0 +1,13 @@
+    round  pick           player        position             school
+0       1     9     gerald riggs    running back      arizona state
+1       2    36      doug rogers   defensive end           stanford
+2       3    63    stacey bailey   wide receiver     san jose state
+3       4    95     reggie brown    running back             oregon
+4       5   122    von mansfield  defensive back          wisconsin
+5       6   149      mike kelley     quarterback       georgia tech
+6       7   176    david toloumu    running back             hawaii
+7       8   203  ricky eberhardt  defensive back       morris brown
+8       9   235       mike horan          punter   long beach state
+9      10   262   curtis stowers      linebacker  mississippi state
+10     11   288      jeff keller   wide receiver   washington state
+11     12   315    dave levenick      linebacker          wisconsin

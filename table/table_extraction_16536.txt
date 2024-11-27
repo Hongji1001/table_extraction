@@ -1,0 +1,7 @@
+     millewa  wins  forfeits  losses  draws  against
+0  werrimull    13         1       2      0     1292
+1    gol gol    12         0       4      0     1419
+2    bambill     9         0       7      0     1464
+3   cardross     8         0       8      0     1750
+4     euston     5         0      11      0     1850
+5   nangiloc     0         0      16      0     1979

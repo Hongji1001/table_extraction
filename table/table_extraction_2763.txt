@@ -1,0 +1,7 @@
+                                        borough           county franchise type  members  voters in 1800  times contested       fate in 1832
+0                                     beaumaris         anglesey    corporation        1              24                0  retained one seat
+1                                        brecon   brecknockshire        freemen        1              12                0  retained one seat
+2                                    carmarthen  carmarthenshire        freemen        1             500                5  retained one seat
+3  denbigh boroughs ( denbigh , holt , ruthin )     denbighshire        freemen        1              24                4  retained one seat
+4                                 haverfordwest    pembrokeshire   scot and lot        1             500                3  retained one seat
+5                                    montgomery  montgomeryshire        freemen        1             500                1  retained one seat

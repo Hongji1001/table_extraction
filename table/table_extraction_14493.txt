@@ -1,0 +1,12 @@
+                         champion       score                    runner - up            additional participants                         host location (s)
+0         cornwall royals (qmjhl)       2 - 1       peterborough petes (oha)          edmonton oil kings (wchl)                                    ottawa
+1         toronto marlboros (oha)       9 - 1        quebec remparts (qmjhl)         medicine hat tigers (wchl)                                  montreal
+2              regina pats (wchl)       7 - 4        quebec remparts (qmjhl)    st catharines black hawks (oha)                                   calgary
+3         toronto marlboros (oha)       7 - 3  new westminster bruins (wchl)         sherbrooke castors (qmjhl)                                 kitchener
+4          hamilton fincups (oha)       5 - 2  new westminster bruins (wchl)            quebec remparts (qmjhl)                                  montreal
+5   new westminster bruins (wchl)       6 - 5             ottawa 67 's (oha)         sherbrooke castors (qmjhl)                                 vancouver
+6    new westminster bruins (whl)       7 - 4       peterborough petes (oha)  trois - rivières draveurs (qmjhl)               sudbury and sault ste marie
+7        peterborough petes (oha)  2 - 1 (ot)      brandon wheat kings (whl)  trois - rivières draveurs (qmjhl)  sherbrooke , trois - rivières and verdun
+8         cornwall royals (qmjhl)  3 - 2 (ot)       peterborough petes (oha)                  regina pats (whl)                        brandon and regina
+9         cornwall royals (qmjhl)       5 - 2        kitchener rangers (ohl)             victoria cougars (whl)                                   windsor
+10        kitchener rangers (ohl)       7 - 4     sherbrooke castors (qmjhl)        portland winter hawks (whl)                                      hull

@@ -1,0 +1,10 @@
+             tournament        country                            location                       current venue  began court surface
+0  indian wells masters  united states                        indian wells          indian wells tennis garden   1987          hard
+1         miami masters  united states                               miami       tennis center at crandon park   1987          hard
+2   monte carlo masters         monaco  roquebrune - cap - martin , france            monte carlo country club   1897          clay
+3          rome masters          italy                                rome                        foro italico   1930          clay
+4        madrid masters          spain                              madrid                     park manzanares   2002          clay
+5        canada masters         canada                  montreal / toronto       stade uniprix / rexall centre   1881          hard
+6    cincinnati masters  united states                        mason , ohio        lindner family tennis center   1899          hard
+7      shanghai masters          china                            shanghai                    qi zhong stadium   2009          hard
+8         paris masters         france                               paris  palais omnisports de paris - bercy   1968      hard (i)

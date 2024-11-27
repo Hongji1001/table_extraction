@@ -1,0 +1,17 @@
+                            player     date of birth   batting style            bowling style      first class team
+0         adam hollioake (captain)  5 september 1971  right hand bat         right arm medium                surrey
+1                       ian austin       30 may 1966   left hand bat         right arm medium            lancashire
+2                        ali brown  11 february 1970  right hand bat      right arm off break                surrey
+3                     dougie brown   29 october 1969  right hand bat  right arm fast - medium          warwickshire
+4                      mark ealham    27 august 1969  right hand bat  right arm fast - medium  kent nottinghamshire
+5                 neil fairbrother  9 september 1963   left hand bat          left arm medium            lancashire
+6                  matthew fleming  12 december 1964  right hand bat         right arm medium                  kent
+7                     ashley giles     19 march 1973  right hand bat   left arm orthodox spin          warwickshire
+8                      graeme hick       23 may 1966  right hand bat      right arm off break        worcestershire
+9                      nick knight  28 november 1969   left hand bat         right arm medium          warwickshire
+10                    graham lloyd       1 july 1969  right hand bat         right arm medium            lancashire
+11                    peter martin  15 november 1968  right hand bat  right arm fast - medium            lancashire
+12  jack russell (wicket - keeper)    15 august 1963   left hand bat          wicket - keeper       gloucestershire
+13                chris silverwood      5 march 1975  right hand bat  right arm fast - medium             yorkshire
+14        david graveney (manager)    2 january 1953  right hand bat   left arm orthodox spin       gloucestershire
+15             david lloyd (coach)     18 march 1947   left hand bat   left arm orthodox spin            lancashire

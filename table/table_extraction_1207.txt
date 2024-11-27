@@ -1,0 +1,23 @@
+   code        district    headquarters  population (2011)  area (km square)  density ( / km square)                official website
+0    ad        adilabad        adilabad            2737738             16105                     170       http : / /adilabadnicin /
+1    an       anantapur       anantapur            4083315             19130                     213      http : / /anantapurnicin /
+2    ch        chittoor        chittoor            4170468             15152                     275       http : / /chittoornicin /
+3    eg   east godavari        kakinada            5151549             10807                     477   http : / /eastgodavarinicin /
+4    gu          guntur          guntur            4889230             11391                     429         http : / /gunturnicin /
+5    hy       hyderabad       hyderabad            4010238               217                     217      http : / /hyderabadnicin /
+6    cu        cuddapah        cuddapah            2884524             15359                     188         http : / /kadapanicin /
+7    ka      karimnagar      karimnagar            3811738             11823                     322     http : / /karimnagarnicin /
+8    kh         khammam         khammam            2798214             16029                     175        http : / /khammamnicin /
+9    kr         krishna   machilipatnam            4529009              8727                     519        http : / /krishnanicin /
+10   ku         kurnool         kurnool            4046601             17658                     229        http : / /kurnoolnicin /
+11   ma     mahbubnagar    mahabubnagar            4042191             18432                     219   http : / /mahabubnagarnicin /
+12   me           medak      sangareddi            3031877              9699                     313          http : / /medaknicin /
+13   na        nalgonda        nalgonda            3483648             14240                     245       http : / /nalgondanicin /
+14   ne         nellore         nellore            2966082             13076                     227        http : / /nellorenicin /
+15   ni       nizamabad       nizamabad            2552073              7956                     321      http : / /nizamabadnicin /
+16   pr        prakasam          ongole            3392764             17626                     193       http : / /prakasamnicin /
+17   ra      rangareddy       hyderabad            5296396              7493                     707     http : / /rangareddynicin /
+18   sr      srikakulam      srikakulam            2699471              5837                     462     http : / /srikakulamnicin /
+19   vs  vishakhapatnam  vishakhapatnam            4288113             11161                     340  http : / /visakhapatnamnicin /
+20   vz    vizianagaram    vizianagaram            2342868              6539                     384   http : / /vizianagaramnicin /
+21   wa        warangal        warangal            3522644             12846                     252       http : / /warangalnicin /

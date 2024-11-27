@@ -1,0 +1,13 @@
+                   name height weight    spike              2008 club
+0     luigi mastrangelo      m      -  cm (in)          m roma volley
+1         mauro gavotto      m      -  cm (in)  acqua paradiso gabeca
+2     valerio vermiglio      m      -  cm (in)      lube banca marche
+3           marco meoni      m      -  cm (in)    copra nordmeccanica
+4   alessandro paparoni      m      -  cm (in)      lube banca marche
+5       alberto cisolla      m      -  cm (in)         sisley treviso
+6        matteo martino      m      -  cm (in)       sparkling milano
+7       hristo zlatanov      m      -  cm (in)    copra nordmeccanica
+8         mirko corsano      m      -  cm (in)      lube banca marche
+9        alessandro fei      m      -  cm (in)         sisley treviso
+10   emanuele birarelli      m      -  cm (in)            itas diatec
+11      vigor bovolenta      m      -  cm (in)    copra nordmeccanica

@@ -1,0 +1,43 @@
+                scorer                                club league goals  fa cup goals  league cup goals euro competitions  total
+0         peter osgood                             chelsea           23             8                 0                 -     31
+1           jeff astle                west bromwich albion           25             0                 5                 -     30
+2         allan clarke                        leeds united           16             7                 0                 2     25
+3            joe royle                             everton           23             0                 0                 -     23
+4          george best                   manchester united           15             6                 2                 -     23
+5          francis lee                     manchester city           14             0                 3                 6     23
+6       ian hutchinson                             chelsea           16             5                 1                 -     22
+7   frank james clarke  ipswich town / queens park rangers       2 + 14             2                 4                 -     22
+8           brian kidd                   manchester united           14             6                 2                 -     22
+9           pop robson                           newcastle           21             0                 0                 0     21
+10         hugh curran             wolverhampton wanderers           19             0                 2                 -     21
+11        bobby graham                           liverpool           15             3                 1                 3     21
+12        john radford                             arsenal           13             2                 0                 5     20
+13          colin bell                     manchester city           10             0                 5                 5     20
+14        mick channon                         southampton           15             3                 1                 0     19
+15        steve kindon                             burnley           17             0                 1                 -     18
+16         geoff hurst                            west ham           16             0                 2                 -     18
+17          mick jones                        leeds united           15             3                 0                 8     18
+18        johnny giles                        leeds united           12             2                 0                 4     18
+19        john ritchie                               stoke           14             2                 0                 -     16
+20          john ohare                        derby county           13             2                 1                 -     16
+21       harry burrows                               stoke           15             0                 0                 -     15
+22         neil martin                            coventry           14             1                 0                 -     15
+23       peter lorimer                        leeds united           13             2                 0                 0     15
+24        steve downes     sheffield wednesday / rotherham       1 + 11             3                 0                 -     15
+25       jimmy greaves                            west ham           12             3                 0                 -     15
+26       colin suggett                west bromwich albion           12             0                 3                 -     15
+27          ian bowyer                     manchester city           12             0                 2                 1     15
+28        kevin hector                        derby county           11             2                 2                 -     15
+29        john orourke             coventry / ipswich town       11 + 2             0                 0                 -     13
+30          tony brown                west bromwich albion           10             1                 2                 -     13
+31         keith dyson                           newcastle           12             0                 0                 2     12
+32  ian storey - moore                   nottingham forest           11             0                 1                 -     12
+33           alan ball                             everton           10             1                 1                 -     12
+34         alan durban                        derby county            8             4                 0                 -     12
+35        alan gilzean                           tottenham           11             0                 0                 -     11
+36      martin chivers                           tottenham           11             0                 0                 -     11
+37         gerry queen                      crystal palace            9             1                 1                 -     11
+38        jack whitham                 sheffield wednesday            8             3                 0                 -     11
+39       martin dobson                             burnley            6             3                 2                 -     11
+40          ron davies                         southampton           10             0                 0                 0     10
+41         alan hinton                        derby county            6             0                 4                 -     10

@@ -1,0 +1,26 @@
+                    driver          constructor  laps time / retired  grid
+0       emerson fittipaldi       mclaren - ford    32     1:24:37.06     1
+1           clay regazzoni              ferrari    32        + 13.57     8
+2               jacky ickx         lotus - ford    31        + 1 lap     5
+3              carlos pace       surtees - ford    31        + 1 lap    12
+4            mike hailwood       mclaren - ford    31        + 1 lap     7
+5          ronnie peterson         lotus - ford    31        + 1 lap     4
+6         carlos reutemann       brabham - ford    31        + 1 lap     2
+7        patrick depailler       tyrrell - ford    31        + 1 lap    16
+8               james hunt         march - ford    31        + 1 lap    18
+9   jean - pierre beltoise                  brm    31        + 1 lap    17
+10             graham hill          lola - ford    31        + 1 lap    21
+11             denny hulme       mclaren - ford    31        + 1 lap    11
+12          jody scheckter       tyrrell - ford    31        + 1 lap    14
+13         henri pescarolo                  brm    30       + 2 laps    22
+14         richard robarts       brabham - ford    30       + 2 laps    24
+15       franã§ois migault                  brm    30       + 2 laps    23
+16             jochen mass       surtees - ford    30       + 2 laps    10
+17             john watson       brabham - ford    27         clutch    15
+18      hans joachim stuck         march - ford    24   transmission    13
+19    jean - pierre jarier        shadow - ford    21         brakes    19
+20         arturo merzario  iso marlboro - ford    20       throttle     9
+21            peter revson        shadow - ford    10    overheating     6
+22           howden ganley         march - ford     8       ignition    20
+23              niki lauda              ferrari     2         engine     3
+24             guy edwards          lola - ford     2        chassis    25

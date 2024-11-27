@@ -1,0 +1,12 @@
+   place            player        country  score to par
+0     t1         john daly  united states     66    - 4
+1     t1    davis love iii  united states     66    - 4
+2      3    robert allenby      australia     67    - 3
+3     t4      paul azinger  united states     68    - 2
+4     t4          tom kite  united states     68    - 2
+5     t4    justin leonard  united states     68    - 2
+6     t4  shigeki maruyama          japan     68    - 2
+7     t4       greg norman      australia     68    - 2
+8     t4       chris perry  united states     68    - 2
+9     t4   paul stankowski  united states     68    - 2
+10    t4          bob tway  united states     68    - 2

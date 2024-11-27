@@ -1,0 +1,10 @@
+           player                              alma mater                            national lacrosse league major league lacrosse international competition
+0     colin doyle              wilfrid laurier university   ontario raiders / toronto rock , san jose stealth     toronto nationals               team canada
+1      steve hoar                   university of toronto                                        toronto rock     toronto nationals               team canada
+2  creighton reid  university of toronto (practice squad)                     toronto rock , colorado mammoth                  none                      none
+3  jay thorimbert                    university of guelph  buffalo bandits , boston blazers , minnesota swarm                  none                      none
+4    sean thomson                    university of guelph                philadelphia wings , minnesota swarm                  none                      none
+5    greg harnett                    bishop 's university                                  calgary roughnecks                  none                      none
+6     jon harnett                    university of guelph                                      boston blazers                  none                      none
+7     josh wasson                        trent university                      chicago shamrox , toronto rock                  none                      none
+8      casey zaph                   university of toronto                               rochester knighthawks                  none                      none

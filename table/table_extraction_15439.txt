@@ -1,0 +1,26 @@
+      transmitter  bbca  bbcb  d3&4   arqa   arqb pol         ag
+0      allenheads    27    21    24  n / a  n / a   v        a k
+1          alston    39    45    42  n / a  n / a   v      b e k
+2      bellingham    27    21    24  n / a  n / a   v        a k
+3    blaydon burn    44    47    41  n / a  n / a   v      b e k
+4         byrness    27    21    24  n / a  n / a   v        a k
+5   catton beacon    40    46    43  n / a  n / a   v      b e k
+6          durham    41    47    44  n / a  n / a   v      b e k
+7             esh    39    45    42  n / a  n / a   v      b e k
+8         felling    40    43    46  n / a  n / a   v      b e k
+9          fenham    27  21 +    24   22 +     28   v        a k
+10    haltwhistle    59    55  62 -  n / a  n / a   v    c / d e
+11  haydon bridge    44    41    47  n / a  n / a   v      b e k
+12     hedleyhope    41    47    44  n / a  n / a   v      b e k
+13      humshaugh    39    45    42  n / a  n / a   v      b e k
+14   ireshopeburn    55    59    50  n / a  n / a   v    c / d e
+15        kielder    26    23    29  n / a  n / a   v        a k
+16        morpeth    22    28    25  n / a  n / a   v        a k
+17         newton    26    23    29  n / a  n / a   v        a k
+18         seaham    44    47    46  n / a  n / a   v      b e k
+19   shotleyfield    22    28    25  n / a  n / a   v        a k
+20       staithes    52    51    48  n / a  n / a   v  b c / d e
+21     sunderland    52    51    48  n / a  n / a   v  b c / d e
+22           wall    52    51    48  n / a  n / a   h  b c / d e
+23       weardale    44    41    47  n / a  n / a   v      b e k
+24      whitaside    44    41    47  n / a  n / a   v      b e k

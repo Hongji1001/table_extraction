@@ -1,0 +1,42 @@
+                          team                 driver class        chassis           engine         rounds
+0        van amersfoort racing             rahel frey     c   dallara f307       volkswagen          1 - 8
+1        van amersfoort racing            niall quinn     c   dallara f307       volkswagen              9
+2        van amersfoort racing       laurens vanthoor     c   dallara f307       volkswagen            all
+3                 ombra racing         matteo chinosi     c   dallara f307    mugen - honda          1 - 8
+4                 ombra racing            philipp eng     c   dallara f307    mugen - honda              9
+5                 ombra racing           federico leo     c   dallara f307    mugen - honda            all
+6                 ombra racing          massimo rossi     t   dallara f304    mugen - honda          1 - 4
+7             neuhauser racing       gerhard tweraser     c   dallara f307     mercedes hwa            all
+8             neuhauser racing       marco oberhauser     t   dallara f304             opel            all
+9        hs technik motorsport     sebastian saavedra     c   dallara f307     mercedes hwa            all
+10       hs technik motorsport            philipp eng     c   dallara f307     mercedes hwa              1
+11       hs technik motorsport    johnny cecotto , jr     c   dallara f307     mercedes hwa          2 - 9
+12       hs technik motorsport    shirley van der lof     t   dallara f304  opc - challenge            all
+13           swiss racing team          karline stala     c   dallara f307     mercedes hwa          7 - 9
+14           swiss racing team            max nilsson     c   dallara f307  opc - challenge            all
+15           swiss racing team      frédéric vervisch     c   dallara f307  opc - challenge          1 - 5
+16           swiss racing team          tomi limmonen     c   dallara f307  opc - challenge              9
+17         team rhinos leipert      federico glorioso     c   dallara f307  opc - challenge      1 - 6 , 9
+18         team rhinos leipert        sergey chukanov     c   dallara f307  opc - challenge            all
+19         team rhinos leipert        luca iannaccone     t   dallara f304          renault            all
+20         team rhinos leipert        giulio glorioso     t   dallara f304             opel            all
+21           racing experience          karline stala     c   dallara f307     mercedes hwa          1 - 4
+22           racing experience           louis wagner     c  mygale m - 07             opel              6
+23           racing experience           david hauser     c   dallara f307     mercedes hwa            all
+24           racing experience            gary hauser     c   dallara f307     mercedes hwa            all
+25          performance racing          rafael suzuki     c   dallara f307  opc - challenge            all
+26          performance racing           adderly fong     c   dallara f307  opc - challenge      1 , 5 - 9
+27          performance racing        satrio hermanto     c   dallara f307  opc - challenge              4
+28            jo zeller racing      frédéric vervisch     c   dallara f307     mercedes hwa          6 - 8
+29            jo zeller racing          kevin mirocha     c   dallara f307     mercedes hwa              9
+30           franz wöss racing        hamad al fardan     c   dallara f307     mercedes hwa          1 - 6
+31           franz wöss racing      bernd herndlhofer     t   dallara f304             opel            all
+32           franz wöss racing        francesco lopez     t   dallara f304             opel          7 - 9
+33            gu - racing team             jens höing     c  lola b06 - 30             opel          1 , 2
+34            gu - racing team             jens höing     c   dallara f307     mercedes hwa  3 , 4 , 7 - 9
+35       josef kaufmann racing          kevin mirocha     c   dallara f307  opc - challenge          1 - 8
+36       josef kaufmann racing      esteban gutiérrez     c   dallara f307  opc - challenge              9
+37                 kfr team f3           dennis swart     t   dallara f304  opc - challenge            all
+38                jms jenichen       marcel schlenker     t   dallara f304             opel          1 - 4
+39  auto - häckel - motorsport  klaus - dieter häckel     t   dallara f304             opel          1 - 4
+40                 griffith 's          david moretti     t   dallara f304             opel              1

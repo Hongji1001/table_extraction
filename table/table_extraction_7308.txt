@@ -1,0 +1,35 @@
+                        name  years gender         area         authority  decile  roll
+0           alfriston school  1 - 8   coed    alfriston             state       9   328
+1             ararimu school  1 - 8   coed        drury             state      10   123
+2             ardmore school  1 - 8   coed     papakura             state       6   351
+3     awhitu district school  1 - 8   coed       waiuku             state       5   117
+4          beachlands school  1 - 8   coed   beachlands             state      10   558
+5              bombay school  1 - 8   coed       bombay             state       9   349
+6             brookby school  1 - 8   coed     manurewa             state       8   120
+7            buckland school  1 - 8   coed     pukekohe             state       8   267
+8            clevedon school  1 - 8   coed     clevedon             state      10   363
+9           glenbrook school  1 - 8   coed    glenbrook             state       8   257
+10              hunua school  1 - 8   coed     papakura             state       7   105
+11             karaka school  1 - 8   coed       karaka             state       8   236
+12          kingsgate school  1 - 8   coed     pukekohe  state integrated       5    52
+13     maraetai beach school  1 - 8   coed     maraetai             state      10   264
+14              mauku school  1 - 6   coed     pukekohe             state       6    79
+15              orere school  1 - 8   coed  orere point             state       4    43
+16            paerata school  1 - 8   coed     pukekohe             state       4   123
+17           paparimu school  1 - 8   coed     papakura             state       9    24
+18  patumahoe primary school  1 - 6   coed     pukekohe             state       8   295
+19      pukekohe east school  1 - 6   coed     pukekohe             state       9   166
+20      pukekohe hill school  1 - 6   coed     pukekohe             state       6   589
+21     pukekohe intermediate  7 - 8   coed     pukekohe             state       6   632
+22     pukekohe north school  1 - 8   coed     pukekohe             state       1   214
+23               puni school  1 - 6   coed     pukekohe             state       5   205
+24           ramarama school  1 - 8   coed        drury             state       8   209
+25      sandspit road school  1 - 8   coed       waiuku             state       7   375
+26       st joseph 's school  1 - 8   coed     pukekohe  state integrated       7   383
+27            te hihi school  1 - 8   coed     papakura             state       9   214
+28             tkkm o waiuku  1 - 8   coed       waiuku             state       5    13
+29             valley school  1 - 6   coed     pukekohe             state       8   456
+30          view road school  1 - 8   coed       waiuku             state       5   160
+31           waiau pa school  1 - 8   coed     pukekohe             state       9   330
+32            waipipi school  1 - 8   coed       waiuku             state       8   116
+33     waiuku primary school  1 - 8   coed       waiuku             state       7   334

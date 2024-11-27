@@ -1,0 +1,17 @@
+                     school          city        mascot     county  year joined previous conference  year left                               conference joined
+0    east chicago roosevelt  east chicago   roughriders    45 lake         1963    northern indiana       1968                              indiana lake shore
+1   east chicago washington  east chicago      senators    45 lake         1963    northern indiana       1968                              indiana lake shore
+2              gary emerson          gary       tornado    45 lake         1963    northern indiana       1981  none (school closed , reopened as emerson vpa)
+3              gary froebel          gary   blue devils    45 lake         1963    northern indiana       1969           none (school became ms , closed 1977)
+4                 gary mann          gary      horsemen    45 lake         1963    northern indiana       2004                            none (school closed)
+5            gary tolleston          gary  blue raiders    45 lake         1963    northern indiana       1969           none (school became ms , closed 2007)
+6                   hammond       hammond      wildcats    45 lake         1963    northern indiana       1968                              indiana lake shore
+7             hammond clark       hammond      pioneers    45 lake         1963    northern indiana       1968                              indiana lake shore
+8              hammond tech       hammond        tigers    45 lake         1963    northern indiana       1968                              indiana lake shore
+9                valparaiso    valparaiso       vikings  64 porter         1963    northern indiana       1968                                    independents
+10                  whiting       whiting        oilers    45 lake         1963    northern indiana       1968                              indiana lake shore
+11            hammond gavit       hammond    gladiators    45 lake         1966        independents       1968                              indiana lake shore
+12           hammond morton       hammond     governors    45 lake         1966        independents       1968                              indiana lake shore
+13                   hobart        hobart      brickies    45 lake         1966        independents       1968                                    independents
+14                  andrean          gary         59ers    45 lake         1968        independents       1975    independents (school moved to merrillville )
+15                gary wirt          gary      troopers    45 lake         1970             calumet       2009                                   school closed

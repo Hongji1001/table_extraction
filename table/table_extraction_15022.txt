@@ -1,0 +1,7 @@
+  constituency number      name reserved for ( sc / st / none)  district  number of electorates (2009)
+0                 395  chhanbey                             sc  mirzapur                        264314
+1                 396  mirzapur                           none  mirzapur                        294806
+2                 397  majhawan                           none  mirzapur                        295196
+3                 398    chunar                           none  mirzapur                        272473
+4                 399   marihan                           none  mirzapur                        272891
+5             total :   total :                        total :   total :                       1399680

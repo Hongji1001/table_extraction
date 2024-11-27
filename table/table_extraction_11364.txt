@@ -1,0 +1,29 @@
+   pos     nationality                  player  apps  goals
+0   gk         england           paul robinson    37      0
+1   df          france        pascal chimbonda    49      3
+2   df     south korea         young - pyo lee    29      0
+3   mf     ivory coast           didier zokora    43      0
+4   df          france           younes kaboul    29      4
+5   df         finland            teemu tainio    26      0
+6   mf         england          jermaine jenas    45      6
+7   fw        bulgaria        dimitar berbatov    52     23
+8   fw         ireland            robbie keane    54     23
+9   df          brazil                gilberto     7      1
+10  gk  czech republic             radek cerny    20      0
+11  mf          france        steed malbranque    55      7
+12  mf           wales             gareth bale    12      3
+13  mf         germany  kevin - prince boateng    21      0
+14  mf          france            adel taarabt    10      0
+15  df         england          michael dawson    40      2
+16  mf         england         tom huddlestone    43      4
+17  fw         england             darren bent    36      8
+18  mf         england            jamie o'hara    25      2
+19  mf         england            aaron lennon    47      3
+20  df         england             ledley king    10      0
+21  df        scotland             alan hutton    15      0
+22  gk         england          tommy forecast     0      0
+23  df        cameroon  benoã®t assou - ekotto     2      0
+24  df        portugal           ricardo rocha     5      0
+25  df          france          dorian dervite     1      0
+26  df         england       jonathan woodgate    17      2
+27  df           wales            chris gunter     4      0

@@ -1,0 +1,8 @@
+              leader                               party              leader 's seat  number of seats       leader since
+0     peter robinson           democratic unionist party                belfast east               38        31 may 2008
+1  raymond mccartney                           sinn fãin                       foyle               29               2011
+2        tom elliott               ulster unionist party  fermanagh and south tyrone               16  22 september 2010
+3   margaret ritchie  social democratic and labour party                  south down               14    7 february 2010
+4         david ford  alliance party of northern ireland                south antrim                8               2001
+5       steven agnew     green party in northern ireland                  north down                1               2010
+6       jim allister          traditional unionist voice                north antrim                1               2007

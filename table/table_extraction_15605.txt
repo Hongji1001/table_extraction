@@ -1,0 +1,10 @@
+  constituency number           name reserved for ( sc / st / none)     district  number of electorates (2009)
+0                 119     narsingpur                           none  narsinghpur                        168616
+1                 120     tendukheda                           none  narsinghpur                        137595
+2                 121      gadarwara                           none  narsinghpur                        149782
+3                 136  seoni - malwa                           none  hoshangabad                        169680
+4                 137    hoshangabad                           none  hoshangabad                        164378
+5                 138       sohagpur                           none  hoshangabad                        169601
+6                 139       pipariya                             sc  hoshangabad                        160783
+7                 140       udaipura                           none       raisen                        179039
+8             total :        total :                        total :      total :                       1299474

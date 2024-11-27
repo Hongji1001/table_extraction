@@ -1,0 +1,7 @@
+   year           tournament                  venue result            extra
+0  2006   commonwealth games  melbourne , australia    1st            100 m
+1  2006   commonwealth games  melbourne , australia    5th            200 m
+2  2006   commonwealth games  melbourne , australia    1st  4 x 100 m relay
+3  2007   pan american games           rio , brazil    2nd            200 m
+4  2007   pan american games           rio , brazil    1st  4 x 400 m relay
+5  2007  world championships          osaka , japan    2nd  4 x 100 m relay

@@ -1,0 +1,12 @@
+              athlete               country  from  gold  silver  total status
+0       eugenio monti                 italy  1957     9       1     10      p
+1         andré lange               germany  2000     8       4     14      p
+2    christoph langen               germany  1991     8       4     12  p / a
+3       erich schärer           switzerland  1971     7       3     14  p / a
+4    fritz feierabend           switzerland  1935     6       3     12  p / a
+5         kevin kuske               germany  2003     6       3     11      a
+6      wolfgang hoppe  east germany germany  1983     6       1     14      p
+7   markus zimmermann               germany  1991     5       3      8      a
+8          rené hoppe               germany  2000     5       2      8      a
+9        renzo alverà                 italy  1957     5       1      6      a
+10    sergio siorpaes                 italy  1958     5       1      6      a

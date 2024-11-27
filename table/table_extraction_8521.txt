@@ -1,0 +1,21 @@
+                   team                               manager 1           captain kit manufacturer        shirt sponsor
+0               arsenal                           arsène wenger        tony adams             nike                  jvc
+1           aston villa                            john gregory  gareth southgate           reebok             ldv vans
+2      blackburn rovers                              brian kidd   garry flitcroft         uhlsport                  cis
+3     charlton athletic                         alan curbishley     mark kinsella   le coq sportif       mesh computers
+4               chelsea                         gianluca vialli       dennis wise            umbro            autoglass
+5         coventry city                         gordon strachan   gary mcallister   le coq sportif               subaru
+6          derby county                               jim smith       igor štimac             puma                  eds
+7               everton                            walter smith       dave watson            umbro              one2one
+8          leeds united                           david o'leary      lucas radebe             puma         packard bell
+9        leicester city                          martin o'neill       steve walsh      fox leisure              walkers
+10            liverpool                         gérard houllier         paul ince           reebok            carlsberg
+11    manchester united                           alex ferguson         roy keane            umbro                sharp
+12        middlesbrough                            bryan robson     andy townsend            erreà              cellnet
+13     newcastle united                             ruud gullit      alan shearer           adidas  newcastle brown ale
+14    nottingham forest                ron atkinson (caretaker)     steve chettle            umbro   pinnacle insurance
+15  sheffield wednesday                            danny wilson    peter atherton             puma            sanderson
+16          southampton                              dave jones   matt le tissier             pony            sanderson
+17    tottenham hotspur                           george graham      sol campbell             pony    hewlett - packard
+18      west ham united                          harry redknapp       steve lomas             pony           dr martens
+19            wimbledon  terry burton mick harford (caretakers)      robbie earle            lotto               elonex

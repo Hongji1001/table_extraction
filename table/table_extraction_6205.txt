@@ -1,0 +1,47 @@
+          constructor        chassis                          engine tyres                   driver            rounds
+0             ferrari          312t5             ferrari 015 3.0 f12     m           jody scheckter               all
+1             ferrari          312t5             ferrari 015 3.0 f12     m        gilles villeneuve               all
+2      tyrrell - ford        009 010        ford cosworth dfv 3.0 v8     g     jean - pierre jarier               all
+3      tyrrell - ford        009 010        ford cosworth dfv 3.0 v8     g               derek daly               all
+4      tyrrell - ford        009 010        ford cosworth dfv 3.0 v8     g           mike thackwell           13 - 14
+5      brabham - ford           bt49        ford cosworth dfv 3.0 v8     g            nelson piquet               all
+6      brabham - ford           bt49        ford cosworth dfv 3.0 v8     g           ricardo zunino             1 - 7
+7      brabham - ford           bt49        ford cosworth dfv 3.0 v8     g           héctor rebaque            8 - 14
+8      mclaren - ford  m29b m29c m30        ford cosworth dfv 3.0 v8     g              john watson               all
+9      mclaren - ford  m29b m29c m30        ford cosworth dfv 3.0 v8     g              alain prost    1 - 3 , 5 - 14
+10     mclaren - ford  m29b m29c m30        ford cosworth dfv 3.0 v8     g            stephen south                 4
+11         ats - ford          d3 d4        ford cosworth dfv 3.0 v8     g               marc surer    1 - 3 , 7 - 14
+12         ats - ford          d3 d4        ford cosworth dfv 3.0 v8     g              jan lammers             4 - 6
+13         ats - ford          d3 d4        ford cosworth dfv 3.0 v8     g              jan lammers             1 - 3
+14         ats - ford          d3 d4        ford cosworth dfv 3.0 v8     g              harald ertl                 9
+15       lotus - ford         81 81b        ford cosworth dfv 3.0 v8     g           mario andretti               all
+16       lotus - ford         81 81b        ford cosworth dfv 3.0 v8     g          elio de angelis               all
+17       lotus - ford         81 81b        ford cosworth dfv 3.0 v8     g            nigel mansell           10 - 12
+18      ensign - ford           n180        ford cosworth dfv 3.0 v8     g           clay regazzoni             1 - 4
+19      ensign - ford           n180        ford cosworth dfv 3.0 v8     g             tiff needell             5 - 6
+20      ensign - ford           n180        ford cosworth dfv 3.0 v8     g              jan lammers            7 - 14
+21      ensign - ford           n180        ford cosworth dfv 3.0 v8     g               geoff lees           11 - 12
+22            renault           re20  renault - gordini ef1 1.5 v6 t     m  jean - pierre jabouille            1 - 13
+23            renault           re20  renault - gordini ef1 1.5 v6 t     m              rené arnoux               all
+24      shadow - ford      dn11 dn12        ford cosworth dfv 3.0 v8     g         stefan johansson             1 - 2
+25      shadow - ford      dn11 dn12        ford cosworth dfv 3.0 v8     g               geoff lees             3 - 7
+26      shadow - ford      dn11 dn12        ford cosworth dfv 3.0 v8     g             dave kennedy             1 - 7
+27  fittipaldi - ford          f7 f8        ford cosworth dfv 3.0 v8     g       emerson fittipaldi               all
+28  fittipaldi - ford          f7 f8        ford cosworth dfv 3.0 v8     g             keke rosberg               all
+29         alfa romeo            179         alfa romeo 1260 3.0 v12     g        patrick depailler             1 - 8
+30         alfa romeo            179         alfa romeo 1260 3.0 v12     g       vittorio brambilla           11 - 12
+31         alfa romeo            179         alfa romeo 1260 3.0 v12     g        andrea de cesaris           13 - 14
+32         alfa romeo            179         alfa romeo 1260 3.0 v12     g         bruno giacomelli               all
+33      ligier - ford      js11 / 15        ford cosworth dfv 3.0 v8     g            didier pironi               all
+34      ligier - ford      js11 / 15        ford cosworth dfv 3.0 v8     g          jacques laffite               all
+35    williams - ford     fw07 fw07b        ford cosworth dfv 3.0 v8     g               alan jones               all
+36    williams - ford     fw07 fw07b        ford cosworth dfv 3.0 v8     g         carlos reutemann               all
+37      arrows - ford             a3        ford cosworth dfv 3.0 v8     g         riccardo patrese               all
+38      arrows - ford             a3        ford cosworth dfv 3.0 v8     g              jochen mass  1 - 10 , 13 - 14
+39      arrows - ford             a3        ford cosworth dfv 3.0 v8     g           mike thackwell                11
+40      arrows - ford             a3        ford cosworth dfv 3.0 v8     g       manfred winkelhock                12
+41      osella - ford       fa1 fa1b        ford cosworth dfv 3.0 v8     g            eddie cheever               all
+42    williams - ford           fw07        ford cosworth dfv 3.0 v8     g            desiré wilson                 8
+43    williams - ford           fw07        ford cosworth dfv 3.0 v8     g            rupert keegan            8 - 14
+44    williams - ford           fw07        ford cosworth dfv 3.0 v8     g              kevin cogan                13
+45    williams - ford           fw07        ford cosworth dfv 3.0 v8     g               geoff lees                14

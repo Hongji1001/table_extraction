@@ -1,0 +1,7 @@
+     game      date    home team     result    road team
+0  game 1  april 14       boston  117 - 114  los angeles
+1  game 2  april 16       boston  113 - 106  los angeles
+2  game 3  april 17  los angeles   119 - 99       boston
+3  game 4  april 19  los angeles  105 - 108       boston
+4  game 5  april 21       boston  119 - 126  los angeles
+5  game 6  april 24  los angeles  109 - 112       boston

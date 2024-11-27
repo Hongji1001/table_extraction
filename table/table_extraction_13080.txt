@@ -1,0 +1,11 @@
+               name faith     type  intake  dcsf number  ofsted number
+0            bromet     -  primary      40         2385         117308
+1  bushey and oxhey     -   infant      60         2117         117157
+2           central     -  primary      30         2116         117156
+3            chater     -  infants      60         2122         117159
+4            chater     -   junior      60         2120         117158
+5             field     -  infants      60         2124         117161
+6             field     -   junior      60         2123         117160
+7          holywell     -  primary      60         2349         117290
+8   laurance haines     -  primary      60         2398         117320
+9     st anthony 's    rc  primary      30         2428         117495

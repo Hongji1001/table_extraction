@@ -1,0 +1,7 @@
+            aircraft  introduced retired  seating                        notes
+0  airbus a319 - 100        2004       -      156                   in service
+1  airbus a320 - 200        2008       -      180                   in service
+2  airbus a321 - 200        2008    2010      220    inherited from gb airways
+3   boeing 737 - 204        1995    1996      115       replaced by 737 - 300s
+4   boeing 737 - 300        1996    2007  148 / 9            replaced by a319s
+5   boeing 737 - 700        2000    2011      149  replaced by a319s and a320s

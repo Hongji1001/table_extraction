@@ -1,0 +1,11 @@
+                    cyclist      country               team       time uci points
+0          vladimir karpets       russia   caisse d'epargne  22h 21'05         50
+1             denis menchov       russia           rabobank       + 40         40
+2            michael rogers    australia    t - mobile team       + 40         35
+3         christophe moreau       france    ag2r prévoyance     + 1'34         30
+4             óscar sevilla        spain        relax - gam     + 1'34      n / a
+5         francisco mancebo        spain        relax - gam     + 1'59      n / a
+6               john gadret       france    ag2r prévoyance     + 2'19         15
+7  marcos - antonio serrano        spain   karpin - galicia     + 2'39      n / a
+8           laurens ten dam  netherlands          unibetcom     + 2'44          5
+9           janez brajkovič     slovenia  discovery channel     + 2'47          2

@@ -1,0 +1,22 @@
+       nat                       name        moving from            type transfer window  ends transfer fee
+0   cyprus             georgios efrem            arsenal        transfer          summer  2009         free
+1      sco               graeme smith         kilmarnock        transfer          summer  2010         free
+2      usa           damarcus beasley                psv        transfer          summer  2010        0.7 m
+3      sco               andy webster     wigan athletic  loan extension          summer  2008        n / a
+4      sco             kirk broadfoot          st mirren        transfer          summer  2010         free
+5      fra  jean - claude darcheville           bordeaux        transfer          summer  2009         free
+6      sco                   alan gow            falkirk        transfer          summer  2010         free
+7      esp             carlos cuéllar            osasuna        transfer          summer  2011       2.37 m
+8      nir                roy carroll    west ham united        transfer          summer  2008         free
+9      aut       marco michetschlager      admira wacker            loan          summer  2008        n / a
+10     sco              lee mcculloch     wigan athletic        transfer          summer  2011       2.25 m
+11     sco           steven whittaker          hibernian        transfer          summer  2012          2 m
+12     gab              daniel cousin               lens        transfer          summer  2010        1.1 m
+13     sco            steven naismith         kilmarnock        transfer          summer  2012        1.9 m
+14     sen                  amdy faye  charlton athletic            loan          summer  2008        n / a
+15     lat            artūrs vaičulis          st mirren        transfer          summer  2009         free
+16     nor      thomas kind bendiksen         harstad il        transfer          summer  2010       0.09 m
+17     tur                  isa bagci          bk häcken        transfer          summer  2010  undisclosed
+18     sco             neil alexander       ipswich town        transfer          winter  2011         free
+19     sco           christian dailly    west ham united        transfer          winter  2008         free
+20     nir               steven davis             fulham            loan          winter  2008        n / a

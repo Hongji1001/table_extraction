@@ -1,0 +1,18 @@
+    year                                        award       nominated work                                  category     result
+0   2004                               academy awards  maria full of grace                              best actress  nominated
+1   2004                   screen actors guild awards  maria full of grace                              best actress  nominated
+2   2004                    independent spirit awards  maria full of grace                          best female lead        won
+3   2004             chicago film critics association  maria full of grace                  most promising performer        won
+4   2004                       colombian cinema award  maria full of grace                              best actress        won
+5   2004                                gotham awards  maria full of grace                  breakthrough performance        won
+6   2004                     imagen foundation awards  maria full of grace                       best actress - film        won
+7   2004  los angeles film critics association awards  maria full of grace                  award for new generation        won
+8   2004           online film critics society awards  maria full of grace             best breakthrough performance        won
+9   2004                                  premios ace  maria full of grace                              best actress        won
+10  2004          seattle international film festival  maria full of grace                              best actress        won
+11  2004                                showest award  maria full of grace            international star of the year        won
+12  2004           berlin international film festival  maria full of grace                              best actress        won
+13  2004           broadcast film critics association  maria full of grace                              best actress  nominated
+14  2004                            chlotrudis awards  maria full of grace                              best actress  nominated
+15  2004                             satellite awards  maria full of grace  best actress in a motion picture , drama  nominated
+16  2005            london critics circle film awards  maria full of grace                       actress of the year  nominated

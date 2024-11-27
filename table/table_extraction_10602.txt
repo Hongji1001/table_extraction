@@ -1,0 +1,11 @@
+          country                       skip                third               second              lead
+0          canada             charley thomas         brock virtue           matthew ng     kyle reynolds
+1           china              wang binjiang        zang jialiang              wang zi          yang tuo
+2  czech republic                jakub bares          jiri candra        martin hejhal   martin štěpánek
+3         denmark             rasmus stjerne        mikkel krause        oliver dupont      troels harry
+4         germany              daniel neuner       florian zahler      johannes glaser   dominik greindl
+5          norway  stein fredrik mellemseter  steffen mellemseter  kristian rolvsfjord    markus høiberg
+6        scotland                 logan gray     alasdair guthrie        glen muirhead  gordon mcdougall
+7          sweden                niklas edin    marcus hasselborg      emanuel allberg  fredrik lindberg
+8     switzerland       christian von gunten          sven michel      sandro trolliet      michel gribi
+9   united states                 chris plys      aanders brorson     matthew perushek       joel cooper

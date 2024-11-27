@@ -1,0 +1,15 @@
+               headstamp id primer annulus color bullet tip color                           other features      functional type
+0               vii or viiz               purple             none                                     none           light ball
+1                     viiiz               purple             none                                     none           heavy ball
+2   g1 , g2 , g3 , g7 or g8                  red             none                                     none               tracer
+3      g4 , g4z , g6 or g6z                  red            white                                     none               tracer
+4                 g5 or g5z                  red             gray                                     none               tracer
+5                 w1 or w1z                green             none                                     none                   ap
+6                 b4 or b4z                 blue             none                    step in bullet jacket           incendiary
+7                 b6 or b6z                 blue             none                                     none           incendiary
+8                 b7 or b7z                 blue             blue                                     none           incendiary
+9                        o1                black            black                                     none            observing
+10              pg1 or pg1z                  red             none                   blue band on case base    practice - tracer
+11                      h1z                 none             none             front half of case blackened  grenade - launching
+12                       h2                 none             none                    entire case blackened  grenade - launching
+13                       h4                 none             none  case blackened 3 / 4 inch from each end  grenade - launching

@@ -1,0 +1,6 @@
+   year    chassis        engine tyres  points
+0  2000  jaguar r1  cosworth v10     b       4
+1  2001  jaguar r2  cosworth v10     m       9
+2  2002  jaguar r3  cosworth v10     m       8
+3  2003  jaguar r4  cosworth v10     m      18
+4  2004  jaguar r5  cosworth v10     m      10

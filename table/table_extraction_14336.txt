@@ -1,0 +1,6 @@
+             date            round      opponent           venue result  attendance
+0  13 / 01 / 2009               r4  brechin city      glebe park  3 - 1        1026
+1  07 / 02 / 2009               r5    motherwell        fir park  1 - 1        5695
+2  17 / 02 / 2009      r5 (replay)    motherwell  st mirren park  1 - 0        4555
+3  07 / 03 / 2009  quarter - final        celtic  st mirren park  1 - 0        5925
+4  25 / 04 / 2009     semi - final       rangers    hampden park  0 - 3       32431

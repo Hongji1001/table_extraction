@@ -1,0 +1,14 @@
+                name pos height weight            2012 club
+0     joel dennerley  gk      m      -   unsw wests magpies
+1    richie campbell  cb      m      -   unsw wests magpies
+2        tim cleland  cb      m      -   fremantle mariners
+3   johnno cotterill   d      m      -        panionios gss
+4      aaron younger   d      m      -         szeged beton
+5   jamie beadsworth  cf      m      -   fremantle mariners
+6        aiden roach   d      m      -     drummoyne devils
+7       sam mcgregor   d      m      -     victorian tigers
+8      thomas whalan   d      m      -    sydney university
+9        gavin woods  cf      m      -       balmain tigers
+10       rhys howden   d      m      -  brisbane barracudas
+11      billy miller   d      m      -  queensland breakers
+12       james clark  gk      m      -          balmain wpc

@@ -1,0 +1,10 @@
+                    child             date of birth                           mother          father              dna testing status
+0            oliver buell                   1838 39       presendia huntington buell    norman buell        complete (november 2007)
+1       john reed hancock           april 19 , 1841            clarissa reed hancock    levi hancock            complete (july 2011)
+2          mosiah hancock            april 9 , 1834            clarissa reed hancock    levi hancock        complete (november 2007)
+3        frank henry hyde  january 23 , 1845 , 1846             marinda johnson hyde      orson hyde                      incomplete
+4   orson washington hyde         november 9 , 1843             marinda johnson hyde      orson hyde  not possible (died in infancy)
+5          zebulon jacobs          january 2 , 1842           zina huntington jacobs    henry jacobs             complete (may 2005)
+6       algernon lightner           march 22 , 1842  mary elizabeth rollins lightner   adam lightner  not possible (died in infancy)
+7  josephine rosetta lyon         february 8 , 1844      sylvia porter sessions lyon    windsor lyon                      incomplete
+8            moroni pratt         december 7 , 1844             mary ann frost pratt  parley p pratt             complete (may 2005)

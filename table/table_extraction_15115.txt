@@ -1,0 +1,12 @@
+   place                player        country  score to par
+0      1  christy o'connor jnr        ireland     64    - 6
+1     t2          david graham      australia     68    - 2
+2     t2        tony johnstone       zimbabwe     68    - 2
+3     t2            robert lee        england     68    - 2
+4     t2            sandy lyle       scotland     68    - 2
+5     t2         philip parkin          wales     68    - 2
+6     t7      gordon brand jnr       scotland     69    - 1
+7     t7           bill mccoll       scotland     69    - 1
+8     t7          d a weibring  united states     69    - 1
+9     t7          david whelan        england     69    - 1
+10    t7         fuzzy zoeller  united states     69    - 1

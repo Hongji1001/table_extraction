@@ -1,0 +1,12 @@
+       opposing teams  against            date                            venue       status
+0               wales       26  02 / 02 / 2008              twickenham , london  six nations
+1               italy       19  10 / 02 / 2008           stadio flaminio , rome  six nations
+2              france       13  23 / 02 / 2008  stade de france , saint - denis  six nations
+3            scotland       15  08 / 03 / 2008          murrayfield , edinburgh  six nations
+4             ireland       10  15 / 03 / 2008              twickenham , london  six nations
+5         new zealand       37  14 / 06 / 2008             eden park , auckland   first test
+6         new zealand       44  21 / 06 / 2008       ami stadium , christchurch  second test
+7   pacific islanders       13  08 / 11 / 2008              twickenham , london   test match
+8           australia       28  15 / 11 / 2008              twickenham , london   test match
+9        south africa       42  22 / 11 / 2008              twickenham , london   test match
+10        new zealand       32  29 / 11 / 2008              twickenham , london   test match

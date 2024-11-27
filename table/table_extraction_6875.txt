@@ -1,0 +1,9 @@
+    name / number               builder                            type                status                                                notes
+0      irish mail               hunslet       0 - 4 - 0st 'alice' class           operational                     ex dinorwic slate quarry , wales
+1          joffre           kerr stuart  0 - 6 - 0t + wt 'joffre' class           operational                     ex ww1 french artillery railways
+2  montalban (22)  orenstein and koppel                 0 - 4 - 0t + wt           operational  ex minas y ferrocarril de utrillas , aragon , spain
+3   utrillas (21)  orenstein and koppel                 0 - 4 - 0t + wt           operational  ex minas y ferrocarril de utrillas , aragon , spain
+4           no 45              chrzanow     0 - 6 - 0t + wt 'las' class        static display                                  ex polish 2ft gauge
+5            no47              henschel                      0 - 8 - 0t  awaiting restoration                               ex ww1 german feldbahn
+6            no48                fowler                      0 - 4 - 2t  awaiting restoration                   ex sena sugar estates , mozambique
+7           sybil               bagnall                     0 - 4 - 0st  awaiting restoration                     ex dinorwic slate quarry , wales

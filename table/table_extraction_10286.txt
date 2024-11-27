@@ -1,0 +1,13 @@
+              athlete     nationality 2.15 2.20 2.24  2.27  result
+0       artur partyka          poland    o    -    o     -    2.34
+1        dalton grant   great britain   xo    o    -   x -    2.34
+2      sergey klyugin          russia    -    o    o     o    2.32
+3          martin buß         germany    -    o    o     o    2.32
+4   dimitrios kokotis          greece    -    o    -     o    2.30
+5        steinar hoen          norway    -   xo   xo     o    2.30
+6         stefan holm          sweden    -    o   xo     o    2.27
+7      staffan strand          sweden    -    o    -   xxo    2.27
+8      dragutin topić      yugoslavia    -    o    o     -    2.24
+9      brendan reilly   great britain    -    -    o  xx -    2.24
+10   christian rhoden         germany    o   xo    o   xxx    2.24
+11        tomáš janků  czech republic    o    o   xo   xxx    2.24

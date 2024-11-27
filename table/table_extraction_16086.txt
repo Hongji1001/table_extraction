@@ -1,0 +1,6 @@
+  proto - germanic west germanic old english       german dutch
+0                þ             -           -            d   d /
+1                þ             -           -            d   d /
+2                đ             d           d            t   d /
+3                đ             d           d            t   d /
+4                t             t           t  s / or / ts   t /

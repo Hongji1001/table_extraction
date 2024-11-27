@@ -1,0 +1,14 @@
+              winners match points aggregate score  points margin           losers
+0                bath        4 - 0        125 - 11            114         l'aquila
+1         montferrand        4 - 0         113 - 3            110         leonessa
+2            saracens        4 - 0        127 - 18            109       rugby roma
+3   castres olympique        4 - 0        128 - 24            104           rovigo
+4   newcastle falcons        4 - 0        137 - 37            100   valladolid rac
+5      nec harlequins        4 - 0         94 - 21             73      el salvador
+6            grenoble        4 - 0         76 - 16             60       gran parma
+7             glasgow        4 - 0         68 - 24             44      montpellier
+8           colomiers        4 - 0         75 - 32             43  petrarca padova
+9            narbonne        4 - 0         52 - 23             29        rotherham
+10                pau        4 - 0         58 - 34             24   overmach parma
+11              brive        2 - 2         61 - 41             20          viadana
+12       london irish        2 - 2         62 - 54              8        montauban

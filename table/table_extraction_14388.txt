@@ -1,0 +1,37 @@
+                player    pos    nationality             team           previous team  years of nba experience  career with the franchise
+0       len chappell +  f / c  united states  milwaukee bucks         detroit pistons                        6                1968 - 1970
+1       larry costello      g  united states  milwaukee bucks      philadelphia 76ers                       12                          -
+2          johnny egan      g  united states  milwaukee bucks       baltimore bullets                        7                          -
+3        wayne embry +  f / c  united states  milwaukee bucks          boston celtics                       10                1968 - 1969
+4          dave gambee      f  united states  milwaukee bucks       san diego rockets                       10                       1968
+5            gary gray      g  united states  milwaukee bucks       cincinnati royals                        1                          -
+6          fred hetzel  f / c  united states  milwaukee bucks  san francisco warriors                        3                1968 - 1969
+7         johnny jones      f  united states  milwaukee bucks          boston celtics                        1                          -
+8             bob love      f  united states  milwaukee bucks       cincinnati royals                        2                       1968
+9     jon mcglocklin +  g / f  united states  milwaukee bucks       san diego rockets                        3                1968 - 1976
+10          jay miller      f  united states  milwaukee bucks           atlanta hawks                        1                       1968
+11           bud olsen  f / c  united states  milwaukee bucks     seattle supersonics                        6                          -
+12    george patterson  f / c  united states  milwaukee bucks         detroit pistons                        1                          -
+13            jim reid      f  united states  milwaukee bucks      philadelphia 76ers                        1                          -
+14       guy rodgers +      g  united states  milwaukee bucks       cincinnati royals                       10                1968 - 1970
+15         tom thacker  g / f  united states  milwaukee bucks          boston celtics                        4                          -
+16         bob warlick  g / f  united states  milwaukee bucks  san francisco warriors                        3                       1968
+17           bob weiss      g  united states  milwaukee bucks     seattle supersonics                        3                       1968
+18       john barnhill      g  united states     phoenix suns       san diego rockets                        6                          -
+19           em bryant      g  united states     phoenix suns         new york knicks                        4                          -
+20       gail goodrich      g  united states     phoenix suns      los angeles lakers                        3                1968 - 1970
+21     dennis hamilton      f  united states     phoenix suns      los angeles lakers                        1                          -
+22        neil johnson  f / c  united states     phoenix suns         new york knicks                        2                1968 - 1970
+23         dave lattin  f / c  united states     phoenix suns  san francisco warriors                        1                1968 - 1969
+24           paul long      g  united states     phoenix suns         detroit pistons                        1                          -
+25       stan mckenzie  g / f  united states     phoenix suns       baltimore bullets                        1                1968 - 1970
+26      mccoy mclemore  f / c  united states     phoenix suns           chicago bulls                        4                       1968
+27     bill melchionni      g  united states     phoenix suns      philadelphia 76ers                        1                          -
+28     dave schellhase      g  united states     phoenix suns           chicago bulls                        2                          -
+29         dick snyder  g / f  united states     phoenix suns           atlanta hawks                        2                1968 - 1969
+30       craig spitzer      c  united states     phoenix suns           chicago bulls                        1                          -
+31    bumper tormohlen  f / c  united states     phoenix suns           atlanta hawks                        5                          -
+32  dick van arsdale +  g / f  united states     phoenix suns         new york knicks                        3                1968 - 1977
+33         roland west      g  united states     phoenix suns       baltimore bullets                        1                          -
+34         john wetzel  g / f  united states     phoenix suns      los angeles lakers                        1  1970 - 1972 , 1975 - 1976
+35       george wilson      c  united states     phoenix suns     seattle supersonics                        4                1968 - 1969

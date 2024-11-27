@@ -1,0 +1,31 @@
+    pick              player    nationality position                     team from                            league from
+0    181     kristians pelss         latvia        f           dinamo juniors riga                 belarusian extraleague
+1    182       josh nicholls         canada       rw              saskatoon blades                  western hockey league
+2    183         ronald boyd  united states        d               cushing academy         united states high school - ma
+3    184    martin ouellette         canada        g         kimball union academy         united states high school - nh
+4    185          cody rosen         canada        g       clarkson golden knights                            ecac hockey
+5    186         teigan zahn         canada        d              saskatoon blades                  western hockey league
+6    187   frederik andersen        denmark        g     frederikshavn white hawks             al - bank ligaen (denmark)
+7    188          lee moffie  united states        d           michigan wolverines  central collegiate hockey association
+8    189      dylan mckinlay         canada       rw             chilliwack bruins                  western hockey league
+9    190      randy mcnaught         canada        f              saskatoon blades                  western hockey league
+10   191   macmillan carruth  united states        g          portland winterhawks                  western hockey league
+11   192       brett perlini         canada       rw       michigan state spartans  central collegiate hockey association
+12   193     patrick holland         canada       rw          tri - city americans                  western hockey league
+13   194        david elsner        germany        f            landshut cannibals               2nd bundesliga (germany)
+14   195      maxim chudinov         russia        d                  hc severstal     kontinental hockey league (russia)
+15   196      bryce aneloski  united states        d      cedar rapids roughriders            united states hockey league
+16   197        luke moffatt  united states        c       us national u - 18 team            united states hockey league
+17   198         joonas rask        finland        c                         ilves                   sm - liiga (finland)
+18   199    peter stoykewych         canada        d          winnipeg south blues          manitoba junior hockey league
+19   200         chris crane  united states       rw            green bay gamblers            united states hockey league
+20   201   benjamin marshall  united states        d  mahtomedi senior high school         united states high school - mn
+21   202        kellen jones         canada        f                 vernon vipers         british columbia hockey league
+22   203  christian isackson  united states       rw          saint thomas academy         united states high school - mn
+23   204          mauro jorg    switzerland       lw                     hc lugano        national league a (switzerland)
+24   205       sawyer hannay         canada        d            halifax mooseheads      quebec major junior hockey league
+25   206   ricard blidstrand         sweden        d                           aik                 j20 superelit (sweden)
+26   207         john westin         sweden       lw                   modo hockey                 j20 superelit (sweden)
+27   208       riley boychuk         canada       lw          portland winterhawks                  western hockey league
+28   209     brendan ranford         canada       lw              kamloops blazers                  western hockey league
+29   210        zach trotman  united states        d          lake superior lakers  central collegiate hockey association

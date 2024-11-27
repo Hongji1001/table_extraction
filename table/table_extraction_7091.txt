@@ -1,0 +1,25 @@
+        rank in military                                              name  born  killed            political party                    mp 's seat
+0   lieutenant - colonel          charles duncombe , 2nd earl of feversham  1879    1916               conservative  thirsk and malton (19061915)
+1   lieutenant - colonel                         the hon guy victor baring  1873    1916               conservative                    winchester
+2   lieutenant - colonel                     lord ninian crichton - stuart  1883    1915     liberal unionist party                       cardiff
+3   lieutenant - colonel                                       percy clive  1873    1918     liberal unionist party                          ross
+4   lieutenant - colonel                         duncan frederick campbell  1876    1916                   unionist                north ayrshire
+5                  major                       the hon charles henry lyell  1875    1918                    liberal               edinburgh south
+6                  major                             lord alexander thynne  1873    1918               conservative                          bath
+7                  major                                 valentine fleming  1882    1917               conservative                        henley
+8                  major                                 philip glazebrook  1880    1918               conservative              manchester south
+9                  major                         francis bennett - goldney  1865    1918       independent unionist                    canterbury
+10               captain                      william hoey kearney redmond  1861    1917  irish parliamentary party                    clare east
+11               captain                            dr john joseph esmonde  1862    1915  irish parliamentary party               north tipperary
+12               captain                    the hon thomas agar - robartes  1880    1915                    liberal           st austell division
+13               captain                      the hon harold thomas cawley  1878    1915                    liberal                       heywood
+14               captain                             the hon oswald cawley  1882    1918                    liberal                     prestwich
+15               captain                            the hon arthur o'neill  1876    1914      ulster unionist party                    mid antrim
+16               captain          the rt hon neil james archibald primrose  1882    1917                    liberal                       wisbech
+17               captain  michael hugh hicks - beach , viscount quenington  1877    1916               conservative                    tewkesbury
+18            lieutenant           the hon francis walter stafford mclaren  1886    1917                    liberal                      spalding
+19            lieutenant                      the hon charles thomas mills  1887    1915               conservative             uxbridge division
+20            lieutenant                           the hon william walrond  1876    1915               conservative                      tiverton
+21            lieutenant                             thomas michael kettle  1880    1916               conservative                   east tyrone
+22            lieutenant                  william glynne charles gladstone  1885    1915              liberal party             kilmarnock burghs
+23        2nd lieutenant                        gerald archibald arbuthnot  1872    1916               conservative         burnley (1910 - 1910)

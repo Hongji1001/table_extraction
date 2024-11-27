@@ -1,0 +1,39 @@
+          constituency                  winner       party  margin                   runner - up a party a
+0         madras north      krishnan manoharan         dmk   51594            s g vinayaga moorthy     nco
+1         madras south          murasoli maran         dmk   20341                      narasimhan     swa
+2   sriperumbudur (sc)          t s lakshmanan         dmk  100046                        p kakkan     nco
+3         chengalpattu           c chitti babu         dmk  118756              p m muthukumarappa     nco
+4            tiruttani    o v alagesa mudaliar         inc   84105                  p ramachandran     nco
+5         vellore (sc)          r p ulaganambi         dmk   85321                     t manavalan     nco
+6          tiruppattur  c k chinnaraji gounder         dmk   55063                 n parthasarathy     swa
+7            vandavasi           g viswanathan         dmk   87955                  a krishnaswamy     nco
+8           tindivanam   m r lakshmi narayanan         inc   61475               m p radhakrishnan     swa
+9            cuddalore         s radhakrishnan         inc   36487                  r muthukumaran     nco
+10    chidambaram (sc)               v mayavan         dmk   22398                 l elaya perumal     nco
+11        kallakurichi             m deiveekan         dmk   21976                     k veerasamy     nco
+12         krishnagiri   t thirthagiri gounder         inc   34920                  t m thirupathy     swa
+13               salem            e r krishnan         dmk   54796                 m p subramanyam     nco
+14              mettur            g bhuvarahan         inc   66140                    k ramamurthy     nco
+15        tiruchengode             m muthusami         dmk   60047                   t m kaliannan     nco
+16            nilgiris          j matha gowder         dmk   61094                    akkamma devi     nco
+17          coimbatore      k balathandayutham         cpi   77053                       ramaswamy     nco
+18            pollachi               narayanan         dmk  126206                  k r nallasivam     ssp
+19     dharapuram (sc)          c t dhandapani         dmk  116186                     k paramalai     nco
+20   gobichettipalayam          p a saminathan         dmk   60492                   e v k sampath     nco
+21         periyakulam    s m mohammad sheriff  ind / iuml   41925                    h ajmal khan     swa
+22            dindigul              m rajangam         dmk   97635                   m cheemachamy     swa
+23             madurai         r v swaminathan         inc   72359          s chinnakaruppa thevar     nco
+24               karur                 k gopal         inc   73293                    v ramanathan     nco
+25     tiruchirappalli       m kalyanasundaram         cpi   20550                  s p thangavelu     nco
+26     perambalur (sc)             a durairaju         dmk   61569                     m ayyakannu     nco
+27         pudukkottai               k veeriah         dmk   48395  r vijaya raghunatha thondaiman     nco
+28          kumbakonam            era sezhiyan         dmk   38753                    c r ramasamy     nco
+29             mayuram             k subravelu         dmk   66373                      k rajangam     nco
+30        nagapattinam            m kathamuthu         cpi   87727                     v sabasivam     nco
+31           thanjavur        s d somasundaram         dmk  100008           r krishnasamy gopalar     nco
+32           sivaganga          tha kiruttinan         dmk  100008             kannappa valliappan     nco
+33      ramanathapuram      p k mookiah thevar         fbl   69155                  s balakrishnan     nco
+34            sivakasi           v jeyalakshmi         inc   85662                r gopalakrishnan     swa
+35         tirunelveli       s a muruganantham         cpi   59937             s palaniswaminathan     swa
+36        tenkasi (sc)         a m chellachami         inc   68910                    r s arumugam     nco
+37         tiruchendur            m s sivasamy         dmk      26                       m mathias     swa

@@ -1,0 +1,17 @@
+             driver        constructor  laps  time / retired  grid
+0    jackie stewart                brm   100       2:33:10.5     3
+1   lorenzo bandini            ferrari   100          + 40.2     5
+2       graham hill                brm    99         + 1 lap     4
+3     bob bondurant                brm    95        + 5 laps    16
+4    richie ginther  cooper - maserati    80    transmission     9
+5        guy ligier  cooper - maserati    75  not classified    15
+6        jo bonnier  cooper - maserati    73  not classified    16
+7         jim clark     lotus - climax    60      suspension     1
+8      jochen rindt  cooper - maserati    56          engine     7
+9        jo siffert      brabham - brm    35          clutch    13
+10      mike spence        lotus - brm    34      suspension    12
+11     jack brabham    brabham - repco    17         gearbox    11
+12     john surtees            ferrari    16    transmission     2
+13      denny hulme   brabham - climax    15    transmission     6
+14    bruce mclaren     mclaren - ford     9        oil leak    10
+15     bob anderson   brabham - climax     3          engine     8

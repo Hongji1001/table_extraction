@@ -1,0 +1,9 @@
+   year  class    team  points  wins
+0  1970  250cc  yamaha       0     0
+1  1970  350cc  yamaha       0     0
+2  1971  250cc  yamaha       9     0
+3  1971  350cc  yamaha      33     0
+4  1972  250cc  yamaha      28     0
+5  1972  350cc  yamaha      17     0
+6  1973  250cc  yamaha      20     0
+7  1973  350cc  yamaha      17     0

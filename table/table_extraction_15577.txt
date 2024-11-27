@@ -1,0 +1,13 @@
+                 name height weight    spike              2008 club
+0    nikola kovačević      m      -  cm (in)            rpa perugia
+1       dejan bojović      m      -  cm (in)     gabeca montichiari
+2      novica bjelica      m      -  cm (in)    copra nordmeccanica
+3         bojan janić      m      -  cm (in)     marmi lanza verona
+4      vlado petković      m      -  cm (in)    budućnost podgorica
+5     marko samardžić      m      -  cm (in)               tours vb
+6        nikola grbić      m      -  cm (in)        trentino volley
+7         miloš nikić      m      -  cm (in)       sparkling milano
+8       andrija gerić      m      -  cm (in)      lube banca marche
+9      ivan miljković      m      -  cm (in)          m roma volley
+10      saša starović      m      -  cm (in)    budućnost podgorica
+11  marko podraščanin      m      -  cm (in)  famigliulo corigliano

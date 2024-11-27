@@ -1,0 +1,15 @@
+               week                theme                         song choice   original artist  order    result
+0          audition                n / a                  livin' on a prayer          bon jovi  n / a  advanced
+1         hollywood                n / a   (everything i do) i do it for you       bryan adams  n / a  advanced
+2            top 50                n / a                             i'll be      edwin mccain  n / a  advanced
+3   top 24 (12 men)                1960s                      happy together       the turtles      3      safe
+4   top 20 (10 men)                1970s                       all right now              free      9      safe
+5    top 16 (8 men)                1980s                               hello     lionel richie      6      safe
+6            top 12      lennonmccartney                       eleanor rigby       the beatles      6      safe
+7            top 11          the beatles                         day tripper       the beatles      6      safe
+8            top 10  year they were born                         billie jean   michael jackson     10      safe
+9             top 9         dolly parton                      little sparrow      dolly parton      2      safe
+10            top 8  inspirational songs                            innocent    our lady peace      5      safe
+11            top 7         mariah carey                   always be my baby      mariah carey      6      safe
+12            top 6  andrew lloyd webber              the music of the night  michael crawford      6      safe
+13            top 5         neil diamond  i'm alive all i really need is you      neil diamond    2 7      safe

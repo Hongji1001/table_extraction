@@ -1,0 +1,7 @@
+  call sign frequency mhz      city of license  erp w class fcc info
+0    w203bq       88.5 fm      walterboro , sc     30     d      fcc
+1    w298aj      107.5 fm           boone , nc     10     d      fcc
+2    w227bk       93.3 fm  surfside beach , sc     27     d      fcc
+3    w238bi       95.5 fm      georgetown , sc     10     d      fcc
+4    w283av      104.5 fm    little river , sc      5     d      fcc
+5    w286ay      105.1 fm      charleston , sc    117     d      fcc

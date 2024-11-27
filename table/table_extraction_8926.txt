@@ -1,0 +1,12 @@
+    rank                  player     county   tally  total opposition
+0      1  michael 'babs' keating  tipperary  2 - 12     18     galway
+1      2             eddie keher   kilkenny  2 - 11     17  tipperary
+2      3             eddie keher   kilkenny  0 - 14     14     london
+3      4  michael 'babs' keating  tipperary   3 - 4     13   limerick
+4      4                des coen     galway   3 - 4     13     antrim
+5      4             eddie keher   kilkenny   2 - 7     13     dublin
+6      7           richie bennis   limerick  0 - 12     12  tipperary
+7      8           richie bennis   limerick   1 - 8     11       cork
+8      8             eddie keher   kilkenny  0 - 11     11    wexford
+9     10           christy kehoe    wexford   1 - 7     10   kilkenny
+10    10                tom ryan     galway   1 - 7     10     antrim

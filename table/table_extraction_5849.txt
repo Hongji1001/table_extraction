@@ -1,0 +1,26 @@
+                driver         constructor  laps time / retired  grid
+0       mario andretti             ferrari    79      1:47:35.5     4
+1       jackie stewart      tyrrell - ford    79         + 20.9     1
+2       clay regazzoni             ferrari    79         + 31.4     3
+3         reine wisell        lotus - ford    79       + 1:09.4    14
+4           chris amon               matra    78        + 1 lap     2
+5          denny hulme      mclaren - ford    78        + 1 lap     7
+6         brian redman      surtees - ford    78        + 1 lap    17
+7           jacky ickx             ferrari    78        + 1 lap     8
+8          graham hill      brabham - ford    77       + 2 laps    19
+9      ronnie peterson        march - ford    77       + 2 laps    13
+10     henri pescarolo        march - ford    77       + 2 laps    18
+11      rolf stommelen      surtees - ford    77       + 2 laps    15
+12   andrea de adamich  march - alfa romeo    75       + 4 laps    22
+13  emerson fittipaldi        lotus - ford    58         engine     5
+14        john surtees      surtees - ford    56        gearbox     6
+15     françois cevert      tyrrell - ford    45       accident     9
+16       howden ganley                 brm    42       physical    24
+17     pedro rodríguez                 brm    33    overheating    10
+18       dave charlton      brabham - ford    31         engine    16
+19          jo siffert                 brm    31    overheating    12
+20           john love        march - ford    30   differential    21
+21    jackie pretorius      brabham - ford    22         engine    20
+22        peter gethin      mclaren - ford     7      fuel leak    11
+23          jo bonnier      mclaren - ford     5     suspension    23
+24   alex soler - roig        march - ford     5         engine    25

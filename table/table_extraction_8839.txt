@@ -1,0 +1,16 @@
+                             original title          title in english         genre             role        directed by
+0                    petőfi '73 (hungarian)                petőfi '73  feature film      protagonist      ferenc kardos
+1             mozart és salieri (hungarian)        mozart and salieri  feature film  title character     andrás surányi
+2                 le dernier métro (french)            the last metro  feature film    episode actor  françois truffaut
+3                  redl ezredes (hungarian)              colonel redl  feature film    episode actor       istván szabó
+4   erőltetett menet (american - hungarian)              forced march  feature film    episode actor          nick rice
+5                   eszterkönyv (hungarian)             eszter - book  feature film    episode actor     krisztina deák
+6                   malina (ger - aus - fr)                    malina  feature film      protagonist    werner schröter
+7                        zsötem (hungarian)                    zsötem  feature film    episode actor     andrás salamon
+8            blue exile (ger - tur - greek)                blue exile  feature film      protagonist        kiral erden
+9           bir sonbahar hikayesi (turkish)           an autumn story  feature film      progatonist        yavuz özkan
+10        franciska vasárnapjai (hungarian)  the sundays of franciska  feature film    episode actor        sándor simó
+11               fosforlu cevriye (turkish)          fosforlu cevriye       tv film      protagonist  mustafa altioklar
+12                   a hídember (hungarian)             the bridgeman  feature film    episode actor     géza bereményi
+13                      sniper 2 (american)                  sniper 2  feature film    episode actor     craig r baxley
+14                    rózsadomb (ger - hun)                 rosemound  feature film    episode actor         mari cantu

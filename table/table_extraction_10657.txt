@@ -1,0 +1,8 @@
+   round  pick  overall            name          position            college
+0      1    21       21    renaldo wynn  defensive tackle         notre dame
+1      2    20       50      mike logan        cornerback      west virginia
+2      3    19       79  james hamilton        linebacker     north carolina
+3      4    18      114      seth payne  defensive tackle            cornell
+4      5    17      147     damon jones         tight end  southern illinois
+5      6    21      184  daimon shelton          fullback   sacramento state
+6      7    20      221       jon hesse        linebacker           nebraska

@@ -1,0 +1,24 @@
+                    driver          constructor  laps  time / retired  grid
+0           jackie stewart       tyrrell - ford    70      1:42:13.43     6
+1         franã§ois cevert       tyrrell - ford    70         + 31.84     4
+2       emerson fittipaldi         lotus - ford    70       + 2:02.79     9
+3        andrea de adamich       brabham - ford    69         + 1 lap    18
+4               niki lauda                  brm    69         + 1 lap    14
+5               chris amon                tecno    67        + 3 laps    15
+6              denny hulme       mclaren - ford    67        + 3 laps     2
+7              carlos pace       surtees - ford    66        + 4 laps     8
+8              graham hill        shadow - ford    65        + 5 laps    23
+9           clay regazzoni                  brm    63        accident    12
+10           mike beuttler         march - ford    63        accident    20
+11    jean - pierre jarier         march - ford    60        accident    16
+12  jean - pierre beltoise                  brm    56  not classified     5
+13       wilson fittipaldi       brabham - ford    46          engine    19
+14         ronnie peterson         lotus - ford    42        accident     1
+15            peter revson       mclaren - ford    33        accident    10
+16           howden ganley  iso marlboro - ford    16        accident    21
+17        carlos reutemann       brabham - ford    14          engine     7
+18          george follmer        shadow - ford    13        throttle    11
+19           jackie oliver        shadow - ford    11        accident    22
+20              jacky ickx              ferrari     6        oil pump     3
+21             nanni galli  iso marlboro - ford     6          engine    17
+22           mike hailwood       surtees - ford     4        accident    13

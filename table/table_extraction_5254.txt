@@ -1,0 +1,10 @@
+                 athlete             event        semifinal                           final rank
+0   siamak feiz - askari   individual épée  did not advance                 did not advance   el
+1          farhad rezaei   individual épée  did not advance                 did not advance   el
+2         ghodrat rezaei   individual épée  did not advance                 did not advance   el
+3       keivan javanshir   individual foil  did not advance                 did not advance   el
+4  mohammad mirmohammadi   individual foil  did not advance                 did not advance   el
+5            hamid veisi   individual foil  did not advance                 did not advance   el
+6          peiman fakhri  individual sabre  did not advance                 did not advance   el
+7    amir mahiman rahimi  individual sabre     guo l 6 - 15  3rd place match zhang l 4 - 15    4
+8   abbas sheikholeslami  individual sabre  did not advance                 did not advance   el

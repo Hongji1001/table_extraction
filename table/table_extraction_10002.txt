@@ -1,0 +1,8 @@
+       virtue        latin                                            gloss    (vice)   (latin)
+0    chastity     castitas            purity , knowledge , honesty , wisdom      lust   luxuria
+1  temperance  temperantia     self control , justice , honour , abstention  gluttony      gula
+2     charity      caritas      will , benevolence , generosity , sacrifice     greed  avaritia
+3   diligence    industria        persistence , effort , ethics , rectitude     sloth    acedia
+4    patience    patientia              peace , mercy , ahimsa , sufferance     wrath       ira
+5    kindness    humanitas  satisfaction , loyalty , compassion , integrity      envy   invidia
+6    humility    humilitas         bravery , modesty , reverence , altruism     pride  superbia

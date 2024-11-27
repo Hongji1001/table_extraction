@@ -1,0 +1,9 @@
+       tournament            winner         runner - up                  score         third place
+0    delray beach       carlos moyá          ivan lendl          6 - 4 , 6 - 4       michael chang
+1       stockholm      john mcenroe      magnus larsson          6 - 3 , 3 - 6    goran ivanišević
+2          zurich       carlos moyá       stefan edberg          3 - 6 , 7 - 5  mark philippoussis
+3        medellín       carlos moyá       greg rusedski          6 - 4 , 6 - 4     fabrice santoro
+4       são paulo   fabrice santoro  mark philippoussis          6 - 3 , 6 - 4      thomas enqvist
+5  knokke - heist  goran ivanišević      thomas enqvist  7 - 6 (7 - 3) , 2 - 6                none
+6          london   fabrice santoro          tim henman          7 - 5 , 6 - 3                none
+7  rio de janeiro    thomas enqvist     fabrice santoro          6 - 3 , 4 - 6       marcos daniel

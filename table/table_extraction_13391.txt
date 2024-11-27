@@ -1,0 +1,16 @@
+   place               player        country  score to par
+0      1        payne stewart  united states     66    - 4
+1      2       mark carnevale  united states     67    - 3
+2     t3           joe durant  united states     68    - 2
+3     t3           tom lehman  united states     68    - 2
+4     t3  josé maría olazábal          spain     68    - 2
+5     t3             bob tway  united states     68    - 2
+6     t7            john daly  united states     69    - 1
+7     t7         jeff maggert  united states     69    - 1
+8     t7      jesper parnevik         sweden     69    - 1
+9    t10             tom kite  united states     70      e
+10   t10      matt kuchar (a)  united states     70      e
+11   t10    colin montgomerie       scotland     70      e
+12   t10         andrew magee  united states     70      e
+13   t10          david ogrin  united states     70      e
+14   t10         mark o'meara  united states     70      e

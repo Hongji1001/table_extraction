@@ -1,0 +1,11 @@
+   pick             mls team           player position               affiliation
+0    11         chicago fire  leonard griffin        d                      ucla
+1    12        columbus crew    chris wingert        d     st john 's university
+2    13   los angeles galaxy     josh gardner        m  university of cincinnati
+3    14   los angeles galaxy     ned grabavoy        m        indiana university
+4    15      colorado rapids  adolfo gregorio        m                      ucla
+5    16      colorado rapids      adrian cann        d  university of louisville
+6    17  kansas city wizards      will hesmer       gk    wake forest university
+7    18           metrostars    seth stammler        d    university of maryland
+8    19         chicago fire     matt pickens       gk  sms (now missouri state)
+9    20         chicago fire    sumed ibrahim        m    university of maryland

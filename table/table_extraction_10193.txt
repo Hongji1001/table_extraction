@@ -1,0 +1,6 @@
+   rank         player        country  earnings  wins
+0     1  jack nicklaus  united states   3992070    71
+1     2     tom watson  united states   2866383    32
+2     3    lee trevino  united states   2643085    28
+3     4  raymond floyd  united states   2178796    18
+4     5   tom weiskopf  united states   2158631    16

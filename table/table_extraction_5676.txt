@@ -1,0 +1,9 @@
+   rank         nation  gold  silver  bronze  total
+0     1         cyprus    39      28      24     91
+1     2        iceland    26      23      27     76
+2     3     luxembourg    18      21      23     62
+3     4         monaco    11       8      18     37
+4     5        andorra     8      14       9     31
+5     6          malta     7      13      18     38
+6     7     san marino     6       9       7     22
+7     8  liechtenstein     5       5       3     13

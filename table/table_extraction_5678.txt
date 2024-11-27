@@ -1,0 +1,21 @@
+              club             city                                   stadium  capacity 2006 - 2007 season
+0         atalanta          bergamo            stadio atleti azzurri d'italia     26378     8th in serie a
+1         cagliari         cagliari                          stadio sant'elia     23486    16th in serie a
+2          catania          catania                   stadio angelo massimino     23420    13th in serie a
+3           empoli           empoli                   stadio carlo castellani     19795     7th in serie a
+4       fiorentina         florence                    stadio artemio franchi     47282     6th in serie a
+5            genoa            genoa                     stadio luigi ferraris     36685     3rd in serie b
+6   internazionale            milan                                  san siro     82955  serie a champions
+7         juventus            turin                         stadio delle alpi     69000  serie b champions
+8            lazio             rome                           stadio olimpico     82307     3rd in serie a
+9          livorno          livorno                     stadio armando picchi     19238    11th in serie a
+10           milan            milan                                  san siro     82955     4th in serie a
+11          napoli           naples                          stadio san paolo     60240     2nd in serie b
+12         palermo          palermo                      stadio renzo barbera     37242     5th in serie a
+13           parma            parma                      stadio ennio tardini     27906    12th in serie a
+14         reggina  reggio calabria                    stadio oreste granillo     27454    16th in serie a
+15            roma             rome                           stadio olimpico     82307     2nd in serie a
+16       sampdoria            genoa                     stadio luigi ferraris     36685     9th in serie a
+17           siena            siena  stadio artemio franchi montepaschi arena     15373    15th in serie a
+18          torino            turin                 stadio olimpico di torino     27168    17th in serie a
+19         udinese            udine                             stadio friuli     41652    10th in serie a

@@ -1,0 +1,27 @@
+     number                   player position   height   weight            home town
+0   skaters                  skaters  skaters  skaters  skaters              skaters
+1         2              connar bass       rd     6'03   195lbs         calgary , ab
+2         3              sean whelan       rd     6'01   200lbs       moose jaw , sk
+3         5  parker evans - campbell       rw     6'05   197lbs      high river , ab
+4         6             cole nichols       rd     6'02   195lbs     orland park , il
+5         8              rob cameron       ld     5'11   180lbs       saskatoon , sk
+6        13           seamus mcguire       rw     5'10   160lbs        victoria , bc
+7        14            evan akkerman       rw     6'01   192lbs       flin flon , mb
+8        18          danys chartrand        d     6'02   190lbs        winnipeg , mb
+9        19            cameron blair       lw     6'00   190lbs           drake , sk
+10       20          dillan mccombie        c     5'08   172lbs       flin flon , mb
+11       21           brody robinson       rw     6'01   197lbs        red deer , ab
+12       22              tyson empey       lw     6'00   171lbs   swift current , ab
+13       23         austin calladine       lw      6'0   183lbs       saskatoon , sk
+14       24             dean allison       lw      6'0   175lbs          surrey , bc
+15       25           brock hounsell        d     6'01   197lbs    martensville , sk
+16       26              brett boehm       rw     6'03   160lbs    martensville , sk
+17       27            erik pedersen       rd     5'11   170lbs         airdrie , ab
+18       28              paul soubry        c     6'03   188lbs        winnipeg , mb
+19       39              cole mccaig        c     5'09   175lbs       flin flon , mb
+20       41              aj kapcheck       rd     5'09   185lbs  mount prospect , il
+21       44           landon heibert        c     5'10   175lbs        red deer , ab
+22       47           brandon workun       ld     6'00   172lbs         calgary , ab
+23  goalies                  goalies  goalies  goalies  goalies              goalies
+24        1             simon hofley        g     5'11   210lbs          ottawa , on
+25       29            devin buffalo        g     6'00   180lbs      wetaskewin , ab

@@ -1,0 +1,6 @@
+         player  height                     school           hometown  college
+0    kevin love  6 - 10    lake oswego high school   lake oswego , or     ucla
+1       oj mayo   6 - 5     huntington high school    huntington , wv      usc
+2   eric gordon   6 - 4  north central high school  indianapolis , in  indiana
+3  kyle singler   6 - 9  south medford high school       medford , or     duke
+4  derrick rose   6 - 3      simeon career academy       chicago , il  memphis

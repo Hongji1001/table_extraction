@@ -1,0 +1,7 @@
+  constituency number         name reserved for ( sc / st / none)     district  number of electorates (2009)
+0                 103      aliganj                           none         etah                        272902
+1                 192     kaimganj                             sc  farrukhabad                        290038
+2                 193     amritpur                           none  farrukhabad                        229732
+3                 194  farrukhabad                           none  farrukhabad                        285694
+4                 195      bhojpur                           none  farrukhabad                        243444
+5             total :      total :                        total :      total :                       1321810

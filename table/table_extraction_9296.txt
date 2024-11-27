@@ -1,0 +1,6 @@
+        rank                 film      director (s)                    producer (s)              writer (s) production company
+0     winner  goodbye mr snuggles  jonathon hopkins  jonathon hopkins , rory aitken        jonathon hopkins   between the eyes
+1  nominated                fetch       dana dorian                    sam mccarthy             dana dorian              n / a
+2  nominated            film noir     osbert parker    osbert parker , fiona pitkin           osbert parker              n / a
+3  nominated         life goes on      trevor hardy         trevor hardy , a finbow  r young , trevor hardy              n / a
+4  nominated         ynomitset ym          tuyet le                        tuyet le                tuyet le              n / a

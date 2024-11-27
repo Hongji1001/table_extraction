@@ -1,0 +1,11 @@
+           player  rec  yards   avg  td 's  long
+0  damian harrell  132   1537  11.7     47    45
+1      brad pyatt   95   1169  12.3     19    46
+2  willie quinnie   72    844  11.7     14    42
+3     robert redd   62    547   8.8      5    34
+4      alonzo nix   50    509  10.2      3    34
+5   robert thomas    2     18   9.0      0    19
+6      john peaua    2     11   5.5      1     9
+7    anthony dunn    1      7   7.0      0     7
+8    chris watton    1      1   1.0      0     1
+9  brandon kirsch    1      0   0.0      0     0

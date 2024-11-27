@@ -1,0 +1,11 @@
+   rank              name                               years  matches  goals
+0     1     jimmy greaves                         1957 - 1971      516    357
+1     2     steve bloomer                         1892 - 1910      536    317
+2     3        dixie dean  - 1925 - 1930 , 1931 - 1937 - 1937      362    310
+3     4    gordon hodgson                         1925 - 1939      454    288
+4     5      alan shearer           1987 - 1988 , 1989 - 2006      559    283
+5     6    charlie buchan           1910 - 1915 , 1919 - 1928      482    258
+6     7     nat lofthouse           1946 - 1959 , 1960 - 1961      452    255
+7     8      joe bradford                         1921 - 1935      410    248
+8     9  hughie gallacher           1925 - 1936 , 1937 - 1938      355    246
+9    10         joe smith           1911 - 1915 , 1919 - 1927      410    243

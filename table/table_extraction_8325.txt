@@ -1,0 +1,12 @@
+                 player        country        year (s) won  total to par
+0          fred couples  united states                1992    148    + 4
+1          mark o'meara  united states                1998    149    + 5
+2         craig stadler  united states                1982    149    + 5
+3            tom watson  united states         1977 , 1981    150    + 6
+4       bernhard langer        germany         1985 , 1993    151    + 7
+5   josé maría olazábal          spain         1994 , 1999    151    + 7
+6          ben crenshaw  united states         1983 , 1995    152    + 8
+7         raymond floyd  united states                1976    154   + 10
+8            larry mize  united states                1987    158   + 14
+9         fuzzy zoeller  united states                1979    160   + 16
+10          gary player   south africa  1961 , 1974 , 1978    161   + 17

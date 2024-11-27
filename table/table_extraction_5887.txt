@@ -1,0 +1,26 @@
+                driver               constructor  laps time / retired  grid
+0        nigel mansell          williams - honda    43    1:27:57.925     5
+1         ayrton senna           lotus - renault    43       + 19.827     4
+2     stefan johansson                   ferrari    43       + 23.592    11
+3     michele alboreto                   ferrari    43       + 29.634     9
+4      jacques laffite          ligier - renault    43     + 1:10.690    17
+5          alain prost             mclaren - tag    43     + 2:17.772     3
+6             teo fabi            benetton - bmw    42        + 1 lap     6
+7     riccardo patrese             brabham - bmw    42        + 1 lap    15
+8           marc surer              arrows - bmw    41       + 2 laps    21
+9       gerhard berger            benetton - bmw    41       + 2 laps     2
+10          alan jones               lola - ford    40    out of fuel    16
+11    philippe streiff         tyrrell - renault    40       + 3 laps    18
+12     jonathan palmer                  zakspeed    37       + 6 laps    20
+13   andrea de cesaris  minardi - motori moderni    35    out of fuel    19
+14   huub rothengatter                  zakspeed    25     electrical    23
+15      martin brundle         tyrrell - renault    25        gearbox    12
+16  alessandro nannini  minardi - motori moderni    24        gearbox    22
+17         renã arnoux          ligier - renault    23         engine     7
+18       nelson piquet          williams - honda    16          turbo     1
+19     thierry boutsen              arrows - bmw     7     electrical    14
+20     johnny dumfries           lotus - renault     7       spun off    13
+21        keke rosberg             mclaren - tag     6         engine     8
+22  piercarlo ghinzani       osella - alfa romeo     3         engine    24
+23    christian danner       osella - alfa romeo     2         engine    25
+24      patrick tambay               lola - ford     0       accident    10

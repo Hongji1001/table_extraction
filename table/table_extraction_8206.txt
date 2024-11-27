@@ -1,0 +1,9 @@
+   rank  lane               name    nationality     time
+0     1     4        tom malchow  united states  1:56.02
+1     2     3   anatoly polyakov         russia  1:56.78
+2     3     5     michael phelps  united states  1:57.00
+3     4     6    franck esposito         france  1:57.04
+4     5     2    denis pankratov         russia  1:57.24
+5     6     8  andrew livingston    puerto rico  1:58.63
+6     7     1     stefan aartsen    netherlands  1:58.66
+7     8     7    thomas rupprath        germany  1:58.96

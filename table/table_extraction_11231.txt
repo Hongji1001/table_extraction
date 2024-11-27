@@ -1,0 +1,12 @@
+         pole position         fastest lap       winning driver               winning team  report
+0    jonathan bomarito       carl skerlong  simona de silvestro        newman wachs racing  report
+1    james hinchcliffe      douglas soares    james hinchcliffe     forsythe pettit racing  report
+2        junior strous       junior strous        junior strous         condor motorsports  report
+3    james hinchcliffe   david garza pérez    jonathan bomarito      mathiasen motorsports  report
+4        carl skerlong       carl skerlong   jonathan summerton        newman wachs racing  report
+5         dane cameron      tõnis kasemets    jonathan bomarito      mathiasen motorsports  report
+6    jonathan bomarito        dane cameron   jonathan summerton        newman wachs racing  report
+7    jonathan bomarito  jonathan summerton    jonathan bomarito      mathiasen motorsports  report
+8        carl skerlong       carl skerlong        carl skerlong  pacific coast motorsports  report
+9       markus niemelä       carl skerlong       markus niemelä   brooks associates racing  report
+10  jonathan summerton       jr hildebrand       markus niemelä   brooks associates racing  report

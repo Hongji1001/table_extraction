@@ -1,0 +1,8 @@
+           district         incumbent       party     first elected                              result
+0  south carolina 1     samuel dibble  democratic              1882                        re - elected
+1  south carolina 2  george d tillman  democratic              1878                        re - elected
+2  south carolina 3     d wyatt aiken  democratic              1876             retired democratic hold
+3  south carolina 4   william h perry  democratic              1884                        re - elected
+4  south carolina 5   john j hemphill  democratic              1882                        re - elected
+5  south carolina 6   george w dargan  democratic              1882                        re - elected
+6  south carolina 7     robert smalls  republican  1884 ( special )  lost re - election democratic gain

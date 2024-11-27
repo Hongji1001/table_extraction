@@ -1,0 +1,9 @@
+          character original broadway performer  original australian performer original west end performer 2005 world aids day benefit dream cast
+0       mary lennox                 daisy eagan  samantha fiddes / sarah ogden              natalie morgan                      jaclyn neidenthal
+1  archibald craven              mandy patinkin                 anthony warlow                philip quast                        steven pasquale
+2       lily craven               rebecca luker                   marina prior              meredith braun                          laura benanti
+3    neville craven           robert westenberg                   philip quast            peter polycarpou                             will chase
+4            martha               alison fraser             susan - ann walker               linzi hateley                  celia keenan - bolger
+5            dickon       john cameron mitchell                      tom blair                jordan dunne                          michael arden
+6      colin craven                john babcock  bart ritchie / ross hannaford               luke newberry                       struan erlenborn
+7  ben weatherstaff                   tom toner                 raymond duprac                       n / a                           david canary

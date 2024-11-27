@@ -1,0 +1,21 @@
+                  name    nation  points  games  pts / game
+0         karen andrew   england      44      5        8.80
+1    daniella waterman   england      40      5        8.00
+2   christelle le duff    france      33      5        6.60
+3     charlotte barras   england      30      5        6.00
+4         naomi thomas     wales      25      5        5.00
+5            susan day   england      20      5        4.00
+6         lucy millard  scotland      20      5        4.00
+7    veronica schiavon     italy      19      4        4.75
+8      estelle sartini    france      17      5        3.40
+9   margaret alphonsie   england      15      5        3.00
+10         fanny horta    france      15      5        3.00
+11  jeannette feighery   ireland      15      5        3.00
+12           non evans     wales      14      3        4.67
+13       lynsey harley  scotland      12      2        6.00
+14    delphine plantet    france      10      5        2.00
+15  joanne o 'sullivan   ireland      10      5        2.00
+16         katy mclean   england       9      3        3.00
+17  michela tondinelli     italy       6      5        1.20
+18     georgia stevens   england       5      5        1.00
+19           mel berry     wales       5      5        1.00

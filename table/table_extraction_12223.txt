@@ -1,0 +1,6 @@
+    discipline                     championship                         circuit                     event     session
+0    stock car                sprint cup series  daytona international speedway   uno twin 125 qualifiers  qualifying
+1    stock car             whelen modified tour           martinsville speedway          winn - dixie 500        race
+2  drag racing  nhra winston drag racing series       indianapolis raceway park    mac tools us nationals  qualifying
+3    stock car                      arca series  daytona international speedway          daytona arca 200        race
+4   open wheel       usac national championship         williams grove speedway  indianapolis sweepstakes        race

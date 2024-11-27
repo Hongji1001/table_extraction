@@ -1,0 +1,11 @@
+         poll source        dates administered democrat : vivian davis figures republican : jeff sessions  lead margin
+0         survey usa         october 28 , 2008                             32%                        65%           33
+1         survey usa          october 9 , 2008                             33%                        64%           31
+2  rasmussen reports       september 22 , 2008                             30%                        59%           29
+3          surveyusa  september 16 - 17 , 2008                             31%                        66%           35
+4  rasmussen reports            july 31 , 2008                             31%                        58%           27
+5  rasmussen reports            june 30 , 2008                             34%                        58%           24
+6  rasmussen reports             may 27 , 2008                             29%                        62%           33
+7  rasmussen reports            april 2 , 2008                             36%                        57%           21
+8  rasmussen reports        november 14 , 2007                             30%                        62%           32
+9          surveyusa     august 25 - 27 , 2007                             37%                        59%           22

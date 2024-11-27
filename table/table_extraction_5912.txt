@@ -1,0 +1,25 @@
+                        driver             constructor  laps time / retired  grid
+0               johnny herbert      benetton - renault    53    1:18:27.916     8
+1               mika hã¤kkinen      mclaren - mercedes    53       + 17.779     7
+2      heinz - harald frentzen           sauber - ford    53       + 24.321    10
+3                mark blundell      mclaren - mercedes    53       + 28.223     9
+4                    mika salo        tyrrell - yamaha    52        + 1 lap    16
+5   jean - christophe boullion           sauber - ford    52        + 1 lap    14
+6           massimiliano papis         footwork - hart    52        + 1 lap    15
+7                   taki inoue         footwork - hart    52        + 1 lap    20
+8                  pedro diniz            forti - ford    50       + 3 laps    23
+9                ukyo katayama        tyrrell - yamaha    47       + 6 laps    17
+10                  jean alesi                 ferrari    45  wheel bearing     5
+11          rubens barrichello        jordan - peugeot    43         clutch     6
+12                eddie irvine        jordan - peugeot    40         engine    12
+13              gerhard berger                 ferrari    32     suspension     3
+14                 luca badoer          minardi - ford    26       accident    18
+15          michael schumacher      benetton - renault    23      collision     2
+16                  damon hill      williams - renault    23      collision     4
+17               olivier panis  ligier - mugen - honda    20       spun off    13
+18             david coulthard      williams - renault    13       spun off     1
+19              martin brundle  ligier - mugen - honda    10       puncture    11
+20            giovanni lavaggi          pacific - ford     6       spun off    24
+21                  pedro lamy          minardi - ford     0   transmission    19
+22           andrea montermini          pacific - ford     0      collision    21
+23              roberto moreno            forti - ford     0      collision    22

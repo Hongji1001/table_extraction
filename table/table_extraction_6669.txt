@@ -1,0 +1,6 @@
+            player height                        school          hometown     college                               nba draft
+0    rodney purvis    6'4  upper room christian academy      raleigh , nc    nc state  has not yet declared for the nba draft
+1  katin reinhardt    6'5         mater dei high school    santa ana , ca  unlv / usc  has not yet declared for the nba draft
+2   brandon ashley    6'8                  findlay prep      oakland , ca     arizona  has not yet declared for the nba draft
+3   alex poythress    6'8         northeast high school  clarksville , tn    kentucky  has not yet declared for the nba draft
+4    isaiah austin    7'0     grace preparatory academy    arlington , tx      baylor  has not yet declared for the nba draft

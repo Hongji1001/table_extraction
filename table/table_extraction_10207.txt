@@ -1,0 +1,13 @@
+    pick           nfl team           player        position           college
+0     11  green bay packers        tim lewis      cornerback        pittsburgh
+1     48  green bay packers   dave drechsler           guard    north carolina
+2    104  green bay packers      mike miller   wide receiver         tennessee
+3    132  green bay packers     brian thomas    running back        pittsburgh
+4    160  green bay packers         ron sams           guard        pittsburgh
+5    188  green bay packers     jessie clark    running back          arkansas
+6    216  green bay packers  carlton briscoe  defensive back     mcneese state
+7    243  green bay packers        robin ham          center  west texas state
+8    253  green bay packers   byron williams   wide receiver   texas arlington
+9    271  green bay packers     jimmy thomas  defensive back           indiana
+10   299  green bay packers   bucky scribner          punter            kansas
+11   327  green bay packers      john harvey      linebacker               usc

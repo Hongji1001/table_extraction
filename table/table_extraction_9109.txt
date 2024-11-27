@@ -1,0 +1,32 @@
+    round  pick  overall             name        position                college
+0       1     8        8       jim parker           guard             ohio state
+1       2     7       20     don shinnick      linebacker                   ucla
+2       3     7       32       luke owens   defensive end             kent state
+3       4     7       44   jackie simpson        halfback                florida
+4       5     5       54    ron underwood        halfback               arkansas
+5       6     4       65     billy pricer        fullback               oklahoma
+6       7     6       79     reuben saage        halfback                 baylor
+7       8     5       90      jack harmon        halfback   eastern oregon state
+8       9     4      101     robert white          tackle              otterbein
+9      10     6      115      joe grisham             end            austin peay
+10     11     5      126      andy nelson  defensive back          memphis state
+11     12     4      137      don simonic          tackle         tennessee poly
+12     13     6      151        jack call        halfback                colgate
+13     14     5      162        joe guido        halfback             youngstown
+14     15     4      173     hall whitley      linebacker              texas a&i
+15     16     4      185    joe cannavino  defensive back             ohio state
+16     16     6      187       ed prelock          tackle                 kansas
+17     17     5      198   dan wisniewski           guard             pittsburgh
+18     18     4      209        jim villa        halfback              allegheny
+19     19     6      223  charles froehle          tackle        st john 's (mn)
+20     20     5      234  walt livingston        halfback             heidelberg
+21     21     4      245  owen mulholland        halfback                houston
+22     22     6      259    chet van atta      linebacker                 kansas
+23     23     5      270     connie baird             end       hardin - simmons
+24     24     4      281    harwood hoeft             end     south dakota state
+25     25     6      295     harlon geach          tackle       college of idaho
+26     26     5      306       joe unitas          tackle             louisville
+27     27     4      317      len demalon      linebacker  saint vincent college
+28     28     6      331   walt schneiter          tackle               colorado
+29     29     5      342    bob rasmussen           guard              minnesota
+30     30     3      352       bob bailey             end                  thiel

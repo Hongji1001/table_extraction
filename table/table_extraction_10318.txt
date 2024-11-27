@@ -1,0 +1,13 @@
+     medal                 name             games          sport                        event
+0   bronze     arnoldo devonish     1952 helsinki      athletics           men 's triple jump
+1   bronze      enrico forcella         1960 rome       shooting  men 's 50 metre rifle prone
+2     gold  francisco rodriguez  1968 mexico city         boxing       men 's light flyweight
+3   silver        pedro gamarro     1976 montreal         boxing          men 's welterweight
+4   silver     bernardo piñango       1980 moscow         boxing          men 's bantamweight
+5   bronze    marcelino bolivar  1984 los angeles         boxing       men 's light flyweight
+6   bronze          omar catari  1984 los angeles         boxing         men 's featherweight
+7   bronze         rafael vidal  1984 los angeles       swimming       men 's 200 m butterfly
+8   bronze      adriana carmona       2004 athens      taekwondo                women + 67 kg
+9   bronze    israel jose rubio       2004 athens  weightlifting         men 's featherweight
+10  bronze      dalia contreras      2008 beijing      taekwondo                  women 49 kg
+11    gold        rubén limardo       2012 london        fencing                  men 's épée

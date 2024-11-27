@@ -1,0 +1,10 @@
+           date               city        opponent results type of game
+0         may 4   london , england         england     0:2     friendly
+1         may 8             zagreb         hungary     2:0     friendly
+2        june 1           belgrade        bulgaria     0:2     friendly
+3       june 23  hanover , germany    west germany     0:2     friendly
+4       june 27     malmö , sweden          sweden     1:1     friendly
+5  september 18           belgrade            ussr     1:2     friendly
+6    october 12  tel aviv , israel          israel     3:1     friendly
+7    october 19           belgrade  czechoslovakia     1:0     friendly
+8    october 19   sofia , bulgaria        bulgaria     1:6     friendly

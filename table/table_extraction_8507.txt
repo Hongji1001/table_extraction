@@ -1,0 +1,12 @@
+              name  country    status transfer window transfer fee   source
+0             reid      eng      loan          summer         loan   source
+1            laird      sco      loan          summer         loan   source
+2          larrieu      fra      loan          summer         loan   source
+3         djordjic      swe  released          summer     released   source
+4          dickson      eng      loan          summer         loan   source
+5           barnes      eng      loan          summer         loan   source
+6          buzsáky      hun  transfer          winter         500k   source
+7           hayles  jam eng  transfer          winter         150k   source
+8          gosling      eng  transfer          winter        1.5 m   source
+9   ebanks - blake      eng  transfer          winter        1.5 m  source]
+10          norris      eng  transfer          winter        3.0 m  source]

@@ -1,0 +1,22 @@
+       city of license      identifier frequency         power class recnet
+0          blind river        cbon - 6   1010 am     40 s watt    lp  query
+1             chapleau  cbon - fm - 28      91.9     345 watts     a  query
+2        dubreuilville  cbon - fm - 11      97.9      50 watts    lp  query
+3          elliot lake   cbon - fm - 5     101.7    2640 watts     b  query
+4             espanola   cbon - fm - 7      94.9     520 watts     a  query
+5            geraldton  cbon - fm - 22      93.7    6400 watts     b  query
+6               gogama  cbon - fm - 21     104.9    6900 watts     b  query
+7               hearst  cbon - fm - 26      90.3    8340 watts    b1  query
+8          kapuskasing  cbon - fm - 24      90.7   43900 watts     b  query
+9        kirkland lake   cbon - fm - 1      93.7    2650 watts     a  query
+10        manitouwadge  cbon - fm - 23      96.9     143 watts     a  query
+11            marathon  cbon - fm - 29     102.3    2023 watts     b  query
+12          matachewan       cbon - 10   1110 am      40 watts    lp  query
+13             mattawa       cbon - 12   1090 am      40 watts    lp  query
+14             nipigon  cbon - fm - 19      97.3    2000 watts     b  query
+15           north bay  cbon - fm - 17      95.1  100000 watts     c  query
+16     sault ste marie  cbon - fm - 18      88.1    3590 watts     b  query
+17  temiskaming shores   cbon - fm - 2      99.7     780 watts     a  query
+18         thunder bay  cbon - fm - 20      89.3   27400 watts     b  query
+19             timmins  cbon - fm - 25      97.1   44800 watts     b  query
+20                wawa  cbon - fm - 27      90.7     890 watts     a  query

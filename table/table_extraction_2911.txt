@@ -1,0 +1,28 @@
+    pick              nfl team             player          position               college
+0    141    san diego chargers   trumaine johnson     wide receiver             grambling
+1    142        houston oilers      steve haworth    defensive back              oklahoma
+2    143        denver broncos      victor heflin    defensive back        delaware state
+3    144      los angeles rams      gary kowalski            tackle        boston college
+4    145      cleveland browns        tim stracka         tight end             wisconsin
+5    146    kansas city chiefs      ellis gardner            tackle          georgia tech
+6    147   philadelphia eagles       victor oatis     wide receiver   northwest louisiana
+7    148  tampa bay buccaneers   rheugene branton     wide receiver        texas southern
+8    149      cleveland browns      dave puzzuoli  defensive tackle            pittsburgh
+9    150      seattle seahawks    reginald gipson      running back           alabama a&m
+10   151       new york giants  darrell patterson        linebacker       texas christian
+11   152    cincinnati bengals       kiki deayala        linebacker                 texas
+12   153       new york giants      kevin belcher             guard       texas - el paso
+13   154         detroit lions         todd brown     wide receiver              nebraska
+14   155  new england patriots          mike bass            kicker              illinois
+15   156       atlanta falcons      anthony allen     wide receiver            washington
+16   157    st louis cardinals     george schmitt    defensive back              delaware
+17   158  tampa bay buccaneers         ken kaplan            tackle         new hampshire
+18   159     minnesota vikings         mike jones     wide receiver       tennessee state
+19   160     green bay packers           ron sams             guard            pittsburgh
+20   161       baltimore colts       grant feasel            center     abilene christian
+21   162        dallas cowboys     reggie collier       quarterback  southern mississippi
+22   163         new york jets      vincent white      running back              stanford
+23   164   pittsburgh steelers      eric williams    defensive back  north carolina state
+24   165    cincinnati bengals    larry kinnebrew      running back       tennessee state
+25   166   washington redskins       bob winckler            tackle             wisconsin
+26   167        miami dolphins        reggie roby            punter                  iowa

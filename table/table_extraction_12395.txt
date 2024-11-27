@@ -1,0 +1,11 @@
+  place            player        country  score to par
+0     1     bruce lietzke  united states     67    - 5
+1    t2        tom watson  united states     68    - 4
+2    t2         joe inman  united states     68    - 4
+3    t2  leonard thompson  united states     68    - 4
+4    t2          ed sneed  united states     68    - 4
+5    t6     craig stadler  united states     69    - 3
+6    t6     jack nicklaus  united states     69    - 3
+7    t6        lou graham  united states     69    - 3
+8    t6      billy casper  united states     69    - 3
+9    t6         andy bean  united states     69    - 3

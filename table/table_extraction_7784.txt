@@ -1,0 +1,14 @@
+                                         name                             park        country  inversions                      opened                                status
+0                     bizarro formerly medusa        six flags great adventure  united states           7              april 2 , 1999                             operating
+1                  superman : krypton coaster           six flags fiesta texas  united states           6             march 11 , 2000                             operating
+2                                      medusa      six flags discovery kingdom  united states           7             march 18 , 2000                             operating
+3                                      kraken                sea world orlando  united states           7               june 1 , 2000                             operating
+4                                insane speed              janfusun fancyworld         taiwan           4                        2001                             operating
+5            superman : la atracción de acero             parque warner madrid          spain           7              april 6 , 2002                             operating
+6                    batman : the dark knight            six flags new england  united states           5             april 20 , 2002                             operating
+7                                      scream         six flags magic mountain  united states           7             april 12 , 2003                             operating
+8                                     dæmonen                   tivoli gardens        denmark           3             april 16 , 2004                             operating
+9                           hydra the revenge  dorney park & wildwater kingdom  united states           7                may 7 , 2005                             operating
+10  dominator formerly batman : knight flight       kings dominion geauga lake  united states           5  may 24 , 2008 may 5 , 2000  operating closed september 16 , 2007
+11                                hair raiser             ocean park hong kong      hong kong           4           december 8 , 2011                             operating
+12                                      nitro                   adlabs imagica          india           5                        2013                             operating

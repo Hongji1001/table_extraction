@@ -1,0 +1,9 @@
+      season       division north division south division east division west division southwest
+0  2004 - 05             metalurg          lozar       osogovo         drita          karaorman
+1  2005 - 06               milano          kožuf      tiverija      gostivar     ilinden velmej
+2  2006 - 07              alumina        miravci  nov milenium         drita              ohrid
+3  2007 - 08              lepenec          kožuf       osogovo      ljuboten             novaci
+4  2008 - 09              lepenec    11 oktomvri       osogovo      vlazrimi           vlaznimi
+5  2009 - 10         gorno lisiče         tikveš       osogovo         rinia         ohrid lote
+6  2010 - 11               treska  pobeda junior       osogovo        rufeja              korab
+7  2011 - 12  madžari solidarnost          korzo          babi     vrapčište             novaci

@@ -1,0 +1,6 @@
+  rank               player       position       career  points
+0   31           jerry rice  wide receiver  1985 - 2004    1256
+1   47         emmitt smith   running back  1990 - 2004    1052
+2   52  ladainian tomlinson   running back  2001 - 2011     972
+3   59           randy moss  wide receiver  1998 - 2012     950
+4  61t        terrell owens  wide receiver  1996 - 2010     942

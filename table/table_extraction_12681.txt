@@ -1,0 +1,6 @@
+         player               club  games  goals  assists  points
+0   robert hock  iserlohn roosters     56     24       63      87
+1  steve walker    eisbären berlin     53     27       58      85
+2   peter sarno   hamburg freezers     56     26       48      74
+3  michael wolf  iserlohn roosters     56     44       27      71
+4  ivan čiernik        kölner haie     56     38       28      66

@@ -1,0 +1,32 @@
+                     name    position                     period  appearances  goals                nationality square
+0          larrys mabiala    defender                2006 - 2009           13      1  democratic republic of the congo
+1           mickaël madar     forward                1998 - 2001           46     17                            france
+2           stéphane mahé    defender                1995 - 1996           33      0                            france
+3         claude makélélé  midfielder                2008 - 2011          118      1                            france
+4      florian makhedjouf  midfielder                2010 - 2011            3      0                           algeria
+5           tripy makonda    defender                2008 - 2011           27      0                            france
+6          michel marella     forward                1972 - 1975           60     14                            france
+7         patrice marquet  midfielder  1984 - 1985 , 1986 - 1989           24      2                            france
+8           didier martel     forward                1997 - 1998            5      0                            france
+9             éric martin  midfielder                1986 - 1988           17      1                            france
+10       olivier martinez  midfielder  1984 - 1985 , 1986 - 1988            3      0                            france
+11         blaise matuidi  midfielder                     2011 -           87      9                            france
+12        florian maurice     forward                1997 - 1998           47     14                            france
+13   jean - eudes maurice     forward                     2008 -           50      3                             haiti
+14                maxwell    defender                     2012 -           63      3                            brazil
+15         modeste m'bami  midfielder                2003 - 2006          101      1                          cameroon
+16          patrick mboma     forward  1994 - 1995 , 1996 - 1997           24      6                          cameroon
+17          bernard mendy    defender  2000 - 2002 , 2003 - 2008          249     11                            france
+18           jérémy ménez  midfielder                     2011 -           84     17                            france
+19         franck mérelle  goalkeeper                1984 - 1985            1      0                            france
+20         roland mitoraj    defender                1970 - 1972           68      0                            france
+21         mario mongelli     forward                1978 - 1979            1      0                            france
+22               monteiro     forward                1973 - 1974            9      5                            brazil
+23         bernard moraly  midfielder                1975 - 1978           21      0                            france
+24         fabrice moreau  midfielder  1984 - 1987 , 1988 - 1989            3      0                          cameroon
+25          thierry morin    defender                1975 - 1986          174      1                            france
+26           thiago motta  midfielder                       2012           31      3                             italy
+27  jean - michel moutier  goalkeeper                1984 - 1987           38      0                            france
+28        françois m'pelé     forward                1973 - 1979          217     95             republic of the congo
+29        youssuf mulumbu  midfielder                2006 - 2009           22      0                            france
+30           edwin murati  midfielder  1997 - 1998 , 1999 - 2000           24      1                           albania

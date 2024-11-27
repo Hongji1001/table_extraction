@@ -1,0 +1,24 @@
+    nat               name  since  goals  transfer fee
+0   esp             valdés   1998      0  youth system
+1   ita          zambrotta   2006      3          14 m
+2   mex            márquez   2003      6           5 m
+3   esp  puyol ( captain )   1992      5  youth system
+4   ned                gio   2003      5          free
+5   esp            iniesta   2002     13  youth system
+6   esp        xavi ( vc )   1994     20  youth system
+7   por               deco   2004     18          15 m
+8   arg              messi   2004     25  youth system
+9   cmr              eto'o   2004     73          24 m
+10  bra  ronaldinho ( vc )   2003     80          30 m
+11  esp           jorquera   2001      0  youth system
+12  bra           belletti   2004      1           6 m
+13  fra             thuram   2006      0           5 m
+14  esp            oleguer   2002      1  youth system
+15  bra           sylvinho   2004      2           2 m
+16  ita              motta   2002      9  youth system
+17  bra           edmílson   2004      0          10 m
+18  isl         gudjohnsen   2006     10          12 m
+19  fra              giuly   2004     23           7 m
+20  esp           ezquerro   2005      4          free
+21  arg            saviola   2001     68          loan
+22  esp              rubén   2004      0  youth system

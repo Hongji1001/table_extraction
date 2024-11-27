@@ -1,0 +1,6 @@
+   rank              name                      team  games  rebounds
+0     1  curtis borchardt                cb granada     26       274
+1     2   michael bradley                bruesa gbc     32       270
+2     3          bud eley  grupo capitol valladolid     34       275
+3     4     frédéric weis          lagun aro bilbao     34       266
+4     5    charles gaines              dkv joventut     34       264

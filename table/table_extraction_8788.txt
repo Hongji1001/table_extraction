@@ -1,0 +1,17 @@
+                                          institution                    location        nickname current conference     classification
+0                                university at albany           albany , new york     great danes       america east    ncaa division i
+1                               binghamton university           vestal , new york        bearcats       america east    ncaa division i
+2                            university of bridgeport    bridgeport , connecticut  purple knights                ecc   ncaa division ii
+3                central connecticut state university   new britain , connecticut     blue devils                nec    ncaa division i
+4                                    felician college           lodi , new jersey  golden falcons               cacc   ncaa division ii
+5                          franklin pierce university      rindge , new hampshire          ravens     northeast - 10   ncaa division ii
+6                                 keene state college       keene , new hampshire            owls        little east  ncaa division iii
+7                                    le moyne college         syracuse , new york        dolphins     northeast - 10   ncaa division ii
+8   university of massachusetts lowell (umass lowell)      lowell , massachusetts     river hawks       america east    ncaa division i
+9                             university of new haven    west haven , connecticut        chargers     northeast - 10   ncaa division ii
+10                                    post university     waterbury , connecticut          eagles               cacc   ncaa division ii
+11                              quinnipiac university        hamden , connecticut         bobcats                nec    ncaa division i
+12                            sacred heart university     fairfield , connecticut        pioneers                nec    ncaa division i
+13              southern connecticut state university     new haven , connecticut            owls     northeast - 10   ncaa division ii
+14                  southern new hampshire university  manchester , new hampshire          penmen     northeast - 10   ncaa division ii
+15                             stony brook university      stony brook , new york       seawolves       america east    ncaa division i

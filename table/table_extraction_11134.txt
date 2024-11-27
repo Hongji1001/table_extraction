@@ -1,0 +1,11 @@
+                    team  match  points  draw  lost
+0      gwardia bydgoszcz      5      10     0     0
+1        spójnia wrocław      5       8     0     1
+2            unia leszno      5       7     1     1
+3           cwks wrocław      5       7     1     1
+4          górnik rybnik      5       6     0     2
+5  włókniarz częstochowa      5       4     0     3
+6     budowlani warszawa      5       3     1     3
+7            ogniwo łódź      5       3     1     3
+8        kolejarz rawicz      4       0     0     4
+9    stal świętochłowice      4       0     0     4

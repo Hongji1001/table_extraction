@@ -1,0 +1,9 @@
+   draw                  song                       performer  points rank
+0     1  gotta know right now                  rob burke band      76  3rd
+1     2           missing you                    dav mcnamara      84  2nd
+2     3            once again  william byrne & lorraine nolan      61  5th
+3     4             the voice                    eimear quinn     105  1st
+4     5             this time                  marion fossett      40  8th
+5     6           find my way                   yvonne holmes      73  4th
+6     7     amhrán an ronnach                   seán monaghan      61  5th
+7     8          worlds apart                   maura donaghy      50  7th

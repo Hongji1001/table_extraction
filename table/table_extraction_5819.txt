@@ -1,0 +1,42 @@
+    round             nominees              team                              match           ground
+0       1    russell robertson         melbourne              melbourne vs st kilda              mcg
+1       1         travis cloke       collingwood           kangaroos vs collingwood              mcg
+2       1  michael rischitelli          brisbane               brisbane vs hawthorn        the gabba
+3       2      david wirrpanda        west coast          west coast vs collingwood     subiaco oval
+4       2           leon davis       collingwood          west coast vs collingwood          subiaco
+5       2         mark mcveigh          essendon              essendon vs fremantle     telstra dome
+6       3           leon davis       collingwood            collingwood vs richmond              mcg
+7       3          david mundy         fremantle            fremantle vs west coast     subiaco oval
+8       3       jonathan brown          brisbane                 sydney vs brisbane              scg
+9       4      dustin fletcher          essendon               st kilda vs essendon     telstra dome
+10      4             adem yze         melbourne             melbourne vs fremantle              mcg
+11      4        ashley hansen        west coast              west coast vs carlton     subiaco oval
+12      5          alwyn davey          essendon            essendon vs collingwood              mcg
+13      5          eddie betts           carlton                carlton vs brisbane     telstra dome
+14      6          alwyn davey          essendon               essendon vs hawthorn              mcg
+15      6       jordan mcmahon  western bulldogs     west coast vs western bulldogs     subiaco oval
+16      6         des headland         fremantle              brisbane vs fremantle        the gabba
+17      7        shannon grant         kangaroos              kangaroos vs essendon              mcg
+18      7      matthew priddis        west coast              geelong vs west coast    kardinia park
+19      7      nathan eagleton  western bulldogs      western bulldogs vs melbourne     telstra dome
+20      8        shaun higgins  western bulldogs    western bulldogs vs collingwood     telstra dome
+21      8         brent harvey         kangaroos               kangaroos vs carlton  carrara stadium
+22      8       lance whitnall           carlton               kangaroos vs carlton  carrara stadium
+23      9       daniel jackson          richmond               richmond vs essendon              mcg
+24      9       ashley mcgrath    brisbane lions      brisbane lions vs collingwood        the gabba
+25      9       lindsay thomas         kangaroos              melbourne v kangaroos              mcg
+26     10      david wojcinski           geelong                 st kilda v geelong     telstra dome
+27     10         mark mcveigh          essendon                  sydney v essendon              scg
+28     10         nigel lappin          brisbane                richmond v brisbane     telstra dome
+29     11       lance franklin          hawthorn                  hawthorn v sydney              mcg
+30     11        jared brennan    brisbane lions  brisbane lions v western bulldogs        the gabba
+31     11         chris newman          richmond               fremantle v richmond     subiaco oval
+32     12          robert gray     port adelaide           port adelaide v essendon     aami stadium
+33     12       jonathan brown    brisbane lions           geelong v brisbane lions    kardinia park
+34     12        andrew walker           carlton                 carlton v hawthorn     telstra dome
+35     13          jeff farmer         fremantle                fremantle v carlton     subiaco oval
+36     13        daniel motlop     port adelaide     brisbane lions v port adelaide        the gabba
+37     13         nathan foley          richmond                st kilda v richmond     telstra dome
+38     14       shaun burgoyne     port adelaide   western bulldogs v port adelaide     telstra dome
+39     14          aaron davey         melbourne                carlton v melbourne              mcg
+40     14         kade simpson           carlton                carlton v melbourne     telstra dome

@@ -1,0 +1,12 @@
+            player  rec  yards   avg  td 's  long
+0     bobby sippio  125   1739  13.9     53    48
+1       etu molden   81    977  12.1     13    44
+2        rob mager   75    811  10.8     13    45
+3   dejuan alfonzo   27    245  19.1      7    31
+4    ahmad merritt   20    203  10.2      2    33
+5     bob mcmillen    9     84   9.3      1    31
+6      buchie ibeh    7     71  10.1      0    16
+7      kevin beard    7     47   6.7      0     9
+8      robert boss    2     19   9.5      2    14
+9   woody dantzler    1     15  15.0      0    15
+10      john moyer    1      6   6.0      1     6

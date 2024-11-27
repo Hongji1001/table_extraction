@@ -1,0 +1,16 @@
+    round  pick           player          position school / club team
+0       2    43    bill brundige  defensive tackle           colorado
+1       4   103      paul laaveg            tackle               iowa
+2       5   114   manny sistrunk  defensive tackle      arkansas am&n
+3       5   121     danny pierce      running back      memphis state
+4       7   173   roland merritt     wide receiver           maryland
+5       7   178     jimmy harris        cornerback       howard payne
+6       8   199     paul johnson    defensive back         penn state
+7       9   225    ralph sonntag            tackel           maryland
+8      11   277      mack alston         tight end     maryland state
+9      12   303      james kates        linebacker         penn state
+10     13   329    joe patterson            tackle           lawrence
+11     14   355        tony moro      running back             dayton
+12     15   381  vic lewandowski            center         holy cross
+13     16   407    steve bushore     wide receiver      emporia state
+14     17   433    earl maxfield  defensive tackle             baylor

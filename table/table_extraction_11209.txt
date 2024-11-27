@@ -1,0 +1,15 @@
+    year                        competition                  venue      position    event    notes
+0   1981      european junior championships  utrecht , netherlands           3rd  400 m h    57.45
+1   1981      european junior championships  utrecht , netherlands           2nd  4x400 m  3:31.41
+2   1985                          world cup   canberra , australia           6th  400 m h    56.90
+3   1986             european championships    stuttgart , germany           8th  400 m h    55.56
+4   1987                world championships           rome , italy  semi - final  400 m h    54.86
+5   1989  world student games (universiade)     duisburg , germany           1st  400 m h    57.03
+6   1990             european championships     split , yugoslavia           5th  400 m h    55.22
+7   1991         world indoor championships        seville , spain           2nd  4x400 m  3:27.95
+8   1991                       european cup    frankfurt , germany           1st  400 m h    54.42
+9   1991                world championships          tokyo , japan           8th  400 m h    55.27
+10  1992                      olympic games      barcelona , spain           6th  400 m h    54.83
+11  1992                          world cup          havana , cuba           3rd  400 m h    56.46
+12  1993                world championships    stuttgart , germany           3rd  400 m h    53.48
+13  1993                world championships    stuttgart , germany           2nd  4x400 m  3:18.38

@@ -1,0 +1,8 @@
+           region            date            label           format        catalog
+0   united states  march 1 , 1964       rca victor    mono vinyl lp     lpm - 2899
+1   united states  march 1 , 1964       rca victor  stereo vinyl lp     lsp - 2899
+2  united kingdom  march 1 , 1964              rca    mono vinyl lp      rd - 7635
+3  united kingdom  march 1 , 1964              rca  stereo vinyl lp      sf - 7635
+4   united states  june 17 , 2003            abkco       cd reissue  abkco - 98992
+5          europe            2003        universal       cd reissue  umg - 9907707
+6           japan  july 30 , 2008  universal japan       cd reissue   uicy - 93546

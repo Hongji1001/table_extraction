@@ -1,0 +1,13 @@
+   parish (prestegjeld) sub - parish (sogn)          church name  year built location of the church
+0         hafslo parish              hafslo        hafslo kyrkje        1878                 hafslo
+1         hafslo parish              hafslo   veitastrond kapell        1928            veitastrond
+2         hafslo parish             solvorn       solvorn kyrkje        1883                solvorn
+3         hafslo parish             solvorn     urnes stavkyrkje        1130                  urnes
+4       jostedal parish     fet og joranger           fet kyrkje        1894                    fet
+5       jostedal parish     fet og joranger      joranger kyrkje        1660               joranger
+6       jostedal parish              gaupne        gaupne kyrkje        1908                 gaupne
+7       jostedal parish              gaupne  gaupne gamle kyrkje        1647                 gaupne
+8       jostedal parish            jostedal      jostedal kyrkje        1660               jostedal
+9         luster parish                dale          dale kyrkje        1250                 luster
+10        luster parish              fortun        fortun kyrkje        1879                 fortun
+11        luster parish                 nes           nes kyrkje        1909                    nes

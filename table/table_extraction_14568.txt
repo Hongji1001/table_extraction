@@ -1,0 +1,7 @@
+       letter american british australian                         examples
+0       a / ə        ə       ə          ə    circa , fauna , mania , quota
+1  e / i , iː        i       ɪ          i  ante , epitome , posse , simile
+2       æ / i        i       ɪ          i          algæ , larvæ , vertebræ
+3  i , y / aɪ       ai      aɪ         ɑe            alibi , gemini , moly
+4      o / oʊ       ɞu      əu         əʉ            ego , pluto , torpedo
+5     u / juː    (j) u      ju         jʉ                        (in) situ

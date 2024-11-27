@@ -1,0 +1,9 @@
+   pick                 player country of origin                        pba team           college
+0     1         vergel meneses       philippines                presto ice cream        jose rizal
+1     2      stevenson solomon       philippines                  alaska milkmen     san sebastian
+2     3       joselito escobar       philippines                  shell rimula x              east
+3     4    fermin albert ramas       philippines  purefoods tender juicy hotdogs             mapua
+4     5  ferdinand ravena , jr       philippines              san miguel beermen              east
+5     6          enrique reyes       philippines            swift mighty meaties  ateneo de manila
+6     7            allen sasan       philippines                  alaska milkmen              cebu
+7     8   emilio chuatico , jr       philippines              ginebra san miguel  ateneo de manila

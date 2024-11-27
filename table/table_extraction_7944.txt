@@ -1,0 +1,27 @@
+          pov character    game    clash    storm    feast    dance
+0            bran stark       7        7        4        -        3
+1         catelyn stark      11        7        7        -        -
+2    daenerys targaryen      10        5        6        -       10
+3          eddard stark      15        -        -        -        -
+4              jon snow       9        8       12        -       13
+5            arya stark       5       10       13        3        2
+6      tyrion lannister       9       15       11        -       12
+7           sansa stark       6        8        7        3        -
+8        davos seaworth       -        3        6        -        4
+9         theon greyjoy       -        6        -        -        7
+10      jaime lannister       -        -        9        7        1
+11        samwell tarly       -        -        5        5        -
+12     cersei lannister       -        -        -       10        2
+13     brienne of tarth       -        -        -        8        -
+14        aeron greyjoy       -        -        -        2        -
+15           areo hotah       -        -        -        1        1
+16         asha greyjoy       -        -        -        1        3
+17        arys oakheart       -        -        -        1        -
+18    victarion greyjoy       -        -        -        2        2
+19      arianne martell       -        -        -        2        -
+20      quentyn martell       -        -        -        -        4
+21       jon connington       -        -        -        -        2
+22           melisandre       -        -        -        -        1
+23      barristan selmy       -        -        -        -        4
+24  prologue / epilogue   1 / -    1 / -    1 / 1    1 / -    1 / 1
+25   sum chapters (pov)  73 (9)  70 (10)  82 (12)  46 (13)  73 (18)

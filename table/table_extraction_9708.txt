@@ -1,0 +1,11 @@
+                  date       site         sport winning team            series
+0     august 26 , 2006  iowa city    volleyball   iowa state  iowa state 2 - 0
+1  september 12 , 2006       ames      w soccer         iowa        tied 2 - 2
+2  september 16 , 2006  iowa city      football         iowa        iowa 5 - 2
+3   november 30 , 2006  iowa city  w basketball   iowa state        iowa 5 - 4
+4    december 3 , 2006  iowa city     wrestling         iowa        iowa 7 - 4
+5    december 8 , 2006  iowa city  m basketball         iowa        iowa 9 - 4
+6    december 8 , 2006  iowa city    w swimming         iowa       iowa 11 - 4
+7       march 4 , 2007  iowa city  w gymnastics   iowa state       iowa 11 - 6
+8      march 23 , 2007       ames  w gymnastics   iowa state       iowa 11 - 8
+9       april 3 , 2007  iowa city      softball         iowa       iowa 13 - 8

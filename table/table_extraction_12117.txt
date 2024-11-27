@@ -1,0 +1,13 @@
+   pollutant                   type                      standard    averaging time       regulatory citation
+0       so 2                primary      0.14 ppm (365 μg / m 3 )         24 - hour           40 cfr 50.4 (b)
+1       so 2                primary   0.030 ppm (80 μg / m cubic)            annual           40 cfr 50.4 (a)
+2       so 2              secondary   0.5 ppm (1300 μg / m cubic)          3 - hour           40 cfr 50.5 (a)
+3      pm 10  primary and secondary              150 μg / m cubic         24 - hour           40 cfr 50.6 (a)
+4     pm 2.5              secondary               35 μg / m cubic         24 - hour           40 cfr 50.7 (a)
+5     pm 2.5                primary               15 μg / m cubic            annual           40 cfr 50.7 (a)
+6         co                primary      35 ppm (40 mg / m cubic)          1 - hour       40 cfr 50.8 (a) (2)
+7         co                primary       9 ppm (10 mg / m cubic)          8 - hour       40 cfr 50.8 (a) (1)
+8        o 3  primary and secondary   0.12 ppm (235 μg / m cubic)          1 - hour           40 cfr 50.9 (a)
+9        o 3  primary and secondary  0.075 ppm (150 μg / m cubic)          8 - hour          40 cfr 50.10 (a)
+10      no 2  primary and secondary  0.053 ppm (100 μg / m cubic)            annual  40 cfr 50.11 (a) and (b)
+11        pb  primary and secondary             0.15 μg / m cubic  rolling 3 months              40 cfr 50.12

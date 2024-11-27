@@ -1,0 +1,41 @@
+                              title series                   director  production num    release date
+0            daffy duck and egghead     mm                  tex avery            8226  1938 - 01 - 01
+1                    porky 's poppa     lt               bob clampett            8352  1938 - 01 - 15
+2                my little buckeroo     mm               friz freleng            8227  1938 - 01 - 29
+3            porky at the crocadero     lt              frank tashlin            8090  1938 - 02 - 05
+4                    jungle jitters     mm               friz freleng            8306  1938 - 02 - 19
+5                  what price porky     lt               bob clampett            8404  1938 - 02 - 26
+6               the sneezing weasel     mm                  tex avery            8310  1938 - 03 - 12
+7           porky 's phoney express     lt    cal howard , cal dalton            8368  1938 - 03 - 19
+8                 a star is hatched     mm               friz freleng            8536  1938 - 04 - 02
+9             porky 's five and ten     lt               bob clampett            8453  1938 - 04 - 16
+10               the penguin parade     mm                  tex avery            8311  1938 - 04 - 23
+11               porky 's hare hunt     lt               ben hardaway            8405  1938 - 04 - 30
+12          now that summer is gone     mm              frank tashlin            8403  1938 - 05 - 14
+13                    injun trouble     lt               bob clampett            8505  1938 - 05 - 21
+14        the isle of pingo - pongo     mm                  tex avery            8402  1938 - 05 - 28
+15                porky the fireman     lt              frank tashlin            8182  1938 - 06 - 04
+16                   katnip kollege     mm    cal dalton , cal howard            8487  1938 - 06 - 11
+17         have you got any castles     mm              frank tashlin            8425  1938 - 06 - 25
+18                   porky 's party     lt               bob clampett            8592  1938 - 06 - 25
+19                  love and curses     mm  ben hardaway , cal dalton            8504  1938 - 07 - 09
+20         porky 's spring planting     lt              frank tashlin            8307  1938 - 07 - 16
+21           cinderella meets fella     mm                  tex avery            8424  1938 - 07 - 23
+22                    porky & daffy     lt               bob clampett            8594  1938 - 08 - 06
+23             major lied 'til dawn     mm              frank tashlin            8488  1938 - 08 - 13
+24              a - lad - in bagdad     mm    cal howard , cal dalton            8595  1938 - 08 - 27
+25                     wholly smoke     lt              frank tashlin            8309  1938 - 08 - 27
+26                      cracked ice     mm              frank tashlin            8507  1938 - 09 - 10
+27                 a feud there was     mm                  tex avery  8506 , br 1317  1938 - 09 - 24
+28               porky in wackyland     lt               bob clampett            8608  1938 - 09 - 24
+29            little pancho vanilla     mm              frank tashlin            8599  1938 - 10 - 08
+30          porky 's naughty nephew     lt               bob clampett            8674  1938 - 10 - 15
+31  johnny smith and poker - huntas     mm                  tex avery            8597  1938 - 10 - 22
+32                   porky in egypt     lt               bob clampett            8682  1938 - 11 - 05
+33             you 're an education     mm              frank tashlin            8681  1938 - 11 - 05
+34               the night watchman     mm                chuck jones            8607  1938 - 11 - 19
+35                    the daffy doc     lt               bob clampett            8686  1938 - 11 - 26
+36          daffy duck in hollywood     mm                  tex avery            8609  1938 - 12 - 03
+37                     count me out     mm  ben hardaway , cal dalton            8687  1938 - 12 - 17
+38                    porky the gob     lt  ben hardaway , cal dalton            8610  1938 - 12 - 17
+39               the mice will play     mm                  tex avery            8683  1938 - 12 - 31

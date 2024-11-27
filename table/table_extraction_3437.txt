@@ -1,0 +1,20 @@
+    no in series  no in season                          title        directed by                        written by    original air date  us viewers (millions)
+0            230             1                    shock waves        alec smight   david weddle & bradley thompson  september 23 , 2010                  14.69
+1            231             2                     pool shark     michael nankin                dustin lee abraham  september 30 , 2010                  13.41
+2            232             3                     blood moon     brad tanenbaum   treena hancock & melissa r byer     october 7 , 2010                  12.50
+3            234             5              house of hoarders        alec smight               christopher barbour    october 21 , 2010                  14.96
+4            235             6                   cold blooded  louis shaw milito                        tom mularz    october 28 , 2010                  14.27
+5            236             7                 bump and grind     michael nankin                        don mcgill    november 4 , 2010                  13.96
+6            237             8                        fracked    martha coolidge   david weddle & bradley thompson   november 11 , 2010                  12.99
+7            238             9                      wild life       charles haid   treena hancock & melissa r byer   november 18 , 2010                  14.15
+8            239            10                      418 / 427      frank waldeck             michael frost beckner    december 9 , 2010                  13.17
+9            240            11                         man up        alec smight                  michael fx daley     january 6 , 2011                  14.22
+10           241            12           a kiss before frying     brad tanenbaum                       evan dunsky    january 20 , 2011                  14.34
+11           243            14              all that cremains       jeffrey hunt                dustin lee abraham   february 10 , 2011                  12.64
+12           244            15           targets of obsession        alec smight   david weddle & bradley thompson   february 17 , 2011                  13.29
+13           245            16  turn on , tune in , drop dead       paul mccrane                        tom mularz   february 24 , 2011                  12.41
+14           246            17                       the list       louis milito                  richard catalani      march 10 , 2011                  13.39
+15           247            18          hitting for the cycle        alec smight   daniel steck & richard catalani      march 31 , 2011                  12.76
+16           248            19                      unleashed     brad tanenbaum    ed whitmore & anthony e zuiker       april 7 , 2011                  13.06
+17           249            20   father of the bride (part 1)      frank waldeck                       evan dunsky      april 28 , 2011                  10.84
+18           250            21     cello and goodbye (part 2)        alec smight  christopher barbour & don mcgill         may 5 , 2011                  10.67

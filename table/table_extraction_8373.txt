@@ -1,0 +1,6 @@
+                                player  score  balls         opponent                    ground
+0      shaun marsh (western australia)     86     55         victoria               waca ground
+1  luke pomersbach (western australia)     79     45         tasmania               waca ground
+2              david hussey (victoria)     70     40  new south wales  melbourne cricket ground
+3      shaun marsh (western australia)     70     49       queensland               waca ground
+4            shane watson (queensland)     69     32         tasmania   brisbane cricket ground

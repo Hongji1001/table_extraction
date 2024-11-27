@@ -1,0 +1,49 @@
+                 television service            language                   content hdtv         package / option
+0                       sky arte hd             italian            arte e cultura  yes          sky tv + sky hd
+1                 discovery channel             italian             documentaries   no             sky famiglia
+2              discovery channel hd             italian             documentaries  yes    sky famiglia + sky hd
+3             discovery channel + 1             italian             documentaries   no             sky famiglia
+4       national geographic channel             italian             documentaries   no             sky famiglia
+5    national geographic channel hd             italian             documentaries  yes    sky famiglia + sky hd
+6   national geographic channel + 1             italian             documentaries   no             sky famiglia
+7                 discovery science             italian             documentaries   no             sky famiglia
+8              discovery science hd             italian             documentaries  yes    sky famiglia + sky hd
+9         discovery travel & living             italian                    viaggi   no                   sky tv
+10     discovery travel & living hd             italian             documentaries  yes          sky tv + sky hd
+11                          history             italian             documentaries   no             sky famiglia
+12                       history hd             italian             documentaries  yes    sky famiglia + sky hd
+13                      history + 1             italian             documentaries   no             sky famiglia
+14                     nat geo wild             italian             documentaries   no             sky famiglia
+15                  nat geo wild hd             italian             documentaries  yes    sky famiglia + sky hd
+16             nat geo adventure hd             italian             documentaries  yes    sky famiglia + sky hd
+17            gambero rosso channel             italian                    cucina   no                   sky tv
+18         gambero rosso channel hd             italian                    cucina  yes          sky tv + sky hd
+19                          dove tv             italian                    viaggi   no                   sky tv
+20                        marcopolo             italian                    viaggi   no                   sky tv
+21                            alice             italian                    cucina   no                   sky tv
+22                         leonardo             italian                 lifestyle   no                   sky tv
+23                    dea sapere hd             italian             documentaries  yes    sky famiglia + sky hd
+24                    animal planet             italian             documentaries   no             sky famiglia
+25                       wedding tv             italian                 lifestyle   no               no ( fta )
+26                     yacht & sail             italian                      vela   no               no ( ftv )
+27           doctor 's life channel             italian       informazione medica   no      riservato ai medici
+28     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+29                discovery channel             italian             documentaries   no             sky famiglia
+30     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+31      national geographic channel             italian             documentaries   no             sky famiglia
+32     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+33                discovery science             italian             documentaries   no             sky famiglia
+34     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+35        discovery travel & living             italian                    viaggi   no                   sky tv
+36     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+37                          history             italian             documentaries   no             sky famiglia
+38     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+39                     nat geo wild             italian             documentaries   no             sky famiglia
+40     cartello promozionale sky hd             italian              promozionale   no  qualsiasi tranne sky hd
+41            gambero rosso channel             italian                    cucina   no                   sky tv
+42                              qvc             italian  lifestyle , teleshopping   no               no ( fta )
+43                     high life tv             english          lifestyle , moda   no               no ( fta )
+44            world fashion channel             english                      moda   no               no ( fta )
+45                       fashion tv             english                      moda   no               no ( fta )
+46                      fashion one             english                      moda   no               no ( fta )
+47                             arte  francese e tedesco        general television   no               no ( fta )

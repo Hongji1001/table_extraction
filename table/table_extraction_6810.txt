@@ -1,0 +1,8 @@
+                             heir                          status         relationship to monarch                       became heir                          reason                   ceased to be heir     monarch
+0                 robert curthose                heir presumptive                             son                              1066              father became king                                1077   william i
+1  succession unclear 1077 - 1087  succession unclear 1077 - 1087  succession unclear 1077 - 1087    succession unclear 1077 - 1087  succession unclear 1077 - 1087      succession unclear 1077 - 1087   william i
+2                 robert curthose                heir presumptive                   elder brother                              1087                    by agreement                                1088  william ii
+3                 henry beauclerc                heir presumptive                 younger brother                              1088             robert 's rebellion                       2 august 1100  william ii
+4  succession unclear 1100 - 1103  succession unclear 1100 - 1103  succession unclear 1100 - 1103    succession unclear 1100 - 1103  succession unclear 1100 - 1103      succession unclear 1100 - 1103     henry i
+5                  william adelin                   heir apparent                        only son                              1103                            born                    25 november 1120     henry i
+6                 empress matilda             heiress presumptive                      only child  25 november 1120 proclaimed 1127                    brother died  1 december 1135 (22 december 1135)     henry i

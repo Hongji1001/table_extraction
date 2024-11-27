@@ -1,0 +1,8 @@
+           player        country  year won  total to par
+0    paul azinger  united states      1993    149    + 9
+1  davis love iii  united states      1997    149    + 9
+2     mark brooks  united states      1996    181   + 11
+3       john daly  united states      1991    151   + 11
+4        bob tway  united states      1986    151   + 11
+5     jeff sluman  united states      1988    154   + 14
+6       rich beem  united states      2002    157   + 17

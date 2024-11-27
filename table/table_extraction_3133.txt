@@ -1,0 +1,9 @@
+  shortscale comparison            chuquet   peletier  systematics base 10  si prefix
+0                  unit               unit       unit    million 0    10 0     (none)
+1              thousand           thousand   thousand  million 0.5    10 3   k (kilo)
+2               million            million    million    million 1    10 6   m (mega)
+3               billion   thousand million   milliard  million 1.5    10 9   g (giga)
+4              trillion            billion   bi llion    million 2   10 12   t (tera)
+5           quadrillion   thousand billion   billiard  million 2.5   10 15   p (peta)
+6           quintillion           trillion  tri llion    million 3   10 18    e (exa)
+7            sextillion  thousand trillion  trilliard  million 3.5   10 21  z (zetta)

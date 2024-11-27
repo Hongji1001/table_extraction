@@ -1,0 +1,44 @@
+           date competition    ground  score  attendance      report
+0   19 sep 2000      1. hnl    poljud  0 - 1       17000        sdhr
+1    3 dec 2000      1. hnl  maksimir  3 - 2       15000        sdhr
+2   14 apr 2001      1. hnl    poljud  3 - 1       32000        sdhr
+3    9 may 2001         cup    poljud  0 - 2       30000        sdhr
+4   13 may 2001      1. hnl  maksimir  1 - 0       25000        sdhr
+5   23 may 2001         cup  maksimir  1 - 0       13000        sdhr
+6   14 oct 2001      1. hnl  maksimir  1 - 2       15000        sdhr
+7    7 apr 2002      1. hnl    poljud  2 - 1       20000        sdhr
+8    1 sep 2002      1. hnl    poljud  1 - 0       35000        sdhr
+9    1 dec 2002      1. hnl  maksimir  2 - 1       18000        sdhr
+10  13 apr 2003      1. hnl  maksimir  0 - 1       20000        sdhr
+11  11 may 2003      1. hnl    poljud  4 - 1       22000        sdhr
+12  20 jul 2003    supercup  maksimir  4 - 1        7000        sdhr
+13  31 aug 2003      1. hnl  maksimir  1 - 0        8000        sdhr
+14   6 dec 2003      1. hnl    poljud  3 - 1       15000        sdhr
+15   3 apr 2004      1. hnl    poljud  0 - 0       25000        sdhr
+16   1 may 2004      1. hnl  maksimir  3 - 1       20000        sdhr
+17  17 jul 2004    supercup    poljud  1 - 0       17000  sportnethr
+18  11 sep 2004      1. hnl  maksimir  3 - 0       15000  sportnethr
+19   5 dec 2004      1. hnl    poljud  1 - 0       25000  sportnethr
+20  11 sep 2005      1. hnl  maksimir  0 - 0       35000  sportnethr
+21  12 feb 2006      1. hnl    poljud  0 - 1       20000  sportnethr
+22  15 apr 2006      1. hnl    poljud  1 - 0       10000  sportnethr
+23  13 may 2006      1. hnl  maksimir  1 - 0       30000  sportnethr
+24   1 oct 2006      1. hnl    poljud  2 - 2       35000  sportnethr
+25  24 feb 2007      1. hnl  maksimir  2 - 1       30000  sportnethr
+26  14 mar 2007         cup  maksimir  1 - 0       15000  sportnethr
+27   4 apr 2007         cup    poljud  2 - 2       25000  sportnethr
+28  19 may 2007      1. hnl  maksimir  3 - 0       35000  sportnethr
+29   7 oct 2007      1. hnl    poljud  1 - 2       18000  sportnethr
+30   8 mar 2008      1. hnl  maksimir  1 - 0       13500  sportnethr
+31   3 may 2008      1. hnl    poljud  1 - 1       10000  sportnethr
+32   7 may 2008         cup  maksimir  3 - 0       15000  sportnethr
+33  14 may 2008         cup    poljud  0 - 0        6000  sportnethr
+34  21 sep 2008      1. hnl  maksimir  0 - 2        8000  sportnethr
+35  22 feb 2009      1. hnl    poljud  2 - 0       38000  sportnethr
+36  13 may 2009         cup  maksimir  3 - 0       20000  sportnethr
+37  28 may 2009         cup    poljud  3 - 0       18000  sportnethr
+38  31 may 2009      1. hnl    poljud  2 - 2       10000  sportnethr
+39  31 oct 2009      1. hnl    poljud  2 - 1        4000  sportnethr
+40  24 mar 2010         cup  maksimir  0 - 0       13000  sportnethr
+41   7 apr 2010         cup    poljud  1 - 0       30000  sportnethr
+42   1 may 2010      1. hnl  maksimir  0 - 0       13000  sportnethr

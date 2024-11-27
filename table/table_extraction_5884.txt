@@ -1,0 +1,26 @@
+                driver               constructor  laps  time / retired  grid
+0         keke rosberg          williams - honda    82     2:00:40.473     3
+1      jacques laffite          ligier - renault    82        + 43.130    20
+2     philippe streiff          ligier - renault    82      + 1:28.536    18
+3         ivan capelli         tyrrell - renault    81         + 1 lap    22
+4     stefan johansson                   ferrari    81         + 1 lap    15
+5       gerhard berger              arrows - bmw    81         + 1 lap     7
+6    huub rothengatter       osella - alfa romeo    78        + 4 laps    25
+7    pierluigi martini  minardi - motori moderni    78        + 4 laps    23
+8         ayrton senna           lotus - renault    62          engine     1
+9     michele alboreto                   ferrari    61    transmission     5
+10          niki lauda             mclaren - tag    57          brakes    16
+11       derek warwick                   renault    57    transmission    12
+12      martin brundle         tyrrell - renault    49  not classified    17
+13          marc surer             brabham - bmw    42          engine     6
+14    riccardo patrese                alfa romeo    42         exhaust    14
+15            teo fabi            toleman - hart    40          engine    24
+16     thierry boutsen              arrows - bmw    37        oil leak    11
+17  piercarlo ghinzani            toleman - hart    28          clutch    21
+18         alain prost             mclaren - tag    26          engine     4
+19      patrick tambay                   renault    20    transmission     8
+20          alan jones               lola - hart    20      electrical    19
+21     elio de angelis           lotus - renault    18    disqualified    10
+22       nelson piquet             brabham - bmw    14            fire     9
+23       eddie cheever                alfa romeo     5          engine    13
+24       nigel mansell          williams - honda     1    transmission     2

@@ -1,0 +1,9 @@
+             score      opposition             venue        city  year
+0  inns & 455 runs       hampshire      old trafford  manchester  1911
+1  inns & 452 runs        somerset     county ground     taunton  1895
+2  inns & 348 runs      derbyshire  park road ground      buxton  1975
+3  inns & 330 runs            kent      angel ground   tonbridge  1892
+4  inns & 291 runs            kent      old trafford  manchester  1895
+5  inns & 273 runs  leicestershire      old trafford  manchester  1912
+6  inns & 271 runs       middlesex      old trafford  manchester  1882
+7  inns & 248 runs        somerset      old trafford  manchester  1910

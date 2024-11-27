@@ -1,0 +1,7 @@
+         school     location      mascot  enrollment ihsaa class ihsaa football class        county
+0       cascade      clayton      cadets         533          aa                   aa  33 hendricks
+1    cloverdale   cloverdale     clovers         399          aa                    a     67 putnam
+2   greencastle  greencastle  tiger cubs         601         aaa                  aaa     67 putnam
+3      monrovia     monrovia    bulldogs         488          aa                   aa     55 morgan
+4  north putnam    roachdale     cougars         590         aaa                   aa     67 putnam
+5  south putnam  putnamville      eagles         436          aa                   aa     67 putnam

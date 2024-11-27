@@ -1,0 +1,9 @@
+   match         date competition or tour ground              opponent score1
+0      1  14 jul 2007                   -      a  dagenham & redbridge  2 - 0
+1      2  17 jul 2007                   -      a         sigma olomouc  0 - 1
+2      3  21 jul 2007                   -      a                 lazio  0 - 2
+3      4  24 jul 2007                   -      a         leyton orient  1 - 1
+4      5  25 jul 2007                   -      a               mk dons  2 - 3
+5      6  28 jul 2007                   -      a       southend united  3 - 1
+6      7  31 jul 2007                   -      a          norwich city  2 - 1
+7      8   4 aug 2007                   -      h                  roma  2 - 1

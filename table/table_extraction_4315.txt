@@ -1,0 +1,46 @@
+     medal                name             games      sport                         event
+0     gold        abebe bikila         1960 rome  athletics               men 's marathon
+1     gold        abebe bikila        1964 tokyo  athletics               men 's marathon
+2     gold          mamo wolde  1968 mexico city  athletics               men 's marathon
+3   silver          mamo wolde  1968 mexico city  athletics                men 's 10000 m
+4   bronze          mamo wolde       1972 munich  athletics               men 's marathon
+5   bronze       miruts yifter       1972 munich  athletics                men 's 10000 m
+6     gold       miruts yifter       1980 moscow  athletics                 men 's 5000 m
+7     gold       miruts yifter       1980 moscow  athletics                men 's 10000 m
+8   bronze       mohamed kedir       1980 moscow  athletics                men 's 10000 m
+9   bronze         eshetu tura       1980 moscow  athletics    men 's 3000 m steeplechase
+10    gold        derartu tulu    1992 barcelona  athletics              women 's 10000 m
+11  bronze         addis abebe    1992 barcelona  athletics                men 's 10000 m
+12  bronze         fita bayisa    1992 barcelona  athletics                 men 's 5000 m
+13    gold  haile gebrselassie      1996 atlanta  athletics           men 's 10000 m (or)
+14    gold         fatuma roba      1996 atlanta  athletics             women 's marathon
+15  bronze           gete wami      1996 atlanta  athletics              women 's 10000 m
+16    gold     gezahegne abera       2000 sydney  athletics               men 's marathon
+17    gold  haile gebrselassie       2000 sydney  athletics                men 's 10000 m
+18    gold        derartu tulu       2000 sydney  athletics         women 's 10000 m (or)
+19    gold       million wolde       2000 sydney  athletics                 men 's 5000 m
+20  silver           gete wami       2000 sydney  athletics              women 's 10000 m
+21  bronze      assefa mezgebu       2000 sydney  athletics                men 's 10000 m
+22  bronze        tesfaye tola       2000 sydney  athletics               men 's marathon
+23  bronze           gete wami       2000 sydney  athletics               women 's 5000 m
+24    gold     kenenisa bekele       2004 athens  athletics           men 's 10000 m (or)
+25    gold       meseret defar       2004 athens  athletics               women 's 5000 m
+26  silver     kenenisa bekele       2004 athens  athletics                 men 's 5000 m
+27  silver    ejegayehu dibaba       2004 athens  athletics              women 's 10000 m
+28  silver      sileshi sihine       2004 athens  athletics                men 's 10000 m
+29  bronze     tirunesh dibaba       2004 athens  athletics               women 's 5000 m
+30  bronze        derartu tulu       2004 athens  athletics              women 's 10000 m
+31    gold     kenenisa bekele      2008 beijing  athletics           men 's 10000 m (or)
+32    gold     kenenisa bekele      2008 beijing  athletics            men 's 5000 m (or)
+33    gold     tirunesh dibaba      2008 beijing  athletics         women 's 10000 m (or)
+34    gold     tirunesh dibaba      2008 beijing  athletics               women 's 5000 m
+35  silver      sileshi sihine      2008 beijing  athletics                men 's 10000 m
+36  bronze       meseret defar      2008 beijing  athletics               women 's 5000 m
+37  bronze       tsegay kebede      2008 beijing  athletics               men 's marathon
+38    gold       meseret defar       2012 london  athletics               women 's 5000 m
+39    gold     tirunesh dibaba       2012 london  athletics              women 's 10000 m
+40    gold         tiki gelana       2012 london  athletics        women 's marathon (or)
+41  silver   dejen gebremeskel       2012 london  athletics                 men 's 5000 m
+42  bronze        sofia assefa       2012 london  athletics  women 's 3000 m steeplechase
+43  bronze       tariku bekele       2012 london  athletics                men 's 10000 m
+44  bronze     tirunesh dibaba       2012 london  athletics               women 's 5000 m

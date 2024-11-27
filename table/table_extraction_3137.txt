@@ -1,0 +1,22 @@
+   city / municipality    date of creation  area (km 2 )  population (2010) income classification ( dof )
+0              baungon       july 1 , 1956        175.86              32868        2nd class municipality
+1          cabanglasan    august 13 , 1979        209.00              32427        3rd class municipality
+2              damulog    august 16 , 1971        245.66              25538        4th class municipality
+3            dangcagan    august 29 , 1961        115.15              22448        3rd class municipality
+4           don carlos      june 18 , 1966        157.02              64334        1st class municipality
+5        impasug - ong  september 1 , 1914       1071.67              43587        1st class municipality
+6           kadingilan    august 16 , 1971        172.06              31756        3rd class municipality
+7           kalilangan      june 18 , 1966        153.59              39847        2nd class municipality
+8               kibawe       july 1 , 1956        214.35              35767        2nd class municipality
+9             kitaotao      june 18 , 1966        150.74              49488        1st class municipality
+10            lantapan      june 18 , 1966        240.76              55934        1st class municipality
+11              libona       july 1 , 1956        244.95              39393        1st class municipality
+12     malaybalay city     march 22 , 1998        984.38             153085      1st class component city
+13            malitbog      june 25 , 1963        260.53              22880        2nd class municipality
+14      manolo fortich      june 21 , 1957        506.64              91026        1st class municipality
+15             maramag       july 1 , 1956        351.72              90901        1st class municipality
+16         pangantucan      june 25 , 1963        343.34              48775        1st class municipality
+17              quezon      june 18 , 1966        409.41              94584        1st class municipality
+18        san fernando      june 18 , 1966        638.63              50207        1st class municipality
+19             sumilao       july 1 , 1956        207.49              25668        4th class municipality
+20             talakag                1917        833.70              67123        1st class municipality

@@ -1,0 +1,27 @@
+                driver               constructor  laps  time / retired  grid
+0        nigel mansell          williams - honda    80     1:37:03.839     1
+1        nelson piquet          williams - honda    80         + 7.711     4
+2          alain prost             mclaren - tag    80        + 55.255     2
+3         ayrton senna             lotus - honda    79         + 1 lap     3
+4             teo fabi           benetton - ford    77        + 3 laps     7
+5     philippe streiff            tyrrell - ford    76        + 4 laps    25
+6      jonathan palmer            tyrrell - ford    76        + 4 laps    24
+7     stefan johansson             mclaren - tag    74        + 6 laps     9
+8         pascal fabre                ags - ford    74        + 6 laps    26
+9       gerhard berger                   ferrari    71      suspension     6
+10     satoru nakajima             lotus - honda    71  not classified    16
+11    michele alboreto                   ferrari    64          engine     8
+12       derek warwick         arrows - megatron    62           turbo    10
+13     philippe alliot               lola - ford    57         gearbox    23
+14        ivan capelli              march - ford    52          engine    22
+15       adrián campos  minardi - motori moderni    52           turbo    21
+16         rené arnoux         ligier - megatron    33         exhaust    13
+17     thierry boutsen           benetton - ford    31          engine     5
+18    christian danner                  zakspeed    26     overheating    19
+19  piercarlo ghinzani         ligier - megatron    24          engine    17
+20  alessandro nannini  minardi - motori moderni    23           turbo    15
+21    riccardo patrese             brabham - bmw    19    differential    12
+22      martin brundle                  zakspeed    18           wheel    18
+23          alex caffi       osella - alfa romeo    11          engine    20
+24   andrea de cesaris             brabham - bmw     2           turbo    11
+25       eddie cheever         arrows - megatron     0      electrical    14

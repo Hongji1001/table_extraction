@@ -1,0 +1,21 @@
+                 rider manufacturer  laps time / retired  grid
+0      valentino rossi       yamaha    23      42:42.385     3
+1         dani pedrosa        honda    23        + 3.074     8
+2          alex barros       ducati    23        + 5.956    10
+3         casey stoner       ducati    23        + 6.012     1
+4         john hopkins       suzuki    23       + 13.244     9
+5          toni elã­as        honda    23       + 19.255    15
+6      loris capirossi       ducati    23       + 19.646     5
+7      chris vermeulen       suzuki    23       + 22.810     2
+8       marco melandri        honda    23       + 22.837     6
+9         nicky hayden        honda    23       + 24.413    13
+10        alex hofmann       ducati    23       + 24.781    11
+11       colin edwards       yamaha    23       + 28.001    16
+12       shinya nakano        honda    23       + 36.733    12
+13    sylvain guintoli       yamaha    23       + 45.098    17
+14       makoto tamada       yamaha    23       + 45.195    20
+15      olivier jacque     kawasaki    23       + 45.217     4
+16  kenny roberts , jr       kr212v    23     + 1:27.222    18
+17        carlos checa        honda     9     retirement    14
+18      kurtis roberts       kr212v     3     retirement    19
+19     randy de puniet     kawasaki     1       accident     7

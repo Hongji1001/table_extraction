@@ -1,0 +1,11 @@
+   round  pick  overall            name position            college
+0      1     9        9     andy farkas       rb      detroit mercy
+1      3     9       24     sam chapman       rb         california
+2      5     9       39      dave price        c  mississippi state
+3      6     9       49  elmer dohrmann        e           nebraska
+4      7     9       59       roy young        g          texas a&m
+5      8     9       69    bill hartman       rb            georgia
+6      9     9       79        ed parks        c           oklahoma
+7     10     9       89     jack abbitt       rb               elon
+8     11     9       99    dick johnson        e         washington
+9     12     9      109     hank bartos        g     north carolina

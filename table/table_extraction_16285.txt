@@ -1,0 +1,7 @@
+               round                 main date  number of fixtures    clubs new entries this round
+0  preliminary round            27 august 2008                  16  48 → 32                   none
+1        first round  23 and 24 september 2008                  16  32 → 16                     16
+2       second round           29 october 2008                   8   16 → 8                   none
+3   quarter - finals   12 and 26 november 2008                   8    8 → 4                   none
+4      semi - finals       4 and 18 march 2009                   4    4 → 2                   none
+5              final        13 and 28 may 2009                   2    2 → 1                   none

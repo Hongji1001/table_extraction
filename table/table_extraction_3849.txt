@@ -1,0 +1,12 @@
+    round               circuit          date pole position  fastest lap winning rider                      winning team
+0       1     brands hatch indy      25 april     kyle ryde    kyle ryde   luke hedger                 banks racing team
+1       2           oulton park         2 may    rob guiver  luke hedger    rob guiver  sp125 / brookhouse garage racing
+2       3                 croft        15 may     kyle ryde    kyle ryde    rob guiver  sp125 / brookhouse garage racing
+3       4              thruxton        30 may    rob guiver   rob guiver    rob guiver  sp125 / brookhouse garage racing
+4       5             knockhill       19 june    wayne ryan    kyle ryde     kyle ryde                        r s racing
+5       6        snetterton 300        3 july    rob guiver   wayne ryan    wayne ryan     krp / racing steps foundation
+6       7           oulton park       17 july    rob guiver  matt davies   matt davies                               krp
+7       8       brands hatch gp      7 august   john mcphee    kyle ryde     kyle ryde                        r s racing
+8       9          cadwell park     29 august    rob guiver    kyle ryde     kyle ryde                        r s racing
+9      10        donington park  11 september     kyle ryde    kyle ryde     kyle ryde                        r s racing
+10     11  silverstone arena gp  25 september     kyle ryde   wayne ryan     kyle ryde                        r s racing

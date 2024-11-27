@@ -1,0 +1,29 @@
+                 country  amateur era  open era  all - time  first title  last title
+0    united states (usa)           17        24          41         1926        2013
+1        australia (aus)           26        13          39         1935        2000
+2           france (fra)           20         2          22         1925        1984
+3           sweden (swe)            1         6           7         1948        2006
+4      netherlands (ned)            0         6           6         1973        2002
+5            india (ind)            0         5           5         1999        2009
+6     south africa (rsa)            2         2           4         1947        1972
+7            spain (esp)            1         3           4         1963        1990
+8          belarus (blr)            0         4           4         2005        2012
+9           canada (can)            0         4           4         2007        2012
+10     switzerland (sui)            0         3           3         1981        1992
+11          russia (rus)            0         3           3         1996        2002
+12  czech republic (cze)            0         3           3         1996        2009
+13   great britain (gbr)            2         0           2         1933        1933
+14         germany (ger)            2         0           2         1937        1937
+15  czechoslovakia (tch)            1         1           2         1948        1986
+16           italy (ita)            2         0           2         1959        1959
+17         romania (rou)            0         2           2         1970        1970
+18          mexico (mex)            0         2           2         1975        1977
+19         belgium (bel)            0         2           2         2004        2004
+20     new zealand (nzl)            0         1           1         1974        1974
+21         hungary (hun)            0         1           1         1981        1981
+22         ecuador (ecu)            0         1           1         1988        1988
+23        zimbabwe (zim)            0         1           1         1994        1994
+24         bahamas (bah)            0         1           1         2007        2007
+25            peru (per)            0         1           1         2008        2008
+26         uruguay (uru)            0         1           1         2008        2008
+27          serbia (srb)            0         1           1         2010        2010

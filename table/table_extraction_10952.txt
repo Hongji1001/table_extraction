@@ -1,0 +1,7 @@
+     nation                    skip              third                 second                    lead
+0   estonia          kristiine lill        ööle janson           katrin kuusk             marju velga
+1   finland              ellen vogt       laura kröger      riikka louhivuori         paula lehtomäki
+2    france         sandrine morand   delphine charlet       brigitte mathieu     alexandra seimbille
+3    poland  marta szeliga - frynia    katarzyna wicik  agnieszka ogrodniczek            marianna das
+4  slovakia       barbora vojtusova  gabriela kajanova       katarina langova        zuzana axamitova
+5     spain   estrella labrador amo     irantzu garcia    sorkunde vez bilbao  maria fernandez picado

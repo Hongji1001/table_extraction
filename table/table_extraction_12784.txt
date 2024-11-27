@@ -1,0 +1,19 @@
+                  driver                       team  laps time / retired  grid  points
+0          alex tagliani        rocketsports racing    48    1:45:07.288    13      33
+1          rodolfo lavín            forsythe racing    48   + 1.855 secs    10      28
+2     sébastien bourdais       newman / haas racing    48   + 2.767 secs     1      27
+3     ryan hunter - reay         herdez competition    48   + 3.814 secs     2      24
+4        mario domínguez         herdez competition    48   + 4.398 secs    15      21
+5           oriol servià          dale coyne racing    48   + 6.390 secs     8      19
+6          justin wilson  mi - jack conquest racing    48   + 8.500 secs     9      17
+7           jimmy vasser                 pkv racing    48   + 8.546 secs     3      15
+8   michel jourdain , jr                    rusport    48   + 9.056 secs    11      13
+9              guy smith        rocketsports racing    48   + 9.997 secs    16      11
+10       mario haberfeld              walker racing    48  + 16.725 secs    12      10
+11            paul tracy            forsythe racing    48  + 26.616 secs     6      10
+12      a j allmendinger                    rusport    47        + 1 lap     7       8
+13    patrick carpentier            forsythe racing    46       + 2 laps     5       7
+14       bruno junqueira       newman / haas racing    46       + 2 laps     4       7
+15      roberto gonzález                 pkv racing    46       + 2 laps    14       5
+16        alex sperafico  mi - jack conquest racing    46       + 2 laps    17       4
+17      gastón mazzacane          dale coyne racing    29     off course    18       3

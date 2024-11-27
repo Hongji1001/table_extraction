@@ -1,0 +1,10 @@
+   season   level    division         section position
+0    2003  tier 4  division 3  östra svealand      8th
+1    2004  tier 4  division 3  östra svealand      1st
+2    2005  tier 3  division 2  östra svealand      8th
+3    2006  tier 4  division 2  östra svealand      7th
+4    2007  tier 4  division 2  östra svealand     10th
+5    2008  tier 4  division 2  södra svealand      3rd
+6    2009  tier 4  division 2  södra svealand      1st
+7    2010  tier 3  division 1           norra      4th
+8    2011  tier 3  division 1           norra     12th

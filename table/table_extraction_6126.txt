@@ -1,0 +1,8 @@
+    tournament         winner      runner - up               score    third place
+0      brussel   john mcenroe       guy forget  6 - 2 , 6 - 7 (12)   filip dewulf
+1      algarve  michael stich     john mcenroe       6 - 4 , 6 - 0   jeremy bates
+2         graz   boris becker    mats wilander        7 - 5. 6 - 0  thomas muster
+3        paris     guy forget  guillaume raoux       6 - 1 , 6 - 2   yannick noah
+4    eindhoven   john mcenroe       petr korda       2 - 6 , 6 - 3  jan siemerink
+5  monte carlo   john mcenroe       petr korda       6 - 2 , 6 - 2  thomas muster
+6       london   john mcenroe       guy forget       7 - 6 , 6 - 2           none

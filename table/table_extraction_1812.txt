@@ -1,0 +1,8 @@
+   draw  country          language           artist                       song                english translation         result
+0     1  denmark            danish   the johanssons  en for alle , alle for en          one for all , all for one  super - final
+1     2   norway         norwegian      the battery                   tenke nå                          think now            out
+2     3   sweden           swedish             linn       en sång från hjärtat              a song from the heart            out
+3     4  finland           swedish         footboys                    fotboll                           football  super - final
+4     5  denmark  danish , spanish   sandra monique                 hola chica                         hello girl            out
+5     6   norway  sami , norwegian  the blacksheeps            oro jaska beana  be quiet , dog (or) shut up , dog  super - final
+6     7   sweden           swedish            jonna            kommer jag våga                        will i dare  super - final

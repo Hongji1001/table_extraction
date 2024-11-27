@@ -1,0 +1,32 @@
+                                           name   years gender          area         authority  decile  roll
+0                           david street school   1 - 6   coed  morrinsville             state       5   465
+1               elstow - waihou combined school   1 - 8   coed      te aroha             state       7   104
+2                                  firth school   1 - 6   coed      matamata             state       3   224
+3                                hinuera school   1 - 6   coed       hinuera             state       8   175
+4                                kereone school   1 - 6   coed       kereone             state       8    11
+5                               kiwitahi school   1 - 6   coed      kiwitahi             state      10    35
+6                               manawaru school   1 - 8   coed      te aroha             state       6    84
+7                     matamata christian school   1 - 8   coed      matamata  state integrated       6    65
+8                              matamata college  9 - 15   coed      matamata             state       6   860
+9                         matamata intermediate   7 - 8   coed      matamata             state       6   364
+10                      matamata primary school   1 - 6   coed      matamata             state       6   415
+11                         morrinsville college  9 - 15   coed  morrinsville             state       6   716
+12                    morrinsville intermediate   7 - 8   coed  morrinsville             state       5   311
+13                          morrinsville school   1 - 6   coed  morrinsville             state       4   208
+14                             motumaoho school   1 - 6   coed     motumaoho             state       7    38
+15                            springdale school   1 - 8   coed        waitoa             state       9    40
+16      st joseph 's catholic school (matamata)   1 - 8   coed      matamata  state integrated       3    32
+17  st joseph 's catholic school (morrinsville)   1 - 8   coed  morrinsville  state integrated       8   169
+18      st joseph 's catholic school (te aroha)   1 - 8   coed      te aroha  state integrated       5    99
+19                        stanley avenue school   1 - 8   coed      te aroha             state       5   271
+20                                tahuna school   1 - 6   coed        tahuna             state       6    65
+21                              tatuanui school   1 - 6   coed      tatuanui             state       9    93
+22                       tauhei combined school   1 - 6   coed        tauhei             state       7    58
+23                             te aroha college  9 - 15   coed      te aroha             state       4   342
+24                      te aroha primary school   1 - 8   coed      te aroha             state       3   153
+25                            te kura o waharoa   1 - 6   coed       waharoa             state       1    27
+26                                te poi school   1 - 6   coed        te poi             state       9    42
+27                  te wharekura o te rau aroha  1 - 15   coed      matamata             state       1    98
+28                               wairere school   1 - 6   coed       waharoa             state       8    45
+29                                waitoa school   1 - 8   coed        waitoa             state       3    19
+30                                walton school   1 - 6   coed        walton             state       9   103

@@ -1,0 +1,22 @@
+    series  season                                   title          directed by                                written by    original air date
+0      246       1                             caã±on city  christopher chulack  lisa zwerling , john wells and joe sachs  september 22 , 2005
+1      247       2                          nobody 's baby          laura innes                           r scott gemmill  september 29 , 2005
+2      248       3                        man with no name  christopher chulack                               david zabel     october 6 , 2005
+3      249       4                    blame it on the rain         paul mccrane                           r scott gemmill    october 13 , 2005
+4      250       5                                 wake up        arthur albert                    janine sherman barrois    october 20 , 2005
+5      251       6                             dream house        stephen cragg                               david zabel    november 3 , 2005
+6      252       7                        the human shield          laura innes                           r scott gemmill   november 10 , 2005
+7      253       8                               two ships  christopher chulack             joe sachs and virgil williams   november 17 , 2005
+8      254       9                                    i do         gloria muzio                            lydia woodward    december 1 , 2005
+9      255      10                 all about christmas eve  lesli linka glatter                    janine sherman barrois    december 8 , 2005
+10     256      11                              if not now       john gallagher                               david zabel     january 5 , 2006
+11     257      12                         split decisions       richard thorpe                           r scott gemmill    january 12 , 2006
+12     258      13                           body and soul         paul mccrane                                 joe sachs    february 2 , 2006
+13     259      14                    quintessence of dust         joanna kerns             lisa zwerling and david zabel    february 9 , 2006
+14     260      15                                  darfur       richard thorpe                    janine sherman barrois       march 2 , 2006
+15     261      16                           out on a limb  lesli linka glatter                               karen maser      march 16 , 2006
+16     262      17                         lost in america        stephen cragg                             lisa zwerling      march 23 , 2006
+17     263      18                      strange bedfellows          laura innes                           virgil williams      march 30 , 2006
+18     264      19                        no place to hide        skipp sudduth                            lydia woodward      april 27 , 2006
+19     265      20                there are no angels here  christopher chulack           r scott gemmill and david zabel         may 4 , 2006
+20     266      21  the gallant hero and the tragic victor          steve shill                           r scott gemmill        may 11 , 2006

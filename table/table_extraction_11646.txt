@@ -1,0 +1,9 @@
+                     sport record                       athlete (s)          nation              date    time
+0    luge - men 's singles  start                   johannes ludwig         germany  13 december 2009   4.366
+1    luge - men 's singles  track                       georg hackl         germany   5 february 1995  49.375
+2  luge - women 's singles  start                    tatjana hüfner         germany  13 december 2009   2.324
+3  luge - women 's singles  track                 gabriele kohlisch         germany   4 february 1995  47.883
+4    luge - men 's doubles  start        tobias wendl , tobias arlt         germany  12 december 2009   2.273
+5    luge - men 's doubles  track  patric leitner , alexander resch         germany   18 january 2003  47.829
+6      skeleton - women 's  start                   donna creighton  united kingdom   8 december 2011   5.150
+7      skeleton - women 's  track                 elizabeth yarnold  united kingdom   8 december 2011  54.920

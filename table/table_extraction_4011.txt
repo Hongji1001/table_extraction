@@ -1,0 +1,7 @@
+  call sign  frequency mhz             city of license  erp w class fcc info
+0    k276dl          103.1       hemingford , nebraska     80     d      fcc
+1    k276dm          103.1          chadron , nebraska      5     d      fcc
+2    k292ec          106.3  hot springs , south dakota     68     d      fcc
+3    k292dn          106.3         newcastle , wyoming     31     d      fcc
+4    k292dz          106.3          sheridan , wyoming    135     d      fcc
+5    k296ds          107.1         alliance , nebraska     74     d      fcc

@@ -1,0 +1,15 @@
+              player                  club  league  fa cup  fa trophy  league cup  total
+0     david leworthy      farnborough town      32       1          5           1     39
+1    mark whitehouse     bromsgrove rovers      23       0          2           1     26
+2   malcolm o'connor    northwich victoria      21       2          1           3     27
+3        keith scott     wycombe wanderers      20       1          5           2     28
+4        paul cavell  dagenham & redbridge      19       8          1           1     29
+5      terry robbins        welling united      19       1          2           1     23
+6         andy sayer           slough town      19       1          1           0     21
+7        karl thomas         witton albion      19       0          3           0     22
+8        gary abbott        welling united      17       0          1           1     19
+9         phil brown        kettering town      16       2          0           0     18
+10        gary jones         boston united      16       2          5           1     24
+11    mickey spencer           yeovil town      16       2          1           2     21
+12     tony hemmings    northwich victoria      15       1          0           4     20
+13         alan lamb             gateshead      15       7          1           0     23

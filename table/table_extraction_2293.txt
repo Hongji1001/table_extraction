@@ -1,0 +1,28 @@
+                       name  position  height  weight date of birth             home team
+0             thomas barker  midfield  179 cm   76 kg   10 apr 1985    sheffield steelers
+1              myles bonnar    attack  183 cm   80 kg    6 nov 1987          stirling uni
+2             jordan coffey    attack  182 cm   83 kg    2 apr 1987             ajax rock
+3              stuart craig  midfield  190 cm   82 kg   20 mar 1987              wilmslow
+4   nicholas duncan - price  midfield  180 cm   80 kg   21 sep 1979    university of bath
+5                jesse fehr    attack  183 cm   88 kg   29 apr 1987    harvard university
+6           douglas freeman   defence  188 cm   99 kg    6 jan 1983     ohio weselyan uni
+7                 dave gill  midfield  180 cm   76 kg   13 nov 1990      loughborough uni
+8              ethan harris    goalie  171 cm   78 kg   20 apr 1981                  umbc
+9             brendan healy  midfield  180 cm   81 kg    8 apr 1984          maryland uni
+10                ian healy    attack  170 cm   82 kg   12 jan 1981          maryland uni
+11             dan heighway    attack  185 cm   78 kg   15 aug 1980         heaton mersey
+12         richard heighway  midfield  180 cm   77 kg   19 may 1986         heaton mersey
+13      robert hetherington   defence  190 cm   94 kg   23 nov 1987   stirling university
+14             timo higgins    goalie  183 cm   88 kg    8 sep 1988        st andrews uni
+15         james huntington  midfield  188 cm   82 kg    1 oct 1986   stirling university
+16              troy kachor  midfield  180 cm   75 kg   11 sep 1988  calgary mountaineers
+17             malcolm kent  midfield  178 cm   73 kg    8 dec 1988   stirling university
+18           tommy kirkland   defence  181 cm   76 kg  10 june 1991             timperley
+19         conor mclaughlin   defence  175 cm   73 kg  20 june 1991    muhlenberg college
+20         julian macmillan  midfield  175 cm   84 kg   20 apr 1987         saint leo uni
+21             rory marsden   defence  192 cm   89 kg    5 dec 1981   stirling university
+22          graham monaghan    attack  185 cm   75 kg    5 sep 1989            sussex uni
+23           quentin morgan       lsm  153 cm   77 kg   13 apr 1988        st andrews uni
+24              chris paton    attack  175 cm   94 kg   18 oct 1987           glasgow uni
+25        michael rushworth   defence  180 cm  110 kg   29 may 1988          aberdeen uni
+26              james slade  midfield  180 cm   81 kg   18 may 1985   western ontario uni

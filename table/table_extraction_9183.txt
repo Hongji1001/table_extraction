@@ -1,0 +1,11 @@
+  result         date               race          venue group distance  weight (kg)     jockey            winner / 2nd
+0    won  11 aug 2001    goodwood sprint        belmont    lr   1300 m         61.0  p carbery     2nd - prince of pop
+1    2nd  25 aug 2001     farnley stakes        belmont    lr   1400 m         62.0  p carbery   1st - corporate bruce
+2    won  15 sep 2001  j f feehan stakes  moonee valley    g2   1600 m         58.0   d oliver           2nd - sunline
+3    won  23 sep 2001   underwood stakes      caulfield    g1   1800 m         58.0   d oliver  2nd - universal prince
+4    won  13 oct 2001     yalumba stakes      caulfield    g1   2000 m         58.0   d oliver      2nd - shogun lodge
+5    won  27 oct 2001          cox plate  moonee valley    g1   2040 m         58.0   d oliver           2nd - sunline
+6   11th  24 nov 2001     railway stakes          ascot    g1   1600 m         61.5   d oliver       1st - old comrade
+7    2nd  16 feb 2002     c f orr stakes      caulfield    g1   1400 m         58.0   d oliver           1st - barkada
+8    won  02 mar 2002   st george stakes      caulfield    g2   1800 m         58.0   d oliver       2nd - old comrade
+9    2nd  11 mar 2002      australia cup     flemington    g1   2000 m         58.0   d oliver       1st - old comrade

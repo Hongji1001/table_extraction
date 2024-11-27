@@ -1,0 +1,7 @@
+               team match points draw lost
+0     start gniezno     8     12    0    2
+1      polonia piła     8     10    0    3
+2       sparta śrem     8      8    0    4
+3        lpż gdańsk     8      8    0    4
+4  lpż zielona góra     8      2    0    7
+5    olimpia poznań   dnq    dnq  dnq  dnq

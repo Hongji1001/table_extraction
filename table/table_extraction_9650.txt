@@ -1,0 +1,22 @@
+            character name voice actor (japanese) voice actor (english 1997 / saban) voice actor (english 1998 / pioneer) voice actor (english 2006 / funimation)
+0                     goku          masako nozawa                  ian james corlett                        peter kelamis                           sean schemmel
+1                    gohan          masako nozawa                  saffron henderson                    saffron henderson                       stephanie nadolny
+2                  krillin          mayumi tanaka                      terry klassen                        terry klassen                            sonny strait
+3                   yamcha            toru furuya                           ted cole                             ted cole                       christopher sabat
+4                     tien       hirotaka suzuoki                         matt smith                           matt smith                          john burgmeier
+5                 chiaotzu           hiroko emori                     cathy weseluck                       cathy weseluck                        monika antonelli
+6                  piccolo        toshio furukawa                       scott mcneil                         scott mcneil                       christopher sabat
+7                    bulma           hiromi tsuru                 lalainia lindbjerg                   lalainia lindbjerg                         tiffany vollmer
+8                chi - chi             mayumi shō                        laara sadiq                          laara sadiq                           cynthia cranz
+9                   oolong          naoki tatsuta                       alec willows                         scott mcneil                        bradford jackson
+10                    puar         naoko watanabe                     cathy weseluck                       cathy weseluck                        monika antonelli
+11            master roshi         kōhei miyauchi                          dave ward                            don brown                          mike mcfarland
+12                king kai            joji yanami                          don brown                            don brown                           sean schemmel
+13                 shenron           kenji utsumi                          don brown                            don brown                       christopher sabat
+14  icarus / higher dragon          naoki tatsuta                        doug parker                          doug parker                       christopher sabat
+15                   rasin           kenji utsumi                          don brown                         scott mcneil                             andy mcavin
+16                 lagasin         masaharu satou                       alec willows                            don brown                             andy mcavin
+17                    daiz             yūji machi                       scott mcneil                         scott mcneil                          mark lancaster
+18                   kakao       shinobu satouchi                      alvin sanders                        alvin sanders                            jeff johnson
+19                  armond            banjo ginga                        paul dobson                          paul dobson                            paul slavens
+20                  turles          masako nozawa                         ward perry                           ward perry                            chris patton

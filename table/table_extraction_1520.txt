@@ -1,0 +1,13 @@
+                  winner                      country     winter olympics fis nordic world ski championships                      holmenkollen
+0          thorleif haug                       norway                1924                               1924                1919 , 1920 , 1921
+1   johan grøttumsbråten                       norway         1928 , 1932          1926 , 1928 , 1931 , 1932  1923 , 1926 , 1928 , 1929 , 1931
+2         oddbjørn hagen                       norway                1936                 1934 , 1935 , 1936                1932 , 1934 , 1935
+3            heikki hasu                      finland                1948                        1948 , 1950                              1953
+4         simon slåttvik                       norway                1952                               1952                1948 , 1950 , 1951
+5       sverre stenersen                       norway                1956                        1954 , 1956                1955 , 1956 , 1959
+6            georg thoma  federal republic of germany                1960                        1960 , 1966         1963 , 1964 , 1965 , 1966
+7         tormod knutsen                       norway                1964                               1964                              1958
+8           franz keller  federal republic of germany                1968                               1968                              1967
+9         ulrich wehling   german democratic republic  1972 , 1976 , 1980          1972 , 1974 , 1976 , 1980                1975 , 1976 , 1977
+10          tom sandberg                       norway                1984                               1982                       1974 , 1982
+11      bjarte engen vik                       norway                1998                        1999 , 2001  1996 , 1997 , 1998 , 1999 , 2000

@@ -1,0 +1,7 @@
+                    region  date                    label    format         catalog
+0                       us  2003               prosthetic        cd       10008 - 2
+1                       us  2003               prosthetic  cd / dvd   793018 291902
+2           european union  2004                     epic        cd    epc 513880 2
+3  australia & new zealand  2004                     epic        cd    5138 8 02000
+4                       us  2004  black market activities        lp         bma 006
+5                       us  2009               prosthetic        lp  6561910008 - 1

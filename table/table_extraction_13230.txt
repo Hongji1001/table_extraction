@@ -1,0 +1,22 @@
+                 name                      club position        years current status
+0        ben halloran         gold coast united       mf  2009 - 2010        playing
+1    joshua brillante         gold coast united       mf  2008 - 2009        playing
+2         mitch bevan         gold coast united       mf  2007 - 2008        playing
+3           tommy oar                fc utrecht       fw  2007 - 2008        playing
+4       daniel bowles             brisbane roar       df  2007 - 2008        playing
+5    zachary anderson         gold coast united       mf  2006 - 2008        playing
+6         luke devere                 gyeongnam       df  2005 - 2006        playing
+7      tahj minniecon  western sydney wanderers       fw  2005 - 2006        playing
+8        robbie kruse        fortuna düsseldorf       fw  2004 - 2006        playing
+9        isaka cernak         melbourne victory       mf  2004 - 2006        playing
+10     david williams                 sydney fc       fw  2004 - 2005        playing
+11       jimmy downey          sparta rotterdam       mf  2003 - 2004        playing
+12         matt mundy             brisbane roar       df  2003 - 2004        playing
+13     chris grossman     north queensland fury       mf  2002 - 2003        playing
+14         matt mckay             brisbane roar       mf         1999        playing
+15         jade north                  fc tokyo       df         1998        playing
+16         jon mckain                 al - nasr       df         1998        playing
+17       shane smeltz               perth glory       fw  1997 - 1998        playing
+18   shane stefanutto             brisbane roar       df  1997 - 1998        playing
+19  danny invincibile              st johnstone       fw         1996        playing
+20      kasey wehrman            newcastle jets       mf  1995 - 1996        playing

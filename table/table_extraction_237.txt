@@ -1,0 +1,10 @@
+            governorate        name in russian        name in polish      seat  area , in thousands of km 2  population , in thousands , ( 1905 )
+0    warsaw governorate    варшавская губерния   gubernia warszawska  warszawa                          176                                  2233
+1    kalisz governorate     калишская губерния      gubernia kaliska    kalisz                          113                                   964
+2    kielce governorate      келецкая губерния     gubernia kielecka    kielce                          102                                   899
+3     łomża governorate    ломжинская губерния     gubernia lubelska     łomża                          106                                   645
+4    lublin governorate    люблинская губерния    gubernia łomżyńska    lublin                          169                                  1341
+5  piotrków governorate  петроковская губерния  gubernia piotrkowska  piotrków                          122                                  1640
+6     płock governorate       плоцкая губерния       gubernia płocka     płock                           94                                   613
+7     radom governorate     радомская губерния     gubernia radomska     radom                          124                                   917
+8   siedlce governorate     седлецкая губерния    gubernia siedlecka   siedlce                          143                                   894

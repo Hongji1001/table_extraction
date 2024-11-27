@@ -1,0 +1,9 @@
+   round  overall           player     nationality                           club team
+0      1       12     marian hossa        slovakia         hc dukla trenčín (slovakia)
+1      3       58       jani hurme         finland                       tps (finland)
+2      3       66    josh langfeld   united states                lincoln stars (ushl)
+3      5      119  magnus arvedson          sweden               färjestad bk (sweden)
+4      6      146    jeff sullivan          canada          halifax mooseheads (qmjhl)
+5      7      173      robin bacul  czech republic             hc slavia praha (czech)
+6      8      203      nick gillis   united states  ashburnham cushing academy (us hs)
+7      9      229   karel rachunek  czech republic                    zlín zps (czech)

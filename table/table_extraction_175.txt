@@ -1,0 +1,13 @@
+       season group a winner      group b winner  group c winner group d winner
+0   1978 - 79      sanremese          cremapergo            fano          rende
+1   1979 - 80          prato              modena      giulianova        cosenza
+2   1980 - 81       rhodense              padova       casertana       campania
+3   1981 - 82      carrarese              ancona           siena       barletta
+4   1982 - 83          prato             legnano     francavilla        messina
+5   1983 - 84        livorno               pavia            jesi        reggina
+6   1984 - 85          siena  virescitboccaleone        brindisi         licata
+7   1985 - 86       lucchese             centese          teramo       nocerina
+8   1986 - 87         torres         ospitaletto      vis pesaro      frosinone
+9   1987 - 88      carrarese             mantova         perugia        palermo
+10  1988 - 89         casale              chievo  fidelis andria      puteolana
+11  1989 - 90          siena              varese            fano  battipagliese

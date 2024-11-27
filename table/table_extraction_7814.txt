@@ -1,0 +1,29 @@
+                  rider manufacturer  laps time / retired  grid
+0        hiroshi aoyama          ktm    29      41:16.191     6
+1           mika kallio          ktm    29        + 0.119     1
+2       alex de angelis      aprilia    29        + 0.274     3
+3         jorge lorenzo      aprilia    29        + 0.579     4
+4      andrea dovizioso        honda    29        + 1.296     2
+5        héctor barberá      aprilia    29       + 11.851     7
+6      marco simoncelli       gilera    29       + 17.248     8
+7        yuki takahashi        honda    29       + 22.309    10
+8          thomas luthi      aprilia    29       + 28.858    12
+9     roberto locatelli       gilera    29       + 35.983    14
+10      aleix espargaró      aprilia    29       + 37.377    11
+11        shuhei aoyama        honda    29       + 42.211    17
+12         dirk heidolf      aprilia    29       + 51.095    13
+13       alex baldolini      aprilia    29       + 53.416    15
+14         jules cluzel        honda    29       + 55.996    21
+15       taro sekiguchi      aprilia    29       + 56.105    18
+16      álvaro bautista      aprilia    29     + 1:07.435     9
+17         fabrizio lai      aprilia    29     + 1:09.728    16
+18  ratthapark wilairot        honda    29     + 1:17.640    22
+19       thomas walther        honda    19       accident    28
+20        karel abraham      aprilia    19     retirement    20
+21       eugene laverty        honda    18       accident    26
+22         julián simón        honda    14       accident     5
+23            imre toth      aprilia    13     retirement    24
+24          dan linfoot      aprilia     4       accident    25
+25        álvaro molina      aprilia     4     retirement    23
+26        joshua sommer        honda     3     retirement    27
+27        efren vazquez      aprilia     2       accident    19

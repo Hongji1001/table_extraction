@@ -1,0 +1,12 @@
+                                              facility        location            year opened major facility population gender  capacity            custody level (s)
+0             airway heights corrections center (ahcc)  airway heights                   1992            yes              male      2258         mi - 2 mi - 3 medium
+1                cedar creek corrections center (cccc)      littlerock                   1954             no              male       480                       mi - 2
+2                clallam bay corrections center (cbcc)     clallam bay                   1985            yes              male       858         medium close maximum
+3               coyote ridge corrections center (crcc)         connell  1992 (msu) 2009 (msc)            yes              male      2468         mi - 2 mi - 3 medium
+4                       larch corrections center (lcc)          yacolt                   1956             no              male       480                       mi - 2
+5   mission creek corrections center for women (mcccw)         belfair                   2005             no            female       305                       mi - 2
+6                    monroe correctional complex (mcc)          monroe                   1910            yes              male      2400  mi - 2 medium close maximum
+7                     olympic corrections center (occ)           forks                   1968             no              male       378                       mi - 2
+8             stafford creek corrections center (sccc)        aberdeen                   2000            yes              male      1936        mi - 2 medium maximum
+9                  washington corrections center (wcc)         shelton                   1964            yes              male      1268         medium close maximum
+10      washington corrections center for women (wccw)      gig harbor                   1971            yes            female       738          mi - 2 medium close

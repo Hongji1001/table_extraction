@@ -1,0 +1,27 @@
+                driver               constructor  laps  time / retired  grid
+0        nigel mansell          williams - honda    65     1:19:11.780     2
+1        nelson piquet          williams - honda    65         + 1.918     1
+2         ayrton senna             lotus - honda    64         + 1 lap     3
+3      satoru nakajima             lotus - honda    63        + 2 laps    12
+4        derek warwick         arrows - megatron    63        + 2 laps    13
+5             teo fabi           benetton - ford    63        + 2 laps     6
+6      thierry boutsen           benetton - ford    62        + 3 laps     5
+7      jonathan palmer            tyrrell - ford    60        + 5 laps    23
+8         pascal fabre                ags - ford    59        + 6 laps    25
+9     philippe streiff            tyrrell - ford    57          engine    22
+10      martin brundle                  zakspeed    54  not classified    17
+11         alain prost             mclaren - tag    53          engine     4
+12    michele alboreto                   ferrari    52      suspension     7
+13       eddie cheever         arrows - megatron    45          engine    14
+14       adrián campos  minardi - motori moderni    34     fuel system    19
+15          alex caffi       osella - alfa romeo    32          engine    20
+16    christian danner                  zakspeed    32         gearbox    18
+17    riccardo patrese             brabham - bmw    28           turbo    11
+18    stefan johansson             mclaren - tag    18          engine    10
+19  alessandro nannini  minardi - motori moderni    10          engine    15
+20   andrea de cesaris             brabham - bmw     8           turbo     9
+21      gerhard berger                   ferrari     7        accident     8
+22     philippe alliot               lola - ford     7         gearbox    21
+23         rené arnoux         ligier - megatron     3      electrical    16
+24        ivan capelli              march - ford     3        accident    24
+25  piercarlo ghinzani         ligier - megatron     0        excluded    19

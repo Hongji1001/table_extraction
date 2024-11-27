@@ -1,0 +1,8 @@
+   round  pick            player          position        college
+0      1     2       randy white  defensive tackle       maryland
+1      1    18  thomas henderson        linebacker       langston
+2      2    44    burton lawless             guard        florida
+3      3    70       bob bruenig        linebacker  arizona state
+4      4    90       pat donovan            tackle       stanford
+5      4    96      randy hughes    defensive back       oklahoma
+6      5   113        kyle davis            center       oklahoma

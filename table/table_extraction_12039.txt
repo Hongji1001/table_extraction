@@ -1,0 +1,19 @@
+               rider manufacturer  laps time / retired  grid
+0       casey stoner       ducati    22      42:36.587     4
+1      jorge lorenzo       yamaha    22        + 5.323     1
+2       dani pedrosa        honda    22       + 10.600     8
+3   andrea dovizioso        honda    22       + 13.288     9
+4    valentino rossi       yamaha    22       + 13.305     7
+5     james toseland       yamaha    22       + 14.040     2
+6      colin edwards       yamaha    22       + 15.150     3
+7    loris capirossi       suzuki    22       + 32.505    13
+8    randy de puniet        honda    22       + 33.003     5
+9       nicky hayden        honda    22       + 38.354     6
+10    marco melandri       ducati    22       + 44.284    16
+11      john hopkins     kawasaki    22       + 49.857    10
+12     shinya nakano        honda    22       + 49.871    15
+13        toni elias       ducati    22       + 58.532    14
+14  sylvain guintoli       ducati    22       + 58.930    17
+15      anthony west     kawasaki    22     + 1:05.643    18
+16   chris vermeulen       suzuki    21        + 1 lap    11
+17   alex de angelis        honda    16       accident    12

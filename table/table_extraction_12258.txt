@@ -1,0 +1,11 @@
+   round  pick               player          position        college
+0      1     4        mike williams            tackle          texas
+1      2    36            josh reed     wide receiver            lsu
+2      2    61          ryan denney     defensive end            byu
+3      3    97             coy wire            safety       stanford
+4      5   139        justin bannan  defensive tackle       colorado
+5      6   176         kevin thomas        cornerback           unlv
+6      7   215         mike pucillo            center         auburn
+7      7   249        rodney wright     wide receiver   fresno state
+8      7   251     jarrett ferguson      running back  virginia tech
+9      7   260  dominique stevenson        linebacker      tennessee

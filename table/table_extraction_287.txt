@@ -1,0 +1,22 @@
+    series  season                             title       director (s)                                            writer (s)    original airdate
+0       23       1                   dream come true   george kaczender                                        thomas lazarus    october 2 , 1989
+1       24       2                  heartbreak hotel     william malone                                     jonathan glassner    october 9 , 1989
+2       25       3             welcome to springwood     ken wiederhorn                            a l katz and gilbert adler   october 16 , 1989
+3       26       4                      photo finish       tom desimone                                     jonathan glassner   october 23 , 1989
+4       27       5                   memory overload           don weis                                  michael kirschenbaum   october 30 , 1989
+5       28       6                       lucky stiff     william malone                                           david braff   november 6 , 1989
+6       29       7                 silence is golden    chuck braverman                                     jonathan glassner  november 13 , 1989
+7       30       8                        bloodlines        james quinn                            gilbert adler and a l katz  november 20 , 1989
+8       31       9                     monkey dreams     robert englund                                  michael kirschenbaum  november 27 , 1989
+9       32      10    do you know where the kids are      bill froelich                                            wayne rice   december 4 , 1989
+10      33      11                  dreams that kill      tom de simone                                         tom blumquist  december 11 , 1989
+11      34      12  what you don't know can kill you     ken wiederhorn                                     jonathan glassner    january 1 , 1990
+12      35      13               easy come , easy go     william malone                                           david braff    january 8 , 1990
+13      36      14                         prime cut     david calloway                                  michael kirschenbaum   january 15 , 1990
+14      37      15                     interior loft     ken wiederhorn                                           david braff   january 22 , 1990
+15      38      16               interior loft later     ken wiederhorn                                     jonathan glassner   january 29 , 1990
+16      39      17                          funhouse      gilbert adler                             al katz and gilbert adler   february 5 , 1990
+17      40      18                   a family affair      keith samples                                           david braff  february 12 , 1990
+18      41      19                      dust to dust  jonathan glassner  bill froehlich , david braff , and jonathan glassner  february 19 , 1990
+19      42      20                  prisoner of love    richard t schor                                         richard beban  february 26 , 1990
+20      43      21                     life sentence    anita w addison                                       david zuckerman      march 5 , 1990

@@ -1,0 +1,11 @@
+                       school     mascot        location  enrollment ihsaa class ihsaa football class         county
+0              avon community    orioles            avon        2512        aaaa                aaaaa   32 hendricks
+1                  brownsburg   bulldogs      brownsburg        2222        aaaa                aaaaa   32 hendricks
+2                     fishers     tigers         fishers        2236        aaaa                aaaaa    29 hamilton
+3       hamilton southeastern     royals         fishers        2700        aaaa                aaaaa    29 hamilton
+4  west lafayette wh harrison    raiders  west lafayette        1663        aaaa                aaaaa  79 tippecanoe
+5       lafayette t jefferson   bronchos       lafayette        2191        aaaa                aaaaa  79 tippecanoe
+6    west lafaette mccutcheon  mavericks  west lafayette        1834        aaaa                aaaaa  79 tippecanoe
+7                 noblesville    millers     noblesville        2502        aaaa                aaaaa    29 hamilton
+8                   westfield  shamrocks       westfield        2048        aaaa                aaaaa    29 hamilton
+9        zionsville community     eagles      zionsville        1749        aaaa                aaaaa       06 boone

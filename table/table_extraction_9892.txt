@@ -1,0 +1,6 @@
+           district           incumbent       party  first elected        result
+0  south carolina 1   john s richardson  democratic           1878  re - elected
+1  south carolina 2  michael p o'connor  democratic           1878  re - elected
+2  south carolina 3       d wyatt aiken  democratic           1876  re - elected
+3  south carolina 4        john h evins  democratic           1876  re - elected
+4  south carolina 5    george d tillman  democratic           1878  re - elected

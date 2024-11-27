@@ -1,0 +1,24 @@
+                          name / name of act  age (s)                   genre                                 act                    hometown  semifinal (week)                 position reached
+0                                    liu wei       23              performing                    disabled pianist          huangpu , shanghai                 1                           winner
+1                               zhang fengxi        6             comedic act      shanghainese stand up comedian          huangpu , shanghai                 3                      runner - up
+2                                cai xiuqing       23                 singing                              singer       guangzhou , guangdong                 2                        3rd place
+3                            modern grannies  41 - 62                 dancing                 bellydancing troupe               wuhan , hubei                 2                            final
+4                               shou junchao       24                 singing                              rapper          huangpu , shanghai                 1                            final
+5             xu mingfei and zhang zhengbang       24                 dancing                    robot clowns act           chengdu , sichuan                 2                            final
+6                     zhai xiaowei and ma li  25 - 33              performing                   disabled acrobats           zhengzhou , henan                 3                        4th place
+7                               zhu xiaoming       20                 singing                              singer          huangpu , shanghai                 3                            final
+8                                  chen jing       29  singing and performing             singer and strength act          huangpu , shanghai                 1                        semifinal
+9                  chuan zi and dudu the dog  11 - 42  singing and performing         singing and dog howling act         dongcheng , beijing                 1  lost judges' choice , semifinal
+10                                    dennis       25              performing                    male pole dancer                  uzbekistan                 1                        semifinal
+11                                gao yifeng       49                 singing                              singer               hefei , anhui                 3                        semifinal
+12                              jiang renrui       45              performing                       peacock dance  hulunbuir , inner mongolia                 2                        semifinal
+13                               old buddies  41 - 52                 singing                                band         dongcheng , beijing                 3                        semifinal
+14                                     power       22              performing                            acrobats            cangzhou , hebei                 2                        semifinal
+15  shenzhen migrant workers hip - hop group  21 - 23                 dancing                hip hop dance troupe        shenzhen , guangdong                 1                        semifinal
+16               wenkexin bellydancing group       23                 dancing  balancing / bellydancing group act                     beijing                 3                        semifinal
+17                               xu hongdong       31                 singing                        opera singer               lu'an , anhui                 2                        semifinal
+18                                   yang di       24              performing                  lip - synching act             ngawa , sichuan                 2                        semifinal
+19             zhang aiqing and zhang jianfa   7 - 51                 dancing                           dance duo          huangpu , shanghai                 2  lost judges' choice , semifinal
+20                              zhou jinsong       46                 singing                              singer         dongcheng , beijing                 3                        semifinal
+21           zhou yanfeng and his wife xu na       35                 singing                              singer          huangpu , shanghai                 3                        semifinal
+22                                   zhu jie       23                 singing                              singer           xicheng , beijing                 1                        semifinal

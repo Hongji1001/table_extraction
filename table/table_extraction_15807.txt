@@ -1,0 +1,21 @@
+    pick           player                   team position              hometown / school
+0      1     ron blomberg       new york yankees       1b                   atlanta , ga
+1      2     terry hughes           chicago cubs       ss               spartanburg , sc
+2      3      mike garman         boston red sox      rhp                  caldwell , id
+3      4      jon matlack          new york mets      lhp              west chester , pa
+4      5       john jones    washington senators        c                 st joseph , tn
+5      6    john mayberry         houston astros       1b                   detroit , mi
+6      7  brian bickerton      oakland athletics      lhp                    santee , ca
+7      8    wayne simpson        cincinnati reds      rhp               los angeles , ca
+8      9        mike nunn      california angels        c                greensboro , nc
+9     10      ted simmons     st louis cardinals        c                southfield , mi
+10    11   jack heidemann      cleveland indians       ss                   brenham , tx
+11    12    andrew finlay         atlanta braves       of                sacramento , ca
+12    13       dan haynes      chicago white sox       3b                east point , ga
+13    14       phil meyer  philadelphia phillies      lhp                    downey , ca
+14    15         jim foor         detroit tigers      lhp                  ferguson , mo
+15    16       joe grigas     pittsburgh pirates       of                  brockton , ma
+16    17       steve brye        minnesota twins  3b - of                   oakland , ca
+17    18       dave rader   san francisco giants        c               bakersfield , ca
+18    19      bobby grich      baltimore orioles       ss                long beach , ca
+19    20       don denbow    los angeles dodgers       3b  southern methodist university

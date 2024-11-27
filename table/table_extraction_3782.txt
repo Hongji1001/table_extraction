@@ -1,0 +1,20 @@
+             reservoir      basin               location            type  height (m)  length along the top (m)  drainage basin (km square)  reservoir surface (ha)  volume (hm cubic)
+0           alfilorios     barrea       ribera de arriba      embankment       67.00                     171.7                        4.09                   52.00              9.140
+1                arbón      navia       coaña , villayón      embankment       35.00                     180.0                     2443.00                  270.00             38.200
+2           barca , la     narcea       belmonte , tineo            arch       73.50                     178.0                     1216.00                  194.00             31.100
+3               doiras      navia                   boal  arch - gravity       90.00                     165.0                     2288.00                  347.00            114.600
+4         florida , la     narcea                  tineo         gravity       19.00                      70.0                     1005.00                   18.40              0.750
+5         furacón , el      nalón      trubia ( oviedo )         gravity       14.00                      70.0                     2180.00                   19.00              0.522
+6          granda , la     granda                  gozón      embankment       23.70                     270.0                        1.25                   32.50              3.208
+7          jocica , la      dobra                 amieva            arch       87.00                      66.0                       39.00                    6.14              0.400
+8         mortera , la    mortera                 morcín         gravity        8.00                      91.0                        0.00                    0.00              0.017
+9              priañes       nora  oviedo , las regueras         gravity       27.00                      50.0                      340.00                   35.17              1.900
+10           saliencia  saliencia                somiedo         gravity       20.00                      33.0                       48.00                    0.30              0.020
+11              salime      navia      grandas de salime         gravity      125.67                     250.0                     1806.00                  685.00            266.300
+12  san andrés tacones      aboño   sa tacones ( gijón )      embankment       22.00                     434.0                       37.50                    4.00             71.000
+13             somiedo    somiedo                somiedo         gravity       24.00                      18.0                       82.00                    0.29              0.018
+14               tanes      nalón     caso , sobrescobio         gravity       95.00                     195.0                      271.00                  159.00             33.270
+15             trasona    alvares    trasona ( corvera )         gravity       16.00                     332.0                       37.00                   61.00              4.100
+16          valdemurio     trubia                 quirós         gravity       40.15                     119.0                      196.00                    1.43              1.430
+17          valduno ii      nalón           las regueras         gravity        9.90                     105.0                     2500.00                   34.36              0.300
+18               valle      valle                somiedo         gravity       12.50                      52.8                       39.00                   23.70              3.700

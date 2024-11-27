@@ -1,0 +1,11 @@
+   rank all - time rank               name  debut year current club  goals  apps
+0     1               2    francesco totti        1992         roma    230   543
+1     2              11  antonio di natale        2002      udinese    180   368
+2     3              16  alberto gilardino        1999        genoa    164   425
+3     4              53          luca toni        2000       verona    114   258
+4     5              77    antonio cassano        1999        parma     99   334
+5     6              81  giampaolo pazzini        2004        milan     95   275
+6     6              81      mirko vučinić        2000     juventus     95   298
+7     8              97       diego milito        2008        inter     86   145
+8     8              97  sergio pellissier        2002       chievo     86   333
+9    10           n / a             amauri        2000        parma     76   292

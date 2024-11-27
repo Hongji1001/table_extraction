@@ -1,0 +1,13 @@
+      country                         currency    1 euro =     1 usd =                  central bank
+0   argentina             argentine peso (ars)     5.72079     4.34950     central bank of argentina
+1     bolivia         bolivian boliviano (bob)     9.02081     6.86000       central bank of bolivia
+2      brazil             brazilian real (brl)     2.25592     1.71577        central bank of brazil
+3       chile               chilean peso (clp)   635.13400   483.05000         central bank of chile
+4    colombia             colombian peso (cop)  2353.40000  1790.00000          bank of the republic
+5     ecuador                  us dollar (usd)     1.46611     1.00000               federal reserve
+6      guyana            guyanese dollar (gyd)   264.19200   200.95000                bank of guyana
+7    paraguay         paraguayan guaraní (pyg)  4500.00000  5916.27000      central bank of paraguay
+8        peru         peruvian nuevo sol (pen)     3.53004     2.68500  central reserve bank of peru
+9    suriname          surinamese dollar (srd)     4.27296     3.25000      central bank of suriname
+10    uruguay             uruguayan peso (uyu)    25.37970    19.30000       central bank of uruguay
+11  venezuela  venezuelan bolívar fuerte (vef)     5.65462     4.30000     central bank of venezuela

@@ -1,0 +1,6 @@
+                                statue              liberator    country year erected                                     artist
+0        general josé gervasio artigas  josé gervasio artigas    uruguay         1950           juan manuel blanes (1830 - 1901)
+1          equestrian of simón bolívar          simón bolívar  venezuela         1958              felix de weldon (1907 - 2003)
+2  general jose de san martin memorial     josé de san martín  argentina        1970s  augustin - alexandre dumont (1801 - 1884)
+3                   bernardo de gálvez     bernardo de gálvez      spain         1976               juan de ávalos (1911 - 2006)
+4                        benito juarez          benito juárez     mexico         1969                            enrique alciati

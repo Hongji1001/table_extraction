@@ -1,0 +1,32 @@
+    year    men 's singles    women 's singles                   men 's doubles                     women 's doubles                       mixed doubles
+0   1977      victor yusim     chaya grunstein  victor yusim michael schneidman        vivian meirowitz carol silman      michael schneidman dianne levi
+1   1978        nissim duk     chaya grunstein  victor yusim michael schneidman       carol silman prina ben shushan    michael rappaport gila rappaport
+2   1979  yitzhak serrouya         eva unglick  victor yusim michael schneidman                       no competition       michael rappaport eva unglick
+3   1980  yitzhak serrouya         eva unglick      nissim duk yitzhak serrouya         eva unglick irit ben shushan       michael rappaport eva unglick
+4   1981        nissim duk         eva unglick   victor yusim michael rappaport         eva unglick irit ben shushan       michael rappaport eva unglick
+5   1982        nissim duk         aliza moses      nissim duk yitzhak serrouya          aliza moses bruria serrouya        yitzhak serrouya aliza moses
+6   1983        nissim duk         aliza moses      nissim duk yitzhak serrouya          aliza moses bruria serrouya        yitzhak serrouya aliza moses
+7   1984        nissim duk  irit ben - shushan          nissim duk reuven moses          aliza moses bruria serrouya       reuven moses irit ben shushan
+8   1985      reuven moses     bruria serrouya        reuven moses victor yusim                       no competition            reuven moses aliza moses
+9   1986      reuven moses     bruria serrouya          reuven moses amir moses                       no competition                      no competition
+10  1987        amir moses       sigalit moses          reuven moses amir moses                       no competition            amir moses sigalit moses
+11  1988      reuven moses      shirley daniel          reuven moses amir moses                       no competition            reuven moses aliza moses
+12  1989        amir moses      shirley daniel          reuven moses amir moses                       no competition        reuven moses bruria serrouya
+13  1990      reuven moses    natalia sverdlin          reuven moses amir moses                       no competition       reuven moses natalia sverdlin
+14  1991      reuven moses  svetlana zilberman          reuven moses amir moses    svetlana zilberman maybar ben ari    leonid paikin svetlana zilberman
+15  1992        amir moses  svetlana zilberman          reuven moses amir moses     svetlana zilberman sigalit moses     reuven moses svetlana zilberman
+16  1993        amir moses       sigalit moses          reuven moses amir moses            sigalit moses anat ladsky      leonid paikin natalia sverdlin
+17  1994        amir moses  svetlana zilberman          reuven moses amir moses    svetlana zilberman esther koifman     reuven moses svetlana zilberman
+18  1995      leon pugatch  svetlana zilberman          reuven moses amir moses     svetlana zilberman sigalit moses     reuven moses svetlana zilberman
+19  1996      leon pugatch  svetlana zilberman        leon pugatch meni gershon    svetlana zilberman esther koifman     reuven moses svetlana zilberman
+20  1997      leon pugatch  svetlana zilberman         leon pugatch eli raymond    svetlana zilberman shirley daniel     leon pugatch svetlana zilberman
+21  1998    paz ben - sira  svetlana zilberman         leon pugatch eli raymond    svetlana zilberman shirley daniel     leon pugatch svetlana zilberman
+22  1999      leon pugatch  svetlana zilberman         leon pugatch eli raymond    svetlana zilberman shirley daniel     leon pugatch svetlana zilberman
+23  2000      leon pugatch  svetlana zilberman          nir yusim boris kroiter    svetlana zilberman shirley daniel     leon pugatch svetlana zilberman
+24  2001         nir yusim  svetlana zilberman          nir yusim boris kroiter  svetlana zilberman svetlana kaplian     leon pugatch svetlana zilberman
+25  2002       shai geffen  svetlana zilberman     leon pugatch dani schneidman  svetlana zilberman svetlana kaplian  sergey antonyuk svetlana zilberman
+26  2003       shai geffen  svetlana zilberman          nir yusim boris kroitor  svetlana zilberman svetlana kaplian  sergey antonyuk svetlana zilberman
+27  2004         nir yusim  svetlana zilberman          reuven moses amir moses  svetlana zilberman svetlana kaplian  sergey antonyuk svetlana zilberman
+28  2005       shai geffen  svetlana zilberman          nir yusim boris kroitor  svetlana zilberman svetlana kaplian  misha zilberman svetlana zilberman
+29  2006   misha zilberman  svetlana zilberman              nir yusim alex bass                       no competition  misha zilberman svetlana zilberman
+30  2007         nir yusim  svetlana zilberman              nir yusim alex bass     svetlana zilberman oxana shavrov  misha zilberman svetlana zilberman

@@ -1,0 +1,10 @@
+                  player    nationality          position years in toronto school / club team
+0  aleksandar radojeviä‡         serbia            center      1999 - 2000     barton cc (ks)
+1          shawn respert  united states             guard        1997 - 98     michigan state
+2     quentin richardson  united states           forward   2013 - present             depaul
+3        alvin robertson  united states             guard        1995 - 96           arkansas
+4          carlos rogers  united states  forward - center        1995 - 98    tennessee state
+5             roy rogers  united states           forward             1998            alabama
+6             jalen rose  united states   guard - forward        2003 - 06           michigan
+7          terrence ross  united states             guard   2012 - present         washington
+8        clifford rozier  united states           forward        1996 - 97         louisville

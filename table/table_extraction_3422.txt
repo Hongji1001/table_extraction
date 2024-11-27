@@ -1,0 +1,16 @@
+                             club            chairman      current manager       team captain       kitmaker          shirt sponsor
+0                  rsc anderlecht  roger vanden stock         ariel jacobs       lucas biglia         adidas     bnp paribas fortis
+1               cercle brugge ksv       frans schotte          bob peeters        denis viane         masita                a d m b
+2                  r charleroi sc         abbas bayat       luka peruzović          rudy riou         masita                    voo
+3                  club brugge kv      pol jonckheere         adrie koster      carl hoefkens           puma                  dexia
+4                       kas eupen     dieter steffens            danny ost  danijel miličević        jartazi                jartazi
+5                        krc genk      herbert houben   franky vercauteren      dániel tőzsér           nike                euphony
+6                        kaa gent       ivan de witte         francky dury        bernd thijs           jako                    vdk
+7          kfc germinal beerschot       jos verhaegen     jacky mathijssen   philippe clement           joma                  quick
+8                     kv kortrijk       jozef allijns  hein vanhaezebrouck    karim belhocine           nike      digipass by vasco
+9                       lierse sk          maged samy        trond sollied      jurgen cavens           jako             wadi degla
+10  ksc lokeren oost - vlaanderen     roger lambrecht           peter maes  killian overmeire         masita  q - team vp lambrecht
+11                    kv mechelen    johan timmermans            marc brys      julien gorius           joma                telenet
+12          k sint - truidense vv    roland duchtelet       guido brepoels      peter delorge          lotto                belisol
+13                 standard liège       reto stiffler  dominique d'onofrio      steven defour  planete rouge            e - lottobe
+14                   kvc westerlo     herman wijnants        jan ceulemans          jef delen         saller         willy naessens

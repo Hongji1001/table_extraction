@@ -1,0 +1,8 @@
+               song  mobiles  northern ireland  northern england  scotland  southern england  wales  total
+0      groovy chick       10                 3                 2         3                 2      3     23
+1     clear the air        5                 5                10         8                 3      4     35
+2   devil in a hood        4                 1                 3         4                 4      1     17
+3        in my life        2                 6                 8         5                 5     10     36
+4  how does it feel        8                 8                 4        10                 8      5     43
+5          the girl        1                 2                 1         1                 6      2     13
+6         about you        3                 4                 6         6                 1      6     26

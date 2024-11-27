@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0        michael schumacher                ferrari    54    1:17:40.646     1
+1                jean alesi     benetton - renault    54        + 2.565     8
+2      giancarlo fisichella       jordan - peugeot    54        + 3.219     6
+3   heinz - harald frentzen     williams - renault    54        + 3.768     4
+4            johnny herbert      sauber - petronas    54        + 4.716    13
+5             shinji nakano  prost - mugen - honda    54       + 36.701    19
+6           david coulthard     mclaren - mercedes    54       + 37.753     5
+7               pedro diniz        arrows - yamaha    53        + 1 lap    16
+8                damon hill        arrows - yamaha    53        + 1 lap    15
+9         gianni morbidelli      sauber - petronas    53        + 1 lap    18
+10            olivier panis  prost - mugen - honda    51       accident    10
+11                mika salo         tyrrell - ford    46         engine    17
+12           jos verstappen         tyrrell - ford    42        gearbox    14
+13           alexander wurz     benetton - renault    35   transmission    11
+14       rubens barrichello         stewart - ford    33        gearbox     3
+15             jarno trulli         minardi - hart    32         engine    20
+16          ralf schumacher       jordan - peugeot    14       accident     7
+17            ukyo katayama         minardi - hart     5       throttle    22
+18       jacques villeneuve     williams - renault     1       accident     2
+19           mika hã¤kkinen     mclaren - mercedes     0      collision     9
+20             eddie irvine                ferrari     0      collision    12
+21            jan magnussen         stewart - ford     0       accident    21

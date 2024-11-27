@@ -1,0 +1,9 @@
+             south west dfl  wins  byes  losses  draws  against
+0                  dartmoor    14     0       3      1     1089
+1                tyrendarra    14     0       4      0     1051
+2                 coleraine    13     0       5      0     1250
+3                 heathmere    11     0       7      0     1468
+4                  westerns    10     0       7      1     1401
+5  branxholme - wallacedale     6     0      12      0     1898
+6                  sandford     2     0      16      0     2514
+7                 cavendish     1     0      17      0     2207

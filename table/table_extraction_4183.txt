@@ -1,0 +1,10 @@
+   year       date                        event   days   stages     acts
+0  1980  16 august             monsters of rock  1 day  1 stage  8 bands
+1  1981  22 august             monsters of rock  1 day  1 stage  6 bands
+2  1982  21 august             monsters of rock  1 day  1 stage  6 bands
+3  1983  20 august             monsters of rock  1 day  1 stage  6 bands
+4  1984  18 august             monsters of rock  1 day  1 stage  7 bands
+5  1985  17 august  zz top : rocking the castle  1 day  1 stage  6 bands
+6  1986  16 august             monsters of rock  1 day  1 stage  6 bands
+7  1987  22 august             monsters of rock  1 day  1 stage  6 bands
+8  1988  20 august             monsters of rock  1 day  1 stage  6 bands

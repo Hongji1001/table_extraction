@@ -1,0 +1,36 @@
+                             name   years gender          area         authority  decile  roll
+0           cambridge east school   1 - 6   coed     cambridge             state       9   364
+1           cambridge high school  9 - 15   coed     cambridge             state       9  1449
+2         cambridge middle school  7 - 10   coed     cambridge             state       8   460
+3                cambridge school   1 - 6   coed     cambridge             state       8   299
+4                 goodwood school   1 - 6   coed     cambridge             state       9   313
+5                  hautapu school   1 - 8   coed       hautapu             state      10   215
+6                 horahora school   1 - 8   coed     cambridge             state      10    32
+7                  kaipaki school   1 - 8   coed        ohaupo             state       9    58
+8                 karapiro school   1 - 6   coed      karapiro             state       9    74
+9                 kihikihi school   1 - 6   coed      kihikihi             state       3   135
+10               koromatua school   1 - 8   coed     koromatua             state       6   213
+11              leamington school   1 - 6   coed    leamington             state       7   371
+12        nga purapura o te aroha  1 - 15   coed    te awamutu             state       4    26
+13            ngahinapouri school   1 - 8   coed  ngahinapouri             state      10   161
+14                  ohaupo school   1 - 8   coed        ohaupo             state       9   188
+15               paterangi school   1 - 8   coed     paterangi             state       8    77
+16                 pekerau school   1 - 6   coed    te awamutu             state       4   334
+17                pirongia school   1 - 8   coed      pirongia             state       9   289
+18                  pokuru school   1 - 6   coed        pokuru             state       6   109
+19                  puahue school   1 - 6   coed        puahue             state       7   123
+20                pukeatua school   1 - 8   coed      pukeatua             state       7    68
+21        roto - o - rangi school   1 - 6   coed     cambridge             state       9    97
+22                 rukuhia school   1 - 8   coed        ohaupo             state       9   100
+23    south city christian school   1 - 8   coed      glenview  state integrated       7    99
+24  st patrick 's catholic school   1 - 8   coed    te awamutu  state integrated       7   288
+25    st peter 's catholic school   1 - 8   coed     cambridge  state integrated       9   172
+26             st peter 's school  7 - 15   coed     cambridge           private      10  1091
+27             te awamutu college  9 - 15   coed    te awamutu             state       6  1118
+28        te awamutu intermediate   7 - 8   coed    te awamutu             state       5   460
+29      te awamutu primary school   1 - 6   coed    te awamutu             state       5   492
+30                 te miro school   1 - 8   coed       te miro             state      10    37
+31                 te pahu school   1 - 8   coed       te pahu             state       9   114
+32              tkkm o whakawatea   1 - 8   coed      melville             state       4   122
+33         waipa christian school   1 - 8   coed    te awamutu  state integrated       6    42
+34         wharepapa south school   1 - 8   coed    te awamutu             state       8    26

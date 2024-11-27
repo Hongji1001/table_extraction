@@ -1,0 +1,22 @@
+     res      record             opponent                method                                      event  round  time                                           location
+0    win  14 - 6 - 1        pilao santana         tko (punches)                     shooto brazil - manaus      2  2:00                         manaus , amazonas , brazil
+1   loss  13 - 6 - 1       eduardo dantas          ko (punches)                                bellator 89      2  3:01         charlotte , north carolina , united states
+2    win  13 - 5 - 1        luis nogueira          tko (elbows)                                bellator 73      2  4:20               tunica , mississippi , united states
+3    win  12 - 5 - 1          travis marx  decision (unanimous)                                bellator 68      3  5:00         atlantic city , new jersey , united states
+4    win  11 - 5 - 1              ed west  decision (unanimous)                                bellator 65      3  5:00         atlantic city , new jersey , united states
+5   loss  10 - 5 - 1          alexis vila      decision (split)                                bellator 55      3  5:00                     yuma , arizona , united states
+6    win  10 - 4 - 1          chase beebe      decision (split)                                bellator 51      3  5:00                      canton , ohio , united states
+7   loss   9 - 4 - 1           joe warren  decision (unanimous)                                bellator 41      3  5:00                     yuma , arizona , united states
+8    win   9 - 3 - 1         ryan vaccaro  decision (unanimous)                          ring of combat 33      3  5:00         atlantic city , new jersey , united states
+9    win   8 - 3 - 1         jacob kirwan  decision (unanimous)                          ring of combat 31      3  4:00         atlantic city , new jersey , united states
+10   win   7 - 3 - 1          david derby         tko (punches)  washington combat : battle of the legends      1  1:37  washington , district of columbia , united states
+11  loss   6 - 3 - 1         damacio page          ko (punches)                                     wec 39      1  0:18             corpus christi , texas , united states
+12  draw   6 - 2 - 1       masakatsu ueda                  draw                         shooto tradition 3      3  5:00                                      tokyo , japan
+13  loss       6 - 2         brian bowles            ko (punch)                                     wec 31      2  2:09                 las vegas , nevada , united states
+14   win       6 - 1          kenji osawa   decision (majority)               shooto : back to our roots 3      3  5:00                                      tokyo , japan
+15   win       5 - 1        naoya uematsu  decision (unanimous)              fury fc 1: warlords unleashed      3  5:00                                 sao paulo , brazil
+16   win       4 - 1       fredson paixão  decision (unanimous)                             jungle fight 6      3  5:00                                    manaus , brazil
+17  loss       3 - 1    akitoshi hokazono  decision (unanimous)           shooto : 9 / 23 in korakuen hall      3  5:00                                      tokyo , japan
+18   win       3 - 0          jin akimoto  decision (unanimous)          shooto : 9 / 26 in kourakuen hall      3  5:00                                      tokyo , japan
+19   win       2 - 0  shuichiro katsumura  decision (unanimous)       shooto 2004: 1 / 24 in korakuen hall      3  5:00                                      tokyo , japan
+20   win       1 - 0      masato shiozawa   decision (majority)            shooto : 5 / 4 in korakuen hall      3  5:00                                      tokyo , japan

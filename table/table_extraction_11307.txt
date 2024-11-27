@@ -1,0 +1,6 @@
+                          office     democratic ticket  republican ticket law preservation ticket    socialist ticket socialist labor ticket
+0                       governor  franklin d roosevelt   charles h tuttle        robert p carroll       louis waldman     jeremiah d crowley
+1            lieutenant governor      herbert h lehman     caleb h baumes                  (none)    elizabeth c roth      charles m carlson
+2                    comptroller     morris s tremaine    daniel h conway                  (none)  william h hilsdorf           john e delee
+3               attorney general   john j bennett , jr  isadore bookstein                  (none)      william karlin        august gillhaus
+4  judge of the court of appeals      cuthbert w pound   cuthbert w pound                  (none)   darwin j meserole          belle j rosen

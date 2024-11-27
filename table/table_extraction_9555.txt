@@ -1,0 +1,19 @@
+                   city             state / territory iata  icao                         airport             begin
+0              adelaide               south australia  adl  ypad                adelaide airport   10 january 2008
+1         alice springs            northern territory  asp  ybas           alice springs airport      1 march 2008
+2              brisbane                    queensland  bne  ybbn                brisbane airport     28 march 2010
+3                cairns                    queensland  cns  ybcs                  cairns airport  1 september 2010
+4              canberra  australian capital territory  cbr  yscb  canberra international airport  14 february 2008
+5         coffs harbour               new south wales  cfs  ycfs           coffs harbour airport  15 february 2013
+6                darwin            northern territory  drw  ypdn    darwin international airport   1 december 2007
+7            gold coast                    queensland  ool  ybcg              gold coast airport  23 november 2007
+8                hobart                      tasmania  hba  ymhb    hobart international airport   15 january 2008
+9            launceston                      tasmania  lst  ymlt              launceston airport  29 november 2007
+10               mackay                    queensland  mky  ybmk                  mackay airport  23 november 2007
+11            melbourne                      victoria  mel  ymml               melbourne airport  23 november 2007
+12  melbourne / geelong                      victoria  avv  ymav                  avalon airport  10 november 2010
+13            newcastle               new south wales  ntl  ywlm               newcastle airport   15 january 2008
+14                perth             western australia  per  ypph                   perth airport   1 december 2007
+15          rockhampton                    queensland  rok  ybrk             rockhampton airport  23 november 2007
+16       sunshine coast                    queensland  mcy  ybmc          sunshine coast airport   1 december 2007
+17               sydney               new south wales  syd  yssy                  sydney airport         july 2009

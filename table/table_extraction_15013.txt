@@ -1,0 +1,6 @@
+              player        country year (s) won  total to par
+0        bob charles    new zealand         1963    149    + 5
+1       tom weiskopf  united states         1973    151    + 7
+2        lee trevino  united states  1971 , 1972    152    + 8
+3  ian baker - finch      australia         1991    153    + 9
+4      arnold palmer  united states  1961 , 1962    158   + 14

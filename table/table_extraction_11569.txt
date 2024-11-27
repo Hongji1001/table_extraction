@@ -1,0 +1,12 @@
+          country  gold  silver  bronze  total
+0       indonesia  1602    1413    1395   4410
+1        thailand  1513    1318    1315   4146
+2     philippines   836     971    1191   2998
+3        malaysia   805     772    1067   2644
+4         vietnam   586     540     618   1744
+5       singapore   508     559     841   1906
+6         myanmar   249     410     579   1238
+7            laos    53      60     170    283
+8        cambodia    11      26     104    151
+9          brunei    10      38     120    168
+10  timor - leste     1       1      12     14

@@ -1,0 +1,19 @@
+                        team                                     head coach         team captain         kitmaker        shirt sponsor
+0                 hertha bsc                                   lucien favre       arne friedrich             nike        deutsche bahn
+1          arminia bielefeld                                    jörg berger         rüdiger kauf           saller           krombacher
+2                 vfl bochum                                  marcel koller      marcel maltritz  do you football                  kik
+3           sv werder bremen                                  thomas schaaf        frank baumann            kappa             citibank
+4         fc energie cottbus                                bojan prašnikar            timo rost           saller               enviam
+5          borussia dortmund                                   jürgen klopp       sebastian kehl             nike               evonik
+6        eintracht frankfurt                               friedhelm funkel   ioannis amanatidis             jako              fraport
+7               hamburger sv                                     martin jol        david jarolím           adidas             emirates
+8                hannover 96                                 dieter hecking          robert enke     under armour                  tui
+9        tsg 1899 hoffenheim                                  ralf rangnick          selim teber             puma           tv digital
+10             karlsruher sc                                  edmund becker           maik franz             jako                 enbw
+11                1. fc köln                                 christoph daum   milivoje novakovič           reebok                 rewe
+12       bayer 04 leverkusen                                 bruno labbadia         simon rolfes           adidas             teldafax
+13  borussia mönchengladbach                                     hans meyer          filip daems            lotto              kyocera
+14          fc bayern munich                                jupp heynckes 1      mark van bommel           adidas             t - home
+15             fc schalke 04  mike büskens , youri mulder and oliver reck 2      mladen krstajić           adidas              gazprom
+16             vfb stuttgart                                  markus babbel  thomas hitzlsperger             puma                 enbw
+17             vfl wolfsburg                                   felix magath                josué             nike  ein herz für kinder

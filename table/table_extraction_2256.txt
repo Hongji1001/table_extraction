@@ -1,0 +1,9 @@
+                  candidate (party) amount raised ( php )  amount spent ( php )     votes  spent per vote ( php )  spent per voter ( php )
+0           benigno aquino iii (lp)    440050000 (approx)          4.031200e+08  15208678                   26.51                     7.86
+1              joseph estrada (pmp)      8000000 (approx)          2.275000e+08   9487837                   23.98                     4.44
+2                 manny villar (np)             431557816          4.315578e+08   5573835                   77.43                     8.41
+3  gilberto teodoro (lakas - kampi)              64688.88          3.463307e+06   4095839                    0.85                     0.07
+4                jamby madrigal (i)              55182264          5.518226e+07     46489                 1187.00                     1.08
+5       jejomar binay (pdp - laban)    231480000 (approx)          2.179383e+08  14645574                   14.88                     4.25
+6                    mar roxas (lp)    246000000 (approx)          2.793512e+08  13918490                   20.07                     5.45
+7               loren legarda (npc)                 n / a          2.102800e+08   4294664                   48.96                     4.10

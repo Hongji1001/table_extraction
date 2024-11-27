@@ -1,0 +1,19 @@
+              name  championship  league cup  fa cup  total
+0       kevin kyle            11           0       1     12
+1      robert page            10           0       0     10
+2    michael doyle             8           0       2     10
+3     andrew whing             6           1       0      7
+4    david mcnamee             6           0       0      6
+5      marcus hall             5           0       0      5
+6    leon mckenzie             5           0       0      5
+7         jay tabb             5           0       0      5
+8     elliott ward             5           0       0      5
+9    richard duffy             4           0       0      4
+10  stephen hughes             3           1       0      3
+11    dele adebola             3           0       0      3
+12  isaac osbourne             3           0       0      3
+13  kevin thornton             3           0       0      3
+14      adam virgo             2           0       1      3
+15   colin cameron             1           0       0      1
+16   colin hawkins             1           0       0      1
+17      stern john             1           0       0      1

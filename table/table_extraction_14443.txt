@@ -1,0 +1,17 @@
+                 name position  height  weight       year             home town
+0        cole aldrich   center  6 - 11     245  sophomore      bloomington , mn
+1     tyrone appleton    guard   6 - 3     190     junior       midland , texas
+2     brennan bechard    guard   6 - 0     183     senior         lawrence , ks
+3        chase buford    guard   6 - 3     200  sophomore   san antonio , texas
+4     sherron collins    guard  5 - 11     200     junior          chicago , il
+5    jordan juenemann    guard   6 - 4     195   freshman             hays , ks
+6      matt kleinmann   center  6 - 10     247     senior    overland park , ks
+7        mario little  forward   6 - 5     210     junior         marianna , fl
+8   brady morningstar    guard   6 - 3     185  sophomore         lawrence , ks
+9       marcus morris  forward   6 - 8     230   freshman       pennsauken , nj
+10    markieff morris  forward   6 - 9     220   freshman       pennsauken , nj
+11         tyrel reed    guard   6 - 3     180  sophomore       burlington , ks
+12    travis releford    guard   6 - 5     190   freshman  shawnee mission , ks
+13     tyshawn taylor    guard   6 - 3     160   freshman      jersey city , nj
+14      conner teahan    guard   6 - 5     200  sophomore          leawood , ks
+15   quintrell thomas  forward   6 - 8     225   freshman        elizabeth , nj

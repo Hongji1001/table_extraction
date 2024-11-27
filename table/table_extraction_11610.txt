@@ -1,0 +1,22 @@
+                channel country              type             launched                           description
+0                 boing   italy  free - to - view   november 20 , 2004                           teen / kids
+1                 boing   spain  free - to - view   september 1 , 2010                           teen / kids
+2              canale 5   italy  free - to - view  september 30 , 1980                            generalist
+3            cartoonito   italy  free - to - view     august 22 , 2011                         babies / kids
+4                cuatro   spain  free - to - view    november 7 , 2005                            generalist
+5             cuatro hd   spain  free - to - view      april 26 , 2012                            generalist
+6              divinity   spain  free - to - view       april 1 , 2011                     female - oriented
+7                energy   spain  free - to - view     january 9 , 2012                       male - oriented
+8   factoría de ficción   spain  free - to - view   february 18 , 2008                  series tv and movies
+9                  iris   italy  free - to - view   november 30 , 2007                  series tv and movies
+10             italia 1   italy  free - to - view     january 4 , 1982                            generalist
+11             italia 2   italy  free - to - view        july 4 , 2011                       male - oriented
+12                 la 5   italy  free - to - view        may 12 , 2010                     female - oriented
+13             la nueve   spain  free - to - view     31 december 2012                     female - oriented
+14             la siete   spain  free - to - view   february 18 , 2008                            generalist
+15       mediaset extra   italy  free - to - view   november 26 , 2010  best mediaset 's series tv and shows
+16    mediaset tgcom 24   italy  free - to - view   november 11 , 2011                              all news
+17               rete 4   italy  free - to - view     january 3 , 1982                            generalist
+18            telecinco   spain  free - to - view       april 3 , 1990                            generalist
+19         telecinco hd   spain  free - to - view  september 20 , 2010                            generalist
+20            top crime   italy  free - to - view        june 1 , 2013         crime 's series tv and movies

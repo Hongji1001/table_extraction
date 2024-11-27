@@ -1,0 +1,14 @@
+                      model      year         type engine displacement cc
+0                   type 26      1926   grand prix     i8            1500
+1                  type 26b      1928   grand prix     i8            2000
+2   type v4 sedici cilindri      1929   grand prix    v16            4000
+3                        8c      1929   grand prix     i8  1100 1500 2500
+4                      6 cm      1936   voiturette     i6  1100 1500 2500
+5                       4cl      1939   voiturette     i4            1491
+6                      4clt      1948  formula one     i4            1491
+7                      250f      1953  formula one     i6            2493
+8                      350s      1957   sports car     i6            3500
+9                      450s      1957   sports car     v8            4500
+10         type 61 birdcage      1961   sports car     i4            3000
+11                 tipo 151  19621963   sports car     v8            4941
+12                 tipo 154      1965   sports car     v8          5046.8

@@ -1,0 +1,13 @@
+                          tour      mens singles  womens singles                               mens doubles                  womens doubles                                mixed doubles
+0        malaysia super series     lee chong wei  tine rasmussen                markis kido hendra setiawan           yang wei zhang jiewen                            he hanbin yu yang
+1      korea open super series     lee hyun - il         zhou mi                         fu haifeng cai yun                 du jing yu yang                lee yong - dae lee hyo - jung
+2     all england super series          chen jin  tine rasmussen             jung jae - sung lee yong - dae  lee hyo - jung lee kyung - won                            zheng bo gao ling
+3      swiss open super series           lin dan    xie xingfang             jung jae - sung lee yong - dae           yang wei zhang jiewen                            he hanbin yu yang
+4       singapore super series     lee chong wei  tine rasmussen  zakry abdul latif fairuzizuan mohd tazari                 du jing yu yang                 nova widianto lilyana natsir
+5       indonesia super series  sony dwi kuncoro         zhu lin  zakry abdul latif fairuzizuan mohd tazari     vita marissa lilyana natsir                            zheng bo gao ling
+6           japan super series  sony dwi kuncoro      wang yihan                lars paaske jonas rasmussen           cheng shu zhao yunlei                  muhammad rizal vita marissa
+7   china masters super series  sony dwi kuncoro         zhou mi                markis kido hendra setiawan           cheng shu zhao yunlei                      xie zhongbo zhang yawen
+8         denmark super series        peter gade        wang lin                markis kido hendra setiawan       wong pei tty chin eei hui  joachim fischer nielsen christinna pedersen
+9          french super series        peter gade        wang lin                markis kido hendra setiawan                 du jing yu yang                            he hanbin yu yang
+10     china open super series           lin dan   jiang yanjiao             jung jae - sung lee yong - dae       zhang yawen zhao tingting                lee yong - dae lee hyo - jung
+11      hong kong super series          chen jin       wang chen             jung jae - sung lee yong - dae       zhang yawen zhao tingting                      xie zhongbo zhang yawen

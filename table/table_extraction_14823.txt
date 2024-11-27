@@ -1,0 +1,8 @@
+   year   time  windspeed          city          date
+0  2004  10.56        2.0  spanish town       june 12
+1  2005  10.69        0.5      kingston       june 24
+2  2006  10.20        1.6  spanish town        june 4
+3  2007  10.11        1.0      kingston       june 23
+4  2008   9.98        0.2      lausanne   september 2
+5  2009   9.91        2.0      shanghai  september 20
+6  2010   9.78        0.9         rieti     august 29

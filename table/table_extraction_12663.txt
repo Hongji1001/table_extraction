@@ -1,0 +1,17 @@
+     region                           host                                       venue             city           state
+0      east        old dominion university          old dominion university fieldhouse          norfolk        virginia
+1      east         university of virginia    university hall (university of virginia)  charlottesville        virginia
+2      east        university of tennessee                     thompson - boling arena        knoxville       tennessee
+3      east           university of kansas                           allen field house         lawrence          kansas
+4   mideast             university of iowa                         carverhawkeye arena        iowa city         indiana
+5   mideast      university of connecticut                     harry a gampel pavilion           storrs     connecticut
+6   mideast          vanderbilt university  memorial gymnasium (vanderbilt university)        nashville       tennessee
+7   mideast                duke university                      cameron indoor stadium           durham  north carolina
+8   midwest          university of georgia        georgia coliseum (stegeman coliseum)           athens         georgia
+9   midwest      louisiana tech university                      thomas assembly center           ruston       louisiana
+10  midwest             clemson university                         littlejohn coliseum          clemson  south carolina
+11  midwest          texas tech university                  lubbock municipal coliseum          lubbock           texas
+12     west  pennsylvania state university              recreation building (rec hall)  university park    pennsylvania
+13     west         university of colorado      cu events center (coors events center)          boulder        colorado
+14     west            stanford university                             maples pavilion         stanford      california
+15     west          university of alabama                            coleman coliseum       tuscaloosa         alabama

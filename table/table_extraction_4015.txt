@@ -1,0 +1,6 @@
+   place                            title units sold in japan units sold in the uk units sold in the us  total units sold
+0      1                    madden nfl 09                1000                35000              2958000           2994000
+1      2                          wii fit              346000               460000              1283000           2089000
+2      3  star wars : the force unleashed                   -               321000              1417000           1738000
+3      4                 pokémon platinum             1482000                    -                    -           1482000
+4      5                   mario kart wii              218000               394000               856000           1468000

@@ -1,0 +1,13 @@
+    draw                      artist                      song  points  place
+0      1          nico & vlad mirita    pe - o margine de lume     284      1
+1      2                       inesa   la storia della pioggia      89     11
+2      3               adrian enache                 te iubesc     114      8
+3      4            lagaylia frazier           dr frankenstein     174      5
+4      5    new effect feat gentiana                    zamira     119      7
+5      6                     tabasco        love is all i need     170      6
+6      7               cătălin josan      when we 're together     217      3
+7      8               daniela nicol                       why     112     10
+8      9                        yana              c'est la vie     113      9
+9     10        leo iorga & pacifica  prea mici sunt cuvintele     206      4
+10    11  ana mardare & irvin doomes                    heaven      87     12
+11    12                  simona nae           the key of life     229      2

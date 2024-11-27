@@ -1,0 +1,27 @@
+                  driver               constructor  laps time / retired  grid
+0            alain prost        williams - renault    45    1:18:40.885     1
+1     michael schumacher           benetton - ford    45       + 16.664     3
+2          mark blundell          ligier - renault    45       + 59.349     5
+3           ayrton senna            mclaren - ford    45     + 1:08.229     4
+4       riccardo patrese           benetton - ford    45     + 1:31.516     7
+5         gerhard berger                   ferrari    45     + 1:34.754     9
+6             jean alesi                   ferrari    45     + 1:35.841    10
+7         martin brundle          ligier - renault    44        + 1 lap     6
+8        karl wendlinger                    sauber    44        + 1 lap    14
+9         johnny herbert              lotus - ford    44        + 1 lap    13
+10  christian fittipaldi            minardi - ford    44        + 1 lap    20
+11       philippe alliot   larrousse - lamborghini    44        + 1 lap    23
+12       thierry boutsen             jordan - hart    44        + 1 lap    24
+13     pierluigi martini            minardi - ford    44        + 1 lap    22
+14            damon hill        williams - renault    43           tyre     2
+15      michele alboreto            lola - ferrari    43       + 2 laps    26
+16         derek warwick  footwork - mugen - honda    42       + 3 laps    11
+17    rubens barrichello             jordan - hart    34  wheel bearing    17
+18         ukyo katayama          tyrrell - yamaha    28      halfshaft    21
+19              jj lehto                    sauber    22       spun off    18
+20    alessandro zanardi              lotus - ford    19       spun off    15
+21          aguri suzuki  footwork - mugen - honda     9      collision     8
+22      michael andretti            mclaren - ford     4      collision    12
+23           luca badoer            lola - ferrari     4     suspension    25
+24     andrea de cesaris          tyrrell - yamaha     1        gearbox    19
+25           ã‰rik comas   larrousse - lamborghini     0        gearbox    16

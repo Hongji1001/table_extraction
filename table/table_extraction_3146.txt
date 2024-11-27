@@ -1,0 +1,35 @@
+                          road race       distance             location               country month held
+0     xiamen international marathon       marathon               xiamen                 china    january
+1                    dubai marathon       marathon                dubai  united arab emirates    january
+2                 world 's best 10k          10 km             san juan           puerto rico   february
+3                    tokyo marathon       marathon                tokyo                 japan   february
+4        roma - ostia half marathon  half marathon                 rome                 italy      march
+5                lake biwa marathon       marathon                 otsu                 japan      march
+6          nagoya women 's marathon       marathon               nagoya                 japan      march
+7                     rome marathon       marathon                 rome                 italy      march
+8      seoul international marathon       marathon                seoul           south korea      march
+9              lisbon half marathon  half marathon               lisbon              portugal      march
+10             prague half marathon  half marathon               prague        czech republic      april
+11                   paris marathon       marathon                paris                france      april
+12             vienna city marathon       marathon               vienna               austria      april
+13               rotterdam marathon       marathon            rotterdam           netherlands      april
+14                  boston marathon       marathon               boston         united states      april
+15                  london marathon       marathon               london        united kingdom      april
+16  yangzhou jianzhen half marathon  half marathon             yangzhou                 china      april
+17                 hamburg marathon       marathon              hamburg               germany      april
+18                  prague marathon       marathon               prague        czech republic        may
+19             great manchester run            10k           manchester        united kingdom        may
+20              giro di castelbuono          10 km          castelbuono                 italy       july
+21             bogotá half marathon  half marathon               bogota              colombia       july
+22                  great north run  half marathon  newcastle upon tyne        united kingdom  september
+23              bogotá women 's 12k          12 km               bogotá              colombia  september
+24                  berlin marathon       marathon               berlin               germany  september
+25           portugal half marathon  half marathon               lisbon              portugal    october
+26                 chicago marathon       marathon              chicago         united states    october
+27                 beijing marathon       marathon              beijing                 china    october
+28               amsterdam marathon       marathon            amsterdam           netherlands    october
+29                  great south run       10 miles           portsmouth        united kingdom    october
+30               frankfurt marathon       marathon    frankfurt am main               germany    october
+31                istanbul marathon       marathon             istanbul                turkey   november
+32                 fukuoka marathon       marathon              fukuoka                 japan   december
+33               singapore marathon       marathon            singapore             singapore   december

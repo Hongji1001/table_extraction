@@ -1,0 +1,13 @@
+                   name height weight    spike              2008 club
+0           paola croce      m      -  cm (in)         volley bergamo
+1         nadia centoni      m      -  cm (in)              rc cannes
+2        martina guiggi      m      -  cm (in)       scavolini pesaro
+3         jenny barazza      m      -  cm (in)         volley bergamo
+4        manuela secolo      m      -  cm (in)          famila chieri
+5        paola cardullo      m      -  cm (in)         asystel novara
+6       serena ortolani      m      -  cm (in)  yamamay busto arsizio
+7   francesca piccinini      m      -  cm (in)         volley bergamo
+8    francesca ferretti      m      -  cm (in)       scavolini pesaro
+9    eleonora lo bianco      m      -  cm (in)         volley bergamo
+10      taismary agüero      m      -  cm (in)    türk telekom ankara
+11         simona gioli      m      -  cm (in)   despar sirio perugia

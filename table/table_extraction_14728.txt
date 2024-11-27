@@ -1,0 +1,6 @@
+   nat       name         moving to        type transfer window
+0  per      rivas     górnik zabrze    transfer          winter
+1  per   v zapata  alianza atlético    transfer          winter
+2  per  tragodara   atlético minero  loaned out          winter
+3  per     correa            melgar  loaned out          winter
+4  per     curiel  alianza atlético    transfer          winter

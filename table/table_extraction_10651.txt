@@ -1,0 +1,12 @@
+    round  pick  overall                name          position          college
+0       1    21       21       reggie nelson            safety          florida
+1       2    16       48       justin durant        linebacker          hampton
+2       3    15       79  mike sims - walker     wide receiver  central florida
+3       4     2      101        adam podlesh            punter         maryland
+4       4    14      113         brian smith     defensive end         missouri
+5       5    12      149        uche nwaneri             guard           purdue
+6       5    13      150         josh gattis            safety      wake forest
+7       5    29      166        derek landri  defensive tackle       notre dame
+8       7    19      229      john broussard     wide receiver   san jose state
+9       7    41      251          chad nkang    defensive back             elon
+10      7    42      252     andrew carnahan  offensive tackle    arizona state

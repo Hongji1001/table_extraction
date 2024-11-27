@@ -1,0 +1,8 @@
+           name country                status         moving to transfer window            transfer fee
+0           gio     ned  contract termination         feyenoord          summer                    free
+1       saviola     arg  contract termination        realmadrid          summer                    free
+2         giuly     fra              transfer              roma          summer                   3.2 m
+3         rubén     esp                  loan  racing de ferrol          summer                   n / a
+4    maxi lópez     arg              transfer         fc moscow          summer                     2 m
+5      belletti     bra              transfer           chelsea          summer                   5.5 m
+6  thiago motta     bra              transfer    atléticomadrid          summer  1 m + 2 m in variables

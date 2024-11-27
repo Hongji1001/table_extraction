@@ -1,0 +1,16 @@
+                                club       nickname       years in competition  no of premierships                                premiership years
+0                          ardlethan          stars                1987 - 2003                   0                                             none
+1               ariah park - mirrool  brown bombers                1991 - 2003                   0                                             none
+2                    barellan united      two blues                1983 - 1992                   1                                             1987
+3                        boree creek       creekers                       1982                   0                                             none
+4   collingullie - ashmont - kapooka         demons  1982 - 1994 , 1998 - 2010                   8  1982 , 1984 , 1999 , 2002 - 03 , 2008 - 09 - 10
+5                        cootamundra          blues                1982 - 2003                   0                                             none
+6                              junee       bulldogs                       1987                   0                                             none
+7                    junee - kapooka       bulldogs                1982 - 1986                   0                                             none
+8     mangoplah - cookardinia united        goannas                1982 - 1994                   5                     1985 , 1988 - 89 - 90 , 1993
+9         royal australian air force           cats                1982 - 1996                   0                                             none
+10             south wagga - tolland           dons                1982 - 1997                   0                                             none
+11                        uranquinty       rosellas                1985 - 1986                   0                                             none
+12              uranquinty - kapooka       rosellas                1987 - 1998                   0                                             none
+13                           whitton         tigers                1982 - 1990                   0                                             none
+14                   whitton - yanco         tigers                1991 - 1994                   0                                             none

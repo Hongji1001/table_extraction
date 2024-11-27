@@ -1,0 +1,8 @@
+                  species    indole methyl red voges - proskauer   citrate
+0        escherichia coli  positive   positive          negative  negative
+1            shigella spp  negative   positive          negative  negative
+2          salmonella spp  negative   positive          negative  positive
+3          klebsiella spp  negative   negative          positive  positive
+4        proteus vulgaris  positive   positive          negative  negative
+5       proteus mirabilis  negative   positive          negative  positive
+6  enterobacter aerogenes  negative   negative          positive  positive

@@ -1,0 +1,11 @@
+                name           years  mls cup  us open cup  concacaf  other  total
+0         brad davis  2006 - present        3            1         1      2     22
+1  dwayne de rosario  2006 - present        4            1         1      0     17
+2       brian mullan  2006 - present        3            0         0      0     11
+3        brian ching  2006 - present        1            0         1      0      9
+4      stuart holden  2006 - present        0            0         0      0      8
+5      ricardo clark  2006 - present        1            0         0      0      8
+6  richard mulrooney  2007 - present        1            0         0      0      7
+7   alejandro moreno            2006        1            0         0      0      7
+8     eddie robinson  2006 - present        1            0         0      0      6
+9         corey ashe  2006 - present        0            0         1      0      6

@@ -1,0 +1,27 @@
+    year         mlb club   record   finish                                       manager
+0   1987             none  26 - 50      8th  derrel thomas (9 - 29) mal fichman (17 - 21)
+1   1988             none  30 - 46      7th                                   mal fichman
+2   1989             none  35 - 40      5th                                   mal fichman
+3   1990  angels (11 yrs)  53 - 23      1st                                  tom kotchman
+4   1991  angels (11 yrs)  50 - 26      1st                                  tom kotchman
+5   1992  angels (11 yrs)  40 - 36      3rd                                  tom kotchman
+6   1993  angels (11 yrs)  41 - 35      3rd                                  tom kotchman
+7   1994  angels (11 yrs)  44 - 32      2nd                                  tom kotchman
+8   1995  angels (11 yrs)  48 - 27      1st                                  tom kotchman
+9   1996  angels (11 yrs)  43 - 33      2nd                                  tom kotchman
+10  1997  angels (11 yrs)  51 - 25      1st                                  tom kotchman
+11  1998  angels (11 yrs)  47 - 29  1st (t)                                  tom kotchman
+12  1999  angels (11 yrs)  43 - 33      2nd                                  tom kotchman
+13  2000  angels (11 yrs)  41 - 35  1st (t)                                  tom kotchman
+14  2001    cubs (12 yrs)  52 - 23      1st                               steve mcfarland
+15  2002    cubs (12 yrs)  49 - 27      1st                               steve mcfarland
+16  2003    cubs (12 yrs)  27 - 49      8th                               steve mcfarland
+17  2004    cubs (12 yrs)  42 - 34  1st (t)                                    tom beyers
+18  2005    cubs (12 yrs)  34 - 42  6th (t)                                trey forkerway
+19  2006    cubs (12 yrs)  44 - 32      2nd                               steve mcfarland
+20  2007    cubs (12 yrs)  37 - 39  3rd (t)                                    tom beyers
+21  2008    cubs (12 yrs)  43 - 33      2nd                                    tom beyers
+22  2009    cubs (12 yrs)  34 - 42  6th (t)                                casey kopitzke
+23  2010    cubs (12 yrs)  34 - 42      5th                                    jody davis
+24  2011    cubs (12 yrs)  36 - 40      5th                                  mark johnson
+25  2012    cubs (12 yrs)  37 - 39      4th                                  mark johnson

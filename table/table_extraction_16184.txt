@@ -1,0 +1,30 @@
+                                              event            date                                location       winning skip         runner - up skip
+0                          bdo galt curling classic    sept 17 - 23                     cambridge , ontario      julie reddick          colleen madonia
+1                             radisson sas oslo cup    sept 20 - 23                           oslo , norway     jennifer jones          sherry anderson
+2               amj campbell shorty jenkins classic    sept 20 - 23                    brockville , ontario   debbie mccormick              ève bélisle
+3                boston pizza september shoot - out    sept 21 - 23                      edmonton , alberta        wang bingyu            glenys bakker
+4                  twin anchors houseboat cashspiel    sept 27 - 30               vernon , british columbia     heather rankin        shannon kleibrink
+5                      trail appliances autumn gold       oct 5 - 9                       calgary , alberta     jennifer jones        shannon kleibrink
+6                            women 's masters basel     oct 12 - 14                     basel , switzerland     anette norberg             edith loudon
+7               meyers norris penny charity classic     oct 12 - 15                  medicine hat , alberta         moe meguro            carly quigley
+8   southwestern ontario women 's charity cashspiel     oct 12 - 15                        london , ontario       rachel homan              ève bélisle
+9                   coupe quebec la cage aux sports     oct 18 - 21                         quebec , quebec        ève bélisle       veronique brassard
+10                      casinos of winnipeg classic     oct 19 - 22                     winnipeg , manitoba  shannon kleibrink           jennifer jones
+11                          zurich women 's masters     oct 19 - 21                    zurich , switzerland       irene schori  binia feltscher - beeli
+12                         strauss crown of curling     oct 19 - 22             kamloops , british columbia        kelly scott            marla mallett
+13                   colonial square ladies classic     oct 26 - 29                saskatoon , saskatchewan    stefanie lawton               cathy king
+14                             stockholm ladies cup       nov 1 - 4                      stockholm , sweden     anette norberg          anna hasselborg
+15                         red deer curling classic       nov 1 - 4                      red deer , alberta     jennifer jones            kristie moore
+16          royal lepage ovca women 's fall classic       nov 2 - 4                        ottawa , ontario         jenn hanna             tracy samaan
+17                                duluth cash spiel      nov 9 - 12                      duluth , minnesota         patti lank            patti burtnyk
+18             wayden transportation ladies classic     nov 16 - 19           abbotsford , british columbia        kelly scott          stefanie lawton
+19                            sun life invitational     nov 16 - 19                     brantford , ontario     julie hastings        krista mccarville
+20                       interlake pharmacy classic     nov 22 - 26                    stonewall , manitoba       joelle brown             barb spencer
+21                  cuets schmirler charity classic     nov 23 - 26                   regina , saskatchewan      jolene mcivor          michelle englot
+22             international zo women 's tournament     nov 23 - 25                  wetzikon , switzerland         mirjam ott       ludmila privivkova
+23                                      sobeys slam  nov 29 - dec 2               new glasgow , nova scotia    sherry middaugh  marie - france larouche
+24                            boundary ford classic  nov 30 - dec 3                  lloydminster , alberta         faye white          chana martineau
+25  diversified transportation canada cup qualifier     dec 12 - 16                      edmonton , alberta     cheryl bernard          sherry middaugh
+26                 international ladies bernese cup     jan 11 - 13                      bern , switzerland        kelly scott               kelly wood
+27                    braehead ladies international     jan 18 - 20                      glasgow , scotland         gail munro               kelly wood
+28                     tylenol players championship     apr 15 - 20  st john 's , newfoundland and labrador      amber holland        krista mccarville

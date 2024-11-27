@@ -1,0 +1,20 @@
+               artist        country          number - one single (s)  year  weeks at 1 straight to 1 
+0                paco       viet nam               amor de mis amores  1988           5             no
+1     pagny , florent         france                   n'importe quoi  1988           8             no
+2     pagny , florent         france                     savoir aimer  1997           9             no
+3     pagny , florent         france             ma liberté de penser  2003           6             no
+4              pakito         france                  living on video  2004           4             no
+5   paradis , vanessa         france                      joe le taxi  1987          11             no
+6     parker jr , ray  united states                     ghostbusters  1984           5             no
+7       parker , tony         france                    balance - toi  2007           1            yes
+8               passi         france         laisse parler les gens 1  2003           3             no
+9      patti , guesch         france                          étienne  1987           5             no
+10             pep 's         france                          liberta  2009           2            yes
+11     peter & sloane         france    besoin de rien , envie de toi  1984           9             no
+12     pietri , julie         france                   ève lève - toi  1986           1             no
+13             pigloo         france                 le papa pingouin  2006           3             no
+14            pitbull  united states  i know you want me (calle ocho)  2009           8             no
+15         plage , la         france                    coup de boule  2006           3             no
+16           m pokora         france                        dangerous  2008           1            yes
+17            pow wow         france                          le chat  1992           7             no
+18  product g&b , the  united states                    maria maria 1  2000           4             no

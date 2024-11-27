@@ -1,0 +1,12 @@
+                 country tv network (s) series premiere              weekly schedule            status
+0              australia           fox8         unknown             weekdays 2:30 pm  currently airing
+1                belgium            2be         unknown              mondays 8:00 pm  currently airing
+2                 brazil          trutv         unknown           saturdays 11:00 pm  currently airing
+3                estonia       kanal 12         unknown                     weekends  currently airing
+4                 greece        skai tv         unknown             weekends 3:00 pm  currently airing
+5                  india      axn india    season 5 & 6  monday to thursday 11:00 pm  currently airing
+6                  italy     sky italia         unknown                      unknown  currently airing
+7                 norway       viasat 4         unknown              fridays 8:35 pm  currently airing
+8               pakistan            axn         unknown                      unknown  currently airing
+9                 poland    polsat play    season 3 & 4            every day 7:00 pm  currently airing
+10  united arab emirates     mbc action         unknown             thursday 4:00 pm  currently airing

@@ -1,0 +1,23 @@
+                   team                      manager           captain                               kit manufacturer                       shirt sponsor
+0               arsenal                george graham        tony adams                                         adidas                                 jvc
+1           aston villa                 ron atkinson  kevin richardson                                          umbro                        mita copiers
+2      blackburn rovers               kenny dalglish      tim sherwood                                          asics                     mcewan 's lager
+3               chelsea                   david webb     andy townsend                                          umbro             commodore international
+4         coventry city                  bobby gould     brian borrows                                         ribero                             peugeot
+5        crystal palace                steve coppell      geoff thomas  bukta (until december) ribero (from december)                  tulip computers nv
+6               everton               howard kendall       dave watson                                          umbro                                 nec
+7          ipswich town                   john lyall         john wark                                          umbro                              fisons
+8          leeds united             howard wilkinson   gordon strachan                                        admiral                             admiral
+9             liverpool               graeme souness       mark wright                                         adidas                     carlsberg group
+10      manchester city                   peter reid      terry phelan                                          umbro                  brother industries
+11    manchester united                alex ferguson      bryan robson                                          umbro                               sharp
+12        middlesbrough              lennie lawrence    alan kernaghan                                        admiral        imperial chemical industries
+13         norwich city                  mike walker        bryan gunn                                         ribero            norwich and peterborough
+14    nottingham forest                 brian clough     stuart pearce                                          umbro  shipstones (home) , labatts (away)
+15      oldham athletic                    joe royle     mike milligan                                          umbro                           jd sports
+16                  qpr                gerry francis    david bardsley                                 brooks running                          classic fm
+17     sheffield united                 dave bassett       brian gayle                                          umbro                               laver
+18  sheffield wednesday               trevor francis     nigel pearson                                          umbro                           sanderson
+19          southampton                 ian branfoot   matt le tissier                                        admiral                        draper tools
+20    tottenham hotspur  doug livermore ray clemence      gary mabbutt                                          umbro                             holsten
+21            wimbledon                  joe kinnear       john scales                                        admiral                          no sponsor

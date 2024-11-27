@@ -1,0 +1,9 @@
+              player  touchdowns  extra points  field goals  points
+0  albert herrnstein           3             0            0      15
+1       william cole           2             5            0      15
+2      willie heston           2             0            0      10
+3     james lawrence           2             0            0      10
+4        joe maddock           1             0            0       5
+5    everett sweeley           0             3            0       3
+6         paul jones           1             0            0       5
+7              total          11             8            1      63

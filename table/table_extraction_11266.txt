@@ -1,0 +1,6 @@
+         team  tries for  tries against try diff  points for  points against points diff
+0       brive         13              8        5         106              65          41
+1  harlequins         20              8       12         131              95          36
+2       neath         10             16      - 6          83             109        - 26
+3      ulster          6             10      - 4          75              87        - 12
+4   caledonia         13             20      - 7         117             156        - 39

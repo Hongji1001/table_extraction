@@ -1,0 +1,17 @@
+                        name  number                          from  length (km)  length (mi)
+0             alaska highway       1      towards fort nelson , bc       957.15       594.75
+1     south klondike highway       2          towards skagway , ak       133.70        83.10
+2     north klondike highway       2   north of whitehorse (hwy 1)       524.00       326.00
+3                haines road       3           towards haines , ak       175.00       108.70
+4    robert campbell highway       4           watson lake (hwy 1)       583.00       362.00
+5           dempster highway       5            flat creek (hwy 2)       465.00       289.00
+6           south canol road       6   johnson 's crossing (hwy 6)       219.10       136.10
+7           north canol road       6            ross river (hwy 4)       234.70       145.80
+8                 atlin road       7        jake 's corner (hwy 8)        42.40        26.30
+9                tagish road       8        jake 's corner (hwy 1)        54.00        34.00
+10  top of the world highway       9           dawson city (hwy 2)       105.00        65.00
+11        nahanni range road      10  north of watson lake (hwy 4)       134.00        83.00
+12              silver trail      11      stewart crossing (hwy 2)       110.00        68.00
+13  takhini hot springs road      14   north of whitehorse (hwy 2)         9.20         5.70
+14             mitchell road      15         south of faro (hwy 4)        10.80         6.70
+15           cassiar highway      37   west of watson lake (hwy 1)         3.40         2.10

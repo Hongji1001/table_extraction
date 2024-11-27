@@ -1,0 +1,6 @@
+                   teams               name           trophy  first met games played series record
+0     columbia - cornell  empire state bowl       empire cup       1889     98 games   35 - 60 - 3
+1         cornell - penn               none   trustee 's cup       1893    118 games   45 - 68 - 5
+2  dartmouth - princeton               none  sawhorse dollar       1897     90 games   43 - 43 - 4
+3         harvard - yale           the game             none       1875    129 games   56 - 65 - 8
+4       princeton - yale               none             none       1873    134 games  50 - 74 - 10

@@ -1,0 +1,20 @@
+             driver       constructor  laps time / retired  grid
+0         jim clark    lotus - climax    32      2:23:34.8     2
+1    jackie stewart               brm    32    + 44.8 secs     3
+2     bruce mclaren   cooper - climax    31        + 1 lap     9
+3      jack brabham  brabham - climax    31        + 1 lap    10
+4       graham hill               brm    31        + 1 lap     1
+5    richie ginther             honda    31        + 1 lap     4
+6       mike spence    lotus - climax    31        + 1 lap    12
+7        jo siffert     brabham - brm    31        + 1 lap     8
+8   lorenzo bandini           ferrari    30       + 2 laps    15
+9        dan gurney  brabham - climax    30       + 2 laps     5
+10     jochen rindt   cooper - climax    29       + 3 laps    14
+11   lucien bianchi               brm    29       + 3 laps    17
+12    innes ireland       lotus - brm    27       + 5 laps    16
+13  richard attwood       lotus - brm    26       accident    13
+14   masten gregory               brm    12      fuel pump    20
+15       jo bonnier  brabham - climax     9       ignition     7
+16   ronnie bucknum             honda     9        gearbox    11
+17     john surtees           ferrari     5         engine     6
+18    frank gardner     brabham - brm     3       ignition    19

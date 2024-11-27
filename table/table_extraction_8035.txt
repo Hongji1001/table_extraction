@@ -1,0 +1,10 @@
+   year           entrant               chassis             engine  points
+0  1950   peter whitehead           ferrari 125        ferrari v12       4
+1  1950  scuderia ferrari           ferrari 125        ferrari v12       4
+2  1951   peter whitehead           ferrari 125        ferrari v12       0
+3  1951   peter whitehead           ferrari 375        ferrari v12       0
+4  1951    g a vandervell  ferrari 375 thinwall        ferrari v12       0
+5  1952   peter whitehead               alta f2  alta straight - 4       0
+6  1952   peter whitehead           ferrari 125        ferrari v12       0
+7  1953   atlantic stable            cooper t24  alta straight - 4       0
+8  1954   peter whitehead            cooper t24  alta straight - 4       0

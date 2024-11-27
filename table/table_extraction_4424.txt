@@ -1,0 +1,16 @@
+    round  overall            player          position      school / club team
+0       2       40     billy corbett  offensive tackle         johnson c smith
+1       5      118   mark ilgenfritz     defensive end              vanderbilt
+2       6      146   billy pritchett      running back          west texas a&m
+3       7      163       bob herrick     wide receiver                  purdue
+4       7      171    gerry sullivan  offensive tackle                illinois
+5       8      199       eddie brown    defensive back               tennessee
+6       9      224         dan scott             guard              ohio state
+7      10      238      mike puestow     wide receiver      north dakota state
+8      11      274        tom gooden            kicker                 harding
+9      12      302        ron mcneil     defensive end  north carolina central
+10     13      327      mike siefert     defensive end               wisconsin
+11     14      352          bob hunt      running back              heidelberg
+12     15      380    ransom terrell        linebacker                 arizona
+13     16      407  preston anderson    defensive back                    rice
+14     17      430  carlton buchanan  defensive tackle             sw oklahoma

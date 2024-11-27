@@ -1,0 +1,26 @@
+    rank  heat                   name     nationality     time
+0      1     3     svetlana varganova    soviet union  2:29.77
+1      2     3     irena fleissnerová  czechoslovakia  2:32.79
+2      3     4         lina kačiušytė    soviet union  2:33.04
+3      4     2       yuliya bogdanova    soviet union  2:33.45
+4      5     4       susanne nielsson         denmark  2:34.42
+5      6     2           silvia rinka    east germany  2:34.88
+6      7     1          bettina löbel    east germany  2:35.31
+7      8     1          ute geweniger    east germany  2:35.42
+8      9     3  eva - marie håkansson          sweden  2:35.64
+9     10     4        ann - sofi roos          sweden  2:35.99
+10    11     2            debbie rudd   great britain  2:36.32
+11    12     1         margaret kelly   great britain  2:37.67
+12    13     4      tanya dangalakova        bulgaria  2:39.11
+13    14     4             lisa curry       australia  2:39.42
+14    15     4         brigitte prass         romania  2:39.90
+15    16     3            odile bihan          france  2:40.55
+16    17     4     sabrina seminatore           italy  2:41.77
+17    18     2             elke holtz          mexico  2:42.59
+18    19     1       brigitte bosmans         belgium  2:42.87
+19    20     3        catherine bohan         ireland  2:43.30
+20    21     1       annick de susini          france  2:44.03
+21    22     2        gabriella kindl         hungary  2:44.08
+22    23     3           lynne tasker        zimbabwe  2:48.86
+23    24     2          hoàng thị hoà         vietnam  2:55.94
+24    25     1     nicole rajoharison      madagascar  3:12.40

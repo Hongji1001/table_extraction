@@ -1,0 +1,13 @@
+    number                              builder                   type            date                             works number
+0        1              avonside engine company              4 - 4 - 0  september 1870                                      808
+1        2  canadian engine & machinery company              4 - 4 - 0   november 1870                                       83
+2        3  canadian engine & machinery company              4 - 4 - 0   december 1870                                       84
+3        4  canadian engine & machinery company              4 - 4 - 0      early 1871                                       85
+4        5  canadian engine & machinery company              4 - 4 - 0      march 1871                                       86
+5        6  canadian engine & machinery company              4 - 4 - 0        may 1871                                       87
+6        7  canadian engine & machinery company              4 - 4 - 0        may 1871                                       88
+7        8              avonside engine company              4 - 6 - 0   december 1871                                      867
+8        9              avonside engine company  0 - 6 - 6 - 0 fairlie   december 1871                                864 & 865
+9       10              avonside engine company              4 - 6 - 0      early 1873  uncertain but probably one of 931 - 934
+10      11              avonside engine company              4 - 6 - 0            1872  uncertain but probably one of 935 - 939
+11      12              avonside engine company              4 - 6 - 0      early 1873  uncertain but probably one of 935 - 939

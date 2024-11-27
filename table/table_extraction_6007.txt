@@ -1,0 +1,11 @@
+   round  pick          player          position school / club team
+0      2    34  browning nagle       quarterback         louisville
+1      3    63        mo lewis        linebacker            georgia
+2      4    94       mark gunn  defensive tackle         pittsburgh
+3      6   148   blaise bryant      running back         iowa state
+4      7   175      mike riley    defensive back             tulane
+5      8   202    doug parrish    defensive back            memphis
+6      9   234     paul glonek  defensive tackle            arizona
+7     10   261        al baker      running back           kentucky
+8     11   288    rocen keeton        linebacker               ucla
+9     12   315      mark hayes  offensive tackle      arizona state

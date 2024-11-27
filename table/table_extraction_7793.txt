@@ -1,0 +1,14 @@
+                     name   years gender            area authority  decile  roll
+0         amberley school   1 - 8   coed        amberley     state       7   230
+1       amuri area school  1 - 13   coed       culverden     state       8   270
+2       broomfield school   1 - 8   coed        amberley     state       9   114
+3     cheviot area school  1 - 13   coed         cheviot     state       7   170
+4     greta valley school   1 - 8   coed    greta valley     state       9    31
+5   hanmer springs school   1 - 8   coed  hanmer springs     state       9    99
+6         hurunui college  1 - 13   coed        hawarden     state       7   236
+7       leithfield school   1 - 8   coed        amberley     state       8   100
+8            omihi school   1 - 8   coed         hurunui     state       8    29
+9        rotherham school   1 - 6   coed       rotherham     state      10    36
+10           waiau school   1 - 6   coed           waiau     state       6    61
+11         waikari school   1 - 8   coed         waikari     state       4    34
+12         waipara school   1 - 8   coed         waipara     state       6    39

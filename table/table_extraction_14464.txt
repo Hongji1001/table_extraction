@@ -1,0 +1,7 @@
+   year         team / chassis                   engine tyres  pts
+0  1987        ferrari f1 / 87   ferrari tipo 033 v6 tc     g   53
+1  1987        ferrari f1 / 87   ferrari tipo 033 v6 tc     g   53
+2  1987        ferrari f1 / 87   ferrari tipo 033 v6 tc     g   53
+3  1988  ferrari f1 / 87 / 88c  ferrari tipo 033a v6 tc     g   65
+4  1988  ferrari f1 / 87 / 88c  ferrari tipo 033a v6 tc     g   65
+5  1988  ferrari f1 / 87 / 88c  ferrari tipo 033a v6 tc     g   65

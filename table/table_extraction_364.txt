@@ -1,0 +1,24 @@
+                player     nationality  finals win - loss                                 year (s)
+0     billie jean king   united states       6      4 - 2  1968 , 1969 , 1970 , 1972 , 1973 , 1975
+1         jana novotná  czech republic       3      1 - 2                       1993 , 1997 , 1998
+2    lindsay davenport   united states       3      1 - 2                       1999 , 2000 , 2005
+3       margaret court       australia       2      1 - 1                              1970 , 1971
+4    maria sharapova +          russia       2      1 - 1                              2004 , 2011
+5     marion bartoli +          france       2      1 - 1                              2007 , 2013
+6      hana mandlíková  czechoslovakia       2      0 - 2                              1981 , 1986
+7        justine henin         belgium       2      0 - 2                              2001 , 2006
+8   ann haydon - jones  united kingdom       1      1 - 0                                     1969
+9        virginia wade  united kingdom       1      1 - 0                                     1977
+10   conchita martínez           spain       1      1 - 0                                     1994
+11      martina hingis     switzerland       1      1 - 0                                     1997
+12     amélie mauresmo          france       1      1 - 0                                     2006
+13     petra kvitová +  czech republic       1      1 - 0                                     2011
+14  judy tegart dalton       australia       1      0 - 1                                     1968
+15       olga morozova    soviet union       1      0 - 1                                     1974
+16         betty stöve     netherlands       1      0 - 1                                     1977
+17       andrea jaeger   united states       1      0 - 1                                     1983
+18       zina garrison   united states       1      0 - 1                                     1990
+19   gabriela sabatini       argentina       1      0 - 1                                     1991
+20        monica seles      yugoslavia       1      0 - 1                                     1992
+21    nathalie tauziat          france       1      0 - 1                                     1998
+22      vera zvonareva          russia       1      0 - 1                                     2010

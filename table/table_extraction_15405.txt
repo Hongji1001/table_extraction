@@ -1,0 +1,9 @@
+           play        author                       company      base  country
+0       electra     euripides  radu stanca national theatre     sibiu  romania
+1        plutus  aristophanes   cyprus theatre organisation   nicosia   cyprus
+2     the birds  aristophanes  theatro technis karolos koun    athens   greece
+3         medea     euripides              teatro instabile     aosta    italy
+4  the persians     aeschylus             astrã gali teatro     lecce    italy
+5         medea     euripides                semeio theatre    athens   greece
+6          ajax     sophocles                 attis theatre    athens   greece
+7      antigone     sophocles                habima theatre  tel aviv  istrael

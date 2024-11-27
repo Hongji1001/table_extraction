@@ -1,0 +1,22 @@
+       season  div  pos       top scorer (league)                                     head coach
+0        1992  1st    8              tikhonov - 7                                      yulgushov
+1        1993  1st   17        spanderashvili - 8                                      yulgushov
+2        1994  2nd    2               maslov - 32                                      yulgushov
+3        1995  1st   14               maslov - 18                              yulgushov andreev
+4        1996  1st   11               maslov - 23                                        andreev
+5        1997  1st   13           gerasimenko - 8                                        andreev
+6        1998  1st    6              matveev - 14                                        andreev
+7        1999  1st    7            pestryakov - 7                                        andreev
+8        2000  1st   12           kirichenko - 14                                        andreev
+9        2001  1st   12           kirichenko - 13                            balakhnin baidachny
+10       2002  1st   11            baba adamu - 5                            baidachny balakhnin
+11       2003  1st   11                osinov - 7                                      balakhnin
+12       2004  1st   12                 perez - 5                           shevchenko balakhnin
+13       2005  1st   13              buznikin - 8                            stepushkin petrakov
+14       2006  1st   12               osinov - 12                                      balakhnin
+15       2007  1st   16   osinov - 4 kanyenda - 4                                       dolmatov
+16       2008  2nd    1               osinov - 16                                       dolmatov
+17       2009  1st   14  akimov - 6 ahmetovic - 6                                       dolmatov
+18       2010  1st    9                adamov - 8                                       protasov
+19  2011 - 12  1st   13               adamov - 11  protasov lyutyi talalayev balakhnin baidachny
+20  2012 - 13  1st   13               holenda - 6                                        božović

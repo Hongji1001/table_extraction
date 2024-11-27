@@ -1,0 +1,10 @@
+          name country                status          moving to transfer window transfer fee
+0   van bommel     ned              transfer      bayern munich          summer          6 m
+1      larsson     swe  contract termination    helsingborgs if          summer         free
+2         maxi     arg                  loan           mallorca          summer        n / a
+3        damia     esp              transfer              betis          summer          1 m
+4    f navarro     esp              transfer           mallorca          summer          6 m
+5  oscar lopez     esp              transfer              betis          summer        n / a
+6        gabri     esp              transfer               ajax          summer         free
+7        rüstü     tur              transfer         fenerbahçe          summer         free
+8        rodri     esp              transfer  deportivolacoruña          summer         free

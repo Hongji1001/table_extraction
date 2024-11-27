@@ -1,0 +1,24 @@
+                 player                    club  league  fa cup  fa trophy  league cup  total
+0          robbie cooke          kettering town      28       0          0           0     28
+1            efan ekoku                  sutton      25       0          0           0     25
+2            simon read        farnborough town      23       2          0           1     26
+3          ian thompson          merthyr tydfil      21       3          0           0     24
+4        john borthwick              darlington      19       2          0           1     22
+5           mark carter                 runcorn      19       0          2           1     22
+6          mike doherty                 runcorn      18       1          0           0     19
+7             gary bull                  barnet      17       5          0           3     25
+8         andrew clarke                  barnet      17       2          0           0     19
+9          paul furlong                 enfield      17       0          1           1     19
+10          paul gorman         fisher athletic      17       0          0           0     17
+11        terry robbins          welling united      17       2          1           2     22
+12         david webley          merthyr tydfil      17       2          0           0     19
+13           steve burr       macclesfield town      16       3          2           0     21
+14            kim casey  kidderminster harriers      16       0          3           6     25
+15        paul mckinnon                  sutton      16       1          0           3     20
+16            mark west       wycombe wanderers      16       1          1           2     20
+17      martin hanchard      northwich victoria      14       2          0           0     16
+18      mark whitehorse  kidderminster harriers      14       2          3           2     21
+19           david cork              darlington      12       1          3           1     17
+20  colin cowperthwaite                  barrow      12       2          0           1     15
+21          ken mckenna          telford united      12       0          2           0     14
+22       mickey spencer             yeovil town      12       1          1           3     17

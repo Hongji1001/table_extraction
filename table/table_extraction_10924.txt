@@ -1,0 +1,23 @@
+      surname     first                dob bats throws position
+0       brice       tom     24 august 1981    l      l       of
+1   cakebread      josh    25 january 1985    l      r       if
+2   challinor      john    31 january 1975    r      r      rhp
+3   cresswell    jeremy      31 march 1987    r      r       if
+4       fidge    darren   12 november 1974    r      r      rhp
+5      fiebig       tom      24 march 1989    r      r      rhp
+6      galpin     simon    20 october 1980    r      r       of
+7     golotta      josh      27 april 1989    r      r       if
+8       green     tyler        27 may 1984    l      l      lhp
+9    langmann      todd    11 october 1981    r      r  utility
+10     lawson     chris         3 may 1982    r      r      rhp
+11    merrill       taj   11 december 1973    l      l      lhp
+12    mildren      paul         3 may 1984    r      l      lhp
+13       pett   brendan  24 september 1987    r      r        c
+14     redden    daniel   16 february 1984    r      r      rhp
+15        rex  jonathon     10 august 1985    r      r      rhp
+16      ruzic    dushan     5 january 1982    r      r      rhp
+17       tols      josh     6 october 1989    l      l      lhp
+18      welch    stefan     12 august 1988    l      r       if
+19    wigmore       ben    17 january 1982    r      r       if
+20   williams     torey        12 may 1984    r      r        c
+21     wilson    daniel        5 july 1984    l      r  utility

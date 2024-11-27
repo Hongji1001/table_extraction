@@ -1,0 +1,6 @@
+                 club             league  city / town              stadium  capacity
+0    leicester tigers  aviva premiership    leicester         welford road     24000
+1  northampton saints  aviva premiership  northampton  franklin 's gardens     13600
+2  worcester warriors  aviva premiership    worcester      sixways stadium     12068
+3             moseley   rfu championship   birmingham     billesley common      3000
+4          nottingham   rfu championship   nottingham          meadow lane     19588

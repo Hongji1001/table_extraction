@@ -1,0 +1,15 @@
+               date   region                                    label          catalogue       format
+0    8 / nov / 1980       uk                                   bronze            bron531        vinyl
+1    8 / nov / 1980       uk                                   bronze           brong531   gold vinyl
+2    8 / nov / 1980    italy                                   bronze         brol 34531        vinyl
+3    8 / nov / 1980  germany                                   bronze      202 876 - 270        vinyl
+4    8 / nov / 1980       us                                  mercury     srm - 1 - 4011        vinyl
+5              1986       uk                                      gwr              gwlp6        vinyl
+6              1986       uk                           legacy records         llmcd 3013           cd
+7              1988       us                          profile records         pcd - 3243           cd
+8              1988       us                          profile records         pro - 3243        vinyl
+9              1991       uk  castle communications , castle classics          clacd 240           cd
+10             1996       uk                 essential , castle music         esm cd 312           cd
+11             2003    italy                                  earmark              41003    red vinyl
+12  28 / jan / 2003       uk                               silverline            2881339  dvd - audio
+13             2005       us                                sanctuary  06076 - 86408 - 2         2xcd

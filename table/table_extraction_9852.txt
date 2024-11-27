@@ -1,0 +1,8 @@
+           date             city    opponent results type of game
+0      april 18         belgrade      france     1:0     1966 wcq
+1         may 9         belgrade     england     1:1     friendly
+2       june 16    oslo , norway      norway     0:3     1966 wcq
+3   september 4  moscow , russia        ussr     0:0     friendly
+4  september 19       luxembourg  luxembourg     5:2     1966 wcq
+5     october 9   paris , france      france     0:1     1966 wcq
+6    november 7         belgrade      norway     1:1     1966 wcq

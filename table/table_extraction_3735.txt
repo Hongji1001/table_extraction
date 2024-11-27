@@ -1,0 +1,14 @@
+   letters       organization                            nickname   founding date             founding university    type      canadian chapters
+0      αγδ  alpha gamma delta          a g d or alpha gam or gams  1904 - 05 - 30             syracuse university  social  8 active , 2 inactive
+1      αδπ     alpha delta pi                              a d pi  1851 - 05 - 15                wesleyan college  social  3 active , 1 inactive
+2      aεφ  alpha epsilon phi                 a e phi or phisters  1909 - 10 - 24                 barnard college  jewish  1 active , 2 inactive
+3      αοπ   alpha omicron pi              aopi alphas alpha o 's  1897 - 01 - 02                 barnard college  social               8 active
+4       aφ          alpha phi                             a - phi  1872 - 10 - 10             syracuse university  social  6 active , 1 inactive
+5      γφβ     gamma phi beta  gamma phi , g - phi - b or g - phi  1874 - 11 - 11             syracuse university  social  3 active , 2 inactive
+6       δγ        delta gamma                        dg or deegee  1873 - 12 - 25          lewis school for girls  social  3 active , 2 inactive
+7      δδδ  delta delta delta                           tri delta  1888 - 11 - 27               boston university  social  2 active , 2 inactive
+8       δζ         delta zeta                                  dz  1902 - 10 - 24                miami university  social  1 active , 1 inactive
+9      δφε  delta phi epsilon                               dphie  1917 - 03 - 17  new york university law school  social  1 active , 5 inactive
+10     καθ  kappa alpha theta                        theta or kat  1870 - 01 - 27               depauw university  social  4 active , 2 inactive
+11     κκγ  kappa kappa gamma                               kappa  1870 - 10 - 13                monmouth college  social  4 active , 1 inactive
+12     πβφ        pi beta phi                              pi phi  1867 - 04 - 28                monmouth college  social  4 active , 2 inactive

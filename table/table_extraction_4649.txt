@@ -1,0 +1,7 @@
+  fat16 fat32     hpfs iso 9660             ntfs refs
+0   yes    no      yes      yes  yes v1.0 / v1.1   no
+1   yes    no  partial      yes         yes v1.2   no
+2   yes   yes       no      yes         yes v3.0   no
+3   yes   yes       no      yes         yes v3.1   no
+4   yes   yes       no      yes           yes v5   no
+5   yes   yes       no      yes           yes v5  yes

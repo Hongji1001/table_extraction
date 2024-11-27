@@ -1,0 +1,15 @@
+      episode       first aired                 entrepreneur (s)           company or product name  money requested            investing dragon (s)
+0   episode 1   15 october 2007    celia norowzian & ian forshew                  beach break live            50000                     peter jones
+1   episode 1   15 october 2007                     laban roomes  goldgenie (formerly midas touch)            60000                      james caan
+2   episode 2   22 october 2007                         sarah lu                        youdoodoll            35000                  deborah meaden
+3   episode 2   22 october 2007      emmie matthews & ed stevens                     gaming alerts           200000                   theo paphitis
+4   episode 3   29 october 2007                   mark champkins                concentrate design           100000                     peter jones
+5   episode 4   5 november 2007                      max mcmurdo                          reestore            50000  deborah meaden & theo paphitis
+6   episode 4   5 november 2007                  jamie jenkinson                     cush'n 'shade           100000    deborah meaden & peter jones
+7   episode 5  19 november 2007      shane lake and tony charles                   hungryhousecouk           100000   james caan & duncan bannatyne
+8   episode 6  26 november 2007                      ian helmore                       steri spray           145000  deborah meaden & theo paphitis
+9   episode 6  26 november 2007           mark and eleanor davis             caribbean ready meals           100000   james caan & duncan bannatyne
+10  episode 7   3 december 2007                     sammy french                      fit fur life           100000                      james caan
+11  episode 7   3 december 2007  jerry mantalvanos & paul merker                 jpm eco logistics           100000  deborah meaden & theo paphitis
+12  episode 8  11 december 2007                      peter moule             electroexpo , chocbox           150000   duncan bannatyne & james caan
+13  episode 9  18 december 2007       amanda jones & james brown                 red button design            50000                all five dragons

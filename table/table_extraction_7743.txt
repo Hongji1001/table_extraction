@@ -1,0 +1,23 @@
+                               name   years gender          area   authority decile
+0                 birchville school   1 - 6   coed    birchville       state      6
+1            fergusson intermediate   7 - 8   coed      trentham       state      6
+2            fraser crescent school   1 - 6   coed    upper hutt       state      5
+3                heretaunga college  9 - 13   coed    upper hutt       state      6
+4   hutt international boys' school  7 - 13   boys      trentham  integrated     10
+5            maidstone intermediate   7 - 8   coed    upper hutt       state      7
+6                   mangaroa school   1 - 6   coed    upper hutt       state     10
+7                  maoribank school   1 - 6   coed     maoribank       state      4
+8            oxford crescent school   1 - 6   coed    upper hutt       state      6
+9                  pinehaven school   1 - 6   coed     pinehaven       state     10
+10                   plateau school   1 - 6   coed      te marua       state      9
+11    silverstream christian school  1 - 13   coed  silverstream     private  n / a
+12              silverstream school   1 - 6   coed  silverstream       state     10
+13             st brendan 's school   1 - 8   coed    heretaunga  integrated      8
+14              st joseph 's school   1 - 8   coed    upper hutt  integrated      7
+15            st patrick 's college  9 - 13   boys  silverstream  integrated      9
+16                  titiro whakamua       -      -      trentham       state      1
+17               totara park school   1 - 6   coed   totara park       state      7
+18                  trentham school   1 - 6   coed      trentham       state      4
+19               upper hutt college  9 - 15   coed      trentham       state      7
+20        upper hutt primary school   1 - 6   coed    upper hutt       state      6
+21       upper valley middle school  7 - 10   coed    upper hutt     private  n / a

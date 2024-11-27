@@ -1,0 +1,16 @@
+             name                         born  age on mission    mission                   mission dates    service
+0    frank borman      march 14 , 1928 (age85)              40   apollo 8         december 21 - 27 , 1968  air force
+1      jim lovell      march 25 , 1928 (age85)              40   apollo 8         december 21 - 27 , 1968       navy
+2     bill anders    october 17 , 1933 (age80)              35   apollo 8         december 21 - 27 , 1968  air force
+3    tom stafford  september 17 , 1930 (age83)              38  apollo 10              may 18 - 26 , 1969  air force
+4      john young  september 24 , 1930 (age83)              38  apollo 10              may 18 - 26 , 1969       navy
+5   eugene cernan      march 14 , 1934 (age79)              35  apollo 10              may 18 - 26 , 1969       navy
+6    mike collins    october 31 , 1930 (age83)              38  apollo 11             july 16 - 24 , 1969  air force
+7     dick gordon     october 5 , 1929 (age84)              40  apollo 12         november 14 - 24 , 1969       navy
+8      jim lovell      march 25 , 1928 (age85)              42  apollo 13            april 11 - 17 , 1970       navy
+9    jack swigert             august 30 , 1931              38  apollo 13            april 11 - 17 , 1970       nasa
+10     fred haise   november 14 , 1933 (age80)              36  apollo 13            april 11 - 17 , 1970       nasa
+11      stu roosa             august 16 , 1933              37  apollo 14  january 31 - february 9 , 1971  air force
+12      al worden    february 7 , 1932 (age81)              39  apollo 15       july 26 - august 7 , 1971  air force
+13  ken mattingly      march 17 , 1936 (age77)              36  apollo 16            april 16 - 27 , 1972       navy
+14      ron evans           november 10 , 1933              39  apollo 17          december 7 - 19 , 1972       navy

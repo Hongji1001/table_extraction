@@ -1,0 +1,6 @@
+                                 title  year                         developer                         publisher           platform
+0                          homefront 2  2014                         crytek uk                            crytek                tba
+1                   ryse : son of rome  2013                       crytek gmbh                 microsoft studios           xbox one
+2                         star citizen  2014  cloud imperium games corporation  cloud imperium games corporation  microsoft windows
+3     unannounced arkane studios title   tba                    arkane studios                bethesda softworks                tba
+4  unannounced battlecry studios title   tba                 battlecry studios                bethesda softworks                tba

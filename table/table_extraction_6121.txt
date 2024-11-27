@@ -1,0 +1,7 @@
+  tournament          winner        runner - up              score         third place
+0  barcelona  félix mantilla       albert costa      6 - 4 , 6 - 1   magnus gustafsson
+1  são paulo  thomas enqvist  fernando meligeni  7 - 6 (3) , 6 - 3       henri leconte
+2    algarve   greg rusedski      stefan edberg      6 - 3 , 6 - 4   fernando meligeni
+3      paris  thomas enqvist      michael chang  6 - 4 , 7 - 6 (5)       stefan edberg
+4    chengdu  thomas enqvist   goran ivanišević      7 - 5 , 6 - 2  yevgeny kafelnikov
+5     london  patrick rafter      stefan edberg  6 - 7 (5) , 6 - 4                none

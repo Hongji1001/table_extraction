@@ -1,0 +1,11 @@
+   rank            player        years  games  ppg avg  total points
+0     1      carlos yates  1981 - 1985    109     22.2          2420
+1     2     kenny sanders  1985 - 1989    107     20.3          2177
+2     3      george evans  1997 - 2001    116     16.8          1953
+3     4      robert dykes  1987 - 1991    122     13.4          1642
+4     5      ryan pearson  2008 - 2012    129     12.6          1626
+5     6       andre gaddy  1977 - 1982     98     16.0          1568
+6     7          rob rose  1982 - 1986    113     13.8          1565
+7     8       will thomas  2004 - 2008    131     11.9          1564
+8     9  folarin campbell  2004 - 2008    130     11.9          1545
+9    10     rudolph jones  1971 - 1973     59     25.8          1525

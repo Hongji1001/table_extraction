@@ -1,0 +1,9 @@
+                  club               coach           city                        stadium 2007 - 2008 season
+0  kazma sporting club    marinko koljanin    kuwait city  al - sadaqua walsalam stadium                5th
+1               qadsia    mohammed ibrahem    kuwait city    mohammed al - hamad stadium                2nd
+2               kuwait              dragan    kuwait city  al kuwait sports club stadium          champions
+3              salmiya     mihai stoichiţă     al salmiya                 thamir stadium                3rd
+4           al tadamon        rashid budaj      farwaniya              farwaniya stadium                6th
+5                arabi        ahmed khalaf     mansuriyah         sabah al salem stadium                4th
+6            al shabab               goran    al - ahmadi            al - ahmadi stadium           promoted
+7             al naser  maher al - shemari  al farwaniyah          ali al salem al subah                7th

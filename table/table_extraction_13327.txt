@@ -1,0 +1,24 @@
+                name  pld  goals  assists  points  pims
+0   milos melicherik   57     22       56      78    40
+1       lukas smital   59     31       45      76    80
+2     taras foremsky   53     33       37      70    78
+3          rob lamey   60     25       34      59    20
+4         rick plant   55     19       34      53    79
+5       stuart potts   61     10       37      47    43
+6   ollie bronnimann   60     21       18      39    16
+7         paul dixon   57      7       30      37    32
+8       david savage   61     17       19      36   102
+9     vaclav zavoral   46     14       18      32   215
+10       martin bouz   26     12       15      27    32
+11        nick cross   29     13       11      23    74
+12     neil liddiard   58      7       17      24    96
+13         steve lee   56     11       12      23    61
+14       terry miles   50      5       16      21    26
+15        rick skene   52      3       11      14    80
+16     mark williams   30      1        3       4    62
+17        ben austin   61      1        3       4    16
+18      matt hepburn   38      0        2       2     0
+19       callum best   35      0        1       1     0
+20       joe watkins   54      0        1       1     6
+21     andrew sumner    1      0        0       0     0
+22       alex mettam    9      0        0       0     0

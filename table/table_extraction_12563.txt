@@ -1,0 +1,6 @@
+           branding callsign frequency  power        location
+0         dwbl 1242     dwbl  1242 khz  20 kw    metro manila
+1        mellow 947     dwll  94.7 mhz  20 kw    metro manila
+2        mellow 887     dyku  88.7 mhz  10 kw     iloilo city
+3        mellow 957     dxbl  95.7 mhz  10 kw  cagayan de oro
+4  mellow 947 davao     dxll  94.7 mhz  20 kw      davao city

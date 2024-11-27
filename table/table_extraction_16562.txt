@@ -1,0 +1,7 @@
+   rank                      name height  highest floor       city  primary use
+0     1  bahrain financial harbor      -             53     manama   commercial
+1     2                 era tower      -             50  seef area  resedential
+2     3               bahrain wtc      -             50     manama   commercial
+3     4             abraj al lulu      -             50     manama  residential
+4     5           almoayyed tower      -             47       seef   commercial
+5     6  national bank of bahrain      -             27     manama   commercial

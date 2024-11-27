@@ -1,0 +1,21 @@
+                         team                                        stadium  capacity  opened                         city
+0          amsterdam admirals                                amsterdam arena     51859    1996  amsterdam , the netherlands
+1          amsterdam admirals                              olympisch stadion     31600    1928  amsterdam , the netherlands
+2           barcelona dragons                                    mini estadi     15276    1982            barcelona , spain
+3           barcelona dragons                  estadi olímpic lluís companys     56000    1929            barcelona , spain
+4              berlin thunder                                 olympiastadion     76000    1936             berlin , germany
+5              berlin thunder                             f l jahn sportpark     19500    1951             berlin , germany
+6          cologne centurions                            rheinenergiestadion     50374    1923            cologne , germany
+7            frankfurt galaxy  commerzbank - arena waldstadion (1925 - 2005)     52000    1925          frankfurt , germany
+8          hamburg sea devils                                      aol arena     55989    2000            hamburg , germany
+9   london / england monarchs                                    ashton gate     21500    1900            bristol , england
+10  london / england monarchs                              alexander stadium      7600    1976         birmingham , england
+11  london / england monarchs          crystal palace national sports centre     15500    1964             london , england
+12  london / england monarchs                                stamford bridge     42449    1877             london , england
+13  london / england monarchs                                white hart lane     36240    1899             london , england
+14  london / england monarchs                                wembley stadium     80000    1923             london , england
+15                 rhein fire                                      ltu arena     51500    2004         düsseldorf , germany
+16                 rhein fire                               arena aufschalke     61524    2001      gelsenkirchen , germany
+17                 rhein fire                                   rheinstadion     55900    1926         düsseldorf , germany
+18         scottish claymores                                   hampden park     52500    1903           glasgow , scotland
+19         scottish claymores                            murrayfield stadium     67500    1925         edinburgh , scotland

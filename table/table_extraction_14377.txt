@@ -1,0 +1,6 @@
+                     team                opponent    score                    venue     round
+0        brisbane broncos        penrith panthers  58 - 24          suncorp stadium  round 23
+1            wests tigers         cronulla sharks  56 - 10           toyota stadium  round 23
+2        canberra raiders        brisbane broncos   56 - 0         canberra stadium  round 21
+3            wests tigers  south sydney rabbitohs  54 - 20              anz stadium  round 17
+4  south sydney rabbitohs         sydney roosters  52 - 12  sydney football stadium   round 1

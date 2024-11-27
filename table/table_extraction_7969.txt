@@ -1,0 +1,11 @@
+                nation  gold  silver  bronze  total
+0  united states (usa)     9      10       4     23
+1         brazil (bra)     7       2       7     16
+2         canada (can)     4       2       3      9
+3      venezuela (ven)     3       0       1      4
+4    puerto rico (pur)     2       0       3      5
+5       colombia (col)     0       3       0      3
+6           cuba (cub)     0       3       0      3
+7         mexico (mex)     0       2       5      7
+8          chile (chi)     0       1       1      2
+9                total    25      23      24     72

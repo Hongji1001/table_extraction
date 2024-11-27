@@ -1,0 +1,15 @@
+             player    nationality          position years in orlando school / club team
+0       matt barnes  united states   guard - forward      2009 - 2010               ucla
+1     andre barrett  united states             guard             2005         seton hall
+2      brandon bass  united states           forward      2009 - 2011    louisiana state
+3       tony battie  united states  forward - center      2004 - 2009         texas tech
+4      david benoit  united states           forward             1998            alabama
+5      keith bogans  united states             guard      2003 - 2004           kentucky
+6      keith bogans  united states             guard      2006 - 2009           kentucky
+7    anthony bonner  united states           forward      1995 - 1996           st louis
+8     anthony bowie  united states             guard      1991 - 1996           oklahoma
+9      earl boykins  united states             guard             1999   eastern michigan
+10  michael bradley  united states           forward      2004 - 2005          villanova
+11        dee brown  united states             guard      2000 - 2002       jacksonville
+12     jud buechler  united states   guard - forward      2001 - 2002            arizona
+13        pat burke        ireland            center      2002 - 2003             auburn

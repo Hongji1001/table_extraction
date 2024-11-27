@@ -1,0 +1,13 @@
+   place               player        country                    score to par    money
+0     t1            mike weir         canada  70 + 68 + 75 + 68 = 281    - 7  playoff
+1     t1         len mattiace  united states  73 + 74 + 69 + 65 = 281    - 7  playoff
+2      3       phil mickelson  united states  73 + 70 + 72 + 68 = 283    - 5   408000
+3      4            jim furyk  united states  73 + 72 + 71 + 68 = 284    - 4   288000
+4      5         jeff maggert  united states  72 + 73 + 66 + 75 = 286    - 2   240000
+5     t6            ernie els   south africa  79 + 66 + 72 + 70 = 287    - 1   208500
+6     t6          vijay singh           fiji  73 + 71 + 70 + 73 = 287    - 1   208500
+7     t8        jonathan byrd  united states  74 + 71 + 71 + 72 = 288      e   162000
+8     t8  josé maría olazábal          spain  73 + 71 + 71 + 73 = 288      e   162000
+9     t8         mark o'meara  united states  76 + 71 + 70 + 71 = 288      e   162000
+10    t8           david toms  united states  71 + 73 + 70 + 74 = 288      e   162000
+11    t8       scott verplank  united states  76 + 73 + 70 + 69 = 288      e   162000

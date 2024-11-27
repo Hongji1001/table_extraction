@@ -1,0 +1,10 @@
+   rank     nation  gold  silver  bronze  total
+0     1     brazil     6       2       3     11
+1     2  venezuela     3       3       1      7
+2     3    ecuador     3       1       1      5
+3     4  argentina     0       3       5      8
+4     5       peru     0       1       1      2
+5     6      aruba     0       1       0      1
+6     7     guyana     0       0       5      5
+7     8      chile     0       0       2      2
+8     9   paraguay     0       0       0      0

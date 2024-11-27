@@ -1,0 +1,9 @@
+   round  overall             player         position         college
+0      1       17       damien woody           center  boston college
+1      1       28   andy katzenmoyer       linebacker      ohio state
+2      2       46        kevin faulk     running back             lsu
+3      3       91        tony george           safety         florida
+4      5      154   derrick fletcher  offensive guard          baylor
+5      6      180  marcus washington           safety        colorado
+6      7      227     michael bishop      quarterback    kansas state
+7      7      241         sean morey    wide receiver           brown

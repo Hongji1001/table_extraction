@@ -1,0 +1,8 @@
+       warship  tons ( lton )  horse - power  speed ( knots )                  main artillery  built year
+0    o'higgins        1101.00            300               12  3x115 - 2x70 - 2x12 - pounders        1874
+1    chacabuco        1101.00            300               11  1x115 - 2x70 - 2x12 - pounders        1874
+2        abtao        1051.00            300                8         3x115 - 3x30 - pounders        1870
+3   magallanes         772.00            260              115  1x115 - 1x64 - 2x20 - pounders        1874
+4    covadonga         412.00            140                7          2x70 - 3x40 - pounders        1859
+5    esmeralda         854.00            200                8         16x32 - 2x12 - pounders        1855
+6  uniã cubicn           1.15            320               13          12x68 - 1x9 - pounders        1864

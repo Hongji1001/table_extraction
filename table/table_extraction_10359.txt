@@ -1,0 +1,29 @@
+               player       position  height (m)  weight (kg)   years
+0        allen khoury      full back        1.72           64       3
+1       bahig saridar     right wing        1.80           92       2
+2       mohamad jamil   right center        1.79           84       4
+3        george rahal    left center        1.78           89       4
+4      joe serge safa      left wing        1.80           83  rookie
+5        karim jammal      stand off        1.73           83       2
+6     jad el - hashem     scrum half        1.75           86       2
+7        abed hammoud           prop        1.86          111       3
+8          hani rifai         hooker        1.74           98       2
+9      nayef abi said           prop        1.85          118       7
+10       rudy hachach     second row        1.85          117       7
+11        ahmad masri     second row        1.81           88       4
+12  robin hachach (c)  loose forward        1.85          102       3
+13      freddy beaini  loose forward        1.77           74       5
+14    darwish nahouzi     second row        1.64           70       2
+15     ramez ghandour           prop        1.76           95  rookie
+16     hassan shaheen           wing        1.80           75       2
+17     ahmad fadlalah     second row        1.80           87       2
+18   shawkat el ghazi           prop        1.76           95  rookie
+19        kassem abdo           wing        1.75           82  rookie
+20       alaa khashab           wing        1.80           65  rookie
+21          hani assi           prop        1.82           94  rookie
+22       khalil namro     second row        1.88           94  rookie
+23       abed hammoud         center        1.78           83  rookie
+24        yves khoury         center        1.85           80       2
+25       kevin haddad           wing        1.75           83       2
+26      walid yassine         center        1.87           75  rookie
+27          rami hawi     second row        1.84           85  rookie

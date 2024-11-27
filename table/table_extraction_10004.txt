@@ -1,0 +1,28 @@
+                   team    outgoing manager                    manner of departure date of vacancy                           last match         replaced by
+0      atlético mineiro             geninho                               resigned         round 1    botafogo 2 - 0 atlético mineiro 1     alexandre gallo
+1           figueirense     alexandre gallo     left to sign with atlético mineiro         round 2           figueirense 2 - 1 coritiba  guilherme macuglia
+2   atlético paranaense          ney franco                                 sacked         round 2  atlético paranaense 1 - 1 são paulo   roberto fernandes
+3               náutico   roberto fernandes  left to sign with atlético paranaense         round 2             fluminense 0 - 2 náutico     leandro machado
+4                santos        emerson leão                               resigned         round 3                cruzeiro 4 - 0 santos                cuca
+5              botafogo                cuca                               resigned         round 3         corinthians 2 - 1 botafogo 1             geninho
+6         internacional          abel braga          left to sign with al - jazira         round 4            internacional 1 - 1 sport                tite
+7              ipatinga                giba                                 sacked         round 6      atlético mineiro 4 - 2 ipatinga    ricardo drubscky
+8                 goiás     oswaldo alvarez                                 sacked         round 6                   goiás 0 - 3 grêmio     hélio dos anjos
+9           figueirense  guilherme macuglia                               resigned         round 7           cruzeiro 3 - 0 figueirense  paulo césar gusmão
+10             botafogo             geninho                                 sacked        round 10               vitória 5 - 2 botafogo          ney franco
+11              náutico     leandro machado                                 sacked        round 11                  náutico 0 - 2 sport             pintado
+12           portuguesa      wagner benazzi                                 sacked        round 13            ipatinga 4 - 1 portuguesa     valdir espinosa
+13     atlético mineiro     alexandre gallo                                 sacked        round 16         vasco 6 - 1 atlético mineiro    marcelo oliveira
+14  atlético paranaense   roberto fernandes                                 sacked        round 17   atlético paranaense 0 - 3 botafogo        mário sérgio
+15               santos                cuca                               resigned        round 18        santos 2 - 3 atlético mineiro    márcio fernandes
+16                vasco       antônio lopes                                 sacked        round 18                 vasco 0 - 2 coritiba                tita
+17              náutico             pintado                                 sacked        round 18    atlético paranaense 2 - 0 náutico   roberto fernandes
+18           fluminense       renato gaúcho                                 sacked        round 19            ipatinga 2 - 1 fluminense                cuca
+19             ipatinga    ricardo drubscky                                 sacked        round 21                ipatinga 1 - 1 santos  márcio bittencourt
+20           portuguesa     valdir espinosa                                 sacked        round 22           palmeiras 4 - 2 portuguesa      estevam soares
+21  atlético paranaense        mário sérgio                               resigned        round 24      goiás 4 - 0 atlético paranaense             geninho
+22          figueirense  paulo césar gusmão                                 sacked        round 25              sport 5 - 0 figueirense        mário sérgio
+23                vasco                tita                               resigned        round 26              palmeiras 3 - 0 vasco 2       renato gaúcho
+24           fluminense                cuca                               resigned        round 28               fluminense 1 - 1 goiás         renê simões
+25             ipatinga  márcio bittencourt                                 sacked        round 31              ipatinga 0 - 3 botafogo    enderson moreira
+26          figueirense        mário sérgio                                 sacked        round 35          são paulo 3 - 1 figueirense             pintado

@@ -1,0 +1,42 @@
+    rank         island 's name  area (sqmi)  area (km 2 )           location population (2000)
+0     29        wrangell island          216           560             alaska              2401
+1     30          mitkof island          211           546             alaska              3364
+2     31           padre island          209           542              texas              - 1 
+3     32                   guam          209           541               guam            154805
+4     33            isle royale          206           534           michigan                 0
+5     34          tanaga island          204           529             alaska                 0
+6     35         zarembo island          185           478             alaska                 0
+7     36            unga island          177           461             alaska                 0
+8     37                  amlia          176           459             alaska                 0
+9     38    hinchinbrook island          170           445             alaska                 5
+10    39       kosciusko island          169           438             alaska                52
+11    40         whidbey island          169           437         washington             58211
+12    41          kruzof island          168           435             alaska                 0
+13    42          kanaga island          142           369             alaska                 0
+14    43                 lāna i          141           364             hawaii              3193
+15    44      st matthew island          137           354             alaska                 0
+16    45         annette island          132           342             alaska              1447
+17    46          akutan island          129           334             alaska               713
+18    47        drummond island          125           324           michigan              1058
+19    48     hagemeister island          120           312             alaska                 0
+20    49           nagai island          120           310             alaska                 0
+21    50               amchitka          119           309             alaska                 0
+22    51      sitkalidak island          119           309             alaska                 0
+23    52    mount desert island          108           280              maine             10424
+24    53                  kiska          107           278             alaska                 0
+25    54          knight island          101           260             alaska                 0
+26    55           marsh island          100           259          louisiana                 0
+27    56      santa cruz island           98           254         california                 2
+28    57         gravina island           95           245             alaska                50
+29    58     martha 's vineyard           91           236      massachusetts             14901
+30    59                 agattu           90           234             alaska                 0
+31    60   semisopochnoi island           86           224             alaska                 0
+32    61           johns island           84           217     south carolina             11477
+33    62          seguam island           83           215             alaska                 1
+34    63            saint croix           82           212  us virgin islands             53234
+35    64          yakobi island           82           212             alaska                 0
+36    65      santa rosa island           81           209         california                 2
+37    66       raspberry island           77           200             alaska                 2
+38    67         douglas island           77           199             alaska             5.297
+39    68         dauphin island           75           194            alabama              1371
+40    69  santa catalina island           75           194         california              3696

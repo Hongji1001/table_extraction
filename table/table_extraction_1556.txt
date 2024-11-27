@@ -1,0 +1,7 @@
+  official name  status  area km 2  population census ranking
+0       moncton  parish     582.20        8861    427 of 5008
+1       shediac  parish     238.47        4801    709 of 5008
+2     salisbury  parish     873.55        3425    909 of 5008
+3      botsford  parish     303.75        1203   1827 of 5008
+4     sackville  parish     578.28        1174   1857 of 5008
+5   westmorland  parish     173.48         959   2105 of 5008

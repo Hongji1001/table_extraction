@@ -1,0 +1,10 @@
+   stage             winner general classification mountains classification points classification sprints classification team classification
+0      1       óscar freire           óscar freire                 no award          óscar freire               no award    caisse d'epargne
+1      2         igor antón             igor antón             david loosli           kim kirchen           david loosli            team csc
+2      3      robbie mcewen             igor antón             david loosli          óscar freire        rené weissinger            team csc
+3      4      robbie mcewen             igor antón             david loosli          óscar freire        rené weissinger            team csc
+4      5      markus fothen             igor antón             david loosli          óscar freire        rené weissinger        gerolsteiner
+5      6        kim kirchen            kim kirchen             david loosli          óscar freire        rené weissinger              astana
+6      7  fabian cancellara            kim kirchen           maxim iglinsky          óscar freire        rené weissinger              astana
+7      8    roman kreuziger        roman kreuziger           maxim iglinsky          óscar freire        rené weissinger              astana
+8      9  fabian cancellara        roman kreuziger           maxim iglinsky     fabian cancellara        rené weissinger              astana

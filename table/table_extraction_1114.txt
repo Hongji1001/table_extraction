@@ -1,0 +1,8 @@
+            player  no    nationality          position years in orlando  school / club team
+0      mario kasun  41        croatia            center      2004 - 2006             gonzaga
+1       shawn kemp  40  united states           forward      2002 - 2003          concord hs
+2      tim kempton   9  united states  forward - center      2002 - 2004          notre dame
+3  jonathan kerner  52  united states            center      1998 - 1999       east carolina
+4       steve kerr   2  united states             guard      1992 - 1993             arizona
+5        greg kite  34  united states            center      1990 - 1994                 byu
+6       jon koncak  45  united states            center      1995 - 1996  southern methodist

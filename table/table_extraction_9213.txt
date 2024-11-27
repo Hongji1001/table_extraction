@@ -1,0 +1,6 @@
+               date         round           opponents          h / a result f - a
+0  12 february 1887       round 1         hooley hill              h        7 - 0
+1  19 february 1887       round 2  gorton association              h       11 - 1
+2     19 march 1887       round 3        gorton villa              h        8 - 0
+3      2 april 1887  semi - final           ten acres          hurst        1 - 0
+4     23 april 1887         final     west manchester  whalley range        1 - 2

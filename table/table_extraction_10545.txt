@@ -1,0 +1,7 @@
+  call sign  frequency mhz   city of license  erp w class fcc info
+0    k297al          107.3  dighton , kansas    170     d      fcc
+1   k236 am           95.1  elkhart , kansas    170     d      fcc
+2    k207et           89.3    healy , kansas     75     d      fcc
+3    k239ax           95.7   larned , kansas    170     d      fcc
+4    k211ch           90.5    leoti , kansas    250     d      fcc
+5    k232dh           94.3  ulysses , kansas    170     d      fcc

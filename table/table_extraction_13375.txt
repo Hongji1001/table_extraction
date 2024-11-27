@@ -1,0 +1,10 @@
+   year             award                   category                             nominated work     result
+0  1984     olivier award  best actress in a revival                        measure for measure  nominated
+1  1986     olivier award               best actress  as you like it , les liaisons dangereuses  nominated
+2  1987     olivier award               best actress                                      yerma  nominated
+3  1992     olivier award               best actress                       death and the maiden        won
+4  1992  bafta film award               best actress                     truly , madly , deeply  nominated
+5  1993    bafta tv award               best actress                            a doll 's house  nominated
+6  1996    bafta tv award               best actress                     the politician 's wife  nominated
+7  2010     olivier award               best actress                               duet for one  nominated
+8  2011    bafta tv award               best actress                                    accused  nominated

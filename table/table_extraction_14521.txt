@@ -1,0 +1,14 @@
+                         name pos       height weight   date of birth                club
+0            georgia ellinaki  gk   m (ft 9in)      -  1974 - 02 - 28         anc glyfada
+1             dimitra asilian   d   m (ft 7in)      -  1972 - 07 - 10  olympiakos piraeus
+2             aniopi melidoni  cb   m (ft 7in)      -  1977 - 10 - 11      nc vouliagmeni
+3         angeliki karapataki   d   m (ft 7in)      -  1975 - 02 - 19         anc glyfada
+4               kyriaki liosi   d   m (ft 7in)      -  1979 - 10 - 30         anc glyfada
+5         stavroula kozompoli  cf  m (ft 11in)      -  1974 - 01 - 14         anc glyfada
+6   aikaterini oikonomopoulou  cb  m (ft 11in)      -  1978 - 02 - 16         anc glyfada
+7           antigoni roumpesi   d  m (ft 10in)      -  1983 - 07 - 19      nc vouliagmeni
+8        evangelia moraitidou  cb   m (ft 0in)      -  1975 - 03 - 26      nc vouliagmeni
+9         eftychia karagianni   d   m (ft 6in)      -  1973 - 10 - 10         anc glyfada
+10               georgia lara  cf   m (ft 9in)      -  1980 - 05 - 31      nc vouliagmeni
+11            antonia moraiti   d   m (ft 5in)      -  1977 - 05 - 02         anc glyfada
+12          anthoula mylonaki  gk  m (ft 10in)      -  1984 - 06 - 10      nc vouliagmeni

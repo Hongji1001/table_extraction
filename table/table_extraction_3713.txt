@@ -1,0 +1,18 @@
+                 club name                      name of team song             basis for team song first used as team song                                writer / composer
+0                 adelaide           the pride of south australia                us marines' hymn                    1992                                     bill sanders
+1           brisbane lions             the pride of brisbane town                 la marseillaise                    1955                                  fitzroy players
+2                  carlton                  we are the navy blues                  lily of laguna                  c 1930                                  carlton players
+3              collingwood           good old collingwood forever            goodbye , dolly gray                    1906                                       tom nelson
+4                 essendon                 see the bombers fly up       (keep your) sunny side up                   1960s                                          unknown
+5                fremantle                         freo way to go                        original                    1995                                      ken walther
+6                  geelong                         we are geelong               the toreador song                    1963                                     john k watts
+7               gold coast  we are the suns of the gold coast sky                        original                    2010                                    rosco elliott
+8   greater western sydney               there 's a big big sound                        original                    2012                                      harry angus
+9                 hawthorn              the mighty fighting hawks           the yankee doodle boy                  c 1956                                     chick lander
+10               melbourne                 it 's a grand old flag        you 're a grand old flag                  c 1912  unknown (second verse by keith bluey truscott )
+11         north melbourne                     join in the chorus              wee deoch an doris                   1920s                                          unknown
+12           port adelaide                           power to win                        original                    1997                  quentin eyers and les kaczmarek
+13                richmond                 we 're from tiger land                 row , row , row                    1962                                  jack malcolmson
+14                st kilda         when the saints go marching in  when the saints go marching in                  c 1965                                          unknown
+15                  sydney                  the red and the white        notre dame victory march                   1950s                                     larry spokes
+16              west coast                     we 're flying high                        original                    1987                       kevin peek and ken walther

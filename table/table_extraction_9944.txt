@@ -1,0 +1,14 @@
+                          celebrity                                        famous for entered  exited finished
+0                     gino d'acampo                                    celebrity chef   day 1  day 21      1st
+1                      kim woodburn                           tv personality / expert   day 1  day 21      2nd
+2                       jimmy white                                    snooker player   day 1  day 21      3rd
+3                       justin ryan                interior designer and tv presenter   day 1  day 20      4th
+4                    stuart manning            actor (played russ owen in hollyoaks )   day 1  day 19      5th
+5                sabrina washington              singer , former member of mis - teeq   day 1  day 18      6th
+6                   george hamilton                    american actor and personality   day 1  day 17      7th
+7                        joe bugner            former world - rated heavyweight boxer   day 4  day 16      8th
+8                      samantha fox                           former model and singer   day 1  day 14      9th
+9                  colin mcallister                interior designer and tv presenter   day 1  day 11     10th
+10                    lucy benjamin       actress (played lisa fowler in eastenders )   day 1  day 10     11th
+11  katie price (second appearance)                          model and tv personality   day 2   day 9     12th
+12                 camilla dallerup  former strictly come dancing professional dancer   day 1   day 4     13th

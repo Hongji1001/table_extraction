@@ -1,0 +1,22 @@
+         name  league  fa cup  league cup  total
+0      bokšić       8       0           0      8
+1      whelan       4       3           0      7
+2      németh       3       1           2      6
+3        ince       2       1           0      3
+4      cooper       2       0           0      2
+5    queudrue       2       0           0      2
+6   marinelli       2       0           0      2
+7      mustoe       2       0           0      2
+8       deane       1       0           0      1
+9    johnston       1       0           0      1
+10   greening       1       0           0      1
+11  stockdale       1       0           0      1
+12      festa       1       0           0      1
+13    windass       1       0           0      1
+14  southgate       1       0           0      1
+15    carbone       1       0           0      1
+16     ehiogu       1       0           0      1
+17     murphy       0       0           1      1
+18     wilson       0       0           1      1
+19    cambell       0       1           0      1
+20  own goals       1       1           0      2

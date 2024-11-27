@@ -1,0 +1,9 @@
+   round  pick           player         position        school / club team
+0      1     1    walt patulski    defensive end                notre dame
+1      2    27  reggie mckenzie  offensive guard                  michigan
+2      4    79    randy jackson     running back             wichita state
+3      5   105      leon garror   defensive back              alcorn state
+4      5   108     bob penchion  offensive guard              alcorn state
+5      8   183      paul gibson    wide receiver           texas el - paso
+6     10   235    maurice tyler   defensive back              morgan state
+7     13   313       eddie moss     running back  southeast missouri state

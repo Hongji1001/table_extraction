@@ -1,0 +1,18 @@
+     res  record                opponent                          method                                   event  round                                    location
+0    win  12 - 5          danilo pereira          submission (heel hook)  2009 m - 1 challenge seasonfinal round      1                      st petersburg , russia
+1    win  11 - 5             matt thorpe  submission (reverse heel hook)  2009 m - 1 challenge seasonfinal round      1                  rostov - on - don , russia
+2    win  10 - 5             jason jones          submission (heel hook)                            m - 1 global      2                      st petersburg , russia
+3    win   9 - 5       eulogio fernandez           submission (toe hold)                            m - 1 global      1                      st petersburg , russia
+4   loss   8 - 5            adlan amagov            decision (unanimous)                       perm regional mma      2                               perm , russia
+5   loss   8 - 4           yuta watanabe   submission (rear naked choke)                            m - 1 global      1                      st petersburg , russia
+6    win   8 - 3       sergey podyachikh                   tko (punches)                          legion fight 2      1                          krasnodar , russia
+7   loss   7 - 3           nick thompson   submission (rear naked choke)             bodog fight - usa vs russia      1       vancouver , british columbia , canada
+8   loss   7 - 2           josh koscheck   submission (rear naked choke)              ufc ultimate fight night 4      1          las vegas , nevada , united states
+9   loss   7 - 1            thiago alves                    ko (punches)                                  ufc 56      1          las vegas , nevada , united states
+10   win   7 - 0          dennis hallman           tko (corner stoppage)                euphoria - usa vs russia      2  atlantic city , new jersey , united states
+11   win   6 - 0           dave strasser   submission (guillotine choke)       m - 1 mfc - russia vs the world 7      1                      st petersburg , russia
+12   win   5 - 0         vladimir yushko             submission (armbar)       m - 1 mfc - russia vs the world 6      1                             moscow , russia
+13   win   4 - 0            denis komkin             decision (majority)       m - 1 mfc - russia vs the world 5      1                      st petersburg , russia
+14   win   3 - 0         krzysztof kulak              submission (choke)            wafc world championship 2003      1                             moscow , russia
+15   win   2 - 0  vitelmo kubis bandeira                      ko (punch)          wafc - world championship 2003      1                             moscow , russia
+16   win   1 - 0          andrei rudakov                             tko            wafc world championship 2003      2                             moscow , russia

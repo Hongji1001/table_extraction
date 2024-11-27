@@ -1,0 +1,23 @@
+   municipality       type      district  area (km square)  population (2010)  pop density (per km square)  no of barangays                municipal mayor
+0      alaminos  3rd class  3rd district             57.46              43526                        757.5               15                eladio magampon
+1           bay  2nd class  2nd district             42.66              55698                       1300.0               15                    bruno ramos
+2       calauan  2nd class  3rd district             65.40              74890                       1100.0               17                  george berris
+3       cavinti  3rd class  4th district            125.54              20809                        170.0               19               melbert oliveros
+4          famy  5th class  4th district             53.06              15021                        280.0               20            renonia b muramatsu
+5      kalayaan  3rd class  4th district             46.60              20944                        450.0                3            teodoro a adao , jr
+6         liliw  4th class  3rd district             39.10              33851                        870.0               33                cesar c sulibit
+7      luisiana  4th class  4th district             73.31              20148                        270.0               23                nestor rondilla
+8        lumban  3rd class  4th district             96.08              29470                        310.0               16               reynato añonuevo
+9       mabitac  5th class  4th district             80.76              18618                        230.0               15                    ronald sana
+10    magdalena  4th class  4th district             34.88              22976                        660.0               24            david aventurado jr
+11     majayjay  4th class  4th district             69.58              26547                        380.0               40           victorino c rodillas
+12    nagcarlan  2nd class  3rd district             78.10              59726                        760.0               52                   nelson osuna
+13        paete  4th class  4th district             39.47              23523                        600.0                9                mutuk bagabaldo
+14    pagsanjan  2nd class  4th district             26.36              39313                       1500.0               16  girlie maita sanchez ejercito
+15        pakil  5th class  4th district             46.50              20822                        450.0               13              vipops r martinez
+16       pangil  4th class  4th district             45.03              23201                        520.0                8                    jovit reyes
+17         pila  3rd class  4th district             31.20              46534                       1500.0               17                      boy quiat
+18        rizal  5th class  3rd district             27.90              15518                        560.0               11             antonino a aurelio
+19   santa cruz  1st class  4th district             38.59             110943                       2900.0               26    domingo dennis g panganiban
+20  santa maria  4th class  4th district            108.40              26839                        250.0               25                 cindy carolino
+21     siniloan  2nd class  4th district             64.51              35363                        550.0               20                  eduardo tibay

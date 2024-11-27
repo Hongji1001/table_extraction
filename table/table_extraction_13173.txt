@@ -1,0 +1,10 @@
+                   opposing team  against          date                            venue       status
+0             queensland country        9   17 may 1988  quarry hill rugby park , mackay   tour match
+1                     queensland       19   22 may 1988             ballymore , brisbane   tour match
+2                 queensland 'b'        7   25 may 1988            gold park , toowoomba   tour match
+3                      australia       22   29 may 1988             ballymore , brisbane   first test
+4  south australia invitation xv       10   1 june 1988     hindmarsh stadium , adelaide   tour match
+5                new south wales       23   5 june 1988         waratah stadium , sydney   tour match
+6            new south wales 'b'        9   8 june 1988        brandon park , wollongong   tour match
+7                      australia       28  12 june 1988         waratah stadium , sydney  second test
+8                           fiji       12  16 june 1988          national stadium , suva   test match

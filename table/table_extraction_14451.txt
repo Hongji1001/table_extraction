@@ -1,0 +1,6 @@
+       date of release               title  billboard peak   riaa cert    label
+0       march 7 , 2000        the sickness              29  4 platinum    giant
+1  september 17 , 2002             believe               1  2 platinum  reprise
+2  september 20 , 2005  ten thousand fists               1    platinum  reprise
+3        june 3 , 2008      indestructible               1    platinum  reprise
+4     august 31 , 2010              asylum               1        gold  reprise

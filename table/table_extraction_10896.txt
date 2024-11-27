@@ -1,0 +1,7 @@
+            city       country iata  icao                               airport
+0       blantyre        malawi  blz  fwcl         chileka international airport
+1  dar es salaam      tanzania  dar  htda  julius nyerere international airport
+2         harare      zimbabwe  hre  fvha                        harare airport
+3   johannesburg  south africa  jnb  fajs        or tambo international airport
+4       lilongwe        malawi  llw  fwki        lilongwe international airport
+5         lusaka        zambia  lun  flls          lusaka international airport

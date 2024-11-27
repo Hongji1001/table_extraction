@@ -1,0 +1,12 @@
+    year  class        team  points  rank  wins
+0   1969  350cc   aermacchi       2  42nd     0
+1   1970  125cc          mz       1  52nd     0
+2   1971  125cc          mz       4  24th     0
+3   1971  250cc      yamaha      26   9th     1
+4   1972  250cc      yamaha      16  16th     0
+5   1972  350cc      yamaha      42   7th     1
+6   1973  350cc      yamaha      30   9th     2
+7   1976  250cc      yamaha       2  30th     0
+8   1977  125cc  morbidelli       4  27th     0
+9   1980  125cc         mba       5  23rd     0
+10  1981  125cc         mba       4  25th     0

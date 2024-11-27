@@ -1,0 +1,12 @@
+    district         incumbent       party  first elected                                        result                                        candidates
+0    texas 1     wright patman  democratic           1928                                  re - elected                       wright patman (d) unopposed
+1    texas 2     jesse m combs  democratic           1944                                  re - elected       jesse m combs (d) 93.3% don parker (r) 6.7%
+2    texas 4       sam rayburn  democratic           1912                                  re - elected                         sam rayburn (d) unopposed
+3    texas 7       tom pickett  democratic           1944                                  re - elected                         tom pickett (d) unopposed
+4    texas 9  clark w thompson  democratic           1947                                  re - elected                    clark w thompson (d) unopposed
+5   texas 10  lyndon b johnson  democratic           1937  retired to run for us senate democratic hold                    homer thornberry (d) unopposed
+6   texas 13        ed gossett  democratic           1938                                  re - elected                          ed gossett (d) unopposed
+7   texas 15     milton h west  democratic           1933                       retired democratic hold                       lloyd bentsen (d) unopposed
+8   texas 17     omar burleson  democratic           1946                                  re - elected                       omar burleson (d) unopposed
+9   texas 18     eugene worley  democratic           1940                                  re - elected  eugene worley (d) 88.7% j evetts haley (r) 11.3%
+10  texas 20     paul j kilday  democratic           1938                                  re - elected     paul j kilday (d) 75.3% j p ledvina (r) 24.7%

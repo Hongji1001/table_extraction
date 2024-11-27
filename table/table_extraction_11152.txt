@@ -1,0 +1,30 @@
+   number                       builder       type  date  works number
+0   1st 1      baldwin locomotive works  4 - 4 - 0  1880          5285
+1   2nd 1      baldwin locomotive works  2 - 8 - 0  1919         41300
+2   3rd 1              general electric     diesel  1954         32226
+3       2      baldwin locomotive works  4 - 4 - 0  1881          5428
+4   1st 3      baldwin locomotive works  4 - 4 - 0  1881          5430
+5   2nd 3      baldwin locomotive works  4 - 4 - 0  1887          8791
+6   1st 4      baldwin locomotive works  4 - 4 - 0  1881         55782
+7   2nd 4      baldwin locomotive works  4 - 6 - 0  1899         17124
+8   1st 5      baldwin locomotive works  4 - 4 - 0  1882          6089
+9   2nd 5      baldwin locomotive works  4 - 6 - 0  1899         17123
+10  1st 6      baldwin locomotive works  4 - 4 - 0  1882          6090
+11  2nd 6      baldwin locomotive works  4 - 4 - 0  1877          4223
+12  3rd 6      baldwin locomotive works  4 - 6 - 0  1903         22020
+13  1st 7      baldwin locomotive works  4 - 4 - 0  1883          6687
+14  2nd 7      baldwin locomotive works  4 - 6 - 0  1903         22012
+15  1st 8      baldwin locomotive works  4 - 4 - 0  1883          6689
+16  2nd 8      baldwin locomotive works  4 - 6 - 0  1907         31445
+17  1st 9      baldwin locomotive works  4 - 4 - 0  1885          7604
+18  2nd 9      baldwin locomotive works  4 - 6 - 0  1909         34035
+19     10      baldwin locomotive works  4 - 4 - 0  1885          7605
+20     11      baldwin locomotive works  2 - 6 - 0  1881          5649
+21     12      baldwin locomotive works  2 - 6 - 0  1881          5650
+22     13      baldwin locomotive works  2 - 8 - 0  1882          6157
+23     14      baldwin locomotive works  4 - 6 - 0  1886          7939
+24     15      baldwin locomotive works  4 - 6 - 0  1889          9929
+25     16      baldwin locomotive works  4 - 6 - 0  1886          7941
+26     17      baldwin locomotive works  4 - 6 - 0  1887          8487
+27     18      baldwin locomotive works  4 - 6 - 0  1911         37395
+28     22  schenectady locomotive works  4 - 6 - 0  1899          5399

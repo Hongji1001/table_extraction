@@ -1,0 +1,10 @@
+   pick           player country of origin                  pba team          college
+0     1   jay washington     united states             air21 express           eckerd
+1     2    alex cabagnot     united states        sta lucia realtors    hawaii - hilo
+2     3   dennis miranda       philippines        coca - cola tigers              feu
+3     4  jondan salvador       philippines  purefoods chunkee giants       st benilde
+4     5     mark cardona       philippines             air21 express      de la salle
+5     6   niã±o canaleta       philippines             air21 express               ue
+6     7   michael holper     united states    barangay ginebra kings  san diego state
+7     8    paolo hubalde       philippines        san miguel beermen               ue
+8     9      leo najorda       philippines           red bull barako    san sebastian

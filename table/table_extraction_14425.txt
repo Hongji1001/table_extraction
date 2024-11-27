@@ -1,0 +1,19 @@
+                     club   short name            city                       stadium  capacity
+0         bvsc - zugló fc         bvsc        budapest         szőnyi street stadium      9000
+1   debreceni vsc - epona     debrecen        debrecen      oláh gábor utcai stadion      9640
+2            diósgyőri fc     diósgyőr         miskolc                  dvtk stadion     11300
+3             dunaferr se  dunaújvaros     dunaújváros         stadion eszperantó út     12000
+4         ferencvárosi tc  ferencváros        budapest        albert flórián stadion     18100
+5              gázszer fc      gázszer         akasztó               stadler stadium     12000
+6            győri eto fc         győr            győr                      eto park     16000
+7         haladás - milos      haladás     szombathely           rohonci úti stadion     12000
+8     iii kerület fc - at  iii kerület        budapest         hévízi street stadium      3000
+9     kispest - honvéd fc       honvéd        budapest                bozsik stadion     10000
+10           mtk hungária          mtk        budapest      hidegkuti nándor stadium     12700
+11    nyírség - spartacus  nyíregyháza     nyíregyháza  városi stadion (nyíregyháza)     16500
+12              siófok fc       siófok          siófok     révész géza utcai stadion     10500
+13              újpest fc       újpest        budapest         szusza ferenc stadion     13500
+14               vasas dh        vasas        budapest      illovszky rudolf stadion     12000
+15    dunakanyar - vác fc          vác             vác            stadion városi vác     10500
+16            videoton fc     videoton  székesfehérvár                sóstói stadion     15000
+17         zalahús zte fc          zte    zalaegerszeg                     zte aréna      9000

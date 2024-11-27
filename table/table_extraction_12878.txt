@@ -1,0 +1,14 @@
+    res  record       opponent                         method                                            event  round  time                                  location
+0   win  13 - 0     roy nelson           decision (unanimous)                                          ufc 166      3  5:00           houston , texas , united states
+1   win  12 - 0      frank mir           decision (unanimous)               ufc on fox : henderson vs melendez      3  5:00     san jose , california , united states
+2   win  11 - 0   dion staring                  tko (punches)            strikeforce : marquardt vs saffiedine      2  4:02  oklahoma city , oklahoma , united states
+3   win  10 - 0   josh barnett           decision (unanimous)                 strikeforce : barnett vs cormier      5  5:00     san jose , california , united states
+4   win   9 - 0  antonio silva                   ko (punches)              strikeforce : barnett vs kharitonov      1  3:56         cincinnati , ohio , united states
+5   win   8 - 0    jeff monson           decision (unanimous)                  strikeforce : overeem vs werdum      3  5:00            dallas , texas , united states
+6   win   7 - 0     devin cole           decision (unanimous)  strikeforce challengers : woodley vs saffiedine      3  5:00     nashville , tennessee , united states
+7   win   6 - 0    soa palelei           submission (punches)                                           xmma 3      1  2:23      sydney , new south wales , australia
+8   win   5 - 0    jason riley           submission (punches)                            strikeforce : houston      1  1:02           houston , texas , united states
+9   win   4 - 0   tony johnson  submission (rear naked choke)                           kotc : imminent danger      1  2:27    mescalero , new mexico , united states
+10  win   3 - 0   lucas browne                  tko (punches)                                           xmma 2      1  4:35      sydney , new south wales , australia
+11  win   2 - 0    john devine                     ko (punch)        strikeforce challengers : johnson vs mahe      1  1:19       fresno , california , united states
+12  win   1 - 0   gary frazier                  tko (punches)    strikeforce challengers : kennedy vs cummings      2  3:39          bixby , oklahoma , united states

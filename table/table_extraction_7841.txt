@@ -1,0 +1,48 @@
+    year   class          team  points  wins
+0   1958  125 cc         paton       0     0
+1   1958  125 cc        ducati       0     0
+2   1958  250 cc           nsu      13     0
+3   1958  350 cc        norton       9     0
+4   1958  500 cc        norton       0     0
+5   1959  125 cc        ducati      20     1
+6   1959  250 cc  fb - mondial      13     0
+7   1959  250 cc            mz      13     0
+8   1959  350 cc        norton       2     0
+9   1959  350 cc           ajs       2     0
+10  1959  500 cc        norton       0     0
+11  1960  125 cc        ducati       1     0
+12  1960  250 cc        ducati       8     0
+13  1960  250 cc  fb - mondial       8     0
+14  1960  350 cc           ajs       0     0
+15  1960  350 cc        ducati       0     0
+16  1960  500 cc        norton      13     0
+17  1961  125 cc           emc      16     1
+18  1961  125 cc         honda      16     1
+19  1961  250 cc  fb - mondial      44     4
+20  1961  250 cc         honda      44     4
+21  1961  350 cc           ajs       6     0
+22  1961  350 cc     mv agusta       6     0
+23  1961  500 cc        norton      40     2
+24  1961  500 cc     mv agusta      40     2
+25  1962  125 cc           emc      12     0
+26  1962  125 cc            mz      12     0
+27  1962  250 cc       benelli       0     0
+28  1962  250 cc            mz       0     0
+29  1962  350 cc     mv agusta      20     1
+30  1962  500 cc     mv agusta      40     5
+31  1963  250 cc            mz       8     1
+32  1963  350 cc     mv agusta      28     2
+33  1963  500 cc     mv agusta      56     7
+34  1964  250 cc            mz       2     0
+35  1964  350 cc     mv agusta      12     0
+36  1964  500 cc     mv agusta      40     7
+37  1965  250 cc         honda       8     1
+38  1965  350 cc     mv agusta      20     1
+39  1965  500 cc     mv agusta      48     8
+40  1966  125 cc         honda       1     0
+41  1966  250 cc         honda      56    10
+42  1966  350 cc         honda      48     6
+43  1966  500 cc         honda      30     3
+44  1967  250 cc         honda      50     5
+45  1967  350 cc         honda      40     6
+46  1967  500 cc         honda      46     5

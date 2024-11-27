@@ -1,0 +1,19 @@
+                player  tackles  solo  assisted  sack  yards  td 's
+0       william cotman     26.5    24         5     0     10      0
+1          keith smith     23.0    22         2     5      0      0
+2          gary mullen     21.0    20         2     0     23      0
+3        steve trimble     19.0    17         4     0      0      0
+4      richard prather     16.0    15         2     0      0      0
+5           rob devita     12.5     9         7     6      0      0
+6        clyde skipper     12.0    12         0     0     10      0
+7         chris brewer     12.0     9         6     0      0      0
+8      kelly kirchbaum     11.0     9         4     0      0      0
+9         chuck harris      9.0     6         6     3      0      0
+10        patrick cain      7.0     7         0     3      0      0
+11     richard rodgers      6.5     5         3     0     23      0
+12        larry friday      6.5     6         1     0      0      0
+13          jon norris      5.0     4         2     2      0      0
+14          phil forte      3.0     3         0     1      0      0
+15       durell taylor      2.0     2         0     0      0      0
+16  lazlo mike - mayer      2.0     2         0     0      0      0
+17       marco morales      1.0     1         0     0      0      0

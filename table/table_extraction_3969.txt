@@ -1,0 +1,9 @@
+  prefix class                            type and usage example equivalent  reference
+0           ac    germanium small - signal af transistor   ac126    nte102a  datasheet
+1           ad             germanium af power transistor   ad133     nte179  datasheet
+2           af    germanium small - signal rf transistor   af117     nte160  datasheet
+3           al             germanium rf power transistor   alz10     nte100  datasheet
+4           as            germanium switching transistor   asy28     nte101  datasheet
+5           au      germanium power switching transistor   au103     nte127  datasheet
+6           bd                silicon , power transistor   bd139     nte375  datasheet
+7           bf  silicon , rf (high frequency) bjt or fet   bf245     nte133  datasheet

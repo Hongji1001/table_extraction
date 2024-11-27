@@ -1,0 +1,8 @@
+                week                                        theme                      song choice  original artist  order    result
+0  top 24 (12 women)                                  free choice  it 's all coming back to me now   pandora 's box      8      safe
+1  top 20 (10 women)                                  free choice               queen of the night  whitney houston      9      safe
+2   top 16 (8 women)                                  free choice            if my heart had wings       faith hill      4      safe
+3             top 12                                   diana ross                      missing you       diana ross      6      safe
+4             top 11                             british invasion                         tell him     billie davis      1      safe
+5             top 10  no doubt / artists who inspire gwen stefani                      true colors     cyndi lauper      5  bottom 2
+6              top 9                            american classics                ain't misbehavin'      fats waller      8  bottom 2

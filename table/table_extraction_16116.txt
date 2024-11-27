@@ -1,0 +1,25 @@
+      date                                     course  distance                   type                        winner
+0    9 may                              lido (venice)         -        team time trial     team columbia - high road
+1   10 may                          jesolo to trieste         -             flat stage   alessandro petacchi ( ita )
+2   11 may                     grado to valdobbiadene         -             flat stage   alessandro petacchi ( ita )
+3   12 may          padua to san martino di castrozza         -         mountain stage      stefano garzelli ( ita )
+4   13 may  san martino di castrozza to alpe di siusi         -         mountain stage         denis menchov ( rus )
+5   14 may              brixen to mayrhofen , austria         -     intermediate stage      michele scarponi ( ita )
+6   15 may         innsbruck , austria , to chiavenna         -     intermediate stage  edvald boasson hagen ( nor )
+7   16 may                        morbegno to bergamo         -     intermediate stage   kanstantsin siutsou ( blr )
+8   17 may                         milan circuit race         -             flat stage        mark cavendish ( gbr )
+9   18 may                                   rest day  rest day               rest day                      rest day
+10  19 may                          cuneo to pinerolo         -         mountain stage        danilo di luca ( ita )
+11  20 may                          turin to arenzano         -             flat stage        mark cavendish ( gbr )
+12  21 may              sestri levante to riomaggiore         -  individual time trial         denis menchov ( rus )
+13  22 may               lido di camaiore to florence         -             flat stage        mark cavendish ( gbr )
+14  23 may                  campi bisenzio to bologna         -         mountain stage         simon gerrans ( aus )
+15  24 may                           forlã¬ to faenza         -     intermediate stage  leonardo bertagnolli ( ita )
+16  25 may                   pergola to monte petrano         -         mountain stage         carlos sastre ( esp )
+17  26 may                                   rest day  rest day               rest day                      rest day
+18  27 may                        chieti to blockhaus         -         mountain stage     franco pellizotti ( ita )
+19  28 may                       sulmona to benevento         -             flat stage      michele scarponi ( ita )
+20  29 may                 avellino to mount vesuvius         -         mountain stage         carlos sastre ( esp )
+21  30 may                           naples to anagni         -             flat stage      philippe gilbert ( bel )
+22  31 may                                       rome         -  individual time trial   ignatas konovalovas ( ltu )
+23   total                                      total         -                km (mi)                       km (mi)

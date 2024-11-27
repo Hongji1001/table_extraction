@@ -1,0 +1,9 @@
+   draw            artist                          song  points  place
+0     1    niamh kavanagh                  in your eyes     118      1
+1     2  suzanne bushnell                     long gone      54      7
+2     3      patricia roe      if you changed your mind      75      3
+3     4  róisín ní haodha                mo mhúirnín óg      34      8
+4     5             champ               2nd time around      79      2
+5     6    off the record                      hold out      61      6
+6     7      dav mcnamara                          stay      67      4
+7     8    perfect timing  why aren't we talking anyway      62      5

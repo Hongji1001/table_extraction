@@ -1,0 +1,6 @@
+  call sign  frequency mhz                   city of license  erp w class fcc info
+0    w291ch          106.1        pittsfield , massachusetts     10     d      fcc
+1    w242at           96.3      williamstown , massachusetts    250     d      fcc
+2    w252bg           98.3               lee , massachusetts     13     d      fcc
+3    w254au           98.7  great barrington , massachusetts    250     d      fcc
+4    w266aw          101.1       north adams , massachusetts     10     d      fcc

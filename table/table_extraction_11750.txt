@@ -1,0 +1,13 @@
+              name                   location        field  capacity (mw) annual generation (average gwh) commissioned
+0   kawerau (bope)    kawerau , bay of plenty      kawerau            6.3                              35  1989 , 1993
+1   kawerau (ka24)    kawerau , bay of plenty      kawerau            8.3                              70         2008
+2    kawerau (mrp)    kawerau , bay of plenty      kawerau          100.0                             800         2008
+3            mokai         northwest of taupo        mokai          112.0                             900         2000
+4    nga awa purua             north of taupo     rotokawa          140.0                            1100         2010
+5      ngatamariki             north of taupo  ngatamariki           82.0                    600 (approx)         2013
+6           ngawha   near kaikohe , northland       ngawha           25.0                              78         1998
+7           ohaaki  between rotorua and taupo       ohaaki           70.0                             400         1989
+8          poihipi             north of taupo     wairakie           55.0                             350         1997
+9         rotokawa             north of taupo     rotokawa           33.0                             210         1997
+10         te huka             north of taupo      tauhara           23.0                    170 (approx)         2010
+11        wairakei             north of taupo     wairakei          161.0                            1310  1958 , 2005

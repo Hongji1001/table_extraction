@@ -1,0 +1,15 @@
+    round  pick            player          position                            school
+0       1     9        rick bryan     defensive end                          oklahoma
+1       2    32        scott case    defensive back                          oklahoma
+2       2    36     thomas benson        linebacker                          oklahoma
+3       3    63       rod mcswain    defensive back                           clemson
+4       4    94   rydell malancon        linebacker                   louisiana state
+5       5   132      cliff benson         tight end                            purdue
+6       6   148       ben bennett       quarterback                              duke
+7       6   163         dan ralph  defensive tackle                            oregon
+8       7   175        kirk dodge        linebacker  university of nevada - las vegas
+9       8   206      jeff jackson        linebacker                            auburn
+10      9   233         glen howe            tackle              southern mississippi
+11     10   260  derrick franklin    defensive back                      fresno state
+12     11   287      tommy norman     wide receiver                     jackson state
+13     12   318        don holmes     wide receiver                              mesa

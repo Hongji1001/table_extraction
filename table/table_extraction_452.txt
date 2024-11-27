@@ -1,0 +1,44 @@
+    year celebrity partner                      week            dance  horwood  phillips  goodman  tonioli  total
+0   2004    jill halfpenny                         1            waltz        7         6        7        7     27
+1   2004    jill halfpenny                         2            rumba        8         8        8        8     32
+2   2004    jill halfpenny                         3             jive        8         9        9        9     35
+3   2004    jill halfpenny                         4          foxtrot        8         9        9        8     34
+4   2004    jill halfpenny                         5            samba        8         9        9        9     35
+5   2004    jill halfpenny                         6        quickstep        8         8        8        8     32
+6   2004    jill halfpenny                         6  cha - cha - cha        9         9        9        9     36
+7   2004    jill halfpenny          7 (semi - final)            tango        7         8        7        7     29
+8   2004    jill halfpenny          7 (semi - final)       paso doble        9        10        9        9     37
+9   2004    jill halfpenny        8 (final) (winner)          foxtrot        9         8        9        8     34
+10  2004    jill halfpenny        8 (final) (winner)             jive       10        10       10       10     40
+11  2005  gloria hunniford                         1            waltz        4         5        7        6     22
+12  2005  gloria hunniford                         2            rumba        2         4        5        6     17
+13  2005  gloria hunniford                         3             jive        3         4        6        6     19
+14  2006       emma bunton                         2        quickstep        8         8        8        9     33
+15  2006       emma bunton                         3             jive        8         8        8        9     33
+16  2006       emma bunton                         4          foxtrot        8         7        7        8     30
+17  2006       emma bunton                         5   viennese waltz        8         9        8        9     34
+18  2006       emma bunton                         6            samba        9         9        9        9     36
+19  2006       emma bunton                         7  cha - cha - cha        7         7        7        9     30
+20  2006       emma bunton                         8  american smooth        8         8        9        9     34
+21  2006       emma bunton                         9            waltz        9         8       10       10     37
+22  2006       emma bunton                         9       paso doble        9         9        9       10     37
+23  2006       emma bunton         10 (semi - final)            tango        9         8        9        9     35
+24  2006       emma bunton         10 (semi - final)            rumba        8         8        9        9     34
+25  2006       emma bunton  11 (final) (third place)  argentine tango        9         9        9        9     36
+26  2006       emma bunton  11 (final) (third place)            salsa        8         7        9        9     33
+27  2007      letitia dean                         2            rumba        4         6        7        6     23
+28  2007      letitia dean                         3            tango        6         7        7        7     27
+29  2007      letitia dean                         4  american smooth        7         8        8        8     31
+30  2007      letitia dean                         5       paso doble        7         8        8        8     31
+31  2007      letitia dean                         6            salsa        6         6        7        6     25
+32  2007      letitia dean                         7          foxtrot        8         8        9        9     34
+33  2007      letitia dean                         8   viennese waltz        8         8        7        9     32
+34  2007      letitia dean                         9        quickstep        7         7        8        8     30
+35  2007      letitia dean                         9  cha - cha - cha        6         6        7        7     26
+36  2007      letitia dean                        10            waltz        8         9        9        9     35
+37  2007      letitia dean                        10             jive        7         7        8        8     30
+38  2008    jessie wallace                         2            salsa        4         4        6        6     20
+39  2008    jessie wallace                         4        quickstep        3         5        5        6     19
+40  2009  lynda bellingham                         1            tango        3         6        7        5     21
+41  2009  lynda bellingham                         1  cha - cha - cha        5         6        6        6     23
+42  2009  lynda bellingham                         3       paso doble        5         7        7        6     25

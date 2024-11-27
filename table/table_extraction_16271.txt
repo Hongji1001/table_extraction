@@ -1,0 +1,11 @@
+                       school         location          mascot  enrollment 08 - 09 ihsaa class          county  year joined previous conference
+0             eastern hancock  charlottesville          royals                 338           a      30 hancock         2012         independent
+1                   edinburgh        edinburgh         lancers                 276           a      41 johnson         1965         independent
+2                      hauser             hope            jets                 343          aa  03 bartholomew         1965               dixie
+3                indian creek        trafalgar          braves                 599          aa      41 johnson         1967   none (new school)
+4                 knightstown      knightstown        panthers                 397          aa        32 henry         2013         independent
+5                  morristown       morristown  yellow jackets                 229           a       73 shelby         1985      big blue river
+6               north decatur       greensburg        chargers                 401          aa      16 decatur         1980      big blue river
+7               south decatur       greensburg         cougars                 298           a      16 decatur         1968   none (new school)
+8  southwestern (shelbyville)      shelbyville        spartans                 229           a       73 shelby         1965         independent
+9                     waldron          waldron         mohawks                 244           a       73 shelby         1965         independent

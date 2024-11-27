@@ -1,0 +1,7 @@
+        player  touchdowns  extra points  field goals  points
+0       heston           3             0            0      15
+1  tom hammond           0             5            2      13
+2    h hammond           2             0            0      10
+3        clark           1             0            0       5
+4    hal weeks           1             0            0       5
+5        total           7             5            2      48

@@ -1,0 +1,8 @@
+  call sign  frequency mhz   city of license                          erp w class fcc info
+0      wktm          106.1     soperton , ga                           6000     a      fcc
+1      wjds           88.7       sparta , ga                           2000     a      fcc
+2      wblr         1430.0    batesburg , sc             5000 day 163 night     d      fcc
+3      wqrx          870.0  valley head , al  10000 day 4700 critical hours     d      fcc
+4    w283ar          104.5     higgston , ga                             13     d      fcc
+5    w298as          107.5  lake oconee , ga                             10     d      fcc
+6    w237bn           95.3  lumber city , ga                             19     d      fcc

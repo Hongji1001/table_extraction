@@ -1,0 +1,6 @@
+   rank                 name                team  games  points
+0     1       igor rakočević        tau cerámica     21     377
+1     2     terrell mcintyre   montepaschi siena     19     328
+2     3    rimantas kaukėnas   montepaschi siena     18     266
+3     4  juan carlos navarro  regal fc barcelona     20     295
+4     5       tiago splitter        tau cerámica     17     238

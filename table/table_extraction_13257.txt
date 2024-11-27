@@ -1,0 +1,15 @@
+    round  pick  overall             name position            college
+0       2    20       46      eugene epps       db    texas - el paso
+1       3    10       62         ed cross       rb      arkansas am&n
+2       5    10      114     bill kishman       db     colorado state
+3       6     9      139  harold mclinton       lb           southern
+4       7    10      166    jeff anderson       rb           virginia
+5       7    17      173      john didion        c       oregon state
+6       8     9      191      larry brown       rb       kansas state
+7      11     9      269       eric norri       dt         notre dame
+8      12     9      295      bob shannon       db    tennessee state
+9      13    11      322       mike shook       db  north texas state
+10     14     9      347       rick brand       dt           virginia
+11     15    10      374      paul rogers       ot           virginia
+12     16     9      399  mike washington       lb           southern
+13     17    10      426     rich dobbert       de        springfield

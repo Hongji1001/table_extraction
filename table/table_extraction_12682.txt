@@ -1,0 +1,7 @@
+            player              club  games  goals  assists  points
+0  nathan robinson   eisbären berlin     13      4       11      15
+1     ivan ciernik       kölner haie     14     11        2      13
+2     chris taylor   frankfurt lions     12      5        8      13
+3      peter sarno  hamburg freezers      8      4        9      13
+4      sven felski   eisbären berlin     13      3       10      13
+5      jason young   frankfurt lions     12      3       10      13

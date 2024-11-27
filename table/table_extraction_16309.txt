@@ -1,0 +1,19 @@
+                      opposing team  against              date                                   venue      status
+0              cambridge university       12   18 october 1978                 grange road , cambridge  tour match
+1                           cardiff        7   21 october 1978             cardiff arms park , cardiff  tour match
+2                     west wales xv        7   25 october 1978                   st helen 's , swansea  tour match
+3                   london counties       12   28 october 1978                     twickenham , london  tour match
+4                           munster       12   31 october 1978                 thomond park , limerick  tour match
+5                           ireland        6   4 november 1978                 lansdowne road , dublin  test match
+6                            ulster        7   7 november 1978                     ravenhill , belfast  tour match
+7                             wales       12  11 november 1978             cardiff arms park , cardiff  test match
+8   south and south - west counties        0  15 november 1978               memorial ground , bristol  tour match
+9                  midland counties       15  18 november 1978                welford road , leicester  tour match
+10                combined services        6  21 november 1978  aldershot military stadium , aldershot  tour match
+11                          england        6  25 november 1978                     twickenham , london  test match
+12                    monmouthshire        9  29 november 1978                 rodney parade , newport  tour match
+13                 north of england        6   2 december 1978            birkenhead park , birkenhead  tour match
+14    north and midland of scotland        3   5 december 1978           linksfield stadium , aberdeen  tour match
+15                         scotland        9   9 december 1978                 murrayfield , edinburgh  test match
+16                         bridgend        6  13 december 1978                brewery field , bridgend  tour match
+17                       barbarians       16  16 december 1978             cardiff arms park , cardiff  tour match

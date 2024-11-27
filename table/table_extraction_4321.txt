@@ -1,0 +1,6 @@
+   year   sportsperson     nation of birth                      team competition , federation , or league      sport
+0  2006  albert pujols  dominican republic        st louis cardinals                major league baseball   baseball
+1  2007  roger federer         switzerland            not applicable                             atp tour     tennis
+2  2008   lorena ochoa              mexico            not applicable                            lpga tour       golf
+3  2009     usain bolt             jamaica            not applicable                       not applicable  athletics
+4  2012   lionel messi           argentina  fc barcelona / argentina          la liga / fifa / uefa / afa     soccer

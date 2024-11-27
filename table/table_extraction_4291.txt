@@ -1,0 +1,15 @@
+              player    nationality          position  from       school / country
+0           bo lamar  united states             guard  1977  louisiana - lafayette
+1          jeff lamp  united states   guard / forward  1987               virginia
+2   mark landsberger  united states  forward / center  1979          arizona state
+3          stu lantz  united states             guard  1974               nebraska
+4       rudy larusso  united states  forward / center  1959              dartmouth
+5          butch lee  united states             guard  1979              marquette
+6      slick leonard  united states             guard  1956                indiana
+7      ronnie lester  united states             guard  1984                   iowa
+8          stan love  united states           forward  1973                 oregon
+9   clyde lovellette  united states  forward / center  1953                 kansas
+10     maurice lucas  united states  forward / center  1985              marquette
+11        tyronn lue  united states             guard  1998               nebraska
+12      george lynch  united states           forward  1993         north carolina
+13         mike lynn  united states           forward  1969                   ucla

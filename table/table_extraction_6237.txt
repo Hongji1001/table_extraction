@@ -1,0 +1,18 @@
+                             race name         circuit          date      winning driver       constructor  report
+0   gran premio ciudad de buenos aires    buenos aires    30 january  juan manuel fangio          mercedes  report
+1        vii gran premio del valentino  valentino park      27 march      alberto ascari            lancia  report
+2                   xvi pau grand prix             pau      11 april          jean behra          maserati  report
+3                    iii glover trophy        goodwood      11 april       roy salvadori          maserati  report
+4            iv grand prix de bordeaux        bordeaux      25 april          jean behra          maserati  report
+5        vii brdc international trophy     silverstone         7 may       peter collins          maserati  report
+6           viii gran premio di napoli       posillipo         8 may      alberto ascari            lancia  report
+7               xvii grand prix d'albi            albi        29 may         andrã simon          maserati  report
+8                    iii curtis trophy       snetteron        29 may       roy salvadori          maserati  report
+9      iii cornwall mrc formula 1 race       davidstow        30 may         leslie marr  connaught - alta  report
+10                   iii london trophy  crystal palace       30 july       mike hawthorn          maserati  report
+11             iii daily record trophy     charterhall      6 august          bob gerard          maserati  report
+12                    iii redex trophy      snetterton     13 august        harry schell           vanwall  report
+13           ii daily telegraph trophy         aintree   3 september       roy salvadori          maserati  report
+14           ii international gold cup     oulton park  24 september       stirling moss          maserati  report
+15                       i avon trophy    castle combe     1 october        harry schell           vanwall  report
+16           v gran premio di siracusa        syracuse    23 october         tony brooks  connaught - alta  report

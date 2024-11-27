@@ -1,0 +1,8 @@
+  engine   production                       transmission power  torque acceleration 0 - 100 km / h (0 - 62 mph)  top speed
+0   1.6l  2002 - 2006                   5 - speed manual  n /a     NaN                                   11.6 s        NaN
+1   2.0l  2002 - 2005                   5 - speed manual  n /a     NaN                                    9.2 s        NaN
+2   2.0l  2002 - 2005                4 - speed automatic  n /a     NaN                                   10.5 s        NaN
+3   2.0l  2006 - 2009                   5 - speed manual  n /a     NaN                                    9.1 s        NaN
+4   2.0l  2006 - 2009                4 - speed automatic  n /a     NaN                                   10.4 s        NaN
+5   2.7l  2002 - 2009  5 - speed manual 6 - speed manual  n /a     NaN                                    8.2 s        NaN
+6   2.7l  2002 - 2009                4 - speed automatic  n /a     NaN                                    8.5 s        NaN

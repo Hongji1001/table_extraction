@@ -1,0 +1,7 @@
+                   institution                location       nickname  enrollment  established
+0          alvernia university            reading , pa      crusaders        2900         1958
+1           bryn athyn college         bryn athyn , pa          lions         218         1877
+2  east stroudsburg university   east stroudsburg , pa       warriors        7000         1893
+3           neumann university              aston , pa        knights        2012         1965
+4        penn state brandywine              media , pa  nittany lions        1700         1967
+5     richard stockton college  galloway township , nj        ospreys        7243         1969

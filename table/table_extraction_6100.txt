@@ -1,0 +1,9 @@
+           club       sport  founded                 league                venue
+0  fk vojvodina    football     1914        jelen superliga    karađorđe stadium
+1   fk proleter    football     1951           first league   stadion slana bara
+2   fk novi sad    football     1921           first league   detelinara stadium
+3  kk vojvodina  basketball     2000    sinalco superleague  spens sports center
+4   kk novi sad  basketball     1985    sinalco superleague  spens sports center
+5  ok vojvodina  volleyball     1946  serbian volley league  spens sports center
+6  hk vojvodina      hockey     1957  serbian hockey league  spens sports center
+7   hk novi sad      hockey     1998  serbian hockey league  spens sports center

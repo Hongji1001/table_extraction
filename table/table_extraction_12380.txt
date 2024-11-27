@@ -1,0 +1,46 @@
+             scorer                               club league goals  fa cup goals league cup goals  total
+0      dave gwyther                       swansea city           18             7                2     27
+1    dudley roberts                     mansfield town           22             1                1     24
+2      gerry ingram                  preston north end           22             0                2     24
+3        john rudge                     torquay united           18             2                1     21
+4    george andrews                    shrewsbury town           18             2                0     20
+5        ernie moss                       chesterfield           16             3                1     20
+6     kevin randall                       chesterfield           19             0                0     19
+7      george jones                               bury           18             1                0     19
+8       bill atkins                       halifax town           18             0                1     19
+9      robin stubbs                     bristol rovers           17             1                1     19
+10  bruce bannister                      bradford city           16             3                0     19
+11    albert kinsey                            wrexham           16             0                1     17
+12      les barrett                             fulham           15             0                2     17
+13       john james                          port vale           15             0                0     15
+14      reg jenkins                           rochdale           13             0                2     15
+15      steve earle                             fulham           13             0                2     15
+16     john stenson                     mansfield town           12             1                2     15
+17      ray graydon                     bristol rovers           13             0                1     14
+18  arfon griffiths                            wrexham           13             0                1     14
+19   alf arrowsmith                           rochdale           12             2                0     14
+20   gordon cumming                            reading           11             3                0     14
+21     colin taylor                            walsall           13             0                0     13
+22    harold jarman                     bristol rovers           12             1                0     13
+23      dick habbin                            reading           12             1                0     13
+24        bobby ham  preston north end / bradford city       10 + 2             0            0 + 1     13
+25       kit napier             brighton & hove albion           11             2                0     13
+26        tom white                               bury           11             1                1     13
+27      ken beamish                    tranmere rovers           10             0                3     13
+28    andy lochhead                        aston villa            9             0                4     13
+29       mike green                         gillingham           11             1                0     12
+30         alf wood                    shrewsbury town           11             0                1     12
+31     ian hamilton                        aston villa            9             0                3     12
+32      pat mcmahon                        aston villa            8             0                4     12
+33     dave lennard                       halifax town           11             0                0     11
+34     don hutchins                    plymouth argyle           11             0                0     11
+35  george johnston                   fulham / walsall        9 + 1             1                0     11
+36     geoff wowden      aston villa / birmingham city        5 + 3             0            0 + 3     11
+37     ronnie moore                    tranmere rovers           10             0                0     10
+38        brian yeo                         gillingham           10             0                0     10
+39      david cross                           rochdale            9             1                0     10
+40       neil hague                   rotherham united            9             1                0     10
+41       leslie lea                           barnsley            9             1                0     10
+42     steve briggs                   doncaster rovers            9             0                1     10
+43   keith brierley                       halifax town            9             0                1     10
+44      brian evans                       swansea city            7             3                0     10

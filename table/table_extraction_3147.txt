@@ -1,0 +1,23 @@
+                        road race       distance        location         country month held
+0         joongang seoul marathon       marathon           seoul     south korea   november
+1         osaka women 's marathon       marathon           osaka           japan    january
+2   kagawa marugame half marathon  half marathon        marugame           japan   february
+3           beppu - ōita marathon       marathon            ōita           japan   february
+4              hong kong marathon       marathon       hong kong       hong kong   february
+5                  daegu marathon       marathon           daegu     south korea      april
+6               great ireland run          10 km          dublin         ireland      april
+7                 madrid marathon       marathon          madrid           spain      april
+8                      ottawa 10k          10 km          ottawa          canada        may
+9                 ottawa marathon       marathon          ottawa          canada        may
+10     freihofer 's run for women           5 km          albany   united states       june
+11          olomouc half marathon  half marathon         olomouc  czech republic       june
+12                     prague 10k          10 km          prague  czech republic  september
+13   ústí nad labem half marathon  half marathon  ústí nad labem  czech republic  september
+14                dam tot damloop       10 miles       amsterdam     netherlands  september
+15               cologne marathon       marathon         cologne         germany    october
+16           great birmingham run  half marathon      birmingham  united kingdom    october
+17    toronto waterfront marathon       marathon         toronto          canada    october
+18           marseille cassis 20k        20.3 km       marseille          france    october
+19                venice marathon       marathon         venezia           italy    october
+20     yokohama women 's marathon       marathon        yokohama           japan   november
+21                 turin marathon       marathon          torino           italy   november

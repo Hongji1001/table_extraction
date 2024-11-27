@@ -1,0 +1,11 @@
+   year               artist                                            album record label  weeks at number one
+0  1990              madonna                        the immaculate collection         sire                    9
+1  1991                queen                                 greatest hits ii   parlophone                    1
+2  1992                 cher                         greatest hits : 19651992       geffen                    7
+3  1993            meat loaf              bat out of hell ii : back into hell       virgin                   11
+4  1994  the beautiful south                           carry on up the charts    go! discs                    7
+5  1995      robson & jerome                                  robson & jerome          rca                    7
+6  1996          spice girls                                            spice       virgin                   15
+7  1997          celine dion                           let 's talk about love         epic                    5
+8  1998       george michael  ladies & gentlemen : the best of george michael         epic                    8
+9  1999         shania twain                                     come on over      mercury                   11

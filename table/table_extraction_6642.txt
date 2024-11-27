@@ -1,0 +1,11 @@
+              player    position                                  school               hometown                                          mlb draft
+0       delmon young  outfielder                   camarillo high school         camarillo , ca  1st round - 1st pick of 2003 draft ( devil rays )
+1     chris lubanski  outfielder  kennedy - kenrick catholic high school        norristown , pa      1st round - 5th pick of 2003 draft ( royals )
+2  lastings milledge  outfielder              lakewood ranch high school         bradenton , fl       1st round - 12th pick of 2003 draft ( mets )
+3       brandon wood   infielder                     horizon high school        scottsdale , az     1st round - 23rd pick of 2003 draft ( angels )
+4         john danks     pitcher                  round rock high school        round rock , tx     1st round - 9th pick of 2003 draft ( rangers )
+5    jonathan fulton   infielder           george washington high school          danville , va    3rd round - 83rd pick of 2003 draft ( marlins )
+6        ian stewart   infielder                   la quinta high school       westminster , ca    1st round - 10th pick of 2003 draft ( rockies )
+7       jeff allison     pitcher           veterans memorial high school           peabody , ma    1st round - 16th pick of 2003 draft ( marlins )
+8       daric barton     catcher                      marina high school  huntington beach , ca  1st round - 28th pick of 2003 draft ( cardinals )
+9        eric duncan   infielder           seton hall preparatory school       west orange , nj    1st round - 27th pick of 2003 draft ( yankees )

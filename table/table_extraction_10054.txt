@@ -1,0 +1,8 @@
+   number            wrestler  entered              pinned         method
+0       1          jeff hardy        1  the brian kendrick      powerbomb
+1       2  the brian kendrick        3          jeff hardy   the kendrick
+2       3            triple h        5  the brian kendrick       pedigree
+3       4          jeff hardy        1                 mvp  twist of fate
+4       5            triple h        5  the brian kendrick       pedigree
+5       6          jeff hardy        1                 mvp  twist of fate
+6  winner            triple h        5                 mvp       pedigree

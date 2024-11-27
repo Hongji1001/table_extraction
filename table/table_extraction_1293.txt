@@ -1,0 +1,17 @@
+    number              name  kilometer           pavement  length (m)  average climb (%)
+0       17         kluisberg         99            asphalt        1250                 53
+1       16        nokereberg        118            cobbles         375                 59
+2       15         molenberg        157  cobbles / asphalt         463                  7
+3       14        wolvenberg        167            asphalt         645                 79
+4       13    oude kwaremont        185  cobbles / asphalt        2200                  4
+5       12         paterberg        189            cobbles         360                129
+6       11        koppenberg        195            cobbles         600                116
+7       10    steenbeekdries        200            cobbles         700                 53
+8        9        taaienberg        203            cobbles         530                 66
+9        8    berg ter stene        213            asphalt        1300                  5
+10       7            leberg        216            cobbles         950                 42
+11       6        berendries        222            asphalt         940                  7
+12       5        valkenberg        227            asphalt         540                 81
+13       4          tenbosse        233            asphalt         455                 64
+14       3        eikenmolen        239            asphalt         610                 59
+15       2  muur - kapelmuur        249            cobbles         475                 93

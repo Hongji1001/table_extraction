@@ -1,0 +1,16 @@
+    game         date                opponent        score       location / attendance   record
+0     15   december 1        dallas mavericks   l 98 - 106                    the omni    9 - 6
+1   game         date                opponent        score       location / attendance   record
+2     16   december 2         detroit pistons   l 96 - 104  the palace of auburn hills    9 - 7
+3     17   december 6      washington bullets    l 79 - 96            us airways arena    9 - 8
+4     18   december 7       san antonio spurs  l 102 - 104                    the omni    9 - 9
+5     19   december 9         new york knicks   l 92 - 101                    the omni   9 - 10
+6     20     december          boston celtics  w 108 - 103                fleet center  10 - 10
+7     21  december 12  minnesota timberwolves    l 78 - 85                    the omni  10 - 11
+8     22  december 14           chicago bulls  l 108 - 127                    the omni  10 - 12
+9     23  december 16          denver nuggets    w 95 - 86                    the omni  11 - 12
+10    24  december 22         new jersey nets    w 94 - 91                    the omni  12 - 12
+11    25  december 23         milwaukee bucks  l 111 - 115              bradley center  12 - 13
+12    26  december 26    los angeles clippers    w 94 - 88                    the omni  13 - 13
+13    27  december 29   golden state warriors   l 96 - 117                    the omni  13 - 14
+14    28  december 30           chicago bulls    l 93 - 95               united center  13 - 15

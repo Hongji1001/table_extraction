@@ -1,0 +1,13 @@
+    track number                         title                            songwriter (s)      recording date  time
+0              1     swing low , sweet chariot  wallis willis (adapted by malcolm dodds)  november 13 , 1959  3:15
+1              2                    steal away                (adapted by malcolm dodds)  november 13 , 1959  3:15
+2              3                  little david                (adapted by malcolm dodds)   january 28 , 1960  2:20
+3              4                  nobody knows                (adapted by malcolm dodds)  november 13 , 1959  3:10
+4              5   i couldn't hear nobody pray                (adapted by malcolm dodds)  november 16 , 1959  2:55
+5              6              motherless child    traditional (adapted by malcolm dodds)  november 13 , 1959  2:48
+6              7  just a closer walk with thee    stuart hine (adapted by malcolm dodds)  november 16 , 1959  3:30
+7              8        my lord what a mornin'   h t burleigh (adapted by malcolm dodds)   january 28 , 1960  2:30
+8              9      great getting up mornin'                (adapted by malcolm dodds)   january 28 , 1960  3:25
+9             10                were you there                (adapted by malcolm dodds)  november 16 , 1959  3:23
+10            11                   break bread                (adapted by malcolm dodds)  november 16 , 1959  3:25
+11            12                   me! oh lord                (adapted by malcolm dodds)  november 13 , 1959  2:10

@@ -1,0 +1,39 @@
+             constituency                       winner                           party  margin            runner - up a party a
+0        1. chennai north                    d pandian        indian national congress  118518              aladi aruna     dmk
+1      2. chennai central               era anbarasu c        indian national congress  103271               n v n somu     dmk
+2        3. chennai south                  r sridharan  anna dravida munnetra kazhagam  162528                 t r balu     dmk
+3        4. sriperumbudur     margatham chandrasekar c        indian national congress  180572               k sundaram     dmk
+4         5. chengalpattu         s s r rajendra kumar  anna dravida munnetra kazhagam  153206               c arumugam     dmk
+5            6. arakkonam            r jeevarathinam c        indian national congress  176710              m kannaiyan     dmk
+6              7. vellore                b akber pasha        indian national congress  199169              p shanmugam     dmk
+7          8. tiruppattur                a jayamohan c        indian national congress  190461              k c alagiri     dmk
+8            9. vandavasi               m krishnaswamy        indian national congress  177095              d venugopal     dmk
+9          10. tindivanam               k rama murthee        indian national congress  170149              n dayanidhi     dmk
+10          11. cuddalore             p p kaliaperumal        indian national congress  208057             g bhuvarahan      jd
+11        12. chidambaram            p vallalperuman c        indian national congress  136890       sulochana ayyasamy     dmk
+12         13. dharmapuri               kv thangkabalu        indian national congress  150489            p d elangovan     pmk
+13        14. krishnagiri                 k ramamurthy        indian national congress  213114               r manickam      jd
+14          15. rasipuram                b devarajan c        indian national congress  272985                i suganya     dmk
+15              16. salem  rangarajan kumaramangalam c        indian national congress  282568        k p arthanarisamy     dmk
+16       17. tiruchengode                k s soundaram  anna dravida munnetra kazhagam  314481           k p ramalingam     dmk
+17           18. nilgiris                   r prabhu c        indian national congress  180802              s doraisamy     dmk
+18  19. gobichettipalayam              p g narayanan c  anna dravida munnetra kazhagam  249161        g s lakshman iyer      jd
+19         20. coimbatore             c k kuppuswamy c        indian national congress  186064                 k ramani     cpm
+20           21. pollachi              b rajaravivarma  anna dravida munnetra kazhagam  206270           c t dhandapani     dmk
+21             22. palani        a senapathi gounder c        indian national congress  260142             k kumarasamy     dmk
+22           23. dindigul               c sreenivaasan  anna dravida munnetra kazhagam  224417            k maya thevar     dmk
+23            24. madurai             a g s ram babu c        indian national congress  242160                  p mohan     cpm
+24        25. periyakulam                   r ramasamy  anna dravida munnetra kazhagam  213960      cumbum ramakrishnan     dmk
+25              26. karur                  n murugesan  anna dravida munnetra kazhagam  269969       d thirunavukkarasu     dmk
+26    27. tiruchirappalli              l adaikalaraj c        indian national congress  209706           t k rangarajan     cpm
+27         28. perambalur                  a asokraj c  anna dravida munnetra kazhagam  194950            s v ramaswamy     dmk
+28      29. mayiladuturai           mani shankar aiyar        indian national congress  161937      kuttalam p kalyanam     dmk
+29       30. nagapattinam                        padma        indian national congress   25716               m selvaraj     cpi
+30          31. thanjavur         k thulasiah vandayar        indian national congress  162070         s palanimanickam     dmk
+31        32. pudukkottai               n sundararaj c        indian national congress  219721         k chandrasekaran     dmk
+32          33. sivaganga              p chidambaram c        indian national congress  228597             v kasinathan     dmk
+33     34. ramanathapuram                v rajeshwaran        indian national congress  171526            s vellaichamy     dmk
+34           35. sivakasi        r kanga govindarajulu  anna dravida munnetra kazhagam  163090             a srinivasan     cpi
+35        36. tirunelveli     m r kadambur janarthanan  anna dravida munnetra kazhagam  153592            k p kandasamy     dmk
+36            37. tenkasi              m arunachalam c        indian national congress  182086  t sadhan tirumalaikumar     dmk
+37        38. tiruchendur      r dhanuskodi athithan c        indian national congress  258776            g anton gomez      jd

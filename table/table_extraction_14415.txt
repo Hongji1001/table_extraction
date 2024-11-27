@@ -1,0 +1,13 @@
+     original nfl team          player pos         college     conf
+0       denver broncos     jerry inman  dt          oregon     aawu
+1       denver broncos  larry kaminski   c          purdue  big ten
+2       denver broncos      pat matson   g          oregon     aawu
+3   kansas city chiefs       andy rice  dt  texas southern     swac
+4   kansas city chiefs   emmitt thomas  cb          bishop    n / a
+5       miami dolphins    bob bruggers  lb       minnesota  big ten
+6       miami dolphins     karl noonan  wr            iowa  big ten
+7        new york jets      paul crane   c         alabama      sec
+8      oakland raiders   mike eischeid   p      upper iowa    n / a
+9      oakland raiders    rich jackson  de        southern     swac
+10  san diego chargers   joe beauchamp   s      iowa state    big 8
+11      denver broncos   lonnie wright   s  colorado state      ind

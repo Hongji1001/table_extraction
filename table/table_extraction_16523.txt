@@ -1,0 +1,8 @@
+                 school          location       mascot  size ihsaa class          county
+0       jac - cen - del  osgood , indiana       eagles   279           a       69 ripley
+1                 milan             milan      indians   408          aa       69 ripley
+2            rising sun        rising sun      shiners   243           a         58 ohio
+3         madison shawe           madison  hilltoppers   112           a    39 jefferson
+4          south ripley        versailles      raiders   375          aa       69 ripley
+5  southwestern hanover           hanover       rebels   411          aa    39 jefferson
+6    switzerland county             vevay       pacers   432          aa  78 switzerland

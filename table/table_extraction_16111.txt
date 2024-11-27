@@ -1,0 +1,6 @@
+   city of license     identifier frequency         power class recnet
+0       belleville  cjbc - 1 - fm   94.3 fm  34950 s watt     b  query
+1         kingston  cjbc - 2 - fm   99.5 fm    1560 watts     a  query
+2           london  cjbc - 4 - fm   99.3 fm   22500 watts     b  query
+3  penetanguishene  cjbc - 3 - fm   96.5 fm   15300 watts     b  query
+4     peterborough  cjbc - 5 - fm  106.3 fm   13000 watts     b  query

@@ -1,0 +1,13 @@
+    year                   entrant          chassis          engine  points
+0   1977     marlboro team mclaren      mclaren m23         ford v8       0
+1   1978     marlboro team mclaren      mclaren m26         ford v8       0
+2   1979                 autodelta   alfa romeo 177  alfa romeo f12       0
+3   1979                 autodelta   alfa romeo 179  alfa romeo v12       0
+4   1980  marlboro team alfa romeo   alfa romeo 179  alfa romeo v12       4
+5   1981  marlboro team alfa romeo  alfa romeo 179c  alfa romeo v12       7
+6   1981  marlboro team alfa romeo  alfa romeo 179b  alfa romeo v12       7
+7   1982  marlboro team alfa romeo  alfa romeo 179d  alfa romeo v12       2
+8   1982  marlboro team alfa romeo   alfa romeo 182  alfa romeo v12       2
+9   1983  candy toleman motorsport   toleman tg183b       hart l4 t       1
+10  1990       life racing engines        life f190        life w12       0
+11  1990       life racing engines        life f190         judd v8       0

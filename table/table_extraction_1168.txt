@@ -1,0 +1,40 @@
+    n degree            television service        country language                          content   dar hdtv ppv                          package / option
+0        200               sky sport 24 hd          italy  italian                       sport news  16:9  yes  no  sky sport o sky calcio o sky tv + sky hd
+1        201                sky sport 1 hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+2        202                sky sport 2 hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+3        203                sky sport 3 hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+4        204            sky sport extra hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+5        205                 fox sports hd          italy  italian                            sport  16:9  yes  no                       sky calcio + sky hd
+6        209                        sky 3d          italy  italian                         tematico  16:9  yes  no                tutti i pacchetti + sky hd
+7        211                  eurosport hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+8        212                eurosport 2 hd          italy  italian                            sport  16:9  yes  no                        sky sport + sky hd
+9        214               espn america hd  united states  english                            sport  16:9  yes  no                        sky sport + sky hd
+10       216                  espn classic          italy  italian                            sport  16:9   no  no                                 sky sport
+11       220                      snai sat          italy  italian                           ippica   4:3   no  no                                 sky sport
+12       221                class horse tv          italy  italian                           ippica  16:9   no  no                                no ( fta )
+13       222                 pokeritalia24          italy  italian                            poker   4:3   no  no                                no ( fta )
+14       224                supertennis hd          italy  italian                           tennis  16:9  yes  no                                no ( ftv )
+15       225                   sportitalia          italy  italian                            sport  16:9   no  no                                 qualsiasi
+16       226                 sportitalia 2          italy  italian                            sport  16:9   no  no                                 qualsiasi
+17       227                   rai sport 1          italy  italian                            sport  16:9   no  no                                no ( fta )
+18       228                   rai sport 2          italy  italian                            sport  16:9   no  no                                no ( fta )
+19       230                 milan channel          italy  italian                           calcio  16:9   no  no                                    option
+20       231              juventus channel          italy  italian                           calcio  16:9   no  no                                    option
+21       232                 inter channel          italy  italian                           calcio  16:9   no  no                                    option
+22       233           lazio style channel          italy  italian                           calcio  16:9   no  no                                    option
+23       234                  roma channel          italy  italian                           calcio   4:3   no  no                                    option
+24       235                caccia e pesca          italy  italian                   caccia e pesca  16:9   no  no                                    option
+25       236              caccia e pesca +          italy  italian  timeshift + 6 di caccia e pesca  16:9   no  no                                    option
+26       241  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+27       241                   sky sport 1          italy  italian                            sport  16:9   no  no                                 sky sport
+28       242  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+29       242                   sky sport 2          italy  italian                            sport  16:9   no  no                                 sky sport
+30       243  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+31       243                   sky sport 3          italy  italian                            sport  16:9   no  no                                 sky sport
+32       244  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+33       244               sky sport extra          italy  italian                            sport  16:9   no  no                                 sky sport
+34       245  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+35       245               sky supercalcio          italy  italian                           calcio  16:9   no  no                                sky calcio
+36       246  cartello promozionale sky hd          italy  italian                     promozionale   4:3   no  no                   qualsiasi tranne sky hd
+37       246                     eurosport          italy  italian                            sport  16:9   no  no                                 sky sport
+38       247                   eurosport 2          italy  italian                            sport  16:9   no  no                                 sky sport

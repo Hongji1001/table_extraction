@@ -1,0 +1,10 @@
+                          name  direction                   mantra               weapon     consort            graha (planet) guardian mātṛkā
+0                       kubera      north    oṃ śaṃ kuberāya namaḥ          gadā (mace)  kuberajāyā         budha ( mercury )          kumārī
+1                         yama      south      oṃ maṃ yamāya namaḥ        daṇḍa (staff)        yami            maṅgala (mars)          varahi
+2                        indra       east     oṃ laṃ indrāya namaḥ  vajra (thunderbolt)        śacī               sūrya (sun)          aindri
+3                       varuṇa       west    oṃ vaṃ varuṇāya namaḥ         pāśa (noose)      nalani             śani (saturn)          varuṇī
+4                        īśāna  northeast     oṃ haṃ īśānāya namaḥ    triśūla (trident)     pārvatī       bṛhaspati (jupiter)       māheśvarī
+5                         agni  southeast      oṃ raṃ agnaye namaḥ        śakti (spear)       svāhā             śukra (venus)      meṣavāhinī
+6                         vāyu  northwest      oṃ yaṃ vāyuve namaḥ        aṅkuśa (goad)     bhāratī             candra (moon)      mṛgavāhinī
+7  nirṛti (sometimes rakṣasa )  southwest  oṃ kṣaṃ rakṣasāya namaḥ       khaḍga (sword)      khaḍgī  rāhu (north lunar node )   khaḍgadhāriṇī
+8                       brahmā     zenith   oṃ hriṃ brahmaṇe namaḥ        padma (lotus)   sarasvatī  ketu (south lunar node )        brahmāni

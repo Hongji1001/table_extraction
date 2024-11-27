@@ -1,0 +1,31 @@
+                   ensemble  gold medals  silver medals  bronze medals  total medals
+0        victor j andrew hs            0              1              0             1
+1                 arvada hs            1              0              0             1
+2                   avon hs            2              1              0             3
+3         ayala high school            0              1              0             1
+4              bellbrook hs            0              1              0             1
+5                  beyer hs            0              0              1             1
+6            centerville hs            1              0              1             2
+7         choctawhatchee hs            1              0              0             1
+8            clear brook hs            1              1              0             2
+9                everett hs            0              2              0             2
+10           father ryan hs            1              0              0             1
+11       fountain valley hs            0              2              2             4
+12      franklin central hs            0              1              2             3
+13              irondale hs            0              0              1             1
+14  king philip regional hs            0              1              1             2
+15               oakland hs            0              0              1             1
+16            old bridge hs            0              0              1             1
+17              pacifica hs            5              2              0             7
+18                pomona hs            0              1              1             2
+19                  pope hs            0              0              1             1
+20      rancho cucamunga hs            1              0              0             1
+21           south hills hs            2              0              0             2
+22                  tate hs            0              0              2             2
+23    thomas worthington hs            1              0              0             1
+24              trumbull hs            0              2              0             2
+25           upper darby hs            1              0              1             2
+26           valley view hs            0              0              1             1
+27       victor j andrew hs            0              2              0             2
+28       west carrollton hs            0              1              0             1
+29     westerville south hs            0              0              1             1

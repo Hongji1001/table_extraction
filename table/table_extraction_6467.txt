@@ -1,0 +1,6 @@
+                          tournament  starts  top - 10s  wins  earnings
+0  accenture match play championship      13          7     3   4918500
+1              cadillac championship      13         12     7   9369000
+2           bridgestone invitational      14         12     8  11075625
+3                     hsbc champions       2          2     0    335714
+4                             totals      42         33    18  25678839

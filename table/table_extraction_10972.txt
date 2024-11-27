@@ -1,0 +1,13 @@
+    year                 competition                      venue position       notes
+0   1991          pan american games              havana , cuba      1st  heptathlon
+1   1993  world indoor championships           toronto , canada      8th  pentathlon
+2   1993         world championships        stuttgart , germany     17th  heptathlon
+3   1995          pan american games  mar del plata , argentina      3rd  heptathlon
+4   1995         world championships        gothenburg , sweden      8th  heptathlon
+5   1997  world indoor championships             paris , france      7th  pentathlon
+6   1997         world championships            athens , greece      7th  heptathlon
+7   1999  world indoor championships           maebashi , japan      1st  pentathlon
+8   1999              hypo - meeting           götzis , austria      1st  heptathlon
+9   2000              hypo - meeting           götzis , austria     12th  heptathlon
+10  2000               olympic games         sydney , australia      9th  heptathlon
+11  2001         world championships          edmonton , canada      7th  heptathlon

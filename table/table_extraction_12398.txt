@@ -1,0 +1,10 @@
+                       institution                location founded  joined conference  enrollment       nickname
+0  danville area community college     danville , illinois    1946               1990        5000        jaguars
+1                  lincoln college      lincoln , illinois    1853               1990         700           lynx
+2                 parkland college    champaign , illinois    1966               1996        6245         cobras
+3   lincoln land community college  springfield , illinois    1969               1994        4156        loggers
+4      john wood community college       quincy , illinois    1992               1998         650  trail blazers
+5         illinois central college  east peoria , illinois    1967               2005        5000        cougars
+6              spoon river college       canton , illinois    1959               1990        4500      crusaders
+7  lewis & clark community college      godfrey , illinois   n / a               1990         900   trailblazers
+8      heartland community college       normal , illinois    1991               2006        4500          hawks

@@ -1,0 +1,16 @@
+                      clubs  winners  runners - up  total finals                                    winnig years
+0        primeiro de agosto        7             3            10  2002 , 2004 , 2007 , 2008 , 2009 , 2010 , 2012
+1          as forces armées        3             1             4                              1975 , 1979 , 1981
+2              asec mimosas        2             2             4                                     1989 , 2000
+3                 gezira sc        2             0             2                                     1994 , 1996
+4                hit trésor        2             0             2                                     1973 , 1976
+5            petro atlético        1             5             6                                            2006
+6                zamalek sc        1             3             4                                            1992
+7                  es sahel        1             1             2                                            2011
+8       abidjan basket club        1             1             2                                            2005
+9          asc jeanne d'arc        1             1             2                                            1991
+10                as police        1             1             2                                            1983
+11                  mas fez        1             0             1                                            1998
+12  al - ittihad alexandria        1             0             1                                            1987
+13             cd maxaquene        1             0             1                                            1985
+14                 red star        1             0             1                                            1972

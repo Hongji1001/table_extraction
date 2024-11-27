@@ -1,0 +1,9 @@
+               peak             country  elevation (m)  prominence (m)  col (m)
+0        mount etna    italy ( sicily )           3323            3323        0
+1       monte cinto  france ( corsica )           2706            2706        0
+2      corno grande               italy           2912            2476      436
+3  punta la marmora  italy ( sardinia )           1834            1834        0
+4       monte amaro               italy           2795            1812      983
+5  monte dolcedorme               italy           2267            1715      552
+6          montalto               italy           1955            1709      246
+7      monte cimone               italy           2165            1577      588

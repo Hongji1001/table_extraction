@@ -1,0 +1,9 @@
+                     name / designation  year of intro country of origin                 primary cartridge major users
+0                                  csmg           2000           belgium  9x19 mm parabellum 22 mm grenade       n / a
+1          flieger - doppelpistole 1919           1919       switzerland             7.65x21 mm parabellum       n / a
+2  gordon close - support weapon system           1972         australia                9x19 mm parabellum       n / a
+3                           itm model 4           1990     united states                9x19 mm parabellum       n / a
+4                   neal submachine gun           1948     united states                              22lr       n / a
+5                           onorati smg           1935             italy                9x19 mm parabellum       n / a
+6                 saturn machine pistol           1985          colombia                              22lr       n / a
+7                                serlea           1990           lebanon                9x19 mm parabellum       n / a

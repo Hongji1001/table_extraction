@@ -1,0 +1,7 @@
+         name country      type           moving from transfer window  ends transfer fee
+0       abdou     fra    signed                 sedan          summer  2008         free
+1     mabiala     fra      loan  parissaint - germain          summer  2008         loan
+2      martin     eng      loan     manchester united          summer  2008         loan
+3      easter     wal  transfer     wycombe wanderers          winter  2008         210k
+4  jutkiewicz     eng      loan               everton          winter  2008         loan
+5       folly     fra  transfer   sheffield wednesday          winter  2008         xxxk

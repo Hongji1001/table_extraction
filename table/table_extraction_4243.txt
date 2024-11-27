@@ -1,0 +1,45 @@
+              network origin of programming   language             genre    service
+0          adithya tv                 india      tamil            comedy      astro
+1      astro vaanavil              malaysia      tamil           general      astro
+2   astro vellithirai              malaysia      tamil            movies      astro
+3          atn bangla            bangladesh    bengali           general  abn xcess
+4        banglavision            bangladesh    bengali           general  abn xcess
+5          captain tv                 india      tamil           general  abn xcess
+6           channel i            bangladesh    bengali           general  abn xcess
+7           chutti tv                 india      tamil              kids      astro
+8                etv2                 india     telugu              news  abn xcess
+9         etv network                 india     telugu           general  abn xcess
+10             hum tv              pakistan       urdu           general  abn xcess
+11           jaya max                 india      tamil             music     hypptv
+12            jaya tv                 india      tamil           general      astro
+13         kairali tv                 india  malayalam           general  abn xcess
+14     kairali people                 india  malayalam              news  abn xcess
+15         kairali we                 india  malayalam           teenage  abn xcess
+16       kalaignar tv                 india      tamil           general      astro
+17             maa tv                 india     telugu           general  abn xcess
+18          maa movie                 india     telugu             movie  abn xcess
+19          maa music                 india     telugu             music  abn xcess
+20          makkal tv                 india      tamil           general      astro
+21            moon tv                 india      tamil         religious  abn xcess
+22         polimer tv                 india      tamil           general     hypptv
+23           ptv home              pakistan       urdu           general  abn xcess
+24             raj tv                 india      tamil           general      astro
+25        reporter tv                 india  malayalam              news  abn xcess
+26     sahana asathal              malaysia      tamil            comedy  abn xcess
+27        sahana isai              malaysia      tamil             music  abn xcess
+28     sahana thangam              malaysia      tamil             movie  abn xcess
+29                set                 india      hindi           general  abn xcess
+30            set max                 india      hindi  movies / cricket     hypptv
+31            set max                 india      hindi  movies / cricket  abn xcess
+32          sun music                 india      tamil             music      astro
+33             sun tv                 india      tamil           general      astro
+34         thanthi tv                 india      tamil              news  abn xcess
+35        utv bindass                 india      hindi           teenage     hypptv
+36        utv bindass                 india      hindi           teenage  abn xcess
+37         utv movies                 india      hindi            movies     hypptv
+38       utv stars hd                 india      hindi            movies     hypptv
+39         vasanth tv                 india      tamil           general  abn xcess
+40              vijay                 india      tamil           general      astro
+41             win tv                 india      tamil             tamil  abn xcess
+42        zee variasi                 india      hindi           general      astro
+43               zoom                 india      hindi           general  abn xcess

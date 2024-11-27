@@ -1,0 +1,12 @@
+    round  pick  overall             name position               college
+0       6    14      144     jon keyworth       rb              colorado
+1       7    24      180       mike varty       lb          northwestern
+2       8    14      196  darwin robinson       rb          dakota state
+3       9    10      218        mark sens       de              colorado
+4       9    20      228      mike flater        k  colo school of mines
+5       9    25      233      jim kennedy       te        colorado state
+6      10    24      258      johnny vann       db          south dakota
+7      11    22      282       joe miller       ot             villanova
+8      13    20      332       stu o'dell       lb               indiana
+9      14    23      361   don van galder       qb                  utah
+10     16    21      411    nate anderson       rb      eastern illinois

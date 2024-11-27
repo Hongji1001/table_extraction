@@ -1,0 +1,7 @@
+  call sign  frequency mhz          city of license  erp w class fcc info
+0      wzae           93.3         wadley , georgia   4000     a      fcc
+1    w257bg           99.3     statesboro , georgia     80     d      fcc
+2    w252bh           98.3     washington , georgia     27     d      fcc
+3    w224be           92.7       sylvania , georgia     27     d      fcc
+4    w254bn           98.7         sparta , georgia     55     d      fcc
+5    w245an           96.9  milledgeville , georgia     19     d      fcc

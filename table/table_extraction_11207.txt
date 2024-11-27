@@ -1,0 +1,13 @@
+             team            country             home                 skip                    third             second               lead
+0          europe  scotland / sweden        lockerbie        david murdoch              niklas edin        peter smith         euan byers
+1          europe            germany           füssen            andy kapp                andy lang       holger höhne      andreas kempf
+2          europe        switzerland  baden - dättwil    andreas schwaller            ralph stöckli        thomas lips   damian grichting
+3          europe            denmark           tårnby      angelina jensen         madeleine dupont      denise dupont     camilla jensen
+4          europe           scotland         stirling           kelly wood          jackie lockhart       lorna vevers       lindsay wood
+5          europe             russia           moscow  liudmila privivkova             olga jarkova     nkeiruka ezekh  ekaterina galkina
+6   north america             canada        coldwater         glenn howard             richard hart        brent laing       craig savill
+7   north america             canada         edmonton        david nedohin             randy ferbey      scott pfeifer      marcel rocque
+8   north america      united states          mankato            todd birr           bill todhunter       greg johnson         kevin birr
+9   north america             canada          kelowna          kelly scott         jeanna schraeder       sasha carter       renee simons
+10  north america             canada         winnipeg       jennifer jones  cathy overton - clapham       jill officer         dawn askin
+11  north america      united states          madison     debbie mccormick        allison pottinger  nicole joraanstad  natalie nicholson

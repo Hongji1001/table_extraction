@@ -1,0 +1,6 @@
+        district      incumbent       party  first elected                             results
+0  connecticut 1    john larson  democratic           1998                        re - elected
+1  connecticut 2    rob simmons  republican           2000  lost re - election democratic gain
+2  connecticut 3   rosa delauro  democratic           1990                        re - elected
+3  connecticut 4    chris shays  republican           1987                        re - elected
+4  connecticut 5  nancy johnson  republican           1982  lost re - election democratic gain

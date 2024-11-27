@@ -1,0 +1,27 @@
+    rank                              nation  gold  silver  bronze  total
+0      1               marit bjørgen ( nor )     4       1       0      5
+1      2       jason lamy - chappuis ( fra )     3       0       1      4
+2      3              therese johaug ( nor )     2       1       1      4
+3      4              petter northug ( nor )     2       1       0      3
+4      5              nikita kriukov ( rus )     2       0       0      2
+5      5           sébastien lacroix ( fra )     2       0       0      2
+6      7                johan olsson ( swe )     1       2       0      3
+7      7       gregor schlierenzauer ( aut )     1       2       0      3
+8      9               dario cologna ( sui )     1       1       0      2
+9      9          thomas morgenstern ( aut )     1       1       0      2
+10     9              sara takanashi ( jpn )     1       1       0      2
+11    12                eric frenzel ( ger )     1       0       1      2
+12    12         tord asle gjerdalen ( nor )     1       0       1      2
+13    12                  sjur røthe ( nor )     1       0       1      2
+14    12                 kamil stoch ( pol )     1       0       1      2
+15    12                  heidi weng ( nor )     1       0       1      2
+16    17          ida ingemarsdotter ( swe )     0       3       0      3
+17    18             bernhard gruber ( aut )     0       2       0      2
+18    18              marcus hellner ( swe )     0       2       0      2
+19    18             charlotte kalla ( swe )     0       2       0      2
+20    21             richard freitag ( ger )     0       1       1      2
+21    21              severin freund ( ger )     0       1       1      2
+22    21                 peter prevc ( svn )     0       1       1      2
+23    21  jacqueline seifriedsberger ( aut )     0       1       1      2
+24    25            yuliya chekaleva ( rus )     0       0       2      2
+25    25           alexey poltoranin ( kaz )     0       0       2      2

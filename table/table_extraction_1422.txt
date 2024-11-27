@@ -1,0 +1,10 @@
+  official name  status  area km 2  population census ranking
+0       chipman  parish     482.81         962   2135 of 5008
+1       canning  parish     173.40         952   2145 of 5008
+2  waterborough  parish     444.87         851   2290 of 5008
+3   petersville  parish     588.42         723   2520 of 5008
+4      johnston  parish     359.18         660   2649 of 5008
+5     cambridge  parish     113.97         651   2662 of 5008
+6       wickham  parish     159.78         426   3211 of 5008
+7      gagetown  parish     234.89         316   3574 of 5008
+8     hampstead  parish     212.63         294   3665 of 5008

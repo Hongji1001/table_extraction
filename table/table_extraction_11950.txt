@@ -1,0 +1,11 @@
+  frequency       call sign               branding                                 format                              owner
+0    600 am            ckat            country 600                country / news / sports              rogers communications
+1   95.1 fm  cbon - fm - 17        première chaîne                     public news / talk  canadian broadcasting corporation
+2   96.1 fm       cbcn - fm          cbc radio one                     public news / talk  canadian broadcasting corporation
+3   97.1 fm       chyq - fm             le loup fm                 hot adult contemporary                 le5 communications
+4   99.3 fm       cfsf - fm               moose fm                     adult contemporary              vista broadcast group
+5  100.5 fm       chur - fm             kiss 100.5                 hot adult contemporary              rogers communications
+6  101.9 fm       ckfx - fm                the fox                            active rock              rogers communications
+7  103.5 fm       cjtk - fm                    kfm                        christian music                          eternacom
+8  104.9 fm       cktr - fm  north bay radio 104.9  tourist information / community radio            1311831 ontario limited
+9  106.3 fm       cfxn - fm               moose fm                           classic hits              vista broadcast group

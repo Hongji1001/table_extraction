@@ -1,0 +1,9 @@
+   pick                team           player          position             college
+0   121      denver broncos    brian schweda     defensive end              kansas
+1   122      houston oilers    junior coffey      running back          washington
+2   123     oakland raiders        fred hill         tight end                 usc
+3   124       new york jets  seth cartwright  defensive tackle    prairie view a&m
+4   125  kansas city chiefs      stan irvine            tackle            colorado
+5   126  san diego chargers      john godden        linebacker     san diego state
+6   127     boston patriots      george pyne  defensive tackle              olivet
+7   128       buffalo bills   bruce airheart          halfback  north dakota state

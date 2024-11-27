@@ -1,0 +1,11 @@
+                              school        location  founded                affiliation  enrollment         nickname                            primary conference
+0              binghamton university     vestal , ny     1946                     public       14898         bearcats             america east conference ( d - i )
+1              university at buffalo    buffalo , ny     1846                     public       28192            bulls           mid - american conference ( d - i )
+2                   canisius college    buffalo , ny     1870   private / roman catholic        5152  golden griffins  metro atlantic athletic conference ( d - i )
+3                 cornell university     ithaca , ny     1865  private / non - sectarian       19800          big red                          ivy league ( d - i )
+4                     ithaca college     ithaca , ny     1892  private / non - sectarian        6448          bombers                          empire 8 ( d - iii )
+5                 niagara university   lewiston , ny     1856         private / catholic        3746    purple eagles  metro atlantic athletic conference ( d - i )
+6  rochester institute of technology  henrietta , ny     1829  private / non - sectarian       13861           tigers                          empire 8 ( d - iii )
+7          st bonaventure university   allegany , ny     1858         private / catholic        2700          bonnies              atlantic 10 conference ( d - i )
+8                      suny cortland   cortland , ny     1868                     public        7234      red dragons                            sunyac ( d - iii )
+9                        suny oswego     oswego , ny     1861                     public        8909           lakers                            sunyac ( d - iii )

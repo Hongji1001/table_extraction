@@ -1,0 +1,19 @@
+         nat             name           moving to             type transfer window transfer fee
+0        sco       martin ure       queen 's park  end of contract          summer        n / a
+1        sco     scott hadden         ross county  end of contract          summer        n / a
+2        sco  steven campbell          free agent  end of contract          summer        n / a
+3    england        joe sagar          free agent  end of contract          summer        n / a
+4        sen  makhtar n'diaye          free agent  end of contract          summer        n / a
+5        fra   antoine ponroy          free agent  end of contract          summer        n / a
+6        ger      stefan klos             retired  end of contract          summer        n / a
+7    croatia        dado pršo             retired  end of contract          summer        n / a
+8        sco        gavin rae        cardiff city  end of contract          summer        n / a
+9        sco    brian gilmour  queen of the south  end of contract          summer        n / a
+10       swe    karl svensson                caen         transfer          summer        0.7 m
+11       eng     lee robinson     greenock morton             loan          summer        n / a
+12       cze     libor sionko          copenhagen         transfer          summer       0.09 m
+13  slovakia       filip šebo        valenciennes             loan          summer        n / a
+14       sco       ian murray        norwich city         transfer          summer         free
+15       eng       ugo ehiogu    sheffield united         transfer          winter         free
+16       sco      alan hutton   tottenham hotspur         transfer          winter          9 m
+17       nir      roy carroll        derby county         transfer          winter         free

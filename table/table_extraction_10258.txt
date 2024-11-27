@@ -1,0 +1,11 @@
+   ranking  nationality               name  goals                      years
+0        1  philippines  paulino alcántara    369  1912 - 1916 , 1918 - 1927
+1        2    argentina       lionel messi    352                     2004 -
+2        3        spain     josep samitier    333                1919 - 1932
+3        4        spain    césar rodríguez    301                1942 - 1955
+4        5      hungary    ladislao kubala    280                1950 - 1961
+5        6        spain       josep escolà    223                1934 - 1949
+6        7        spain       ángel arocha    215                1926 - 1933
+7        8        spain    vicenç martínez    200                1912 - 1923
+8        9        spain      carles rexach    195                1965 - 1981
+9       10        spain     mariano martín    188                1939 - 1946

@@ -1,0 +1,8 @@
+      nation  finalists  winners  runners - up  % won                  years won
+0     brazil          6        4             2     80  2000 , 2005 , 2006 , 2012
+1      spain          3        2             1     67                2009 , 2011
+2      italy          2        2             0    100                2007 , 2010
+3    england          3        1             2     33                       2008
+4  argentina          2        0             2      0                2007 , 2009
+5    ecuador          1        0             1      0                       2008
+6   dr congo          1        0             1      0                       2010

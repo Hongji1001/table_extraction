@@ -1,0 +1,45 @@
+                            city               country iata  icao                                            airport
+0                      abu dhabi  united arab emirates  auh  omaa                    abu dhabi international airport
+1                      amsterdam           netherlands  ams  eham                                   schiphol airport
+2                         athens                greece  ath  lgat                    ellinikon international airport
+3                        baghdad                  iraq  bgw  orbi                      baghdad international airport
+4                        bahrain               bahrain  bah  obbi                      bahrain international airport
+5                        bangkok              thailand  dmk  vtbd                   don mueang international airport
+6                        bangkok              thailand  bkk  vtbs                               suvarnabhumi airport
+7                        barisal            bangladesh  bzl  vgbr                                    barisal airport
+8                       brussels               belgium  bru  ebbr                                   brussels airport
+9                     chittagong            bangladesh  cgp  vgeg                  shah amanat international airport
+10                       comilla            bangladesh  cla  vgcm                                   comilla stolport
+11                  cox 's bazar            bangladesh  cxb  vgcb                               cox 's bazar airport
+12                        dammam          saudi arabia  dmm  oedf                    king fahd international airport
+13                         delhi                 india  del  vidp                indira gandhi international airport
+14                         dhaka            bangladesh  dac  vghs                    shahjalal international airport
+15                          doha                 qatar  doh  otbd                         doha international airport
+16                         dubai  united arab emirates  dxb  omdb                        dubai international airport
+17                     frankfurt               germany  fra  eddf                                  frankfurt airport
+18                     hong kong             hong kong  hkg  vhhh                    hong kong international airport
+19                       ishurdi            bangladesh  ird  vgis                                   ishurdi stolport
+20                        jeddah          saudi arabia  jed  oejn               king abdulaziz international airport
+21                       jessore            bangladesh  jsr  vgjr                                    jessore airport
+22                       karachi              pakistan  khi  opkc                       jinnah international airport
+23                     kathmandu                 nepal  ktm  vnkt                    tribhuvan international airport
+24                       kolkata                 india  ccu  vecc  netaji subhash chandra bose international airport
+25                  kuala lumpur              malaysia  kul  wmkk                 kuala lumpur international airport
+26                        kuwait                kuwait  kwi  okbk                       kuwait international airport
+27                        london        united kingdom  lhr  egll                            london heathrow airport
+28                    manchester        united kingdom  man  egcc                                 manchester airport
+29                         milan                 italy  mxp  limc                                   malpensa airport
+30                        mumbai                 india  bom  vabb          chhatrapati shivaji international airport
+31                        muscat                  oman  mct  ooms                       muscat international airport
+32                 new york city         united states  jfk  kjfk               john f kennedy international airport
+33                         paris                france  ory  lfpo                                       orly airport
+34                      rajshahi            bangladesh  rjh  vgrj                               shah makhdum airport
+35                        riyadh          saudi arabia  ruh  oerk                  king khalid international airport
+36                          rome                 italy  fco  lirf              leonardo da vinci - fiumicino airport
+37                       saidpur            bangladesh  spd  vgsd                                    saidpur airport
+38                     singapore             singapore  sin  wsss                           singapore changi airport
+39                        sylhet            bangladesh  zyl  vgsy                       osmani international airport
+40                    thakurgaon            bangladesh  tkr  vgsg                                thakurgaon stolport
+41                         tokyo                 japan  nrt  rjaa                                     narita airport
+42                       tripoli                 libya  tip  hllt                      tripoli international airport
+43  yangon resumes 2013 - 12 - 9                 burma  rgn  vyyy                       yangon international airport

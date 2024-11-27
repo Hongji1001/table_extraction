@@ -1,0 +1,14 @@
+            region            date                       label                             format        catalog
+0   united kingdom    7 april 1972           chrysalis records                          stereo lp       chr 1006
+1   united kingdom    7 april 1972  chrysalis , island records                     mono 8 - track      y8hr 1006
+2   united kingdom            1972                   chrysalis                   stereo 8 - track      y8hr 1006
+3   united kingdom            1972                   chrysalis            stereo compact cassette      zchr 1006
+4          germany            1972                   chrysalis                          stereo lp       6307 504
+5            spain            1972                   chrysalis                          stereo lp       6307 504
+6    united states    october 1972                   chrysalis                          stereo lp       chr 1006
+7    united states            1972                   chrysalis  reel - to - reel tape (7½ in / s)   chr 1006 - c
+8           canada    october 1972                   chrysalis                          stereo lp       chr 1006
+9        australia            1972                   chrysalis                          stereo lp  scyl - 934623
+10     new zealand            1972                   chrysalis                          stereo lp  scyl - 934623
+11     new zealand            1972                   chrysalis            stereo compact cassette     cy - 24623
+12  united kingdom  september 1991               edsel records                                 cd      ed cd 334

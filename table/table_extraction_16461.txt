@@ -1,0 +1,25 @@
+    rank  heat                name     nationality   time
+0      1     1         david payne   united states  13.19
+1      2     3       dayron robles            cuba  13.21
+2      3     2   terrence trammell   united states  13.23
+3      4     1        shi dongpeng           china  13.24
+4      5     3           liu xiang           china  13.25
+5      6     1     maurice wignall         jamaica  13.29
+6      7     1    jackson quiñónez           spain  13.33
+7      8     2     serhiy demydyuk         ukraine  13.35
+8      9     2      ladji doucouré          france  13.36
+9     10     2      yoel hernández            cuba  13.37
+10    11     3         andy turner  united kingdom  13.38
+11    12     3        david oliver   united states  13.42
+12    13     1    anselmo da silva          brazil  13.53
+13    14     1     robert kronberg          sweden  13.58
+14    14     3       gregory sedoc     netherlands  13.58
+15    14     3        masato naito           japan  13.58
+16    17     2          xing yanan           china  13.59
+17    18     2     tasuku tanonaka           japan  13.62
+18    19     3       jared macleod          canada  13.66
+19    20     1      adrien deghelt         belgium  13.70
+20    21     3     thomas blaschek         germany  13.77
+21    22     2  staņislavs olijars          latvia  13.78
+22    23     1      dudley dorival           haiti  13.82
+23    24     2     ryan brathwaite        barbados  13.87

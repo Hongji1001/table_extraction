@@ -1,0 +1,25 @@
+                        name          circuit         date         winning driver winning constructor  report
+0         tripoli grand prix          tripoli     11 march         tazio nuvolari             bugatti  report
+1    circuit d'esterel plage  saint - raphaël     11 march           louis chiron             bugatti  report
+2              pozzo circuit            pozzo     25 march         tazio nuvolari             bugatti  report
+3            riviera circuit           cannes      1 april           louis chiron             bugatti  report
+4         antibes grand prix          garoupe      9 april           louis chiron             bugatti  report
+5        alessandria circuit      alessandria     22 april         tazio nuvolari             bugatti  report
+6               coppa florio          madonie        6 may            albert divo             bugatti  report
+7               targa florio          madonie        6 may            albert divo             bugatti  report
+8       n algeria grand prix         staouéli        6 may          marcel lehoux             bugatti  report
+9                messina cup          messina       13 may          edwald probst             bugatti  report
+10       burgundy grand prix            dijon       16 may         jannine jennky             bugatti  report
+11                  etna cup          catania       20 may    baconin borzacchini            maserati  report
+12          tunis grand prix         le bardo       3 june          marcel lehoux             bugatti  report
+13           mugello circuit          mugello       3 june       emilio materassi              talbot  report
+14           rome grand prix      tre fontane      12 june           louis chiron             bugatti  report
+15        picardy grand prix          péronne      10 june            henry auber             bugatti  report
+16             thuin circuit            thuin      10 june               delzaert             bugatti  report
+17           cremona circuit          cremona      24 june        luigi arcangeli              talbot  report
+18    grand prix de la marne    reims - gueux       8 july           louis chiron             bugatti  report
+19  san sebastián grand prix          lasarte      25 july           louis chiron             bugatti  report
+20              coppa acerbo          pescara     4 august       giuseppe campari          alfa romeo  report
+21           coppa montenero        montenero    19 august       emilio materassi              talbot  report
+22       la baule grand prix         la baule    23 august  pierre blacque belair             bugatti  report
+23       boulogne grand prix         boulogne  9 september       malcolm campbell              delage  report

@@ -1,0 +1,32 @@
+         date   opponent       score                loss   record
+0    august 1     angels       9 - 8       clear (7 - 9)  44 - 55
+1    august 2     angels       5 - 4   jefferson (4 - 7)  44 - 56
+2    august 3     angels       3 - 1    martinez (2 - 4)  45 - 56
+3    august 4    indians      11 - 5  mirabella (4 - 10)  45 - 57
+4    august 5    indians       8 - 5       kucek (3 - 4)  45 - 58
+5    august 6    indians       5 - 2   jefferson (4 - 8)  45 - 59
+6    august 7    indians       7 - 6      garvin (3 - 6)  45 - 60
+7    august 8     royals       9 - 0     clancy (10 - 8)  45 - 61
+8    august 8     royals       7 - 4      garvin (3 - 7)  45 - 62
+9    august 9     royals  4 - 3 (14)    eastwick (0 - 1)  46 - 62
+10  august 10     royals       8 - 5   jefferson (4 - 9)  46 - 63
+11  august 12    brewers       3 - 1    sorensen (8 - 8)  47 - 63
+12  august 12    brewers       5 - 4      castro (0 - 4)  48 - 63
+13  august 13    brewers       5 - 4  mclaughlin (4 - 7)  48 - 64
+14  august 14    brewers       4 - 2      stieb (10 - 9)  48 - 65
+15  august 15     royals       4 - 3  jefferson (4 - 10)  48 - 66
+16  august 16     royals      11 - 5       kucek (3 - 5)  48 - 67
+17  august 17     royals       8 - 3     clancy (11 - 9)  48 - 68
+18  august 19      twins       4 - 3     corbett (8 - 5)  49 - 68
+19  august 20      twins      10 - 4      zahn (10 - 16)  50 - 68
+20  august 21  white sox       5 - 3  jefferson (4 - 11)  50 - 69
+21  august 22  white sox       2 - 0    clancy (11 - 10)  50 - 70
+22  august 23  white sox       5 - 1       kucek (3 - 6)  50 - 71
+23  august 24  white sox       7 - 3  baumgarten (2 - 8)  51 - 71
+24  august 25    rangers       5 - 1        todd (1 - 1)  51 - 72
+25  august 26    rangers       8 - 0  jefferson (4 - 12)  51 - 73
+26  august 27    rangers       6 - 4     medich (10 - 9)  52 - 73
+27  august 28      twins  7 - 5 (15)  jefferson (4 - 13)  52 - 74
+28  august 29      twins       5 - 2     stieb (11 - 10)  52 - 75
+29  august 30      twins       3 - 2   verhoeven (2 - 4)  53 - 75
+30  august 31      twins       7 - 1   koosman (11 - 12)  54 - 75

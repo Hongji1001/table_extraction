@@ -1,0 +1,23 @@
+           mission resident country local location                 local mission     non - resident head of mission   local position
+0          andorra            spain          n / a                         n / a                       césar medina       ambassador
+1        australia   united kingdom         sydney            honorary consulate                   anibal de castro       ambassador
+2         barbados        venezuela       belmopan            honorary consulate               jaime durán hernando       ambassador
+3           belize         honduras     bridgetown            honorary consulate    josé del carmen acosta carrasco       ambassador
+4          bolivia             peru         la paz  honorary general - consulate       rafael antonio julian cedano       ambassador
+5           cyprus           israel          n / a                         n / a               alexander de la rosa       ambassador
+6   czech republic          belgium         prague                         n / a            alejandro gonzález pons       ambassador
+7          denmark           sweden     copenhagen                     consulate   marina isabel cáceres de estévez       ambassador
+8          finland           sweden       helsinki            honorary consulate   marina isabel cáceres de estévez       ambassador
+9           guyana        venezuela          n / a                         n / a               jaime durán hernando       ambassador
+10        malaysia            india          n / a                         n / a  frank hans dannenberg castellanos       ambassador
+11     philippines            india          n / a                         n / a  frank hans dannenberg castellanos       ambassador
+12          monaco           monaco     montecarlo            honorary consulate       elisabeth anne croesi notari  honorary consul
+13        paraguay        argentina       asunción            honorary consulate                    rafael calventi       ambassador
+14       mauritius            india          n / a                         n / a  frank hans dannenberg castellanos       ambassador
+15          poland          belgium         warsaw                         n / a            alejandro gonzález pons       ambassador
+16         romania            italy      bucharest            honorary consulate                      vinicio tobal       ambassador
+17          serbia          austria       belgrade                         n / a                     ramón quiñones       ambassador
+18       singapore          belgium         warsaw                         n / a          lilia sánchez de morehead       ambassador
+19        suriname        venezuela          n / a                         n / a               jaime durán hernando       ambassador
+20        thailand            india        bangkok  honorary general - consulate  frank hans dannenberg castellanos       ambassador
+21         vietnam            india          n / a                         n / a  frank hans dannenberg castellanos       ambassador

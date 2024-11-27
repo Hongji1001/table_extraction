@@ -1,0 +1,6 @@
+  opposing teams  against            date                     venue        status
+0         france       15  21 / 01 / 1978  parc des princes , paris  five nations
+1          wales        9  04 / 02 / 1978       twickenham , london  five nations
+2       scotland        0  04 / 03 / 1978   murrayfield , edinburgh  five nations
+3        ireland        9  18 / 03 / 1978       twickenham , london  five nations
+4    new zealand       16  25 / 11 / 1978       twickenham , london    test match

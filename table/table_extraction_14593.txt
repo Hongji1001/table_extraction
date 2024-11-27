@@ -1,0 +1,10 @@
+          player draft  round  pick    position             nfl club
+0   bob ferguson   nfl      1     5    fullback  pittsburgh steelers
+1   bob ferguson   afl      1     8    fullback   san diego chargers
+2   chuck bryant   nfl      3    34         end   st louis cardinals
+3   chuck bryant   afl     13   104         end   san diego chargers
+4    sam tidmore   nfl      6    81  linebacker     cleveland browns
+5    sam tidmore   afl     20   156  linebacker        buffalo bills
+6  john havlicek   nfl      7    95         end     cleveland browns
+7   jack roberts   nfl     20   273      tackle        chicago bears
+8    mike ingram   afl     31   246       guard      boston patriots

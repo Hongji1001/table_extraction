@@ -1,0 +1,11 @@
+   rank                            name   headquarters     primary industry  market value ( usd million)
+0     1                       microsoft  united states    software industry                       586197
+1     2                general electric  united states         conglomerate                       474956
+2     3                      ntt docomo          japan   telecommunications                       366204
+3     4                   cisco systems  united states  networking hardware                       348965
+4     5                      wal - mart  united states               retail                       286153
+5     6               intel corporation  united states    computer hardware                       277096
+6     7  nippon telegraph and telephone          japan   telecommunications                       274905
+7     8                     exxon mobil  united states          oil and gas                       265894
+8     9             lucent technologies  united states   telecommunications                       237668
+9    10                deutsche telekom        germany   telecommunications                       209628

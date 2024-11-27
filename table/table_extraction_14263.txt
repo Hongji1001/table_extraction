@@ -1,0 +1,18 @@
+                         name height year                 hometown                                     club
+0               sadiqua bynum  5 - 4   jr         berkeley , calif            head over heels athletic arts
+1                  angi cipra  5 - 2   fr              mesa , ariz                 desert devils gymnastics
+2             olivia courtney  5 - 2   jr             fairfax , va                            orlando metro
+3            ellette craddock  5 - 5   so    san francisco , calif              san mateo gymnastics center
+4             sophina dejesus  5 - 1   so         temecula , calif                                    scega
+5             danusia francis  5 - 4   so     kenilworth , england                 heathrow gymnastics club
+6              mikaela gerber  5 - 5   fr      cambridge , ontario                 oakville gymnastics club
+7               mattie larson  5 - 2   jr      los angeles , calif            all olympia gymnastics center
+8   christine peng - peng lee  5 - 2   fr  richmond hill , ontario  sport seneca / oakville gymnastics club
+9             jessy macarthur  5 - 5   fr          newhall , calif                                   gymjam
+10              dana mcdonald  5 - 3   so         piedmont , calif               darrell boykins gymnastics
+11             hallie mossett  5 - 2   fr        los angeles calif              west coast elite gymnastics
+12                   asi peko  5 - 6   fr          henderson , nev                      brown 's gymnastics
+13            samantha peszek  5 - 1   jr       indianapolis , ind          sharp 's gymnastics / deveau 's
+14           jennifer pinches  5 - 4   fr     manchester , england                        city of liverpool
+15                sydney sawa  5 - 2   sr        calgary , alberta                calgary gymnastics center
+16                alex waller  5 - 3   fr         valencia , calif                                   gymjam

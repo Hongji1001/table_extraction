@@ -1,0 +1,16 @@
+                 player                    club  league  fa cup  fa trophy  league cup  total
+0             gary bull                  barnet      30       2          0           0     32
+1             mark west       wycombe wanderers      24       6          3           0     33
+2           ken mckenna              altrincham      22       3          3           2     30
+3           mark carter                  barnet      19       0          1           1     21
+4          paul randall               bath city      19       0          3           0     22
+5   colin cowperthwaite                  barrow      18       0          1           2     21
+6         terry robbins          welling united      18       2          0           1     21
+7           mario walsh       colchester united      17       0          1           0     18
+8           paul cavell           boston united      16       5          2           1     24
+9           nicky evans                  barnet      16       5          0           0     21
+10       charlie butler               gateshead      15       0          0           1     16
+11         peter howell  kidderminster harriers      15       0          4           1     20
+12           john askey       macclesfield town      14       0          0           0     14
+13           john brady              altrincham      14       1          2           0     17
+14            kim casey         cheltenham town      14       2          1           0     17

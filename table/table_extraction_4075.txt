@@ -1,0 +1,13 @@
+              player      country  caps goals years active
+0          glen moss  new zealand    21   (0)       2006 -
+1       manny muscat        malta     8   (0)       2009 -
+2     michael boxall  new zealand     7   (0)       2011 -
+3         leo bertos  new zealand    52   (0)       2003 -
+4         paul ifill     barbados    10   (6)  2004 - 2008
+5    stein huysegems      belgium    15   (0)  2004 - 2009
+6     jeremy brockie  new zealand    34   (0)       2006 -
+7        ben sigmund  new zealand    29   (2)       2000 -
+8     andrew durante  new zealand     3   (0)       2013 -
+9     jacob spoonley  new zealand     2   (0)       2007 -
+10  carlos hernández   costa rica    36   (7)       2004 -
+11  kenny cunningham   costa rica    10   (1)       2011 -

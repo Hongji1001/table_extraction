@@ -1,0 +1,12 @@
+    track             title                           author (s)            recorded length
+0       1         firedrill  tim finn , neil finn , eddie rayner            may 1982   3:55
+1       2  your inspiration                               n finn          april 1984   3:49
+2       3          parasite                               t finn        october 1983   3:37
+3       4         next exit                               t finn          march 1983   3:40
+4       5        over drive                               rayner      september 1984   3:43
+5       6             serge                               n finn  aav studios , 1984   3:35
+6       7       in the wars                               t finn       november 1980   3:06
+7       8    love & success                               n finn          april 1984   3:04
+8       9         big heart                               t finn          april 1984   3:42
+9      10       mr catalyst                      rayner , t finn          april 1984   3:38
+10     11     remember when                               t finn          march 1983   3:15

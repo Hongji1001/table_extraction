@@ -1,0 +1,27 @@
+       date           opponent   score       loss              save
+0    june 1   seattle mariners   4 - 1   thompson             ayala
+1    june 2  oakland athletics   8 - 7     karsay           brocail
+2    june 3  oakland athletics   9 - 8      myers           johnson
+3    june 5   seattle mariners  14 - 6       lira  ||12572||26 - 30
+4    june 6   seattle mariners   6 - 3   olivares             ayala
+5    june 7   seattle mariners   3 - 1    wolcott             jones
+6    june 8   seattle mariners   2 - 0    moehler             ayala
+7   june 10  oakland athletics   6 - 4     prieto             jones
+8   june 11  oakland athletics   4 - 2      small             jones
+9   june 13     montreal expos   4 - 3   olivares            urbina
+10  june 14     montreal expos   1 - 0   thompson  ||21127||29 - 34
+11  june 15     montreal expos  10 - 2    moehler  ||18534||29 - 35
+12  june 16    florida marlins   7 - 3      blair  ||23874||29 - 36
+13  june 17    florida marlins   3 - 2      jones               nen
+14  june 18    florida marlins   6 - 2     leiter  ||14043||30 - 37
+15  june 20     boston red sox  12 - 6  wakefield             sager
+16  june 21     boston red sox  15 - 4   eshelman  ||20599||32 - 37
+17  june 22     boston red sox   2 - 1      blair           slocumb
+18  june 23   new york yankees   5 - 2       lira            rivera
+19  june 24   new york yankees  12 - 9      myers            rivera
+20  june 25   new york yankees   3 - 1   thompson            rivera
+21  june 26     boston red sox  10 - 6   eshelman  ||31878||33 - 41
+22  june 27     boston red sox   2 - 1    hammond             jones
+23  june 28     boston red sox   9 - 2       sele  ||30886||35 - 41
+24  june 29     boston red sox   8 - 6   bautista           slocumb
+25  june 30      new york mets  14 - 0      clark  ||15009||36 - 42

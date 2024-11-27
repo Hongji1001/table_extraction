@@ -1,0 +1,6 @@
+   rank        nation  gold  silver  bronze  total
+0     1  west germany     3       1       1      5
+1     2  east germany     1       1       1      3
+2     3         italy     0       1       1      2
+3     4       austria     0       1       0      1
+4     5  soviet union     0       0       1      1

@@ -1,0 +1,9 @@
+              song title                       artist language decade        genre        exportable family friendly
+0              beetlebum                         blur  english  1990s  alternative               yes              no
+1  countdown to insanity                   h - blockx  english  2000s         rock               yes              no
+2        hier kommt alex  toten hosen die toten hosen   german  1980s         punk  rock band 2 only              no
+3               hysteria                         muse  english  2000s  alternative               yes             yes
+4              manu chao            wampas les wampas   french  2000s         punk               yes              no
+5                monsoon                  tokio hotel  english  2000s         glam                no             yes
+6               new wave                       pleymo   french  2000s        metal               yes              no
+7         perfekte welle                         juli   german  2000s         rock               yes              no

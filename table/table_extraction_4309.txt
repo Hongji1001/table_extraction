@@ -1,0 +1,20 @@
+               in english           in finnish             in swedish       capital regional state administrative agency
+0                 lapland                lappi               lappland     rovaniemi                              lapland
+1   northern ostrobothnia  pohjois - pohjanmaa      norra österbotten          oulu                     northern finland
+2                  kainuu               kainuu             kajanaland       kajaani                     northern finland
+3           north karelia    pohjois - karjala          norra karelen       joensuu                      eastern finland
+4        northern savonia       pohjois - savo          norra savolax        kuopio                      eastern finland
+5        southern savonia         etelä - savo          södra savolax       mikkeli                      eastern finland
+6   southern ostrobothnia    etelä - pohjanmaa      södra österbotten     seinäjoki          western and central finland
+7    central ostrobothnia    keski - pohjanmaa  mellersta österbotten       kokkola          western and central finland
+8            ostrobothnia            pohjanmaa            österbotten         vaasa          western and central finland
+9               pirkanmaa            pirkanmaa              birkaland       tampere          western and central finland
+10        central finland        keski - suomi      mellersta finland     jyväskylä          western and central finland
+11              satakunta            satakunta              satakunda          pori              south - western finland
+12         finland proper    varsinais - suomi      egentliga finland         turku              south - western finland
+13          south karelia      etelä - karjala          södra karelen  lappeenranta                     southern finland
+14      päijänne tavastia        päijät - häme    päijänne tavastland         lahti                     southern finland
+15        tavastia proper         kanta - häme   egentliga tavastland   hämeenlinna                     southern finland
+16                uusimaa              uusimaa                 nyland      helsinki                     southern finland
+17            kymenlaakso          kymenlaakso           kymmenedalen       kouvola                     southern finland
+18          åland islands           ahvenanmaa                  åland     mariehamn                                åland

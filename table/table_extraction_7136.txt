@@ -1,0 +1,10 @@
+              name        nationality    position aston villa career    captaincy appearances  goals
+0   walter h price    england england    defender               1874  1874 - 1876       n / a  n / a
+1    george ramsay  scotland scotland     forward        1876 - 1882  1876 - 1884       n / a  n / a
+2    archie hunter  scotland scotland     forward        1878 - 1890  1884 - 1891          73     42
+3      gershom cox    england england    defender        1878 - 1893            -         101      0
+4  howard vaughton    england england     forward        1880 - 1888            -          26     15
+5     arthur brown    england england     forward        1884 - 1894            -         114     58
+6  dennis hodgetts    england england  midfielder        1886 - 1896            -         215     91
+7     jimmy warner    england england  goalkeeper        1886 - 1892            -         101      0
+8      james cowan  scotland scotland  midfielder        1889 - 1902            -         354     27

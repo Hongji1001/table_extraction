@@ -1,0 +1,18 @@
+    round  pick          player          position               college
+0       1    19        tom ruud        linebacker              nebraska
+1       2    42      bob nelson        linebacker              nebraska
+2       2    50      glenn loft    defensive back      drake university
+3       4   102     tom donchez      running back            penn state
+4       5   115  john mccrumbly        linebacker             texas a&m
+5       7   166     gil chapman      running back              michigan
+6       7   174   reggie cherry      running back               houston
+7       7   175     harry banks    defensive back              michigan
+8       8   201       john hill  defensive tackle                  duke
+9      10   253    roland hooks      running back  north carolina state
+10     11   279       tom drake    defensive back              michigan
+11     12   305    mark johnson     defensive end              missouri
+12     13   331   mark dienhart            tackle        st thomas (mn)
+13     14   357    robert evans     wide receiver          morris brown
+14     15   383     chris kupec       quarterback        north carolina
+15     16   408        tom fine         tight end            notre dame
+16     17   435   jeff turcotte     defensive end              colorado

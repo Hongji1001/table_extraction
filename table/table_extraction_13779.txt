@@ -1,0 +1,13 @@
+    round  pick           player          position         college
+0       1    12      tony hunter         tight end      notre dame
+1       1    14        jim kelly       quarterback      miami (fl)
+2       2    39    darryl talley        linebacker   west virginia
+3       4    93      trey junkin        linebacker  louisiana tech
+4       4   112      jimmy payne     defensive end         georgia
+5       5   126  matt vandenboom    defensive back       wisconsin
+6       7   180    gurnest brown  defensive tackle        maryland
+7       8   207     james durham    defensive back         houston
+8       9   234    george parker      running back   norfolk state
+9      10   260   richard tharpe  defensive tackle      louisville
+10     11   293      larry white     defensive end   jackson state
+11     12   320   julius dawkins     wide receiver      pittsburgh

@@ -1,0 +1,37 @@
+       original nfl team             player pos             college       conf
+0      arizona cardinals         tim bulman  de      boston college   big east
+1        atlanta falcons     michael koenen   p  western washington       gnac
+2          buffalo bills       jim leonhard   s           wisconsin    big ten
+3          buffalo bills       evan oglesby  cb       north alabama        gsc
+4      carolina panthers  lorenzo alexander  lb          california   pac - 10
+5          chicago bears      rashied davis   s      san jose state        wac
+6          chicago bears    brandon mcgowan   s               maine     a - 10
+7       cleveland browns      joshua cribbs  kr          kent state        mac
+8       cleveland browns       simon fraser  de          ohio state    big ten
+9       cleveland browns        lance moore  wr              toledo        mac
+10        dallas cowboys          jon condo  ls            maryland        acc
+11        dallas cowboys     tyson thompson  rb      san jose state        wac
+12        denver broncos    brandon browner  cb        oregon state   pac - 10
+13         detroit lions       cory procter   g             montana    big sky
+14    indianapolis colts       darrell reid  dt           minnesota    big ten
+15    kansas city chiefs        samkon gado  rb             liberty  big south
+16        miami dolphins        atari bigby   s                 ucf        mac
+17        miami dolphins        john denney  ls                 byu        mwc
+18        miami dolphins         abram elam   s          kent state        mac
+19     minnesota vikings      heath farwell  lb     san diego state        mwc
+20  new england patriots       robbie gould   k          penn state    big ten
+21  new england patriots        mike wright  dl          cincinnati    c - usa
+22    new orleans saints       lp ladouceur  ls          california   pac - 10
+23       new york giants    chase blackburn  lb               akron        mac
+24       new york giants       james butler   s        georgia tech        acc
+25       new york giants         ryan grant  rb          notre dame        ind
+26       new york giants       cameron wake  lb          penn state    big ten
+27       oakland raiders         chris carr  kr         boise state        wac
+28   pittsburgh steelers          john kuhn  fb        shippensburg       psac
+29   pittsburgh steelers        greg warren  ls      north carolina        acc
+30   pittsburgh steelers    nate washington  wr              tiffin        ind
+31    san diego chargers     greg camarillo  wr            stanford   pac - 10
+32      seattle seahawks        chris kluwe   p                ucla   pac - 10
+33      seattle seahawks     leonard weaver  fb     carson - newman        sac
+34   washington redskins         zak keasey  lb           princeton        ivy
+35   washington redskins         nick novak   k            maryland        acc

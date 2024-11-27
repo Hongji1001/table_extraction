@@ -1,0 +1,25 @@
+                  rider manufacturer  laps        time  grid
+0      marco simoncelli       gilera    23   41:01.859     4
+1       alvaro bautista      aprilia    23     + 0.039     1
+2        héctor barbera      aprilia    23    + 11.291     3
+3            alex debon      aprilia    23    + 21.373     2
+4          thomas luthi      aprilia    23    + 26.621    12
+5         mattia pasini      aprilia    23    + 26.720     5
+6        hiroshi aoyama          ktm    23    + 35.818     8
+7         héctor faubel      aprilia    23    + 36.321     6
+8          julian simon          ktm    23    + 36.964    10
+9           lukas pesek      aprilia    23    + 41.237    16
+10  ratthapark wilairot        honda    23    + 52.391    14
+11       yuki takahashi        honda    23    + 56.656     7
+12       alex baldolini      aprilia    23    + 59.282    19
+13      manuel poggiali       gilera    23  + 1:02.503    17
+14         fabrizio lai       gilera    23  + 1:02.656    18
+15       eugene laverty      aprilia    23  + 1:07.418    20
+16         russel gomez      aprilia    23     + 1 lap    21
+17    doni tata pradita       yamaha    23     + 1 lap    24
+18          mika kallio          ktm    19  retirement     9
+19            imre toth      aprilia     9  retirement    22
+20        karel abraham      aprilia     7    accident    15
+21      aleix espargaro      aprilia     2  retirement    13
+22         daniel arcas        honda     2    accident    23
+23    roberto locatelli       gilera     0    accident    11

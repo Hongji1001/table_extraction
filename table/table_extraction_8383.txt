@@ -1,0 +1,7 @@
+               player      country  caps goals years active
+0  michael mcglinchey  new zealand    22   (3)         2009
+1     mile sterjovski    australia    48   (8)  2000 - 2010
+2         mathew ryan    australia     2   (0)       2012 -
+3     john hutchinson        malta    11   (0)       2008 -
+4       mitchell duke    australia     4   (2)       2013 -
+5          matt simon    australia     2   (0)         2009

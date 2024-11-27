@@ -1,0 +1,12 @@
+          japanese title          romaji title tv station  episodes average ratings
+0                    電車男          densha otoko    fuji tv        11           21.0%
+1   海猿 umizaru evolution     umizaru evolution    fuji tv        11           13.2%
+2                 スローダンス            slow dance    fuji tv        11           16.8%
+3           がんばっていきまっしょい   ganbatte ikimasshoi    fuji tv        10           12.4%
+4               幸せになりたい!  shiawase ni naritai!        tbs        10           11.8%
+5                   女系家族         nyokei kazoku        tbs        11          13.85%
+6             いま、会いにゆきます  ima , ai ni yukimasu        tbs        10             11%
+7                  ドラゴン桜         dragon zakura        tbs        11           16.4%
+8                  はるか17      haruka seventeen   tv asahi        10            8.9%
+9               菊次郎とさき 2   kikujirou to saki 2        ntv         9           14.9%
+10                 女王の教室    joou no kyoushitsu        ntv        11           15.7%

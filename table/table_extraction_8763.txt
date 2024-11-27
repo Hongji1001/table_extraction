@@ -1,0 +1,33 @@
+           country film title used in nomination              language                        original title                         director
+0        argentina                        camila               spanish                                camila              maría luisa bemberg
+1          austria          just behind the door                german                  dicht hinter der tür                    mansur madavi
+2           brazil             memoirs of prison            portuguese                   memórias do cárcere        nelson pereira dos santos
+3           canada                      sonatine                french                              sonatine                micheline lanctôt
+4            china                          life               chinese                        人生 (ren sheng)                      wu tianming
+5         colombia            a man of principle               spanish  cóndores no entierran todos los días                 francisco norden
+6   czechoslovakia            the millennial bee        slovak , czech                      tisícročná včela                  juraj jakubisko
+7          denmark                        tukuma                danish                                tukuma         palle kjærulff - schmidt
+8          finland             pessi and illusia               finnish                      pessi ja illusia                  heikki partanen
+9           france              so long , stooge                french                          tchao pantin                     claude berri
+10    west germany           man under suspicion                german                     morgen in alabama               norbert kückelmann
+11       hong kong                    homecoming  cantonese , mandarin                                  似水流年                           yim ho
+12         hungary                         yerma             hungarian                                 yerma  imre gyöngyössy and barna kabay
+13         iceland          when the raven flies             icelandic                       hrafninn flýgur               hrafn gunnlaugsson
+14           india                      the gist                 hindi                              saaransh                     mahesh bhatt
+15          israel              beyond the walls                hebrew                        מאחורי הסורגים                      uri barbash
+16           italy               where 's picone               italian                       mi manda picone                        nanni loy
+17           japan         macarthur 's children              japanese                              瀬戸内少年野球団                 masahiro shinoda
+18     south korea               mulleya mulleya                korean                         여인잔혹사 물레야 물레야                   doo - yong lee
+19     netherlands                    army brats                 dutch                             schatjes!                  ruud van hemert
+20          norway                   the headman             norwegian                             høvdingen                terje kristiansen
+21     philippines                  of the flesh               tagalog                                karnal             marilou diaz - abaya
+22        portugal                dead mans seat            portuguese                      o lugar do morto      antónio - pedro vasconcelos
+23         romania                     glissando              romanian                             glissando                  mircea daneliuc
+24           spain                double feature               spanish                       sesión continua                  josé luis garci
+25          sweden             åke and his world               swedish                    åke och hans värld                     allan edwall
+26     switzerland               dangerous moves                french                   la diagonale du fou                    richard dembo
+27          taiwan       old mo 's second spring               chinese                              老莫的第二个春天                   you - ning lee
+28        thailand           the story of nampoo                  thai                                 น้ำพุ               yuthana mukdasanit
+29    soviet union               wartime romance               russian                военно - полевой роман                 pyotr todorovsky
+30       venezuela               la casa de agua               spanish                       la casa de agua                     jacobo penzo
+31      yugoslavia            the end of the war               serbian                             kraj rata                   dragan kresoja

@@ -1,0 +1,11 @@
+   television service country language      content hdtv package / option
+0          telemarket   italy  italian  televendita   no       no ( fta )
+1          noello sat   italy  italian  televendita   no       no ( fta )
+2   elite shopping tv   italy  italian  televendita   no       no ( fta )
+3              juwelo   italy  italian  televendita   no       no ( fta )
+4           diprã¨ tv   italy  italian         arte   no       no ( fta )
+5  telemarket for you   italy  italian  televendita   no       no ( fta )
+6   la sorgente sat 1   italy  italian  televendita   no       no ( fta )
+7   la sorgente sat 2   italy  italian  televendita   no       no ( fta )
+8   la sorgente sat 3   italy  italian  televendita   no       no ( fta )
+9               hse24   italy  italian  televendita   no       no ( fta )

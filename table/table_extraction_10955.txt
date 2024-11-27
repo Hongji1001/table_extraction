@@ -1,0 +1,11 @@
+           nation                       skip                 third             second               lead          alternate
+0  czech republic          katerina urbanova       lenka cernovska    jana safarikova     jana simmerova     zuzana hajkova
+1         denmark           madeleine dupont         denise dupont    angelina jensen     camilla jensen         ane hansen
+2         england             kirsty balfour         caroline reed   claire greenwood        sarah mcvey          suzie law
+3         germany              andrea schöpp         monika wagner  melanie robillard       stella heiss   christina haller
+4           italy              diana gaspari     giorgia appolonio   violetta caldart     elettra de col    lucrezia salvai
+5     netherlands  shari leibbrandt - demmon  margrietha voskuilen       ester romijn      idske de jong  marianne neeleman
+6          russia         ludmila privivkova          olga jarkova     nkeiruka ezekh  ekaterina galkina   margarita fomina
+7        scotland                 kelly wood       jackie lockhart       lorna vevers       lindsay wood       eve muirhead
+8          sweden             anette norberg              eva lund   cathrine lindahl         anna svärd    kajsa bergström
+9     switzerland                 mirjam ott        carmen schäfer     valeria spälty     janine greiner        carmen küng

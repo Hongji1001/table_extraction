@@ -1,0 +1,11 @@
+                                       provider    years free or pay                  transmission on demand
+0                    bt tv (formerly bt vision)   2006 -         pay  iptv and digital terrestrial       yes
+1                                       freesat   2008 -        free             digital satellite        no
+2                              freesat from sky   1998 -  free + ppv             digital satellite        no
+3                                      freeview   2002 -        free           digital terrestrial        no
+4                    sky (formerly sky digital)   1998 -         pay             digital satellite       yes
+5  smallworld cable (formerly smallworld media)   2001 -         pay                 digital cable        no
+6                              talktalk plus tv   2012 -         pay                          iptv       yes
+7        virgin media (formerly ntl : telewest)   2006 -         pay                 digital cable       yes
+8                          virgin tv (analogue)  1970s -  free + pay                analogue cable        no
+9              wightfibre (formerly wightcable)   2001 -         pay                 digital cable        no

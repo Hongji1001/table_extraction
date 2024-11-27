@@ -1,0 +1,43 @@
+                                      title              developer   genre    release date  version
+0                         3d picture puzzle      microsoft studios  puzzle  2011 - 03 - 23      1.0
+1                          a beanstalk tale             dino games  action  2010 - 12 - 16      1.0
+2                               animalgrams      microsoft studios  puzzle  2010 - 07 - 29      1.0
+3                          audiosurf : tilt         dylan fitterer   music  2009 - 11 - 01      1.0
+4                                bbq battle      microsoft studios  action  2011 - 04 - 01      1.1
+5                                   bees!!!               babaroga  action  2011 - 06 - 23      1.0
+6                       castles and cannons      microsoft studios  action  2010 - 09 - 30      1.0
+7                                  checkers      microsoft studios   board  2009 - 11 - 01      1.0
+8                                     chess      microsoft studios   board  2009 - 11 - 01      1.1
+9                                colorspill           2play mobile  puzzle  2011 - 07 - 29      1.0
+10                             decoder ring               babaroga  puzzle  2011 - 07 - 29      1.0
+11                      dr optics light lab      microsoft studios  puzzle  2010 - 09 - 30      1.0
+12                         halfbrick echoes      halfbrick studios  action  2011 - 06 - 23      1.1
+13                           finger physics  pressok entertainment  puzzle  2010 - 12 - 16      1.0
+14                                goo splat      microsoft studios  action  2009 - 11 - 01      1.1
+15                                 hairball       dba game studios  action  2010 - 11 - 20      1.0
+16                                   hearts      microsoft studios    card  2010 - 05 - 18      1.0
+17                                    hexic      microsoft studios  puzzle  2009 - 09 - 01      1.0
+18                                labyrinth      microsoft studios  action  2010 - 04 - 27      1.0
+19                      lucky lanes bowling               babaroga  sports  2009 - 11 - 01      1.0
+20                               music quiz      microsoft studios   music  2010 - 08 - 19      1.0
+21                    penalty! flick soccer           2play mobile  sports  2011 - 02 - 18      1.2
+22  project gotham racing : ferrari edition      microsoft studios  racing  2009 - 11 - 01      1.0
+23                                  reversi                 2 moro   board  2011 - 06 - 23      1.0
+24                             run and jump      microsoft studios  action  2011 - 06 - 23      1.0
+25                shell game of the future!      microsoft studios  action  2009 - 11 - 01      1.1
+26                            slider puzzle               babaroga  puzzle  2011 - 07 - 29      1.1
+27                                 snowball      microsoft studios  action  2010 - 12 - 16      1.1
+28                                solitaire      microsoft studios    card  2010 - 04 - 27      1.1
+29                           space battle 2      microsoft studios  action  2009 - 09 - 01      1.0
+30                                   spades      microsoft studios    card  2010 - 05 - 18      1.0
+31                             splatter bug           2play mobile  action  2011 - 07 - 29      1.0
+32                                   sudoku      microsoft studios  puzzle  2009 - 09 - 01      1.0
+33                                supernova      microsoft studios  puzzle  2011 - 06 - 23      1.0
+34                           texas hold 'em      microsoft studios    card  2009 - 11 - 01      1.1
+35                              tiki totems                 spokko  puzzle  2010 - 12 - 16      1.1
+36                                    tiles      microsoft studios  puzzle  2010 - 10 - 20      1.0
+37                              trash throw           2play mobile  action  2011 - 07 - 29      1.0
+38                            tug - o - war           2play mobile  action  2011 - 07 - 29      1.0
+39                   vans sk8: pool service        fuel industries  sports  2009 - 11 - 01      1.0
+40                               vine climb           2play mobile  action  2011 - 07 - 29      1.1
+41                               wordmonger          foundation 42  puzzle  2010 - 09 - 30      1.0

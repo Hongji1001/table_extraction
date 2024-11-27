@@ -1,0 +1,11 @@
+               date                                      venue              result  scored                               competition
+0   4 december 2009      siu sai wan sports ground , hong kong               4 - 1       0                     2009 east asian games
+1   8 december 2009      siu sai wan sports ground , hong kong               0 - 1       0                     2009 east asian games
+2  10 december 2009              hong kong stadium , hong kong  1 - 1 (4 - 2 pso )       0                     2009 east asian games
+3   26 january 2011  sai tso wan recreation ground , hong kong               1 - 0       0                                  friendly
+4   9 february 2011           po kong village park , hong kong               1 - 4       0                                  friendly
+5  23 february 2011              hong kong stadium , hong kong               4 - 0       0  2012 afc men 's pre - olympic tournament
+6      9 march 2011    rasmee dhandu stadium , malé , maldives               3 - 0       0  2012 afc men 's pre - olympic tournament
+7       6 june 2010            xianghe sports center , beijing               0 - 1       0                                  friendly
+8      12 june 2010            xianghe sports center , beijing               0 - 2       0                                  friendly
+9      19 june 2011        jar stadium , tashkent , uzbekistan               0 - 1       0  2012 afc men 's pre - olympic tournament

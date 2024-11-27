@@ -1,0 +1,6 @@
+                  specification         gender junior high school (12 - 15 yrs) senior high school (15 - 18 yrs) university students and adults (18yrs + )
+0                maximum length  male & female                           114 cm                           117 cm                                    120 cm
+1                minimum weight           male                            440 g                            480 g                                     510 g
+2                minimum weight         female                            400 g                            420 g                                     440 g
+3  minimum diameter of sakigawa           male                            25 mm                            26 mm                                     26 mm
+4  minimum diameter of sakigawa         female                            24 mm                            25 mm                                     25 mm

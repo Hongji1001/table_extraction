@@ -1,0 +1,14 @@
+                   name pos height weight             2012 club
+0         zoltán szécsi  gk      m      -             zf - eger
+1           tamás varga  cb      m      -         debreceni vse
+2       norbert madaras   d      m      -             pro recco
+3           dénes varga   d      m      -           primorje eb
+4           tamás kásás   d      m      -             pro recco
+5   norbert hosnyánszky   d      m      -             zf - eger
+6          gergely kiss   d      m      -  teva - vasas - uniqa
+7         márton szivós  cb      m      -        grupama honvéd
+8          dániel varga  cb      m      -           primorje eb
+9           péter biros   d      m      -             zf - eger
+10       ádám steinmetz  cf      m      -  teva - vasas - uniqa
+11         balázs hárai  cf      m      -        grupama honvéd
+12          viktor nagy  gk      m      -  teva - vasas - uniqa

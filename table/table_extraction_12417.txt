@@ -1,0 +1,19 @@
+                  driver                       team  laps time / retired  grid  points
+0     sébastien bourdais       newman / haas racing    94    1:45:50.461     1      33
+1        bruno junqueira       newman / haas racing    94   + 1.247 secs     2      29
+2             paul tracy            forsythe racing    94  + 40.066 secs     3      26
+3     patrick carpentier            forsythe racing    94  + 52.356 secs    13      24
+4          justin wilson  mi - jack conquest racing    94  + 58.429 secs     4      21
+5       a j allmendinger                    rusport    94  + 59.337 secs     5      19
+6          alex tagliani        rocketsports racing    93        + 1 lap     7      17
+7           jimmy vasser                 pkv racing    93        + 1 lap     9      15
+8        mario haberfeld              walker racing    93        + 1 lap    15      13
+9       roberto gonzález                 pkv racing    93        + 1 lap    11      11
+10          oriol servià          dale coyne racing    92       + 2 laps    14      10
+11    ryan hunter - reay         herdez competition    92       + 2 laps    10       9
+12      gastón mazzacane          dale coyne racing    92       + 2 laps    16       8
+13  michel jourdain , jr                    rusport    92       + 2 laps     8       7
+14       nelson philippe        rocketsports racing    91       + 3 laps    18       6
+15        alex sperafico  mi - jack conquest racing    90       + 4 laps    17       5
+16       mario domínguez         herdez competition     2        contact     6       4
+17         rodolfo lavín            forsythe racing     2        contact    12       3

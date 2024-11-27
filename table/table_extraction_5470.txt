@@ -1,0 +1,7 @@
+             club  swedish championship titles  allsvenskan titles  introduced                       stars symbolizes
+0        malmö ff                           17                  20        2006           number of allsvenskan titles
+1    ifk göteborg                           18                  13        2006  number of swedish championship titles
+2  ifk norrköping                           12                  12        2006  number of swedish championship titles
+3      örgryte is                           12                   2        2006  number of swedish championship titles
+4  djurgårdens if                           11                   7        2006  number of swedish championship titles
+5             aik                           11                   5        2000  number of swedish championship titles

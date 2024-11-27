@@ -1,0 +1,8 @@
+              region             date               label         format        catalog
+0  worldwide release   june 29 , 1999  roadrunner records   compact disc    rr 8655 - 2
+1  worldwide release   june 29 , 1999  roadrunner records  digipak album    rr 8655 - 5
+2  worldwide reissue  december , 1999  roadrunner records   compact disc    rr 8655 - 8
+3  worldwide reissue  december , 1999  roadrunner records  digipak album    rr 8655 - 9
+4              japan  december , 1999  roadrunner records  digipak album  1686 - 185112
+5      united states  december , 1999  roadrunner records             lp    rr 8655 - 1
+6      united states  december , 1999  roadrunner records   picture disc    rr 8655 - 6

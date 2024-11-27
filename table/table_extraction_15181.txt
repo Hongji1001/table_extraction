@@ -1,0 +1,8 @@
+  opposing teams  against            date                                  venue        status
+0       scotland       18  04 / 02 / 1984                murrayfield , edinburgh  five nations
+1        ireland        9  18 / 02 / 1984                    twickenham , london  five nations
+2         france       32  03 / 03 / 1984               parc des princes , paris  five nations
+3          wales       24  17 / 03 / 1984                    twickenham , london  five nations
+4   south africa       33  02 / 06 / 1984  boet erasmus stadium , port elizabeth    first test
+5   south africa       35  19 / 06 / 1984              ellis park , johannesburg   second test
+6      australia       19  03 / 11 / 1984                    twickenham , london    test match

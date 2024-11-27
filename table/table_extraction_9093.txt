@@ -1,0 +1,9 @@
+   year               round 1                  round 2  place   money
+0  1997                    66                       70      2  250000
+1  1998   beat lee janzen 3&2    beat vijay singh 2 up      1  400000
+2  1999  beat paul lawrie 3&2  beat davis love iii 3&2      1  400000
+3  2000                    71                       68      1  400000
+4  2001                    67                       65      1  400000
+5  2002                    66                       61      1  400000
+6  2005                    67                       64      1  400000
+7  2006                    70                       66      1  500000

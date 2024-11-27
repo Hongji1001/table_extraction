@@ -1,0 +1,28 @@
+    year                 competition                        venue             position          event       notes
+0   1992  world junior championships          seoul , south korea                  6th          100 m       10.57
+1   1993         world championships          stuttgart , germany  5th (quarterfinals)          100 m  10.32 , pb
+2   1993         world championships          stuttgart , germany                  6th  4 100 m relay       38.78
+3   1994      european championships           helsinki , finland                  6th          100 m  10.40 , sb
+4   1995               world indoors            barcelona , spain                  5th           60 m   6.59 , pb
+5   1995         world championships          gothenburg , sweden  7th (quarterfinals)          100 m       10.40
+6   1995         world championships          gothenburg , sweden          5th (heats)          200 m  20.86 , pb
+7   1996            european indoors           stockholm , sweden                  1st           60 m        6.62
+8   1996             summer olympics      atlanta , united states  6th (quarterfinals)          100 m       10.33
+9   1996             summer olympics      atlanta , united states                n / a  4 100 m relay         dnf
+10  1997               world indoors               paris , france          2nd (heats)           60 m        6.67
+11  1998      european championships           budapest , hungary                  5th  4 100 m relay  39.09 , sb
+12  1998                   world cup  johannesburg , south africa                  7th          100 m  10.30 , sb
+13  1998                   world cup  johannesburg , south africa                  7th  4 100 m relay       38.89
+14  1999               world indoors             maebashi , japan                 11th           60 m        6.59
+15  1999         world championships              seville , spain          4th (heats)  4 100 m relay       38.84
+16  2000            european indoors              ghent , belgium               = 11th           60 m        6.74
+17  2000             summer olympics           sydney , australia               = 36th          100 m       10.42
+18  2002            european indoors             vienna , austria                 10th           60 m        6.70
+19  2002            european indoors             vienna , austria                n / a          200 m         dnf
+20  2002      european championships             munich , germany                 12th          100 m       10.38
+21  2002      european championships             munich , germany                  3rd  4 100 m relay       38.88
+22  2002                   world cup               madrid , spain                  7th          100 m       10.46
+23  2002                   world cup               madrid , spain                    -  4 100 m relay         dsq
+24  2003         world championships               paris , france                n / a  4 100 m relay         dnf
+25  2005            european indoors               madrid , spain                 10th           60 m        6.71
+26  2005         world championships           helsinki , finland                  7th  4 100 m relay  38.48 , sb

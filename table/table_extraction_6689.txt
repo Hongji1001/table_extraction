@@ -1,0 +1,33 @@
+                    team  wins  losses  ties  win pct
+0      arizona cardinals     2       1     0    0.667
+1        atlanta falcons     3       1     1    0.700
+2       baltimore ravens    13       9     0    0.591
+3          buffalo bills     5       2     0    0.714
+4      carolina panthers     3       1     0    0.750
+5          chicago bears     3       1     0    0.750
+6     cincinnati bengals    21       9     0    0.700
+7       cleveland browns    19       5     0    0.792
+8         dallas cowboys     1       2     0    0.333
+9         denver broncos     1       3     0    0.250
+10         detroit lions     4       1     0    0.800
+11     green bay packers     2       2     0    0.500
+12        houston texans     1       1     0    0.500
+13    indianapolis colts     4       1     0    0.800
+14  jacksonville jaguars     8      10     0    0.444
+15    kansas city chiefs     5       3     0    0.625
+16        miami dolphins     5       2     0    0.714
+17     minnesota vikings     2       2     0    0.500
+18  new england patriots     4       3     0    0.571
+19    new orleans saints     2       1     0    0.667
+20       new york giants     2       1     0    0.667
+21         new york jets     4       1     0    0.800
+22       oakland raiders     5       2     0    0.714
+23   philadelphia eagles     2       2     0    0.500
+24         st louis rams     1       2     0    0.333
+25    san diego chargers     7       2     0    0.778
+26   san francisco 49ers     1       3     0    0.250
+27      seattle seahawks     2       4     0    0.333
+28  tampa bay buccaneers     3       1     0    0.750
+29      tennessee titans    11      12     0    0.478
+30   washington redskins     3       0     0    1.000
+31              totals :   149      90     1    0.623

@@ -1,0 +1,21 @@
+   sunday sunna / sól monday mona / máni                   tuesday tiw / tyr      wednesday woden / odin thursday thunor / thor friday frige or freya               saturday saturn
+0      sunnōniz dagaz      mēniniz dagaz         tīwas dagaz / þingsus dagaz               wōdanas dagaz           þunras dagaz         frijjōz dagaz  saturnus dagaz / laugō dagaz
+1           sunnandæg           mōnandæg                            tīwesdæg                   wōdnesdæg              þunresdæg              frīgedæg                   sæternesdæg
+2           sunnundag           mānundag             tiuwesdag or thingesdag                  wōdanesdag            thunaresdag               frīadag    sunnunāƀand or satarnesdag
+3           sunnûntag             mnetag                             zîestag      wôdanstag (wuotanstag)             donarestag              frîjatag       sunnûnband or sambaztag
+4            sunnedag            manedag                           dingesdag                  wodenesdag              donersdag                vrīdag     sunnenavend and satersdag
+5             sonntag             montag  dienstag or ziestag (swiss german)  mittwoch (older wutenstag)             donnerstag               freitag                     sonnabend
+6              zondag            maandag                             dinsdag                    woensdag              donderdag               vrijdag                      zaterdag
+7    saubath / sunday           monanday                              tysday                   wadensday               fuirsday                friday                      seturday
+8              sondag            maandag                             dinsdag                    woensdag              donderdag                vrydag                      saterdag
+9               snein            moandei                             tiisdei                    woansdei             tongersdei                 freed             sneon or saterdei
+10            sünndag            maandag                            dingsdag      woonsdag and middeweek             dünnersdag               freedag        sünnavend and saterdag
+11          sunnudagr           mánadagr                             tysdagr                   óðinsdagr               þórsdagr              frjádagr       laugardagr or sunnunótt
+12         sunnudagur          mánadagur                            týsdagur                   mikudagur  hósdagur or tórsdagur          fríggjadagur                   leygardagur
+13         sunnudagur          mánudagur                         þriðjudagur                miðvikudagur            fimmtudagur            föstudagur                   laugardagur
+14             søndag             mandag                             tirsdag                      onsdag                torsdag                fredag                        lørdag
+15             sundag             måndag                              tysdag                      onsdag                torsdag                fredag                       laurdag
+16             söndag             måndag                              tisdag                      onsdag                torsdag                fredag                        lördag
+17          sunnuntai          maanantai                             tiistai                 keskiviikko                torstai             perjantai                      lauantai
+18           pühapäev          esmaspäev                           teisipäev                   kolmapäev              neljapäev                 reede                       laupäev
+19      wiki / rātapu      mane / rāhina                        tūrei / rātū             wenerei / rāapa         tāite / rāpare      prairie / rāmere             hāterei / rāhoroi

@@ -1,0 +1,19 @@
+           name   area  inhabitants  people per km square               main places                                            regions
+0      streymoy  373.5        21717                  57.4    tórshavn and vestmanna                      tórshavn and rest of streymoy
+1      eysturoy  286.3        10738                  37.0  fuglafjørður and runavík                  north eysturoy and south eysturoy
+2         vágar  177.6         2856                  15.7     míðvágur and sørvágur                                              vágar
+3       suðuroy  166.0         5074                  30.9        tvøroyri and vágur                                            suðuroy
+4        sandoy  112.1         1428                  12.4                    sandur                                             sandoy
+5        borðoy   95.0         5030                  52.4                  klaksvík  klaksvík and rest of northern faroes ( norðoyar )
+6         viðoy   41.0          605                  15.0                 viðareiði                                           norðoyar
+7         kunoy   35.5          135                   3.8                     kunoy                                           norðoyar
+8        kalsoy   30.9          136                   4.8      mikladalur and húsar                                           norðoyar
+9        svínoy   27.4           58                   2.7                    svínoy                                           norðoyar
+10       fugloy   11.2           46                   4.0                    kirkja                                           norðoyar
+11       nólsoy   10.3          262                  26.1                    nólsoy                                           streymoy
+12      mykines   10.3           19                   2.0                   mykines                                              vágar
+13       skúvoy   10.0           61                   5.7                    skúvoy                                             sandoy
+14       hestur    6.1           40                   7.1                    hestur                                           streymoy
+15  stóra dímun    2.7            7                   1.9                     dímun                                             sandoy
+16       koltur    2.5            2                   0.8                    koltur                                           streymoy
+17  lítla dímun    0.8            0                   0.0                         -                                             sandoy

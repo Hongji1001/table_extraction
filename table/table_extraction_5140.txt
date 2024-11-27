@@ -1,0 +1,7 @@
+              peak  height (m)  prom (m)    class       parent
+0      the cheviot         815       556  marilyn    broad law
+1   hedgehope hill         714       148   hewitt  the cheviot
+2        comb fell         652        69   hewitt  the cheviot
+3       windy gyle         619       113   hewitt  the cheviot
+4       cushat law         615       147   hewitt  the cheviot
+5  bloodybush edge         610       114   hewitt  the cheviot

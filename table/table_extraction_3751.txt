@@ -1,0 +1,9 @@
+                                school gender age range religious affiliation location                               school website
+0                      beaumont school  mixed   11 - 18        does not apply      al4             http : / /wwwbeaumontschoolcom /
+1                       loreto college  girls   11 - 18        roman catholic      al1              http : / /wwwloretohertsschuk /
+2          marlborough science academy  mixed   11 - 18        does not apply      al1         http : / /wwwmarlboroughhertsschuk /
+3  nicholas breakspear catholic school  mixed   11 - 18        roman catholic      al4  http : / /wwwnicholasbreakspearschoolcouk /
+4                   sandringham school  mixed   11 - 18        does not apply      al4           http : / /wwwsandringhamhertsschuk
+5              st albans girls' school  girls   11 - 18        does not apply      al3               http : / /wwwstagshertsschuk /
+6                 samuel ryder academy  mixed    4 - 19        does not apply      al1        http : / /wwwsamuelryderacademycouk /
+7                      townsend school  mixed   11 - 18     church of england      al3            http : / /wwwtownsendhertsschuk /

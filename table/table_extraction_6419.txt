@@ -1,0 +1,7 @@
+  call sign  frequency mhz                 city of license  erp w class fcc info
+0    w247aq           97.3   tropical gulf acres , florida     25     d      fcc
+1    w244bk           96.7       twentymile bend , florida     80     d      fcc
+2    w252bb           98.3            vero beach , florida     13     d      fcc
+3    w220dz           91.9         wesley chapel , florida      8     d      fcc
+4    w220du           91.9  west deerfield beach , florida     80     d      fcc
+5    w299au          107.7         zolfo springs , florida     19     d      fcc

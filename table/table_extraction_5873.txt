@@ -1,0 +1,24 @@
+                  driver           constructor  laps time / retired  grid
+0             james hunt        mclaren - ford    73     1:31:51.68     2
+1       carlos reutemann               ferrari    73      + 1:02.45     7
+2      patrick depailler        tyrrell - ford    73      + 1:06.39    15
+3             alan jones         shadow - ford    73      + 1:06.61    12
+4        jacques laffite        ligier - matra    72    out of fuel     5
+5       riccardo patrese         shadow - ford    72        + 1 lap    13
+6     hans joachim stuck  brabham - alfa romeo    72        + 1 lap     4
+7     vittorio brambilla        surtees - ford    71       + 2 laps     9
+8    kunimitsu takahashi        tyrrell - ford    71       + 2 laps    22
+9         jody scheckter           wolf - ford    71       + 2 laps     6
+10     kazuyoshi hoshino         kojima - ford    71       + 2 laps    11
+11          alex ribeiro          march - ford    69       + 4 laps    23
+12        gunnar nilsson          lotus - ford    63        gearbox    14
+13        clay regazzoni         ensign - ford    43         engine    10
+14           john watson  brabham - alfa romeo    29        gearbox     3
+15           jochen mass        mclaren - ford    28         engine     8
+16        patrick tambay         ensign - ford    14         engine    16
+17       ronnie peterson        tyrrell - ford     5       accident    18
+18     gilles villeneuve               ferrari     5       accident    20
+19  jean - pierre jarier        ligier - matra     3         engine    17
+20        mario andretti          lotus - ford     1      collision     1
+21     noritake takahara         kojima - ford     1      collision    19
+22           hans binder        surtees - ford     1      collision    21

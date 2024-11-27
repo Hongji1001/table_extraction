@@ -1,0 +1,16 @@
+   place                  player              country  score to par
+0     t1         carl pettersson               sweden     67    - 4
+1     t1              david toms        united states     67    - 4
+2     t1           duffy waldorf        united states     67    - 4
+3     t4            stephen ames  trinidad and tobago     68    - 3
+4     t4            thomas bjørn              denmark     68    - 3
+5     t4            søren hansen              denmark     68    - 3
+6     t4             steve jones        united states     68    - 3
+7     t4              sandy lyle             scotland     68    - 3
+8     t4        shigeki maruyama                japan     68    - 3
+9     t4            len mattiace        united states     68    - 3
+10    t4          phil mickelson        united states     68    - 3
+11    t4              nick price             zimbabwe     68    - 3
+12    t4  jean - françois remésy               france     68    - 3
+13    t4             justin rose              england     68    - 3
+14    t4               des smyth              ireland     68    - 3

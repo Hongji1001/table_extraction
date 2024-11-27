@@ -1,0 +1,26 @@
+                     driver                          entrant      constructor                    chassis          engine tyre
+0     josé froilán gonzález           scuderia achille varzi         maserati         maserati 4clt - 48    maserati l4s    p
+1              alfredo piàn           scuderia achille varzi         maserati         maserati 4clt - 48    maserati l4s    p
+2              johnny claes                     ecurie belge    talbot - lago         talbot - lago t26c       talbot l6    d
+3              harry schell     horschell racing corporation           cooper                 cooper t12    jap v - twin    d
+4             robert manzon                   equipe gordini  simca - gordini          simca gordini t15     gordini l4s    e
+5       maurice trintignant                   equipe gordini  simca - gordini          simca gordini t15     gordini l4s    e
+6        philippe étancelin                          private    talbot - lago         talbot - lago t26c       talbot l6    d
+7              louis rosier                    ecurie rosier    talbot - lago         talbot - lago t26c       talbot l6    d
+8             charles pozzi                    ecurie rosier    talbot - lago         talbot - lago t26c       talbot l6    d
+9   yves giraud - cabantous  automobiles talbot - darracq sa    talbot - lago         talbot - lago t26c       talbot l6    d
+10            pierre levegh                          private    talbot - lago         talbot - lago t26c       talbot l6    d
+11            cuth harrison                          private              era                      era c         era l6s    d
+12               bob gerard                          private              era                      era a         era l6s    d
+13          peter whitehead                          private          ferrari                ferrari 125    ferrari v12s    d
+14          giuseppe farina                    sa alfa romeo       alfa romeo             alfa romeo 158  alfa romeo l8s    p
+15       juan manuel fangio                    sa alfa romeo       alfa romeo             alfa romeo 158  alfa romeo l8s    p
+16            luigi fagioli                    sa alfa romeo       alfa romeo             alfa romeo 158  alfa romeo l8s    p
+17          luigi villoresi                 scuderia ferrari          ferrari                ferrari 125    ferrari v12s    p
+18           alberto ascari                 scuderia ferrari          ferrari                ferrari 125    ferrari v12s    p
+19           raymond sommer                 scuderia ferrari          ferrari                ferrari 125    ferrari v12s    p
+20               franco rol        officine alfieri maserati         maserati         maserati 4clt - 48    maserati l4s    p
+21       clemente biondetti                  scuderia milano         maserati  maserati milano 4clt - 50    maserati l4s    p
+22             louis chiron        officine alfieri maserati         maserati         maserati 4clt - 48    maserati l4s    p
+23              prince bira                     enrico platé         maserati         maserati 4clt - 48    maserati l4s    p
+24     toulo de graffenried                     enrico platé         maserati         maserati 4clt - 48    maserati l4s    p

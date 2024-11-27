@@ -1,0 +1,11 @@
+   round  pick            player    nationality          college
+0      1    22  franklin edwards  united states  cleveland state
+1      2    46      vernon smith  united states        texas a&m
+2      3    68     ernest graham  united states         maryland
+3      4    92       rynn wright  united states        texas a&m
+4      5   114       steve craig  united states    brigham young
+5      6   138    michael thomas  united states       north park
+6      7   160     john crawford  united states           kansas
+7      8   183      frank gilroy  united states       st john 's
+8      9   202        ron wister  united states           temple
+9     10   223   pete mullenberg  united states         delaware

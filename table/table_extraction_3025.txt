@@ -1,0 +1,24 @@
+         settlement                  cyrillic name other names     type  population (2011) largest ethnic group (2002) dominant religion (2002)
+0             vršac                                      вршац     town              36040                       serbs    orthodox christianity
+1          gudurica                                   гудурица  village               1094                       serbs    orthodox christianity
+2           izbište                                    избиште  village               1472                       serbs    orthodox christianity
+3          jablanka             јабланка (romanian : iablanca)  village                251                   romanians    orthodox christianity
+4           kuštilj                 куштиљ (romanian : coştei)  village                748                   romanians    orthodox christianity
+5          mali žam             мали жам (romanian : jamu mic)  village                283                   romanians    orthodox christianity
+6     malo središte  мало средиште (romanian : srediştea mică)  village                 89                   romanians    orthodox christianity
+7          markovac             марковац (romanian : marcovăţ)  village                255                   romanians    orthodox christianity
+8             mesić                  месић (romanian : mesici)  village                198                   romanians    orthodox christianity
+9            orešac                 орешац (romanian : oreşaţ)  village                382                   romanians    orthodox christianity
+10            parta                                      парта  village                376                       serbs    orthodox christianity
+11           pavliš                                     павлиш  village               2195                       serbs    orthodox christianity
+12        potporanj                                   потпорањ  village                272                       serbs    orthodox christianity
+13         ritiševo               ритишево (romanian : rtişor)  village                549                   romanians    orthodox christianity
+14           sočica                сочица (romanian : sălciţa)  village                133                   romanians    orthodox christianity
+15           straža                 стража (romanian : straja)  village                531                   romanians    orthodox christianity
+16           šušara            шушара (hungarian : fejértelep)  village                333                  hungarians    catholic christianity
+17            uljma                                       уљма  village               3269                       serbs    orthodox christianity
+18            vatin                                      ватин  village                238                       serbs    orthodox christianity
+19  veliko središte                            велико средиште  village               1270                       serbs    orthodox christianity
+20        vlajkovac                                  влајковац  village               1148                       serbs    orthodox christianity
+21       vojvodinci          војводинци (romanian : voivodinţ)  village                363                   romanians    orthodox christianity
+22   vršački ritovi                             вршачки ритови  village                 37                       serbs    orthodox christianity

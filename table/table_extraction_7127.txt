@@ -1,0 +1,6 @@
+      region  year                                  name     format (s)                 label
+0  worldwide  2003      the universal masters collection             cd             universal
+1      japan  2005                             best 1200             cd             universal
+2  worldwide  2006                     colour collection             cd             universal
+3    germany  2008  star - club prã¤sentiert grace jones             cd             universal
+4  worldwide  2008                   classic grace jones  cd , download  universal , spectrum

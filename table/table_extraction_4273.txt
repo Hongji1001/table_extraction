@@ -1,0 +1,11 @@
+             dance                                  best dancer (s)  highest score worst dancer (s)  lowest score
+0  cha - cha - cha                                    stacy keibler             28         master p            12
+1            waltz                   giselle fernandez tatum o'neal             23       lisa rinna            19
+2            rumba                        stacy keibler drew lachey             29     tatum o'neal            17
+3        quickstep             drew lachey lisa rinna stacy keibler             27         master p            16
+4             jive                                    stacy keibler             30         master p            14
+5            tango                                      drew lachey             30       jerry rice            20
+6            samba                                    stacy keibler             30      tia carrere            22
+7       paso doble                                      drew lachey             30         master p             8
+8          foxtrot  stacy keibler lisa rinna drew lachey jerry rice             26       jerry rice            24
+9        freestyle                                      drew lachey             30    stacy keibler            26

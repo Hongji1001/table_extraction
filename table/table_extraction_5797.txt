@@ -1,0 +1,38 @@
+    nat               name          since  goals    transfer fee
+0   eng              green           2006      0             2 m
+1   eng             wright           2007      0            free
+2   eng             walker           2004      0   bosman ruling
+3   cze              štěch           2006      0     undisclosed
+4   aus  neill ( captain )  2007 (winter)      0           1.5 m
+5   gha           paintsil           2006      0     undisclosed
+6   usa            spector           2006      0           0.5 m
+7   wal           gabbidon           2005      0  3.5 m combined
+8   eng          ferdinand           2002      5    youth system
+9   eng              upson  2007 (winter)      1             6 m
+10  wal            collins           2005      2  3.5 m combined
+11  sco             dailly  2001 (winter)      4          1.75 m
+12  eng          davenport  2007 (winter)      0             3 m
+13  eng            tomkins           2005      0    youth system
+14  eng             spence           2007      0    youth system
+15  nir          mccartney           2006      1           0.6 m
+16  swe   ljungberg ( vc )           2007      2             3 m
+17  per             solano           2007      4            free
+18  fra            faubert           2007      0           6.1 m
+19  eng             bowyer           2006      4            free
+20  eng               dyer           2007      0             6 m
+21  eng             parker           2007      1             7 m
+22  eng              noble           2003      6    youth system
+23  eng            mullins           2003      6           0.8 m
+24  eng             stokes           2005      0    youth system
+25  sco            quashie  2007 (winter)      0          1.75 m
+26  wal           collison           2007      0    youth system
+27  eng        etherington           2003     16           0.5 m
+28  eng               reid           2004      0    youth system
+29  por          boa morte  2007 (winter)      2             5 m
+30  eng             ashton  2006 (winter)     18             7 m
+31  wal            bellamy           2007      4           7.5 m
+32  eng               cole           2006      8     undisclosed
+33  eng             zamora           2004     39     undisclosed
+34  eng            ephraim           2004      0    youth system
+35  sen             camara           2007      0            loan
+36  eng              sears           2007      1    youth system

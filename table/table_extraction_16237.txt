@@ -1,0 +1,6 @@
+   channel video aspect psip short name         network
+0     31.1  720p   16:9             ion  ion television
+1     31.2  480i    4:3            qubo            qubo
+2     31.3  480i    4:3         ionlife        ion life
+3     31.4  480i    4:3            shop        ion shop
+4     31.5  480i    4:3             qvc             qvc

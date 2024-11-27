@@ -1,0 +1,6 @@
+                player  touchdowns  extra points  field goals  points
+0     george c thomson           7             0            0      35
+1  frederick l conklin           2            10            2      26
+2      stanfield wells           4             0            0      20
+3          jimmy craig           1             0            0       5
+4  thomas a bogle , jr           0             1            1       4

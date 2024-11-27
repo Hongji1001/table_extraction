@@ -1,0 +1,6 @@
+                 branding callsign  frequency power (kw)        coverage
+0   monster radio rx 93.1     dwrx   93.1 mhz      25 kw          manila
+1  monster radio bt 105.9     dybt  105.9 mhz      10 kw            cebu
+2     dream radio rx 93.1     dxrx   93.1 mhz      10 kw       zamboanga
+3   monster radio bt 99.5     dxbt   99.5 mhz      10 kw           davao
+4  city of dreams ez 88.7     dxez   88.7 mhz      10 kw  general santos

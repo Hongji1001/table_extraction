@@ -1,0 +1,30 @@
+    round  pick            player          position  school / club team
+0       1     7       earl girard          halfback           wisconsin
+1       3    19          ed smith          halfback                utep
+2       5    27      don richards            tackle            arkansas
+3       5    31    weyman sellers               end             georgia
+4       6    41   larry olsonoski             guard           minnesota
+5       7    51     jay rhodemyre            center            kentucky
+6       8    61          bob cunz            tackle            illinois
+7      10    81   george walmsley              back                rice
+8      11    91        bob hodges            tackle             bradley
+9      12   101     bob rennebohm               end           wisconsin
+10     13   111        perry moss       quarterback            illinois
+11     14   121        fred provo          halfback          washington
+12     15   131         lou agase            tackle            illinois
+13     16   141      travis raven              back               texas
+14     18   161         ken balge               end      michigan state
+15     19   171     charley tatom            tackle               texas
+16     20   181      floyd thomas            center            arkansas
+17     21   191   herbert st john             guard             georgia
+18     22   201      don anderson              back                rice
+19     23   211        fred kling              back            missouri
+20     24   221     clyde biggers            tackle             catawba
+21     25   231        stan heath       quarterback              nevada
+22     26   241      aubrey allen            tackle            colorado
+23     27   251       stan gorski               end     st mary 's (mn)
+24     28   261         don sharp            center               tulsa
+25     29   271      john panelli              back          notre dame
+26     30   281  clarence mcgeary  defensive tackle  north dakota state
+27     31   289     gayland mills               end                 byu
+28     32   296     ralph earhart          halfback          texas tech

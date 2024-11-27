@@ -1,0 +1,31 @@
+    nat            name  since  goals             ends  transfer fee
+0   eng          collis   2008      0     30 june 2010          free
+1   eng        woodards   2007      0     30 june 2010         30000
+2   eng           jones   2007      0     30 june 2010         65000
+3   eng      schumacher   2007      1     30 june 2010          free
+4   fra          baudet   2006      2     30 june 2009          free
+5   deu            bopp   2007      1     30 june 2010          free
+6   nir        o'connor   2005      1     30 june 2010  youth system
+7   eng          elding   2008      0     30 june 2011   undisclosed
+8   cod            zola   2008      0     30 june 2011        200000
+9   eng           grant   2008      0     30 june 2011        130000
+10  eng             rix   2001      4     30 june 2009  youth system
+11  eng        legzdins   2008      0     30 june 2010          free
+12  eng        mccready   2007      2     30 june 2009          free
+13  ngr           abbey   2007      0     30 june 2010          free
+14  eng       livermore   2008      0  11 january 2009          loan
+15  eng           moore   2007      2     30 june 2010  youth system
+16  eng      carrington   2005      0     30 june 2009  youth system
+17  eng            pope   2005      7     30 june 2009          free
+18  eng          miller   2006      4     30 june 2011  youth system
+19  eng       tomlinson   2001      0     30 june 2009  youth system
+20  eng          daniel   2007      0     30 june 2009          free
+21  eng          bailey   2007      0     30 june 2009  youth system
+22  eng         roberts   2004     11     30 june 2009  youth system
+23  eng        clements   2008      0     30 june 2009  youth system
+24  eng        danville   2008      0     30 june 2009  youth system
+25  eng  leitch - smith   2008      0     30 june 2009  youth system
+26  eng          murphy   2008      0     30 june 2009  youth system
+27  eng       o'donnell   2007      2     30 june 2010        100000
+28  eng        thompson   2008      0     30 june 2009  youth system
+29  eng        westwood   2008      0     30 june 2009  youth system

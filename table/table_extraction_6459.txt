@@ -1,0 +1,11 @@
+            mid gippsland fl  wins  byes  losses  draws  against
+0                 newborough    15     0       2      1      911
+1                  trafalgar    15     0       2      1      830
+2               mirboo north    15     0       3      0      854
+3                     yinnar    10     0       8      0     1032
+4               morwell east     9     0       8      1     1048
+5                   hill end     8     0      10      0     1228
+6                   boolarra     7     0      10      1     1263
+7  yallourn - yallourn north     7     0      11      0     1345
+8                   yarragon     1     0      17      0     1995
+9                 thorpedale     1     0      17      0     2296

@@ -1,0 +1,22 @@
+    school year           class a          class aa                  class aaa                        class aaaa                                       class aaaaa
+0     1987 - 88            yantis            blanco                    atlanta                   schertz clemens                              san antonio marshall
+1     1988 - 89             happy            blanco                     bishop  college station a&m consolidated                            corpus christi carroll
+2     1989 - 90  skidmore - tynan            blanco                      sealy                   schertz clemens                               wichita falls rider
+3     1990 - 91            louise             lytle                    dimmitt                   schertz clemens                                sugar land kempner
+4     1991 - 92             anton         clarendon                     burnet                     austin travis                                    odessa permian
+5     1992 - 93             anton           wheeler                    kaufman           friendswood clear brook                                           mcallen
+6     1993 - 94            utopia             lytle                   stafford                longview pine tree                                       weatherford
+7     1994 - 95    martin 's mill     wallis brazos                     alpine                            uvalde                                 san antonio clark
+8     1995 - 96           lindsay         henrietta  mont belvieu barbers hill                       bridge city                                     north garland
+9     1996 - 97    martin 's mill          canadian                      lytle                         grapevine                                             klein
+10    1997 - 98    martin 's mill           buffalo  mont belvieu barbers hill                      stephenville                                 san antonio clark
+11    1998 - 99           wheeler       van alstyne                    atlanta                       friendswood                                 san antonio clark
+12  1999 - 2000       valley view           lindsay                    atlanta                           brenham                                 san antonio clark
+13    2000 - 01            menard            weimar  mont belvieu barbers hill                 mission sharyland                                             klein
+14    2001 - 02        santa anna       hale center                      lytle                       friendswood                              corpus christi moody
+15    2002 - 03    martin 's mill       hale center                      lytle                  dripping springs                                           del rio
+16    2003 - 04    martin 's mill  s&s consolidated                     canton                         dickinson                                   arlington lamar
+17    2004 - 05           lindsay            salado                    liberty                             aledo  south texas business , education , and technical
+18    2005 - 06            quanah            salado                       kemp                            dayton                                   austin westlake
+19    2006 - 07    martin 's mill            weimar                    atlanta                      stephenville                                      flower mound
+20    2007 - 08             frost            weimar                  iowa park                           lindale                                        cedar park

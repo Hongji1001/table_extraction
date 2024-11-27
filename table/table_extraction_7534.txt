@@ -1,0 +1,43 @@
+                                 name gender           area         authority  decile
+0                     aquinas college   coed        pyes pa  state integrated       9
+1                      arataki school   coed   mt maunganui             state       2
+2                     bellevue school   coed      otumoetai             state       5
+3                   bethlehem college   coed      bethlehem  state integrated      10
+4                    bethlehem school   coed      bethlehem             state       8
+5                   brookfield school   coed     brookfield             state       4
+6                      gate pa school   coed        gate pa             state       2
+7                 golden sands school   coed  papamoa beach             state       5
+8                    greenpark school   coed       greerton             state       6
+9             greerton village school   coed       greerton             state       2
+10         kaka street special school   coed       tauranga             state       4
+11                       matua school   coed          matua             state      10
+12                  maungatapu school   coed       tauranga             state       5
+13                    merivale school   coed       merivale             state       1
+14            mount maunganui college   coed   mt maunganui             state       5
+15       mount maunganui intermediate   coed   mt maunganui             state       5
+16             mount maunganui school   coed   mt maunganui             state       7
+17                       omanu school   coed   mt maunganui             state       6
+18                  otumoetai college   coed      otumoetai             state       8
+19             otumoetai intermediate   coed      otumoetai             state       7
+20                   otumoetai school   coed      otumoetai             state       7
+21                    papamoa college   coed        papamoa             state       5
+22                     papamoa school   coed        papamoa             state       6
+23               pillans point school   coed  pillans point             state       9
+24              rudolf steiner school   coed    welcome bay  state integrated       8
+25                selwyn ridge school   coed    welcome bay             state       6
+26         st mary 's catholic school   coed       tauranga  state integrated       9
+27     st thomas more catholic school   coed        bayfair  state integrated       7
+28               tahatai coast school   coed        papamoa             state       7
+29          tauranga adventist school   coed      bethlehem  state integrated       8
+30             tauranga boys' college   boys       tauranga             state       6
+31            tauranga girls' college  girls       tauranga             state       6
+32              tauranga intermediate   coed       tauranga             state       5
+33                    tauranga school   coed       tauranga             state       7
+34                     tauriko school   coed        tauriko             state       9
+35  te akau ki papamoa primary school   coed        papamoa             state       4
+36                 te kura o matapihi   coed       matapihi             state       3
+37                  te whakatipuranga      -     windermere             state       1
+38               te wharekura o mauao   coed      bethlehem             state       2
+39                      tkkm o otepou   coed    welcome bay             state       3
+40              tkkm o te kura kokiri   coed    welcome bay             state       3
+41                 welcome bay school   coed    welcome bay             state       4

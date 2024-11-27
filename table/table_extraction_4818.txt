@@ -1,0 +1,13 @@
+                   team           city / area                                  arena  capacity last season
+0   birmingham panthers  birmingham & telford      uow , walsall campus & tcat arena      1000         new
+1         cheshire jets               chester                        northgate arena      1000         9th
+2        everton tigers             liverpool  echo arena & greenbank sports academy      7513         new
+3        guildford heat             guildford                     guildford spectrum      1100         1st
+4      leicester riders             leicester                   john sandford centre       800         7th
+5        london capital                london                   capital city academy       300         new
+6   milton keynes lions         milton keynes                       bletchley centre       800         6th
+7      newcastle eagles   newcastle upon tyne                      metro radio arena      6500         3rd
+8      plymouth raiders              plymouth                     plymouth pavilions      1480         5th
+9        scottish rocks               glasgow                         braehead arena      4000         4th
+10     sheffield sharks             sheffield             english institute of sport      1200         2nd
+11     worcester wolves             worcester                university of worcester       600        10th

@@ -1,0 +1,19 @@
+   place            player        country  score to par
+0      1  seve ballesteros          spain     67      4
+1     t2        brad faxon  united states     69      2
+2     t2       wayne grady      australia     69      2
+3     t4        don pooley  united states     70      1
+4     t4        nick price       zimbabwe     70      1
+5     t4    noel ratcliffe      australia     70      1
+6     t4      peter senior      australia     70      1
+7     t8         andy bean  united states     71      e
+8     t8       bob charles    new zealand     71      e
+9     t8      howard clark        england     71      e
+10    t8        nick faldo        england     71      e
+11    t8       david frost   south africa     71      e
+12    t8          jay haas  united states     71      e
+13    t8        mark james        england     71      e
+14    t8         gary koch  united states     71      e
+15    t8   david j russell        england     71      e
+16    t8  andrew sherborne        england     71      e
+17    t8          bob tway  united states     71      e

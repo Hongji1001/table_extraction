@@ -1,0 +1,28 @@
+    city of license identifier                    frequency         power class recnet
+0         armstrong       cbol  1450 am (moving to 91.3 fm)     40 s watt    lp  query
+1          atikokan  cbqi - fm                         90.1    2900 watts     a  query
+2         beardmore       cble                      1240 am      40 watts    lp  query
+3    big trout lake  cftl - fm                        100.3      63 watts    a1  query
+4            dryden  cbqh - fm                        100.9  100000 watts     c  query
+5         ear falls       cboi                       690 am      40 watts    lp  query
+6      fort frances  cbqq - fm                         90.5   50000 watts     b  query
+7         fort hope  cbcf - fm                        101.5      41 watts    a1  query
+8         geraldton  cblg - fm                         89.1   11900 watts     b  query
+9        hornepayne       cblh  1010 am (moving to 92.3 fm)      40 watts    lp  query
+10           ignace       cbes                       690 am      40 watts    lp  query
+11           kenora  cbqx - fm                         98.7   38000 watts     b  query
+12     manitouwadge  cbeb - fm                         89.7   46400 watts     b  query
+13         marathon       cblm                      1090 am      40 watts    lp  query
+14  mishkeegogamang  cbqn - fm                        104.5      81 watts    a1  query
+15           nakina       cbln                      1240 am      40 watts    lp  query
+16          nipigon  cbqy - fm                         98.9    2000 watts     b  query
+17      pickle lake  cbqp - fm                        105.1      83 watts    a1  query
+18       pikangikum  cbqu - fm                        100.3      34 watts    a1  query
+19         red lake  cbea - fm                         90.5      82 watts    a1  query
+20       sandy lake  cbqv - fm                        101.1      37 watts    a1  query
+21      savant lake  cbql - fm                        104.9      78 watts    a1  query
+22        schreiber       cblb                      1340 am      40 watts    lp  query
+23    sioux lookout  cbls - fm                      95.3 fm     500 watts     a  query
+24    sioux narrows  cbqs - fm                      95.7 fm    1300 watts     a  query
+25      terrace bay       cbeh                      1010 am      40 watts    lp  query
+26      white river       cblw                      1010 am      40 watts    lp  query

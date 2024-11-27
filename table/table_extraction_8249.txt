@@ -1,0 +1,10 @@
+   round  overall           player position         college
+0      1       21        ted watts       cb      texas tech
+1      1       23       curt marsh       ot      washington
+2      2       48       howie long       de       villanova
+3      4      111  johnny robinson       dt  louisiana tech
+4      5      118      james davis       cb        southern
+5      9      248        curt mohl       ot            ucla
+6     10      276    frank hawkins       hb          nevada
+7     11      304   chester willis       hb          auburn
+8     12      332      phil nelson       te        delaware

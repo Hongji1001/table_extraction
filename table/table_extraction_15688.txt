@@ -1,0 +1,6 @@
+               athlete          nation  olympics             substance                       punishment
+0       alois schloder    west germany      1972             ephedrine   six month suspension from iihf
+1   františek pospíšil  czechoslovakia      1976               codeine                             none
+2  jarosław morawiecki          poland      1988          testosterone  18 - month suspension from iihf
+3       mattias öhlund          sweden      2002         acetazolamide                             none
+4        vasily pankov         belarus      2002  19 - norandrosterone       retroactively disqualified

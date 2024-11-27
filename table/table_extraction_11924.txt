@@ -1,0 +1,6 @@
+   rank              name                    team  games  points
+0     1      will solomon              fenerbahçe      6     123
+1     2   jeremiah massey       aris thessaloniki      6     120
+2     3        lynn greer              olympiacos      6     113
+3     4      hollis price  lietuvos rytas vilnius      6     101
+4     4  kenan bajramović  lietuvos rytas vilnius      6     101

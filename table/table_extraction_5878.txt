@@ -1,0 +1,27 @@
+                driver          constructor  laps  time / retired  grid
+0         ayrton senna      lotus - renault    67     2:00:28.006     1
+1     michele alboreto              ferrari    67      + 1:02.978     5
+2       patrick tambay              renault    66         + 1 lap    12
+3      elio de angelis      lotus - renault    66         + 1 lap     4
+4        nigel mansell     williams - honda    65        + 2 laps     9
+5        stefan bellof       tyrrell - ford    65        + 2 laps    21
+6        derek warwick              renault    65        + 2 laps     6
+7     stefan johansson              ferrari    62        + 5 laps    11
+8   piercarlo ghinzani  osella - alfa romeo    61        + 6 laps    26
+9   manfred winkelhock           ram - hart    50  not classified    15
+10          niki lauda        mclaren - tag    49          engine     7
+11       eddie cheever           alfa romeo    36          engine    14
+12         alain prost        mclaren - tag    30        spun off     2
+13   andrea de cesaris     ligier - renault    29            tyre     8
+14       nelson piquet        brabham - bmw    28            tyre    16
+15     thierry boutsen         arrows - bmw    28      electrical    10
+16      martin brundle       tyrrell - ford    20    transmission    22
+17         mauro baldi        spirit - hart    19        spun off    24
+18        keke rosberg     williams - honda    16        spun off     3
+19     jacques laffite     ligier - renault    15            tyre    18
+20      gerhard berger         arrows - bmw    12        spun off    17
+21   pierluigi martini       minardi - ford    12        spun off    25
+22    riccardo patrese           alfa romeo     4        spun off    13
+23     philippe alliot           ram - hart     3        spun off    20
+24  franã§ois hesnault        brabham - bmw     3      electrical    19
+25     jonathan palmer             zakspeed     2      suspension    23

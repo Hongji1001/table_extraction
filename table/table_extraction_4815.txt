@@ -1,0 +1,6 @@
+   year nominated work                                event                              award     result
+0  2008        herself               young hollywood awards     breakthrough performance award        won
+1  2009     zombieland  detroit film critics society awards                      best ensemble  nominated
+2  2010        herself                     mtv movie awards  best scared - as - st performance  nominated
+3  2010        herself   dallas international film festival                  dallas star award        won
+4  2011  the rum diary              hollywood film festival                    spotlight award        won

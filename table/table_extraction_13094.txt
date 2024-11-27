@@ -1,0 +1,29 @@
+                rider                bike  laps         time  grid
+0        troy bayliss     ducati 1098 f08    22    36:50.907     1
+1        carlos checa     honda cbr1000rr    22      + 2.132     6
+2     max neukirchner  suzuki gsx - r1000    22      + 2.179     5
+3      yukio kagayama  suzuki gsx - r1000    22     + 10.919     7
+4         troy corser     yamaha yzf - r1    22     + 11.051     4
+5          jakub smrz   ducati 1098 rs 08    22     + 11.979     8
+6    ryuichi kiyonari     honda cbr1000rr    22     + 15.184    13
+7       makoto tamada   kawasaki zx - 10r    22     + 18.395    10
+8    gregorio lavilla     honda cbr1000rr    22     + 18.634    15
+9          max biaggi   ducati 1098 rs 08    22     + 20.699    18
+10       régis laconi   kawasaki zx - 10r    22     + 25.759    11
+11     kenan sofuoğlu     honda cbr1000rr    22     + 26.064    21
+12    ayrton badovini   kawasaki zx - 10r    22     + 35.582    20
+13    karl muggeridge     honda cbr1000rr    22     + 36.266    19
+14  shinichi nakatomi     yamaha yzf - r1    22     + 37.215    17
+15         ruben xaus   ducati 1098 rs 08    22     + 37.286     3
+16  sébastien gimbert     yamaha yzf - r1    22     + 39.037    23
+17    russell holland     honda cbr1000rr    22     + 45.162    24
+18      shuhei aoyama     honda cbr1000rr    22   + 1:04.895    26
+19           arie vos   ducati 1098 rs 08    22   + 1:05.022    25
+20     loic napoleone     yamaha yzf - r1    22   + 1 22.777    29
+21      roberto rolfo     honda cbr1000rr    20     + 2 laps    22
+22    michel fabrizio     ducati 1098 f08     9     accident    12
+23        fonsi nieto  suzuki gsx - r1000     9   retirement     9
+24        david checa     yamaha yzf - r1     6     accident    14
+25       luca morelli     honda cbr1000rr     6   retirement    27
+26      noriyuki haga     yamaha yzf - r1     1     accident     2
+27  vittorio iannuzzo   kawasaki zx - 10r     0  not started    28

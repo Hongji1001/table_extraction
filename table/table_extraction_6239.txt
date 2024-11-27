@@ -1,0 +1,26 @@
+                                 race name         circuit          date           winning driver          constructor  report
+0               iv gran premio di siracusa        syracuse      11 april              nino farina              ferrari  report
+1                        xv pau grand prix             pau      19 april               jean behra              gordini  report
+2                            vi lavant cup        goodwood      19 april              reg parnell              ferrari  report
+3               iii grand prix de bordeaux        bordeaux         9 may    josé froilán gonzález              ferrari  report
+4             iv brdc international trophy     silverstone        15 may    josé froilán gonzález              ferrari  report
+5                  vii gran premio di bari            bari        22 may    josé froilán gonzález              ferrari  report
+6                         ii curtis trophy      snetterton        5 june            roy salvadori             maserati  report
+7                 xiii gran premio di roma    castelfusano        6 june           onofre marimón             maserati  report
+8           xxiv grand prix des frontières          chimay        6 june                   b bira             maserati  report
+9            i cornwall mrc formula 1 race       davidstow        7 june  john riseley - prichard  connaught - francis  report
+10                   i barc formula 1 race        goodwood        7 june              reg parnell              ferrari  report
+11                ii crystal palace trophy  crystal palace       19 june              reg parnell              ferrari  report
+12  iv grand prix de rouen - les - essarts           rouen       11 july      maurice trintignant              ferrari  report
+13                  iii grand prix de caen            caen       25 july      maurice trintignant              ferrari  report
+14                            i august cup  crystal palace      2 august              reg parnell              ferrari  report
+15          ii cornwall mrc formula 1 race       davidstow      2 august              john coombs    lotus - connaught  report
+16                i international gold cup     oulton park      7 august            stirling moss             maserati  report
+17                            redex trophy      snetterton     14 august              reg parnell              ferrari  report
+18               xxiii circuito di pescara         pescara     15 august              luigi musso             maserati  report
+19                  v sachsenring - rennen     sachsenring     15 august               paul thiel                  emw  report
+20             iii joe fry memorial trophy    castle combe     28 august             horace gould     cooper - bristol  report
+21                    v circuit de cadours         cadours  12 september               jean behra              gordini  report
+22              i grosser preis von berlin            avus  19 september               karl kling             mercedes  report
+23                     vii goodwood trophy        goodwood  25 september            stirling moss             maserati  report
+24                i daily telegraph trophy         aintree     2 october            stirling moss             maserati  report

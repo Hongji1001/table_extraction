@@ -1,0 +1,6 @@
+   rank           athlete         country     time   notes
+0     1        olaf tufte          norway  7:20.20       q
+1     2  sjoerd hamburger     netherlands  7:27.05       q
+2     3       aly ibrahim           egypt  7:43.70       q
+3     4   wang ming - hui  chinese taipei  7:46.83       q
+4     5     rodrigo ideus        colombia  7:56.85  se / f

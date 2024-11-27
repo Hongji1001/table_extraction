@@ -1,0 +1,18 @@
+     res  record              opponent                             method  round   time                                 location
+0   loss  10 - 7        jeremy kimball               decision (unanimous)      3   5:00        denver , colorado , united states
+1    win  10 - 6         garrett olson                      tko (punches)      2   4:04        honolulu , hawaii , united states
+2    win   9 - 6          gary tapusoa                      tko (punches)      3   4:42     kansas city , kansas , united states
+3   loss   8 - 6          tomasz drwal    submission (rear - naked choke)      2   1:03           dallas , texas , united states
+4    win   8 - 5  xavier foupa - pokam                      tko (punches)      1   0:37       las vegas , nevada , united states
+5   loss   7 - 5         thales leites    submission (rear - naked choke)      1   1:18      rosemont , illinois , united states
+6   loss   7 - 4        mike massenzio                submission (kimura)      1   1:28         omaha , nebraska , united states
+7    win   7 - 3        marvin eastman                       ko (punches)      1   1:08       las vegas , nevada , united states
+8   loss   6 - 3          patrick cote                      tko (punches)      1   1:44       las vegas , nevada , united states
+9    win   6 - 2          jordan radev                       ko (punches)      1   0:33      hollywood , florida , united states
+10  loss   5 - 2       martin kampmann  submission (arm - triangle choke)      1   4:06          columbus , ohio , united states
+11   win   5 - 1        alessio sakara                      tko (punches)      1   4:07  sacramento , california , united states
+12   win   4 - 1         brian monahan                      tko (punches)      1  n / a        moline , illinois , united states
+13   win   3 - 1        steve evan dau               submission (punches)      2   1:26    st charles , illinois , united states
+14   win   2 - 1        rafal piszczek                      tko (punches)      2   2:37        hammond , indiana , united states
+15   win   1 - 1        claude patrick               decision (unanimous)      3   5:00                   hull , quebec , canada
+16  loss   0 - 1           nate quarry                      tko (punches)      2   3:03              orem , utah , united states

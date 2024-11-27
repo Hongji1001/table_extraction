@@ -1,0 +1,10 @@
+   round  pick              player position school / club team
+0      1    13    jonathan stewart       rb             oregon
+1      1    19           jeff otah       ot         pittsburgh
+2      3    67     charles godfrey       cb               iowa
+3      3    74          dan connor       lb         penn state
+4      5   141       gary barnidge       te         louisville
+5      6   181         nick hayden       dt          wisconsin
+6      7   221        hilee taylor       lb     north carolina
+7      7   241      geoff schwartz       ol             oregon
+8      7   250  mackenzy bernadeau        g            bentley

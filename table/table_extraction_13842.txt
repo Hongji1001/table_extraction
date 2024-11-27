@@ -1,0 +1,11 @@
+   round  pick               player    nationality           college
+0      1    24        michael young  united states           houston
+1      2    47      ronnie williams  united states           florida
+2      3    70        rick carlisle  united states          virginia
+3      4    93         kevin mullin  united states         princeton
+4      5   116         todd orlando  united states           bentley
+5      6   139        steve carfino  united states              iowa
+6      7   162  mark van valkenburg  united states  framingham state
+7      8   184       champ godboldt  united states        holy cross
+8      9   206            joe dixon  united states         merrimack
+9     10   228            dan trant  united states             clark

@@ -1,0 +1,12 @@
+    rank               nation  gold  silver  bronze  total
+0      1                 cuba     9      11      12     32
+1      2              jamaica     7       5       4     16
+2      3             colombia     4       2       3      9
+3      4          puerto rico     4       2       1      7
+4      5               mexico     3       3       4     10
+5      6  trinidad and tobago     2       5       1      8
+6      7             barbados     1       1       1      3
+7      8            guatemala     1       0       0      1
+8      8              bahamas     1       0       0      1
+9     10            venezuela     0       2       5      7
+10    11    us virgin islands     0       1       1      2

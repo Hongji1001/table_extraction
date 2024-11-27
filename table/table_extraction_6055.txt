@@ -1,0 +1,27 @@
+      date                                 course  distance                     type                       winner
+0   13 may                                  milan         -          team time trial                renault - elf
+1   14 may                     parma to viareggio         -  stage with mountain (s)     giuseppe saronni ( ita )
+2   15 may                   viareggio to cortona         -              plain stage       michael wilson ( aus )
+3   16 may                      perugia to assisi         -    individual time trial      bernard hinault ( fra )
+4   17 may                         assisi to rome         -              plain stage          urs freuler ( sui )
+5   18 may                        rome to caserta         -              plain stage          urs freuler ( sui )
+6   19 may     caserta to castellammare di stabia         -  stage with mountain (s)      silvano contini ( ita )
+7   20 may    castellammare di stabia to diamante         -              plain stage      francesco moser ( ita )
+8   21 may                               rest day  rest day                 rest day                     rest day
+9   22 may                  taormina to agrigento         -  stage with mountain (s)      moreno argentin ( ita )
+10  23 may                   agrigento to palermo         -  stage with mountain (s)     giuseppe saronni ( ita )
+11  24 may                      cefalã to messina         -              plain stage          urs freuler ( sui )
+12  25 may          palmi to camigliatello silano         -  stage with mountain (s)       bernard becaas ( fra )
+13  26 may                               rest day  rest day                 rest day                     rest day
+14  27 may  cava de' tirreni to campitello matese         -  stage with mountain (s)      bernard hinault ( fra )
+15  28 may           campitello matese to pescara         -  stage with mountain (s)      silvano contini ( ita )
+16  29 may                      pescara to urbino         -              plain stage       guido bontempi ( ita )
+17  30 may                    urbino to comacchio         -              plain stage     silvestro milani ( ita )
+18  31 may  comacchio to san martino di castrozza         -  stage with mountain (s)        vicente belda ( esp )
+19  1 june      fiera di primiero to boario terme         -  stage with mountain (s)      silvano contini ( ita )
+20  2 june             piancogno to montecampione         -  stage with mountain (s)      bernard hinault ( fra )
+21  3 june               boario terme to vigevano         -              plain stage  robert dill - bundi ( sui )
+22  4 june                      vigevano to cuneo         -              plain stage      francesco moser ( ita )
+23  5 june                      cuneo to pinerolo         -  stage with mountain (s)     giuseppe saronni ( ita )
+24  6 june                      pinerolo to turin         -    individual time trial      bernard hinault ( fra )
+25   total                                  total         -                  km (mi)                      km (mi)

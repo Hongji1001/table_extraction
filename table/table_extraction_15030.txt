@@ -1,0 +1,7 @@
+                       model     screen size        bluetooth fm transmitter   flash
+0                        s30             3.5               no             no  256 mb
+1                        s35             3.5               no             no    1 gb
+2       s45 (australia only)  4.3 widescreen               no             no    1 gb
+3                        s50  4.3 widescreen  dun + handsfree             no  512 mb
+4  s80 (australia & uk only)  4.3 widescreen  dun + handsfree             no  512 mb
+5                       s90i  4.3 widescreen  dun + handsfree             no    2 gb

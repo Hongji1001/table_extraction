@@ -1,0 +1,16 @@
+                         camera                  sensor resolution      sensor                 output cpu usage ir leds
+0                  ideal webcam                            640x480  monochrome      highly compressed     small     yes
+1                 oem ir webcam                            640x480       color        jpeg compressed     small     yes
+2       sony playstation eyetoy                            640x480       color        jpeg compressed     small      no
+3        sony playstation 3 eye                            640x480       color  jpeg compressed , raw     small      no
+4    microsoft xbox live vision                            640x480       color  jpeg compressed , raw     small      no
+5           nintendo wii remote                             128x96       color      point coordinates      none      no
+6        naturalpoint trackir 1            60k pixels (eg 300x200)  monochrome       binary threshold   minimal     yes
+7        naturalpoint trackir 2            60k pixels (eg 300x200)  monochrome       binary threshold   minimal     yes
+8        naturalpoint trackir 3                            355x288  monochrome       binary threshold   minimal     yes
+9    naturalpoint trackir 3 pro                            355x288  monochrome       binary threshold   minimal     yes
+10   naturalpoint trackir 4 pro    355x288 (subsampled at 710x480)  monochrome       binary threshold   minimal     yes
+11       naturalpoint trackir 5                            640x480  monochrome    grayscale threshold   minimal     yes
+12  naturalpoint smartnav 1 / 2            60k pixels (eg 300x200)  monochrome       binary threshold   minimal     yes
+13      naturalpoint smartnav 3                            355x288  monochrome       binary threshold   minimal     yes
+14      naturalpoint smartnav 4  640x480 (subsampled at 1280x480 )  monochrome    grayscale threshold   minimal     yes

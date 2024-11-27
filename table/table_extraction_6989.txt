@@ -1,0 +1,15 @@
+            nation gold silver bronze  total
+0     west germany    4      4      4     12
+1           france    2      -      1      3
+2      new zealand    2      -      -      2
+3           sweden    2      -      -      2
+4   united kingdom    1      4      1      6
+5    united states    1      -      2      3
+6      switzerland    1      -      1      2
+7          hungary    -      1      1      2
+8      netherlands    -      1      1      2
+9          belgium    -      1      -      1
+10         finland    -      1      -      1
+11    soviet union    -      1      -      1
+12       australia    -      -      1      1
+13           spain    -      -      1      1

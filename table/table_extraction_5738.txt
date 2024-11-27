@@ -1,0 +1,6 @@
+                      tournament                           1993                           1994                           1995                           1996
+0  junior grand slam tournaments  junior grand slam tournaments  junior grand slam tournaments  junior grand slam tournaments  junior grand slam tournaments
+1                australian open                              a                              a                              a                              a
+2                    french open                             1r                              a                             2r                             qf
+3                      wimbledon                              a                              a                             2r                              a
+4                        us open                              a                              a                              a                              a

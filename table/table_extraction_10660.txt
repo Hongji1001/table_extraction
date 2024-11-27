@@ -1,0 +1,10 @@
+   round  pick  overall             name          position                 college
+0      1     9        9   john henderson  defensive tackle               tennessee
+1      2     8       40     mike pearson  offensive tackle                 florida
+2      3    24       89     akin ayodele        linebacker                  purdue
+3      4    10      108    david garrard       quarterback           east carolina
+4      4    20      118      chris luzar         tight end                virginia
+5      6     8      180  clenton ballard  defensive tackle   southwest texas state
+6      7    11      222   kendall newson     wide receiver  middle tennessee state
+7      7    36      247      steve smith    defensive back                  oregon
+8      7    37      248   hayden epstein            kicker                michigan

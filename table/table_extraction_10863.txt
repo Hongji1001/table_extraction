@@ -1,0 +1,9 @@
+   date                 opponent venue           result attendance  competition
+0     3      sheffield scimitars  away  lost 2 - 3 (so)        425       league
+1     4  milton keynes lightning  home       lost 2 - 5       1268  premier cup
+2    10           bracknell bees  home  lost 2 - 3 (so)       1748       league
+3    11    peterborough phantoms  away       lost 1 - 2    unknown       league
+4    17  milton keynes lightning  away        won 4 - 2       1075       league
+5    18        wightlink raiders  home       won 14 - 4       1636       league
+6    24    chelmsford chieftains  home        won 7 - 3       1238  premier cup
+7    25          romford raiders  away        won 5 - 2    unknown       league

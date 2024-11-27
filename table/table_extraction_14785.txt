@@ -1,0 +1,8 @@
+   nat      name  moving from      type transfer window  ends transfer fee
+0  esp   s ramos      sevilla  transfer          summer  2009         27 m
+1  bra   robinho       santos  transfer          summer  2008         25 m
+2  bra  baptista      sevilla  transfer          summer  2010         20 m
+3  bra   cicinho    são paulo  transfer          winter  2007          8 m
+4  uru     diogo  river plate  transfer          summer  2007          6 m
+5  ita   cassano         roma  transfer          winter  2008      5 , 5 m
+6  uru  p garcía      osasuna  transfer          summer  2008      4 , 5 m

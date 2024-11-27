@@ -1,0 +1,14 @@
+                                            name             type elevation          usgs map  gnis id
+0           clear lake (douglas county , oregon)             lake  feet (m)    winchester bay  1139800
+1             clear lake (wasco county , oregon)        reservoir  feet (m)    wapinitia pass  1139803
+2             clear lake (amazon creek , oregon)             lake  feet (m)       eugene west  1119000
+3            clear lake (marion county , oregon)             lake  feet (m)    mission bottom  1119001
+4         clear lake (tillamook county , oregon)             lake  feet (m)         garibaldi  1119002
+5           clear lake (clatsop county , oregon)             lake  feet (m)         warrenton  1119003
+6                            clear lake , oregon  populated place  feet (m)    mission bottom  1119004
+7   clear lake (florence , lane county , oregon)             lake  feet (m)       mercer lake  1139801
+8         clear lake (clackamas county , oregon)             lake  feet (m)            elwood  1139802
+9           clear lake (wallowa county , oregon)             lake  feet (m)  clear lake ridge  1139804
+10             clear lake (linn county , oregon)             lake  feet (m)        clear lake  1139805
+11             clear lake (coos county , oregon)             lake  feet (m)          lakeside  1154640
+12                              malabon , oregon  historic locale  feet (m)       eugene west  1166549

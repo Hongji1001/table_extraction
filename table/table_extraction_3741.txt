@@ -1,0 +1,7 @@
+   season                sport                     tournament structure  of divisions  1st tournament          2011 - 2012 state tournament location
+0    fall        cross country            district , regional , & state             3            1978                national trail raceway , hebron
+1    fall         field hockey                 state qualifying & state             1            1979  upper arlington high school , upper arlington
+2    fall               soccer  sectional , district , regional & state             3            1985                        crew stadium , columbus
+3  winter              bowling           sectional , district , & state             2            2007         wayne webb 's columbus bowl , columbus
+4  winter           gymnastics           sectional , district , & state             1            1977        hilliard bradley high school , hilliard
+5  winter  swimming and diving           sectional , district , & state             2            1977                     branin natatorium , canton

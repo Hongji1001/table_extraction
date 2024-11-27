@@ -1,0 +1,7 @@
+            school          city team name  enrollment ihsaa class ihsaa football class       county
+0       batesville    batesville  bulldogs         676         aaa                  aaa    69 ripley
+1     east central       st leon   trojans        1406        aaaa                 aaaa  15 dearborn
+2  franklin county    brookville  wildcats         968         aaa                 aaaa  24 franklin
+3       greensburg    greensburg   pirates         649         aaa                  aaa   16 decatur
+4     lawrenceburg  lawrenceburg    tigers         566         aaa                  aaa  15 dearborn
+5   south dearborn        aurora   knights         906         aaa                 aaaa  15 dearborn

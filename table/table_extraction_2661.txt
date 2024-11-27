@@ -1,0 +1,10 @@
+                        branding callsign  frequency power (kw)        location
+0          96.3 easy rock manila     dwrk   96.3 mhz      25 kw    metro manila
+1          91.9 easy rock baguio     dzst   91.9 mhz      10 kw          baguio
+2         93.5 easy rock boracay     dyey   93.5 mhz       1 kw         boracay
+3          92.3 easy rock iloilo     dyst   92.3 mhz      10 kw          iloilo
+4        105.5 easy rock bacolod     dymy  105.5 mhz      24 kw         bacolod
+5           102.7 easy rock cebu     dytc  102.7 mhz      10 kw            cebu
+6       97.9 easy rock zamboanga     dxcm   97.9 mhz       5 kw       zamboanga
+7  96.9 easy rock cagayan de oro     dxks   96.9 mhz      10 kw  cagayan de oro
+8          105.1 easy rock davao     dxys  105.1 mhz      10 kw           davao

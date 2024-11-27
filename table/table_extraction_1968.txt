@@ -1,0 +1,8 @@
+   pick                                  cfl team                     player position            college
+0    33                     hamilton tiger - cats  guillarme allard - cameus       rb              laval
+1    34                         toronto argonauts              gordon sawler       dl  st francis xavier
+2    35                     winnipeg blue bombers              peter quinney       fb    wilfrid laurier
+3    36                          edmonton eskimos                   eric lee       rb        weber state
+4    37                                  bc lions  jonathan pierre - etienne       de           montreal
+5    38  hamilton tiger - cats (via saskatchewan)          raymond wladichuk       db       simon fraser
+6    39                        montreal alouettes          benoã®t boulanger       rb         sherbrooke

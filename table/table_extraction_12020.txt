@@ -1,0 +1,28 @@
+                 rider                bike  laps        time  grid
+0        noriyuki haga     yamaha yzf - r1    23   37:03.759    10
+1         troy bayliss     ducati 1098 f08    23     + 1.551     3
+2         carlos checa     honda cbr1000rr    23     + 2.903     7
+3     ryuichi kiyonari     honda cbr1000rr    23     + 7.277     6
+4          troy corser     yamaha yzf - r1    23     + 8.051     8
+5       yukio kagayama  suzuki gsx - r1000    23     + 9.223     2
+6           rubén xaus   ducati 1098 rs 08    23    + 10.164     4
+7           max biaggi   ducati 1098 rs 08    23    + 10.614     9
+8         régis laconi   kawasaki zx - 10r    23    + 17.234    15
+9          fonsi nieto  suzuki gsx - r1000    23    + 18.100    13
+10    gregorio lavilla     honda cbr1000rr    23    + 18.288    17
+11       lorenzo lanzi   ducati 1098 rs 08    23    + 18.826     5
+12     michel fabrizio     ducati 1098 f08    23    + 21.770    11
+13          jakub smrž   ducati 1098 rs 08    23    + 22.872    16
+14      kenan sofuoğlu     honda cbr1000rr    23    + 25.224    24
+15   shinichi nakatomi     yamaha yzf - r1    23    + 25.301    21
+16       roberto rolfo     honda cbr1000rr    23    + 25.509    18
+17         david checa     yamaha yzf - r1    23    + 25.615    14
+18     russell holland     honda cbr1000rr    23    + 26.503    20
+19     karl muggeridge     honda cbr1000rr    23    + 35.171    19
+20     ayrton badovini   kawasaki zx - 10r    23    + 53.624    27
+21  diego lozano ortiz     honda cbr1000rr    23    + 54.672    26
+22        luca morelli     honda cbr1000rr    23  + 1'00.537    29
+23       shuhei aoyama     honda cbr1000rr    23  + 1'24.952    28
+24     carmelo morales     yamaha yzf - r1    22     + 1 lap    25
+25       makoto tamada   kawasaki zx - 10r     7    accident    12
+26      loïc napoleone     yamaha yzf - r1     6  retirement    30

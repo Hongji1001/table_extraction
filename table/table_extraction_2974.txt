@@ -1,0 +1,14 @@
+       english     latin proto - italo - western 1 conservative central italian 1  italian spanish catalan old french
+0    one (fem)      ūnam                      ˈuna                            una      una     una     una        une
+1         door    portam                    ˈpɔrta                          pɔrta    porta  puerta   porta      porte
+2        seven    septem                    ˈsɛtte                          sɛtte    sette   siete     set        set
+3          sea      mare                     ˈmare                           mare     mare     mar     mar        mer
+4        peace     pācem                    ˈpatʃe                           pace     pace     paz     pau       paiz
+5         part    partem                    ˈparte                          parte    parte   parte    part       part
+6       mother    mātrem                    ˈmatre                          matre    madre   madre    mare      meḍre
+7       twenty   vīgintī                   veˈenti                          vinti    venti  veinte    vint       vint
+8         four  quattuor                  ˈkwattro                        quattro  quattro  cuatro  quatre     quatre
+9        eight      octō                     ˈɔkto                           ɔtto     otto    ocho    vuit       huit
+10        when    quandō                   ˈkwando                         quando   quando  cuando    quan      quant
+11      fourth   quartum                   ˈkwartu                         quartu   quarto  cuarto   quart      quart
+12  one (masc)      ūnum                      ˈunu                            unu      uno     uno      un         un

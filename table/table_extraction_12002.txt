@@ -1,0 +1,8 @@
+    rank         nation  gold  silver  bronze  total
+0      1  united states     9       6       4     19
+1      2         mexico     3       2       2      7
+2      3         canada     0       2       4      6
+3      5    netherlands     0       1       1      2
+4      4       colombia     0       1       0      1
+5      5          chile     0       0       1      1
+6  total          total    12      12      12     36

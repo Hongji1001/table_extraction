@@ -1,0 +1,45 @@
+           date               visitor   score                  home       record
+0   november 16      new york rangers   1 - 1   chicago black hawks    0 - 0 - 1
+1   november 20         boston bruins   0 - 1   chicago black hawks    1 - 0 - 1
+2   november 23    montreal canadiens   0 - 3   chicago black hawks    2 - 0 - 1
+3   november 25   chicago black hawks   4 - 3         boston bruins    3 - 0 - 1
+4   november 27   chicago black hawks   4 - 0      new york rangers    4 - 0 - 1
+5   november 29   chicago black hawks   3 - 0       ottawa senators    5 - 0 - 1
+6    december 2   chicago black hawks   1 - 2      montreal maroons    5 - 1 - 1
+7    december 4    new york americans   2 - 4   chicago black hawks    6 - 1 - 1
+8    december 7       detroit falcons   2 - 3   chicago black hawks    7 - 1 - 1
+9    december 9   chicago black hawks   0 - 1       detroit falcons    7 - 2 - 1
+10  december 14      montreal maroons   2 - 0   chicago black hawks    7 - 3 - 1
+11  december 16       ottawa senators   2 - 4   chicago black hawks    8 - 3 - 1
+12  december 18   chicago black hawks   0 - 0    montreal canadiens    8 - 3 - 2
+13  december 20   chicago black hawks   1 - 3   toronto maple leafs    8 - 4 - 2
+14  december 23   chicago black hawks   3 - 2  philadelphia quakers    9 - 4 - 2
+15  december 28   toronto maple leafs   3 - 2   chicago black hawks    9 - 5 - 2
+16    january 1  philadelphia quakers  3 - 10   chicago black hawks   10 - 5 - 2
+17    january 4       detroit falcons   2 - 1   chicago black hawks   10 - 6 - 2
+18    january 6   chicago black hawks   2 - 5         boston bruins   10 - 7 - 2
+19    january 8   chicago black hawks   4 - 0  philadelphia quakers   11 - 7 - 2
+20   january 11   chicago black hawks   2 - 0      new york rangers   12 - 7 - 2
+21   january 13   chicago black hawks   1 - 0    new york americans   13 - 7 - 2
+22   january 15         boston bruins   0 - 2   chicago black hawks   14 - 7 - 2
+23   january 18      new york rangers   1 - 2   chicago black hawks   15 - 7 - 2
+24   january 22  philadelphia quakers   2 - 5   chicago black hawks   16 - 7 - 2
+25   january 25      montreal maroons   3 - 2   chicago black hawks   16 - 8 - 2
+26   february 1    montreal canadiens   4 - 2   chicago black hawks   16 - 9 - 2
+27   february 5  philadelphia quakers   1 - 6   chicago black hawks   17 - 9 - 2
+28   february 8   chicago black hawks   3 - 2      new york rangers   18 - 9 - 2
+29  february 10   chicago black hawks   1 - 2         boston bruins  18 - 10 - 2
+30  february 12   chicago black hawks   3 - 2       ottawa senators  19 - 10 - 2
+31  february 15      new york rangers   2 - 1   chicago black hawks  19 - 11 - 2
+32  february 19       detroit falcons   5 - 4   chicago black hawks  19 - 12 - 2
+33  february 22   chicago black hawks   1 - 1       detroit falcons  19 - 12 - 3
+34  february 24   chicago black hawks   2 - 3      montreal maroons  19 - 13 - 3
+35      march 1       ottawa senators   0 - 5   chicago black hawks  20 - 13 - 3
+36      march 5    new york americans   0 - 1   chicago black hawks  21 - 13 - 3
+37      march 8   chicago black hawks   1 - 2    new york americans  21 - 14 - 3
+38     march 10   chicago black hawks   1 - 2    montreal canadiens  21 - 15 - 3
+39     march 12         boston bruins   2 - 3   chicago black hawks  22 - 15 - 3
+40     march 15   toronto maple leafs   2 - 1   chicago black hawks  22 - 16 - 3
+41     march 17   chicago black hawks   4 - 0  philadelphia quakers  23 - 16 - 3
+42     march 19   chicago black hawks   2 - 8   toronto maple leafs  23 - 17 - 3
+43     march 22   chicago black hawks   2 - 1       detroit falcons  24 - 17 - 3

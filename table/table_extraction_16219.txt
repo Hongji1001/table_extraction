@@ -1,0 +1,23 @@
+                          title series                                        director production number    release date reissue
+0                one meat brawl     mm                                 robert mckimson    1015 , br 1360  1947 - 01 - 18     yes
+1           goofy gophers , the     lt  bob clampett (planned) arthur davis (finished)    1021 , br 1375  1947 - 01 - 25     yes
+2              gay anties , the     mm                                    friz freleng  8 - 15 , br 1351  1947 - 02 - 15     yes
+3      scent - imental over you     lt                                     chuck jones    1016 , br 1356  1947 - 03 - 08     yes
+4   hare grows in manhattan , a     mm                                    friz freleng              1020  1947 - 03 - 22      no
+5             birth of a notion     lt                                 robert mckimson    1018 , br 1352  1947 - 04 - 12     yes
+6                   tweetie pie     mm                                    friz freleng    1026 , br 1374  1947 - 05 - 03     yes
+7                rabbit transit     lt                                    friz freleng              1025  1947 - 05 - 10      no
+8                     hobo bobo     mm                                 robert mckimson    1022 , br 1359  1947 - 05 - 17     yes
+9              along came daffy     lt                                    friz freleng    1019 , br 1355  1947 - 06 - 14     yes
+10           inki at the circus     mm                                     chuck jones    1029 , br 1376  1947 - 06 - 21     yes
+11                 easter yeggs     lt                                 robert mckimson              1027  1947 - 06 - 28      no
+12                crowing pains     lt                                 robert mckimson    1030 , br 1371  1947 - 07 - 12     yes
+13        pest in the house , a     mm                                     chuck jones              1024  1947 - 08 - 02      no
+14          foxy duckling , the     mm                                    arthur davis    1031 , br 1366  1947 - 08 - 23     yes
+15           house hunting mice     lt                                     chuck jones    1049 , br 1370  1947 - 09 - 06     yes
+16       little orphan airedale     lt                                     chuck jones       1032 , 1411  1947 - 10 - 04     yes
+17                 doggone cats     mm                                    arthur davis    1032 , br 1401  1947 - 10 - 25     yes
+18                   slick hare     mm                                    friz freleng              1033  1947 - 11 - 01      no
+19              mexican joyride     lt                                    arthur davis              1034  1947 - 11 - 29      no
+20            catch as cats can     mm                                    arthur davis              1038  1947 - 12 - 06      no
+21           horsefly fleas , a     lt                                 robert mckimson    1060 , br 1410  1947 - 12 - 13     yes

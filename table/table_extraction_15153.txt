@@ -1,0 +1,9 @@
+   place                name  all around   hoop  total
+0      1      marina lobatch        10.0  10.00  20.00
+1      1       bianka panova        10.0  10.00  20.00
+2      3      anna kotchneva        10.0   9.90  19.90
+3      4    adriana dunavska        10.0   9.85  19.85
+4      5   florentina butaru         9.7   9.80  19.50
+5      5        andrea sinko         9.7   9.80  19.50
+6      7        regina weber         9.7   9.75  19.45
+7      8  denisa sokolovskã¡         9.7   9.70  19.40

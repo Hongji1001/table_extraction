@@ -1,0 +1,7 @@
+   year          award ceremony                                            category               nominee     result
+0  1994  laurence olivier award                                best musical revival  best musical revival        won
+1  1994  laurence olivier award                             best actor in a musical        alun armstrong        won
+2  1994  laurence olivier award                           best actress in a musical        julia mckenzie        won
+3  1994  laurence olivier award  best performance in a supporting role in a musical         adrian lester  nominated
+4  1994  laurence olivier award  best performance in a supporting role in a musical           barry james  nominated
+5  1994  laurence olivier award                          best director of a musical      declan donnellan        won

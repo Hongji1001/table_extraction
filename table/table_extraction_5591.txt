@@ -1,0 +1,25 @@
+                            team           location  joined  conference division                   previous conference
+0                  canton chiefs    canton township    2008  kensington    south  western lakes activities association
+1             churchill chargers            livonia    2008  kensington    south  western lakes activities association
+2              franklin patriots            livonia    2008  kensington    south  western lakes activities association
+3             john glenn rockets           westland    2008  kensington    south  western lakes activities association
+4              plymouth wildcats    canton township    2008  kensington    south  western lakes activities association
+5          wayne memorial zebras              wayne    2008  kensington    south  western lakes activities association
+6            northville mustangs         northville    2008  kensington  central  western lakes activities association
+7                  novi wildcats               novi    2008  kensington  central          kensington valley conference
+8                    salem rocks    canton township    2008  kensington  central  western lakes activities association
+9               south lyon lions         south lyon    2008  kensington  central          kensington valley conference
+10       south lyon east cougars         south lyon    2008  kensington  central          none (school opened in 2008)
+11            stevenson spartans            livonia    2008  kensington  central  western lakes activities association
+12               lakeland eagles         white lake    2008       lakes    north          kensington valley conference
+13   walled lake central vikings  commerce township    2008       lakes    north  western lakes activities association
+14  walled lake northern knights  commerce township    2008       lakes    north  western lakes activities association
+15  walled lake western warriors  commerce township    2008       lakes    north  western lakes activities association
+16  waterford kettering captains          waterford    2008       lakes    north        oakland activities association
+17       waterford mott corsairs          waterford    2008       lakes    north        oakland activities association
+18             brighton bulldogs           brighton    2008       lakes     west          kensington valley conference
+19           grand blanc bobcats        grand blanc    2009       lakes     west                   big nine conference
+20               hartland eagles  hartland township    2008       lakes     west          kensington valley conference
+21            howell highlanders             howell    2008       lakes     west          kensington valley conference
+22             milford mavericks  highland township    2008       lakes     west          kensington valley conference
+23              pinckney pirates           pinckney    2008       lakes     west          kensington valley conference

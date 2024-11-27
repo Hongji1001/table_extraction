@@ -1,0 +1,7 @@
+             airline                     airline (in arabic) icao    callsign  commenced operations
+0  karthago airlines                           قرطاج للطيران  kaj    karthago                  2001
+1          nouvelair                     الطيران الجديد تونس  lbt   nouvelair                  1989
+2   tunisair express                 الخطوط التونسية السريعة  tux  tunexpress                  1991
+3    syphax airlines                         سيفاكس أيرلاينز  sya   syphaxair                  2011
+4           tunisair                         الخطوط التونسية  tar      tunair                  1948
+5          tunisavia  الشركة التونسية للنقل و الخدمات الجوية  taj   tunisavia                  2010

@@ -1,0 +1,8 @@
+           region             year                              label           format         catalog
+0   united states         may 1974              strata - east records  stereo vinyl lp     ses - 19742
+1         germany             1992                  bellaphon records               cd  660 - 51 - 015
+2  united kingdom             1996     snapper music , charly records      digipack cd       snap103cd
+3   united states  march 10 , 1998  rumal - gia records , tvt records               cd  tvt - 4320 - 2
+4   united states             1998                  rumal - gia , tvt    remastered lp      tvt - 4320
+5           italy             2001                   get back records               cd      get - 8004
+6           italy             2004                           get back    remastered lp     get - 98004

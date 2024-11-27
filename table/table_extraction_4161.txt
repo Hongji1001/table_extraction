@@ -1,0 +1,13 @@
+                  cellist                               orchestra               conductor          record company  year of recording format
+0   mstislav rostropovich            royal philharmonic orchestra     sir malcolm sargent                     emi               1957     cd
+1            samuel mayes               boston symphony orchestra         erich leinsdorf              rca victor               1964     lp
+2   mstislav rostropovich           ussr state symphony orchestra  gennady rozhdestvensky      russian revelation               1964     cd
+3       raphael wallfisch             scottish national orchestra             neeme järvi         chandos records               1986     cd
+4   mstislav rostropovich               london symphony orchestra             seiji ozawa     warner bros records               1987     cd
+5              yo - yo ma           pittsburgh symphony orchestra            lorin maazel  sony classical records               1991     cd
+6            lynn harrell            royal philharmonic orchestra      vladimir ashkenazy           decca records               1994     cd
+7           mischa maisky              russian national orchestra         mikhail pletnev     deutsche grammophon               1995     cd
+8         alexander rudin   ukrainian national symphony orchestra         theodore kuchar           naxos records               1995     cd
+9              truls mørk   city of birmingham symphony orchestra             paavo järvi          virgin records               1998     cd
+10         han - na chang               london symphony orchestra         antonio pappano            emi classics               2002     cd
+11           lynn harrell  royal liverpool philharmonic orchestra          gerard schwarz         chandos records               2005     cd

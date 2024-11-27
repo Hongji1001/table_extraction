@@ -1,0 +1,14 @@
+       settlement   cyrillic name other names     type  population (2011) largest ethnic group (2002) dominant religion (2002)
+0   bačka palanka               бачка паланка     town              28239                       serbs    orthodox christianity
+1        čelarevo                    челарево  village               4831                       serbs    orthodox christianity
+2       despotovo                   деспотово  village               1853                       serbs    orthodox christianity
+3        gajdobra                    гајдобра  village               2578                       serbs    orthodox christianity
+4     karađorđevo                 карађорђево  village                738                       serbs    orthodox christianity
+5       mladenovo                   младеново  village               2679                       serbs    orthodox christianity
+6          neštin                      нештин  village                794                       serbs    orthodox christianity
+7   nova gajdobra               нова гајдобра  village               1220                       serbs    orthodox christianity
+8         obrovac                     обровац  village               2944                       serbs    orthodox christianity
+9          parage                      параге  village                921                       serbs    orthodox christianity
+10        pivnice  пивнице (slovak : pivnice)  village               3337                     slovaks            protestantism
+11         silbaš                      силбаш  village               2467                       serbs    orthodox christianity
+12     tovariševo                  товаришево  village               2657                       serbs    orthodox christianity

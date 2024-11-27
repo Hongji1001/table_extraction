@@ -1,0 +1,6 @@
+   channel  video aspect psip short name             programming
+0     26.1  1080i   16:9            mfox                mundofox
+1     26.2   480i    4:3             lwn       live well network
+2     26.4   480i    4:3             jtv              jewelry tv
+3     26.5   480i    4:3         f24news  france 24 blank screen
+4     26.8   480i    4:3         tuff tv                 tuff tv

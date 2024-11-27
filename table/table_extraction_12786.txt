@@ -1,0 +1,19 @@
+                    club  played  drawn  lost  points for  points against  points difference  points
+0                   club  played  drawn  lost  points for  points against  points difference  points
+1              neath rfc      32      0     5        1028             401              + 627      81
+2            newport rfc      32      0     7         905             526              + 379      72
+3        bridgend ravens      32      0     9         736             475              + 261      66
+4           llanelli rfc      32      0    12         784             587              + 197      60
+5           aberavon rfc      32      0    13         782             760               + 22      57
+6         cross keys rfc      32      0    13         671             760               - 89      57
+7   carmarthen quins rfc      32      1    13         785             579              + 206      55
+8            cardiff rfc      32      0    14         835             569              + 266      54
+9            swansea rfc      32      2    13         840             731              + 109      53
+10        pontypridd rfc      32      1    14         729             610              + 119      52
+11         ebbw vale rfc      32      0    18         644             819              - 175      39
+12         pontypool rfc      32      1    19         635             786              - 151      37
+13            bedwas rfc      32      0    20         565             747              - 182      36
+14        llandovery rfc      32      0    20         597             873              - 276      36
+15        caerphilly rfc      32      0    24         693             945              - 252      24
+16         llanharan rfc      32      1    27         548            1054              - 506      13
+17         newbridge rfc      32      0    28         539            1183              - 644       6

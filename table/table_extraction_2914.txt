@@ -1,0 +1,9 @@
+             language  quillacollo municipality  sipe sipe municipality  tiquipaya municipality  vinto municipality  colcapirhua municipality
+0             quechua                     52399                   23819                   19308               18630                     18050
+1              aymara                      7101                    1127                    2481                2259                      2449
+2            guaranã­                       101                      24                      43                  38                        38
+3      another native                        82                      24                      36                  26                        46
+4             spanish                     93131                   23059                   32704               26355                     38441
+5             foreign                      2087                     215                    1100                 403                      1136
+6         only native                      5756                    6544                    2972                3332                      1365
+7  native and spanish                     50157                   17704                   17737               16680                     18139

@@ -1,0 +1,6 @@
+                   vessel  origin               type  in service                                         unit
+0  xavery czernicki class  poland   logistic support           1        2nd minelaying and transport squadron
+1            lublin class  poland      landing craft           5        2nd minelaying and transport squadron
+2              deba class  poland      landing craft           3        2nd minelaying and transport squadron
+3            gardno class  poland        minesweeper          12                    12th minesweeper squadron
+4           various class  poland  auxiliary vessels          14  naval base swinoujscie (auxiliary squadron)

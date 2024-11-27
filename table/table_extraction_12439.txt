@@ -1,0 +1,6 @@
+               player         nationality        position years for grizzlies school / club team
+0        eric leckner       united states          center         1996 - 1997            wyoming
+1          grant long       united states   small forward         1999 - 2002   eastern michigan
+2  felipe lã cubicpez  dominican republic  shooting guard         1998 - 2000         st john 's
+3          kyle lowry       united states     point guard         2006 - 2009          villanova
+4        george lynch       united states   small forward         1996 - 1998     north carolina

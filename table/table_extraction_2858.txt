@@ -1,0 +1,12 @@
+                  player  minutes  field goals  rebounds  assists  steals  blocks  points
+0          tangela smith      972          178       180       50      41      29     445
+1              sheri sam      990          137       172       90      55       3     359
+2         monique currie      844           87       132       87      34       4     339
+3   tammy sutton - brown      800          118       176       20      26      55     335
+4         kelly mazzante      725          105        99       64      47       6     302
+5            latoya bond      614           63        49       73      35       8     193
+6          helen darling      607           51        59       82      35       3     158
+7       janel mccarville      421           54       105       25      17      20     136
+8        tye 'sha fluker      324           30        66        9       2      14      76
+9        allison feaster      309           19        20       21      13       2      55
+10          ayana walker      181           17        31        3      10      10      46

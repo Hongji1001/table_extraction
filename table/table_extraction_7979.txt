@@ -1,0 +1,7 @@
+           player        country        year (s) won  total to par finish
+0     tiger woods  united states  1999 , 2000 , 2006    272      8      1
+1       john daly  united states                1991    286    + 6    t32
+2   shaun micheel  united states                2003    286    + 6    t32
+3  phil mickelson  united states                2005    286    + 6    t32
+4      david toms  united states                2001    288    + 8    t42
+5        bob tway  united states                1986    289    + 9    t50

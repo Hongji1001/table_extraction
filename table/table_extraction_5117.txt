@@ -1,0 +1,7 @@
+     home team home team score        away team away team score          venue  crowd          date
+0     hawthorn     21.17 (143)         st kilda     16.13 (109)   princes park  11686  21 june 1980
+1    footscray     15.14 (104)  south melbourne      12.15 (87)   western oval  15837  21 june 1980
+2     essendon     15.17 (107)         richmond     16.21 (117)     windy hill  24045  21 june 1980
+3    melbourne     18.21 (129)          fitzroy      18.9 (117)            mcg  15075  21 june 1980
+4      geelong      12.11 (83)          carlton       12.6 (78)  kardinia park  26526  21 june 1980
+5  collingwood     20.19 (139)  north melbourne      13.15 (93)       vfl park  54675  21 june 1980

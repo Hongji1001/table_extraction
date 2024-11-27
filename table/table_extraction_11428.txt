@@ -1,0 +1,21 @@
+    pick           player                   team position         hometown / school
+0      1   steve chilcott          new york mets        c            lancaster , ca
+1      2   reggie jackson  kansas city athletics       of             arizona state
+2      3  wayne twitchell         houston astros      rhp             portland , or
+3      4        ken brett         boston red sox      lhp           el segundo , ca
+4      5        dean burk           chicago cubs      rhp             highland , il
+5      6       tom grieve    washington senators       of           pittsfield , ma
+6      7        leron lee     st louis cardinals       of           sacramento , ca
+7      8       jim deneff      california angels       ss        indiana university
+8      9        mike biko  philadelphia phillies      rhp               dallas , tx
+9     10       jim lyttle       new york yankees       of             florida state
+10    11     al santorini       milwaukee braves      rhp                union , nj
+11    12      john curtis      cleveland indians      lhp            smithtown , ny
+12    13       gary nolan        cincinnati reds      rhp             oroville , ca
+13    14       rick konik         detroit tigers       1b              detroit , mi
+14    15    richie hebner     pittsburgh pirates       ss              norwood , ma
+15    16        ted parks      baltimore orioles       ss  university of california
+16    17     bob reynolds   san francisco giants      rhp              seattle , wa
+17    18       carlos may      chicago white sox       of           birmingham , al
+18    19     larry hutton    los angeles dodgers      rhp           greenfield , in
+19    20        bob jones        minnesota twins       3b               dawson , ga

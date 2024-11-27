@@ -1,0 +1,6 @@
+   world rank  rank (pakistan)                name  height (m)           location
+0           2                1  k2 / godwin austen        8611          karakoram
+1           9                2        nanga parbat        8126           himalaya
+2          11                3   gasherbrum i / k5        8080  baltoro karakoram
+3          12                4          broad peak        8051  baltoro karakoram
+4          13                5  gasherbrum ii / k4        8035  baltoro karakoram

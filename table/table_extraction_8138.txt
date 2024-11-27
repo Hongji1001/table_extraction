@@ -1,0 +1,23 @@
+                    name                   party     hometown division         term     legislatures
+0      earnest b collins              republican          fox      4th  1913 - 1917   first , second
+1          luther c hess              democratic    fairbanks      4th  1917 - 1919            third
+2              e j white              democratic       juneau      1st  1919 - 1921           fourth
+3         andrew nerland              republican    fairbanks      4th  1921 - 1923            fifth
+4              cash cole              republican       juneau      1st  1923 - 1925            sixth
+5             c h wilcox              democratic       valdez      3rd  1925 - 1927          seventh
+6         sumner s smith              republican    anchorage      3rd  1927 - 1929           eighth
+7         r c rothenburg  independent republican    fairbanks      4th  1929 - 1931            ninth
+8          grover c winn              republican       juneau      1st  1931 - 1933            tenth
+9           joe mcdonald              democratic  ester creek      4th  1933 - 1935         eleventh
+10       joseph s hofman              democratic       seward      3rd  1935 - 1937          twelfth
+11             joe green              democratic        hyder      1st  1937 - 1939       thirteenth
+12           howard lyng              democratic         nome      2nd  1939 - 1941       fourteenth
+13  herbert h mccutcheon              democratic    anchorage      3rd  1941 - 1943        fifteenth
+14         james v davis              democratic       juneau      1st  1943 - 1945        sixteenth
+15        jesse d lander              democratic    fairbanks      4th  1945 - 1947      seventeenth
+16          oscar s gill              republican    anchorage      3rd  1947 - 1949       eighteenth
+17  stanley j mccutcheon              democratic    anchorage      3rd  1949 - 1951       nineteenth
+18        william a egan              democratic       valdez      3rd  1951 - 1953        twentieth
+19    george j miscovich              republican    fairbanks      4th  1953 - 1955   twenty - first
+20         wendell p kay              democratic    anchorage      3rd  1955 - 1957  twenty - second
+21      richard j greuel              democratic    fairbanks      4th  1957 - 1959   twenty - third

@@ -1,0 +1,11 @@
+  place               player        country                    score to par  money
+0     1         david graham      australia  68 + 68 + 70 + 67 = 273    - 7  55000
+1    t2         george burns  united states  69 + 66 + 68 + 73 = 276    - 4  24650
+2    t2          bill rogers  united states  70 + 68 + 69 + 69 = 276    - 4  24650
+3    t4            john cook  united states  68 + 70 + 71 + 70 = 279    - 1  16200
+4    t4       john schroeder  united states  71 + 68 + 69 + 71 = 279    - 1  16200
+5    t6         frank conner  united states  71 + 72 + 69 + 68 = 280      e   9920
+6    t6           lon hinkle  united states  69 + 71 + 70 + 70 = 280      e   9920
+7    t6        jack nicklaus  united states  69 + 68 + 71 + 72 = 280      e   9920
+8    t6        sammy rachels  united states  70 + 71 + 69 + 70 = 280      e   9920
+9    t6  chi - chi rodríguez  united states  68 + 73 + 67 + 72 = 280      e   9920

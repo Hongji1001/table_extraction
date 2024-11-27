@@ -1,0 +1,11 @@
+  train number                train name       origin destination frequency (inbound / outbound)
+0    2397 / 98         mahabodhi express         gaya   new delhi                          daily
+1    3151 / 52   kolkata - jammutawi exp      kolkata   jammutawi                          daily
+2    3307 / 08    dhanbad - ludhiana exp      dhanbad    firozpur                          daily
+3    5109 / 10         budh poornima exp     varanasi      rajgir                          daily
+4    8611 / 12             intercity exp     varanasi      ranchi                         4 days
+5    8631 / 32            garib nwaz exp       ranchi       ajmer                         2 days
+6    8311 / 12   samabalpur varanasi exp    sambalpur    varanasi                         2 days
+7    3009 / 10             dehradoon exp       howrah   dehradoon                          daily
+8    3243 / 44  intercity exp (via) gaya  bhabua road       patna                          daily
+9    3249 / 50   intercity exp (via) ara  bhabua road       patna                          daily

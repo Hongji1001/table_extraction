@@ -1,0 +1,10 @@
+              film festival  date of ceremony                        category participants / recipients     result
+0  34th japan academy prize  18 february 2011                       best film                     otōto  nominated
+1  34th japan academy prize  18 february 2011                   best director               yoji yamada  nominated
+2  34th japan academy prize  18 february 2011                 best male actor        tsurube shofukutei  nominated
+3  34th japan academy prize  18 february 2011               best female actor          sayuri yoshinaga  nominated
+4  34th japan academy prize  18 february 2011  best female accompanying actor                    yū aoi  nominated
+5  34th japan academy prize  18 february 2011                      best music               isao tomita  nominated
+6  34th japan academy prize  18 february 2011             best cinematography         masashi chikamori  nominated
+7  34th japan academy prize  18 february 2011                   best lighting         takakazu watanabe  nominated
+8  34th japan academy prize  18 february 2011              best sound effects            kazumi kishida  nominated

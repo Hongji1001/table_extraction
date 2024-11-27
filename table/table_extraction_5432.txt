@@ -1,0 +1,20 @@
+            date        visiting team final score             host team                     stadium
+0    september 7       miami dolphins     17 - 28   pittsburgh steelers                 heinz field
+1   september 10   indianapolis colts     26 - 21       new york giants              giants stadium
+2   september 17  washington redskins     10 - 27        dallas cowboys               texas stadium
+3   september 24       denver broncos      17 - 7  new england patriots            gillette stadium
+4      october 1     seattle seahawks      6 - 37         chicago bears               soldier field
+5      october 8  pittsburgh steelers     13 - 23    san diego chargers            qualcomm stadium
+6     october 15      oakland raiders      3 - 13        denver broncos  invesco field at mile high
+7     october 29       dallas cowboys     35 - 14     carolina panthers     bank of america stadium
+8     november 5   indianapolis colts     27 - 20  new england patriots            gillette stadium
+9    november 12        chicago bears     38 - 20       new york giants              giants stadium
+10   november 19   san diego chargers     35 - 27        denver broncos  invesco field at mile high
+11   november 26  philadelphia eagles     21 - 45    indianapolis colts                    rca dome
+12    december 3     seattle seahawks     23 - 20        denver broncos  invesco field at mile high
+13   december 10   new orleans saints     42 - 17        dallas cowboys               texas stadium
+14   december 17   kansas city chiefs      9 - 20    san diego chargers            qualcomm stadium
+15   december 25  philadelphia eagles      23 - 7        dallas cowboys               texas stadium
+16   december 31    green bay packers      26 - 7         chicago bears               soldier field
+17     january 6   kansas city chiefs      8 - 23    indianapolis colts                    rca dome
+18     january 6       dallas cowboys     20 - 21      seattle seahawks                 qwest field

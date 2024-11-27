@@ -1,0 +1,20 @@
+                   rider  year  final position - giro  final position - tour  final position - vuelta
+0         eduardo chozas  1990                     11                      6                       33
+1   marino lejarreta (3)  1990                      7                      5                       55
+2   marino lejarreta (2)  1989                     10                      5                       20
+3    luis - javier lukin  1988                     32                     82                       60
+4       marino lejarreta  1987                      4                     10                       34
+5    philippe poissonier  1985                     86                     90                       66
+6   jose luis uribezubia  1971                     29                     50                       27
+7     jose manuel fuente  1971                     39                     72                       54
+8    federico bahamontes  1958                     17                      8                        6
+9          pierino baffi  1958                     23                     63                       37
+10          mario baroni  1957                     74                     53                       46
+11       gastone nencini  1957                      1                      6                        9
+12     bernardo ruiz (3)  1957                     55                     24                        3
+13        arrigo padovan  1956                     12                     26                       19
+14     bernardo ruiz (2)  1956                     38                     70                       31
+15            josã serra  1956                     26                     81                        9
+16     raphael geminiani  1955                      4                      6                        3
+17         bernardo ruiz  1955                     28                     22                       14
+18           louis caput  1955                     68                     54                       55

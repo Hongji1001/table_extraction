@@ -1,0 +1,13 @@
+              name faith     type  dcsf number  ofsted number
+0   aycliffe drive     -  primary         2426         117335
+1       broadfield     -  primary         3991         135339
+2       brockswood     -  primary         2448         117349
+3    george street     -  primary         2040         117106
+4          hammond     -  primary         2337         117282
+5    haywood grove     -  special         7047         131319
+6   hobletts manor     -   infant         2184         117197
+7   hobletts manor     -   junior         2023         117097
+8    holtsmere end     -   infant         2995         117377
+9    holtsmere end     -   junior         2427         117336
+10     maple grove     -  primary         3987         135221
+11         yewtree     -  primary         3988         135222

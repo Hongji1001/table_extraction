@@ -1,0 +1,9 @@
+                               name          city  height (m)  height (ft)  floors years as tallest
+0                 commerzbank tower     frankfurt         259          850      56   1997 - present
+1                         messeturm     frankfurt         257          843      55      1990 - 1997
+2                        silberturm     frankfurt         166          545      32      1978 - 1990
+3                      westend gate     frankfurt         159          522      47      1976 - 1978
+4                colonia - hochhaus       cologne         147          482      42      1973 - 1976
+5           city - hochhaus leipzig       leipzig         143          468      36      1972 - 1973
+6                  bayer - hochhaus    leverkusen         122          400      29      1963 - 1972
+7  friedrich - engelhorn - hochhaus  ludwigshafen         102          335      28      1957 - 1963

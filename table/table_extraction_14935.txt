@@ -1,0 +1,11 @@
+  place            player        country  score to par
+0    t1       john huston  united states     65    - 5
+1    t1       tiger woods  united states     65    - 5
+2    t3      fred couples  united states     66    - 4
+3    t3        nick price       zimbabwe     66    - 4
+4    t3     loren roberts  united states     66    - 4
+5    t6    robert allenby      australia     67    - 3
+6    t6        brad faxon  united states     67    - 3
+7    t6  fredrik jacobson         sweden     67    - 3
+8    t6    davis love iii  united states     67    - 3
+9    t6       vijay singh           fiji     67    - 3

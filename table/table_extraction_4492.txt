@@ -1,0 +1,24 @@
+     res  record           opponent                           method                                 event  round  time                                   location
+0   loss  16 - 7  gesias cavalcante                    tko (punches)            world series of fighting 4      3  1:37       ontario , california , united states
+1    win  16 - 6    efrain escudero             decision (unanimous)            rfa 4: griffin vs escudero      3  5:00         las vegas , nevada , united states
+2   loss  15 - 6   bart palaszewski                     ko (punches)                               ufc 137      1  2:45         las vegas , nevada , united states
+3    win  15 - 5    manny gamburyan              decision (majority)             ufc live : kongo vs barry      3  5:00  pittsburgh , pennsylvania , united states
+4   loss  14 - 5          nik lentz                 decision (split)                               ufc 123      3  5:00    auburn hills , michigan , united states
+5   loss  14 - 4      takanori gomi                       ko (punch)       ufc live : jones vs matyushenko      1  1:04     san diego , california , united states
+6   loss  14 - 3        evan dunham                 decision (split)                               ufc 115      3  5:00      vancouver , british columbia , canada
+7    win  14 - 2      hermes frança                     ko (punches)                               ufc 103      2  3:26             dallas , texas , united states
+8    win  13 - 2   rafael dos anjos             decision (unanimous)  ufc fight night : condit vs kampmann      3  5:00      nashville , tennessee , united states
+9   loss  12 - 2         sean sherk             decision (unanimous)                                ufc 90      3  5:00        rosemont , illinois , united states
+10   win  12 - 1     marcus aurélio             decision (unanimous)                                ufc 86      3  5:00         las vegas , nevada , united states
+11   win  11 - 1      gleison tibau             decision (unanimous)                                ufc 81      3  5:00         las vegas , nevada , united states
+12   win  10 - 1     thiago tavares             decision (unanimous)                                ufc 76      3  5:00       anaheim , california , united states
+13   win   9 - 1         clay guida                 decision (split)                                ufc 72      3  5:00                 belfast , northern ireland
+14  loss   8 - 1      frankie edgar             decision (unanimous)                                ufc 67      3  5:00         las vegas , nevada , united states
+15   win   8 - 0          david lee  submission (rear - naked choke)                                ufc 63      1  1:50       anaheim , california , united states
+16   win   7 - 0       duane ludwig                    tko (punches)                 strikeforce : revenge      1  3:57      san jose , california , united states
+17   win   6 - 0          chuck kim  submission (rear - naked choke)                       gc 49: face off      1  3:34      lakeport , california , united states
+18   win   5 - 0  melchor manibusan                    tko (punches)                     ffcf 5: unleashed      1  4:05                            mangilao , guam
+19   win   4 - 0  jorge evangelista                     ko (punches)                      gc 46: avalanche      1  3:14    coarsegold , california , united states
+20   win   3 - 0       urijah faber                    tko (punches)                    gc 42: summer slam      3  0:05      lakeport , california , united states
+21   win   2 - 0      cody williams  submission (rear - naked choke)                gc 36: proving grounds      1  2:05   porterville , california , united states
+22   win   1 - 0         ryan frost                    tko (punches)               gc 32: king of the hill      1  1:16        colusa , california , united states

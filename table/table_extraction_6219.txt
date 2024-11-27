@@ -1,0 +1,13 @@
+                        race                circuit          date   pole position             fastest lap  winning driver     constructor tyre  report
+0   south african grand prix                kyalami     1 january       jim clark               jim clark       jim clark    lotus - ford    f  report
+1         spanish grand prix                 jarama        12 may      chris amon  jean - pierre beltoise     graham hill    lotus - ford    f  report
+2          monaco grand prix                 monaco        26 may     graham hill         richard attwood     graham hill    lotus - ford    f  report
+3         belgian grand prix    spa - francorchamps        9 june      chris amon            john surtees   bruce mclaren  mclaren - ford    g  report
+4           dutch grand prix              zandvoort       23 june      chris amon  jean - pierre beltoise  jackie stewart    matra - ford    d  report
+5          french grand prix  rouen - les - essarts        7 july    jochen rindt         pedro rodríguez      jacky ickx         ferrari    f  report
+6         british grand prix           brands hatch       20 july     graham hill              jo siffert      jo siffert    lotus - ford    f  report
+7          german grand prix            nürburgring      4 august      jacky ickx          jackie stewart  jackie stewart    matra - ford    d  report
+8         italian grand prix                  monza   8 september    john surtees           jackie oliver     denny hulme  mclaren - ford    g  report
+9        canadian grand prix       mont - tremblant  22 september    jochen rindt              jo siffert     denny hulme  mclaren - ford    g  report
+10  united states grand prix           watkins glen     6 october  mario andretti          jackie stewart  jackie stewart    matra - ford    d  report
+11        mexican grand prix     hermanos rodriguez    3 november      jo siffert              jo siffert     graham hill    lotus - ford    f  report

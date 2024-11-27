@@ -1,0 +1,14 @@
+    district        incumbent    2008 status          democratic       republican
+0          1   gk butterfield  re - election      gk butterfield    dean stephens
+1          2    bob etheridge  re - election       bob etheridge      dan mansell
+2          3   walter b jones  re - election         craig weber   walter b jones
+3          4      david price  re - election         david price        bj lawson
+4          5    virginia foxx  re - election          roy carter    virginia foxx
+5          6     howard coble  re - election  teresa sue bratton     howard coble
+6          7    mike mcintyre  re - election       mike mcintyre   will breazeale
+7          8      robin hayes       defeated       larry kissell      robin hayes
+8          9       sue myrick  re - election        harry taylor       sue myrick
+9         10  patrick mchenry  re - election      daniel johnson  patrick mchenry
+10        11     heath shuler  re - election        heath shuler    carl mumpower
+11        12         mel watt  re - election            mel watt     ty cobb , jr
+12        13      brad miller  re - election         brad miller     hugh webster

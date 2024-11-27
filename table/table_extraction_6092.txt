@@ -1,0 +1,18 @@
+                  grand prix       pole position         fastest lap      winning driver         constructor  report
+0      australian grand prix  rubens barrichello      kimi räikkönen  michael schumacher             ferrari  report
+1       malaysian grand prix  michael schumacher  juan pablo montoya     ralf schumacher      williams - bmw  report
+2       brazilian grand prix  juan pablo montoya  juan pablo montoya  michael schumacher             ferrari  report
+3      san marino grand prix  michael schumacher  rubens barrichello  michael schumacher             ferrari  report
+4         spanish grand prix  michael schumacher  michael schumacher  michael schumacher             ferrari  report
+5        austrian grand prix  rubens barrichello  michael schumacher  michael schumacher             ferrari  report
+6          monaco grand prix  juan pablo montoya  rubens barrichello     david coulthard  mclaren - mercedes  report
+7        canadian grand prix  juan pablo montoya  juan pablo montoya  michael schumacher             ferrari  report
+8        european grand prix  juan pablo montoya  michael schumacher  rubens barrichello             ferrari  report
+9         british grand prix  juan pablo montoya  rubens barrichello  michael schumacher             ferrari  report
+10         french grand prix  juan pablo montoya     david coulthard  michael schumacher             ferrari  report
+11         german grand prix  michael schumacher  michael schumacher  michael schumacher             ferrari  report
+12      hungarian grand prix  rubens barrichello  michael schumacher  rubens barrichello             ferrari  report
+13        belgian grand prix  michael schumacher  michael schumacher  michael schumacher             ferrari  report
+14        italian grand prix  juan pablo montoya  rubens barrichello  rubens barrichello             ferrari  report
+15  united states grand prix  michael schumacher  rubens barrichello  rubens barrichello             ferrari  report
+16       japanese grand prix  michael schumacher  michael schumacher  michael schumacher             ferrari  report

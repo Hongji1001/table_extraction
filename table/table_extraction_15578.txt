@@ -1,0 +1,13 @@
+              name height weight    spike  2008 club
+0     bian hongmin      m      -  cm (in)   zhejiang
+1         yuan zhi      m      -  cm (in)   liaoning
+2         guo peng      m      -  cm (in)       army
+3      shi hairong      m      -  cm (in)    jiangsu
+4      cui jianjun      m      -  cm (in)      henan
+5       jiao shuai      m      -  cm (in)      henan
+6         yu dawei      m      -  cm (in)  shangdong
+7       shen qiong      m      -  cm (in)   shanghai
+8     jiang fudong      m      -  cm (in)    sichuan
+9           ren qi      m      -  cm (in)   shanghai
+10  sui shengsheng      m      -  cm (in)   liaoning
+11   fang yingchao      m      -  cm (in)   shanghai

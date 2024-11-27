@@ -1,0 +1,6 @@
+                           airline  fleet size                                       notes iosa (iata) easa (eu) iasa (faa)
+0                         eastindo           6                                     aoc 135          no        no        yes
+1              nusantara buana air           3                                     aoc 135          no        no        yes
+2                         premiair           7  pt ekspres transportasi antarbenua aoc 135          no       yes        yes
+3  sabang merauke raya air charter           4                                     aoc 135          no        no        yes
+4       transwisata prima aviation           6                                     aoc 135          no        no        yes

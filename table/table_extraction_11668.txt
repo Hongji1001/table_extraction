@@ -1,0 +1,15 @@
+                 spoofed title            actual title          writer         artist  issue
+0          the big bomb theory     the big bang theory  desmond devlin   tom richmond    503
+1                glee - tarded                    glee     arnie kogen   tom richmond    506
+2                      sad men                 mad men     arnie kogen   tom richmond    508
+3              undercover boob         undercover boss  dick debartolo       tom bunk    508
+4               muddled family           modern family     arnie kogen   tom richmond    509
+5   dancing with the star wars  dancing with the stars    dave croatto  hermann mejia    509
+6                   yawn stars              pawn stars  dick debartolo       tom bunk    510
+7      parks and regurgitation    parks and recreation     arnie kogen   tom richmond    511
+8              the walking dud        the walking dead  desmond devlin  hermann mejia    512
+9               bigg and bulky            mike & molly     arnie kogen   tom richmond    514
+10                  fading bad            breaking bad  desmond devlin   tom richmond    516
+11               storage bores            storage wars  dick debartolo       tom bunk    517
+12              game of groans         game of thrones  desmond devlin  hermann mejia    521
+13               ho - hum land                homeland    david shayne   tom richmond    523

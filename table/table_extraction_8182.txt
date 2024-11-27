@@ -1,0 +1,27 @@
+                                 player  games  tries       goals f goals   points
+0                 burt , luke luke burt  16 16   09 9  59 59 / 70     0 0  154 154
+1             inu , krisnan krisnan inu  20 20  12 12  37 37 / 45     0 0  122 122
+2           hayne , jarryd jarryd hayne  25 25  12 12     0 0 / 1     0 0   048 48
+3   grothe , jr , eric eric grothe , jr  23 23  11 11         0 0     0 0   044 44
+4           mateo , feleti feleti mateo  25 25   09 9         0 0     0 0   036 36
+5                 smith , ben ben smith  23 23   08 8         0 0     0 0   032 32
+6   hindmarsh , nathan nathan hindmarsh  22 22   07 7         0 0     0 0   028 28
+7             tahu , timana timana tahu  18 18   07 7     0 0 / 1     0 0   028 28
+8           riddell , mark mark riddell  23 23   05 5     0 0 / 1     0 0   020 20
+9         hindmarsh , ian ian hindmarsh  24 24   04 4     0 0 / 1     1 1   017 17
+10                smith , tim tim smith  27 27   03 3     1 1 / 1     0 0   014 14
+11      cayless , nathan nathan cayless  22 22   03 3         0 0     0 0   012 12
+12              reddy , joel joel reddy  10 10   03 3         0 0     0 0   012 12
+13          wagon , daniel daniel wagon  22 22   03 3         0 0     0 0   012 12
+14            finch , brett brett finch  25 25   02 2         0 0     1 1    009 9
+15                  marsh , pj pj marsh  27 27   02 2         0 0     0 0    008 8
+16        robinson , chad chad robinson  20 20   02 2         0 0     0 0    008 8
+17      cannings , aaron aaron cannings  21 21   01 1         0 0     0 0    004 4
+18          cordoba , josh josh cordoba  25 25   01 1         0 0     0 0    004 4
+19        moimoi , fuifui fuifui moimoi  21 21   01 1         0 0     0 0    004 4
+20                  taia , zeb zeb taia   03 3   01 1         0 0     0 0    004 4
+21            green , blake blake green   06 6    0 0         0 0     0 0      0 0
+22      hauraki , weller weller hauraki   05 5    0 0         0 0     0 0      0 0
+23          paulo , junior junior paulo   03 3    0 0         0 0     0 0      0 0
+24            lowrie , todd todd lowrie   02 2    0 0         0 0     0 0      0 0
+25    fa'aoso , richard richard fa'aoso   01 1      4         0 0     0 0      0 0

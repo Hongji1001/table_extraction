@@ -1,0 +1,11 @@
+               congresswoman         state    date of delivery  mother 's age baby gender
+0   yvonne braithwaite burke    california       november 1973             40        girl
+1      enid greene waldholtz          utah         august 1995             37        girl
+2             susan molinari      new york       may 10 , 1996             38        girl
+3            blanche lincoln      arkansas           june 1996             35   twin boys
+4     cathy mcmorris rodgers    washington     april 29 , 2007             37         boy
+5         kirsten gillibrand      new york       may 15 , 2008             41         boy
+6  stephanie herseth sandlin  south dakota  december 15 , 2008             38         boy
+7              linda sanchez    california       may 13 , 2009             40         boy
+8     cathy mcmorris rodgers    washington       december 2010             41        girl
+9      jaime herrera beutler    washington      july 15 , 2013             34        girl

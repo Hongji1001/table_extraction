@@ -1,0 +1,11 @@
+         country                skip                third                second                   lead
+0         canada       kaitlyn lawes          jenna loder            liz peters           sarah wazney
+1        denmark    madeleine dupont     jeanne ellegaard  mona sylvest nielsen   lisa sylvest nielsen
+2        germany   frederike templin    pia - lisa schöll   ann kathrin bastian       simone ackermann
+3          japan    satsuki fujisawa      shiori fujisawa             yui okabe          madoka shinoo
+4         norway  anneline skårsmoen        kjersti husby          rita nerlien         hanne munkvold
+5         russia  ludmila privivkova     margarita fomina         daria kozlova      ekaterina galkina
+6       scotland        eve muirhead           kerry barr           vicki adams        sarah macintyre
+7         sweden     cecilia östlund        sara carlsson           anna domeij  liselotta lennartsson
+8    switzerland       michèle jäggi  marisa winkelhausen       nicole schwagli            isabel kurt
+9  united states        nina spatola     rebecca hamilton             anna plys             jenna haag

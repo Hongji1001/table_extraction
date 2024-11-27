@@ -1,0 +1,6 @@
+   year  tournaments played  cuts made  wins  3rds  top 10s best finish  earnings  money list rank  scoring average
+0  2007                  19         13     0     1        2           3  309886.0               40            73.09
+1  2008                  26         15     0     0        0         t16  146643.0               76            73.19
+2  2009                   7          4     0     0        0         t11   41703.0              116            73.29
+3  2010                  20         16     0     0        1          t8  172929.5               55            72.46
+4  2011                  13          5     0     0        0         t31   41556.0               99            74.29

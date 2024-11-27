@@ -1,0 +1,11 @@
+               verb proto - austronesian proto - malayo - polynesian proto - oceanic proto - polynesian
+0           to walk                nakaw               lakaw , panaw     lako , pano               fano
+1           to swim                naŋuy                       naŋuy          kakaru             kaukau
+2           to know                bajaq                        taqu            taqu              qiloa
+3          to think               nemnem                      demdem          rodrom             manatu
+4          to sleep                tudur                       tudur           turur               mohe
+5          to stand                 diri                diri , tuqud           tuqur               tuqu
+6            to sew                tasiq               tahiq , zaqit    saqit , turi                tui
+7  to die , be dead             m - acay                    m - atay            mate               mate
+8         to choose                piliq                       piliq           piliq               fili
+9            to fly                layap               layap , rebek           ropok               lele

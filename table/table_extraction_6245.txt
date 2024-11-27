@@ -1,0 +1,18 @@
+                       race name      circuit          date      winning driver    constructor  report
+0              xi pau grand prix          pau      10 april  juan manuel fangio       maserati  report
+1             ii richmond trophy     goodwood      10 april         reg parnell       maserati  report
+2          v san remo grand prix      sanremo      16 april  juan manuel fangio     alfa romeo  report
+3         iv grand prix de paris    montlhãry      30 april    georges grignard  talbot - lago  report
+4      xii british empire trophy      douglas       15 june          bob gerard            era  report
+5         iv gran premio di bari         bari        9 july     giuseppe farina     alfa romeo  report
+6        iv jcc jersey road race       jersey       13 july     peter whitehead        ferrari  report
+7     xii circuit de l'albigeois         albi       16 july        louis rosier  talbot - lago  report
+8    i grote prijs van nederland    zandvoort       23 july        louis rosier  talbot - lago  report
+9     iii grand prix des nations       geneve       30 july  juan manuel fangio     alfa romeo  report
+10           i nottingham trophy      gamston      7 august     david hampshire       maserati  report
+11              iv ulster trophy      dundrod     12 august     peter whitehead        ferrari  report
+12              xix coppa acerbo      pescara     15 august  juan manuel fangio     alfa romeo  report
+13  i sheffield telegraph trophy      gamston     19 august       cuth harrison            era  report
+14  ii brdc international trophy  silverstone     26 august     giuseppe farina     alfa romeo  report
+15           iii goodwood trophy     goodwood  30 september         reg parnell            brm  report
+16   x gran premio de penya rhin    pedralbes    29 october      alberto ascari        ferrari  report

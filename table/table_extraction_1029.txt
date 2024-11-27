@@ -1,0 +1,11 @@
+              category                        type    attribute                                           description bubbles cancelable
+0                mouse                   dragstart  ondragstart            fired on an element when a drag is started     yes        yes
+1             keyboard                       keyup      onkeyup          fires when a key on the keyboard is released     yes        yes
+2  html frame / object                      resize     onresize                 fires when a document view is resized     yes         no
+3  html frame / object                      scroll     onscroll                fires when a document view is scrolled     yes         no
+4            html form                      submit     onsubmit                        fires when a form is submitted     yes        yes
+5            html form                       reset      onreset                            fires when a form is reset     yes         no
+6             mutation          domsubtreemodified       (none)                    fires when the subtree is modified     yes         no
+7             mutation              domnoderemoved       (none)  fires when a node has been removed from a dom - tree     yes         no
+8             mutation  domnoderemovedfromdocument       (none)    fires when a node is being removed from a document      no         no
+9             mutation             domattrmodified       (none)             fires when an attribute has been modified     yes         no

@@ -1,0 +1,15 @@
+    year                     entrant               chassis                 engine  pts
+0   1953               hans herrmann        veritas meteor             veritas l6    0
+1   1954             daimler benz ag  mercedes - benz w196     mercedes - benz l8    8
+2   1955             daimler benz ag  mercedes - benz w196     mercedes - benz l8    1
+3   1957   officine alfieri maserati         maserati 250f            maserati l6    0
+4   1957         scuderia centro sud         maserati 250f            maserati l6    0
+5   1958         scuderia centro sud         maserati 250f            maserati l6    0
+6   1958                  jo bonnier         maserati 250f            maserati l6    0
+7   1959         scuderia centro sud            cooper t51            maserati l4    0
+8   1959  british racing partnership               brm p25                 brm l4    0
+9   1960  porsche system engineering       porsche 718 / 2             porsche f4    1
+10  1961  porsche system engineering       porsche 718 / 2             porsche f4    0
+11  1961          ecurie maarsbergen           porsche 718             porsche f4    0
+12  1966       roy winkelmann racing     brabham bt18 (f2)  cosworth straight - 4    0
+13  1969       roy winkelmann racing        lotus 59b (f2)  cosworth straight - 4    0

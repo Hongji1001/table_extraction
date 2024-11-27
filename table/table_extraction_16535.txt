@@ -1,0 +1,10 @@
+                      school     location        mascot  enrollment ihsaa class       county
+0                 bloomfield   bloomfield     cardinals         337          aa    28 greene
+1                  clay city    clay city          eels         272           a      11 clay
+2             eastern greene   bloomfield  thunderbirds         406          aa    28 greene
+3            linton stockton       linton        miners         344          aa    28 greene
+4  north central farmersburg  farmersburg  thunderbirds         336          aa  77 sullivan
+5              north daviess       elnora       cougars         306           a   14 daviess
+6                   shakamak   jasonville        lakers         258           a    28 greene
+7               union dugger       dugger      bulldogs         117           a  77 sullivan
+8         white river valley   switz city    wolverines         253           a    28 greene

@@ -1,0 +1,31 @@
+                 rider manufacturer  laps time / retired  grid
+0      manuel poggiali      aprilia    19      41:36.284    23
+1       hiroshi aoyama        honda    19        + 1.373     1
+2       yuki takahashi        honda    19        + 1.496     7
+3      sebastián porto        honda    19        + 1.700     6
+4      franco battaini      aprilia    19       + 11.771    16
+5          fonsi nieto      aprilia    19       + 13.220     9
+6        roberto rolfo        honda    19       + 13.497     4
+7        naoki matsudo       yamaha    19       + 14.027     5
+8         tekkyu kayoh       yamaha    19       + 24.546    12
+9     sylvain guintoli      aprilia    19       + 42.722     8
+10          alex debón        honda    19       + 43.246     3
+11         erwan nigon      aprilia    19       + 47.871    21
+12          joan olivé      aprilia    19     + 1:09.405    30
+13     johan stigefelt      aprilia    19     + 1:09.779    13
+14          jakub smrž        honda    19     + 1:21.048    10
+15       eric bataille        honda    19     + 1:21.788    28
+16      jaroslav huleš       yamaha    19     + 1:35.538    15
+17         chaz davies      aprilia    19     + 1:38.489    29
+18    henk vd lagemaat        honda    19     + 1:41.507    25
+19      katja poensgen        honda    18        + 1 lap    26
+20       héctor faubel      aprilia    18       accident    18
+21    christian gemmel        honda    17       accident    24
+22      alex baldolini      aprilia    17     retirement    11
+23        anthony west      aprilia    15       accident    17
+24          toni elías      aprilia    14     retirement    27
+25  katsuyuki nakasuga       yamaha    10       accident     2
+26     randy de puniet      aprilia     4     retirement    20
+27        dirk heidolf      aprilia     0       accident    19
+28    tomoyoshi koyama       yamaha     0       accident    22
+29       hugo marchand      aprilia     0     retirement    14

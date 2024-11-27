@@ -1,0 +1,14 @@
+                   date                   name         party          province                                 details
+0     february 1 , 2006        shirley maheu 1       liberal            quebec                                    died
+1       april 22 , 2006          john buchanan  conservative       nova scotia  reached mandatory retirement age of 75
+2       april 28 , 2006  marisa ferretti barth       liberal            quebec  reached mandatory retirement age of 75
+3         june 8 , 2006     michael forrestall  conservative       nova scotia                                    died
+4   september 21 , 2006    madeleine plamondon   independent            quebec  reached mandatory retirement age of 75
+5     october 31 , 2006          michael kirby       liberal       nova scotia   resigned to move on to new challenges
+6    december 31 , 2006  ione jean christensen       liberal             yukon   resigned to assist her ailing husband
+7        march 2 , 2007            jack austin       liberal  british columbia  reached mandatory retirement age of 75
+8        june 30 , 2007     daniel philip hays       liberal           alberta                                resigned
+9     january 31 , 2008             pat carney  conservative  british columbia                                resigned
+10    february 4 , 2008       ross fitzpatrick       liberal  british columbia  reached mandatory retirement age of 75
+11     august 26 , 2008          aurelien gill       liberal            quebec  reached mandatory retirement age of 75
+12   september 8 , 2008        michael fortier  conservative            quebec        resigned to run in 2008 election

@@ -1,0 +1,17 @@
+                 date                     label format country       catalog
+0   february 6 , 1967                  columbia     lp      us       cl 2642
+1   february 6 , 1967                  columbia     lp      us       cs 9442
+2      april 7 , 1967                       cbs     lp      uk     bpg 62988
+3      april 7 , 1967                       cbs     lp      uk    sbpg 62988
+4                1987                     edsel     lp      uk        ed 227
+5                1987                     edsel     cd      uk      edcd 227
+6                1989                  columbia     cd      us       ck 9442
+7                1993                  columbia     cd      uk    col 468181
+8     april 30 , 1996         columbia / legacy     cd      us      ck 64848
+9        may 6 , 1996         columbia / legacy     cd      uk   col 4837082
+10               1999              simply vinyl     lp      uk     svlp 0007
+11               1999                  sundazed     lp      us       lp 5060
+12               2003                      sony     cd   japan     mhcp - 69
+13               2006                  sundazed     lp      us       lp 5200
+14    march 22 , 2011            audio fidelity     cd      us        afz110
+15      may 30 , 2012  sony music entertainment     cd   japan  sicp - 20375

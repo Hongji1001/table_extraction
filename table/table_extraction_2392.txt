@@ -1,0 +1,39 @@
+         constituency                  winner party  margin                   runner - up a party a
+0        madras north        a v p asaithambi   dmk   45103                     k manoharan    admk
+1      madras central          p ramachandran   nco   73411                 k raja mohammad    admk
+2        madras south          r venkataraman   inc   14829                  murasoli maran     dmk
+3       sriperumbudur            s jaganathan  admk   45932                    t p elumalai     nco
+4        chengalpattu          r mohanarangam  admk   35639                    era sezhiyan     dmk
+5           arakkonam    o v alagesa mudaliar   inc   57864                    n veeraswamy     dmk
+6             vellore       v dhandayuthapani   nco    3161                     abdul samad     ind
+7         tiruppattur         c n viswanathan  admk   98666           c k chinnaraj gounder     dmk
+8           vandavasi       venugopal gounder  admk   81132                   durai murugan     dmk
+9          tindivanam   m r lakshmi narayanan   inc   49485                v krishnamoorthy     dmk
+10          cuddalore            g bhuvarahan   inc   89057                 s radhakrishnan     nco
+11        chidambaram             a murugesan  admk  109234                      n rajangam     dmk
+12         dharmapuri            k ramamurthy   inc  105686                    p ponnuswamy     nco
+13        krishnagiri           p v periasamy  admk  119228                  m kamalanathan     dmk
+14          rasipuram             b devarajan   inc  133438             jothi venkatachalam     nco
+15              salem                p kannan  admk   79604                       k rajaram     dmk
+16       tiruchengode         r kolanthaivelu  admk  128180                     m muthusamy     dmk
+17           nilgiris          p s ramalingam  admk   59346                m k nanja gowder     nco
+18  gobichettipalayam           k s ramaswamy   inc  105458                n k karuppuswamy     nco
+19         coimbatore       parvathi krishnan   cpi   21178                  s v lakshmanan     nco
+20           pollachi                k a raju  admk  124194                  c t dhandapani     dmk
+21             palani           c subramaniam   inc  221768                  k n saminathan     dmk
+22           dindigul           k maya thevar  admk  169224               a balasubramaniam     cpm
+23            madurai         r v swaminathan   inc  134345                    p ramamurthi     cpm
+24        periyakulam              s ramasamy  admk  204392                 palanivel rajan     dmk
+25              karur                 k gopal   inc  145520            m meenakshi sundaram     nco
+26    tiruchirappalli       m kalyanasundaram   cpi   76045        y venkateswara dikshidar     nco
+27         perambalur              a asokaraj  admk  180027                        j s raju     dmk
+28     mayiladuthurai  n kudanthai ramalingam   inc   74265                   s govindasamy     nco
+29       nagapattinam          s g murugaiyan   cpi   40810           m thazhai karunanithi     dmk
+30          thanjavur        s d somasundaram  admk   97743                       l ganesan     dmk
+31        pudukkottai       v s elanchezhiyan  admk  223615                v vairava thevar     nco
+32          sivaganga           p thiagarajan  admk  211533           r ramanathan chettiar     nco
+33     ramanathapuram             p anbalagan  admk  175130              m s k sathiyendran     dmk
+34           sivakasi           v jeyalakshmi   inc  114848                    g ramanujuam     nco
+35        tirunelveli           v arunachalam  admk  182693  samsuddin alias k m kathiravan     dmk
+36            tenkasi           m arunachalam   inc  186878                   s rajagopalan     nco
+37        tiruchendur            k t kosalram   inc  120190                 edwin devadasan     nco

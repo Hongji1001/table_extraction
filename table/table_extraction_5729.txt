@@ -1,0 +1,20 @@
+    year                champion           winning score                                            low amateur                low professional
+0   2013          elise swartout                 216 (e)                                              not avail            nicole jeray 216 (e)
+1   2012    samantha troyanovich                 216 (e)                                   samantha troyanovich               not avail 216 (e)
+2   2011           jenna pearson                 216 (e)                                              not avail               not avail 216 (e)
+3   2010           allison fouch              217 ( + 1)                                       katherine hepler        allison fouch 217 ( + 1)
+4   2009          a - aimee neff                 209 (7)                                             aimee neff       brittany johnston 212 (4)
+5   2008        a - aimee neff 7                 208 (8)                                             aimee neff            seul ki park 214 (2)
+6   2007  a - nicole schachner 6         215 (1) playoff                                       nicole schachner           jenna pearson 215 (1)
+7   2006       a - jenna pearson                 208 (8)                                          jenna pearson  carolyn barnett - howe 213 (3)
+8   2005   a - annika welander 5                 207 (9)                                        annika welander          allison finney 208 (8)
+9   2004        sarah johnston 4                 212 (4)                             noriko nakazaki 217 ( + 1)                  sarah johnston
+10  2003            nicole jeray                 212 (4)                              alexis wooster 219 ( + 3)                    nicole jeray
+11  2002              maria long                 217 (1)  rebecca halpern 222 ( + 6) sarah pesavento 222 ( + 6)                      maria long
+12  2001        a - emily gilley              223 ( + 7)                                           emily gilley          dagne root 229 ( + 13)
+13  2000        a - emily gilley              217 ( + 1)                                           emily gilley      jennifer broggi 219 ( + 3)
+14  1999    a - kerry postillion                 214 (2)                                       kerry postillion           margie arnold 216 (e)
+15  1998            nicole jeray                 211 (5)                               kerry postillion 215 (1)                    nicole jeray
+16  1997  a - kerry postillion 3      218 ( + 2) playoff                                       kerry postillion      diane daugherty 218 ( + 2)
+17  1996  a - kerry postillion 2              219 ( + 3)                                       kerry postillion       margie arnold 227 ( + 11)
+18  1995       diane daugherty 1  139 (5) rain shortened                            kristin milligan 146 ( + 2)                 diane daugherty

@@ -1,0 +1,44 @@
+    year           player                   team    league           position
+0   1971      willie mays   san francisco giants  national         outfielder
+1   1972  brooks robinson      baltimore orioles  american      third baseman
+2   1973        al kaline         detroit tigers  american         outfielder
+3   1974  willie stargell     pittsburgh pirates  national         outfielder
+4   1975        lou brock     st louis cardinals  national         outfielder
+5   1976        pete rose        cincinnati reds  national      third baseman
+6   1977        rod carew        minnesota twins  american      first baseman
+7   1978    greg luzinski  philadelphia phillies  national         outfielder
+8   1979   andre thornton      cleveland indians  american      first baseman
+9   1980      phil niekro         atlanta braves  national            pitcher
+10  1981     steve garvey    los angeles dodgers  national      first baseman
+11  1982    ken singleton      baltimore orioles  american  designated hitter
+12  1983     cecil cooper      milwaukee brewers  american      first baseman
+13  1984       ron guidry       new york yankees  american            pitcher
+14  1985       don baylor       new york yankees  american  designated hitter
+15  1986     garry maddox  philadelphia phillies  national         outfielder
+16  1987   rick sutcliffe           chicago cubs  national            pitcher
+17  1988      dale murphy         atlanta braves  national         outfielder
+18  1989      gary carter          new york mets  national            catcher
+19  1990     dave stewart      oakland athletics  american            pitcher
+20  1991  harold reynolds       seattle mariners  american     second baseman
+21  1992  cal ripken , jr      baltimore orioles  american          shortstop
+22  1993     barry larkin        cincinnati reds  national          shortstop
+23  1994    dave winfield        minnesota twins  american  designated hitter
+24  1995      ozzie smith     st louis cardinals  national          shortstop
+25  1996    kirby puckett        minnesota twins  american         outfielder
+26  1997       eric davis      baltimore orioles  american         outfielder
+27  1998       sammy sosa           chicago cubs  national         outfielder
+28  1999       tony gwynn       san diego padres  national         outfielder
+29  2000        al leiter          new york mets  national            pitcher
+30  2001   curt schilling   arizona diamondbacks  national            pitcher
+31  2002        jim thome      cleveland indians  american      first baseman
+32  2003      jamie moyer       seattle mariners  american            pitcher
+33  2004   edgar martínez       seattle mariners  american  designated hitter
+34  2005      john smoltz         atlanta braves  national            pitcher
+35  2006   carlos delgado          new york mets  national      first baseman
+36  2007     craig biggio         houston astros  national     second baseman
+37  2008    albert pujols     st louis cardinals  national      first baseman
+38  2009      derek jeter       new york yankees  american          shortstop
+39  2010    tim wakefield         boston red sox  american            pitcher
+40  2011      david ortiz         boston red sox  american  designated hitter
+41  2012  clayton kershaw    los angeles dodgers  national            pitcher
+42  2013   carlos beltrán     st louis cardinals  national         outfielder

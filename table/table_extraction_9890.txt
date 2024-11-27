@@ -1,0 +1,18 @@
+    draw                           singer                              song  points  place
+0      1                 manjola nallbani  kjo botë merr frymë nga dashuria      27      7
+1      2                       produkt 28                        30 sekonda       3     15
+2      3                    eneida tarifa                      e para letër      11     10
+3      4                   mariza ikonomi                     mall i tretur      20      9
+4      5                       greta koçi                  natën të kërkova      35      6
+5      6  flaka krelani & doruntina disha               jeta kërkon dashuri      57      2
+6      7       mira konçi & redon makashi                     nën një qiell      37      5
+7      8                         kthjellu                             dhoma       9     11
+8      9                      kozma dushi                tatuazh në kujtesë       1     16
+9     10                    devis xherahu                          endacaku       0     17
+10    11                      teuta kurti                qyteti i dashurisë       3     14
+11    12                samanta karavello             pse u harrua dashuria      23      8
+12    13                    juliana pasha                   një qiell të ri      54      3
+13    14                      agim poshka                kujt i them të dua       8     12
+14    15                    jonida maliqi            s'ka fajtor në dashuri      36      4
+15    16                        olta boka                zemrën e lamë peng      67      1
+16    17                  rosela gjylbegu                   po lind një yll       8     13

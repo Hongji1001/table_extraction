@@ -1,0 +1,8 @@
+        superlative          actress     record set  year                               notes
+0       most awards  shelley winters       2 awards  1965  awards resulted from 3 nominations
+1       most awards     dianne wiest       2 awards  1994  awards resulted from 3 nominations
+2  most nominations    thelma ritter  6 nominations  1962    nominations resulted in 0 awards
+3     oldest winner   peggy ashcroft   77 years old  1984                  a passage to india
+4    oldest nominee    gloria stuart   87 years old  1997                             titanic
+5   youngest winner     tatum o'neal   10 years old  1973                          paper moon
+6  youngest nominee     tatum o'neal   10 years old  1973                          paper moon

@@ -1,0 +1,6 @@
+                venue                           location               environment closed     reason
+0  charlotte coliseum             eagle lake , charlotte              indoor arena   2005   replaced
+1   jim crockett park               dilworth , charlotte  open air , natural grass   1985      arson
+2  metrolina speedway  metrolina fairgrounds , charlotte           open air , dirt  1990s  abandoned
+3      belk gymnasium        university city , charlotte              indoor arena   1996  converted
+4  charlotte speedway                          charlotte           open air , dirt   1957     closed

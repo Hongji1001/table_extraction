@@ -1,0 +1,21 @@
+                      title series         director  production number    release date
+0              don't axe me     mm  robert mckimson               1469  1958 - 01 - 04
+1            tortilla flaps     lt  robert mckimson               1449  1958 - 01 - 18
+2          hare - less wolf     mm     friz freleng               1478  1958 - 02 - 01
+3        a pizza tweety pie     lt     friz freleng               1479  1958 - 02 - 22
+4          robin hood daffy     mm      chuck jones               1470  1958 - 03 - 08
+5   hare - way to the stars     lt      chuck jones               1464  1958 - 03 - 29
+6         whoa , be - gone!     mm      chuck jones               1477  1958 - 04 - 12
+7            a waggily tale     lt     friz freleng               1486  1958 - 04 - 26
+8           feather bluster     mm  robert mckimson               1476  1958 - 05 - 10
+9             now hare this     lt  robert mckimson               1481  1958 - 05 - 31
+10          to itch his own     mm      chuck jones               1485  1958 - 06 - 28
+11                dog tales     lt  robert mckimson               1484  1958 - 07 - 26
+12      knighty knight bugs     lt     friz freleng               1483  1958 - 08 - 23
+13    weasel while you work     mm  robert mckimson               1489  1958 - 09 - 06
+14       a bird in a bonnet     mm     friz freleng               1490  1958 - 09 - 27
+15  hook , line and stinker     lt      chuck jones               1487  1958 - 10 - 11
+16    pre - hysterical hare     lt  robert mckimson               1491  1958 - 11 - 01
+17             gopher broke     lt  robert mckimson               1497  1958 - 11 - 15
+18         hip hip - hurry!     mm      chuck jones               1515  1958 - 12 - 06
+19                 cat feud     mm      chuck jones               1474  1958 - 12 - 20

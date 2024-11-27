@@ -1,0 +1,13 @@
+                    name  championship  league cup  fa cup total
+0        gary mcsheffrey            15           1       1    17
+1           dele adebola            12           0       0    12
+2             stern john            10           0       1  0 11
+3            dennis wise             6           0       0   0 6
+4          don hutchison             4           0       0   0 4
+5   claus bech jãrgensen             3           0       0   0 3
+6           andy morrell             2           1       0   0 3
+7        james scowcroft             3           0       0   0 3
+8           lilian nalis             2           0       0   0 2
+9             matt heath             1           1       0   0 2
+10           robert page             1           0       0   0 1
+11           willo flood             1           0       0   0 1

@@ -1,0 +1,21 @@
+    rank               player       career  caps  goals
+0      1          martin reim  1992 - 2009   157     14
+1      2        marko kristal  1992 - 2005   143      9
+2      3          andres oper       1995 -   133     38
+3      4            mart poom  1992 - 2009   120      0
+4      5      kristen viikmäe  1997 - 2013   115     15
+5      6         raio piiroja       1998 -   113      8
+6      7      indrek zelinski  1994 - 2010   103     27
+7      8          enar jääger       2002 -    99      0
+8      9      sergei terehhov  1997 - 2007    94      5
+9     10        joel lindpere       1999 -    90      6
+10    10        ragnar klavan       2003 -    90      2
+11    12      andrei stepanov  1999 - 2012    89      1
+12    13       dmitri kruglov       2004 -    88      1
+13    14        marek lemsalu  1992 - 2007    86      3
+14    15  aleksandr dmitrijev       2004 -    83      0
+15    16           urmas kirs  1992 - 2000    80      5
+16    17           tarmo kink       2004 -    78      6
+17    18           teet allas  1997 - 2008    73      2
+18    19           taavi rähn       2001 -    72      0
+19    20        viktor alonen  1992 - 2001    71      0

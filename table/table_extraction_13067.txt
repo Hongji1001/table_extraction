@@ -1,0 +1,6 @@
+                show  last aired previous network     retitled as / same new / returning / same network     returning
+0  charles in charge        1985              cbs                   same                    syndication     january 3
+1       blockbusters        1982              nbc                   same                           same     january 5
+2      concentration        1978      syndication  classic concentration                            nbc         may 4
+3     we got it made        1984              nbc                   same    same (on some o&o stations)  september 11
+4       high rollers        1980              nbc                   same                    syndication  september 14

@@ -1,0 +1,8 @@
+     game      date home team           result road team
+0  game 1  march 30    boston  123 - 125 (2ot)  st louis
+1  game 2  march 31    boston         119 - 99  st louis
+2  game 3   april 6  st louis         100 - 98    boston
+3  game 4   april 7  st louis        118 - 123    boston
+4  game 5   april 9    boston        124 - 109  st louis
+5  game 6  april 11  st louis          96 - 94    boston
+6  game 7  april 13    boston   125 - 123 (ot)  st louis

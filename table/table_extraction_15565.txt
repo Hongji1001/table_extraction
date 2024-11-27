@@ -1,0 +1,10 @@
+  constituency number     name reserved for ( sc / st / none) district  number of electorates (2003)
+0                   9    gohad                             sc    bhind                        152607
+1                  10  mehgaon                           none    bhind                        157316
+2                  11   attair                           none    bhind                        182294
+3                  12    bhind                           none    bhind                        240052
+4                  13      ron                           none    bhind                        141143
+5                  14    lahar                           none    bhind                        190636
+6                  22  seondha                             sc    datia                        162244
+7                  23    datia                           none    datia                        156910
+8             total :  total :                        total :  total :                       1383202

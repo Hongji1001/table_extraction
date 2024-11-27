@@ -1,0 +1,11 @@
+          tournament            winner       runner - up                   score       third place
+0               doha      marcelo ríos    cédric pioline           6 - 2 , 6 - 2  richard krajicek
+1          hong kong      marcelo ríos     thomas muster           6 - 3 , 6 - 3    cédric pioline
+2          barcelona    sergi bruguera      carlos costa           6 - 1 , 6 - 4  richard krajicek
+3               rome      renzo furlan    sergi bruguera           6 - 4 , 4 - 6    cédric pioline
+4            algarve      marcelo ríos      john mcenroe           6 - 2 , 6 - 4  carl - uwe steeb
+5  graz - seiersberg      marcelo ríos     thomas muster   7 - 6 (1) , 7 - 6 (5)  goran ivanišević
+6              paris      marcelo ríos  goran ivanišević           7 - 5 , 6 - 3    cédric pioline
+7          eindhoven      marcelo ríos    wayne ferreira           6 - 3 , 6 - 1  richard krajicek
+8          frankfurt  goran ivanišević      john mcenroe  7 - 6 (12) , 7 - 6 (1)     paul haarhuis
+9             london     paul haarhuis  goran ivanišević       7 - 6 (4) , 5 - 7              none

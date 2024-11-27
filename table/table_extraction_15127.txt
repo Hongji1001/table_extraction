@@ -1,0 +1,6 @@
+         goalkeeper  goals  matches  average             team
+0     miguel zapata     17       28     0.61  atlético ciudad
+1    rubén martínez     24       32     0.75        cartagena
+2  orlando quintana     29       34     0.85  lorca deportiva
+3     álvaro campos     24       28     0.86    real murcia b
+4   matías garavano     26       30     0.87           mérida

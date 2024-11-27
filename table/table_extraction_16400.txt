@@ -1,0 +1,9 @@
+                date           ship name           flag  tonnage ( grt )     fate  deaths
+0  26 september 1940           ashantian  great britain             4917  damaged       4
+1  26 september 1940  manchester brigade  great britain             6042     sunk      56
+2  26 september 1940           stratford  great britain             4753     sunk       2
+3    14 october 1940        hms cheshire  great britain            10552  damaged       0
+4   13 november 1940      cape st andrew  great britain             5094     sunk      15
+5   16 november 1940             planter  great britain             5887     sunk      13
+6   17 november 1940       saint germain  great britain             1044     sunk       0
+7   17 november 1940            veronica         sweden             1316     sunk      17

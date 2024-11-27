@@ -1,0 +1,46 @@
+                 date                       venue  score result               competition
+0         10 may 1972          bangkok , thailand  4 - 1    won        1972 afc asian cup
+1        19 july 1972     kuala lumpur , malaysia  4 - 1    won               merdeka cup
+2        23 july 1972     kuala lumpur , malaysia  2 - 0    won               merdeka cup
+3        29 july 1972     kuala lumpur , malaysia  2 - 1    won               merdeka cup
+4   20 september 1972         seoul , south korea  3 - 0    won          president 's cup
+5    22 november 1972          bangkok , thailand  1 - 1   draw               king 's cup
+6         28 may 1973         seoul , south korea  1 - 0    won  1974 fifa world cup qual
+7   22 september 1973         seoul , south korea  6 - 0    won          president 's cup
+8   30 september 1973         seoul , south korea  2 - 0    won          president 's cup
+9    16 december 1973          bangkok , thailand  5 - 0    won               king 's cup
+10   22 december 1973          bangkok , thailand  2 - 0    won               king 's cup
+11   25 december 1973          bangkok , thailand  2 - 1    won               king 's cup
+12        18 may 1974         seoul , south korea  3 - 0    won          president 's cup
+13   25 december 1974  hong kong , united kingdom  3 - 1    won            friendly match
+14       29 july 1975     kuala lumpur , malaysia  3 - 1    won               merdeka cup
+15      7 august 1975     kuala lumpur , malaysia  6 - 0    won               merdeka cup
+16      9 august 1975     kuala lumpur , malaysia  3 - 1    won               merdeka cup
+17     11 august 1975     kuala lumpur , malaysia  5 - 1    won               merdeka cup
+18     15 august 1975     kuala lumpur , malaysia  4 - 0    won               king 's cup
+19   21 december 1975          bangkok , thailand  3 - 1    won               king 's cup
+20   21 december 1975          bangkok , thailand  3 - 1    won            friendly match
+21     10 august 1976     kuala lumpur , malaysia  8 - 0    won               merdeka cup
+22     15 august 1976     kuala lumpur , malaysia  2 - 2   draw               merdeka cup
+23  11 september 1976         seoul , south korea  4 - 4   draw          president 's cup
+24  13 september 1976         seoul , south korea  4 - 0    won          president 's cup
+25  17 september 1976         seoul , south korea  7 - 0    won          president 's cup
+26   22 december 1976          bangkok , thailand  1 - 1   draw               king 's cup
+27   14 february 1977       singapore , singapore  4 - 0    won            friendly match
+28      20 march 1977         seoul , south korea  3 - 1    won  1978 fifa world cup qual
+29       3 april 1977         seoul , south korea  1 - 0    won  1978 fifa world cup qual
+30       26 june 1977  hong kong , united kingdom  1 - 0    won  1978 fifa world cup qual
+31       17 july 1977     kuala lumpur , malaysia  4 - 0    won               merdeka cup
+32       22 july 1977     kuala lumpur , malaysia  5 - 1    won               merdeka cup
+33       24 july 1977     kuala lumpur , malaysia  4 - 0    won               merdeka cup
+34       31 july 1977     kuala lumpur , malaysia  1 - 0    won               merdeka cup
+35     27 august 1977          sydney , australia  1 - 2   lost  1978 fifa world cup qual
+36   3 september 1977         seoul , south korea  3 - 1    won          president 's cup
+37   5 september 1977         busan , south korea  3 - 0    won          president 's cup
+38  13 september 1977         seoul , south korea  3 - 0    won          president 's cup
+39    5 november 1977        kuwait city , kuwait  2 - 2   draw  1978 fifa world cup qual
+40       19 july 1978     kuala lumpur , malaysia  4 - 0    won               merdeka cup
+41       22 july 1978     kuala lumpur , malaysia  2 - 0    won               merdeka cup
+42       25 july 1978     kuala lumpur , malaysia  2 - 0    won               merdeka cup
+43   11 december 1978          bangkok , thailand  5 - 1    won          1978 asian games
+44   17 december 1978          bangkok , thailand  1 - 0    won          1978 asian games

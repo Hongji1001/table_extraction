@@ -1,0 +1,9 @@
+   pick                                      team                player          position            college
+0    49                            denver broncos            jim garcia     defensive end             purdue
+1    50  kansas city chiefs (from houston oilers)    gloster richardson     wide receiver      jackson state
+2    51      new york jets (from oakland raiders)        archie roberts       quarterback           columbia
+3    52                             new york jets       jim harris , jr  defensive tackle         utah state
+4    53                        kansas city chiefs            lou bobich    defensive back     michigan state
+5    54                        san diego chargers             jack snow     wide receiver         notre dame
+6    55                           boston patriots           tom neville  defensive tackle  mississippi state
+7    56                             buffalo bills  marty schottenheimer        linebacker         pittsburgh

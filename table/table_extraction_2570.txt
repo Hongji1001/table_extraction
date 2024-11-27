@@ -1,0 +1,11 @@
+   rank  dismissals          player  caught  stumped  matches  innings
+0     1         148       rod marsh     141        7       42       82
+1     2         135       ian healy     123       12       33       65
+2     3          96  adam gilchrist      89        7       20       40
+3     4          90   bert oldfield      59       31       38       69
+4     5          76     wally grout      69        7       22       41
+5     6          59   jack blackham      35       24       25       57
+6     7          55       jim kelly      39       16       33       61
+7     8          52    sammy carter      35       17       21       41
+8     9          42      don tallon      38        4       15       30
+9    10          37     gil langley      35        2        9       17

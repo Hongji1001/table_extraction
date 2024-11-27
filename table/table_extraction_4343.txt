@@ -1,0 +1,29 @@
+                             name                  circuit          date           winning driver     winning constructor  report
+0            são paulo grand prix               interlagos     5 january              chico landi              alfa romeo  report
+1   general juan perón grand prix                   retiro    9 february          luigi villoresi                maserati  report
+2     eva duarte perón grand prix                   retiro   16 february          luigi villoresi                maserati  report
+3              rosario grand prix        independence park       2 march            achille varzi              alfa romeo  report
+4              rafaela grand prix                  rafaela      20 march     oscar alfredo gálvez              alfa romeo  report
+5           interlagos grand prix               interlagos      30 march            achille varzi              alfa romeo  report
+6                  pau grand prix                      pau       7 april             nello pagani                maserati  report
+7       rio de janeiro grand prix                    gávea      21 april              chico landi              alfa romeo  report
+8           roussillon grand prix                perpignan      27 april           eugène chaboud  talbot - lago - talbot  report
+9                jersey road race             saint helier         8 may              reg parnell                maserati  report
+10           marseille grand prix                    prado        18 may           eugène chaboud  talbot - lago - talbot  report
+11      grand prix des frontières                   chimay        25 may  yves giraud - cabantous                maserati  report
+12               nîmes grand prix                    nîmes        1 june          luigi villoresi                maserati  report
+13               challenges agaci                montlhéry        8 june            maurice varet                  delage  report
+14               marne grand prix                    reims        6 july          christian kautz                maserati  report
+15                 gransden lodge  gransden lodge airfield       12 july             dennis poore              alfa romeo  report
+16                albi grand prix                     albi       13 july             louis rosier  talbot - lago - talbot  report
+17                bari grand prix                lungomare       13 july            achille varzi              alfa romeo  report
+18          bell ville grand prix               bell ville       13 july     oscar alfredo gálvez              alfa romeo  report
+19                nice grand prix                     nice       20 july          luigi villoresi                maserati  report
+20              alsace grand prix               strasbourg      3 august          luigi villoresi                maserati  report
+21                  ulster trophy               ballyclare      9 august               bob gerard                     era  report
+22           comminges grand prix          saint - gaudens     10 august             louis chiron  talbot - lago - talbot  report
+23          montevideo grand prix            playa ramirez     17 august     oscar alfredo gálvez              alfa romeo  report
+24          british empire trophy                  douglas     21 august               bob gerard                     era  report
+25       mar del plata grand prix               el torreon  21 september     oscar alfredo gálvez              alfa romeo  report
+26            lausanne grand prix                 lausanne     5 october          luigi villoresi                maserati  report
+27                 coupe du salon                montlhéry   16 november  yves giraud - cabantous  talbot - lago - talbot  report

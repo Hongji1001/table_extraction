@@ -1,0 +1,38 @@
+        model number  frequency l2 cache  mult        voltage      socket        release date  part number (s)
+0     pentiumiii500e    500 mhz   256 kb   5.0          1.6 v  socket 370   october 25 , 1999  rb80526py500256
+1     pentiumiii500e    500 mhz   256 kb   5.0          1.6 v      slot 1   october 25 , 1999    80526py500256
+2    pentiumiii533eb    533 mhz   256 kb   4.0         1.65 v  socket 370   october 25 , 1999  rb80526pz533256
+3    pentiumiii533eb    533 mhz   256 kb   4.0         1.65 v      slot 1   october 25 , 1999    80526pz533256
+4     pentiumiii550e    550 mhz   256 kb   5.5    1.6 - 1.7 v  socket 370   october 25 , 1999  rb80526py550256
+5     pentiumiii550e    550 mhz   256 kb   5.5    1.6 - 1.7 v      slot 1   october 25 , 1999    80526py550256
+6     pentiumiii600e    600 mhz   256 kb   6.0   1.7 - 1.75 v  socket 370   october 25 , 1999  rb80526py600256
+7     pentiumiii600e    600 mhz   256 kb   6.0   1.7 - 1.75 v      slot 1   october 25 , 1999    80526py600256
+8    pentiumiii600eb    600 mhz   256 kb   4.5   1.65 - 1.7 v  socket 370   october 25 , 1999  rb80526pz600256
+9    pentiumiii600eb    600 mhz   256 kb   4.5   1.65 - 1.7 v      slot 1   october 25 , 1999    80526pz600256
+10     pentiumiii650    650 mhz   256 kb   6.5   1.65 - 1.7 v  socket 370   october 25 , 1999  rb80526py650256
+11     pentiumiii650    650 mhz   256 kb   6.5   1.65 - 1.7 v      slot 1   october 25 , 1999    80526py650256
+12     pentiumiii667    666 mhz   256 kb   5.0   1.65 - 1.7 v  socket 370   october 25 , 1999  rb80526pz667256
+13     pentiumiii667    666 mhz   256 kb   5.0   1.65 - 1.7 v      slot 1   october 25 , 1999    80526pz667256
+14     pentiumiii700    700 mhz   256 kb   7.0   1.65 - 1.7 v  socket 370   october 25 , 1999  rb80526py700256
+15     pentiumiii700    700 mhz   256 kb   7.0   1.65 - 1.7 v      slot 1   october 25 , 1999    80526py700256
+16     pentiumiii733    733 mhz   256 kb   5.5  1.65 - 1.75 v  socket 370   october 25 , 1999  rb80526pz733256
+17     pentiumiii733    733 mhz   256 kb   5.5  1.65 - 1.75 v      slot 1   october 25 , 1999    80526pz733256
+18     pentiumiii750    750 mhz   256 kb   7.5  1.65 - 1.75 v  socket 370  december 20 , 1999  rb80526py750256
+19     pentiumiii750    750 mhz   256 kb   7.5  1.65 - 1.75 v      slot 1  december 20 , 1999    80526py750256
+20     pentiumiii800    800 mhz   256 kb   8.0  1.65 - 1.75 v  socket 370  december 20 , 1999  rb80526py800256
+21     pentiumiii800    800 mhz   256 kb   8.0  1.65 - 1.75 v      slot 1  december 20 , 1999    80526py800256
+22   pentiumiii800eb    800 mhz   256 kb   6.0  1.65 - 1.75 v  socket 370  december 20 , 1999  rb80526pz800256
+23   pentiumiii800eb    800 mhz   256 kb   6.0  1.65 - 1.75 v      slot 1  december 20 , 1999    80526pz800256
+24     pentiumiii850    850 mhz   256 kb   8.5  1.65 - 1.75 v  socket 370     march 20 , 2000  rb80526py850256
+25     pentiumiii850    850 mhz   256 kb   8.5  1.65 - 1.75 v      slot 1     march 20 , 2000    80526py850256
+26     pentiumiii866    866 mhz   256 kb   6.5  1.65 - 1.75 v  socket 370     march 20 , 2000  rb80526pz866256
+27     pentiumiii866    866 mhz   256 kb   6.5  1.65 - 1.75 v      slot 1     march 20 , 2000    80526pz866256
+28     pentiumiii900    900 mhz   256 kb   9.0   1.7 - 1.75 v  socket 370        october 2000  rb80526py900256
+29     pentiumiii933    933 mhz   256 kb   7.0  1.65 - 1.75 v  socket 370       may 24 , 2000  rb80526pz933256
+30     pentiumiii933    933 mhz   256 kb   7.0  1.65 - 1.75 v      slot 1       may 24 , 2000    80526pz933256
+31    pentiumiii1000      1 ghz   256 kb  10.0         1.75 v  socket 370      march 8 , 2000  rb80526py001256
+32    pentiumiii1000      1 ghz   256 kb  10.0         1.75 v      slot 1      march 8 , 2000   80526py1000256
+33  pentiumiii1000eb      1 ghz   256 kb   7.5   1.7 - 1.76 v  socket 370      march 8 , 2000  rb80526pz001256
+34  pentiumiii1000eb      1 ghz   256 kb   7.5   1.7 - 1.76 v      slot 1      march 8 , 2000   80526pz1000256
+35    pentiumiii1100    1.1 ghz   256 kb  11.0         1.75 v  socket 370           june 2000  rb80526py005256
+36    pentiumiii1133  1.133 ghz   256 kb   8.5         1.75 v  socket 370      july 31 , 2000  rk80526pz006256

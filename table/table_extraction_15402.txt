@@ -1,0 +1,9 @@
+                              play                                        author                      company       base         country
+0  electra and orestes , the trial  based on aeschylus , sophocles and euripides  cyprus theatre organisation    nicosia          cyprus
+1            agamemnon 's children              based on sophocles and euripides     hessisches staatstheater  wiesbaden         germany
+2                    assemblywomen                                  aristophanes          neos kosmos theatre     athens          greece
+3                      the bacchae                                     euripides         mitos theathre group   limassol          cyprus
+4                          electra                                     sophocles     morphes ekfrasis theatre     athens          greece
+5                        the frogs                                  aristophanes       magdalena zira theatre    nicosia          cyprus
+6                    the eumenides                                     aeschylus    ruth kanner theatre group   tel aviv          israel
+7                         antigone        based on tommaso traetta and sophocles  skull of yorick productions     london  united kingdom

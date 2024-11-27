@@ -1,0 +1,6 @@
+                         stations      place managed by  platforms  zone
+0              centrale tram stop    croydon   tramlink          1     5
+1         church street tram stop    croydon   tramlink          1     5
+2           coombe lane tram stop  addington   tramlink          2     6
+3  coulsdon south railway station   coulsdon   southern          2     6
+4   coulsdon town railway station   coulsdon   southern          2     6

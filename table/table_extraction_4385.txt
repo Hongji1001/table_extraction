@@ -1,0 +1,13 @@
+         year     1st position      2nd position     9th position         10th position
+0   2000 / 01            marsa              lija          tarxien               zurrieq
+1   2001 / 02       marsaxlokk             mosta            qormi                 luxol
+2   2002 / 03            msida            balzan             gozo               xghajra
+3   2003 / 04        stpatrick              lija          tarxien            rabat ajax
+4   2004 / 05           hamrun             mosta           balzan                  gozo
+5   2005 / 06      stgeorge 's             marsa             lija                 luxol
+6   2006 / 07           hamrun            mqabba        san gwann                naxxar
+7   2007 / 08          tarxien             qormi         mellieha                 marsa
+8   2008 / 09  dingli swallows  vittoriosa stars       rabat ajax               senglea
+9   2009 / 10       marsaxlokk  vittoriosa stars        stpatrick             san gwann
+10  2010 / 11    balzan youths            mqabba  pietã  hotspurs  msida saint - joseph
+11  2011 / 12           melita        rabat ajax    st patrick fc       st george 's fc

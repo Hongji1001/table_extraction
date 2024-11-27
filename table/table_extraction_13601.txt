@@ -1,0 +1,10 @@
+   round  pick         player    nationality    school / club team
+0      1    19   rob williams  united states               houston
+1      3    62    roylin bond  united states            pepperdine
+2      4    84  alford turner  united states   southwest louisiana
+3      5   109     bill duffy  united states           santa clara
+4      6   131    chris brust  united states        north carolina
+5      7   153     jeb barlow  united states        north carolina
+6      8   178   donnie speer  united states  alabama - birmingham
+7      9   200     dean sears  united states                  ucla
+8     10   220  mike phillips  united states               niagara

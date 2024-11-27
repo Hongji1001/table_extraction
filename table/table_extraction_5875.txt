@@ -1,0 +1,27 @@
+                driver          constructor  laps time / retired  grid
+0           niki lauda        mclaren - tag    79    1:31:11.951     9
+1       patrick tambay              renault    79        + 7.154     1
+2        nigel mansell      lotus - renault    79       + 23.969     6
+3          renã arnoux              ferrari    79       + 43.706    11
+4      elio de angelis      lotus - renault    79     + 1:06.125     2
+5         keke rosberg     williams - honda    78        + 1 lap     4
+6          alain prost        mclaren - tag    78        + 1 lap     5
+7      jacques laffite     williams - honda    78        + 1 lap    12
+8             teo fabi        brabham - bmw    78        + 1 lap    17
+9    andrea de cesaris     ligier - renault    77       + 2 laps    26
+10     thierry boutsen         arrows - bmw    77       + 2 laps    14
+11  piercarlo ghinzani  osella - alfa romeo    74       + 5 laps    25
+12     jonathan palmer           ram - hart    72       + 7 laps    21
+13      martin brundle       tyrrell - ford    76   disqualified    23
+14         mauro baldi        spirit - hart    61         engine    24
+15       derek warwick              renault    53       accident     7
+16          marc surer        arrows - ford    51       accident    19
+17       eddie cheever           alfa romeo    51         engine    16
+18        ayrton senna       toleman - hart    35          turbo    13
+19    michele alboreto              ferrari    33         engine    10
+20      johnny cecotto       toleman - hart    22          turbo    18
+21    riccardo patrese           alfa romeo    15         engine    15
+22       nelson piquet        brabham - bmw    11          turbo     3
+23       stefan bellof       tyrrell - ford    11   disqualified    20
+24  manfred winkelhock            ats - bmw     5         clutch     8
+25     philippe alliot           ram - hart     4     electrical    22

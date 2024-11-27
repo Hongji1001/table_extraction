@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0        jacques villeneuve     williams - renault    59    1:28:01.665     1
+1                jean alesi     benetton - renault    59       + 10.205    11
+2            alexander wurz     benetton - renault    59       + 11.296     8
+3           david coulthard     mclaren - mercedes    59       + 31.229     6
+4           ralf schumacher       jordan - peugeot    59       + 31.880     5
+5                damon hill        arrows - yamaha    59     + 1:13.552    12
+6      giancarlo fisichella       jordan - peugeot    58        + 1 lap    10
+7              jarno trulli  prost - mugen - honda    58        + 1 lap    13
+8          norberto fontana      sauber - petronas    58        + 1 lap    14
+9             tarso marques         minardi - hart    58        + 1 lap    21
+10            shinji nakano  prost - mugen - honda    57         engine    15
+11           mika hã¤kkinen     mclaren - mercedes    52         engine     3
+12            jan magnussen         stewart - ford    50         engine    16
+13           jos verstappen         tyrrell - ford    45         engine    20
+14             eddie irvine                ferrari    44      halfshaft     7
+15                mika salo         tyrrell - ford    44         engine    18
+16           johnny herbert      sauber - petronas    42     electrical     9
+17       michael schumacher                ferrari    38  wheel bearing     4
+18       rubens barrichello         stewart - ford    37         engine    22
+19              pedro diniz        arrows - yamaha    29         engine    17
+20  heinz - harald frentzen     williams - renault     0      collision     2
+21            ukyo katayama         minardi - hart     0       accident    19

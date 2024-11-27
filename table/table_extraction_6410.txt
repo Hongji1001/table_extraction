@@ -1,0 +1,11 @@
+                         name         street address years as tallest height ft / m  floors
+0  lomas & nettleton building        201 main street      1904 - 1908         n / a       8
+1                    711 main        711 main street      1908 - 1910      134 / 41      10
+2                    806 main        806 main street      1910 - 1926      302 / 92      23
+3              magnolia hotel      1100 texas avenue      1926 - 1927      325 / 99      22
+4     niels esperson building      808 travis street      1927 - 1929     410 / 125      32
+5     jpmorgan chase building        712 main street      1929 - 1963     428 / 131      36
+6              exxon building        800 bell avenue      1963 - 1971     607 / 185      44
+7             one shell plaza   910 louisiana street      1971 - 1980     714 / 218      50
+8            enterprise plaza  1100 louisiana street      1980 - 1982     756 / 230      55
+9        jpmorgan chase tower      600 travis street   1982 - present    1002 / 305      75

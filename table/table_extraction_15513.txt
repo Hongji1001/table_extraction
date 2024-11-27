@@ -1,0 +1,19 @@
+                           team               location            county                 division            home ground            coach                captain
+0            derbyshire falcons                  derby        derbyshire                    north          county ground     karl krikken           wayne madsen
+1                durham dynamos  chester - le - street     county durham                    north       riverside ground       geoff cook           phil mustard
+2                  essex eagles             chelmsford             essex                    south          county ground     paul grayson           james foster
+3    gloucestershire gladiators                bristol   gloucestershire  midlands / wales / west             nevil road   john bracewell            alex gidman
+4              hampshire royals            southampton         hampshire                    south              rose bowl      giles white            james adams
+5                kent spitfires             canterbury              kent                    south     st lawrence ground      jimmy adams             robert key
+6          lancashire lightning             manchester        lancashire                    north           old trafford     peter moores           glen chapple
+7          leicestershire foxes              leicester    leicestershire                    north             grace road  phil whitticase        matthew hoggard
+8            middlesex panthers                 london         middlesex                    south                lord 's    richard scott            neil dexter
+9   northamptonshire steelbacks            northampton  northamptonshire  midlands / wales / west          county ground      david capel            alex wakely
+10      nottinghamshire outlaws             nottingham   nottinghamshire                    north           trent bridge      mick newell             chris read
+11                     somerset                taunton          somerset  midlands / wales / west          county ground       andy hurry     marcus trescothick
+12                       surrey                 london            surrey                    south               the oval      chris adams  rory hamilton - brown
+13                sussex sharks                   hove            sussex                    south  county cricket ground    mark robinson          michael yardy
+14           warwickshire bears             birmingham      warwickshire  midlands / wales / west              edgbaston     ashley giles          jim troughton
+15                welsh dragons                cardiff         glamorgan  midlands / wales / west          sofia gardens     matthew mott            jim allenby
+16        worcestershire royals              worcester    worcestershire  midlands / wales / west               new road     steve rhodes         daryl mitchell
+17            yorkshire vikings                  leeds         yorkshire                    north    headingley carnegie  jason gillespie            andrew gale

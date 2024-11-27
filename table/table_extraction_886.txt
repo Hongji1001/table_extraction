@@ -1,0 +1,6 @@
+        player        position starter  touchdowns  extra points  field goals  points
+0       heston   left halfback     yes           3             0            0      15
+1  tom hammond       right end     yes           0             5            2      13
+2    h hammond        fullback     yes           2             0            0      10
+3        clark        fullback      no           1             0            0       5
+4    hal weeks  right halfback      no           1             0            0       5

@@ -1,0 +1,30 @@
+                    driver          constructor  laps time / retired  grid
+0             peter revson       mclaren - ford    67      1:29:18.5     3
+1          ronnie peterson         lotus - ford    67          + 2.8     1
+2              denny hulme       mclaren - ford    67          + 3.0     2
+3               james hunt         march - ford    67          + 3.4    11
+4         franã§ois cevert       tyrrell - ford    67         + 36.6     7
+5         carlos reutemann       brabham - ford    67         + 44.7     8
+6           clay regazzoni                  brm    67       + 1:11.7    10
+7               jacky ickx              ferrari    67       + 1:17.4    19
+8            howden ganley  iso marlboro - ford    66        + 1 lap    18
+9           jackie stewart       tyrrell - ford    66        + 1 lap     4
+10           mike beuttler         march - ford    65       + 2 laps    24
+11              niki lauda                  brm    63       + 4 laps     9
+12          rikky von opel        ensign - ford    61       + 6 laps    21
+13       wilson fittipaldi       brabham - ford    44       oil leak    13
+14      emerson fittipaldi         lotus - ford    36   transmission     5
+15             john watson       brabham - ford    36    fuel system    23
+16             graham hill        shadow - ford    24        chassis    27
+17              chris amon                tecno     6    fuel system    29
+18          jody scheckter       mclaren - ford     0      collision     6
+19           mike hailwood       surtees - ford     0      collision    12
+20             jochen mass       surtees - ford     0      collision    14
+21             carlos pace       surtees - ford     0      collision    15
+22  jean - pierre beltoise                  brm     0      collision    17
+23       andrea de adamich       brabham - ford     0      collision    20
+24        roger williamson         march - ford     0      collision    22
+25          george follmer        shadow - ford     0      collision    25
+26           jackie oliver        shadow - ford     0      collision    26
+27            graham mcrae  iso marlboro - ford     0       throttle    28
+28            david purley         march - ford     0       spun off    16

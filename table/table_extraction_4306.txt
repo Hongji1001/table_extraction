@@ -1,0 +1,14 @@
+   crop (kilotonnes)  new south wales  victoria  queensland  western australia  south australia  tasmania  total
+0              wheat             6714      2173        1301               6959             3382        23  20552
+1             barley             1070      1173         202               1511             2000        25   5981
+2            sorghum              739         3        1140                  3                0         0   1885
+3        seed cotton              663         0        1140                  3                0         0   1806
+4             canola              637       312           1                530              225         1   1706
+5              s oat              360       420           7                588              137         8   1520
+6            s lupin              140        30           0               1050              103         0   1323
+7        field s pea               20       166           0                 47              190         1    424
+8              maize              190         8         171                  6                0         0    375
+9         s chickpea               86        20          56                 29                5         0    196
+10          s lentil                2        68           0                  2               56         0    128
+11       broad beans               42        68           1                  0               14         0    125
+12    sunflower seed               46         0          65                  0                0         1    112

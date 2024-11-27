@@ -1,0 +1,26 @@
+                              player  league  malaysia cup  fa cup  total
+0                        kevin lamey       5             7       0     12
+1   jorge armando rodriguez arguello       5             2       1      8
+2                       zamri hassan       4             3       0      7
+3                        ivan yusoff       2             3       0      5
+4                     reeshafiq alwi       2             1       0      3
+5                      feldaus hamid       0             2       0      2
+6                     azidan sarudin       1             0       0      1
+7                 hugo daniel lucena       1             0       0      1
+8                      azuwan rahman       1             0       0      1
+9                       s thanabalan       1             0       0      1
+10                ahmad nordin alias       0             1       0      1
+11             ahmad dashila tajudin       0             0       0      0
+12               ahmad fouzee masuri       0             0       0      0
+13          azrine effendy sa'duddin       0             0       0      0
+14                     hasnol hamzah       0             0       0      0
+15              iqbal hanafi masduki       0             0       0      0
+16              khairan ezuan razali       0             0       0      0
+17                 zaki tumpang (gk)       0             0       0      0
+18                            m ravi       0             0       0      0
+19            nor shuhaimi bahauddin       0             0       0      0
+20            saiful amar sudar (gk)       0             0       0      0
+21                sazaril amri bakri       0             0       0      0
+22                   s chandra devan       0             0       0      0
+23                      v saysupelan       0             0       0      0
+24                          own goal       1             0       0      1

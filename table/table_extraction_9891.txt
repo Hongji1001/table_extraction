@@ -1,0 +1,6 @@
+                                            district          incumbent            party    first elected                              result
+0                                       california 1  william rosecrans       democratic             1880                        re - elected
+1                                       california 2      horace f page       republican             1872  lost re - election democratic gain
+2                                       california 3   campbell p berry       democratic             1879             retired democratic hold
+3                                       california 4   romualdo pacheco       republican             1876             retired democratic gain
+4  california at - large 2 seats on a general ticket    none (new seat)  none (new seat)  none (new seat)            new seat democratic gain

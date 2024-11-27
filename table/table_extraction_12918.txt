@@ -1,0 +1,7 @@
+  municipality  inhabitants               mayor                party  election
+0      palermo       654121     leoluca orlando      italy of values      2012
+1      catania       291274         enzo bianco     democratic party      2013
+2      messina       241310    renato accorinti          independent      2013
+3     siracusa       123376  giancarlo garrozzo     democratic party      2013
+4      marsala        82933        giulia adamo  union of the centre      2012
+5         gela        77335       angelo fasulo     democratic party      2009

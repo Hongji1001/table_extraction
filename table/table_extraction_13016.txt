@@ -1,0 +1,13 @@
+          country                skip  ends won  ends lost  blank ends  stolen ends  shot %
+0           china         wang bingyu        51         38          11           19      81
+1         denmark     angelina jensen        49         40          13           12      80
+2          canada      jennifer jones        50         44           7           13      84
+3          sweden      anette norberg        47         45          11           13      80
+4     switzerland          mirjam ott        51         48           7           20      79
+5         germany       andrea schöpp        51         43          11           18      77
+6          russia  ludmila privivkova        41         52          11            7      79
+7        scotland        eve muirhead        42         40          18           11      80
+8   united states    debbie mccormick        47         48           3           13      79
+9     south korea       kim mi - yeon        41         47          11           13      73
+10         norway     marianne rørvik        39         50          11            7      73
+11          italy       diana gaspari        35         50          13            5      73

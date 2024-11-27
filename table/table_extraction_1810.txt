@@ -1,0 +1,7 @@
+    carrier  standard             frequency connection speed launch date (ddmmyyyy)
+0    orange  gsm gprs  900 mhz and 1800 mhz      56 kbit / s             14.09.2005
+1    orange  gsm edge  900 mhz and 1800 mhz   236.8 kbit / s             17.04.2006
+2  moldcell  gsm gprs  900 mhz and 1800 mhz      56 kbit / s             31.01.2005
+3  moldcell  gsm edge  900 mhz and 1800 mhz   236.8 kbit / s             07.06.2005
+4     unitã   cdma 1x               450 mhz     153 kbit / s             01.03.2007
+5       idc   cdma 1x               800 mhz     153 kbit / s             09.09.1999

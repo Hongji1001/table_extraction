@@ -1,0 +1,17 @@
+    television service         country language content hdtv       package / option
+0            sky radio           italy  italian   music   no           sky famiglia
+1            sky music           italy  italian   music   no           sky famiglia
+2     music box italia           italy  italian   music   no           sky famiglia
+3             mtv hits           italy  italian   music   no           sky famiglia
+4          mtv classic           italy  italian   music   no           sky famiglia
+5            mtv rocks  united kingdom  english   music   no           sky famiglia
+6            mtv dance  united kingdom  english   music   no           sky famiglia
+7            mtv music           italy  italian   music   no             no ( ftv )
+8          mtv live hd          poland  english   music  yes  sky famiglia + sky hd
+9   radio capital tivã           italy  italian   music   no             no ( ftv )
+10            mydeejay           italy  italian   music   no           sky famiglia
+11         match music           italy  italian   music   no           sky famiglia
+12             rock tv           italy  italian   music   no           sky famiglia
+13          hip hop tv           italy  italian   music   no           sky famiglia
+14            classica           italy  italian   music   no                 option
+15        rtl 102.5 tv           italy  italian   music   no             no ( fta )

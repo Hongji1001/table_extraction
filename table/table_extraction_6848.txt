@@ -1,0 +1,12 @@
+              player  rec  yards   avg  td 's  long
+0   cornelius bonner  102   1436  14.1     29    49
+1     timon marshall  102   1134  11.1     27    34
+2       jerome riley   78    845  10.8     12    43
+3    scotty anderson   31    323  10.4      6    33
+4   clarence coleman   23    253  11.0      3    28
+5     ronney daniels   23    243  10.6      6    30
+6     jermaine lewis   23    234  10.2      2    30
+7       troy edwards   27    220   8.1      2    24
+8      kenny solomon   18    201  11.2      3    46
+9         chris ryan    9     70   7.8      1    24
+10  winfield garnett    1      2   2.0      0     2

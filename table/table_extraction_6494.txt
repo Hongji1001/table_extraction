@@ -1,0 +1,6 @@
+   number    name                        builder        type  date
+0       1  amanda          gartell light railway   bo - bodh  2000
+1       2  andrew               baguley - drewry        4wdh  1973
+2       5  alison                      alan keef        4wdh  1993
+3       6    mr g  north dorset locomotive works  0 - 4 - 2t  1998
+4       9    jean  north dorset locomotive works   0 - 4 - 0  2008

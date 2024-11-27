@@ -1,0 +1,14 @@
+              school       location         mascot         county year joined           previous conference  year left
+0   huntington north     huntington        vikings  35 huntington        1932                  independents       1974
+1        noblesville    noblesville        millers    29 hamilton        1932               hamilton county       1938
+2               peru           peru         tigers       52 miami        1932                  independents       1998
+3          rochester      rochester         zebras      25 fulton        1932                 north central       1964
+4             tipton         tipton    blue devils      80 tipton        1932                  independents       1998
+5             wabash         wabash        apaches      85 wabash        1932                  independents       2006
+6           windfall       windfall        dragons      80 tipton        1932                  independents       1936
+7             warsaw         warsaw         tigers   43 kosciusko   1933 1953  independents northeastern in  1946 1964
+8           plymouth       plymouth       pilgrims    50 marshall        1935                  independents       1964
+9      muncie burris         muncie           owls    18 delaware        1938                  independents       1976
+10     hartford city  hartford city      airedales   05 blackford        1945                  independents       1968
+11        monticello     monticello  tioga indians       91 white        1945                  independents       1963
+12        south side     fort wayne        archers       02 allen        1945                    fort wayne       1947

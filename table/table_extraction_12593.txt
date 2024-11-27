@@ -1,0 +1,11 @@
+   season   level                   division                               administration position
+0    2002  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      2nd
+1    2003  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      5th
+2    2004  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      2nd
+3    2005  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      4th
+4    2006  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      7th
+5    2007  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      9th
+6    2008  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      7th
+7    2009  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      5th
+8    2010  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      4th
+9    2011  tier 4  kolmonen (third division)  south - east finland (spl kaakkois - suomi)      2nd

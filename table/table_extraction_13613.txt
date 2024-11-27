@@ -1,0 +1,12 @@
+   place          player        country          score to par
+0      1     deane beman  united states  68 + 69 = 137    - 3
+1     t2   miller barber  united states  67 + 71 = 138    - 2
+2     t2      bob murphy  united states  66 + 72 = 138    - 2
+3      4     bob rosburg  united states  70 + 69 = 139    - 1
+4     t5   charles coody  united states  72 + 68 = 140      e
+5     t5    al geiberger  united states  68 + 72 = 140      e
+6     t5  george knudson         canada  70 + 70 = 140      e
+7     t8    tony jacklin        england  71 + 70 = 141    + 1
+8     t8   johnny miller  united states  71 + 70 = 141    + 1
+9     t8   orville moody  united states  71 + 70 = 141    + 1
+10    t8   jack nicklaus  united states  74 + 67 = 141    + 1

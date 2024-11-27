@@ -1,0 +1,12 @@
+   dsl type                provider resale  down (up to kbit / s)  up (up to kbit / s)
+0   adsl2 +     deutsche telekom ag     no                  16000                 1180
+1   adsl2 +    alice dsl / hansenet   some                  16000                 1024
+2   adsl2 +  vodafone ag / arcor ag    yes                  16000                 1024
+3   adsl2 +                     1&1    yes                  16000                 1180
+4   adsl2 +  qsc / telefã cubicnica   some                  16000                 1024
+5   adsl2 +                versatel    yes                  16000                  800
+6   adsl2 +                congstar    yes                  16000                 1180
+7   adsl2 +              netcologne     no                  18000                 1024
+8   adsl2 +                 m - net     no                  18000                 1024
+9   adsl2 +                willytel     no                  24000                 1984
+10  adsl2 +           t - m - netde     no                  22000                 1420

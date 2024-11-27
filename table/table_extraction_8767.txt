@@ -1,0 +1,18 @@
+        model graded hammer (non gh3) graded hammer three (gh3) natural wood keyboard synthetic ivory keytops
+0      clp230                      no                       yes                    no                      no
+1   clp265 gp                      no                       yes                    no                      no
+2   clp295 gp                      no                       yes                   yes                      no
+3     clps306                      no                       yes                    no                     yes
+4     clps308                      no                       yes                   yes                     yes
+5      clp320                     yes                        no                    no                      no
+6      clp330                      no                       yes                    no                      no
+7      clp340                      no                       yes                    no                     yes
+8      clp370                      no                       yes                   yes                     yes
+9      clp380                      no                       yes                   yes                     yes
+10     clp480                      no                       yes                   yes                     yes
+11  cvp409 gp                      no                       yes                   yes                     yes
+12     cvp501                     yes                        no                    no                      no
+13     cvp503                      no                       yes                    no                     yes
+14     cvp505                      no                       yes                    no                     yes
+15     cvp509                      no                       yes                   yes                     yes
+16    cgp1000                      no                       yes                   yes                     yes

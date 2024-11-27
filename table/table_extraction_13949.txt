@@ -1,0 +1,7 @@
+     game    date home team     result road team
+0  game 1  may 26    boston  112 - 100   houston
+1  game 2  may 29    boston   117 - 95   houston
+2  game 3  june 1   houston  106 - 104    boston
+3  game 4  june 3   houston  103 - 106    boston
+4  game 5  june 5   houston   111 - 96    boston
+5  game 6  june 8    boston   114 - 97   houston

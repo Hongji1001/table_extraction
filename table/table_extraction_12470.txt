@@ -1,0 +1,18 @@
+   place                 player        country  score to par
+0      1            john huston  united states     67      5
+1      2        paul stankowski  united states     68      4
+2      3           paul azinger  united states     69      3
+3      4            tiger woods  united states     70      2
+4     t5       costantino rocca          italy     71      1
+5     t5    josé maría olazábal          spain     71      1
+6     t5             nick price       zimbabwe     71      1
+7     t8         stuart appleby      australia     72      e
+8     t8    david berganio , jr  united states     72      e
+9     t8           fred couples  united states     72      e
+10    t8             lee janzen  united states     72      e
+11    t8  per - ulrik johansson         sweden     72      e
+12    t8        bernhard langer        germany     72      e
+13    t8         davis love iii  united states     72      e
+14    t8      colin montgomerie       scotland     72      e
+15    t8           tommy tolles  united states     72      e
+16    t8            willie wood  united states     72      e

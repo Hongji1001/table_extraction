@@ -1,0 +1,16 @@
+    year  division      league        regular season         playoffs         open cup
+0   1998         4  usisl pdsl         4th , central  division finals        1st round
+1   1999         4     usl pdl       5th , heartland  did not qualify  did not qualify
+2   2000         4     usl pdl  4th , rocky mountain  did not qualify  did not qualify
+3   2001         4     usl pdl  5th , rocky mountain  did not qualify  did not qualify
+4   2002         4     usl pdl       5th , heartland  did not qualify  did not qualify
+5   2003         4     usl pdl       5th , heartland  did not qualify  did not qualify
+6   2004         4     usl pdl       6th , heartland  did not qualify  did not qualify
+7   2005         4     usl pdl       3rd , heartland  did not qualify  did not qualify
+8   2006         4     usl pdl       3rd , heartland  did not qualify  did not qualify
+9   2007         4     usl pdl       3rd , heartland  did not qualify        1st round
+10  2008         4     usl pdl       5th , heartland  did not qualify  did not qualify
+11  2009         4     usl pdl       6th , heartland  did not qualify  did not qualify
+12  2010         4     usl pdl       7th , heartland  did not qualify  did not qualify
+13  2011         4     usl pdl       4th , heartland  did not qualify  did not qualify
+14  2012         4     usl pdl       5th , heartland  did not qualify  did not qualify

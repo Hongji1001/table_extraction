@@ -1,0 +1,9 @@
+  conference division  appearances  wins  losses
+0        afc     east           18    10       8
+1        afc    north           22    10      12
+2        afc    south           24    15       9
+3        afc     west           20    11       9
+4        nfc     east           60    26      34
+5        nfc    north           29    13      16
+6        nfc    south           15     8       7
+7        nfc     west           16     9       7

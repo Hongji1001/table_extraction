@@ -1,0 +1,15 @@
+                 station      line  planned  cancelled                  proposal                                          details
+0       alexandra palace  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+1           bushey heath  northern     1936       1949  new station on new route       abandoned part of northern heights project
+2             camberwell  bakerloo     1931       1950  new station on new route        part of abandoned extension to camberwell
+3        cranley gardens  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+4             crouch end  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+5          elstree south  northern     1936       1949  new station on new route       abandoned part of northern heights project
+6             emlyn road   central     1913       1919  new station on new route  abandoned proposal for an extension to richmond
+7     heathfield terrace   central     1913       1919  new station on new route  abandoned proposal for an extension to richmond
+8   mill hill (the hale)  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+9           muswell hill  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+10      paddenswick road   central     1913       1919  new station on new route  abandoned proposal for an extension to richmond
+11           rylett road   central     1913       1919  new station on new route  abandoned proposal for an extension to richmond
+12          stroud green  northern     1935       1954        transfer from lner       abandoned part of northern heights project
+13         turnham green   central     1913       1919  new station on new route  abandoned proposal for an extension to richmond

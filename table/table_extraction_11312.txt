@@ -1,0 +1,16 @@
+                driver  wins  starts  sprint  feature
+0            neel jani    10      60       5        5
+1      nico hülkenberg     9      20       3        6
+2     alexandre prémat     7      10       4        3
+3           jonny reid     7      38       4        3
+4         adam carroll     6      32       3        3
+5     nicolas lapierre     6      23       3        3
+6           alex yoong     4      54       3        1
+7          robbie kerr     3      46       3        0
+8         adrian zaugg     3      44       2        1
+9   jeroen bleekemolen     2      47       2        0
+10      salvador durán     2      44       1        1
+11          loïc duval     2      26       1        1
+12       oliver jarvis     2      14       0        2
+13  narain karthikeyan     2      40       0        2
+14  nelson piquet , jr     2      14       1        1

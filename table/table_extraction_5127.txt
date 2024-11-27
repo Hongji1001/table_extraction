@@ -1,0 +1,11 @@
+   pick             player country of origin                pba team            college
+0     1    yancy de ocampo       philippines           fedex express         st francis
+1     2        rafi reavis     united states      coca - cola tigers       coppin state
+2     3  omanzie rodriguez       philippines      sta lucia realtors              mapua
+3     4     chris calaguio       philippines    shell turbo chargers             letran
+4     5           homer se       philippines        red bull thunder      san sebastian
+5     6         migs noble     united states             alaska aces              utica
+6     7        eric canlas       philippines    shell turbo chargers         st francis
+7     8  ren - ren ritualo       philippines           fedex express  la salle - manila
+8     9    chester tolomia       philippines  barangay ginebra kings     perpetual help
+9    10        leo avenido       philippines      coca - cola tigers        far eastern

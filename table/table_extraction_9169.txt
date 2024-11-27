@@ -1,0 +1,43 @@
+            week division           team                           player                             school
+0    september 1     east      offensive                    tyler sheehan                      bowling green
+1    september 1     east      defensive                    reggie corner                              akron
+2    september 1     east  special teams                    joshua abrams                               ohio
+3    september 1     west      offensive                  jamarko simmons                   western michigan
+4    september 1     west      defensive                 austin pritchard                   western michigan
+5    september 1     west  special teams             brett kern jim laney            toledo western michigan
+6    september 8     east      offensive                     kalvin mcrae                               ohio
+7    september 8     east      defensive                 larry hutchinson                            buffalo
+8    september 8     east  special teams                      simon manka                            buffalo
+9    september 8     west      offensive                    ontario sneed                   central michigan
+10   september 8     west      defensive                    bryant haines                         ball state
+11   september 8     west  special teams                     brandon west                   western michigan
+12  september 15     east      offensive                        drew wily                            buffalo
+13  september 15     east      defensive                      john mackey                              akron
+14  september 15     east  special teams                      shawn bayes                         kent state
+15  september 15     west      offensive                    miquale lewis                         ball state
+16  september 15     west      defensive                 daniel holtzclaw                   eastern michigan
+17  september 15     west  special teams                 brandon crawford                         ball state
+18  september 22     east      offensive                tyler sheehan (2)                      bowling green
+19  september 22     east      defensive                     brion stokes                              akron
+20  september 22     east  special teams               michael braunstein                               ohio
+21  september 22     west      offensive                       nate davis                         ball state
+22  september 22     west      defensive                    larry english                                niu
+23  september 22     west  special teams                    jalen parmele                             toledo
+24  september 29     east      offensive                    eugene jarvis                         kent state
+25  september 29     east      defensive                      joey hudson                              miami
+26  september 29     east  special teams                  jake richardson                              miami
+27  september 29     west      offensive                       mark bonds                   western michigan
+28  september 29     west      defensive                        red keith                   central michigan
+29  september 29     west  special teams                    antonio brown                   central michigan
+30     october 6     east      offensive       jabari arthur james starks                      akron buffalo
+31     october 6     east      defensive                terrance knighton                             temple
+32     october 6     east  special teams        andre jones jake brownell                       akron temple
+33     october 6     west      offensive                     dan lefevour                   central michigan
+34     october 6     west      defensive                     ryan downard                   eastern michigan
+35     october 6     west  special teams                 brandon west (2)                   western michigan
+36    october 13     east      offensive  adam dimichele james starks (2)                     temple buffalo
+37    october 13     east      defensive                  joey hudson (2)                              miami
+38    october 13     east  special teams           michael braunstein (2)                               ohio
+39    october 13     west      offensive                 dan lefevour (2)                   central michigan
+40    october 13     west      defensive          dustin dulco josh gordy  western michigan central michigan
+41    october 13     west  special teams                       mike jones                   western michigan

@@ -1,0 +1,14 @@
+    game  march                 opponent  score        record
+0     64      3  california golden seals  8 - 1  40 - 14 - 10
+1     65      6        detroit red wings  2 - 2  40 - 14 - 11
+2     66      7        los angeles kings  4 - 2  41 - 14 - 11
+3     67     10      chicago black hawks  4 - 2  42 - 14 - 11
+4     68     12      philadelphia flyers  7 - 2  43 - 14 - 11
+5     69     14      toronto maple leafs  1 - 0  44 - 14 - 11
+6     70     18      philadelphia flyers  2 - 1  44 - 15 - 11
+7     71     20      toronto maple leafs  3 - 1  44 - 16 - 11
+8     72     21       montreal canadiens  6 - 2  44 - 17 - 11
+9     73     23           buffalo sabres  7 - 2  45 - 17 - 11
+10    74     27            boston bruins  6 - 3  46 - 17 - 11
+11    75     28            boston bruins  2 - 1  47 - 17 - 11
+12    76     31      chicago black hawks  4 - 2  48 - 17 - 11

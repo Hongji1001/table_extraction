@@ -1,0 +1,8 @@
+  release format       country   label         cat no  release date
+0          vinyl  west germany  ariola  203 450 - 320          1981
+1       cassette  west germany  ariola  403 450 - 352          1981
+2          vinyl         italy  ariola       arl 3155          1981
+3          vinyl        greece  ariola       6483 322          1981
+4          vinyl   netherlands  ariola        203 450          1981
+5          vinyl         spain  ariola     i - 203450          1981
+6          vinyl    yugoslavia     rtb        2220717          1981

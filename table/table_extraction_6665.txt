@@ -1,0 +1,6 @@
+             player  height                       school                hometown            college
+0        khem birch   6 - 9              notre dame prep  montreal , qc , canada  pittsburgh / unlv
+1       perry ellis   6 - 8  wichita heights high school            wichita , ks             kansas
+2        myles mack   5 - 9       st anthony high school        jersey city , nj            rutgers
+3  shabazz muhammad   6 - 6    bishop gorman high school          las vegas , nv               ucla
+4       cody zeller  6 - 11       washington high school         washington , in            indiana

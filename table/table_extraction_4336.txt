@@ -1,0 +1,15 @@
+                                orchestra              conductor                record company  year of recording            format
+0               london symphony orchestra           antal doráti               mercury records               1959                cd
+1             columbia symphony orchestra        igor stravinsky          columbia masterworks               1961           cd / lp
+2           royal concertgebouw orchestra            colin davis                       philips               1978                cd
+3                  royal danish orchestra         paul jorgensen                        kultur               1982               dvd
+4              detroit symphony orchestra           antal doráti                 decca records               1982                cd
+5             montreal symphony orchestra         charles dutoit                 decca records               1984                cd
+6              seattle symphony orchestra         gerard schwarz                 delos records               1992                cd
+7              chicago symphony orchestra          pierre boulez           deutsche grammophon               1993                cd
+8                         kirov orchestra         valeri gergiev      philips classics records               1998                cd
+9                  philharmonia orchestra           robert craft  koch records / naxos records               1996                cd
+10                     orchestre de paris            seiji ozawa                           emi               1997                cd
+11       san francisco symphony orchestra  michael tilson thomas                           rca               1998                cd
+12  city of birmingham symphony orchestra           simon rattle                           emi               2008                cd
+13     los angeles philharmonic orchestra    esa - pekka salonen           deutsche grammophon               2008  digital download

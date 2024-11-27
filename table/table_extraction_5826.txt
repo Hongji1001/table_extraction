@@ -1,0 +1,24 @@
+                driver       constructor  laps time / retired  grid
+0       jackie stewart               brm    76      2:04:52.8     3
+1          graham hill               brm    76     + 3.3 secs     4
+2           dan gurney  brabham - climax    76    + 16.5 secs     9
+3      lorenzo bandini           ferrari    76       + 1:15.9     5
+4        bruce mclaren   cooper - climax    75        + 1 lap    11
+5      richard attwood       lotus - brm    75        + 1 lap    13
+6           jo bonnier  brabham - climax    74       + 2 laps    14
+7         jochen rindt   cooper - climax    74       + 2 laps     7
+8        innes ireland       lotus - brm    74       + 2 laps    18
+9            jim clark    lotus - climax    63      fuel pump     1
+10         mike spence    lotus - climax    62     alternator     8
+11     nino vaccarella           ferrari    58         engine    15
+12  roberto bussinello               brm    58   oil pressure    21
+13      richie ginther             honda    56       ignition    17
+14         denny hulme  brabham - climax    46     suspension    12
+15       frank gardner     brabham - brm    45         engine    16
+16          jo siffert     brabham - brm    43        gearbox    10
+17                geki    lotus - climax    37        gearbox    20
+18        john surtees           ferrari    34         clutch     2
+19      ronnie bucknum             honda    27       ignition     6
+20      masten gregory               brm    22        gearbox    23
+21  giancarlo baghetti  brabham - climax    12         engine    19
+22       giorgio bassi               brm     8         engine    22

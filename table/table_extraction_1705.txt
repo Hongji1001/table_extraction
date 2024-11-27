@@ -1,0 +1,8 @@
+           round  clubs remaining  clubs involved winners from previous round new entries this round                      leagues entering at this round
+0    first round              156              86                        none                     86  tff third league & turkish regional amateur league
+1   second round              113             108                          43                     65    süper lig & tff first league & tff second league
+2    third round               59              54                          54                   none                                                none
+3   fourth round               32              32                          27                      5                                           süper lig
+4    fifth round               16              16                          16                   none                                                none
+5    group stage                8               8                           8                   none                                                none
+6  semi - finals                4               4                           4                   none                                                none

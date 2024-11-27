@@ -1,0 +1,14 @@
+                          player    nationality                position        years for grizzlies school / club team
+0   j r sakuragi (j r henderson)  united states           small forward                1998 - 1999               ucla
+1                   jason sasser  united states           small forward                1998 - 1999         texas tech
+2                    byron scott  united states                   guard                1995 - 1996      arizona state
+3                   dennis scott  united states         guard - forward                1999 - 2000       georgia tech
+4                  ishmael smith  united states                   guard                2011 - 2011        wake forest
+5                  michael smith  united states           small forward                1997 - 1999         providence
+6                   theron smith  united states           small forward                2003 - 2004         ball state
+7                   will solomon  united states                   guard                2001 - 2002            clemson
+8              marreese speights  united states  power forward / center                2012 - 2013            florida
+9                   joe stephens  united states           small forward                1999 - 2000           arkansas
+10              damon stoudamire  united states             point guard                2006 - 2008            arizona
+11              erick strickland  united states                   guard                       2001           nebraska
+12                stromile swift  united states           power forward  2000 - 2005 , 2006 - 2008                lsu

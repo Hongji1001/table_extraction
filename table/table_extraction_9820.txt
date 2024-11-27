@@ -1,0 +1,13 @@
+    136  18 february                  friendly    croatia      germany
+0   137     31 march                  friendly    croatia       turkey
+1   138     28 april                  friendly  macedonia      croatia
+2   139       29 may                  friendly    croatia     slovakia
+3   140       5 june                  friendly    denmark      croatia
+4   141      13 june   euro 2004 - first round    croatia  switzerland
+5   142      17 june   euro 2004 - first round    croatia       france
+6   143      21 june   euro 2004 - first round    croatia      england
+7   144    18 august                  friendly    croatia       israel
+8   145  4 september  world cup 2006 qualifier    croatia      hungary
+9   146  8 september  world cup 2006 qualifier     sweden      croatia
+10  147    9 october  world cup 2006 qualifier    croatia     bulgaria
+11  148  16 november                  friendly    ireland      croatia

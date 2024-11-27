@@ -1,0 +1,39 @@
+                       player      position date of birth (age)  caps club / province
+0             guilhem guirado        hooker        17 june 1986     1       perpignan
+1              william servat        hooker     9 december 1978    16        toulouse
+2          dimitri szarzewski        hooker     26 january 1983    22  stade français
+3             fabien barcella          prop     27 october 1983     3            auch
+4             julien brugnaut          prop    17 november 1981     0             dax
+5                lionel faure          prop    26 november 1977     0            sale
+6                 nicolas mas          prop         25 may 1980    15       perpignan
+7        jean - baptiste poux          prop   26 september 1979    21        toulouse
+8                loic jacquet          lock       31 march 1985     2        clermont
+9                 arnaud méla          lock     19 january 1980     0           brive
+10     romain millo - chluski          lock       20 april 1983     4        toulouse
+11        lionel nallet ( c )          lock   14 september 1976    32         castres
+12                pascal papé          lock     5 december 1980    16  stade français
+13               jérôme thion          lock     2 december 1977    40        biarritz
+14            julien bonnaire       flanker   20 september 1978    37        clermont
+15             ibrahim diarra       flanker         25 may 1983     1       montauban
+16          thierry dusautoir       flanker    18 november 1981    11        toulouse
+17         fulgence ouedraogo       flanker        21 july 1986     1     montpellier
+18        imanol harinordoquy      number 8    20 february 1980    51        biarritz
+19            louis picamoles      number 8     5 february 1986     3     montpellier
+20            elvis vermeulen      number 8        5 april 1979     8        clermont
+21  jean - baptiste élissalde  scrum - half    23 november 1979    30        toulouse
+22               morgan parra  scrum - half    15 november 1988     0        bourgoin
+23               julien tomas  scrum - half       21 april 1985     2     montpellier
+24           dimitri yachvili  scrum - half   19 september 1980    38        biarritz
+25               david skrela    fly - half        2 march 1979    11  stade français
+26       françois trinh - duc    fly - half    11 november 1986     0     montpellier
+27                 yann david        centre       15 april 1988     1        bourgoin
+28              florian fritz        centre     17 january 1984    25        toulouse
+29            yannick jauzion        centre        28 july 1978    55        toulouse
+30                david marty        centre     30 october 1982    19       perpignan
+31             damien traille        centre        12 june 1979    58        biarritz
+32              vincent clerc          wing          7 may 1981    28        toulouse
+33             julien malzieu          wing          4 may 1983     0        clermont
+34          aurélien rougerie          wing   26 september 1980    51        clermont
+35              anthony floch      fullback    12 february 1983     3        clermont
+36             cédric heymans      fullback        20 july 1978    37        toulouse
+37         clément poitrenaud      fullback         20 may 1982    32        toulouse

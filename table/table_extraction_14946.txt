@@ -1,0 +1,30 @@
+       district          incumbent       party  first elected                             results
+0    new york 1         tim bishop  democratic           2002                        re - elected
+1    new york 2       steve israel  democratic           2000                        re - elected
+2    new york 3         peter king  republican           1992                        re - elected
+3    new york 4   carolyn mccarthy  democratic           1996                        re - elected
+4    new york 5      gary ackerman  democratic           1983                        re - elected
+5    new york 6      gregory meeks  democratic           1998                        re - elected
+6    new york 7     joseph crowley  democratic           1998                        re - elected
+7    new york 8     jerrold nadler  democratic           1992                        re - elected
+8    new york 9     anthony weiner  democratic           1998                        re - elected
+9   new york 10           ed towns  democratic           1982                        re - elected
+10  new york 11        major owens  democratic           1982             retired democratic hold
+11  new york 12    nydia velazquez  democratic           1992                        re - elected
+12  new york 13      vito fossella  republican           1997                        re - elected
+13  new york 14    carolyn maloney  democratic           1992                        re - elected
+14  new york 15     charles rangel  democratic           1970                        re - elected
+15  new york 16       jose serrano  democratic           1990                        re - elected
+16  new york 17        eliot engel  democratic           1988                        re - elected
+17  new york 18         nita lowey  democratic           1988                        re - elected
+18  new york 19          sue kelly  republican           1994  lost re - election democratic gain
+19  new york 20       john sweeney  republican           1998  lost re - election democratic gain
+20  new york 21       mike mcnulty  democratic           1988                        re - elected
+21  new york 22    maurice hinchey  democratic           1992                        re - elected
+22  new york 23        john mchugh  republican           1992                        re - elected
+23  new york 24  sherwood boehlert  republican           1982             retired democratic gain
+24  new york 25          jim walsh  republican           1988                        re - elected
+25  new york 26       tom reynolds  republican           1998                        re - elected
+26  new york 27      brian higgins  democratic           2004                        re - elected
+27  new york 28   louise slaughter  democratic           1986                        re - elected
+28  new york 29         randy kuhl  republican           2004                        re - elected

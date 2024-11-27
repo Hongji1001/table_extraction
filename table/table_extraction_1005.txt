@@ -1,0 +1,23 @@
+                                 institution                    location team nickname          tenure             new conference new classification
+0                   arizona state university             tempe , arizona    sun devils     1982 - 2009                        slc    mcla division i
+1                           biola university      la mirada , california        eagles     2001 - 2009                        slc   mcla division ii
+2             california lutheran university  thousand oaks , california      kingsmen     2005 - 2009                        slc   mcla division ii
+3    california state university , fullerton      fullerton , california        titans     2006 - 2009                        slc   mcla division ii
+4      california state university , hayward        hayward , california      pioneers     1997 - 2004  ceased operations in 2004              n / a
+5   california state university , sacramento     sacramento , california       hornets     1986 - 1998  ceased operations in 1998              n / a
+6   california state university , san marcos     san marcos , california       cougars  unknown - 2002                      n / a              n / a
+7                         chapman university         orange , california      panthers     1988 - 2009                        slc    mcla division i
+8                  claremont mckenna college      claremont , california       cougars     1980 - 2009                        slc    mcla division i
+9                loyola marymount university    los angeles , california         lions     1985 - 2009                        slc    mcla division i
+10               northern arizona university         flagstaff , arizona   lumberjacks  1982 - unknown                      n / a              n / a
+11                     pepperdine university         malibu , california         waves  unknown - 2009                        slc   mcla division ii
+12                        occidental college    los angeles , california        tigers     2006 - 2009                        slc   mcla division ii
+13                san diego state university      san diego , california        aztecs     1980 - 2009                        slc    mcla division i
+14                     university of arizona            tucson , arizona      wildcats     1982 - 2009                        slc    mcla division i
+15         university of california , irvine         irvine , california     anteaters     1988 - 2009                        slc   mcla division ii
+16    university of california , los angeles    los angeles , california        bruins     1980 - 2009                        slc    mcla division i
+17      university of california , san diego      san diego , california       tritons  unknown - 2009                        slc    mcla division i
+18  university of california , santa barbara  santa barbara , california       gauchos     1980 - 2009                        slc    mcla division i
+19          university of nevada , las vegas          las vegas , nevada        rebels     2005 - 2009                        slc    mcla division i
+20                   university of san diego      san diego , california       toreros  unknown - 2009                        slc    mcla division i
+21         university of southern california    los angeles , california       trojans     1980 - 2009                        slc    mcla division i

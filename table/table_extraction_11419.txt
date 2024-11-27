@@ -1,0 +1,17 @@
+               player                  club  league  play - offs  fa cup  fa trophy  total
+0   giuliano grazioli                barnet      29            0       0          0     29
+1       michael twiss             morecambe      22            0       3          0     25
+2         paul mullin    accrington stanley      20            0       0          0     20
+3      anthony elding     stevenage borough      19            0       1          0     21
+4         chris moore  dagenham & redbridge      19            0       1          0     21
+5     adam stansfield       hereford united      19            0       1          1     21
+6          bob taylor              tamworth      19            0       0          0     19
+7     charlie griffin   forest green rovers      17            0       1          0     18
+8        lee mcevilly    accrington stanley      15            0       0          0     17
+9         jonny allan    northwich victoria      15            0       0          1     16
+10         lee boylan         canvey island      14            0       0          3     17
+11          tim sills        aldershot town      14            0       2          0     16
+12    justin richards                woking      14            0       1          1     16
+13      neil redfearn           scarborough      14            0       0          0     14
+14        karl hawley       carlisle united      13            0       1          1     15
+15       paul brayson    northwich victoria      13            0       0          0     13

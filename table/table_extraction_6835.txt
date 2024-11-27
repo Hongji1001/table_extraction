@@ -1,0 +1,12 @@
+            player  tackles  solo  assisted  sack  yards  td 's
+0   isaiah trufant       11     6         5     0      0      0
+1   travis coleman        4     2         2     0      0      0
+2      hugh hunter        2     2         0     0      0      0
+3   denario smalls        4     1         3     0      0      0
+4   kenny mcentyre        1     0         0     0     38      1
+5      jerel myers        1     0         0     0      0      0
+6         bj cohen        1     0         0     0      0      0
+7        gary kral        1     0         0     0      0      0
+8    bryon douzart        1     0         0     0      0      0
+9    anthony hines        1     0         0     0      0      0
+10    jerry turner        3     0         3     0      0      0

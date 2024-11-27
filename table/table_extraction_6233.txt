@@ -1,0 +1,11 @@
+                               race name        circuit          date        winning driver       constructor  report
+0  xi gran premio ciudad de buenos aires   buenos aires    27 january    juan manuel fangio          maserati  report
+1            vii gran premio di siracusa       syracuse       7 april         peter collins  lancia - ferrari  report
+2                    xvii pau grand prix            pau      22 april            jean behra          maserati  report
+3                        v glover trophy       goodwood      22 april  stuart lewis - evans  connaught - alta  report
+4                x gran premio di napoli      posillipo      28 april         peter collins  lancia - ferrari  report
+5              xxiii grand prix de reims  reims - gueux       14 july           luigi musso  lancia - ferrari  report
+6                   v grand prix de caen           caen       28 july            jean behra               brm  report
+7           ix brdc international trophy    silverstone  14 september            jean behra               brm  report
+8                v gran premio di modena         modena  22 september            jean behra          maserati  report
+9                 vi grand prix de maroc     ain - diab    27 october            jean behra          maserati  report

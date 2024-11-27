@@ -1,0 +1,8 @@
+                 celebrity                                      famous for entered  exited finished
+0           tony blackburn                                              dj   day 1  day 15      1st
+1  tara palmer - tomkinson  television presenter , it girl and celebutante   day 1  day 15      2nd
+2       christine hamilton                                          author   day 1  day 14      3rd
+3            nell mcandrew                                           model   day 1  day 13      4th
+4            rhona cameron                                      comedienne   day 1  day 12      5th
+5               darren day                 singer , tv presenter and actor   day 1  day 11      6th
+6               nigel benn                                  champion boxer   day 1  day 10      7th

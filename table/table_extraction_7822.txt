@@ -1,0 +1,36 @@
+                         nat              name  since  app (gs / sub)  goals  transfer fee
+0                        eng            weaver   2007     18 (18 / 0)      0          free
+1                        ire          randolph   2006       1 (1 / 0)      0  youth system
+2                        ire            elliot   2006       0 (0 / 0)      0  youth system
+3                        fra       moutaouakil   2007       6 (5 / 1)      0        400000
+4                        wal          thatcher   2007     14 (13 / 1)      0        500000
+5                        eng            powell   2007     10 (10 / 0)      0          free
+6                        usa             gibbs   2006       0 (0 / 0)      0          free
+7   central african republic             youga   2005       0 (0 / 0)      0          free
+8                        wal             basey   2007       5 (5 / 0)      0  youth system
+9                        nga             sodje   2007      11 (5 / 6)      1          loan
+10                       ire          mccarthy   2007       7 (6 / 1)      1        650000
+11                       alg         bougherra   2007     18 (14 / 4)      0         2.5 m
+12                       eng           sankofa   2003     18 (14 / 4)      0  youth system
+13                       eng           fortune   2001  164 (136 / 28)      8  youth system
+14                       eng          a thomas   2007       0 (0 / 0)      0  youth system
+15                       chn             zheng   2006     28 (23 / 5)      6           2 m
+16                       ire  reid ( captain )   2006     35 (33 / 2)      7           3 m
+17                       ire           holland   2003  146 (132 / 14)     12        900000
+18                       eng           ambrose   2005    79 (54 / 25)      8   undisclosed
+19                       eng          sinclair   2007       2 (1 / 1)      0        125000
+20                       fra             racon   2006       5 (3 / 2)      0        400000
+21                       por            semedo   2007     18 (18 / 0)      0          free
+22                       eng            wright   2007       0 (0 / 0)      0  youth system
+23                       ire             arter   2007       1 (0 / 1)      0  youth system
+24                       sen              faye   2006     34 (29 / 5)      1           2 m
+25                       eng          j thomas   2004    97 (69 / 28)      7        100000
+26                       eng               sam   2003    27 (17 / 10)      2  youth system
+27                       den       christensen   2007       0 (0 / 0)      0        350000
+28                       eng              bent   2006    52 (38 / 14)      5         2.3 m
+29                       bul           todorov   2007       9 (5 / 4)      3          free
+30                       eng            varney   2007      14 (8 / 6)      3           2 m
+31                       sco           iwelumo   2007     19 (15 / 4)      7          free
+32                       eng            walker   2006       0 (0 / 0)      0  youth system
+33                       eng           dickson   2007       1 (0 / 1)      0         50000
+34                       eng            mcleod   2007      13 (4 / 9)      0         1.1 m

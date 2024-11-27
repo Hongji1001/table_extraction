@@ -1,0 +1,12 @@
+                 candidate                                        background original team  age                         hometown               result
+0   andrew morello morello                                        auctioneer      pinnacle   23             melbourne , victoria      hired by bouris
+1         heather williams                      advertising sales consultant       eventus   31     maylands , western australia  fired 2nd in finale
+2            gavin mcinnes                                            lawyer      pinnacle   33            brisbane , queensland  fired 1st in finale
+3         mary - anne lowe                                    business owner       eventus   30             melbourne , victoria      fired in week 9
+4         sabrina houssami  university student and miss world australia 2006       eventus   23         sydney , new south wales      fired in week 8
+5        samuel sam hooper                                       law student      pinnacle   19       adelaide , south australia      fired in week 7
+6            carmen parnos                      bankrupt former entrepreneur       eventus   44             melbourne , victoria      fired in week 6
+7         john van yzerloo                                        unemployed      pinnacle   44                romsey , victoria      fired in week 5
+8           blake chandler                          customer service manager      pinnacle   28  central coast , new south wales      fired in week 4
+9                 amy cato                                    business owner       eventus   25       adelaide , south australia      fired in week 3
+10          lynton pipkorn                              marketing consultant      pinnacle   30             melbourne , victoria      fired in week 2

@@ -1,0 +1,9 @@
+              week                theme                              song choice original artist  order      result
+0  top 24 (12 men)                1960s                            light my fire       the doors     12        safe
+1  top 20 (10 men)                1970s                          go your own way   fleetwood mac      1        safe
+2   top 16 (8 men)                1980s              don't you (forget about me)    simple minds      5        safe
+3           top 12      lennonmccartney                      across the universe     the beatles     10        safe
+4           top 11          the beatles                        a day in the life     the beatles      4        safe
+5           top 10  year they were born  we will rock you / we are the champions           queen      6        safe
+6            top 9         dolly parton      it 's all wrong but it 's all right    dolly parton      9        safe
+7            top 8  inspirational music                                 dream on       aerosmith      1  eliminated

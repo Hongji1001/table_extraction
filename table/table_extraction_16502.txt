@@ -1,0 +1,7 @@
+                      school        location    mascot  county enrollment  ihsaa class  year joined previous conference
+0                     borden          borden    braves     228          a     10 clark         1974          lost river
+1              crothersville   crothersville    tigers     180          a   36 jackson         1974       mid - hoosier
+2                 henryville      henryville   hornets     347         aa     10 clark         1977          lost river
+3                 lanesville      lanesville    eagles     237          a  31 harrison         1979          blue river
+4             new washington  new washington  mustangs     273          a     10 clark         1974       dixie - monon
+5  south central (elizabeth)       elizabeth    rebels     277          a  31 harrison         1979          blue river

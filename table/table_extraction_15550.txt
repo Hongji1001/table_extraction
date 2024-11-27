@@ -1,0 +1,6 @@
+  episode         date        time network   length
+0     one  7 / 02 / 08  7:00 pm et   espn2   1 hour
+1     two  7 / 21 / 08  7:30 pm et   espn2  30 mins
+2   three  7 / 31 / 08  7:30 pm et   espn2  30 mins
+3    four  8 / 05 / 08  7:00 pm et   espn2  30 mins
+4    five  8 / 05 / 08  7:30 pm et   espn2  30 mins

@@ -1,0 +1,13 @@
+                      week 1               week 2             week 3                   week 4             week 5
+0                sydney moon  heather christensen         erin wills         nicole whitehead                NaN
+1              merritt cabal          nikki lemke     cathi o'malley                  lena li                NaN
+2               aubrie lemon      ashley charlton   rachel elizabeth       jackie tefertiller                NaN
+3               janice chong        anika knudsen        kylea grace              tila nguyen      kylie lefleur
+4             jessica lauren       veronica moore       michelle lin              kaelie hart                NaN
+5             brittany evans      natalie abramov   candice michelle           kimberly hiott                NaN
+6              jessica difeo         kate brenner         star zemba              chera leigh      olivia hammil
+7            samantha joseph           audra lynn       tavania kaye              ditra marie                NaN
+8   lani todd (discontinued)         anthea szabo     loredana jolie         mary beth decker    louize henziger
+9                 robin bain        sara schwartz  carmella decesare         katherine hadorn                NaN
+10         bridget marquardt       jennifer haase    heather mcquaid            arynne tiller  jocelyn caballero
+11                jaime lynn   elizabeth mcdonald         wendy culp  sarah & rachel campbell    paulina sanchez

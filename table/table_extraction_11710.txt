@@ -1,0 +1,43 @@
+              television service country language                 content hdtv                               package / option
+0                sky calcio info   italy  italian            informazioni   no                                     no ( fta )
+1             sky supercalcio hd   italy  italian                  calcio  yes                            sky calcio + sky hd
+2                sky sport 24 hd   italy  italian              sport news  yes       sky sport o sky calcio o sky tv + sky hd
+3                   sky calcio 1   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+4                sky calcio 1 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+5                   sky calcio 2   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+6                sky calcio 2 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+7                   sky calcio 3   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+8                sky calcio 3 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+9                   sky calcio 4   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+10               sky calcio 4 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+11                  sky calcio 5   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+12               sky calcio 5 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+13                  sky calcio 6   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+14               sky calcio 6 hd   italy  italian  calcio , ppv wrestling  yes  sky calcio + sky hd , solamente sky hd in ppv
+15                  sky calcio 7   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+16               sky calcio 7 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+17                  sky calcio 8   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+18               sky calcio 8 hd   italy  italian                  calcio  yes  sky calcio + sky hd , solamente sky hd in ppv
+19                  sky calcio 9   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+20                 sky calcio 10   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+21                 sky calcio 11   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+22                 sky calcio 12   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+23                 sky calcio 13   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+24                 sky calcio 14   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+25                sky wwe 24 / 7   italy  italian  calcio , ppv wrestling   no                                      qualsiasi
+26  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+27                  sky calcio 1   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+28  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+29                  sky calcio 2   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+30  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+31                  sky calcio 3   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+32  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+33                  sky calcio 4   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+34  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+35                  sky calcio 5   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+36  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+37                  sky calcio 6   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+38  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+39                  sky calcio 7   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv
+40  cartello promozionale sky hd   italy  italian            promozionale   no                        qualsiasi tranne sky hd
+41                  sky calcio 8   italy  italian                  calcio   no                  sky calcio , qualsiasi in ppv

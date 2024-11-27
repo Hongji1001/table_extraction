@@ -1,0 +1,38 @@
+                    country                            of - 5                                          of - 4                                  of - 2                                of - 1
+0                   albania                           kolonel                                      nënkolonel                                 kapiten                                 toger
+1                 argentina                          comodoro                                    vicecomodoro                                 capitán                       primer teniente
+2                 australia                     group captain                                  wing commander                       flight lieutenant                        flying officer
+3                   belarus                         polkovnik                                    podpolkovnik                                 kapitan                     starshiyleytenant
+4                   belgium                   kolonel colonel        luitenant - kolonel lieutenant - colonel                      kapitein capitaine                  luitenant lieutenant
+5                    brazil                           coronel                               tenente - coronel                                 capitão                    primeiro - tenente
+6           canada (modern)                   colonel colonel       lieutenant - colonel lieutenant - colonel                       captain capitaine                 lieutenant lieutenant
+7   canada (1920s to 1960s)  group captain colonel d'aviation  wing commander lieutenant - colonel d'aviation  flight lieutenant capitaine d'aviation  flying officer lieutenant d'aviation
+8                     chile               coronel de aviación                             comandante de grupo                      capitan de bandada                              teniente
+9                     china           kongjun shang xiao 空军上校                         kongjun zhong xiao 空军中校                  kongjun shang wei 空军上尉                kongjun zhong wei 空军中尉
+10                  croatia                          brigadir                                        pukovnik                                  satnik                           nadporučnik
+11                  denmark                            oberst                                 oberst løjtnant                                 kaptajn                       premierløjtnant
+12                  finland                           eversti                               everstiluutnantti                                kapteeni              yliluutnantti luutnantti
+13                   france                           colonel                            lieutenant - colonel                               capitaine                            lieutenant
+14                  germany                            oberst                                  oberstleutnant                stabshauptmann hauptmann                          oberleutnant
+15                    ghana                     group captain                                  wing commander                       flight lieutenant                        air lieutenant
+16                    india                     group captain                                  wing commander                       flight lieutenant                        flying officer
+17                indonesia                           kolonel                                  letnan kolonel                                  kapten                           letnan satu
+18                   israel                       aluf mishne                                       sgan aluf                                   seren                                 segen
+19                   latvia                         pulkvedis                                pulkvežleitnants                               kapteinis                         virslietnants
+20                 malaysia                           kolonel                                leftenan kolonel                                  kapten                              leftenan
+21                   méxico                           coronel                                teniente coronel                         capitán primero                       capitán segundo
+22              new zealand                     group captain                                  wing commander                       flight lieutenant                        flying officer
+23                  nigeria                     group captain                                  wing commander                       flight lieutenant                        flying officer
+24              philippines                           colonel                              lieutenant colonel                                 captain                        1st lieutenant
+25                   poland                         pułkownik                                    podpułkownik                                 kapitan                             porucznik
+26                  romania                          comandor                              căpitan - comandor                                 căpitan                            locotenent
+27                   russia                         polkovnik                                    podpolkovnik                                 kapitan                     starshiyleytenant
+28                 slovakia                         plukovník                                    podplukovník                                 kapitán                               poručík
+29                    spain                           coronel                                teniente coronel                                 capitán                              teniente
+30                sri lanka                     group captain                                  wing commander                       flight lieutenant                        flying officer
+31                   sweden   överste 1. graden cubic överste                                 överstelöjtnant                                  kapten                              löjtnant
+32                 thailand      nawa akat ek (group captain)                  nawa akat tho (wing commander)        ruea akat ek (flight lieutenant)        ruea akat tho (flying officer)
+33                   turkey                             albay                                          yarbay                                 yüzbaşı                              üsteğmen
+34           united kingdom                     group captain                                  wing commander                       flight lieutenant                        flying officer
+35            united states                           colonel                              lieutenant colonel                                 captain                        1st lieutenant
+36                 zimbabwe                     group captain                                  wing commander                       flight lieutenant                        air lieutenant

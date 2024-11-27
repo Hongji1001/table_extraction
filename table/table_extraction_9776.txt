@@ -1,0 +1,8 @@
+             wrestler reign days held           location                        event
+0              filoso     1   unknown              n / a                   live event
+1     osamu namiguchi     1         7     nagano , japan                   live event
+2  katsuhiko nakajima     1       297  hiroshima , japan                   live event
+3   tatsuhito takaiwa     1         8      tokyo , japan                   live event
+4             vacated     -         -              n / a                        n / a
+5            the★zest     1       261   yamagata , japan                   live event
+6                noiz     1    2127 +      tokyo , japan  miracle rocket ~2nd impact~

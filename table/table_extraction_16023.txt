@@ -1,0 +1,11 @@
+                     title                                               author     first issue    last issue completed
+0             bamboo blade  masahiro totsuka (author) , aguri igarashi (artist)     august 2008      may 2009        no
+1             black butler                                          yana toboso     august 2009     july 2010        no
+2  higurashi when they cry        ryukishi07 (author) , karin suzuragi (artist)     august 2008  january 2009        no
+3               hero tales    huang jin zhou (author) , hiromu arakawa (artist)   february 2009     on hiatus        no
+4                  k - on!                                              kakifly  september 2010       ongoing        no
+5             nabari no ou                                       yuhki kamatani     august 2008       unknown        no
+6           pandora hearts                                        jun mochizuki       june 2009       unknown        no
+7               soul eater                                        atsushi okubo     august 2008       unknown        no
+8          sumomomo momomo                                       shinobu ohtaka     august 2008  october 2009        no
+9                yotsuba&!                                       kiyohiko azuma  september 2010       ongoing        no

@@ -1,0 +1,12 @@
+   opposing teams  against            date                            venue       status
+0           wales       13  04 / 02 / 2006              twickenham , london  six nations
+1           italy       16  11 / 02 / 2006           stadio flaminio , rome  six nations
+2        scotland       18  25 / 02 / 2006          murrayfield , edinburgh  six nations
+3          france       31  12 / 03 / 2006  stade de france , saint - denis  six nations
+4         ireland       28  18 / 03 / 2006              twickenham , london  six nations
+5       australia       34  11 / 06 / 2006         telstra stadium , sydney   first test
+6       australia       43  17 / 06 / 2006     colonial stadium , melbourne  second test
+7     new zealand       41  05 / 11 / 2006              twickenham , london   test match
+8       argentina       25  11 / 11 / 2006              twickenham , london   test match
+9    south africa       21  18 / 11 / 2006              twickenham , london   first test
+10   south africa       25  25 / 11 / 2006              twickenham , london  second test

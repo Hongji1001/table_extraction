@@ -1,0 +1,26 @@
+    round  pick             player        position                   school
+0       1     1        tommy nobis      linebacker                    texas
+1       1    16      randy johnson     quarterback                texas a&i
+2       2    17        nick rassas  defensive back               notre dame
+3       2    32        jerry jones          tackle            bowling green
+4       3    33        mike dennis    running back              mississippi
+5       3    48      phil sheridan   wide receiver               notre dame
+6       4    49         ken reaves  defensive back           virginia state
+7       4    64      willie asbury    running back               kent state
+8       5    65        bill wolski    running back               notre dame
+9       5    80        martin kahn          tackle        north texas state
+10      6    81      charley casey   wide receiver                  florida
+11      7    96    william johnson    running back  university of the south
+12      8   111          bill goss      linebacker                   tulane
+13      9   126        bob sanders          center        north texas state
+14     10   141        mike bender           guard                 arkansas
+15     11   156        steve sloan     quarterback                  alabama
+16     12   171      ken hollister          tackle                  indiana
+17     13   186        bob collins          tackle           south carolina
+18     14   201        steve ecker          kicker             shippensburg
+19     15   216       tom tolleson   wide receiver                  alabama
+20     16   231         jim vining           guard                     rice
+21     17   246  lurley archambeau          center                   toledo
+22     18   261        doug korver          center            southern iowa
+23     19   276        walt mainer  defensive back                   xavier
+24     20   291         bob riggle  defensive back               penn state

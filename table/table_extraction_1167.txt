@@ -1,0 +1,14 @@
+    n degree television service country language                        content   dar hdtv  ppv   package / option
+0        981          contotv 1   italy  italian             general television   4:3   no  yes          qualsiasi
+1        982          contotv 2   italy  italian             general television   4:3   no  yes          qualsiasi
+2        983          contotv 3   italy  italian             general television  16:9   no   no          qualsiasi
+3        984          contotv 4   italy  italian  programmi per adulti 24h / 24   4:3   no   no          qualsiasi
+4        985          contotv 5   italy  italian  programmi per adulti 24h / 24   4:3   no   no          qualsiasi
+5        987         teleitalia   italy  italian             general television   4:3   no  yes  qualsiasi ( fta )
+6        988    teleitalia spot   italy  italian             general television   4:3   no  yes  qualsiasi ( fta )
+7        989            d - xtv   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi
+8        990          r - light   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi
+9        991                sct   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi
+10       992            boy&boy   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi
+11       993              privè   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi
+12       994             themex   italy  italian  programmi per adulti 24h / 24   4:3   no  yes          qualsiasi

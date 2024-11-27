@@ -1,0 +1,7 @@
+   pick      cfl team              player position           college
+0    42  saskatchewan        dan comiskey       ol           windsor
+1    43            bc      kelly lochbaum       lb  northern arizona
+2    44      winnipeg      wayne weathers       de          manitoba
+3    45      montreal  francis bellefroid       lb         bishop 's
+4    46       calgary     paul donkersley       rb            acadia
+5    47      edmonton         chris hardy       qb          manitoba

@@ -1,0 +1,23 @@
+                    driver         constructor  laps  time / retired  grid
+0           jackie stewart      tyrrell - ford    75       1:49:03.4     4
+1               jacky ickx             ferrari    75           + 3.4     1
+2               chris amon               matra    75          + 58.1     3
+3          pedro rodríguez                 brm    75        + 1:17.9     5
+4              denny hulme      mclaren - ford    75        + 1:27.0     9
+5   jean - pierre beltoise               matra    74         + 1 lap     6
+6          françois cevert      tyrrell - ford    74         + 1 lap    12
+7             peter gethin      mclaren - ford    73        + 2 laps     7
+8             tim schenken      brabham - ford    72        + 3 laps    21
+9            howden ganley                 brm    71        + 4 laps    17
+10            john surtees      surtees - ford    67        + 8 laps    22
+11            reine wisell        lotus - ford    58  not classified    16
+12      emerson fittipaldi        lotus - ford    54      suspension    14
+13         henri pescarolo        march - ford    53          engine    11
+14          mario andretti             ferrari    50          engine     8
+15       alex soler - roig        march - ford    46       fuel pump    20
+16       andrea de adamich  march - alfa romeo    26    transmission    18
+17         ronnie peterson        march - ford    24        ignition    13
+18          clay regazzoni             ferrari    13          engine     2
+19          rolf stommelen      surtees - ford     9   fuel pressure    19
+20              jo siffert                 brm     5         gearbox    15
+21             graham hill      brabham - ford     5        steering    10

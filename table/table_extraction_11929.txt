@@ -1,0 +1,10 @@
+  former kingdom  province hangul hanja          capital                        modern equivalent
+0          silla    yangju     양주    良州           yangju                       eastern gyeongsang
+1          silla    gangju     강주    康州           gangju                 western south gyeongsang
+2          silla    sangju     상주    尙州           sangju                 western north gyeongsang
+3         baekje      muju     무주    武州             muju                             south jeolla
+4         baekje    jeonju     전주    全州           jeonju                             north jeolla
+5         baekje     ungju     웅주    熊州           gongju                        south chungcheong
+6       goguryeo     hanju     한주    漢州  hanju ( seoul )  north chungcheong , gyeonggi , hwanghae
+7       goguryeo     sakju     삭주    朔州            sakju                          western gangwon
+8       goguryeo  myeongju     명주    溟州         myeongju                          eastern gangwon

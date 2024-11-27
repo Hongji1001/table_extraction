@@ -1,0 +1,13 @@
+                      city of license     identifier         frequency      power class recnet
+0                        beaver creek           cbdm            690 am  40 s watt    lp  query
+1                            carmacks           cbqf            990 am   40 watts    lp  query
+2                         dawson city           cbdn            560 am  400 watts     c  query
+3   destruction bay / burwash landing      cbdl - fm          105.1 fm   96 watts     a  query
+4                                faro      cbqk - fm          105.1 fm   87 watts    a1  query
+5                     haines junction      cbdf - fm          103.5 fm   90 watts    a1  query
+6                                mayo           cbdc  1230 am 104.9 fm   40 watts    lp  query
+7                          ross river           cbqj            990 am   40 watts    lp  query
+8                              teslin           cbdk            940 am   40 watts    lp  query
+9                         watson lake           cbdb            990 am   40 watts    lp  query
+10           atlin , british columbia      cbua - fm           90.1 fm   14 watts    lp  query
+11                 whitehorse , yukon  cfwh - fm - 1           95.3 fm   50 watts    lp  query

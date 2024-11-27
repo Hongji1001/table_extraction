@@ -1,0 +1,12 @@
+     carrier            standard frequency         (down)           (up) launch date (ddmmyyyy)
+0     orange           umts hspa  2100 mhz   7.2 mbit / s   2.0 mbit / s             01.11.2008
+1     orange           umts hspa  2100 mhz  14.4 mbit / s  5.76 mbit / s             02.09.2009
+2     orange           umts hspa  2100 mhz  21.1 mbit / s  5.76 mbit / s             21.12.2009
+3     orange           umts hspa  2100 mhz    42 mbit / s  5.76 mbit / s             27.05.2011
+4   moldcell           umts hspa  2100 mhz   7.2 mbit / s     2 mbit / s             01.10.2008
+5   moldcell           umts hspa  2100 mhz  21.1 mbit / s  5.76 mbit / s             31.05.2011
+6      unité  cdma ev - do rev 0   450 mhz   2.4 mbit / s   153 mbit / s             01.03.2007
+7      unité           umts hspa  2100 mhz  14.4 mbit / s  5.76 mbit / s             01.03.2010
+8        idc  cdma ev - do rev 0   800 mhz  2.4 мmbit / s   153 kbit / s             01.03.2007
+9        idc  cdma ev - do rev 0   450 mhz  2.4 мmbit / s   153 kbit / s             01.03.2007
+10       idc  cdma ev - do rev a   800 мгц   3.1 mbit / s   1.8 mbit / s             21.03.2011

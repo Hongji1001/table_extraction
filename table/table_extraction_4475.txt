@@ -1,0 +1,32 @@
+                   name                     team  laps                   time / retired  grid
+0          garth tander     toll hsv dealer team    27                       52:35.5753     1
+1         jamie whincup            team vodafone    27                       52:35.9827     3
+2         craig lowndes            team vodafone    27                       52:36.9792     6
+3        russell ingall    stone brothers racing    27                       52:38.4403     4
+4           greg murphy        tasman motorsport    27                       52:38.4473     8
+5        james courtney    stone brothers racing    27                       52:38.8810     2
+6            rick kelly     toll hsv dealer team    27                       52:39.6331    11
+7        steven johnson      dick johnson racing    27                       52:40.5402     7
+8            dean canto  garry rogers motorsport    27                       52:42.0108    15
+9        jason richards        tasman motorsport    27                       52:42.5921    14
+10         will davison      dick johnson racing    27                       52:43.2217    12
+11       lee holdsworth  garry rogers motorsport    27                       52:46.3328    17
+12           max wilson               wps racing    27                       52:47.6625    20
+13      jason bargwanna               wps racing    27                       52:47.9577    18
+14           steve owen          autobarn racing    27                       52:49.7342    13
+15         jack perkins    jack daniel 's racing    27                       52:50.5548    22
+16          mark skaife       holden racing team    27                       52:52.1881    16
+17   cameron mcconville   supercheap auto racing    27                       52:52.8349    29
+18            john bowe  paul cruickshank racing    27                       52:53.6773    25
+19    mark winterbottom  ford performance racing    27                       52:54.2361    31
+20        paul dumbrell   supercheap auto racing    27                       53:47.8319    10
+21  shane van gisbergen         team kiwi racing    26                       52:47.2922    23
+22            alan gurr        britek motorsport    26                       52:56.4653    27
+23           owen kelly      team sirromet wines    26                       53:09.3806    28
+24         jason bright        britek motorsport    23  44:02.3081 (retired - accident)    21
+25      steven richards  ford performance racing    23  44:02.5801 (retired - accident)     5
+26           todd kelly       holden racing team    22  41:39.7166 (retired - accident)     9
+27          shane price    jack daniel 's racing    19             36:34.5323 (retired)    26
+28          paul morris      team sirromet wines    13    26:11.5449 (retired - engine)    30
+29          simon wills                 team boc    10  19:02.4680 (retired - accident)    24
+30         andrew jones                 team boc     1     2:09.2048 (retired - engine)    19

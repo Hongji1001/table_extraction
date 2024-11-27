@@ -1,0 +1,10 @@
+   Unnamed: 0               player        country  points  reset points  events
+0           1          tiger woods  united states    7108          2500      16
+1           2       steve stricker  united states    5692          2250      21
+2           3            jim furyk  united states    3108          2000      21
+3           4         zach johnson  united states    3031          1800      24
+4           5         heath slocum  united states    3005          1600      26
+5           6  pã¡draig harrington        ireland    2633          1400      19
+6           7          sean o'hair  united states    2624          1200      22
+7           8       scott verplank  united states    2416          1000      23
+8           9          kenny perry  united states    2318           800      23

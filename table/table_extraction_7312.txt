@@ -1,0 +1,32 @@
+                                        name  years gender                area         authority  decile  roll
+0                            birdwood school  1 - 8   coed               ranui             state       1   218
+1                 bruce mclaren intermediate  7 - 8   coed        mclaren park             state       3   244
+2                             colwill school  1 - 8   coed         massey east             state       3   212
+3                            don buck school  1 - 8   coed         massey west             state       3   215
+4                            edmonton school  1 - 6   coed      te atatu south             state       4   234
+5                       flanshaw road school  1 - 6   coed      te atatu south             state       5   394
+6                  freyberg community school  1 - 6   coed      te atatu south             state       6   351
+7                            glendene school  1 - 6   coed            glendene             state       3   163
+8                     henderson intermediate  7 - 8   coed           henderson             state       3   540
+9                     henderson north school  1 - 6   coed     henderson north             state       3   426
+10                          henderson school  1 - 6   coed           henderson             state       3   203
+11                    henderson south school  1 - 6   coed           henderson             state       2   284
+12                holy cross catholic school  1 - 8   coed           henderson  state integrated       4   408
+13                    lincoln heights school  1 - 8   coed         massey west             state       3   453
+14                     massey primary school  1 - 8   coed         massey west             state       4   425
+15                        matipo road school  1 - 6   coed  te atatu peninsula             state       6   481
+16                  peninsula primary school  1 - 6   coed  te atatu peninsula             state       5   378
+17                       pomaria road school  1 - 6   coed             lincoln             state       2   467
+18                    rangeview intermediate  7 - 8   coed      te atatu south             state       5   772
+19                              ranui school  1 - 6   coed               ranui             state       2   367
+20                         royal road school  1 - 8   coed        massey north             state       2   280
+21                         rutherford school  1 - 6   coed  te atatu peninsula             state       5   227
+22                         st paul 's school  1 - 6   coed        massey north  state integrated       5   405
+23                        summerland primary  1 - 6   coed     western heights             state       7   602
+24                          sunnyvale school  1 - 6   coed           sunnyvale             state       4   396
+25                     te atatu intermediate  7 - 8   coed  te atatu peninsula             state       5   290
+26                          tirimoana school  1 - 6   coed            glendene             state       6   643
+27                          tkkm o te kotuku  1 - 8   coed  te atatu peninsula             state       3    58
+28  waitakere seventh - day adventist school  1 - 8   coed        mclaren park  state integrated       5    40
+29                       west harbour school  1 - 8   coed        west harbour             state       3   353
+30                    western heights school  1 - 6   coed     western heights             state       7   604

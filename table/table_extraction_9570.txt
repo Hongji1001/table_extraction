@@ -1,0 +1,10 @@
+   round  pick           player nationality      college / junior / club team
+0      1     2  jacques richard      canada         quebec remparts ( qmjhl )
+1      2    18  dwight bialowas      canada             regina pats ( wcjhl )
+2      3    34     jean lemieux      canada      sherbrooke castors ( qmjhl )
+3      4    50    don martineau      canada  new westminster royals ( wcjhl )
+4      5    78      john martin      canada       shawinigan bruins ( qmjhl )
+5      6    82       frank blum      canada            sarnia sting ( sojhl )
+6      7    98      scott smith      canada             regina pats ( wcjhl )
+7      8   114      dave murphy      canada        hamilton red wings ( oha )
+8      9   130       pierre roy      canada         quebec remparts ( qmjhl )

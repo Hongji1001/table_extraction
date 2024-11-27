@@ -1,0 +1,45 @@
+                                 stadium  capacity                   city             province                         home team (s)
+0           monumental antonio v liberti     67664           buenos aires  ( autonomous city )             river plate and argentina
+1                   mario alberto kempes     57878                córdoba              córdoba                                     -
+2                     ciudad de la plata     53000               la plata         buenos aires                      estudiantes (lp)
+3          presidente juan domingo perón     51389             avellaneda         buenos aires                           racing club
+4                        josé amalfitani     49540           buenos aires  ( autonomous city )                       vélez sársfield
+5                      alberto j armando     49000           buenos aires  ( autonomous city )                          boca juniors
+6                      tomás adolfo ducó     48314           buenos aires  ( autonomous city )                               huracán
+7                        ciudad de lanús     47027                  lanús         buenos aires                                 lanús
+8                libertadores de américa     44000             avellaneda         buenos aires                         independiente
+9                         pedro bidegain     43963           buenos aires  ( autonomous city )                           san lorenzo
+10                    josé maría minella     43542          mar del plata         buenos aires                              aldosivi
+11                   gigante de arroyito     41654                rosario             santa fe                       rosario central
+12                   malvinas argentinas     40268                mendoza              mendoza                            godoy cruz
+13    brigadier general estanislao lópez     40000               santa fe             santa fe                                 colón
+14                        marcelo bielsa     38095                rosario             santa fe                    newell 's old boys
+15                     eduardo gallardón     36542        lomas de zamora         buenos aires                             los andes
+16                      presidente perón     35535                córdoba              córdoba                             instituto
+17                        florencio sola     34901               banfield         buenos aires                              banfield
+18               ciudad de vicente lópez     33051          vicente lópez         buenos aires                              platense
+19         centenario josé luis meiszner     33000                quilmes         buenos aires                               quilmes
+20                monumental josé fierro     32700  san miguel de tucumán              tucumán                      atlético tucumán
+21                          nueva españa     32500           buenos aires  ( autonomous city )                     deportivo español
+22                   coliseo de victoria     32100               victoria         buenos aires                                 tigre
+23                         nueva chicago     29000           buenos aires  ( autonomous city )                         nueva chicago
+24                          23 de agosto     29000  san salvador de jujuy                jujuy                gimnasia y esgrima (j)
+25                    gigante de alberdi     28000                córdoba              córdoba                              belgrano
+26                          la ciudadela     25622  san miguel de tucumán              tucumán                        san martín (t)
+27                          bicentenario     25286               san juan             san juan                       san martín (sj)
+28                            centenario     25000            resistencia                chaco                             sarmiento
+29                     chacarita juniors     24800            villa maipú         buenos aires                     chacarita juniors
+30                  juan carmelo zerillo     24544               la plata         buenos aires               gimnasia y esgrima (lp)
+31                    don león kolbowsky     24500           buenos aires  ( autonomous city )                               atlanta
+32                diego armando maradona     24380           buenos aires  ( autonomous city )                    argentinos juniors
+33                arq ricardo etcheverry     24268           buenos aires  ( autonomous city )                    ferro carril oeste
+34                     gigante del norte     24300                  salta                salta                       gimnasia y tiro
+35                    jorge luis hirschi     23000               la plata         buenos aires                      estudiantes (lp)
+36                           15 de abril     22500               santa fe             santa fe                            unión (sf)
+37           presbítero bartolomé grella     22000                 paraná           entre ríos                             patronato
+38                             eva perón     22000                  junín         buenos aires                         sarmiento (j)
+39                estadio islas malvinas     21500           buenos aires  ( autonomous city )                              all boys
+40                   miguel ángel sancho     21000                córdoba              córdoba                            racing (c)
+41                    feliciano gambarte     21000                mendoza              mendoza                            godoy cruz
+42              padre ernesto martearena     20408                  salta                salta  central norte and juventud antoniana
+43  estadio fragata presidente sarmiento     20000        isidro casanova         buenos aires                       almirante brown

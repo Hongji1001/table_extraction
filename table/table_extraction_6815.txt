@@ -1,0 +1,10 @@
+              player  rec  yards   avg  td 's  long
+0        will pettis  130   1471  11.3     40    46
+1        marcus nash   77   1080  14.0     20    45
+2     andrae thurman   65    839  12.9     19    49
+3    willis marshall   66    747  11.3     12    48
+4      dialleo burks   18    243  13.5      9    30
+5  anthony armstrong   10    126  12.6      2    34
+6     terrence dotsy   16    102   6.4      6    15
+7         josh white    9     72   8.0      3    13
+8        devin wyman    1      3   3.0      1     3

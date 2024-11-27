@@ -1,0 +1,9 @@
+             school      location      mascot        county  year joined  year left   conference joined
+0              avon          avon     orioles  32 hendricks         1974       2000  hoosier crossroads
+1       beech grove   beech grove     hornets     49 marion         1978       2005  indiana crossroads
+2        brownsburg    brownsburg    bulldogs  32 hendricks         1942       1967            sagamore
+3      center grove     greenwood     trojans    41 johnson         1956       1981    central suburban
+4          danville      danville    warriors  32 hendricks         1942       1978        west central
+5   decatur central  indianapolis       hawks     49 marion         1942       1971    central suburban
+6  lawrence central  indianapolis       bears     49 marion         1942       1949    capital district
+7          speedway      speedway  sparkplugs     49 marion         1942       1999        west central

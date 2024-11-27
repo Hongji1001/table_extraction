@@ -1,0 +1,6 @@
+                 date                         venue  score result                   competition
+0   december 4 , 1995         chiang mai , thailand  2 - 1    won    1995 southeast asian games
+1       july 7 , 1996                     singapore  7 - 1    won  1996 asian cup qualification
+2  november 21 , 1998            bangkok , thailand  3 - 3   drew                      friendly
+3  december 12 , 1998            bangkok , thailand  1 - 2   lost              1998 asian games
+4      july 30 , 1999  bandar seri begawan , brunei  9 - 0    won    1999 southeast asian games

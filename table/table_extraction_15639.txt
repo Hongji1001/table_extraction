@@ -1,0 +1,11 @@
+                           club             sport  founded                                              league                         venue
+0            cincinnati bengals          football     1968                      national football league , afc            paul brown stadium
+1               cincinnati reds          baseball     1869                               mlb , national league      great american ball park
+2           cincinnati cyclones        ice hockey     1990                                                echl                 us bank arena
+3              florence freedom          baseball     1994                                     frontier league         champion window field
+4        cincinnati rollergirls      roller derby     2005               women 's flat track derby association            cincinnati gardens
+5              cincinnati kings            soccer     2005                      usl premier development league  town and country sports club
+6  cincinnati kings indoor team     indoor soccer     2008                    professional arena soccer league            cincinnati gardens
+7          cincinnati commandos   indoor football     2010                     ultimate indoor football league            cincinnati gardens
+8         cincinnati revolution  ultimate frisbee     2011  american ultimate disc league , midwest conference      sheakley athletic center
+9             cincinnati saints            soccer     2013                    professional arena soccer league       tri - county soccerplex

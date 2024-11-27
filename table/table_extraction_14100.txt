@@ -1,0 +1,6 @@
+  day 1 day 2 day 3 day 4 day 5      wednesday
+0  math    fr  math  math  math   9:00 - 10:08
+1  paaq  paaq  paaq  paaq  paaq        no paaq
+2    pe    pe    fr    pe    pe  10:22 - 11:30
+3    sc   eng    sc    fr   eng   12:30 - 1:38
+4   eng    sc   eng    sc    fr    1:52 - 3:00

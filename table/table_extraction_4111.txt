@@ -1,0 +1,6 @@
+   year                title   us us r&b us dance
+0  1984          pretty mess   75     15       13
+1  1985   mechanical emotion  107     23        -
+2  1986  under the influence   56      9        6
+3  1986              animals    -      -        -
+4  1988              undress    -      -        -

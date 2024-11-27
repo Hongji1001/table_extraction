@@ -1,0 +1,13 @@
+                   player    nationality          position years for grizzlies school / club team
+0    mahmoud abdul - rauf  united states       point guard         2000 - 2001                lsu
+1   shareef abdur - rahim  united states           forward         1996 - 2001         california
+2              tony allen  united states             guard      2010 - present     oklahoma state
+3            ashraf amaya  united states     small forward         1995 - 1996  southern illinois
+4           nick anderson  united states   guard / forward         2001 - 2002           illinois
+5            greg anthony  united states       point guard         1995 - 1997               unlv
+6        robert archibald       scotland  forward / center         2002 - 2003           illinois
+7          gilbert arenas  united states             guard                2012            arizona
+8          darrell arthur  united states           forward         2009 - 2013             kansas
+9           chucky atkins  united states       point guard         2006 - 2007      south florida
+10           isaac austin  united states            center         2000 - 2002      arizona state
+11          anthony avent  united states     power forward         1995 - 1996         seton hall

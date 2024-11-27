@@ -1,0 +1,9 @@
+                            league                 sport          country     season  games  average attendance  total attendance
+0            major league baseball              baseball        usa / can       2013   2426               30504          74026895
+1     nippon professional baseball              baseball              jpn       2010    846               25626          21679596
+2         national football league     american football              usa       2011    254               67358          17124389
+3  national basketball association            basketball        usa / can  2011 - 12    990               17274          17100861
+4                       bundesliga  association football          germany  2011 - 12    306               45179          13805496
+5                   premier league  association football  england / wales  2011 - 12    380               34601          13148465
+6           national hockey league            ice hockey        usa / can  2012 - 13    720               17721          12758849
+7                          la liga  association football            spain  2011 - 12    380               30275          11504567

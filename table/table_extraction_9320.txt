@@ -1,0 +1,7 @@
+               player          team        score      versus  year
+0  nasim - ul - ghani      pakistan          101     england  1962
+1           tony mann     australia          105       india  1977
+2        syed kirmani         india  101 not out   australia  1979
+3        mark boucher  south africa          125    zimbabwe  1999
+4        mark boucher  south africa          108     england  1999
+5     jason gillespie     australia  201 not out  bangladesh  2006

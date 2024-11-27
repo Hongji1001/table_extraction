@@ -1,0 +1,12 @@
+                team copa libertadores 1993 supercopa sudamericana 1993 copa conmebol 1993 recopa sudamericana 1993 intercontinental cup 1993
+0   atlético mineiro        did not qualify             did not qualify         semifinals                    n / a                     n / a
+1           botafogo        did not qualify             did not qualify          champions                    n / a                     n / a
+2         bragantino        did not qualify             did not qualify        round of 16                    n / a                     n / a
+3           cruzeiro        did not qualify               quarterfinals    did not qualify              runner - up                     n / a
+4           flamengo          quarterfinals                 runner - up    did not qualify                    n / a                     n / a
+5         fluminense        did not qualify             did not qualify        round of 16                    n / a                     n / a
+6             grêmio        did not qualify               quarterfinals    did not qualify                    n / a                     n / a
+7      internacional            group stage             did not qualify    did not qualify                    n / a                     n / a
+8             santos        did not qualify                 round of 16    did not qualify                    n / a                     n / a
+9          são paulo              champions                   champions    did not qualify                champions                 champions
+10             vasco        did not qualify             did not qualify        round of 16                    n / a                     n / a

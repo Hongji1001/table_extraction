@@ -1,0 +1,7 @@
+              player    nationality         position years in toronto      school / club team
+0          žan tabak        croatia           center        1995 - 98  recoaro milano (italy)
+1  sebastian telfair  united states            guard             2013                new york
+2        john thomas  united states           center      1998 - 2000               minnesota
+3         gary trent  united states          forward             1998                    ohio
+4         p j tucker  united states  guard - forward        2006 - 07                   texas
+5      hedo türkoğlu         turkey          forward        2009 - 10  efes pilsen ( turkey )

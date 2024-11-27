@@ -1,0 +1,14 @@
+                              name   years          area authority  decile  roll
+0               fox glacier school   1 - 8   fox glacier     state       8    25
+1       franz josef glacier school   1 - 8   franz josef     state       9    19
+2                     haast school   1 - 8         haast     state       3    18
+3                  hokitika school   1 - 6      hokitika     state       4   154
+4              jacobs river school   1 - 8  jacobs river     state       5     6
+5                   kaniere school   1 - 6       kaniere     state       7   129
+6   kokatahi - kowhitirangi school   1 - 6      kokatahi     state       8    52
+7                    kumara school   1 - 8        kumara     state       5    23
+8                      ross school   1 - 6          ross     state       6    16
+9       south westland area school  1 - 15      harihari     state       4   100
+10               st mary 's school   1 - 8      hokitika     state       5   152
+11            westland high school  7 - 15      hokitika     state       6   397
+12                 whataroa school   1 - 8      whataroa     state       7    36

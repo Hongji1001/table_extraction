@@ -1,0 +1,37 @@
+             state       date       yes vote        no vote vote outcome
+0           west :     west :         west :         west :       west :
+1           alaska       1998   68% (152965)    32% (71631)          yes
+2           hawaii       1998   71% (285384)   29% (117827)          yes
+3           nevada       2002   67% (337183)   33% (164555)          yes
+4          montana       2004   67% (295070)   33% (148263)          yes
+5           oregon       2004  57% (1028546)   43% (787556)          yes
+6             utah       2004   66% (593297)   34% (307488)          yes
+7          arizona       2006   48% (574332)   52% (607769)           no
+8         colorado       2006   56% (865126)   44% (674030)          yes
+9            idaho       2006   63% (282301)   37% (163408)          yes
+10         arizona       2008  56% (1258355)   44% (980753)          yes
+11      california       2008  52% (7001084)  48% (6401482)         yes1
+12       midwest :  midwest :      midwest :      midwest :    midwest :
+13        nebraska       2000   70% (450073)   30% (189555)          yes
+14        missouri       2004  71% (1055771)   29% (439529)          yes
+15        michigan       2004  59% (2698077)  41% (1904319)          yes
+16    north dakota       2004   73% (223572)    27% (81716)          yes
+17            ohio       2004  62% (3329335)  38% (2065462)          yes
+18        oklahoma       2004  76% (1075216)   24% (347303)          yes
+19          kansas       2005   70% (414106)   30% (178018)          yes
+20    south dakota       2006   52% (172242)   48% (160173)          yes
+21       wisconsin       2006  59% (1260554)   41% (861554)          yes
+22       minnesota       2012  47% (1399938)  53% (1550844)           no
+23         south :    south :        south :        south :      south :
+24       louisiana       2004   78% (618928)   22% (177103)          yes
+25        arkansas       2004   75% (753770)   25% (251914)          yes
+26         georgia       2004  76% (2454912)   24% (768703)          yes
+27        kentucky       2004  75% (1222125)   25% (417097)          yes
+28     mississippi       2004   86% (957104)   14% (155648)          yes
+29           texas       2005  76% (1718513)   24% (536052)          yes
+30         alabama       2006   81% (734746)   19% (170399)          yes
+31  south carolina       2006   78% (825766)   22% (232978)          yes
+32       tennessee       2006  81% (1419434)   19% (327536)          yes
+33        virginia       2006  57% (1328134)   43% (998483)          yes
+34         florida       2008  62% (4890883)  38% (3008026)          yes
+35  north carolina       2012  61% (1317976)   39% (840802)          yes

@@ -1,0 +1,28 @@
+   frequency   call sign                     name                             format                             owner target city / market city of license
+0    88.3 fm        klmp                the light                          christian   bethesda christian broadcasting           rapid city      rapid city
+1    89.9 fm        kqfr             family radio                          christian               family stations inc           rapid city      rapid city
+2    90.3 fm        kasd    american family radio                          christian             american family radio           rapid city      rapid city
+3    91.3 fm        kteq                 k - tech                        alternative    tech educational radio council           rapid city      rapid city
+4    91.7 fm      k218dx        csn international     christian kawz - fm translator                 csn international           rapid city       box elder
+5    92.2 fm   kqrq - fm                    q92.3                       classic hits       new generation broadcasting           rapid city      rapid city
+6    93.1 fm        krcs                 hot 93.1                             top 40          new rushmore radio , inc           rapid city         sturgis
+7    93.9 fm        kkmk               magic 93.9                             hot ac          new rushmore radio , inc           rapid city      rapid city
+8    95.1 fm        ksqy                  k - sky                album oriented rock          haugo broadcasting , inc           rapid city        deadwood
+9    95.9 fm        kzzi                the eagle                            country              duhamel broadcasting           rapid city   belle fourche
+10   96.3 fm      k242bk                the eagle                            country              duhamel broadcasting           rapid city      rapid city
+11   97.5 fm      k248bt           97.5 the hills                 adult contemporary          new rushmore radio , inc           rapid city      rapid city
+12   97.9 fm        ktpt                the point                     christian rock   bethesda christian broadcasting           rapid city      rapid city
+13   98.7 fm        kout         kat country 98.7                            country          new rushmore radio , inc           rapid city      rapid city
+14   99.5 fm  krki - fm1         99 - 5 the range  classic country krki - fm booster             badlands broadcasting           rapid city      rapid city
+15  100.3 fm        kfxs            100.3 the fox                       classic rock          new rushmore radio , inc           rapid city      rapid city
+16  101.1 fm        kddx                 x - rock                        active rock  duhamel broadcasting enterprises           rapid city       spearfish
+17  101.9 fm  kfmh - fm1             oldies 101.9           oldies kfmh - fm booster             badlands broadcasting           rapid city      rapid city
+18  102.7 fm        kxmz               hits 102.7                             hot ac                     pandora radio           rapid city       box elder
+19  103.5 fm      k278an                 x - rock   active rock kddx - fm translator  duhamel broadcasting enterprises           rapid city      rapid city
+20  104.1 fm        kiqk                 kick 104                            country          haugo broadcasting , inc           rapid city      rapid city
+21  104.7 fm      k284ba                 hot 93.1        top 40 krcs - fm translator          new rushmore radio , inc           rapid city      rapid city
+22  105.1 fm        kawk           the hawk 105.1                 adult contemporary          haugo broadcasting , inc           rapid city          custer
+23  105.7 fm      k289ai                the light     christian klmp - fm translator   bethesda christian broadcasting           rapid city      rapid city
+24  106.3 fm        kzlk                she 106.3                             hot ac                    steven e duffy           rapid city          custer
+25  106.7 fm      k294bt  big kim classic country       country kimm - am translator            gunslinger radio , inc           rapid city      rapid city
+26  107.3 fm        kslt              power 107.3             christian contemporary   bethesda christian broadcasting           rapid city       spearfish

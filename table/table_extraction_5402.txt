@@ -1,0 +1,10 @@
+                     club / team                                   league                           venue  established premierships
+0               brisbane bandits               australian baseball league      brisbane exhibition ground         1989            1
+1               brisbane broncos                    national rugby league                 suncorp stadium         1988            6
+2                 brisbane lions               australian football league         brisbane cricket ground         1997            3
+3                  brisbane roar                  a - league / w - league                 suncorp stadium         2004        1 / 2
+4              queensland blades                 australian hockey league  queensland state hockey centre         1991            5
+5               queensland bulls               pura cup / ford ranger cup         brisbane cricket ground         1892           13
+6           queensland firebirds                 commonwealth bank trophy                  chandler arena         1997          nil
+7                queensland reds                              super rugby                 suncorp stadium         1996            1
+8  triple eight race engineering  international v8 supercars championship              queensland raceway         2003            4

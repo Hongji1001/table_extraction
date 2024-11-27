@@ -1,0 +1,7 @@
+           date                city opponent results type of game
+0   february 26               split   sweden     2:1     friendly
+1      april 30   barcelona , spain    spain     1:2     1970 wcq
+2        june 4  helsinki , finland  finland     5:1     1970 wcq
+3   september 3            belgrade  romania     1:1     friendly
+4  september 24            belgrade     ussr     1:3     friendly
+5    october 19             skoplje  belgium     4:0     1970 wcq

@@ -1,0 +1,27 @@
+      date                                  course  distance                    winner            race leader
+0   16 may                          milan to turin         -     giuseppe olmo ( ita )  giuseppe olmo ( ita )
+1   17 may                          turin to genoa         -         aldo bini ( ita )      aldo bini ( ita )
+2   18 may              genoa to montecatini terme         -  raffaele di paco ( ita )      aldo bini ( ita )
+3   19 may                                rest day  rest day                  rest day               rest day
+4   20 may           montecatini terme to grosseto         -   fabio battesini ( ita )      aldo bini ( ita )
+5   21 may                        grosseto to rome         -     giuseppe olmo ( ita )      aldo bini ( ita )
+6   22 may                                rest day  rest day                  rest day               rest day
+7   23 may                          rome to naples         -     giuseppe olmo ( ita )  giuseppe olmo ( ita )
+8   24 may                          naples to bari         -  raffaele di paco ( ita )  giuseppe olmo ( ita )
+9   25 may                                rest day  rest day                  rest day               rest day
+10  26 may                      bari to campobasso         -     olimpio bizzi ( ita )  giuseppe olmo ( ita )
+11  27 may                  campobasso to l'aquila         -      gino bartali ( ita )   gino bartali ( ita )
+12  28 may                       l'aquila to rieti         -  raffaele di paco ( ita )   gino bartali ( ita )
+13  29 may               rieti to monte terminillo         -     giuseppe olmo ( ita )   gino bartali ( ita )
+14  30 may                       rieti to florence         -     giuseppe olmo ( ita )   gino bartali ( ita )
+15  31 may                  florence to cesenatico         -     giuseppe olmo ( ita )   gino bartali ( ita )
+16  1 june                   cesenatico to ferrara         -  raffaele di paco ( ita )   gino bartali ( ita )
+17  2 june                        ferrara to padua         -  raffaele di paco ( ita )   gino bartali ( ita )
+18  2 june                         padua to venice         -     giuseppe olmo ( ita )   gino bartali ( ita )
+19  3 june                                rest day  rest day                  rest day               rest day
+20  4 june                       venice to legnago         -     giuseppe olmo ( ita )   gino bartali ( ita )
+21  5 june               legnago to riva del garda         -     giuseppe olmo ( ita )   gino bartali ( ita )
+22  5 june       riva del garda to gardone riviera         -      gino bartali ( ita )   gino bartali ( ita )
+23  6 june  gardone riviera to salsomaggiore terme         -      gino bartali ( ita )   gino bartali ( ita )
+24  7 june            salsomaggiore terme to milan         -     giuseppe olmo ( ita )   gino bartali ( ita )
+25   total                                   total         -                   km (mi)                km (mi)

@@ -1,0 +1,29 @@
+           date      competition               venue result    score                                   goals
+0    4 / 3 / 01  super league vi       valley parade      w  31 - 24                hpaul 5 / 5 , hpaul 1 dg
+1   16 / 3 / 01  super league vi         the willows      w   40 - 6                             hpaul 6 / 7
+2   25 / 3 / 01  super league vi    mcalpine stadium      w  30 - 14              deacon 4 / 4 , hpaul 1 / 1
+3    8 / 4 / 01  super league vi       valley parade      w   24 - 6                             hpaul 4 / 4
+4   12 / 4 / 01  super league vi           belle vue      l  12 - 16                            deacon 2 / 2
+5   16 / 4 / 01  super league vi       valley parade      w  35 - 24                hpaul 7 / 7 , hpaul 1 dg
+6   21 / 4 / 01  super league vi       the boulevard      d  24 - 24                             hpaul 6 / 6
+7    2 / 5 / 01  super league vi       valley parade      w  56 - 24              hpaul 8 / 8 , deacon 2 / 2
+8    5 / 5 / 01  super league vi          the jungle      w  24 - 22                             hpaul 6 / 6
+9   11 / 5 / 01  super league vi  headingley stadium      w  33 - 14                hpaul 6 / 6 , hpaul 1 dg
+10  18 / 5 / 01  super league vi       valley parade      w  64 - 12                           hpaul 10 / 11
+11  27 / 5 / 01  super league vi       valley parade      w  42 - 10                             hpaul 5 / 8
+12   2 / 6 / 01  super league vi       knowsley road      l  26 - 38                             hpaul 3 / 5
+13  10 / 6 / 01  super league vi       valley parade      w  78 - 18                           hpaul 11 / 14
+14  16 / 6 / 01  super league vi        welford road      w   42 - 0                             hpaul 5 / 8
+15  24 / 6 / 01  super league vi       valley parade      w  62 - 10              hpaul 8 / 8 , deacon 3 / 3
+16  29 / 6 / 01  super league vi         jjb stadium      l  30 - 44                             hpaul 5 / 5
+17   6 / 7 / 01  super league vi       valley parade      w   40 - 0                             hpaul 6 / 7
+18  15 / 7 / 01  super league vi       valley parade      w   44 - 4                            deacon 8 / 8
+19  22 / 7 / 01  super league vi       valley parade      w  44 - 22              hpaul 7 / 7 , deacon 1 / 1
+20  29 / 7 / 01  super league vi        shay stadium      w  52 - 28                             hpaul 8 / 9
+21   4 / 8 / 01  super league vi         wilderspool      l  14 - 18                             hpaul 3 / 3
+22  11 / 8 / 01  super league vi  headingley stadium      w   34 - 6                             hpaul 7 / 7
+23  17 / 8 / 01  super league vi       valley parade      w  27 - 14               hpaul 8 / 8 , deacon 3 dg
+24  26 / 8 / 01  super league vi       valley parade      w  56 - 30              hpaul 9 / 9 , deacon 1 / 1
+25  31 / 8 / 01  super league vi         jjb stadium      l  10 - 16  hpaul 2 / 2 , deacon 1 dg , lowes 1 dg
+26   9 / 9 / 01  super league vi         wilderspool      w  84 - 12            hpaul 10 / 10 , deacon 4 / 4
+27  15 / 9 / 01  super league vi       valley parade      w  62 - 18                            hpaul 9 / 11

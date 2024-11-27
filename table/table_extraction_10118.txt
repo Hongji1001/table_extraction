@@ -1,0 +1,18 @@
+           storm name                 dates active max 1 - min wind mph (km / h) min press ( mbar ) damage (millions usd )             deaths
+0                 one               may 5 - may 10                      65 (100)                995                   none               none
+1                 two        august 12 - august 15                     150 (240)                935                    7.5                 40
+2               three      august 26 - september 2                      85 (140)                979                  0.226                (1)
+3                four      august 30 - september 9                     160 (260)               ≤921                unknown                 16
+4                five    september 4 - september 7                      70 (110)                992                   none               none
+5                 six   september 9 - september 15                       60 (95)                999                   0.02               none
+6               seven  september 16 - september 22                      65 (100)                994                unknown               none
+7               eight  september 18 - september 20                      65 (100)                998                unknown               none
+8                nine     september 25 - october 2                     145 (230)                943                     30               >225
+9                 ten  september 28 - september 30                       45 (75)               1004                   none               none
+10             eleven       october 7 - october 15                      70 (110)                990                unknown               none
+11             twelve       october 8 - october 12                       60 (95)                997                unknown               none
+12           thirteen      october 18 - october 21                      70 (110)                999                   none               none
+13           fourteen     october 30 - november 14                     175 (280)               ≤915                     40              >3103
+14            fifteen     november 3 - november 10                     100 (155)                973                unknown               none
+15  season aggregates            season aggregates             season aggregates  season aggregates      season aggregates  season aggregates
+16        15 cyclones          may 5 - november 10                     175 (280)               ≤915                 77.706          >3384 (1)

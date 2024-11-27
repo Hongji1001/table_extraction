@@ -1,0 +1,33 @@
+                                  name               city / state         country           status       status date episode number
+0                    anamika choudhari            mariani , assam           india           winner      1 march 2008     episode 40
+1                     rohanpreet singh           patiala , punjab           india  1st runner - up      1 march 2008     episode 40
+2                    tanmay chaturvedi    lucknow , uttar pradesh           india  2nd runner - up      1 march 2008     episode 40
+3                         aamir hafeez    bhopal , madhya pradesh           india        voted out  15 february 2008     episode 34
+4                    vasundhara raturi                      delhi           india        voted out   8 february 2008     episode 32
+5                     vaishali raikwar    bhopal , madhya pradesh           india        voted out   1 december 2007     episode 14
+6                          smita nandi         agartala , tripura           india        voted out   18 january 2008     episode 27
+7                      vibhor parashar                      delhi           india        voted out   12 january 2008     episode 25
+8                     rohit shyam raut        nagpur , maharastra           india        voted out    4 january 2008     episode 23
+9                       paritosh pande   gaziabad , uttar pradesh           india        voted out  21 december 2007     episode 21
+10                       sahil solanki           hissar , haryana           india        voted out  14 december 2007      episode 6
+11                        loria dhoshi         jaipur , rajasthan           india        voted out   8 december 2007     episode 16
+12                        shahzaad ali        bikaner , rajasthan           india        voted out   3 november 2007     episode 17
+13                         sagar padke        mumbai , maharastra           india        voted out  30 november 2007     episode 13
+14                           sayon sen                  new delhi           india        voted out  17 november 2007     episode 10
+15   barbie rajput with ankesh godbole   mandi , himachal pradesh           india        voted out  10 november 2007      episode 8
+16                 arghya ramnath naik                     muscat            oman        voted out   27 october 2007      episode 4
+17                        harsh kapoor  allahabad , uttar pradesh           india        voted out   27 october 2007      episode 4
+18                        shreya nayak       mumbai , maharashtra           india        voted out   27 october 2007      episode 4
+19                     shreya tripathi                     sitrah         bahrain        voted out   27 october 2007      episode 4
+20                       sukanya gupta                      delhi           india        voted out   27 october 2007      episode 4
+21                     utkarsha telang     indor , madhya pradesh           india        voted out   27 october 2007      episode 4
+22  aamna waheed (spelling correction)                    england  united kingdom        voted out   26 october 2007      episode 3
+23                      maithali shome               johannesburg    south africa        voted out   26 october 2007      episode 3
+24                             rupaali                       suva            fiji        voted out   26 october 2007      episode 3
+25                       surbhi rajput           kota , rajasthan           india        voted out   26 october 2007      episode 3
+26                       veda narulkar       mumbai , maharashtra           india        voted out   26 october 2007      episode 3
+27                       anshula kumar                     sydney       australia        voted out   19 october 2007      episode 2
+28                        monalisa roy               kuala lumpur        malaysia        voted out   19 october 2007      episode 2
+29                      shruti khandor                      n / a   united states        voted out   19 october 2007      episode 2
+30                       vibhav gautam                       doha           qatar        voted out   19 october 2007      episode 2
+31                        yash kansara                      n / a   united states        voted out   19 october 2007      episode 2

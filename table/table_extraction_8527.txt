@@ -1,0 +1,10 @@
+  region                date              label          format       catalog
+0  japan     april 21 , 1981       alfa records       stereo lp   alr - 28016
+1  japan     march 25 , 1984       alfa records              cd     32xa - 11
+2  japan   january 23 , 1987       alfa records              cd    32xa - 115
+3  japan     march 21 , 1992       alfa records              cd    alca - 275
+4  japan      june 29 , 1994       alfa records              cd   alca - 9005
+5  japan      july 23 , 1998       alfa records              cd   alca - 9200
+6  japan  december 19 , 2001    village records  ed remaster cd   vrcl - 2205
+7  japan   january 17 , 2002    village records  ed remaster cd   vrcl - 2225
+8  japan       may 27 , 2009  sony music direct  ed remaster cd  mhcl - 20007

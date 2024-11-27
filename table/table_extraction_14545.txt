@@ -1,0 +1,18 @@
+                   perpetrator            date    year             location       country  killed                            additional notes
+0                    ou yangpu     01.01 jan 1  1976.0               zixing         china    17.0                           committed suicide
+1   simmons , ronald gene , 47  12.22 dec 2228  1987.0    russellville , ar            us    16.0             sentenced to death and executed
+2          mohammad zaman , 30    09.25 sep 25  2009.0                ghola   afghanistan    15.0                           committed suicide
+3                      unknown    11.23 nov 23  1936.0            maropally         india    14.0                                    arrested
+4     banks , george emil , 40    09.25 sep 25  1982.0  wilkes - barre , pa            us    13.0                          sentenced to death
+5                           gz           06.32  1969.9                   hz           chz     6.9                                          zz
+6              liu aibing , 34    12.12 dec 12  2009.0           yinshanpai         china    13.0             sentenced to death and executed
+7            guo zhongmin , 36    02.18 feb 18  2003.0        yangxiaoxiang         china    13.0                           committed suicide
+8           saeed qashash , 19   06.10 june 10  1998.0                amman        jordan    12.0             sentenced to death and executed
+9             jia yingmin , 40     10.06 oct 6  2000.0              kunlong         china    12.0                           committed suicide
+10             augusto , pedro       08.00 aug  1900.0       rio de janeiro        brazil    12.0                                    arrested
+11                          mz           09.32  1999.9                   oz            lz     7.9                                          zz
+12                  abbas khan       09.00 sep  1896.0               jabbar         india    11.0                                    arrested
+13                    andangan    10.21 oct 21  1921.0             cotabato   philippines    11.0                           committed suicide
+14  ruppert , james urban , 40  03.30 march 30  1975.0        hamilton , oh            us    11.0  sentenced to eleven consecutive life terms
+15      jalal osman khoja , 40    12.26 dec 26  2000.0               jeddah  saudi arabia    11.0                           committed suicide
+16    abdul emir khalaf sabhan    08.26 aug 26  2003.0              baghdad          iraq    11.0                           committed suicide

@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0           david coulthard      mclaren - mercedes    44    1:25:43.057     2
+1             mika häkkinen      mclaren - mercedes    44       + 10.469     1
+2   heinz - harald frentzen  jordan - mugen - honda    44       + 33.433     3
+3              eddie irvine                 ferrari    44       + 44.948     6
+4           ralf schumacher     williams - supertec    44       + 48.067     5
+5                damon hill  jordan - mugen - honda    44       + 54.916     4
+6                 mika salo                 ferrari    44       + 56.249     9
+7        alessandro zanardi     williams - supertec    44     + 1:07.022     8
+8                jean alesi       sauber - petronas    44     + 1:13.848    16
+9        rubens barrichello          stewart - ford    44     + 1:20.742     7
+10     giancarlo fisichella     benetton - playlife    44     + 1:32.195    13
+11             jarno trulli         prost - peugeot    44     + 1:36.154    12
+12            olivier panis         prost - peugeot    44     + 1:41.543    17
+13           alexander wurz     benetton - playlife    44     + 1:57.745    15
+14       jacques villeneuve          bar - supertec    43        + 1 lap    11
+15                marc gené          minardi - ford    43        + 1 lap    21
+16         pedro de la rosa                  arrows    35   transmission    22
+17              luca badoer          minardi - ford    33     suspension    20
+18            ricardo zonta          bar - supertec    33        gearbox    14
+19           johnny herbert          stewart - ford    27         brakes    10
+20              pedro diniz       sauber - petronas    19           spin    18
+21        toranosuke takagi                  arrows     0         clutch    19

@@ -1,0 +1,7 @@
+      district            incumbent       party  first elected        result                         candidates
+0  louisiana 1       james o'connor  democratic           1918  re - elected       james o'connor (d) unopposed
+1  louisiana 3    whitmell p martin  democratic           1914  re - elected    whitmell p martin (d) unopposed
+2  louisiana 4       john n sandlin  democratic           1920  re - elected       john n sandlin (d) unopposed
+3  louisiana 5  riley joseph wilson  democratic           1914  re - elected  riley joseph wilson (d) unopposed
+4  louisiana 6       bolivar e kemp  democratic           1924  re - elected       bolivar e kemp (d) unopposed
+5  louisiana 7   rené louis derouen  democratic           1927  re - elected   rené louis derouen (d) unopposed

@@ -1,0 +1,6 @@
+         player        position  round  pick           nfl club
+0  robert jones      linebacker      1    24     dallas cowboys
+1    jeff blake     quarterback      6   166      new york jets
+2   luke fisher       tight end      8   210  minnesota vikings
+3    chris hall  defensive back      9   250     dallas cowboys
+4  dion johnson   wide receiver     10   274     houston oilers

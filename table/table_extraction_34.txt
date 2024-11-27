@@ -1,0 +1,12 @@
+    position           driver  points  winnings                  series
+0          1      mark martin      61    225000      nascar winston cup
+1          2     robby gordon      54    100000                indy car
+2          3    johnny benson      50     60000     nascar busch series
+3          4    terry labonte      48     50000      nascar winston cup
+4          5    al unser , jr      48     45000                indy car
+5          6  sterling marlin      40     40000      nascar winston cup
+6          7     scott pruett      40     40000                indy car
+7          8   dale earnhardt      39     40000      nascar winston cup
+8          9    tommy kendall      36     40000  scca trans - am series
+9         10      jeff gordon      30     40000      nascar winston cup
+10        11    rusty wallace      26     40000      nascar winston cup

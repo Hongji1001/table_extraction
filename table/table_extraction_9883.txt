@@ -1,0 +1,13 @@
+                  name         birth date age as of 1 february 2014 country of birth     place of residence
+0          grace jones    7 december 1899         114years , 56days          england   bermondsey , england
+1           ethel lang        27 may 1900        113years , 250days          england     barnsley , england
+2      dorothy baldwin    8 february 1902        111years , 358days          england   nottingham , england
+3         dorothy peel  28 september 1902        111years , 126days          england  bridlington , england
+4    florence pittaway    15 october 1902        111years , 109days          england   birmingham , england
+5   margaret sandiford      23 march 1903        110years , 315days          england      lydiate , england
+6        ralph tarrant        7 july 1903        110years , 209days          england    sheffield , england
+7        gwen phillips       17 july 1903        110years , 199days            wales        newport , wales
+8        hilda jackson     19 august 1903        110years , 166days          england       oldham , england
+9          ivy clapham   6 september 1903        110years , 148days          england         hull , england
+10        alma rayward     3 october 1903        110years , 121days          england         hull , england
+11   winifred warhurst    22 october 1903        110years , 102days          england       wirral , england

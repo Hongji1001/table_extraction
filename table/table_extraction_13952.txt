@@ -1,0 +1,37 @@
+                   date                city      country                  venue tickets available since  attendance              comment
+0          may 2 , 2009                nice       france          palais nikaia           may 23 , 2008        9000             sold out
+1          may 3 , 2009                nice       france          palais nikaia          june 11 , 2008        9000             sold out
+2          may 5 , 2009  clermont - ferrand       france                 zénith           may 23 , 2008        8500             sold out
+3          may 6 , 2009  clermont - ferrand       france                 zénith           may 23 , 2008        8500             sold out
+4          may 9 , 2009           marseille       france      dôme de marseille           may 23 , 2008        8500             sold out
+5         may 10 , 2009           marseille       france      dôme de marseille           may 23 , 2008        8500             sold out
+6         may 12 , 2009           marseille       france      dôme de marseille           june 6 , 2008        8500             sold out
+7         may 15 , 2009            toulouse       france                 zénith           may 23 , 2008        9000             sold out
+8         may 16 , 2009            toulouse       france                 zénith           may 23 , 2008        9000             sold out
+9         may 18 , 2009            toulouse       france                 zénith           may 23 , 2008        9000             sold out
+10        may 19 , 2009            toulouse       france                 zénith     september 15 , 2008        9000             sold out
+11        may 23 , 2009              nantes       france                 zénith           may 23 , 2008        8500             sold out
+12        may 24 , 2009              nantes       france                 zénith           may 23 , 2008        8500             sold out
+13        may 26 , 2009              nantes       france                 zénith           may 23 , 2008        8500             sold out
+14        may 27 , 2009              nantes       france                 zénith     september 23 , 2008        8500             sold out
+15        may 30 , 2009               rouen       france                 zénith           may 23 , 2008        8000             sold out
+16        may 31 , 2009               rouen       france                 zénith           may 23 , 2008        8000             sold out
+17        june 2 , 2009               rouen       france                 zénith           may 27 , 2008        8000             sold out
+18        june 5 , 2009          strasbourg       france                 zénith           may 23 , 2008       10000             sold out
+19        june 6 , 2009          strasbourg       france                 zénith          june 10 , 2008       10000             sold out
+20        june 8 , 2009               dijon       france                 zénith           may 23 , 2008        7800             sold out
+21        june 9 , 2009               dijon       france                 zénith           may 23 , 2008        7800             sold out
+22       june 12 , 2009                lyon       france     halle tony garnier           may 23 , 2008       12000             sold out
+23       june 13 , 2009                lyon       france     halle tony garnier           may 23 , 2008       12000             sold out
+24       june 15 , 2009                lyon       france     halle tony garnier     september 23 , 2008       12000             sold out
+25       june 17 , 2009           amnéville       france      galaxie amnéville       january 30 , 2009       11000             sold out
+26       june 19 , 2009               douai       france            gayant expo          june 27 , 2008       11500             sold out
+27       june 20 , 2009               douai       france            gayant expo          june 27 , 2008       11500             sold out
+28       june 22 , 2009               douai       france            gayant expo     september 24 , 2008       11500             sold out
+29       june 28 , 2009    saint petersburg       russia                    skk      february 16 , 2009       15000             sold out
+30        july 1 , 2009              moscow       russia             olimpiysky      february 16 , 2009       25000             sold out
+31   september 4 , 2009              geneva  switzerland        stade de genève         march 28 , 2008       32000             sold out
+32   september 5 , 2009              geneva  switzerland        stade de genève          april 7 , 2008       32000             sold out
+33  september 11 , 2009               paris       france        stade de france          april 1 , 2008       80000   sold out (2 hours)
+34  september 12 , 2009               paris       france        stade de france         march 28 , 2008       80000  sold out (1 hour ¼)
+35  september 19 , 2009            brussels      belgium  king baudouin stadium         april 26 , 2008       50000             sold out

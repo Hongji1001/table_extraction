@@ -1,0 +1,13 @@
+                name height weight    spike               2008 club
+0        marcus popp      m      -  cm (in)      marmi lanza verona
+1      simon tischer      m      -  cm (in)                 iraklis
+2       björn andrae      m      -  cm (in)             azs olsztyn
+3       mark siebeck      m      -  cm (in)         halkbank ankara
+4       marcus böhme      m      -  cm (in)              scc berlin
+5      stefan hübner      m      -  cm (in)          sisley treviso
+6      jochen schöps      m      -  cm (in)         iskra odintsovo
+7        frank dehne      m      -  cm (in)      marmi lanza verona
+8   christian pampel      m      -  cm (in)  gazprom - jugra surgut
+9     ralph bergmann      m      -  cm (in)              moerser sc
+10      robert kromm      m      -  cm (in)           sempre volley
+11     thomas kröger      m      -  cm (in)     vfb friedrichshafen

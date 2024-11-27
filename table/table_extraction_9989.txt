@@ -1,0 +1,8 @@
+      nation                skip               third               second                     lead
+0    belarus  oleksii voloshenko     siarhei sarokin      alexandr radaev  aliaksandr tsiushkevich
+1   bulgaria      nikolai runtov     tihomir todorov       stoil georgiev            ilian kirilov
+2    england         andrew reed         james dixon           tom jaeggi             andrew dixon
+3     latvia      ritvars gulbis       ainars gulbis       aivars avotins         normunds sarsuns
+4  lithuania     martynas norkus  vygantas zalieckas  piotras gerasimovic        dalius garakvinas
+5     serbia    marko stojanovic        darko sovran      bojan mijatovic             vuk krajacic
+6      wales        jamie meikle        stuart hills        andrew tanner            james pougher

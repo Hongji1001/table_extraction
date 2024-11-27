@@ -1,0 +1,18 @@
+   opposing teams  against            date                         venue                status
+0          france       17  15 / 02 / 2003           twickenham , london           six nations
+1           wales        9  22 / 02 / 2003  millennium stadium , cardiff           six nations
+2           italy        5  09 / 03 / 2003           twickenham , london           six nations
+3        scotland        9  22 / 03 / 2003           twickenham , london           six nations
+4         ireland        6  30 / 03 / 2003       lansdowne road , dublin           six nations
+5     new zealand       13  14 / 06 / 2003  westpac stadium , wellington            test match
+6       australia       14  21 / 06 / 2003  colonial stadium , melbourne            test match
+7           wales        9  23 / 08 / 2003  millennium stadium , cardiff            test match
+8          france       17  30 / 08 / 2003   stade vãlodrome , marseille            first test
+9          france       14  06 / 09 / 2003           twickenham , london           second test
+10        georgia        6  12 / 10 / 2003          subiaco oval , perth  2003 rugby world cup
+11   south africa        6  18 / 10 / 2003          subiaco oval , perth  2003 rugby world cup
+12          samoa       22  26 / 10 / 2003  colonial stadium , melbourne  2003 rugby world cup
+13        uruguay       13  02 / 11 / 2003    suncorp stadium , brisbane  2003 rugby world cup
+14          wales       17  09 / 11 / 2003    suncorp stadium , brisbane  2003 rugby world cup
+15         france        7  16 / 11 / 2003    stadium australia , sydney  2003 rugby world cup
+16      australia       17  22 / 11 / 2003    stadium australia , sydney  2003 rugby world cup

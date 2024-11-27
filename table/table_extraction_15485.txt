@@ -1,0 +1,49 @@
+                 date              venue             opponents         competition                match report
+0        12 july 2008     ochilview park         stenhousemuir                   f  raith rovers official site
+1        15 july 2008      stark 's park                  hibs                   f  raith rovers official site
+2        19 july 2008      stark 's park         dundee united                   f  raith rovers official site
+3        26 july 2008      stark 's park               rangers                   f  raith rovers official site
+4        30 july 2008  recreation ground  burntisland shipyard  fife cup 2007 - 08  raith rovers official site
+5       2 august 2008      somerset park            ayr united     second division  raith rovers official site
+6       5 august 2008        cliftonhill         albion rovers                 slc  raith rovers official site
+7       9 august 2008      stark 's park         queen 's park     second division  raith rovers official site
+8      12 august 2008      stark 's park           ross county                 scc  raith rovers official site
+9      16 august 2008    recreation park        alloa athletic     second division  raith rovers official site
+10     23 august 2008      stark 's park             stranraer     second division  raith rovers official site
+11     26 august 2008      stark 's park               falkirk                 slc  raith rovers official site
+12     30 august 2008            balmoor             peterhead     second division  raith rovers official site
+13  13 september 2008      stark 's park             east fife     second division  raith rovers official site
+14  20 september 2008      stark 's park       stirling albion     second division  raith rovers official site
+15  27 september 2008         glebe park          brechin city     second division  raith rovers official site
+16     4 october 2008      gayfield park              arbroath     second division  raith rovers official site
+17    18 october 2008      stark 's park            ayr united     second division  raith rovers official site
+18    25 october 2008         stair park             stranraer     second division  raith rovers official site
+19    1 november 2008      stark 's park        alloa athletic     second division  raith rovers official site
+20    8 november 2008    bayview stadium             east fife     second division  raith rovers official site
+21   15 november 2008      stark 's park             peterhead     second division  raith rovers official site
+22   22 november 2008      stark 's park          brechin city     second division  raith rovers official site
+23   29 november 2008      stark 's park        alloa athletic                  sc  raith rovers official site
+24    9 december 2008    recreation park        alloa athletic                  sc  raith rovers official site
+25   13 december 2008       hampden park         queen 's park     second division  raith rovers official site
+26   20 december 2008      stark 's park              arbroath     second division  raith rovers official site
+27   27 december 2008            balmoor             peterhead     second division  raith rovers official site
+28     3 january 2009      stark 's park             east fife     second division  raith rovers official site
+29    10 january 2009  forthbank stadium       stirling albion     second division  raith rovers official site
+30    17 january 2009      stark 's park             stranraer     second division  raith rovers official site
+31    24 january 2009    recreation park        alloa athletic     second division  raith rovers official site
+32    31 january 2009      somerset park            ayr united     second division  raith rovers official site
+33   21 february 2009      stark 's park       stirling albion     second division  raith rovers official site
+34   28 february 2009      stark 's park             peterhead     second division  raith rovers official site
+35       7 march 2009    bayview stadium             east fife     second division  raith rovers official site
+36      14 march 2009      stark 's park            ayr united     second division  raith rovers official site
+37      17 march 2009      stark 's park         queen 's park     second division  raith rovers official site
+38      21 march 2009      gayfield park              arbroath     second division  raith rovers official site
+39      24 march 2009         glebe park          brechin city     second division  raith rovers official site
+40       4 april 2009         stair park             stranraer     second division  raith rovers official site
+41       8 april 2009      stark 's park             east fife  fife cup 2007 - 08  raith rovers official site
+42      11 april 2009      stark 's park        alloa athletic     second division  raith rovers official site
+43      18 april 2009  forthbank stadium       stirling albion     second division  raith rovers official site
+44      25 april 2009      stark 's park          brechin city     second division  raith rovers official site
+45      29 april 2009    bayview stadium             east fife  fife cup 2008 - 09     east fife official site
+46         2 may 2009       hampden park         queen 's park     second division  raith rovers official site
+47         9 may 2009      stark 's park              arbroath     second division  raith rovers official site

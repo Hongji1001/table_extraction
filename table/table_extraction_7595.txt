@@ -1,0 +1,43 @@
+                                   name   years gender           area         authority  decile  roll
+0                      aberfeldy school   1 - 8   coed       wanganui             state       2    58
+1                       arahunga school       -   coed       gonville             state       5    41
+2                        aramoho school   1 - 8   coed        aramoho             state       1    50
+3                         aranui school   1 - 6   coed    castlecliff             state       1   122
+4                      brunswick school   1 - 8   coed      brunswick             state       7    82
+5                        carlton school   1 - 6   coed       wanganui             state       2   301
+6                    castlecliff school   1 - 6   coed    castlecliff             state       1    77
+7                        churton school   1 - 6   coed        aramoho             state       3   141
+8                     cullinane college  9 - 13   coed       wanganui  state integrated       3   242
+9                     durie hill school   1 - 6   coed     durie hill             state       6   251
+10                        faith academy   1 - 8   coed     springvale  state integrated       4   139
+11                       fordell school   1 - 8   coed        fordell             state       6    84
+12                      gonville school   1 - 6   coed       wanganui             state       2   139
+13                       kai iwi school   1 - 8   coed       wanganui             state       5   100
+14                       kaitoke school   1 - 8   coed        kaitoke             state       7   106
+15                      kakatahi school   1 - 8   coed       kakatahi             state       3     3
+16                  keith street school   1 - 6   coed       wanganui             state       2   248
+17                      kokohuia school  1 - 13   coed    castlecliff             state       1    65
+18             mangamahu primary school   1 - 8   coed      mangamahu             state       5     9
+19                       mosston school   1 - 6   coed       wanganui             state       5   152
+20                      ngamatea school   1 - 8   coed       kakatahi             state       6     7
+21                         okoia school   1 - 8   coed          okoia             state       1    53
+22               rutherford junior high   7 - 8   coed       wanganui             state       2   184
+23                    st anne 's school   1 - 8   coed       wanganui  state integrated       6   261
+24                 st anthony 's school   1 - 8   coed       wanganui           private       4    80
+25                st dominic 's college  9 - 13   coed       gonville           private       4    39
+26      st george 's preparatory school   1 - 8   coed       wanganui  state integrated       9   101
+27                 st johns hill school   1 - 6   coed       wanganui             state      10   422
+28                  st marcellin school   1 - 8   coed       wanganui  state integrated       3   119
+29                    st mary 's school   1 - 8   coed       wanganui  state integrated       4   186
+30                       tawhero school   1 - 6   coed       wanganui             state       1   184
+31                      te wainui a rua   1 - 8   coed         ranana             state       3    20
+32  tkkm o te atihaunui - a - paparangi   1 - 8   coed         putiki             state       2    58
+33                        tkkm o tupoho  1 - 13   coed    castlecliff             state       1   129
+34                    upokongaro school   1 - 8   coed     upokongaro             state       5    24
+35                wanganui city college  9 - 13   coed       wanganui             state       2   388
+36           wanganui collegiate school  9 - 13   coed       wanganui  state integrated      10   419
+37                 wanganui east school   1 - 6   coed       wanganui             state       2   176
+38              wanganui girls' college  9 - 13  girls  wanganui east             state       3   347
+39                 wanganui high school  9 - 13   coed     springvale             state       5  1647
+40                wanganui intermediate   7 - 8   coed       wanganui             state       4   597
+41                      westmere school   1 - 8   coed        rapanui             state       6   249

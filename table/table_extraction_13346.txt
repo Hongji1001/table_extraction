@@ -1,0 +1,21 @@
+    rank                         title                studio              director      gross
+0      1                         ghost             paramount          jerry zucker  505702588
+1      2                    home alone      20th century fox        chris columbus  476684675
+2      3                  pretty woman            touchstone        garry marshall  463406268
+3      4            dances with wolves                 orion         kevin costner  424208848
+4      5                  total recall  tri - star / carolco        paul verhoeven  261299840
+5      6   back to the future part iii             universal       robert zemeckis  244527583
+6      7        die hard 2: die harder      20th century fox          renny harlin  240031094
+7      8             presumed innocent           warner bros         alan j pakula  221303188
+8      9  teenage mutant ninja turtles              new line          steve barron  201965915
+9     10              kindergarten cop             universal          ivan reitman  201957688
+10    11      the hunt for red october             paramount        john mctiernan  200512643
+11    12                    dick tracy            touchstone         warren beatty  162738726
+12    13               days of thunder             paramount            tony scott  157920733
+13    14                another 48 hrs             paramount           walter hill  153518974
+14    15                bird on a wire             universal           john badham  138697012
+15    16        the godfather part iii             paramount  francis ford coppola  136766062
+16    17                       rocky v        united artists       john g avildsen  119946358
+17    18           edward scissorhands      20th century fox            tim burton   86024005
+18    19                 problem child             universal          dennis dugan   53470900
+19    20              marked for death      20th century fox       dwight h little   57968936

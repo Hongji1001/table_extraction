@@ -1,0 +1,13 @@
+                  player  height position  year born           current club
+0      rimantas kaukėnas    1.92    guard       1977      montepaschi siena
+1        giedrius gustas    1.90    guard       1980            barons riga
+2         jonas mačiulis    2.00  forward       1985        žalgiris kaunas
+3      darjuš lavrinovič    2.12   center       1979            unics kazan
+4     ramūnas šiškauskas    1.98    guard       1978            cska moscow
+5        darius songaila    2.04  forward       1978     washington wizards
+6         simas jasaitis    2.00  forward       1982           tau cerámica
+7           linas kleiza    2.03  forward       1985         denver nuggets
+8     kšyštof lavrinovič    2.10   center       1979      montepaschi siena
+9   šarūnas jasikevičius    1.92    guard       1976  golden state warriors
+10      paulius jankūnas    2.05  forward       1984        žalgiris kaunas
+11     robertas javtokas    2.10   center       1980          dynamo moscow

@@ -1,0 +1,12 @@
+    round  pick           player    nationality          college
+0       1    15      john hummer  united states        princeton
+1       2    24   cornell warner  united states    jackson state
+2       3    43        chip case  united states         virginia
+3       4    58    ervin polnick  united states     austin state
+4       5    77     robert moore  united states    central state
+5       6    92        doug hess  united states           toledo
+6       7   111    cliff shegogg  united states   colorado state
+7       8   126      larry woods  united states    west virginia
+8       9   145  larry duckworth  united states  henderson state
+9      10   160       joe taylor  united states          dillard
+10     11   177      dick walker  united states      wake forest

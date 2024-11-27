@@ -1,0 +1,14 @@
+                      party  county  city  borough  town  total
+0                 fine gael     305    35       16   200    556
+1              fianna fã¡il     201    17       11   178    407
+2              labour party      94    38       13    86    231
+3                 sinn fãin      41    13        8    65    127
+4               green party       3     0        2    13     18
+5                      wuag       2     0        4     1      7
+6           socialist party       3     1        1     1      6
+7      people before profit       3     2        0     0      5
+8            workers' party       0     2        0     0      2
+9   south kerry independent       1     0        0     1      2
+10     christian solidarity       0     0        0     0      0
+11              independent     102    22       10   141    275
+12                   totals     753   130       60   684   1627

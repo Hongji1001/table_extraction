@@ -1,0 +1,36 @@
+     res  record          opponent                                   method                                        event  round   time                                     location
+0   loss  26 - 9      steven siler                             ko (punches)           ufc fight night : shogun vs sonnen      1   0:50       boston , massachusetts , united states
+1    win  26 - 8     daniel pineda                     decision (unanimous)                                      ufc 146      3   5:00           las vegas , nevada , united states
+2    win  25 - 8          nam phan                     decision (unanimous)                                      ufc 133      3   5:00  philadelphia , pennsylvania , united states
+3   loss  24 - 8        rani yahya                     decision (unanimous)                 ufc : fight for the troops 2      3   5:00            fort hood , texas , united states
+4   loss  24 - 7       diego nunes                         decision (split)                                      ufc 125      3   5:00           las vegas , nevada , united states
+5    win  24 - 6     cole province                            tko (punches)                                       wec 51      1   1:18        broomfield , colorado , united states
+6   loss  23 - 6   manny gamburyan                             ko (punches)                                       wec 48      1   2:22      sacramento , california , united states
+7    win  23 - 5  anthony morrison            submission (rear naked choke)                                       wec 46      1   1:54      sacramento , california , united states
+8   loss  22 - 5         josé aldo                            tko (punches)                                       wec 44      2   1:20           las vegas , nevada , united states
+9    win  22 - 4      urijah faber                     decision (unanimous)                                       wec 41      5   5:00      sacramento , california , united states
+10   win  21 - 4    leonard garcia        submission (arm - triangle choke)                                       wec 39      1   1:57       corpus christi , texas , united states
+11   win  20 - 4      urijah faber                            tko (punches)                                       wec 36      1   2:23          hollywood , florida , united states
+12   win  19 - 4       jeff curran                     decision (unanimous)                                       wec 34      3   5:00      sacramento , california , united states
+13   win  18 - 4    manny reyes jr            submission (rear naked choke)             pxf - premier x - treme fighting      1   1:46          hollywood , florida , united states
+14   win  17 - 4         eben oroz                            tko (punches)                     hooknshoot - bodog fight      1   3:15         evansville , indiana , united states
+15   win  16 - 4      yves edwards                     decision (unanimous)           bodog fight - clash of the nations      3   5:00                    saint petersburg , russia
+16   win  15 - 4      jason bryant                            tko (punches)  afc 19 - absolute fighting championships 19      1   1:26         boca raton , florida , united states
+17   win  14 - 4        rocky long          submission (rear - naked choke)                        ke - kick enterprises      2   1:32         fort myers , florida , united states
+18   win  13 - 4      dustin neace            submission (guillotine choke)  afc 18 - absolute fighting championships 18      1   0:50         boca raton , florida , united states
+19  loss  12 - 4  masakazu imanari  technical submission (rolling kneelock)                             deep - 22 impact      2   3:38                                tokyo , japan
+20   win  12 - 3  takeshi yamazaki                     decision (unanimous)                           deep - 21st impact      3   5:00                                tokyo , japan
+21   win  11 - 3    taiyo nakahara          submission (arm triangle choke)                                  gcm - dog 2      2  n / a                                tokyo , japan
+22   win  10 - 3    renato tavares                     decision (unanimous)  afc 10 - absolute fighting championships 10      3   5:00      ft lauderdale , florida , united states
+23  loss   9 - 3        joe lauzon            submission (rear naked choke)                        cz 8 - street justice      3   2:14       revere , massachusetts , united states
+24  loss   9 - 2        genki sudo           submission (triangle / armbar)                                       ufc 47      1   3:31           las vegas , nevada , united states
+25   win   9 - 1    leigh remedios                     decision (unanimous)    afc 6 - absolute fighting championships 6      3   5:00      ft lauderdale , florida , united states
+26   win   8 - 1  renat mirzabekov                   submission (heel hook)    hfc 2 - hardcore fighting championships 2      1   2:38       revere , massachusetts , united states
+27   win   7 - 1     mark hominick                   submission (heel hook)                          tfc 8 - hell raiser      3  n / a                toledo , ohio , united states
+28   win   6 - 1      shawn graham                            tko (punches)    hfc 1 - hardcore fighting championships 1      2   1:05       revere , massachusetts , united states
+29   win   5 - 1        mike large            submission (rear naked choke)                          tfc 7 - fightzone 7      1  n / a                toledo , ohio , united states
+30   win   4 - 1      bill mahoney            submission (rear naked choke)                  md 10 - mass destruction 10      3  n / a      swansea , massachusetts , united states
+31   win   3 - 1    edward odquina            submission (rear naked choke)                       usmma 1 - ring of fury      1  n / a       lowell , massachusetts , united states
+32  loss   2 - 1     hermes frança              submission (triangle choke)                         hooknshoot - kings 1      1   2:21         evansville , indiana , united states
+33   win   2 - 0   vinny brightman            submission (rear naked choke)                    md 3 - mass destruction 3      1   3:30      swansea , massachusetts , united states
+34   win   1 - 0     jeff darienzo                     submission (keylock)                    md 1 - mass destruction 1  n / a  n / a      swansea , massachusetts , united states

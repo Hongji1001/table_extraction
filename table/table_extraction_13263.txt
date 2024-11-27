@@ -1,0 +1,7 @@
+   round  pick  overall              name position             college
+0      4    13       97     duncan mccoll       de            stanford
+1      7    22      189     reggie haynes       te  nevada - las vegas
+2      9    23      246  mike northington       rb              purdue
+3     10    22      273       james sykes       rb                rice
+4     11    21      300        don harris       db             rutgers
+5     12    20      327   curtis kirkland       de            missouri

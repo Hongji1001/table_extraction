@@ -1,0 +1,11 @@
+   round  pick  overall               name position               college
+0      5     4      108        mike thomas       rb    nevada - las vegas
+1      6    17      147          mark doak       ot              nebraska
+2      9    20      228     dallas hickman       de            california
+3     11    17      277     ardell johnson       db              nebraska
+4     11    22      282  jerry hackenbruck       de          oregon state
+5     14     7      344       morris mckie       db  north carolina state
+6     14    22      359        dave benson       lb           weber state
+7     15    20      384          art kuehn        c                  ucla
+8     16    22      412     dennis pavelka        g              nebraska
+9     17    22      437        carl taylor       de         memphis state

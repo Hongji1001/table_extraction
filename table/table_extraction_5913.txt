@@ -1,0 +1,25 @@
+                        driver             constructor  laps time / retired  grid
+0           michael schumacher      benetton - renault    67    1:39:59.044     3
+1                   jean alesi                 ferrari    67        + 2.684     6
+2              david coulthard      williams - renault    67       + 35.382     1
+3           rubens barrichello        jordan - peugeot    66        + 1 lap    11
+4               johnny herbert      benetton - renault    66        + 1 lap     7
+5                 eddie irvine        jordan - peugeot    66        + 1 lap     5
+6               martin brundle  ligier - mugen - honda    66        + 1 lap    12
+7                mika häkkinen      mclaren - mercedes    65       + 2 laps     9
+8                   pedro lamy          minardi - ford    64       + 3 laps    16
+9                    mika salo        tyrrell - yamaha    64       + 3 laps    15
+10                 luca badoer          minardi - ford    64       + 3 laps    18
+11          massimiliano papis         footwork - hart    64       + 3 laps    17
+12                 pedro diniz            forti - ford    62       + 5 laps    22
+13           gabriele tarquini        tyrrell - yamaha    61       + 6 laps    19
+14       jean - denis délétraz          pacific - ford    60       + 7 laps    24
+15                  damon hill      williams - renault    58       spun off     2
+16           andrea montermini          pacific - ford    45    out of fuel    20
+17  jean - christophe boullion           sauber - ford    44      collision    13
+18              gerhard berger                 ferrari    40     electrical     4
+19              roberto moreno            forti - ford    22      halfshaft    23
+20     heinz - harald frentzen           sauber - ford    17       spun off     8
+21               olivier panis  ligier - mugen - honda    14       spun off    14
+22               mark blundell      mclaren - mercedes    14       accident    10
+23                  taki inoue         footwork - hart     0     electrical    21

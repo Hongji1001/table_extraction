@@ -1,0 +1,21 @@
+    position              team  points  played  drawn  lost  against difference
+0          1       corinthians      85      38     10     3       29         50
+1          2       santo andré      68      38     11     8       45         26
+2          3              avaí      67      38     13     7       40         31
+3          4           barueri      63      38      3    15       55          3
+4          5       ponte preta      58      38      7    14       46          8
+5          6         vila nova      58      38      7    14       55          2
+6          7        bragantino      57      38      9    13       41          6
+7          8         juventude      56      38      8    14       48          3
+8          9       são caetano      54      38     12    12       55          6
+9         10             bahia      52      38     10    14       65       - 18
+10        11            paraná      49      38      7    17       54        - 5
+11        12             ceará      49      38     13    12       50          2
+12        13               abc      48      38     12    14       57        - 2
+13        14       brasiliense      47      38      8    17       64        - 8
+14        15  américa de natal      46      38     10    16       51        - 5
+15        16         fortaleza      45      38      9    17       56          0
+16        17           marília      45      38     12    15       60       - 13
+17        18          criciúma      41      38      8    19       54       - 14
+18        19              gama      35      38      8    21       72       - 35
+19        20               crb      24      38      9    24       72       - 37

@@ -1,0 +1,48 @@
+        capital   prefecture    region          island      pop
+0         akita        akita    tōhoku          honshū   327651
+1        aomori       aomori    tōhoku          honshū   304657
+2         chiba        chiba     kantō          honshū   943568
+3         fukui        fukui     chūbu          honshū   268210
+4       fukuoka      fukuoka    kyūshū          kyūshū  1434650
+5     fukushima    fukushima    tōhoku          honshū   288602
+6          gifu         gifu     chūbu          honshū   411753
+7     hiroshima    hiroshima   chūgoku          honshū  1164885
+8     kagoshima    kagoshima    kyūshū          kyūshū   604268
+9      kanazawa     ishikawa     chūbu          honshū   455952
+10    kobe kobe        hyōgo    kansai          honshū  1532305
+11  kochi kōchi  kochi kōchi   shikoku         shikoku   345418
+12    kofu kōfu    yamanashi     chūbu          honshū   198757
+13     kumamoto     kumamoto    kyūshū          kyūshū   670014
+14        kyoto        kyoto    kansai          honshū  1468065
+15     maebashi        gunma     kantō          honshū   317167
+16       matsue      shimane   chūgoku          honshū   195008
+17    matsuyama        ehime   shikoku         shikoku   514771
+18         mito      ibaraki     kantō          honshū   263299
+19     miyazaki     miyazaki    kyūshū          kyūshū   368984
+20      morioka        iwate    tōhoku          honshū   298959
+21       nagano       nagano     chūbu          honshū   377328
+22     nagasaki     nagasaki    kyūshū          kyūshū   446551
+23       nagoya        aichi     chūbu          honshū  2243564
+24         naha      okinawa    kyūshū  ryūkyū islands   313436
+25         nara         nara    kansai          honshū   366863
+26      niigata      niigata     chūbu          honshū   811613
+27    oita ōita    oita ōita    kyūshū          kyūshū   467617
+28      okayama      okayama   chūgoku          honshū   700646
+29        osaka        osaka    kansai          honshū  2649601
+30    otsu ōtsu        shiga    kansai          honshū   330044
+31         saga         saga    kyūshū          kyūshū   239003
+32      saitama      saitama     kantō          honshū  1197471
+33      sapporo     hokkaidō  hokkaidō        hokkaidō  1896704
+34       sendai       miyagi    tōhoku          honshū  1029576
+35     shinjuku        tokyo     kantō          honshū   314262
+36     shizuoka     shizuoka     chūbu          honshū   709888
+37    takamatsu       kagawa   shikoku         shikoku   417671
+38    tokushima    tokushima   shikoku         shikoku   265248
+39      tottori      tottori   chūgoku          honshū   199319
+40       toyama       toyama     chūbu          honshū   420584
+41          tsu          mie    kansai          honshū   287849
+42   utsunomiya      tochigi     kantō          honshū   508114
+43     wakayama     wakayama    kansai          honshū   371504
+44     yamagata     yamagata    tōhoku          honshū   254724
+45    yamaguchi    yamaguchi   chūgoku          honshū   191714
+46     yokohama     kanagawa     kantō          honshū  3643641

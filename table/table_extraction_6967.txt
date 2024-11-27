@@ -1,0 +1,14 @@
+                name  league  fa cup  league cup  total
+0    hamilton ricard      12       0           2     14
+1        brian deane       9       1           0     10
+2    christian ziege       6       0           1      7
+3            juninho       4       0           1      5
+4      andy campbell       4       0           0      4
+5          paul ince       3       0           1      4
+6     gianluca festa       2       0           0      2
+7     gary pallister       1       0           0      1
+8     paul gascoigne       1       0           0      1
+9     alun armstrong       1       0           0      1
+10  robbie stockdale       1       0           0      1
+11     steve vickers       0       0           1      1
+12         own goals       2       0           0      2

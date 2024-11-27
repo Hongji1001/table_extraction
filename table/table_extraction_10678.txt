@@ -1,0 +1,12 @@
+                         dance                    best dancer (s) best score                     worst dancer (s) worst score
+0   cha - cha - cha face - off  kristi yamaguchi kristi yamaguchi      28 30           penn jillette jason taylor       16 24
+1                      foxtrot                       jason taylor         28            monica seles adam carolla          15
+2                    quickstep                       jason taylor         30                        penn jillette          17
+3                        mambo              cristián de la fuente         29                         monica seles          15
+4                         jive                   kristi yamaguchi         30                marissa jaret winokur          19
+5                        tango      jason taylor kristi yamaguchi         29  steve guttenberg adam carolla mario          21
+6               viennese waltz                       jason taylor         29                    priscilla presley          22
+7                   paso doble                   kristi yamaguchi         29                         adam carolla          19
+8                        rumba                   kristi yamaguchi         29                    priscilla presley          21
+9                        samba              cristián de la fuente         29                cristián de la fuente          21
+10                   freestyle                   kristi yamaguchi         30                cristián de la fuente          26

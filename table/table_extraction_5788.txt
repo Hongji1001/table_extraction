@@ -1,0 +1,23 @@
+                   driver             constructor  laps time / retired  grid
+0          alberto ascari                 ferrari    20      3:23:03.3     1
+1      juan manuel fangio              alfa romeo    20         + 30.5     3
+2   josé froilán gonzález                 ferrari    20       + 4:39.0     2
+3         luigi villoresi                 ferrari    20       + 5:50.2     5
+4           piero taruffi                 ferrari    20       + 7:49.1     6
+5            rudi fischer                 ferrari    19        + 1 lap     8
+6           robert manzon         simca - gordini    19        + 1 lap     9
+7            louis rosier  talbot - lago - talbot    19        + 1 lap    15
+8           pierre levegh  talbot - lago - talbot    18       + 2 laps    19
+9         jacques swaters  talbot - lago - talbot    18       + 2 laps    22
+10           johnny claes  talbot - lago - talbot    17       + 3 laps    18
+11  yves giraud cabantous  talbot - lago - talbot    17       accident    11
+12    maurice trintignant         simca - gordini    13         engine    14
+13         felice bonetto              alfa romeo    12        magneto    10
+14        duncan hamilton  talbot - lago - talbot    12   oil pressure    20
+15           paul pietsch              alfa romeo    11       accident     7
+16            andré simon         simca - gordini    11         engine    12
+17            nino farina              alfa romeo     8    overheating     4
+18     philippe étancelin  talbot - lago - talbot     4        gearbox    21
+19           louis chiron  talbot - lago - talbot     3       ignition    13
+20            toni branca                maserati     3         engine    17
+21   toulo de graffenried                maserati     2         engine    16

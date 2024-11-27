@@ -1,0 +1,8 @@
+  result         date                    race         venue group distance  weight (kg)     time      jockey          winner / 2nd
+0    won  18 aug 2001          warwick stakes  warwick farm    g2   1300 m         49.5  1:17.30  d mclellan    2nd - diamond dane
+1    won  01 sep 2001    ming dynasty quality      randwick    g3   1400 m         57.5  1:23.87     r quinn  2nd - prince of play
+2    won  15 sep 2001         heritage stakes      rosehill    lr   1200 m         55.5  1:10.28     r quinn   2nd - perfect crime
+3    won  29 sep 2001         stan fox stakes      randwick    g2   1400 m         55.0  1:24.00     r quinn    2nd - magic albert
+4    won  13 oct 2001       caulfield guineas     caulfield    g1   1600 m         55.5  1:36.70     d gauci         2nd - ustinov
+5    won  02 feb 2002  royal sovereign stakes  warwick farm    g2   1200 m         57.5  1:11.06     r quinn    2nd - viking ruler
+6    won  16 feb 2002      hobartville stakes      randwick    g2   1400 m         55.5  1:23.58     r quinn          2nd - athens

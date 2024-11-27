@@ -1,0 +1,15 @@
+                                             driver constructor  laps time / retired  grid
+0                                juan manuel fangio    maserati   100      3:00:55.9     2
+1                                        jean behra    maserati   100    + 18.3 secs     3
+2                                 carlos menditeguy    maserati    99        + 1 lap     8
+3                                      harry schell    maserati    98       + 2 laps     9
+4          alfonso de portago josé froilán gonzález     ferrari    98       + 2 laps    10
+5   cesare perdisa peter collins wolfgang von trips     ferrari    98       + 2 laps    11
+6                                        jo bonnier    maserati    95       + 5 laps    13
+7                                     stirling moss    maserati    93       + 7 laps     1
+8                              alessandro de tomaso     ferrari    91       + 9 laps    12
+9                                      luigi piotti    maserati    90      + 10 laps    14
+10                              eugenio castellotti     ferrari    75          wheel     4
+11                                    mike hawthorn     ferrari    35         clutch     7
+12                                      luigi musso     ferrari    31         clutch     6
+13                                    peter collins     ferrari    26         clutch     5

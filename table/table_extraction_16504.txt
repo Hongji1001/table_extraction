@@ -1,0 +1,16 @@
+                  school      location         mascot       county year joined        year left
+0          barr township    montgomery        vikings   14 daviess        1939       pre - 1958
+1           ellettsville  ellettsville  golden eagles    53 monroe        1939             1964
+2              loogootee     loogootee          lions    51 martin        1939             1970
+3                oolitic       oolitic       bearcats  47 lawrence        1939             1974
+4             plainville    plainville        midgets   14 daviess        1939       pre - 1958
+5                 shoals        shoals        jug rox    51 martin   1939 1962  pre - 1958 1979
+6             west baden    west baden       sprudels    59 orange        1939       pre - 1958
+7   central (switz city)    switz city         tigers    28 greene  pre - 1958             1990
+8               needmore      needmore    hilltoppers  47 lawrence  pre - 1958             1974
+9                   odon          odon       bulldogs   14 daviess  pre - 1958             1968
+10             shawswick     shawswick        farmers  47 lawrence  pre - 1958             1974
+11               spencer       spencer           cops      60 owen  pre - 1958             1970
+12           worthington   worthington       ramblers    28 greene  pre - 1958             1990
+13              edgewood  ellettsville       mustangs    53 monroe        1964             1970
+14                 l & m         marco         braves    28 greene        1968             1990

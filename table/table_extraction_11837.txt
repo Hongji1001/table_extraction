@@ -1,0 +1,8 @@
+         english              german         dutch    icelandic    latin              greek            russian
+0        english              german         dutch    icelandic    latin              greek            russian
+1          drink             trinken       drinken       drekka     bibo        πίνω (pínō)        пить (pit')
+2     leap (run)              laufen         lopen       hlaupa    curro     τρέχω (trékhō)    бегать (bègat')
+3           bone  bein (meaning leg)          been         bein       os    οστούν (ostoún)      кость (kost')
+4   wife (woman)                weib          wijf          víf     uxor        γυνή (gunḗ)       жена (zhèna)
+5          bride               braut         bruid       brúður    nupta       νύφη (núphē)  невеста (nèvèsta)
+6  (bride) groom        (bräuti) gam  (bruide) gom  (brúð) gumi  maritus  γαμπρός (gamprós)     жених (zhènix)

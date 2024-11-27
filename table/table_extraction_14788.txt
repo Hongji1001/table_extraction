@@ -1,0 +1,7 @@
+   year                           award                   category              role     result
+0  2008     variety club showbiz awards       outstanding newcomer  merlin in merlin        won
+1  2009  monte carlo tv festival awards  outstanding actor (drama)  merlin in merlin  nominated
+2  2010  monte carlo tv festival awards  outstanding actor (drama)  merlin in merlin  nominated
+3  2011  monte carlo tv festival awards  outstanding actor (drama)  merlin in merlin  nominated
+4  2012          virgin media tv awards                 best actor  merlin in merlin        won
+5  2013       national television award   drama performance : male  merlin in merlin        won

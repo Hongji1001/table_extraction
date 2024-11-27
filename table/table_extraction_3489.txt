@@ -1,0 +1,18 @@
+        week                    theme          song choice      original artist  order    result
+0   audition     auditioner 's choice            os outros           kid abelha  n / a  advanced
+1    theater               first solo     eu tive um sonho           kid abelha  n / a  advanced
+2     top 32             top 16 women             me chama                lobão      7  advanced
+3     top 12                  my idol        como eu quero           kid abelha      2  bottom 2
+4     top 10             male singers       por onde andei           nando reis      9      safe
+5      top 9  jovem pan number 1 hits        amor perfeito       claudia leitte      7      safe
+6      top 8          dedicate a song                a sua         marisa monte      7      safe
+7      top 7           female singers  agora só falta você             rita lee      1      safe
+8      top 6                    skank                tanto                skank      4  bottom 2
+9      top 5         popular classics         nem um toque               rosana      3      safe
+10     top 5         popular classics      agüenta coração         josé augusto      8      safe
+11     top 4              raul seixas        maluco beleza          raul seixas      2      safe
+12     top 4     contestant 's choice             espirais     marjorie estiano      6      safe
+13     top 3             fans' choice            os outros                leoni      1      safe
+14     top 3             fans' choice              sozinho       caetano veloso      4      safe
+15     top 2           judges' choice         devolva - me  adriana calcanhotto      1    winner
+16     top 2       best of the season       por onde andei           nando reis      3    winner

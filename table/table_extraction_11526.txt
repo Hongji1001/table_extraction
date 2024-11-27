@@ -1,0 +1,7 @@
+                club  winners  runners - up winning years runner - up years
+0  fc viktoria plzeň        1             2          2011       2010 , 2013
+1   ac sparta prague        1             0          2010                 -
+2   sk sigma olomouc        1             0          2012                 -
+3        fk jablonec        1             0          2013                 -
+4  fk mladá boleslav        0             1             -              2011
+5  fc slovan liberec        0             1             -              2012

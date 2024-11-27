@@ -1,0 +1,25 @@
+                    sport  gold  silver  bronze  total
+0               athletics    32      42      49    125
+1                 cycling    16      34      32     82
+2                swimming    13      29      35     77
+3              lawn bowls    11      10      14     35
+4           weightlifting    10      11      15     36
+5                  rowing     9      14       7     30
+6                  boxing     5       5      20     30
+7            rugby sevens     4       0       0      4
+8               wrestling     3       9      15     27
+9                  squash     3       3       2      8
+10                netball     2       2       0      4
+11             gymnastics     2       0       8     10
+12                fencing     1       2       3      6
+13                   judo     1       2       3      6
+14           table tennis     1       1       2      4
+15                archery     1       0       0      1
+16              badminton     0       2       8     10
+17                 hockey     0       2       2      4
+18              triathlon     0       2       2      4
+19             basketball     0       2       0      2
+20             water polo     0       1       0      1
+21                 diving     0       0       4      4
+22  synchronised swimming     0       0       2      2
+23                cricket     0       0       1      1

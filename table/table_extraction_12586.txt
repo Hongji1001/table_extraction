@@ -1,0 +1,16 @@
+    round  pick                               player          position  school / club team
+0       1    10                            eric hill        linebacker     louisiana state
+1       1    17                             joe wolf   offensive guard      boston college
+2       2    40                        walter reeves         tight end              auburn
+3       3    67                       mike zandofsky             guard          washington
+4       4    94                           jim wahler  defensive tackle                ucla
+5       5   123                      richard tardits        linebacker             georgia
+6       5   128                          david edeen     defensive end             wyoming
+7       6   150                           jay taylor    defensive back      san jose state
+8       7   177                         rickey royal    defensive back   sam houston state
+9       8   207                           john burch      running back  tennessee - martin
+10      9   234                      kendall trainor            kicker            arkansas
+11     10   261                         chris becker            punter     texas christian
+12     11   291                       jeffrey hunter     defensive end        albany state
+13     12   318                          todd nelson             guard           wisconsin
+14      1     2  timm rosenbach (supplemental draft)       quarterback    washington state

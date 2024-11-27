@@ -1,0 +1,29 @@
+                team        location                           venue league and position in 1991                  coach
+0          halychyna       drohobych                kranovyk stadium        soviet second league             brassikhin
+1            vorskla         poltava                 vorskla stadium        soviet second league        serhiy dotsenko
+2              kolos         nikopol                metalurh stadium      soviet second league b               vnechaev
+3              veres           rivne                avanhard stadium      soviet second league b           viktor nosov
+4          pryladyst       mukachevo  50ty - richya zhovtnya stadium      soviet second league b             vtellinher
+5            krystal         kherson                 krystal stadium      soviet second league b                 olebid
+6                ros    bila tserkva         trudovi rezervy stadium      soviet second league b           shoncharenko
+7       avtomobilist            sumy                   kolos stadium      soviet second league b       mykhailo fomenko
+8           polissya        zhytomyr       lenin 's komsomol stadium      soviet second league b                zavdysh
+9            kryvbas      kryvyi rih                metalurh stadium      soviet second league b  volodymyr stryzhevsky
+10          shakhtar       pavlohrad                shakhtar stadium      soviet second league b              akeskyula
+11             desna       chernihiv                 gagarin stadium      soviet second league b          yuriy hruznov
+12          podillya    khmelnytskyi                podillya stadium      soviet second league b             hishchenko
+13       zakarpattia        uzhhorod                avanhard stadium      soviet second league b                svoitko
+14             skala           stryi                   sokil stadium      soviet second league b              mvolkhovy
+15              stal        alchevsk                    stal stadium      soviet second league b     anatoliy volobuyev
+16            dnipro        cherkasy                 central stadium      soviet second league b          viktor zhylin
+17            khimik   severodonetsk                  khimik stadium      soviet second league b               vdobizha
+18    vahonobudivnyk       stakhanov                peremoha stadium      soviet second league b    oleksandr tkachenko
+19               ska            kyiv                     ska stadium      soviet second league b              ofeshukov
+20            chaika      sevastopol                  chaika stadium      soviet second league b         oleksiy rudyka
+21           artania         ochakiv                   sokil stadium      soviet second league b       valeriy zhuravko
+22        dynamo - 2            kyiv                  dynamo stadium  soviet top league reserves  volodymyr onyshchenko
+23      shakhtar - 2  kostyantynivka              avtosteklo stadium  soviet top league reserves           yevhen korol
+24  chornomorets - 2          odessa                     ska stadium  soviet top league reserves         vitaliy sidnev
+25           krystal        chortkiv              kharchovyk stadium  ukrainian kfk competitions        boris streltsov
+26           novator        mariupol          sport complex azovstal  ukrainian kfk competitions           yuriy kerman
+27  polihraftekhnika    oleksandriya                shakhtar stadium  ukrainian kfk competitions            yuriy koval

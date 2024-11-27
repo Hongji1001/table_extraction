@@ -1,0 +1,8 @@
+                   competition  total matches  cardiff win  draw  swansea win
+0                       league             55           19    16           20
+1                       fa cup              2            0     0            2
+2                   league cup              5            2     0            3
+3        associate members cup              4            1     1            2
+4  welsh cup / faw premier cup             36           21     8            7
+5              southern league              4            1     2            1
+6                        total            106           44    27           35

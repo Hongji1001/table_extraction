@@ -1,0 +1,8 @@
+           player  no    nationality          position  years for jazz            school / club team
+0      jim farmer  30  united states             guard       1988 - 89                       alabama
+1  derrick favors  15  united states           forward  2011 - present                  georgia tech
+2  kyrylo fesenko  44        ukraine            center       2007 - 11  cherkasy monkeys ( ukraine )
+3    derek fisher   2  united states             guard     2006 - 2007        arkansas - little rock
+4     greg foster  44  united states  center / forward       1995 - 99                          utep
+5    bernie fryer  25  united states             guard       1975 - 76                           byu
+6     todd fuller  52  united states            center       1998 - 99          north carolina state

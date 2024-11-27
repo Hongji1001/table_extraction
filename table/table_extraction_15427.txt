@@ -1,0 +1,11 @@
+   year                      theme                 artist  mintage  issue price
+0  2002    15th anniversary loonie  dora de pãdery - hunt    67672        39.95
+1  2004  jack miner bird sanctuary           susan taylor    46493        39.95
+2  2005              tufted puffin                  n / a    39818        39.95
+3  2006                  snowy owl            glen loates    39935        44.95
+4  2007             trumpeter swan          kerri burnett    40000        45.95
+5  2008               common eider            mark hobson    40000        47.95
+6  2009           great blue heron         chris jordison    40000        47.95
+7  2010           northern harrier            arnold nogy    35000        49.95
+8  2011             great gray owl            arnold nogy    35000        49.95
+9  2012    25th anniversary loonie            arnold nogy    35000        49.95

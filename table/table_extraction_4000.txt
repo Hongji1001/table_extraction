@@ -1,0 +1,26 @@
+                     name       canton  height (meters)  crest length (meters)        type  year of construction     name of the lake
+0          grande dixence       valais              285                    695     gravity                  1961          lac des dix
+1               mauvoisin       valais              250                    520        arch                  1957     lac de mauvoisin
+2                 luzzone       ticino              225                    600        arch                  1963      lago di luzzone
+3   contra (verzasca dam)       ticino              220                    380        arch                  1965      lago di vogorno
+4                 emosson       valais              180                    555        arch                  1974        lac d'emosson
+5                 zeuzier       valais              156                    256        arch                  1957      lac de tseuzier
+6            göscheneralp          uri              155                    540  embankment                  1960      göscheneralpsee
+7                 curnera   graubünden              153                    350        arch                  1966       lai de curnera
+8               zervreila   graubünden              151                    504        arch                  1957         zervreilasee
+9                   moiry       valais              148                    610        arch                  1958         lac de moiry
+10              gigerwald  st - gallen              147                    430        arch                  1976         gigerwaldsee
+11                limmern       glarus              146                    375        arch                  1963          limmerensee
+12           valle di lei   graubünden              141                    690        arch                  1961          lago di lei
+13          punt dal gall   graubünden              130                    540        arch                  1968      lago di livigno
+14                sambuco       ticino              130                    363        arch                  1956     lago del sambuco
+15                  nalps   graubünden              127                    480        arch                  1962         lai da nalps
+16           hongrin nord         vaud              125                    325        arch                  1969     lac de l'hongrin
+17                gebidem       valais              122                    327        arch                  1967           gebidemsee
+18               mattmark       valais              120                    780  embankment                  1967          mattmarksee
+19            santa maria   graubünden              117                    560        arch                  1968  lai da sontga maria
+20                albigna   graubünden              115                    759     gravity                  1959           albignasee
+21             spitallamm        berne              114                    258        arch                  1932           grimselsee
+22              cavagnoli       ticino              111                    320        arch                  1968    lago dei cavagnöö
+23                 schräh       schwyz              111                    150     gravity                  1924         wägitalersee
+24                oberaar        berne              100                    526     gravity                  1953           oberaarsee

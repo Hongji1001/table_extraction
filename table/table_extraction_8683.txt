@@ -1,0 +1,11 @@
+  call sign  frequency mhz             city of license  erp w class fcc info
+0    w294aj          106.7  charlottesville , virginia     21     d      fcc
+1    w236ad           95.1    lawrenceville , virginia     25     d      fcc
+2    w246bz           97.1            crewe , virginia     38     d      fcc
+3    w254ah           98.7        farmville , virginia     27     d      fcc
+4    w272cc          102.3       smithfield , virginia     10     d      fcc
+5    w273aa          102.5       blacksburg , virginia     10     d      fcc
+6    w274ab          102.7       petersburg , virginia     30     d      fcc
+7    w291aj          106.1          waverly , virginia     27     d      fcc
+8    w292cu          106.3   christiansburg , virginia     10     d      fcc
+9    w295ai          106.9           marion , virginia     10     d      fcc

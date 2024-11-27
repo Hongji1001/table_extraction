@@ -1,0 +1,6 @@
+                                wind farm  installed capacity (mw) turbine manufacturer           county date in service
+0  glacier wind farm i and ii (naturener)                    210.0       acciona 1.5 mw  glacier / toole     2008 - 2009
+1          rim rock wind farm (naturener)                    189.0       acciona 1.5 mw  glacier / toole            2012
+2    judith gap energy center (invenergy)                    135.0            ge 1.5 mw        wheatland            2005
+3       musselshell wind project 1 and ii                     20.0   gw 1.5 - 87 1.5 mw      musselshell            2012
+4                       gordon butte wind                      9.6            ge 1.6 mw          meagher            2012

@@ -1,0 +1,6 @@
+          region  date                        label    format     catalog
+0  united states  1958      checker / chess records        lp        1428
+1  united states  1967              checker records        lp        3004
+2  united states  1988  mca records / chess records        lp   ch - 9192
+3  united states  1988  mca records / chess records  cassette  chc - 9192
+4  united states  1988  mca records / chess records        cd  chd - 9192

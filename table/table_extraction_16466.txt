@@ -1,0 +1,10 @@
+                     school     location          mascot  enrollment ihsaa class          county
+0       edinburgh community    edinburgh         lancers         269           a      41 johnson
+1                    hauser         hope            jets         297           a  03 bartholomew
+2              indian creek    trafalgar          braves         608         aaa      41 johnson
+3                morristown   morristown  yellow jackets         231           a       73 shelby
+4             north decatur   greensburg        chargers         369          aa      16 decatur
+5             south decatur   greensburg         cougars         292           a      16 decatur
+6  southwestern shelbyville  shelbyville        spartans         218           a       73 shelby
+7            triton central     fairland          tigers         525          aa       73 shelby
+8                   waldron      waldron         mohawks         237           a       73 shelby

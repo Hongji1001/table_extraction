@@ -1,0 +1,11 @@
+       date h / a / n                opponent      score   record
+0   march 6         a          buffalo braves  109 - 120  12 - 61
+1   march 7         a         detroit pistons  104 - 100  13 - 61
+2   march 9         h      philadelphia 76ers  113 - 124  13 - 62
+3  march 12         h           atlanta hawks  107 - 119  13 - 63
+4  march 14         h       cincinnati royals  103 - 115  13 - 64
+5  march 16         h  san francisco warriors  108 - 103  14 - 64
+6  march 17         a       baltimore bullets  109 - 113  14 - 65
+7  march 20         h         detroit pistons  114 - 103  15 - 65
+8  march 21         h  portland trail blazers  110 - 113  15 - 66
+9  march 23         h  portland trail blazers  112 - 114  15 - 67

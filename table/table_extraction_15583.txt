@@ -1,0 +1,10 @@
+  constituency number        name reserved for ( sc / st / none)    district  number of electorates (2003)
+0                  43      niwari                           none   tikamgarh                        222145
+1                  44      jatara                           none   tikamgarh                        175875
+2                  45   khragapur                             sc   tikamgarh                        177909
+3                  46   tikamgarh                           none   tikamgarh                        199117
+4                  48     bijawar                           none  chhatarpur                        190634
+5                  49  chhatarpur                           none  chhatarpur                        213337
+6                  50  maharajpur                             sc  chhatarpur                        194032
+7                  51     chandla                           none  chhatarpur                        171448
+8             total :     total :                        total :     total :                       1544497

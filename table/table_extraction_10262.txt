@@ -1,0 +1,8 @@
+                       name         birth date age as of 1 february 2014 province or country of birth province of residence
+0              merle barwis   23 december 1900         113years , 40days                united states      british columbia
+1           flora thibodeau      20 march 1901        112years , 318days                new brunswick         new brunswick
+2   adéa pellerin - cormier  11 september 1901        112years , 143days                new brunswick         new brunswick
+3  colombe benoît - leclerc    5 february 1903        110years , 361days                       quebec                quebec
+4                orma slack   19 february 1903        110years , 347days                      ontario               ontario
+5                lorna best        4 july 1903        110years , 212days                     manitoba      british columbia
+6                hazel urie  28 september 1903        110years , 126days                      ontario               ontario

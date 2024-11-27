@@ -1,0 +1,21 @@
+                     driver             constructor  laps time / retired  grid
+0        juan manuel fangio              alfa romeo    70     2:46:54.10     2
+1     josé froilán gonzález                 ferrari    70        + 54.28     3
+2               nino farina              alfa romeo    70      + 1:45.54     4
+3            alberto ascari                 ferrari    68       + 2 laps     1
+4            felice bonetto              alfa romeo    68       + 2 laps     8
+5      toulo de graffenried              alfa romeo    66       + 4 laps     6
+6              louis rosier  talbot - lago - talbot    64       + 6 laps    20
+7        philippe étancelin  talbot - lago - talbot    63       + 7 laps    13
+8             robert manzon         simca - gordini    63       + 7 laps     9
+9                paco godia                maserati    60      + 10 laps    17
+10          luigi villoresi                 ferrari    48       ignition     5
+11              andré simon         simca - gordini    48         engine    10
+12             johnny claes  talbot - lago - talbot    37       accident    15
+13            piero taruffi                 ferrari    30          wheel     7
+14      maurice trintignant         simca - gordini    25         engine    11
+15         georges grignard  talbot - lago - talbot    23         engine    16
+16  yves giraud - cabantous  talbot - lago - talbot     7       accident    14
+17             louis chiron  talbot - lago - talbot     4       ignition    12
+18              prince bira         maserati - osca     1         engine    19
+19               juan jover                maserati     0         engine    18

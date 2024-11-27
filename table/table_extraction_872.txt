@@ -1,0 +1,29 @@
+   country / territory             former pageant  last competed                  new pageant  franchise since
+0              albania               miss albania           2005        miss universe albania             2006
+1                aruba                 miss aruba           2011          miss universe aruba             2012
+2            australia             miss australia           2000      miss universe australia             2004
+3              bahamas      miss universe bahamas           2009                 miss bahamas             2010
+4               brazil                miss brazil           2011         miss universo brasil             2012
+5               canada                miss canada           2001         miss universe canada             2002
+6       czech republic       miss české republiky           2004                   česká miss             2005
+7              denmark             frøken danmark           1996        miss universe denmark             2004
+8                egypt                 miss egypt           1955          miss egypt universe             1987
+9          el salvador           miss el salvador           2005  nuestra belleza el salvador             2006
+10             finland               suomen neito           1960                   miss suomi             1961
+11             germany           miss deutschland           2008        miss universe germany             2009
+12           guatemala    miss universo guatemala           2009               miss guatemala             2010
+13             hungary      miss universe hungary           2007                   a királynő             2008
+14               india                   i am she           2012            femina miss india             2013
+15               japan                 miss japan           1997          miss universe japan             1998
+16            malaysia     miss malaysia universe           2009       miss universe malaysia             2010
+17              mexico            señorita méxico           1993       nuestra belleza méxico             1994
+18         netherlands  miss universe netherlands           2009             miss netherlands             2010
+19         new zealand           miss new zealand           2003    miss universe new zealand             2006
+20              norway               frøken norge           2010         miss universe norway             2012
+21              panama            señorita panamá           2010                  miss panamá             2011
+22         philippines           miss philippines           1963         binibining pilipinas             1964
+23         puerto rico           miss puerto rico           1998    miss universe puerto rico             2009
+24             romania               miss romania           2008        miss universe romania             2009
+25               spain                miss españa           2011          miss universe spain             2012
+26           sri lanka             miss sri lanka           2004      miss sri lanka universe             2005
+27              sweden             fröken sverige           2004         miss universe sweden             2009

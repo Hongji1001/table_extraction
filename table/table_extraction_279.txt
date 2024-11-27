@@ -1,0 +1,12 @@
+              player        position                      school                hometown              college
+0         max browne     quarterback         skyline high school  sammamish , washington  southern california
+1       thomas tyner    running back           aloha high school          aloha , oregon               oregon
+2      derrick henry    running back           yulee high school         yulee , florida              alabama
+3      robert foster   wide receiver  central valley high school   monaca , pennsylvania              alabama
+4   laquon treadwell   wide receiver   crete - monee high school        crete , illinois          mississippi
+5       hunter henry       tight end             pulaski academy  little rock , arkansas             arkansas
+6         evan lisle  offensive line     centerville high school      centerville , ohio           ohio state
+7        ethan pocic  offensive line          lemont high school       lemont , illinois      louisiana state
+8         grant hill  offensive line      huntsville high school    huntsville , alabama              alabama
+9       kent perkins  offensive line  lake highlands high school          dallas , texas                texas
+10     laremy tunsil  offensive line        columbia high school     lake city , florida          mississippi

@@ -1,0 +1,9 @@
+   year          competition       venue position             event
+0  1909  world championships       turin      3rd             rings
+1  1909  world championships       turin      3rd  team all - round
+2  1911  world championships  luxembourg      1st     parallel bars
+3  1911  world championships  luxembourg      2nd      pommel horse
+4  1913  world championships       paris      1st     parallel bars
+5  1913  world championships       paris      1st      pommel horse
+6  1913  world championships       paris      1st             rings
+7  1913  world championships       paris      3rd  team all - round

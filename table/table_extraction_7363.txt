@@ -1,0 +1,15 @@
+               ship  built  entered service                                route gross tonnage length width  passengers  vessels   knots
+0         ms bastia   1974             1974  santa teresa di gallura - bonifacio            gt   75 m  13 m      400.00    100.0      18
+1       ms giraglia   1981             1981      piombino - cavo ( elba island )            gt   75 m  13 m      400.00    100.0      18
+2       ms moby ale   1969             1990              piombino - portoferraio            gt   93 m  16 m      800.00    160.0  19 , 5
+3   ms moby vincent   1974             1990                       livorno-bastia            gt  120 m  22 m        1.60    570.0  17 , 5
+4   ms moby fantasy   1976             1992                             disarmed            gt  142 m  22 m        1.20    400.0      17
+5      ms moby baby   1966             1996                piombino-portoferraio            gt  101 m  18 m        1.10    100.0      19
+6      ms moby love   1975             1998                piombino-portoferraio            gt  115 m  19 m        1.20    250.0      21
+7     ms moby lally   1974             2000                piombino-portoferraio            gt  119 m  19 m        1.15    300.0  17 , 5
+8      ms moby drea   1975             2003          livorno-olbia olbia - genoa            gt  185 m  27 m        1.90    500.0      27
+9      ms moby otta   1976             2006                          genoa-olbia            gt  185 m  27 m        1.90    500.0      27
+10    ms moby tommy   2002             2007                 civitavecchia -olbia            gt  212 m  25 m        2.20      1.0      30
+11      ms moby aki   2005             2005      livorno - olbia piombino -olbia            gt  175 m  27 m        2.20    750.0      29
+12   ms moby wonder   2001             2001                        livorno-olbia            gt  175 m  27 m        2.20    750.0      29
+13    ms moby corse   1978             2010                       genoa - bastia            gt  152 m  25 m        1.20    450.0      21

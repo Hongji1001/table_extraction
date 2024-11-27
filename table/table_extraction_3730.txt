@@ -1,0 +1,13 @@
+                    conference              regular season winner       conference player of the year                  conference tournament                         tournament venue (city) tournament winner
+0    atlantic coast conference                     north carolina  lennie rosenbluth , north carolina  1957 acc men 's basketball tournament  reynolds coliseum ( raleigh , north carolina )    north carolina
+1         big seven conference                             kansas          gary thompson , iowa state                          no tournament                                   no tournament     no tournament
+2           big ten conference           indiana & michigan state                       none selected                          no tournament                                   no tournament     no tournament
+3            border conference                      texas western                       none selected                          no tournament                                   no tournament     no tournament
+4                   ivy league                               yale                       none selected                          no tournament                                   no tournament     no tournament
+5    mid - american conference                              miami                       none selected                          no tournament                                   no tournament     no tournament
+6   missouri valley conference                        saint louis                       none selected                          no tournament                                   no tournament     no tournament
+7   mountain states conference                                byu                       none selected                          no tournament                                   no tournament     no tournament
+8       ohio valley conference  morehead state & western kentucky                       none selected                          no tournament                                   no tournament     no tournament
+9     pacific coast conference                         california                       none selected                          no tournament                                   no tournament     no tournament
+10     southeastern conference                           kentucky                       none selected                          no tournament                                   no tournament     no tournament
+11        southwest conference                 southern methodist                       none selected                          no tournament                                   no tournament     no tournament

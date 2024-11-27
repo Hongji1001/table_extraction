@@ -1,0 +1,12 @@
+            region               date                                     label        format        catalog
+0    united states     june 17 , 1997                               cargo music            cd  crgsd - 11624
+1    united states     june 17 , 1997                         cargo music / mca            cd   crgd - 11624
+2    united states     june 17 , 1997                         cargo music / mca  cd ( promo )  crg3p - 90054
+3    united states     june 17 , 1997                            grilled cheese            lp      grl - 004
+4    united states     june 17 , 1997                                       mca            cd    111 624 - 2
+5   united kingdom     june 17 , 1997                                       mca            cd    111 624 - 2
+6           europe     june 17 , 1997                                       mca            cd    111 624 - 2
+7        argentina     june 17 , 1997                 universal music argentina            cd    111 624 - 2
+8        australia     june 17 , 1997                                    rapido            cd         rap025
+9    united states  january 12 , 2010                       mightier than sword            lp         mts016
+10   united states  january 12 , 2010  geffen / universal music special markets            lp  b0013811 - 01

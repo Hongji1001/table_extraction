@@ -1,0 +1,25 @@
+                                      name   years gender          area         authority  decile  roll
+0                            akitio school   1 - 8   coed    dannevirke             state      10     7
+1                         alfredton school   1 - 8   coed     eketahuna             state       9    44
+2                          ballance school   1 - 8   coed      pahiatua             state       6    28
+3                   dannevirke high school  9 - 13   coed    dannevirke             state       4   476
+4                  dannevirke south school   1 - 8   coed    dannevirke             state       5   347
+5                         eketahuna school   1 - 8   coed     eketahuna             state       5    91
+6                         hillcrest school   1 - 8   coed      pahiatua             state       2    46
+7                        huia range school   1 - 8   coed    dannevirke             state       3   246
+8               kumeroa - hopelands school   1 - 8   coed     woodville             state       4    63
+9                            makuri school   1 - 8   coed        makuri             state       5     7
+10               mangamaire country school   1 - 8   coed    mangamaire             state       9    29
+11                     mangatainoka school   1 - 8   coed  mangatainoka             state       5    63
+12          norsewood and districts school   1 - 8   coed     norsewood             state       6   113
+13                         pahiatua school   1 - 8   coed      pahiatua             state       3   259
+14                         papatawa school   1 - 8   coed     woodville             state       7    13
+15                         pongaroa school   1 - 8   coed      pongaroa             state       6    59
+16                          ruahine school   1 - 8   coed    dannevirke             state       6   176
+17                    st anthony 's school   1 - 8   coed      pahiatua  state integrated       6   141
+18                     st joseph 's school   1 - 8   coed    dannevirke  state integrated       5   103
+19                         tararua college  9 - 13   coed      pahiatua             state       4   330
+20                 tkkm o tamaki nui a rua  1 - 13   coed    dannevirke             state       2    73
+21  totara college of accelerated learning  1 - 13   coed    dannevirke  state integrated       3    47
+22                            weber school   1 - 8   coed         weber             state       7    64
+23                        woodville school   1 - 8   coed     woodville             state       3   143

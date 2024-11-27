@@ -1,0 +1,25 @@
+                  driver        constructor  laps time / retired  grid
+0             niki lauda            ferrari    70     1:43:53.98     1
+1         jody scheckter     tyrrell - ford    70        + 19.22     9
+2       carlos reutemann     brabham - ford    70        + 41.82     6
+3      patrick depailler     tyrrell - ford    70      + 1:00.08    12
+4         clay regazzoni            ferrari    70      + 1:03.84     4
+5              tom pryce      shadow - ford    70      + 1:28.45     5
+6     emerson fittipaldi     mclaren - ford    69        + 1 lap     8
+7            carlos pace     brabham - ford    69        + 1 lap     2
+8              bob evans                brm    68       + 2 laps    20
+9            john watson     surtees - ford    68       + 2 laps    18
+10          mark donohue      penske - ford    67       + 3 laps    21
+11     wilson fittipaldi  fittipaldi - ford    67       + 3 laps    24
+12     franã§ois migault        hill - ford    57     suspension    22
+13    vittorio brambilla       march - ford    54         brakes     3
+14            jacky ickx       lotus - ford    52         brakes    16
+15       ronnie peterson       lotus - ford    36         brakes    14
+16       jacques laffite    williams - ford    18        gearbox    23
+17        lella lombardi       march - ford    18         engine    17
+18            tony brise        hill - ford    17         engine     7
+19            james hunt     hesketh - ford    15   transmission    11
+20  jean - pierre jarier      shadow - ford    13       spun off    10
+21       arturo merzario    williams - ford     2         clutch    19
+22            alan jones     hesketh - ford     1       accident    13
+23           jochen mass     mclaren - ford     0       accident    15

@@ -1,0 +1,11 @@
+                player        country  points  events  reset points
+0          tiger woods  united states   22695       6        100000
+1          kenny perry  united states   20878      22         99500
+2       phil mickelson  united states   18241      17         99250
+3  pã¡draig harrington        ireland   15555      12         99000
+4          anthony kim  united states   15178      18         98750
+5         stewart cink  united states   15126      18         98625
+6          vijay singh           fiji   15034      19         98500
+7       justin leonard  united states   12734      20         98375
+8          ryuji imada          japan   10903      19         98250
+9         geoff ogilvy      australia   10866      17         98125

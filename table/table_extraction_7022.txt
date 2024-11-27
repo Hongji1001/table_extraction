@@ -1,0 +1,11 @@
+   year           ceremony                    category              nominee     result
+0  2001  tvynovelas awards             best telenovela  abrázame muy fuerte        won
+1  2001  tvynovelas awards           best lead actress     aracely arámbula  nominated
+2  2001  tvynovelas awards             best lead actor     fernando colunga        won
+3  2001  tvynovelas awards         best female villain       nailea norvind        won
+4  2001  tvynovelas awards           best male villain          césar évora        won
+5  2001  tvynovelas awards     best supporting actress       carmen salinas  nominated
+6  2001  tvynovelas awards       best supporting actor        pablo montero        won
+7  2001  tvynovelas awards          best first actress          helena rojo        won
+8  2001  tvynovelas awards            best first actor      joaquín cordero        won
+9  2001  tvynovelas awards  best song for a telenovela         juan gabriel  nominated

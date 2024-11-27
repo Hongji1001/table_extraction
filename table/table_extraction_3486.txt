@@ -1,0 +1,19 @@
+        week                 theme             song choice   original artist  order    result
+0   audition  auditioner 's choice         bem que se quis      marisa monte  n / a  advanced
+1    theater            first solo                   n / a             n / a  n / a  advanced
+2     top 24            top 12 men           como vai você    roberto carlos      7  advanced
+3     top 12        sing your idol                beija eu      marisa monte      4      safe
+4     top 11             70s night           mania de você          rita lee     10      safe
+5     top 10           the roguish        já tive mulheres  martinho da vila      6      safe
+6      top 9    broken heart songs        tem que ser você      victor & léo      4  bottom 3
+7      top 7             80s night            você é linda    caetano veloso      2      safe
+8      top 6            cult trash         aguenta coração      josé augusto      1      safe
+9      top 5      kings of the pop         amor i love you      marisa monte      4      safe
+10     top 5      kings of the pop               your song        elton john      9      safe
+11     top 4       dedicate a song                monalisa     jorge vercilo      1      safe
+12     top 4         my soundtrack  eu sei que vou te amar         tom jobim      5      safe
+13     top 3       judge 's choice    pro dia nascer feliz            cazuza      1      safe
+14     top 3       judge 's choice                   fácil        jota quest      4      safe
+15     top 3       judge 's choice                o portão    roberto carlos      7      safe
+16     top 2    winner 's single 1             nova paixão      saulo roston      1    winner
+17     top 2    best of the season               your song        elton john      3    winner

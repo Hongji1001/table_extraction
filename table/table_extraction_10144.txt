@@ -1,0 +1,7 @@
+   round  pick         player       position         school
+0      1     7   champ bailey     cornerback        georgia
+1      2    37     jon jansen         tackle       michigan
+2      4   107   nate stimson     linebacker   georgia tech
+3      5   165    derek smith         tackle  virginia tech
+4      6   181      jeff hall         kicker      tennessee
+5      7   217  tim alexander  wide receiver   oregon state

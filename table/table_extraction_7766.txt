@@ -1,0 +1,16 @@
+   sydney melbourne perth adelaide         gold coast auckland
+0     yes       yes   yes      yes                yes      yes
+1     yes       yes   yes      yes                yes       no
+2     yes       yes    no       no                yes      yes
+3     yes       yes    no       no                yes       no
+4     yes       yes   yes      yes                 no      yes
+5     yes       yes   yes       no                yes       no
+6     yes       yes    no      yes                 no       no
+7     yes       yes    no      yes                yes       no
+8     yes        no   yes      yes                yes       no
+9     yes        no    no       no                yes       no
+10    yes        no    no      yes                 no       no
+11    yes       yes    no       no                 no       no
+12     no       yes   yes       no  noound : ccc ,|no        s
+13    yes        no    no       no                 no       no
+14     no        no    no       no                 no      yes

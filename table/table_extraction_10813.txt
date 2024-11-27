@@ -1,0 +1,16 @@
+    round  pick  overall            name          position
+0       1     9        9      bubba bean      running back
+1       2     8       36   sonny collins      running back
+2       3    11       71      dave scott             guard
+3       4    10      102      walt brett     defensive end
+4       6    13      169     stan varner  defensive tackle
+5       7    11      193     karl farmer     wide receiver
+6       8    10      219      frank reed        washington
+7       9     9      246  phil mckinnely  offensive tackle
+8      11    11      302   chuck brislin  offensive tackle
+9      12    10      329      pat bolton            kicker
+10     13     9      356   mike williams  offensive tackle
+11     14     8      383   mark husfloen     defensive end
+12     15    11      414       ron olson    defensive back
+13     16    10      441       pat curto        linebacker
+14     17     9      468      tony green    defensive back

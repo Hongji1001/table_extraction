@@ -1,0 +1,27 @@
+                driver               constructor  laps  time / retired  grid
+0      elio de angelis           lotus - renault    60     1:34:35.955     3
+1      thierry boutsen              arrows - bmw    59         + 1 lap     5
+2       patrick tambay                   renault    59         + 1 lap    11
+3           niki lauda             mclaren - tag    59         + 1 lap     8
+4        nigel mansell          williams - honda    58        + 2 laps     7
+5     stefan johansson                   ferrari    57     out of fuel    15
+6         ayrton senna           lotus - renault    57     out of fuel     1
+7        nelson piquet             brabham - bmw    57     out of fuel     9
+8       martin brundle            tyrrell - ford    56     out of fuel    25
+9        derek warwick                   renault    56     out of fuel    14
+10         alain prost             mclaren - tag    60    disqualified     6
+11       eddie cheever                alfa romeo    50          engine    12
+12  piercarlo ghinzani       osella - alfa romeo    46  not classified    22
+13    michele alboreto                   ferrari    29      electrical     4
+14  manfred winkelhock                ram - hart    27          engine    23
+15     philippe alliot                ram - hart    24          engine    21
+16        keke rosberg          williams - honda    23          brakes     2
+17     jacques laffite          ligier - renault    22           turbo    16
+18   pierluigi martini  minardi - motori moderni    14           turbo    19
+19   andrea de cesaris          ligier - renault    11        spun off    13
+20         mauro baldi             spirit - hart     9      electrical    26
+21  franã§ois hesnault             brabham - bmw     5          engine    20
+22       stefan bellof            tyrrell - ford     5          engine    24
+23      gerhard berger              arrows - bmw     4          engine    10
+24    riccardo patrese                alfa romeo     4          engine    18
+25     jonathan palmer                  zakspeed     0     non starter    17

@@ -1,0 +1,11 @@
+   subject proximity honor               singular          plural
+0        1         1     1              amar (my)    amader (our)
+1        2         2    vf             tor (your)    toder (your)
+2        2         2     f           tomar (your)  tomader (your)
+3        2         2     p           apnar (your)  apnader (your)
+4        3         h     f   er (his / her / its)    eder (their)
+5        3         h     p   ẽr (his / her / its)    ẽder (their)
+6        3         t     f   or (his / her / its)    oder (their)
+7        3         t     p   õr (his / her / its)    őder (their)
+8        3         e     f  tar (his / her / its)   tader (their)
+9        3         e     p  tãr (his / her / its)   tãder (their)

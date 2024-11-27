@@ -1,0 +1,37 @@
+    year               actor                                         award                         series     result
+0   1969     diahann carroll                         best tv star - female                          julia        won
+1   1970     diahann carroll       best actress - musical or comedy series                          julia  nominated
+2   1970     denise nicholas                   best actress - drama series                       room 222  nominated
+3   1971     denise nicholas                   best actress - drama series                       room 222  nominated
+4   1971         gail fisher                       best supporting actress                         mannix        won
+5   1972         gail fisher                       best supporting actress                         mannix  nominated
+6   1972     denise nicholas                   best actress - drama series                       room 222  nominated
+7   1973         gail fisher                   best actress - drama series                         mannix        won
+8   1974         gail fisher                       best supporting actress                         mannix  nominated
+9   1975       teresa graves                   best actress - drama series             get christie love!  nominated
+10  1975        esther rolle       best actress - musical or comedy series                     good times  nominated
+11  1977      isabel sanford       best actress - musical or comedy series                 the jeffersons  nominated
+12  1978      isabel sanford       best actress - musical or comedy series                 the jeffersons  nominated
+13  1978       leslie uggams                   best actress - drama series                          roots  nominated
+14  1983        debbie allen       best actress - musical or comedy series                           fame  nominated
+15  1983         nell carter       best actress - musical or comedy series                 gimme a break!  nominated
+16  1983      isabel sanford       best actress - musical or comedy series                 the jeffersons  nominated
+17  1984      isabel sanford       best actress - musical or comedy series                 the jeffersons  nominated
+18  1984        debbie allen       best actress - musical or comedy series                           fame  nominated
+19  1985        debbie allen       best actress - musical or comedy series                           fame        won
+20  1985         nell carter       best actress - musical or comedy series                 gimme a break!  nominated
+21  1985      isabel sanford       best actress - musical or comedy series                 the jeffersons  nominated
+22  1985         marla gibbs                       best supporting actress                 the jeffersons  nominated
+23  1989              jackée                       best supporting actress                            227  nominated
+24  1992      lynn whitfield  best actress - miniseries or television film      the josephine baker story  nominated
+25  1993       regina taylor                   best actress - drama series                  i'll fly away        won
+26  1995          diana ross  best actress - miniseries or television film                out of darkness  nominated
+27  1998         della reese                       best supporting actress            touched by an angel  nominated
+28  1998       gloria reuben                       best supporting actress                             er  nominated
+29  1998       alfre woodard  best actress - miniseries or television film               miss evers' boys        won
+30  2000         halle berry  best actress - miniseries or television film  introducing dorothy dandridge        won
+31  2001       alfre woodard  best actress - miniseries or television film                  holiday heart  nominated
+32  2006         halle berry  best actress - miniseries or television film   their eyes were watching god  nominated
+33  2006  s epatha merkerson  best actress - miniseries or television film               lackawanna blues        won
+34  2007      sophie okonedo  best actress - miniseries or television film        tsunami : the aftermath  nominated
+35  2008       queen latifah  best actress - miniseries or television film                   life support        won

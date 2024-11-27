@@ -1,0 +1,21 @@
+                 team                manager         captain       kit maker                shirt sponsor
+0             arsenal          arsène wenger  william gallas            nike                     emirates
+1         aston villa         martin o'neill    gareth barry            nike                        32red
+2     birmingham city           alex mcleish  damien johnson           umbro              f&c investments
+3    blackburn rovers            mark hughes     ryan nelsen           umbro                       bet 24
+4    bolton wanderers            gary megson    kevin davies          reebok                       reebok
+5             chelsea            avram grant      john terry          adidas               samsung mobile
+6        derby county            paul jewell   robbie savage          adidas  derbyshire building society
+7             everton            david moyes    phil neville           umbro                   chang beer
+8              fulham            roy hodgson   brian mcbride            nike                           lg
+9           liverpool         rafael benítez  steven gerrard          adidas                    carlsberg
+10    manchester city  sven - goran eriksson   richard dunne  le coq sportif               thomas cookcom
+11  manchester united      sir alex ferguson    gary neville            nike                          aig
+12      middlesbrough       gareth southgate  george boateng           erreà                       garmin
+13   newcastle united           kevin keegan      nicky butt          adidas                northern rock
+14         portsmouth         harry redknapp    sol campbell      canterbury                          oki
+15            reading          steve coppell    graeme murty            puma                      kyocera
+16         sunderland              roy keane  dean whitehead           umbro               boylesportscom
+17  tottenham hotspur           juande ramos     ledley king            puma               mansion casino
+18    west ham united        alan curbishley     lucas neill           umbro                   xl airways
+19     wigan athletic            steve bruce  mario melchiot           umbro                   jjb sports

@@ -1,0 +1,26 @@
+                             riding              candidate 's name gender    residence             occupation  votes rank
+0                    ajax-pickering                  kevin p norng      m    claremont             contractor    398  5th
+1                             brant                 john geza gots      m   port dover                retired    371  5th
+2             bruce-grey-owen sound                      joel kidd      m      ravenna           technologist    599  5th
+3                   don valley east            alexandre kovalenko      m      toronto    construction worker    266  5th
+4                            durham                  henry zekveld      m  bowmanville                 farmer    577  5th
+5            elgin-middlesex-london            carl david hiemstra      m       aylmer                 farmer    619  5th
+6                 haldimand-norfolk                steven elgersma      m    dunnville                retired    501  6th
+7   haliburton-kawartha lakes-brock                  david switzer      m   haliburton                retired    374  5th
+8                            halton                 tony rodrigues      m       milton             bus driver    337  5th
+9                       huron-bruce                    dave joslin      m     brussels                 welder    747  5th
+10           lambton-kent-middlesex               michael janssens      m    strathroy      financial advisor    663  5th
+11                  london-fanshawe           leonard vanderhoeven      m    woodstock               engineer    276  5th
+12                      london west                 leslie bartley      f    woodstock        self - employed    253  6th
+13                 newmarket-aurora                       ray luff      m    newmarket             consultant    205  6th
+14           niagara west-glanbrook                 david w bylsma      m      st anns        cabinet - maker   1118  5th
+15                           oshawa                    peter vogel      m        orono                student    246  5th
+16                           oxford                shaun macdonald      m    woodstock                student   1036  5th
+17               parkdale-high park               andrew borkowski      m      toronto             pharmacist    230  5th
+18                 perth-wellington                   irma devries      f    harriston                 farmer    898  5th
+19       pickering-scarborough east                      rick chue      m    claremont    construction worker    191  5th
+20                   sarnia-lambton  christopher desormeaux - malm      m      chatham  factory line operator    545  5th
+21                      simcoe-grey              peter vander zaag      m     alliston     farmer / scientist   1018  5th
+22          wellington-halton hills              jeffrey streutker      m   georgetown          it specialist    414  5th
+23                    whitby-oshawa                  yvonne forbes      f         ajax    mortgage consultant    395  5th
+24                      york-simcoe                     vicki gunn      f       sharon     executive director    444  6th

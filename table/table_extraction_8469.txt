@@ -1,0 +1,19 @@
+   place            player        country  score to par
+0      1       vijay singh           fiji     67    - 5
+1      2     rocco mediate  united states     68    - 4
+2      3  arron oberholser  united states     69    - 3
+3     t4         tim clark   south africa     70    - 2
+4     t4     retief goosen   south africa     70    - 2
+5     t4    phil mickelson  united states     70    - 2
+6     t4      geoff ogilvy      australia     70    - 2
+7     t8    stuart appleby      australia     71    - 1
+8     t8         rich beem  united states     71    - 1
+9     t8     chad campbell  united states     71    - 1
+10    t8      fred couples  united states     71    - 1
+11    t8      ben crenshaw  united states     71    - 1
+12    t8        ben curtis  united states     71    - 1
+13    t8         ernie els   south africa     71    - 1
+14    t8      david howell        england     71    - 1
+15    t8     billy mayfair  united states     71    - 1
+16    t8       nick o'hern      australia     71    - 1
+17    t8         mike weir         canada     71    - 1

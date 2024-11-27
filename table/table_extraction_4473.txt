@@ -1,0 +1,25 @@
+         city      country iata  icao                                   airport
+0     bangkok     thailand  bkk  vtbs                      suvarnabhumi airport
+1     beijing        china  pek  zbaa     beijing capital international airport
+2    changsha        china  csx  zgha   changsha huanghua international airport
+3     chengdu        china  ctu  zuuu   chengdu shuangliu international airport
+4   chongqing        china  ckg  zuck  chongqing jiangbei international airport
+5    hangzhou        china  hgh  zshc   hangzhou xiaoshan international airport
+6       hefei        china  hfe  zsof       hefei luogang international airport
+7   kaohsiung       taiwan  khh  rckh           kaohsiung international airport
+8       macau        macau  mfm  vmmc               macau international airport
+9     nanjing        china  nkg  zsnj       nanjing lukou international airport
+10    nanning        china  nng  zgnn        nanning wuxu international airport
+11     ningbo        china  ngb  zsnb        ningbo lishe international airport
+12      osaka        japan  kix  rjbb              kansai international airport
+13      seoul  south korea  icn  rksi             incheon international airport
+14   shanghai        china  sha  zsss   shanghai hongqiao international airport
+15   shanghai        china  pvg  zspd     shanghai pudong international airport
+16   shenyang        china  she  zytx    shenyang taoxian international airport
+17   shenzhen        china  szx  zgsz     shenzhen bao'an international airport
+18  singapore    singapore  sin  wsss                  singapore changi airport
+19     taipei       taiwan  tpe  rctp      taiwan taoyuan international airport
+20    taiyuan        china  tyn  zbyn                      taiyuan wusu airport
+21      tokyo        japan  nrt  rjaa              narita international airport
+22     xiamen        china  xmn  zsam        xiamen gaoqi international airport
+23    wenzhou        china  wnz  zswz   wenzhou yongqiang international airport

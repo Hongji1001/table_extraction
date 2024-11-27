@@ -1,0 +1,25 @@
+                      model                manufacturer  weight (kg)  display size (in)                                        processor model storage type
+0                 eeepc 4 g                        asus         0.99                7.0                                        intel celeron m          ssd
+1                 eeepc 900                        asus         0.92                8.9                                        intel celeron m          ssd
+2    hp 2133 mini - note pc                          hp         1.19                8.9                                         via c7 - m ulv      ssd hdd
+3              flybook v33i         dialogue technology         1.20                8.9                                              pentium m          hdd
+4              flybook a33i         dialogue technology         1.20                8.9                                       transmeta crusoe          hdd
+5                   lg p100                          lg         1.30               10.6                                         core 2 duo ulv          hdd
+6            lifebook p1510                     fujitsu         0.90                8.9                                              pentium m          hdd
+7            lifebook p1610                     fujitsu         1.00                8.9                                    core solo ulv u1400          hdd
+8            lifebook p1620                     fujitsu         1.00                8.9                                   core 2 duo ulv u7600          hdd
+9          samsung series 3                     samsung         1.21               11.6                                  amd e - 350 , e - 450          hdd
+10             panasonic r4                   panasonic         0.90               10.4                                              pentium m          hdd
+11             panasonic r9                   panasonic         0.93               10.4  intel core i7 - 640um vpro intel core i7 - 620um vpro      ssd hdd
+12     vaio pcg - x505 / cp                        sony         0.78               10.4                                              pentium m          hdd
+13        vaio pcg - tr1 mp                        sony         1.50               10.6                                                pentium          hdd
+14            vaio pcg - u3                        sony         0.82                6.4                                               tms 5800          hdd
+15            vaio vgn - tz                        sony         1.20               11.1                           core 2 duo ulv u7600 / u7700    ssd , dvd
+16            vaio vgn - tz                        sony         1.20               11.1                           core 2 duo ulv u7600 / u7700    hdd , dvd
+17           vaio vgn - tx2                        sony         1.20               11.1                                      pentium m ulv 773    ssd , dvd
+18           vaio vgn - tx2                        sony         1.20               11.1                                      pentium m ulv 773    hdd , dvd
+19  versapro vy10f / bh - l                         nec         1.30               12.0                                          pentium m ulv          hdd
+20                     u200  micro - star international         1.30               12.1                               intel core 2 solo su3500          hdd
+21                     x340  micro - star international         1.30               13.3                                 intel core 2 duo u7600          hdd
+22                     x370  micro - star international         1.40               13.3                                            amd e - 450          hdd
+23                      s30  micro - star international         1.40               13.3                                          intel core i3    hdd + ssd

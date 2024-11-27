@@ -1,0 +1,21 @@
+                  driver         constructor  laps time / retired  grid
+0     rubens barrichello             ferrari    53    1:16:19.982     4
+1     michael schumacher             ferrari    53        + 0.255     2
+2           eddie irvine   jaguar - cosworth    53       + 52.579     5
+3           jarno trulli             renault    53       + 58.219    11
+4          jenson button             renault    53     + 1:07.770    17
+5          olivier panis         bar - honda    53     + 1:08.491    16
+6        david coulthard  mclaren - mercedes    53     + 1:09.047     7
+7   giancarlo fisichella      jordan - honda    53     + 1:10.891    12
+8     jacques villeneuve         bar - honda    53     + 1:21.068     9
+9          nick heidfeld   sauber - petronas    53     + 1:22.046    15
+10             mika salo              toyota    52        + 1 lap    10
+11           takuma sato      jordan - honda    52        + 1 lap    18
+12            alex yoong  minardi - asiatech    47       + 6 laps    20
+13    juan pablo montoya      williams - bmw    33        chassis     1
+14        kimi räikkönen  mclaren - mercedes    29         engine     6
+15           mark webber  minardi - asiatech    20         engine    19
+16          felipe massa   sauber - petronas    16      collision    14
+17      pedro de la rosa   jaguar - cosworth    15      collision     8
+18          allan mcnish              toyota    12     suspension    13
+19       ralf schumacher      williams - bmw     4         engine     3

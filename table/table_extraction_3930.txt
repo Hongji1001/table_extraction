@@ -1,0 +1,16 @@
+                     name  number         position  height  weight       year                hometown          last school / college
+0           marcus capers       0            guard   6 - 4     185     junior       winter haven , fl                 montverde acad
+1           klay thompson       1            guard   6 - 6     202     junior       ladera ranch , ca    santa margarita catholic hs
+2               mike ladd       2            guard   6 - 5     190     junior            seattle , wa                   fresno state
+3            reggie moore       3            guard   6 - 1     180  sophomore            seattle , wa                  brewster acad
+4            will diiorio       5            guard   6 - 5     188   freshman  bainbridge island , wa                  bainbridge hs
+5             faisal aden      11            guard   6 - 4     185     junior          san diego , ca                hillsborough cc
+6             brock motum      12          forward  6 - 10     230  sophomore          brisbane , aus  australian institute of sport
+7        steven bjornstad      13           center  6 - 11     240  sophomore          vancouver , wa              columbia river hs
+8          chris mcnamara      15           center  6 - 10     277     junior             leeds , eng                    bellevue cc
+9              ben loewen      22            guard   6 - 0     172  rs junior            spokane , wa                      whitworth
+10         deangelo casto      23          forward   6 - 8     255     junior            spokane , wa               joel e ferris hs
+11  dexter kernich - drew      24            guard   6 - 6     180   freshman         melbourne , aus              caulfield grammar
+12          andre winston      25            guard   6 - 1     166   freshman           lakewood , wa                       lakes hs
+13            abe lodwick      31  guard / forward   6 - 7     208  rs junior               bend , or               mountain view hs
+14        charlie enquist      40          forward  6 - 10     235  rs junior            edmonds , wa                     king 's hs

@@ -1,0 +1,9 @@
+   round  pick  overall               name       position                 college
+0      1    22       22    desmond trufant     cornerback              washington
+1      2    28       60      robert alford     cornerback  southeastern louisiana
+2      4    30      127  malliciah goodman  defensive end                 clemson
+3      4    36      133     levine toilolo      tight end                stanford
+4      5    20      153    stansly maponga  defensive end                     tcu
+5      7    37      243      kemal ishmael         safety         central florida
+6      7    38      244         zeke motta         safety              notre dame
+7      7    43      249       sean renfree    quarterback                    duke

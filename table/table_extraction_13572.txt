@@ -1,0 +1,11 @@
+  place         player        country          score to par
+0     1    gary player   south africa  67 + 70 = 137    - 5
+1     2    jim colbert  united states  70 + 68 = 138    - 4
+2    t3  jack nicklaus  united states  71 + 69 = 140    - 2
+3    t3  johnny miller  united states  71 + 69 = 140    - 2
+4    t3    bob charles    new zealand  71 + 69 = 140    - 2
+5    t6     gene borek  united states  77 + 65 = 142      e
+6    t6   julius boros  united states  73 + 69 = 142      e
+7    t6   tom weiskopf  united states  73 + 69 = 142      e
+8    t6  arnold palmer  united states  71 + 71 = 142      e
+9    t6    lee trevino  united states  70 + 72 = 142      e

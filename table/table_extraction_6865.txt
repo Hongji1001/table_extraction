@@ -1,0 +1,7 @@
+          date            venue         opposition  score competition
+0  24 mar 1990       roker park       west ham utd  4 - 3  division 2
+1  31 mar 1990    valley parade      bradford city  1 - 0  division 2
+2   8 sep 1990  stamford bridge         chelsea fc  2 - 3  division 1
+3  30 mar 1991       roker park  crystal palace fc  2 - 1  division 1
+4  28 sep 1991    ayresome park   middlesbrough fc  1 - 2  division 2
+5  19 oct 1991        vale park       port vale fc  3 - 3  division 2

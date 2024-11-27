@@ -1,0 +1,8 @@
+            member   electorate     province mps term election date
+0    alfred creyke         avon   canterbury    first        1 1861
+1   frederick weld      cheviot   canterbury    third        1 1861
+2  andrew richmond  collingwood       nelson    first        4 1861
+3    isaac cookson      kaiapoi   canterbury   second        7 1861
+4   herbert curtis      motueka       nelson   second        5 1861
+5      william fox    rangitiki   wellington   second        4 1861
+6  alfred saunders       waimea  marlborough    first        1 1861

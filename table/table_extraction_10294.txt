@@ -1,0 +1,31 @@
+    pick               player                   team position                                         school
+0      1            joe mauer        minnesota twins        c       st paul , mn ( cretin - derham hall hs )
+1      2           mark prior           chicago cubs      rhp              university of southern california
+2      3      dewon brazelton   tampa bay devil rays      rhp              middle tennessee state university
+3      4          gavin floyd  philadelphia phillies      rhp  baltimore , md ( mount saint joseph college )
+4      5        mark teixeira          texas rangers       3b                                   georgia tech
+5      6            josh karp         montreal expos      rhp                       university of california
+6      7          chris smith      baltimore orioles      lhp                          cumberland university
+7      8  john van benschoten     pittsburgh pirates      rhp                          kent state university
+8      9         colt griffin     kansas city royals      rhp                                  marshall , tx
+9     10          chris burke         houston astros       ss                        university of tennessee
+10    11          kenny baugh         detroit tigers      rhp                                rice university
+11    12           mike jones      milwaukee brewers      rhp                                   phoenix , az
+12    13       casey kotchman         anaheim angels       1b                                  seminole , fl
+13    14        jake gautreau       san diego padres  1b - 3b                              tulane university
+14    15           gabe gross      toronto blue jays       lf                              auburn university
+15    16           kris honel      chicago white sox      rhp    bourbonnais , il ( providence catholic hs )
+16    17           dan denham      cleveland indians      rhp                                   antioch , ca
+17    18        aaron heilman          new york mets      rhp                       university of notre dame
+18    19        mike fontenot      baltimore orioles       2b                     louisiana state university
+19    20        jeremy sowers        cincinnati reds      lhp                                louisville , ky
+20    21       brad hennessey   san francisco giants      rhp                    youngstown state university
+21    22         jason bulger   arizona diamondbacks      rhp                      valdosta state university
+22    23  john - ford griffin       new york yankees       rf                       florida state university
+23    24        macay mcbride         atlanta braves      lhp                                  sylvania , ga
+24    25         bobby crosby      oakland athletics       ss                               long beach state
+25    26     jeremy bonderman      oakland athletics      rhp                                     pasco , wa
+26    27        william horne      cleveland indians      rhp                                  marianna , fl
+27    28          justin pope     st louis cardinals      rhp                  university of central florida
+28    29          josh burrus         atlanta braves       ss                                  marietta , ga
+29    30           noah lowry   san francisco giants      lhp                          pepperdine university

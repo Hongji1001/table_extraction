@@ -1,0 +1,15 @@
+         music library  year  media type        name of the media                          composition name          composer               genre
+0        heart of asia  1998       album        are you shpongled                   divine moments of truth          shpongle  psychedelic trance
+1        heart of asia  2000  video game                diablo ii                                     harem       matt uelmen        experimental
+2   symphony of voices  2000  video game                diablo ii                                   various       matt uelmen        experimental
+3   symphony of voices  2001      single                    n / a                                     sonne         rammstein    industrial metal
+4        heart of asia  2002       album        angel tears vol 3                                     ishka       angel tears        goa chillout
+5        heart of asia  2002       album                  cura me                                   cura me            signum              trance
+6        heart of asia  2003       album              blumenkraft                         splitting an atom               ott                 dub
+7        heart of asia  2002       album                  just be                        a tear in the open         dj tiesto              trance
+8        heart of asia  2005       album  ur / a tear in the open  a tear in the open ( leama & moor remix)         dj tiesto              trance
+9        heart of asia  2005       album                fairydust                              ailein duinn   trobar de morte             neofolk
+10       heart of asia  2006       album           hall of dreams                            hall of dreams          en voice   ambient enigmatic
+11       heart of asia  2008       album        lost space device                                      anna   spectrum vision            psybient
+12       heart of asia  2010       album     what dreams may come                              ailein duinn  wine and alchemy               world
+13       heart of asia  2006  video game     tomb raider : legend                                main theme    troels folmann          electronic

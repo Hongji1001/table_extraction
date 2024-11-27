@@ -1,0 +1,9 @@
+       district              incumbent       party  first elected                               result
+0  california 1  william f englebright  republican           1906   lost re - election democratic gain
+1  california 2      duncan e mckinlay  republican           1904  defeated in primary republican hold
+2  california 3      joseph r knowland  republican           1904                         re - elected
+3  california 4            julius kahn  republican           1898                         re - elected
+4  california 5         everis a hayes  republican           1904                         re - elected
+5  california 6        james c needham  republican           1898                         re - elected
+6  california 7        james mclachlan  republican           1900  defeated in primary republican hold
+7  california 8      sylvester c smith  republican           1904                         re - elected

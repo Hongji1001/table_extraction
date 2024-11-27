@@ -1,0 +1,21 @@
+   finished  post               horse           jockey         trainer  odds
+0       1st     7        street sense     calvin borel    carl nafzger   4.9
+1       2nd     8           hard spun       mario pino     larry jones  10.0
+2       3rd     2              curlin   robby albarado  steve asmussen   5.0
+3       4th     5  imawildandcrazyguy      mark guidry  william kaplan  28.9
+4       5th     1          sedgefield  julien leparoux          miller  58.6
+5       6th    16       circular quay   john velazquez   todd pletcher  11.4
+6       7th    15               tiago            smith       shirreffs  14.8
+7       8th    18  any given saturday            gomez        pletcher  13.6
+8       9th    13               sam p        dominguez        pletcher  43.7
+9      10th    12   nobiz like shobiz        velasqusz            tagg  10.4
+10     11th    19           dominican         bejarano          miller  24.9
+11     12th     3             zanjero       bridgmohan        asmussen  36.0
+12     13th    20        great hunter         nakatani         o'neill  25.3
+13     14th     9           liquidity           flores         o'neill  40.0
+14     15th    11          bwana bull       castellano    hollendorfer  50.3
+15     16th     4        storm in may            leyva          kaplan  27.2
+16     17th    10         teuflesberg           elliot         sanders  51.9
+17     18th    14          scat daddy            prado        pletcher   7.2
+18     19th    17           stormello       desormeaux          currin  44.8
+19     20th     6         cowtown cat             jara        pletcher  19.8

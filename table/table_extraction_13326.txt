@@ -1,0 +1,7 @@
+   round              player    position    nationality              college / junior / club team (league)
+0      1        joe colborne      center         canada    camrose kodiaks ( ajhl ) / university of denver
+1      2        maxime sauve      center         france                         val d'or foreurs ( qmjhl )
+2      3  michael hutchinson  goaltender         canada                               barrie colts ( ohl )
+3      4        jamie arniel      center         canada                                 sarnia sting (ohl)
+4      6   nicholas tremblay      center         canada  smiths falls bears ( cjhl ) / clarkson university
+5      7         mark goggin      center  united states                      choate - rosemary (high - ct)

@@ -1,0 +1,14 @@
+   analog channel     digital channel   call sign               name                          network
+0            none                 4.1   kxjb - tv                kx4                              cbs
+1            none   6.1 ( atsc rf 21)   wday - tv             wday 6                              abc
+2            none                 6.2   wday - tv           fargo cw                           the cw
+3            none                 6.3   wday - tv      storm tracker                          weather
+4            none  11.1 ( atsc rf 44)   kvly - tv         kvly tv 11                              nbc
+5            none  11.2 ( atsc rf 44)  kvly - tv2            this tv                          this tv
+6            none  13.1 ( atsc rf 13)        kfme     prairie public                              pbs
+7            none                13.2        kfme              world                        pbs world
+8            none                13.3        kfme  minnesota channel                minnesota channel
+9            none                13.4        kfme  lifelong learning                           create
+10           none  15.1 ( atsc rf 19)        kvrr                fox                              fox
+11             33                none   kvnj - lp            my kcpm  mynetworktv ( kcpm translator )
+12             35                none       k35ho                tbn                              tbn

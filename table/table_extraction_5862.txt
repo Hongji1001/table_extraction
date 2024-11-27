@@ -1,0 +1,26 @@
+                    driver          constructor  laps time / retired  grid
+0              denny hulme       mclaren - ford    53     1:41:02.01    10
+1               niki lauda              ferrari    53         + 9.27     8
+2           clay regazzoni              ferrari    53        + 20.41     2
+3            mike hailwood       mclaren - ford    53        + 31.79     9
+4   jean - pierre beltoise                  brm    53        + 51.84    14
+5        patrick depailler       tyrrell - ford    53      + 1:52.48    15
+6         carlos reutemann       brabham - ford    52    out of fuel     6
+7            howden ganley         march - ford    52    out of fuel    19
+8          henri pescarolo                  brm    52        + 1 lap    21
+9       emerson fittipaldi       mclaren - ford    52        + 1 lap     3
+10             guy edwards          lola - ford    51       + 2 laps    25
+11             john watson       brabham - ford    49       + 4 laps    20
+12         ronnie peterson         lotus - ford    48       + 5 laps     1
+13             graham hill          lola - ford    45         engine    17
+14              jacky ickx         lotus - ford    36         clutch     7
+15         richard robarts       brabham - ford    36        gearbox    22
+16      hans joachim stuck         march - ford    31         clutch    23
+17       franã§ois migault                  brm    31     water leak    24
+18          jody scheckter       tyrrell - ford    25         engine    12
+19             carlos pace       surtees - ford    21     suspension    11
+20         arturo merzario  iso marlboro - ford    19    overheating    13
+21              james hunt         march - ford    11    overheating     5
+22             jochen mass       surtees - ford    10         engine    18
+23            peter revson        shadow - ford     1       accident     4
+24    jean - pierre jarier        shadow - ford     0       accident    16

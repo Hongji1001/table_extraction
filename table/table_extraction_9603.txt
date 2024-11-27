@@ -1,0 +1,7 @@
+       event         round result          opponent    score
+0  flyweight         first    bye               bye      bye
+1  flyweight        second    win   igor samoilenco  30 - 20
+2  flyweight         third    win    nikoloz izoria  26 - 17
+3  flyweight  quarterfinal    win     anvar yunusov   15 - 9
+4  flyweight     semifinal    win  rau 'shee warren  16 - 15
+5  flyweight         final    win     andry laffita  33 - 22

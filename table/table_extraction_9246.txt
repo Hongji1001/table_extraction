@@ -1,0 +1,8 @@
+           district              incumbent       party   first elected                   result
+0  south carolina 1  george swinton legarã  democratic            1902             re - elected
+1  south carolina 2         george w croft  democratic            1902  retired democratic hold
+2  south carolina 3            wyatt aiken  democratic            1902             re - elected
+3  south carolina 4       joseph t johnson  democratic            1900             re - elected
+4  south carolina 5         david e finley  democratic            1898             re - elected
+5  south carolina 6   robert b scarborough  democratic            1900  retired democratic hold
+6  south carolina 7         asbury f lever  democratic  1901 (special)             re - elected

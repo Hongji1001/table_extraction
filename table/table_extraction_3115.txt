@@ -1,0 +1,21 @@
+   countries and territories conditions of access length of stay permitted fee (if applicable) access using a croatian identity card
+0             european union          visa - free      freedom of movement               n / a                                   yes
+1                    albania          visa - free                  90 days               n / a                                   yes
+2                    andorra          visa - free                  90 days               n / a                                   yes
+3     bosnia and herzegovina          visa - free                  90 days               n / a                                   yes
+4              faroe islands          visa - free                  90 days               n / a                                   yes
+5                   guernsey          visa - free         unlimited access               n / a                                   yes
+6                    iceland          visa - free      freedom of movement               n / a                     passport required
+7                isle of man          visa - free         unlimited access               n / a                                   yes
+8                     jersey          visa - free         unlimited access               n / a                                   yes
+9                     kosovo          visa - free                  90 days               n / a                                   yes
+10             liechtenstein          visa - free      freedom of movement               n / a                                   yes
+11                    monaco          visa - free                  90 days               n / a                                   yes
+12                 macedonia          visa - free                  90 days               n / a                                   yes
+13                   moldova          visa - free                  90 days               n / a                     passport required
+14                montenegro          visa - free                  90 days               n / a                                   yes
+15                    norway          visa - free      freedom of movement               n / a                     passport required
+16                san marino          visa - free                  90 days               n / a                                   yes
+17                    serbia          visa - free                  90 days               n / a                                   yes
+18               switzerland          visa - free      freedom of movement               n / a                     passport required
+19                   ukraine          visa - free                  90 days               n / a                     passport required

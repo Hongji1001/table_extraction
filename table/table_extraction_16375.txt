@@ -1,0 +1,45 @@
+                      name    license     os x  unix - like  windows  web interface
+0         360 media server        gpl       no          yes      yes            yes
+1        avia media player       prop       no           no       no             no
+2                    brisa        mit  partial      partial       no            yes
+3                coherence        mit  partial      partial  partial            yes
+4                     divx       prop      yes           no      yes             no
+5        elgato eyeconnect       prop      yes           no       no             no
+6               foobar2000       prop       no           no      yes             no
+7                   fuppes        gpl      yes          yes      yes            yes
+8           geexbox ushare        gpl       no          yes       no            yes
+9             gmediaserver        gpl       no          yes       no             no
+10       home media center      gplv2       no           no      yes            yes
+11    isedora media server       prop      yes           no      yes            yes
+12     jriver media center       prop       no           no      yes            yes
+13          kooraroo media       prop      yes          yes      yes            yes
+14                lximedia        gpl      yes          yes      yes             no
+15   majestic media server       prop      yes           no       no             no
+16               mediatomb        gpl  partial          yes       no            yes
+17                minidlna  gpl / bsd  partial          yes      yes        partial
+18                  mezzmo       prop       no           no      yes             no
+19                 myihome       prop      yes          yes      yes             no
+20        mythtv with upnp        gpl      yes          yes       no            yes
+21     nullriver medialink       prop      yes           no       no             no
+22                  playon       prop       no           no      yes            yes
+23                    plex       prop      yes          yes      yes            yes
+24        ps3 media server        gpl      yes          yes      yes            yes
+25                  pymeds        mit  partial      partial       no             no
+26                   rygel     lgplv2       no          yes       no             no
+27                   rivet       prop      yes           no       no             no
+28                 serviio       prop      yes          yes      yes            yes
+29    simplecenter premium       prop       no           no      yes            yes
+30                  skifta       prop      yes          yes      yes             no
+31                songbird      gplv2      yes           no      yes             no
+32                   tvble       prop       no           no      yes             no
+33                tversity       prop       no           no      yes            yes
+34                tvmobili       prop      yes          yes      yes            yes
+35                 tvshare       prop       no           no      yes             no
+36            twonkyserver       prop      yes          yes      yes            yes
+37  universal media server        gpl      yes          yes      yes            yes
+38   windows media connect       prop       no           no      yes             no
+39       wild media server       prop      yes          yes      yes            yes
+40       xbmc media center        gpl      yes          yes      yes            yes
+41                  xupnpd      gplv2       no          yes       no            yes
+42        yazsoft playback       prop      yes           no       no             no
+43                    name    license     os x  unix - like  windows  web interface

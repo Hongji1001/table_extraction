@@ -1,0 +1,10 @@
+                             school           city           mascot  enrollment       county
+0               hammond bishop noll        hammond         warriors         404      45 lake
+1                      gary calumet           gary         warriors         597      45 lake
+2               lake station edison   lake station  fighting eagles         423      45 lake
+3  michigan city marquette catholic  michigan city          blazers         195   46 laporte
+4                      north newton        morocco         spartans         466    56 newton
+5                      river forest         hobart           ingots         470      45 lake
+6       south central (union mills)    union mills       satellites         297  46 la porte
+7                           wheeler     valparaiso         bearcats         545    64 porter
+8                           whiting        whiting           oilers         381      45 lake

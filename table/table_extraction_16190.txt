@@ -1,0 +1,8 @@
+               player        country               year (s) won  total to par finish
+0         tiger woods  united states  1999 , 2000 , 2006 , 2007    283    - 5      2
+1  pádraig harrington        ireland                       2008    288      e    t10
+2         vijay singh           fiji                1998 , 2004    289    + 1    t16
+3          david toms  united states                       2001    293    + 5    t36
+4           rich beem  united states                       2002    294    + 6    t43
+5            bob tway  united states                       1986    217    + 8    t56
+6      phil mickelson  united states                       2005    300   + 12     73

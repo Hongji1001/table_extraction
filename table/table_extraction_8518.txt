@@ -1,0 +1,21 @@
+                   team                manager 1          captain kit manufacturer        shirt sponsor
+0               arsenal            arsène wenger       tony adams             nike                  jvc
+1           aston villa             brian little    andy townsend           reebok         ast research
+2      blackburn rovers              tony parkes     tim sherwood            asics                  cis
+3               chelsea              ruud gullit      dennis wise            umbro                coors
+4         coventry city          gordon strachan  gary mcallister   le coq sportif              peugeot
+5          derby county                jim smith      igor štimac             puma                 puma
+6               everton  dave watson (caretaker)      dave watson            umbro                danka
+7          leeds united            george graham         ian rush             puma         packard bell
+8        leicester city           martin o'neill      steve walsh      fox leisure              walkers
+9             liverpool                roy evans      john barnes           reebok            carlsberg
+10    manchester united            alex ferguson     eric cantona            umbro                sharp
+11        middlesbrough             bryan robson    nigel pearson            erreà              cellnet
+12     newcastle united           kenny dalglish          rob lee           adidas  newcastle brown ale
+13    nottingham forest             dave bassett    stuart pearce            umbro            labatt 's
+14  sheffield wednesday              david pleat   peter atherton             puma            sanderson
+15          southampton           graeme souness  matt le tissier             pony            sanderson
+16           sunderland               peter reid       kevin ball             avec       vaux breweries
+17    tottenham hotspur            gerry francis     gary mabbutt             pony    hewlett - packard
+18      west ham united           harry redknapp     julian dicks             pony      dagenham motors
+19            wimbledon              joe kinnear     robbie earle            lotto               elonex

@@ -1,0 +1,18 @@
+                  perpetrator             location      country  killed injured
+0   bryant , martin john , 28    port arthur , tas    australia    35.0      23
+1                     unknown             siquijor  philippines    32.0    0.0 
+2                  wirjo , 42           banjarsari    indonesia    20.0      12
+3        formentera , arsenio             palompon  philippines    17.0    0.0 
+4                      hodeng      kampong tankulu    indonesia    16.0    01 1
+5                          gz                   gz           iz   100.9   100.9
+6      salazar , domingo , 42          san nicolas  philippines    16.0    01 1
+7                     unknown              ternate    indonesia    15.0    04 4
+8        basobas , florentino     quezon , palawan  philippines    15.0    04 4
+9                     antakin             kaningow     malaysia    15.0    03 3
+10      pusok anak ngaik , 28  kampong bukit merah     malaysia    14.0    04 4
+11                         sz                   qz           nz   100.9   100.9
+12                    unknown               borneo    indonesia    14.0    0.0 
+13                    unknown              gondang    indonesia    13.0    03 3
+14  gray , david malcolm , 33             aramoana  new zealand    13.0    03 3
+15               kalinga boli                tagan  philippines    13.0    0.0 
+16            two unknown men            zamboanga  philippines    12.0      14

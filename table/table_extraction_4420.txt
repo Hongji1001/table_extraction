@@ -1,0 +1,8 @@
+            team          bowl       season coach interim head coach result 2008 head coach
+0       arkansas        cotton       houston nutt     reggie herring   lost   bobby petrino
+1   georgia tech  humanitarian        chan gailey         jon tenuta   lost    paul johnson
+2        houston         texas         art briles     chris thurmond   lost    kevin sumlin
+3           navy    poinsettia       paul johnson    ken niumatalolo   lost            same
+4      texas a&m         alamo  dennis franchione       gary darnell   lost    mike sherman
+5           ucla     las vegas       karl dorrell     dewayne walker   lost  rick neuheisel
+6  west virginia        fiesta     rich rodriguez       bill stewart    won            same

@@ -1,0 +1,29 @@
+    round  pick             player          position school / club team
+0       1     2         art hunter  offensive tackle         notre dame
+1       2    15          bob fleck            tackle           syracuse
+2       3    27  george timberlake        linebacker                usc
+3       4    40       tommy allman              back      west virginia
+4       5    51          max mcgee     wide receiver             tulane
+5       7    75       sam marshall            tackle        florida a&m
+6       8    87    jimmie williams            tackle         texas tech
+7       9    99         dave davis               end       georgia tech
+8      10   111       gene knutson     defensive end           michigan
+9      11   123           ken hall               end  north texas state
+10     12   135        bill oliver              back            alabama
+11     13   147        mike takacs             guard         ohio state
+12     14   159       dave johnson              back               rice
+13     16   183           des koch              back                usc
+14     17   195        j d roberts             guard           oklahoma
+15     18   207       emery barnes     defensive end             oregon
+16     19   219           ken hall            center        springfield
+17     20   231     lowell herbert             guard            pacific
+18     21   243      art liebscher              back            pacific
+19     22   255      willie buford            tackle       morgan state
+20     23   267      clint sathrum              back            st olaf
+21     24   279     marv tennefoss               end           stanford
+22     25   291       john smalley            tackle            alabama
+23     26   303       ralph baierl            tackle           maryland
+24     27   315         hosea sims               end          marquette
+25     28   327        evan slonac              back     michigan state
+26     29   339        jerry dufek            tackle         st norbert
+27     30   351     terry campbell              back   washington state

@@ -1,0 +1,18 @@
+               player  sacks  int 's  yards  average long
+0       john anderson    6.0       2      2      1.0    2
+1        robert brown    3.0       0      0      0.0    0
+2         mike butler    2.0       0      0      0.0    0
+3          mossy cade    0.0       1      0      0.0    0
+4   alphonso carreker    9.0       0      0      0.0    0
+5       mike douglass    1.5       2    126     63.0  80t
+6           tom flynn    0.0       1      7      7.0    7
+7     donnie humphrey    2.0       0      0      0.0    0
+8        ezra johnson    9.5       0      0      0.0    0
+9            mark lee    0.0       1     23     23.0   23
+10          tim lewis    0.0       4      4      1.0    4
+11     charles martin    3.0       0      0      0.0    0
+12        mark murphy    4.0       2     50     25.0  50t
+13        brian noble    3.0       0      0      0.0    0
+14        guy prather    2.0       0      0      0.0    0
+15        randy scott    3.0       2     50     25.0   30
+16             totals   48.0      15    262     17.5    8

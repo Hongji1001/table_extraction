@@ -1,0 +1,29 @@
+                              title series       director    release date reissue
+0   coal black and de sebben dwarfs     mm   bob clampett  1943 - 01 - 16      no
+1         confusions of a nutzy spy     lt    norm mccabe  1943 - 01 - 23      no
+2                   pigs in a polka     mm   friz freleng  1943 - 02 - 02     yes
+3           tortoise wins by a hare     mm   bob clampett  1943 - 02 - 20      no
+4        fifth - column mouse , the     mm   friz freleng  1943 - 03 - 06     yes
+5            to duck or not to duck     lt    chuck jones  1943 - 03 - 06      no
+6              flop goes the weasel     mm    chuck jones  1943 - 03 - 20     yes
+7                        hop and go     lt    norm mccabe  1943 - 03 - 27      no
+8                    super - rabbit     mm    chuck jones  1943 - 04 - 03      no
+9             unbearable bear , the     mm    chuck jones  1943 - 04 - 17     yes
+10         wise quacking duck , the     lt   bob clampett  1943 - 05 - 01      no
+11                   greetings bait     mm   friz freleng  1943 - 05 - 15     yes
+12                      tokio jokio     lt    norm mccabe  1943 - 05 - 15      no
+13  jack - wabbit and the beanstalk     mm   friz freleng  1943 - 06 - 12      no
+14                 aristo cat , the     mm    chuck jones  1943 - 06 - 19     yes
+15                   wackiki wabbit     mm    chuck jones  1943 - 07 - 03      no
+16              yankee doodle daffy     lt   friz freleng  1943 - 07 - 03      no
+17                porky pig 's feat     lt  frank tashlin  1943 - 07 - 17      no
+18               tin pan alley cats     mm   bob clampett  1943 - 07 - 17      no
+19                scrap happy daffy     lt  frank tashlin  1943 - 08 - 21      no
+20                 hiss and make up     mm   friz freleng  1943 - 09 - 11     yes
+21               corny concerto , a     mm   bob clampett  1943 - 09 - 25      no
+22                      fin'n catty     mm    chuck jones  1943 - 10 - 23     yes
+23                     falling hare     mm   bob clampett  1943 - 10 - 30      no
+24          inki and the minah bird     mm    chuck jones  1943 - 11 - 13     yes
+25             daffy - the commando     lt   friz freleng  1943 - 11 - 20      no
+26                itch in time , an     mm   bob clampett  1943 - 12 - 04     yes
+27                    puss n' booty     lt  frank tashlin  1943 - 12 - 11      no

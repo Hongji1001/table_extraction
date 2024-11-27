@@ -1,0 +1,11 @@
+  call sign  frequency mhz               city of license  erp w height m ( ft ) class fcc info
+0    w201cy           88.1                dansville , ny     10               -     d      fcc
+1    w213ar           90.5              lyons falls , ny     18               -     d      fcc
+2    w213bl           90.5                  oneonta , ny     10               -     d      fcc
+3    w215bt           90.9  riverhead , ny (long island)     10               -     d      fcc
+4    w220bo           91.9                 lowville , ny     10               -     d      fcc
+5    w240ah           95.9                 cortland , ny      4               -     d      fcc
+6    w240aj           95.9                 endicott , ny      8               -     d      fcc
+7    w249as           97.7                  norwich , ny      5               -     d      fcc
+8    w262ac          100.3             little falls , ny      5               -     d      fcc
+9    w269aw          101.7                   ithaca , ny      9               -     d      fcc

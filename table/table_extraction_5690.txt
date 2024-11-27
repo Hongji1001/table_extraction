@@ -1,0 +1,6 @@
+   round  pick        player       position     college
+0      1    21    jerry gray     cornerback       texas
+1      2    50   chuck scott  wide receiver  vanderbilt
+2      3    77  dale hatcher         punter     clemson
+3      5   113  kevin greene     linebacker      auburn
+4      6   161    mike young  wide receiver        ucla

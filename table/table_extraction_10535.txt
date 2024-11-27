@@ -1,0 +1,9 @@
+      exit date pos           player            to club transfer fee
+0   15 may 2007  df   hatem trabelsi         al - hilal     released
+1   23 may 2007  df   sylvain distin         portsmouth         free
+2  14 june 2007  mf      joey barton   newcastle united        5.8 m
+3   4 july 2007  gk     nicky weaver  charlton athletic         free
+4  10 july 2007  mf  trevor sinclair       cardiff city         free
+5  16 july 2007  df   stephen jordan            burnley         free
+6   31 jan 2008  mf     ousmane dabo              lazio         free
+7   31 jan 2008  fw   ishmael miller   west brom albion  9 m - 1.4 m

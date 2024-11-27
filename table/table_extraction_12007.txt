@@ -1,0 +1,14 @@
+   place           player        country               score to par
+0      1      tiger woods  united states  74 + 66 + 65 = 205   - 11
+1      2    chris dimarco  united states  67 + 67 + 74 = 208    - 8
+2      3     thomas bjørn        denmark  71 + 67 + 71 = 209    - 7
+3     t4  trevor immelman   south africa  73 + 73 + 65 = 211    - 5
+4     t4   phil mickelson  united states  70 + 72 + 69 = 211    - 5
+5     t6      mark hensby      australia  69 + 73 + 70 = 212    - 4
+6     t6      vijay singh           fiji  68 + 73 + 71 = 212    - 4
+7     t8    chad campbell  united states  73 + 73 + 67 = 213    - 3
+8     t8        mike weir         canada  74 + 71 + 68 = 213    - 3
+9    t10      luke donald        england  68 + 77 + 69 = 214    - 2
+10   t10       tim herron  united states  76 + 68 + 70 = 214    - 2
+11   t10     thomas levet         france  71 + 75 + 68 = 214    - 2
+12   t10     rod pampling      australia  73 + 71 + 70 = 214    - 2

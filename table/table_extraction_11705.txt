@@ -1,0 +1,11 @@
+           television service         country language    content hdtv package / option
+0                    telepace           italy  italian  religione   no       no ( fta )
+1  daystar television network           italy  english  religione   no       no ( fta )
+2                padre pio tv           italy  italian  religione   no       no ( fta )
+3            the word network  united kingdom  english  religione   no       no ( fta )
+4                 inspiration  united kingdom  english  religione   no       no ( fta )
+5                        ewtn  united kingdom  english  religione   no       no ( fta )
+6                        tbne           italy  italian  religione   no       no ( fta )
+7        sender neu jerusalem         germany   german  religione   no       no ( fta )
+8                        trsp           italy  italian  religione   no       no ( fta )
+9             erde und mensch         germany   german     salute   no       no ( fta )

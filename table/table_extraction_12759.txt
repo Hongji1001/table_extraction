@@ -1,0 +1,8 @@
+   year                                category        president        nominee film or television series or miniseries
+0  1964       best actor - motion picture drama     jordan lyman  fredric march                       seven days in may
+1  1999    best actor - television series drama   josiah bartlet   martin sheen                           the west wing
+2  2000    best actor - television series drama   josiah bartlet   martin sheen                           the west wing
+3  2001    best actor - television series drama   josiah bartlet   martin sheen                           the west wing
+4  2002    best actor - television series drama   josiah bartlet   martin sheen                           the west wing
+5  2003    best actor - television series drama   josiah bartlet   martin sheen                           the west wing
+6  2006  best actress - television series drama  mackenzie allen    geena davis                      commander in chief

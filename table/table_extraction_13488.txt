@@ -1,0 +1,8 @@
+    year           result          matches             wins            draws           losses
+0   1991  did not qualify  did not qualify  did not qualify  did not qualify  did not qualify
+1   1995  did not qualify  did not qualify  did not qualify  did not qualify  did not qualify
+2   1999  did not qualify  did not qualify  did not qualify  did not qualify  did not qualify
+3   2003  did not qualify  did not qualify  did not qualify  did not qualify  did not qualify
+4   2007  did not qualify  did not qualify  did not qualify  did not qualify  did not qualify
+5   2011      group stage                3                0                1                2
+6  total            0 / 3                3                0                1                2

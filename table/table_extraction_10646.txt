@@ -1,0 +1,10 @@
+   year  class        team  points  wins
+0  1952  250cc         nsu       2     0
+1  1954  125cc   mv agusta       6     0
+2  1954  250cc  moto guzzi       5     0
+3  1955  350cc  moto guzzi       7     0
+4  1956  125cc   mv agusta       0     0
+5  1956  250cc   mv agusta       9     0
+6  1956  350cc   mv agusta       4     0
+7  1957  125cc   mv agusta      11     0
+8  1957  250cc   mv agusta      10     0

@@ -1,0 +1,10 @@
+       country laws against homosexuality               penalty same - sex unions laws against discrimination
+0  afghanistan                        yes                 death                no                          no
+1        egypt                         no                prison                no                          no
+2    indonesia                         no                     -                 -                          no
+3         iraq                         no                     -                 -                          no
+4     malaysia                        yes      fine to 20 years                 -                          no
+5      nigeria                        yes  5 - 14 years / death                 -                          no
+6     pakistan                        yes       2 years to life                 -                          no
+7       turkey                         no                     -                 -                          no
+8   uzbekistan                  male only       fine to 3 years                 -                          no

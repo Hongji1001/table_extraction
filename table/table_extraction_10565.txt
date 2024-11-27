@@ -1,0 +1,8 @@
+      position                                          name                                school unanimous                      college hall of fame
+0         ends          jerry dalrymple vernon catfish smith                        tulane georgia    yes no   dalrymple hof profile smith hof profile
+1      tackles      dallas dal marvil jess quatse jack riley  northwestern pittsburgh northwestern  no no no                   no no riley hof profile
+2       guards        clarence biggie munn john johnny baker         minnesota southern california     no no        munn hof profile baker hof profile
+3       center                                   thomas yarr                            notre dame        no                          yarr hof profile
+4  quarterback                                    barry wood                               harvard        no                          wood hof profile
+5    halfbacks  marchmont marchy schwartz ernest pug rentner               notre dame northwestern     no no  schwartz hof profile rentner hof profile
+6     fullback                                  gaius shaver                   southern california        no                                        no

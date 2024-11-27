@@ -1,0 +1,6 @@
+              player        country  year (s) won  total to par
+0     justin leonard  united states          1997    151    + 9
+1  mark calcavecchia  united states          1989    151    + 9
+2         sandy lyle       scotland          1985    152   + 10
+3        paul lawrie       scotland          1999    155   + 13
+4        david duval  united states          2001    161   + 19

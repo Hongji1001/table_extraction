@@ -1,0 +1,27 @@
+                driver               constructor  laps     time / retired  grid
+0        nelson piquet             brabham - bmw    53        1:31:46.266     5
+1         keke rosberg          williams - honda    53            + 6.660     1
+2          alain prost             mclaren - tag    53            + 9.285     4
+3     stefan johansson                   ferrari    53           + 53.491    16
+4      elio de angelis           lotus - renault    53           + 53.690     7
+5       patrick tambay                   renault    53         + 1:15.167    10
+6        derek warwick                   renault    53         + 1:44.212    11
+7           marc surer             brabham - bmw    52            + 1 lap    14
+8      thierry boutsen              arrows - bmw    52            + 1 lap    12
+9        eddie cheever                alfa romeo    52            + 1 lap    18
+10    riccardo patrese                alfa romeo    52            + 1 lap    17
+11  manfred winkelhock                ram - hart    50           + 3 laps    20
+12       stefan bellof            tyrrell - ford    50           + 3 laps    26
+13            teo fabi            toleman - hart    49        fuel system    19
+14  piercarlo ghinzani       osella - alfa romeo    49           + 4 laps    24
+15      martin brundle         tyrrell - renault    32            gearbox    21
+16          niki lauda             mclaren - tag    30            gearbox     6
+17        ayrton senna           lotus - renault    26  engine , accident     2
+18      gerhard berger              arrows - bmw    20           accident     9
+19   pierluigi martini  minardi - motori moderni    19           accident    25
+20     philippe alliot                ram - hart     8        fuel system    23
+21     jonathan palmer                  zakspeed     6             engine    22
+22    michele alboreto                   ferrari     5              turbo     3
+23   andrea de cesaris          ligier - renault     4           steering    13
+24     jacques laffite          ligier - renault     2              turbo    15
+25       nigel mansell          williams - honda     0             injury     8

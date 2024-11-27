@@ -1,0 +1,38 @@
+                 member                  electorate      province mp 's term  election date
+0             john cuff                      akaroa    canterbury      first             28
+1        logan campbell            city of auckland      auckland      first             27
+2        thomas beckham            city of auckland      auckland      first             27
+3         william daldy            city of auckland      auckland      first             27
+4    frederick merriman            auckland suburbs      auckland     second             27
+5         walter brodie            auckland suburbs      auckland      first             27
+6         hugh carleton              bay of islands      auckland     second             24
+7       dingley brittin        christchurch country    canterbury      first             20
+8             john hall        christchurch country    canterbury      first             20
+9          henry sewell        town of christchurch    canterbury     second             18
+10         john cargill             dunedin country         otago     second             11
+11      william cargill             dunedin country         otago      first             11
+12      james macandrew             town of dunedin         otago     second             11
+13        charles brown               grey and bell  new plymouth      first              8
+14        alfred ludlam                        hutt    wellington     second             16
+15          dillon bell                        hutt    wellington      first             16
+16     james fitzgerald           town of lyttelton    canterbury     second             21
+17       charles parker    motueka and massacre bay        nelson      first              8
+18        alfred domett              town of nelson        nelson      first             12
+19      edward stafford              town of nelson        nelson      first             12
+20     william richmond        town of new plymouth  new plymouth      first              5
+21     thomas henderson           northern division      auckland      first             27
+22           walter lee           northern division      auckland     second             27
+23          alfred east                       omata  new plymouth      first             10
+24      john williamson       pensioner settlements      auckland      first             27
+25     joseph greenwood       pensioner settlements      auckland     second             27
+26       charles taylor           southern division      auckland     second             26
+27        robert graham           southern division      auckland      first             26
+28      charles elliott                      waimea        nelson      first             19
+29      william travers                      waimea        nelson     second              6
+30           john smith  wairarapa and hawke 's bay    wellington      first             26
+31        william wells                      wairau        nelson      first             19
+32          william fox     wanganui and rangitikei    wellington      first             27
+33     charles clifford          city of wellington    wellington     second             13
+34    isaac featherston          city of wellington    wellington     second             13
+35  william fitzherbert          city of wellington    wellington      first             13
+36          dudley ward          wellington country    wellington      first             15

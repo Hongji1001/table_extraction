@@ -1,0 +1,9 @@
+   pick                team         player          position         college
+0    17      denver broncos  glenn ressler   offensive guard      penn state
+1    18      houston oilers      ernie koy      running back           texas
+2    19     oakland raiders     bob svihus  defensive tackle             usc
+3    20       new york jets   verlon biggs     defensive end   jackson state
+4    21  kansas city chiefs    mike curtis        linebacker            duke
+5    22  san diego chargers    allen brown         tight end     mississippi
+6    23     boston patriots     jim whalen            tackle  boston college
+7    24       buffalo bills    al atkinson        linebacker       villanova

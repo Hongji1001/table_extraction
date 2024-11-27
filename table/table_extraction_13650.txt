@@ -1,0 +1,7 @@
+                                    name        built          listed                 location             county
+0                       arkwright bridge         1888  1978 - 12 - 12  cranston , west warwick  kent , providence
+1  boston and providence railroad bridge         1884  1980 - 11 - 28          east providence         providence
+2                 division street bridge         1876  1983 - 11 - 18                pawtucket         providence
+3                 interlaken mill bridge       ca1885  1978 - 12 - 22                 coventry               kent
+4                     main street bridge         1858  1983 - 11 - 18                pawtucket         providence
+5                      mount hope bridge  1927 , 1929  1976 - 01 - 31     bristol , portsmouth  bristol , newport

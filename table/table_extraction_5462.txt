@@ -1,0 +1,7 @@
+        superlative            actress      record set  year                                notes
+0       most awards  katharine hepburn        4 awards  1981  awards resulted from 12 nominations
+1  most nominations       meryl streep  14 nominations  2011     nominations resulted in 2 awards
+2     oldest winner      jessica tandy    80 years old  1989                   driving miss daisy
+3    oldest nominee    emmanuelle riva    85 years old  2012                                amour
+4   youngest winner      marlee matlin    21 years old  1986             children of a lesser god
+5  youngest nominee  quvenzhanã wallis     9 years old  2012          beasts of the southern wild

@@ -1,0 +1,6 @@
+                 player                 tries                  conv                 venue                  date
+0           dick hyland                     4                     0              colombes        11 / 05 / 1924
+1          vaea anitoni                     4                     0         san francisco        06 / 07 / 1996
+2       brian hightower                     4                     0         san francisco        07 / 06 / 1997
+3          vaea anitoni                     4                     0                lisbon        08 / 04 / 1998
+4  7 players on 3 tries  7 players on 3 tries  7 players on 3 tries  7 players on 3 tries  7 players on 3 tries

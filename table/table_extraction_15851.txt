@@ -1,0 +1,9 @@
+   rank  lane                 name    nationality     time
+0     1     4       michael phelps  united states  1:53.70
+1     2     6              wu peng          china  1:54.93
+2     3     5      kaio de almeida         brazil  1:55.21
+3     4     3  paweå‚ korzeniowski         poland  1:55.35
+4     5     8             chen yin          china  1:55.88
+5     6     2         michael rock  great britain  1:55.90
+6     7     7      ryuichi shibata          japan  1:56.17
+7     8     1        ioan gherghel        romania  1:56.57

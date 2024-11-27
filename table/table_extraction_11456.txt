@@ -1,0 +1,46 @@
+       season conference division finish  wins  losses  win%
+0   1968 - 69          -  western    7th    16      66   195
+1   1969 - 70          -  western  3rd ¤    39      43   476
+2   1970 - 71    western  midwest    3rd    48      34   585
+3   1971 - 72    western  midwest    3rd    49      33   598
+4   1972 - 73    western  pacific    3rd    38      44   463
+5   1973 - 74    western  pacific    4th    30      52   366
+6   1974 - 75    western  pacific    4th    32      50   390
+7   1975 - 76    western  pacific  3rd ¤    42      40   512
+8   1976 - 77    western  pacific    5th    34      48   415
+9   1977 - 78    western  pacific  2nd ¤    49      33   598
+10  1978 - 79    western  pacific  2nd ¤    50      32   610
+11  1979 - 80    western  pacific  3rd ¤    55      27   671
+12  1980 - 81    western  pacific  1st ¤    57      25   695
+13  1981 - 82    western  pacific  3rd ¤    46      36   561
+14  1982 - 83    western  pacific  2nd ¤    53      29   646
+15  1983 - 84    western  pacific  4th ¤    41      41   500
+16  1984 - 85    western  pacific  3rd ¤    36      46   439
+17  1985 - 86    western  pacific    3rd    32      50   390
+18  1986 - 87    western  pacific    5th    36      46   439
+19  1987 - 88    western  pacific    4th    28      54   341
+20  1988 - 89    western  pacific  2nd ¤    55      27   671
+21  1989 - 90    western  pacific  3rd ¤    54      28   659
+22  1990 - 91    western  pacific  3rd ¤    55      27   671
+23  1991 - 92    western  pacific  3rd ¤    53      29   646
+24  1992 - 93    western  pacific  1st ¤    62      20   756
+25  1993 - 94    western  pacific  2nd ¤    56      26   683
+26  1994 - 95    western  pacific  1st ¤    59      23   720
+27  1995 - 96    western  pacific  4th ¤    41      41   500
+28  1996 - 97    western  pacific  4th ¤    40      42   488
+29  1997 - 98    western  pacific  3rd ¤    56      26   683
+30  1998 - 99    western  pacific  3rd ¤    27      23   540
+31  1999 - 00    western  pacific  3rd ¤    53      29   646
+32  2000 - 01    western  pacific  3rd ¤    51      31   623
+33  2001 - 02    western  pacific    6th    36      46   439
+34  2002 - 03    western  pacific  4th ¤    44      38   537
+35  2003 - 04    western  pacific    6th    29      53   354
+36  2004 - 05    western  pacific  1st ¤    62      20   756
+37  2005 - 06    western  pacific  1st ¤    54      28   659
+38  2006 - 07    western  pacific  1st ¤    61      21   744
+39  2007 - 08    western  pacific  2nd ¤    55      27   671
+40  2008 - 09    western  pacific    2nd    46      36   561
+41  2009 - 10    western  pacific  2nd ¤    54      28   659
+42  2010 - 11    western  pacific    2nd    40      42   488
+43  2011 - 12    western  pacific    3rd    33      33   500
+44  2012 - 13    western  pacific    5th    25      57   305

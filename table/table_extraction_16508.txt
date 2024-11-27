@@ -1,0 +1,29 @@
+                              race title                            circuit                   city / state            date                          winner
+0                            clipsal 500            adelaide street circuit     adelaide , south australia     19 - 22 mar     jamie whincup jamie whincup
+1                            clipsal 500            adelaide street circuit     adelaide , south australia     19 - 22 mar                   david russell
+2   v8 supercars manufacturers challenge                        albert park           melbourne , victoria     26 - 29 mar                   craig lowndes
+3                           hamilton 400            hamilton street circuit         hamilton , new zealand     17 - 19 apr     jamie whincup jamie whincup
+4                               goulburn                     wakefield park     goulburn , new south wales     25 - 26 apr                     adam wallis
+5                                 winton               winton motor raceway             benalla , victoria       1 - 3 may     craig lowndes craig lowndes
+6                                 winton               winton motor raceway             benalla , victoria       1 - 3 may                   jonathon webb
+7              falken tasmania challenge             symmons plains raceway          launceston , tasmania     29 - 31 may      garth tander jamie whincup
+8                                mallala           mallala motor sport park     adelaide , south australia       6 - 7 jun                     adam wallis
+9                   skycity triple crown              hidden valley raceway    darwin , northern territory     19 - 21 jun    jamie whincup michael caruso
+10                                winton               winton motor raceway             benalla , victoria     27 - 28 jun                    terry wyhoon
+11                 dunlop townsville 400          townsville street circuit        townsville , queensland     10 - 12 jul    jamie whincup james courtney
+12                 dunlop townsville 400          townsville street circuit        townsville , queensland     10 - 12 jul                    james moffat
+13          norton 360 sandown challenge                    sandown raceway           melbourne , victoria  31 jul - 2 aug       will davison garth tander
+14          norton 360 sandown challenge                    sandown raceway           melbourne , victoria  31 jul - 2 aug                   david russell
+15      queensland house and landcom 300                 queensland raceway           ipswich , queensland     21 - 23 aug      jamie whincup will davison
+16      queensland house and landcom 300                 queensland raceway           ipswich , queensland     21 - 23 aug                   jonathon webb
+17                             oran park                  oran park raceway       sydney , new south wales     29 - 30 aug                   shane beikoff
+18                               l&h 500  phillip island grand prix circuit      phillip island , victoria     11 - 13 sep       garth tander will davison
+19         supercheap auto bathurst 1000             mount panorama circuit     bathurst , new south wales      8 - 11 oct       garth tander will davison
+20         supercheap auto bathurst 1000             mount panorama circuit     bathurst , new south wales      8 - 11 oct                   jonathon webb
+21                 v8 supercar challenge    surfers paradise street circuit  surfers paradise , queensland     22 - 25 oct  garth tander mark winterbottom
+22                            desert 400      bahrain international circuit               manama , bahrain       5 - 7 nov                 event cancelled
+23                        the island 300  phillip island grand prix circuit      phillip island , victoria       7 - 8 nov     jamie whincup jamie whincup
+24                           bigpond 300                 barbagallo raceway      perth , western australia     21 - 23 nov     jamie whincup craig lowndes
+25                               sandown                    sandown raceway           melbourne , victoria     28 - 29 nov                      steve owen
+26                    sydney telstra 500            homebush street circuit       sydney , new south wales       4 - 6 dec     garth tander james courtney
+27                    sydney telstra 500            homebush street circuit       sydney , new south wales       4 - 6 dec                   jonathon webb

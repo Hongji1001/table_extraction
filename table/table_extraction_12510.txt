@@ -1,0 +1,11 @@
+                   team  winners  runners - up    years won years runner - up
+0          boca juniors        2             0  2004 , 2005                 -
+1             ldu quito        1             1         2009              2011
+2           san lorenzo        1             0         2002                 -
+3             cienciano        1             0         2003                 -
+4               pachuca        1             0         2006                 -
+5               arsenal        1             0         2007                 -
+6         internacional        1             0         2008                 -
+7         independiente        1             0         2010                 -
+8  universidad de chile        1             0         2011                 -
+9             são paulo        1             0         2012                 -

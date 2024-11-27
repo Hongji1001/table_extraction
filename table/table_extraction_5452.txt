@@ -1,0 +1,10 @@
+   pick                          cfl team                 player      position           college
+0  19.0                calgary stampeders          john comiskey            ot           windsor
+1  20.0                  ottawa renegades           les mullings            rb     saint mary 's
+2   NaN  toronto argonauts (via winnipeg)           forfeit pick  forfeit pick      forfeit pick
+3  21.0          saskatchewan roughriders              matt kudu            dl  eastern michigan
+4  22.0                  edmonton eskimos            tim o'neill            ol           calgary
+5  23.0             hamilton tiger - cats        francois brochu            st    boston college
+6  24.0                montreal alouettes          victor cabral            dt  georgia southern
+7  25.0                          bc lions            david lowry            lb           calgary
+8  26.0            bc lions (via toronto)  patick pierre - louis            lb              ucla

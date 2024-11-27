@@ -1,0 +1,34 @@
+                    rocket             country           type  launches  successes  failures  partial failures
+0              ariane 5eca              europe       ariane 5         6          6         0                 0
+1              atlas v 401       united states        atlas v         1          1         0                 0
+2              atlas v 501       united states        atlas v         2          2         0                 0
+3              atlas v 531       united states        atlas v         1          1         0                 0
+4            delta ii 7420       united states       delta ii         1          1         0                 0
+5   delta iv - m + (4 , 2)       united states       delta iv         2          2         0                 0
+6             delta iv - h       united states       delta iv         1          1         0                 0
+7                dnepr - 1             ukraine          dnepr         3          3         0                 0
+8                 falcon 9       united states       falcon 9         2          2         0                 0
+9            gslv mk i (c)               india           gslv         1          0         1                 0
+10              gslv mk ii               india           gslv         1          0         1                 0
+11             h - iia 202               japan        h - iia         2          2         0                 0
+12            kosmos - 3 m              russia         kosmos         1          1         0                 0
+13           long march 2d               china   long march 2         3          3         0                 0
+14           long march 3a               china   long march 3         3          3         0                 0
+15           long march 3b               china   long march 3         1          1         0                 0
+16           long march 3c               china   long march 3         4          4         0                 0
+17           long march 4b               china   long march 4         1          1         0                 0
+18           long march 4c               china   long march 4         3          3         0                 0
+19             minotaur iv       united states    minotaur iv         1          1         0                 0
+20      minotaur iv / haps       united states    minotaur iv         1          1         0                 0
+21       molniya - m / 2bl              russia        molniya         1          1         0                 0
+22                naro - 1  russia south korea           naro         1          0         1                 0
+23     proton - m / dm - 2              russia         proton         2          2         0                 0
+24    proton - m / dm - 03              russia         proton         1          0         1                 0
+25   proton - m / briz - m              russia         proton         9          9         0                 0
+26               pslv - ca               india           pslv         1          1         0                 0
+27       rokot / briz - km              russia       ur - 100         2          2         0                 0
+28              shavit - 2              israel         shavit         1          1         0                 0
+29   soyuz - 2.1a / fregat              russia          soyuz         2          2         0                 0
+30               soyuz - u              russia          soyuz         6          6         0                 0
+31              soyuz - fg              russia          soyuz         4          4         0                 0
+32           space shuttle       united states  space shuttle         3          3         0                 0

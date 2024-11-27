@@ -1,0 +1,18 @@
+                     player    nationality          position         from      school / country
+0               jim jackson  united states   guard / forward         2005            ohio state
+1              tony jackson  united states             guard         1980         florida state
+2              sam jacobson  united states   guard / forward         1998             minnesota
+3            antawn jamison  united states           forward         2012        north carolina
+4                tony jaros  united states   guard / forward         1948             minnesota
+5              clay johnson  united states             guard         1981              missouri
+6             magic johnson  united states             guard  1979 , 1995        michigan state
+7               ron johnson  united states           forward         1960             minnesota
+8     darius johnson - odom  united states             guard         2012             marquette
+9             howie jolliff  united states  forward / center         1960                  ohio
+10             dwight jones  united states  forward / center         1982               houston
+11  jones , earl earl jones  united states            center         1984  district of columbia
+12              eddie jones  united states             guard         1994                temple
+13            jumaine jones  united states           forward         2004               georgia
+14             eddie jordan  united states             guard         1980               rutgers
+15            reggie jordan  united states             guard         1993      new mexico state
+16         johnny jorgensen  united states   guard / forward         1948                depaul

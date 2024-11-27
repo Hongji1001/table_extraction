@@ -1,0 +1,9 @@
+   rank  lane                name    nationality     time
+0     1     4     kosuke kitajima          japan    59.55
+1     2     5     brenton rickard      australia    59.65
+2     3     8       mark gangloff  united states  1:00.44
+3     4     6        igor borysik        ukraine  1:00.55
+4     5     7        oleg lisogor        ukraine  1:00.56
+5     6     1   mihail alexandrov       bulgaria  1:00.61
+6     7     3    giedrius titenis      lithuania  1:00.66
+7     8     2  christian sprenger      australia  1:00.76

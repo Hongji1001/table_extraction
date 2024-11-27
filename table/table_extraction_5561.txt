@@ -1,0 +1,44 @@
+               driver  car       make points  laps  winnings
+0      jimmie johnson   48  chevrolet    185   188    326061
+1        tony stewart   20  chevrolet    175   188    260136
+2       brian vickers   25  chevrolet    170   188    172300
+3         jeff burton   31  chevrolet    160   188    176745
+4      jamie mcmurray   26       ford    160   188    168600
+5        matt kenseth   17       ford    155   188    159841
+6          kurt busch    2      dodge    151   188    143233
+7        carl edwards   99       ford    147   188    118975
+8         scott riggs   10      dodge    138   188     97975
+9        robby gordon    7  chevrolet    139   188    103350
+10           jj yeley   18  chevrolet    135   188    131075
+11       dale jarrett   88       ford    132   188    125875
+12    jeremy mayfield   19      dodge    129   188    124816
+13         jeff green   66  chevrolet    126   188    117808
+14        jeff gordon   24  chevrolet    128   188    151311
+15     elliott sadler   38       ford    120   188    138983
+16        tony raines   96  chevrolet    112   188     84675
+17         kyle petty   45      dodge    109   188    111883
+18      travis kvapil   32  chevrolet    106   188    101083
+19        casey mears   42      dodge    108   188    123083
+20       scott wimmer    4  chevrolet    105   188     85350
+21       denny hamlin   11  chevrolet    102   187     84625
+22      kevin harvick   29  chevrolet     94   187    121811
+23        dave blaney   22      dodge     96   183     94858
+24    michael waltrip   55      dodge     93   179     92447
+25      reed sorenson   41      dodge     85   177     89825
+26       joe nemechek    1  chevrolet     87   173    107620
+27       kevin lepage   61       ford     84   173     80225
+28      bobby labonte   43      dodge     76   163    114461
+29       chad chaffin   34  chevrolet     73   152     77825
+30  dale earnhardt jr    8  chevrolet     75   151    112166
+31         kyle busch    5  chevrolet     67   150     95025
+32        ryan newman   12      dodge     64   106    122308
+33      david stremme   40      dodge     61   106     85725
+34        mark martin    6       ford     58   101     94650
+35    martin truex jr    1  chevrolet     55    97     84500
+36    sterling marlin   14  chevrolet     52    91     76325
+37        greg biffle   16       ford     49    45     96175
+38        kasey kahne    9      dodge     46    17    112989
+39       clint bowyer    7  chevrolet     43    16     83525
+40   kirk shelmerdine   27  chevrolet     40     9     75325
+41       ken schrader   21       ford     37     8    102364
+42      hermie sadler    0       ford     pe     8     75308

@@ -1,0 +1,14 @@
+    state       type     name    title royal house    from
+0     chu  sovereign      dao     king          mi  401 bc
+1     han  sovereign     jing  marquis           -  408 bc
+2     jin  sovereign      lie     duke          ji  415 bc
+3      lu  sovereign       mu     duke          ji  415 bc
+4      qi  sovereign     kang     duke       jiang  404 bc
+5     qin  sovereign     jian     duke        ying  414 bc
+6    song  sovereign      dao     duke           -  403 bc
+7     wei  sovereign      wen  marquis           -  445 bc
+8     wey  sovereign     shen     duke           -  414 bc
+9     yan  sovereign  jian ii     duke           -  414 bc
+10    yue  sovereign       yi     king           -  412 bc
+11   zhao  sovereign      lie  marquis           -  408 bc
+12  zheng  sovereign       xu     duke           -  422 bc

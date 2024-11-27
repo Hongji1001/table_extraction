@@ -1,0 +1,14 @@
+                    team                          city  total seasons      seasons highest league
+0       toronto blizzard             toronto , ontario              6  1987 - 1992        example
+1      hamilton steelers            hamilton , ontario              5  1987 - 1991        example
+2     north york rockets          north york , ontario              6  1987 - 1992        example
+3        ottawa intrepid              ottawa , ontario              4  1987 - 1990        example
+4         montreal supra             montreal , quebec              5  1988 - 1992        example
+5        vancouver 86ers  vancouver , british columbia              6  1987 - 1992        example
+6      edmonton brickmen            edmonton , alberta              4  1987 - 1990        example
+7       calgary strikers             calgary , alberta              3  1987 - 1989        example
+8          winnipeg fury           winnipeg , manitoba              6  1987 - 1992        example
+9        victoria vistas   victoria , british columbia              2  1989 - 1990        example
+10         london lasers              london , ontario              2  1990 , 1992        example
+11      kitchener spirit           kitchener , ontario              2  1990 - 1991        example
+12  nova scotia clippers         halifax , nova scotia              1         1991        example

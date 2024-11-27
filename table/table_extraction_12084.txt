@@ -1,0 +1,20 @@
+               rider manufacturer  laps        time  grid
+0    valentino rossi       yamaha    20   37:20.095     1
+1       nicky hayden        honda    20     + 5.972     4
+2      jorge lorenzo       yamaha    20     + 7.858     3
+3       casey stoner       ducati    20    + 28.162     2
+4   andrea dovizioso        honda    20    + 28.824     7
+5          ben spies       suzuki    20    + 29.645     5
+6   sylvain guintoli       ducati    20    + 36.223    14
+7       dani pedrosa        honda    20    + 37.258     8
+8    chris vermeulen       suzuki    20    + 38.442    15
+9    alex de angelis        honda    20    + 42.437    12
+10      anthony west     kawasaki    20    + 47.179    19
+11        toni elias       ducati    20    + 55.962     9
+12   randy de puniet        honda    20    + 57.366     6
+13      john hopkins     kawasaki    20    + 58.353    16
+14     colin edwards       yamaha    20  + 1:00.613    11
+15   loris capirossi       suzuki    20  + 1:05.620    13
+16     shinya nakano        honda    20  + 1:05.854    17
+17    james toseland       yamaha    20  + 1:07.968    10
+18    marco melandri       ducati    20  + 1:21.023    18

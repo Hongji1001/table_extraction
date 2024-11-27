@@ -1,0 +1,17 @@
+    week                 date             opponent     result  attendance
+0      1   september 9 , 2001  pittsburgh steelers   w 21 - 3       63785
+1      2  september 23 , 2001     tennessee titans   w 13 - 6       65994
+2      3  september 30 , 2001     cleveland browns  l 14 - 23       57875
+3      4     october 7 , 2001     seattle seahawks  l 15 - 24       54524
+4      6    october 18 , 2001        buffalo bills  l 10 - 13       58893
+5      7    october 28 , 2001     baltimore ravens  l 17 - 18       69439
+6      8    november 4 , 2001     tennessee titans  l 24 - 28       68798
+7      9   november 11 , 2001   cincinnati bengals  w 30 - 13       57161
+8     10   november 18 , 2001  pittsburgh steelers   l 7 - 20       62644
+9     11   november 25 , 2001     baltimore ravens  l 21 - 24       53530
+10    12    december 3 , 2001    green bay packers  l 21 - 28       66908
+11    13    december 9 , 2001   cincinnati bengals  w 14 - 10       44920
+12    14   december 16 , 2001     cleveland browns  w 15 - 10       72818
+13    15   december 23 , 2001    minnesota vikings   w 33 - 3       64150
+14    16   december 30 , 2001   kansas city chiefs  l 26 - 30       59396
+15    17     january 6 , 2002        chicago bears  l 13 - 33       66944

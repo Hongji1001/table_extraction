@@ -1,0 +1,32 @@
+                 player      position date of birth (age)  caps   club / province
+0          ryo yamamura          prop       9 august 1981    34            jubilo
+1     masahito yamamoto          prop         29 may 1978    25          verblitz
+2         tomokazu soma          prop         5 june 1977    13      wild knights
+3   tatsukichi nishiura          prop    20 february 1976     7   west red sparks
+4        yuji matsubara        hooker    5 september 1979    19  kobelco steelers
+5           yusuke aoki        hooker        19 june 1983     2          verblitz
+6           hitoshi ono          lock          6 may 1978    20       brave lupus
+7      takanori kumagae          lock         31 may 1978    25     green rockets
+8      luatangi vatuvei          lock     8 december 1977    20            liners
+9         luke thompson          lock       16 april 1981     5            liners
+10    yasunori watanabe       flanker         2 june 1974    30       brave lupus
+11          hajime kiso       flanker     7 november 1978    28            jubilo
+12          hare makiri       flanker         31 may 1978    16           fukuoka
+13     philip o 'reilly       flanker        24 july 1980     5      wild knights
+14     takamichi sasaki       flanker     30 october 1983     5        sungoliath
+15  takuro miuchi ( c )      number 8    11 december 1975    36     green rockets
+16          yuki yatomi  scrum - half    16 february 1985     7            jubilo
+17       tomoki yoshida  scrum - half    22 february 1982     4       brave lupus
+18         kim chul won  scrum - half     22 january 1984     0            liners
+19            eiji ando    fly - half         14 may 1982    12     green rockets
+20           kousei ono    fly - half       17 april 1987     3           fukuoka
+21       shotaro onishi        centre    18 november 1978    24            jubilo
+22        nataniela oto        centre         16 may 1980    11       brave lupus
+23         yuta imamura        centre     31 october 1984    11  kobelco steelers
+24           koji taira        centre     12 january 1983     3        sungoliath
+25         bryce robins        centre   19 september 1980     6        black rams
+26     hirotoki onozawa          wing       29 march 1978    35        sungoliath
+27          kosuke endo          wing    11 november 1980    13          verblitz
+28      tomoki kitagawa          wing        25 july 1983     2      wild knights
+29    christian loamanu          wing         13 may 1986     7           saitama
+30             go aruga      fullback    13 november 1983     7        sungoliath

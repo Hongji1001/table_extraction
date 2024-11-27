@@ -1,0 +1,8 @@
+        name actual version                          system                              platform license
+0       mess          0.147  various computers and consoles                      cross - platform  custom
+1     fellow          0.5.1                           amiga                               windows     gpl
+2        uae         0.8.29                           amiga                unix , beos , nextstep     gpl
+3    e - uae     0.8.29wip4                           amiga                    unix , os x , beos     gpl
+4     winuae          2.6.0                           amiga                               windows     gpl
+5    uae4all            rc1                           amiga  windows , linux , dreamcast , dingoo     gpl
+6  pocketuae       20060121                           amiga                             pocket pc     gpl

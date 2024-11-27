@@ -1,0 +1,11 @@
+   rank               name           years  matches  goals
+0     1        horst siegl     1993 - 2006      285    124
+1     2      ludek zelenka     1995 - 2009      341     92
+2     3    stanislav vlcek  1993 - present      386     90
+3     4  vratislav lokvenc     1993 - 2000      200     78
+4     5        radim holub     1993 - 2009      300     77
+5     6       pavel verbír  1996 - present      343     74
+6     7        libor došek  1998 - present      253     72
+7     8        tomáš došek  1997 - present      230     67
+8     9     vítezslav tuma     1993 - 2004      192     66
+9    10        marek kincl     1994 - 2010      214     63

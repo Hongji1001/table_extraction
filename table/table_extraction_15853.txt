@@ -1,0 +1,9 @@
+   rank  lane                  name    nationality     time
+0     1     4           ryan lochte  united states  1:57.69
+1     2     5        thiago pereira         brazil  1:58.06
+2     3     1         james goddard  great britain  1:58.63
+3     4     3          bradley ally       barbados  1:59.53
+4     5     2          takuro fujii          japan  1:59.59
+5     6     6     alessio boggiatto          italy  1:59.77
+6     7     8          leith brodie      australia  2:00.57
+7     8     7  vytautas januå¡aitis      lithuania  2:00.76

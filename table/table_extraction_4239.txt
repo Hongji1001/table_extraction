@@ -1,0 +1,26 @@
+                                            title                japan        north america               europe            australia
+0                     battle princess of arcadias  september 26 , 2013           unreleased           unreleased           unreleased
+1                      disgaea : hour of darkness    january 30 , 2003     august 27 , 2003        may 28 , 2004        june 9 , 2004
+2                      disgaea 2: cursed memories   february 23 , 2006     august 29 , 2006    november 3 , 2006   november 23 , 2006
+3                   disgaea 3: absence of justice    january 31 , 2008     august 26 , 2008   february 20 , 2009       march 5 , 2009
+4                disgaea 4: a promise unforgotten   february 24 , 2011   september 6 , 2011    november 4 , 2011   november 24 , 2011
+5                                disgaea infinite    november 1 , 2009        june 8 , 2010   november 17 , 2010           unreleased
+6                 disgaea d2: a brighter darkness      march 20 , 2013     october 8 , 2013  september 27 , 2013  september 27 , 2013
+7                        doki doki shutter chance    october 23 , 1997           unreleased           unreleased           unreleased
+8                    jigsaw land : japan graffiti  september 13 , 1996           unreleased           unreleased           unreleased
+9                                  jigsaw madness           unreleased    december 1 , 2002       june 27 , 2003           unreleased
+10                                   jigsaw party       july 22 , 1994      december , 1994           unreleased           unreleased
+11                                   jigsaw world    february 3 , 1995           unreleased           unreleased           unreleased
+12                           la pucelle : tactics    january 31 , 2002         may 4 , 2004       april 1 , 2005      april 15 , 2005
+13  makai kingdom : chronicles of the sacred tome      march 17 , 2005       july 26 , 2005    october 25 , 2005           unreleased
+14                                  phantom brave    january 22 , 2004     august 31 , 2004    february 4 , 2005           unreleased
+15              prinny : can i really be the hero   november 20 , 2008   february 17 , 2009       june 26 , 2009           unreleased
+16    prinny 2: dawn of operation panties , dood!      march 25 , 2010    january 11 , 2011   december 15 , 2010           unreleased
+17                 rhapsody : a musical adventure   december 17 , 1998       july 30 , 2000           unreleased           unreleased
+18                  soul nomad & the world eaters   february 15 , 2007  september 25 , 2007       june 27 , 2008           unreleased
+19                       souryu : logical mahjong   december 20 , 1996           unreleased           unreleased           unreleased
+20                        special report division     august 23 , 2012           unreleased           unreleased           unreleased
+21                        the guided fate paradox    january 23 , 2013    november 5 , 2013    october 25 , 2013           unreleased
+22      the oni taiji : mezase! nidaime momotarou    october 13 , 1995           unreleased           unreleased           unreleased
+23                            zillions of enemy x        may 23 , 2013           unreleased           unreleased           unreleased
+24       zhp unlosing ranger vs darkdeath evilman      march 11 , 2010    october 26 , 2010    november 3 , 2010           unreleased

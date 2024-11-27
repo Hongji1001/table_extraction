@@ -1,0 +1,9 @@
+   series                     title      directed by     written by   original air date production code  us viewers (million)
+0       1                     pilot   bronwen hughes  michael sardo   january 20 , 2011      fl101 - 75                  3.88
+1       2                 priceless        andy wolk  michael sardo   january 27 , 2011           fl102                  4.10
+2       3                   benched   john showalter    aaron tracy   february 3 , 2011           fl103                  3.67
+3       5          the two richards     paul holahan       jan nash  february 17 , 2011           fl105                  3.22
+4       6                 believers     tricia brock      jim adler  february 24 , 2011           fl106                  3.06
+5       7               coming home    steven depaul      jim adler      march 3 , 2011           fl107                  3.21
+6       8                ultravinyl    bob berlinger   blair singer     march 10 , 2011           fl108                  2.81
+7       9  my best friend 's prenup  vincent misiano        ben lee     march 17 , 2011           fl109                  4.04

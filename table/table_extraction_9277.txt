@@ -1,0 +1,10 @@
+   position                     club (city / town)  games played   w - l - d goals for / against  points
+0         1  hankook verdes united ( san ignacio )            16   7 - 3 - 6             26 - 17      27
+1         2              fc belize ( belize city )            16   8 - 5 - 3             29 - 22      27
+2         3                    wagiya ( dangriga )            16   7 - 4 - 5             29 - 24      26
+3         4            defence force (belize city)            16   6 - 2 - 8             18 - 14      26
+4         5  san pedro dolphins ( san pedro town )            16   6 - 4 - 6             20 - 18      24
+5         6      georgetown ibayani (independence)            16   5 - 7 - 4             28 - 32      19
+6         7      juventus ( orange walk , belize )            16   5 - 9 - 2             31 - 32      17
+7         8  revolutionary conquerors ( dangriga )            16   3 - 7 - 6             25 - 32      15
+8         9              santel 's ( santa elena )            16  4 - 10 - 2             16 - 31      14

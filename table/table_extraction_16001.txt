@@ -1,0 +1,9 @@
+   rank  heat            cyclist          nation    result
+0     1     3     rebecca romero   great britain  3:27.703
+1     2     4  wendy houvenaghel   great britain  3:27.829
+2     3     2   lesya kalitovska         ukraine  3:31.785
+3     4     1      alison shanks     new zealand  3:32.478
+4     5     1       sarah hammer   united states  3:34.237
+5     6     2  vilija sereikaitė       lithuania  3:36.808
+6     7     3      katie mactier       australia       lap
+7     8     4     lada kozlíková  czech republic       dnf

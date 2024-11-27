@@ -1,0 +1,7 @@
+  country ( exonym ) capital ( exonym )       country ( endonym )       capital ( endonym ) official or native language (s) (alphabet / script)
+0            iceland          reykjavík                    ísland                 reykjavík                                           icelandic
+1          indonesia            jakarta                 indonesia                   jakarta                                    bahasa indonesia
+2               iran             tehran                īrān ایران              tehrān تهران                           persian ( arabic script )
+3               iraq            baghdad    al - 'iraq العراق îraq       baghdad بغداد bexda                    arabic ( arabic script ) kurdish
+4            ireland             dublin              éire ireland  baile átha cliath dublin                                       irish english
+5        isle of man            douglas  isle of man ellan vannin           douglas doolish                                        english manx

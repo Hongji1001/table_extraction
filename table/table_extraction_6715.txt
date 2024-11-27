@@ -1,0 +1,16 @@
+            player  rec  yards   avg  td 's  long
+0    chris jackson  119   1438  12.1     36    45
+1        derek lee  127   1427  11.2     26    48
+2    jamin elliott   66    745  11.3     12    29
+3    chris johnson   20    237  11.9      4    31
+4        rob carey   18    225  12.5      5    34
+5    jacques rumph   21    214  10.2      1    44
+6    robert thomas    8     52   6.5      1    13
+7   jermaine smith    4     51  12.8      0    18
+8      carl morris    5     41   8.2      1    10
+9     ricky parker    3     34  11.3      0    15
+10  kevin aldridge    2     21  10.5      0    13
+11    matt huebner    2     13   6.5      1    10
+12       nick ward    2     12   6.0      0     8
+13   bruce mcclure    1      8   8.0      0     8
+14   rober freeman    1      7   7.0      0     7

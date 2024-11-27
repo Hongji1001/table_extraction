@@ -1,0 +1,10 @@
+               romanised name chinese name  age at appointment foreign nationality                 portfolio attachment govt salary
+0      chan chi - yuen , paul          陳智遠                  28               n / a                      food and health   hk 134150
+1   cheung , raymond man - to          張文韜                  46               n / a                            education    hk134150
+2      choy siu - min , linda          蔡少綿                  37               n / a                          environment    hk149055
+3       lo yik - kee , victor          盧奕基                  55             british                             security    hk134150
+4     mok yee - tuen , zandra          莫宜端                  35               n / a                   labour and welfare    hk134150
+5  ng kit - shuen , katherine          伍潔鏇                  34        an singapore  financial services and the treasury    hk163960
+6    tsui ying - wai , caspar          徐英偉                  31            canadian                         home affairs    hk134150
+7   yip kan - chuen , frankie          葉根銓                  38               n / a                  financial secretary    hk134150
+8    young chit - on , jeremy          楊哲安                  32             british                        food & health    hk134150

@@ -1,0 +1,19 @@
+                       club                                city                         stadium  capacity         200708 season
+0      bassano virtus 55 st                  bassano del grappa            stadio rino mercante      3900   2nd in serie c2 / b
+1   ac bellaria igea marina              bellaria - igea marina             stadio enrico nanni      2500   7th in serie c2 / b
+2          carrarese calcio                             carrara                stadio dei marmi     15000  13th in serie c2 / b
+3         celano fc olimpia                              celano                 stadio comunale      3200   5th in serie c2 / c
+4      as cisco calcio roma                                rome                 stadio flaminio     25000   9th in serie c2 / c
+5             vf colligiana                 colle di val d'elsa               stadio gino manni      3000    2nd in serie d / e
+6     cuoiopelli cappiano r               santa croce sull'arno            stadio libero masini      3350  11th in serie c2 / b
+7                as figline                    figline valdarno       stadio goffredo del buffa      1700       1st serie d / e
+8             ac giacomense  masi torello (playing in ferrara )              stadio paolo mazza     19000       1st serie d / d
+9         giulianova calcio                          giulianova            stadio rubens fadini      5625  12th in serie c2 / b
+10           as gubbio 1910                              gubbio  stadio polisportivo san biagio      5000  10th in serie c2 / b
+11            us poggibonsi                          poggibonsi            stadio stefano lotti      3621   6th in serie c2 / b
+12                 ac prato                               prato            stadio lungobisenzio      6800   9th in serie c2 / b
+13            rovigo calcio                              rovigo      stadio francesco gabrielli      3200  16th in serie c2 / b
+14        san marino calcio             serravalle , san marino                 stadio olimpico      7000   5th in serie c2 / b
+15    ac sangiovannese 1927               san giovanni valdarno          stadio virgilio fedini      3800  17th in serie c1 / b
+16           ac sangiustese                    monte san giusto        stadio villa san filippo      1487       1st serie d / f
+17     fc esperia viareggio                           viareggio                 stadio dei pini      4700  14th in serie c2 / b

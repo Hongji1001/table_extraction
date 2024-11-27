@@ -1,0 +1,9 @@
+           office       branch         location  elected        term began        term ended
+0  representative  legislative  washington , dc     1982  january 3 , 1983  january 3 , 1985
+1  representative  legislative  washington , dc     1984  january 3 , 1985  january 3 , 1987
+2  representative  legislative  washington , dc     1986  january 3 , 1987  january 3 , 1989
+3  representative  legislative  washington , dc     1988  january 3 , 1989  january 3 , 1991
+4  representative  legislative  washington , dc     1990  january 3 , 1991  january 3 , 1993
+5         senator  legislative  washington , dc     1992  january 3 , 1993  january 3 , 1999
+6         senator  legislative  washington , dc     1998  january 3 , 1999  january 3 , 2005
+7         senator  legislative  washington , dc     2004  january 3 , 2005  january 3 , 2011

@@ -1,0 +1,35 @@
+    pick             player                           team                position                                   school
+0     31        josh smoker           washington nationals   left - handed pitcher               calhoun high school ( ga )
+1     32        nick noonan           san francisco giants               shortstop                parker high school ( ca )
+2     33        jon gilmore                 atlanta braves           third baseman             iowa city high school ( ia )
+3     34       todd frazier                cincinnati reds               shortstop                                  rutgers
+4     35       julio borbon                  texas rangers              outfielder                                tennessee
+5     36  clayton mortensen             st louis cardinals  right - handed pitcher                                  gonzaga
+6     37    travis d'arnaud          philadelphia phillies                 catcher              lakewood high school ( ca )
+7     38        brett cecil              toronto blue jays   left - handed pitcher                                 maryland
+8     39       james adkins            los angeles dodgers   left - handed pitcher                                tennessee
+9     40    kellen kulbacki               san diego padres              outfielder                            james madison
+10    41     sean doolittle              oakland athletics           first baseman                                 virginia
+11    42        edward kunz                  new york mets  right - handed pitcher                             oregon state
+12    43   jackson williams           san francisco giants                 catcher                                 oklahoma
+13    44       neil ramirez                  texas rangers  right - handed pitcher            kempsville high school ( va )
+14    45     justin jackson              toronto blue jays               shortstop          t c roberson high school ( nc )
+15    46    drew cumberland               san diego padres               shortstop                  pace high school ( fl )
+16    47    nathan vineyard                  new york mets   left - handed pitcher              woodland high school ( ga )
+17    48     josh donaldson                   chicago cubs                 catcher                                   auburn
+18    49    michael burgess           washington nationals              outfielder          hillsborough high school ( fl )
+19    50         wes roemer           arizona diamondbacks  right - handed pitcher                      cal state fullerton
+20    51  charlie culberson           san francisco giants               shortstop               calhoun high school ( ga )
+21    52       matt mangini               seattle mariners           third baseman                           oklahoma state
+22    53       kyle lotzkar                cincinnati reds  right - handed pitcher  south delta secondary school ( canada )
+23    54       tommy hunter                  texas rangers  right - handed pitcher                                  alabama
+24    55      nick hagadone                 boston red sox   left - handed pitcher                               washington
+25    56   trystan magnuson              toronto blue jays  right - handed pitcher                               louisville
+26    57    mitchell canham               san diego padres                 catcher                             oregon state
+27    58  jonathan bachanov  los angeles angels of anaheim  right - handed pitcher            university high school ( fl )
+28    59        corey brown              oakland athletics              outfielder                           oklahoma state
+29    60   brandon hamilton                 detroit tigers  right - handed pitcher       stanhope elmore high school ( al )
+30    61          ed easley           arizona diamondbacks                 catcher                        mississippi state
+31    62          ryan dent                 boston red sox               shortstop      wilson classical high school ( ca )
+32    63        cory luebke               san diego padres   left - handed pitcher                               ohio state
+33    64        danny payne               san diego padres              outfielder                             georgia tech

@@ -1,0 +1,6 @@
+  opposing team  against            date                          venue      status
+0          fiji       12  28 / 08 / 1973          buckhurst park , suva  tour match
+1      taranaki        6  01 / 09 / 1973      rugby park , new plymouth  tour match
+2    wellington       25  05 / 09 / 1973     athletic park , wellington  tour match
+3    canterbury       19  08 / 09 / 1973  lancaster park , christchurch  tour match
+4   new zealand       10  15 / 09 / 1973           eden park , auckland  test match

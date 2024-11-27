@@ -1,0 +1,8 @@
+                   runner        country  5k wins  10k wins  total
+0           lynn jennings  united states        6         2      8
+1  betty springs - geiger  united states        0         3      3
+2            marla runyan  united states        3         0      3
+3          benita johnson      australia        3         0      3
+4         judi st hilaire  united states        2         0      2
+5            mamitu daska       ethiopia        2         0      2
+6            emily chebet          kenya        2         0      2

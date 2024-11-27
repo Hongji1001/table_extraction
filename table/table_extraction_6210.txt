@@ -1,0 +1,18 @@
+                             race          date           location   pole position      fastest lap       race winner     constructor  report
+0            argentine grand prix     9 january       buenos aires      james hunt       james hunt    jody scheckter     wolf - ford  report
+1            brazilian grand prix    23 january         interlagos      james hunt       james hunt  carlos reutemann         ferrari  report
+2        south african grand prix       5 march            kyalami      james hunt      john watson        niki lauda         ferrari  report
+3   united states grand prix west       3 april         long beach      niki lauda       niki lauda    mario andretti    lotus - ford  report
+4              spanish grand prix         8 may             jarama  mario andretti  jacques laffite    mario andretti    lotus - ford  report
+5               monaco grand prix        22 may             monaco     john watson   jody scheckter    jody scheckter     wolf - ford  report
+6              belgian grand prix        5 june             zolder  mario andretti   gunnar nilsson    gunnar nilsson    lotus - ford  report
+7              swedish grand prix       19 june         anderstorp  mario andretti   mario andretti   jacques laffite  ligier - matra  report
+8               french grand prix        3 july    dijon - prenois  mario andretti   mario andretti    mario andretti    lotus - ford  report
+9              british grand prix       16 july        silverstone      james hunt       james hunt        james hunt  mclaren - ford  report
+10              german grand prix       31 july     hockenheimring  jody scheckter       niki lauda        niki lauda         ferrari  report
+11            austrian grand prix     14 august  ã - sterreichring      niki lauda      john watson        alan jones   shadow - ford  report
+12               dutch grand prix     28 august          zandvoort  mario andretti       niki lauda        niki lauda         ferrari  report
+13             italian grand prix  11 september              monza      james hunt   mario andretti    mario andretti    lotus - ford  report
+14       united states grand prix     2 october       watkins glen      james hunt  ronnie peterson        james hunt  mclaren - ford  report
+15            canadian grand prix     9 october            mosport  mario andretti   mario andretti    jody scheckter     wolf - ford  report
+16            japanese grand prix    23 october      fuji speedway  mario andretti   jody scheckter        james hunt  mclaren - ford  report

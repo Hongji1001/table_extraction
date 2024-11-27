@@ -1,0 +1,7 @@
+               round  clubs remaining  clubs involved winners from previous round new entries this round             leagues entering at this round
+0  preliminary round              123              22                        none                     22  levels 4 and 5 in football league pyramid
+1       second round               64              64                          48                     16                             gambrinus liga
+2        third round               32              32                          32                   none                                       none
+3       fourth round               16              16                          16                   none                                       none
+4     quarter finals                8               8                           8                   none                                       none
+5        semi finals                4               4                           4                   none                                       none

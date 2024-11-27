@@ -1,0 +1,6 @@
+              date            home score            away  attendance
+0  august 6 , 2008        platense   1:1  deportes savio        1594
+1  august 6 , 2008        victoria   1:1         olimpia        2852
+2  august 6 , 2008  marathã cubicn   1:1            vida        1141
+3  august 6 , 2008         hispano   2:0   real juventud        1208
+4  august 6 , 2008         motagua   0:0     real espana        2090

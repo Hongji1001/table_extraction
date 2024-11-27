@@ -1,0 +1,7 @@
+  english name    thai name       transcription   color sanskrit word   planet
+0       sunday   วันอาทิตย์           wan athit     red        aditya      sun
+1       monday    วันจันทร์            wan chan  yellow       chandra     moon
+2      tuesday    วันอังคาร         wan angkhan    pink      angaraka     mars
+3    wednesday       วันพุธ            wan phut   green         budha  mercury
+4     thursday  วันพฤหัสบดี  wan phruehatsabodi  orange    brihaspati  jupiter
+5       friday     วันศุกร์             wan suk    blue        shukra    venus

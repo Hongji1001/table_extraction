@@ -1,0 +1,11 @@
+   round  overall                   player          position         college
+0      2       46             adrian klemm  offensive tackle          hawaii
+1      3       76              j r redmond      running back   arizona state
+2      4      127  greg robinson - randall  offensive tackle  michigan state
+3      5      141          dave stachelski         tight end     boise state
+4      5      161            jeff marriott  defensive tackle        missouri
+5      6      187            antwan harris            safety        virginia
+6      6      199                tom brady       quarterback        michigan
+7      6      201             david nugent     defensive end          purdue
+8      7      226            casey tisdale        linebacker      new mexico
+9      7      239             patrick pass          fullback         georgia

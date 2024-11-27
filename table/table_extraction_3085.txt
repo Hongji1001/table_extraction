@@ -1,0 +1,23 @@
+    series  season                               title           director      writer (s)              airdate
+0      612       1               matt dillon must die!      victor french     ray goldrup   september 9 , 1974
+1      613       2                    a town in chains   bernard mceveety      ron bishop  september 16 , 1974
+2      614       3  the guns of cibola blanca - part 1   gunnar hellstrom     paul savage  september 23 , 1974
+3      615       4  the guns of cibola blanca - part 2   gunnar hellstrom     paul savage  september 30 , 1974
+4      616       5            thirty a month and found   bernard mceveety      jim byrnes     october 7 , 1974
+5      617       6                          the wiving      victor french  earl w wallace    october 14 , 1974
+6      618       7                        the iron men   gunnar hellstrom    john mantley    october 21 , 1974
+7      619       8                   the fourth victim   bernard mceveety      jim byrnes    november 4 , 1974
+8      620       9                 the tarnished badge  michael o'herlihy  robert vincent   november 11 , 1974
+9      621      10              in performance of duty   gunnar hellstrom    william keys   november 18 , 1974
+10     622      11       island in the desert - part 1   gunnar hellstrom      jim byrnes    december 2 , 1974
+11     623      12       island in the desert - part 2   gunnar hellstrom      jim byrnes    december 9 , 1974
+12     624      13                         the colonel   bernard mceveety    arthur dales   december 16 , 1974
+13     625      14                           the squaw   gunnar hellstrom      jim byrnes     january 6 , 1975
+14     626      15                          the hiders      victor french     paul savage    january 13 , 1975
+15     627      16                              larkin   gunnar hellstrom      jim byrnes    january 20 , 1975
+16     628      17              the fires of ignorance      victor french      jim byrnes    january 27 , 1975
+17     629      18                      the angry land   bernard mceveety   herman groves    february 3 , 1975
+18     630      19                   brides and grooms      victor french  earl w wallace   february 10 , 1975
+19     631      20                          hard labor   bernard mceveety    hal sitowitz   february 24 , 1975
+20     632      21             i have promises to keep   gunnar hellstrom      jim byrnes       march 3 , 1975
+21     633      22                         the busters   bernard mceveety      jim byrnes      march 10 , 1975

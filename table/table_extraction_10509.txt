@@ -1,0 +1,11 @@
+   draw          language            artist                              song            english translation  place  points
+0     1           italian  domenico modugno            nel blu dipinto di blu       in the blue painted blue      3      13
+1     2             dutch     corry brokken                    heel de wereld                the whole world      9       1
+2     3            french     andré claveau                  dors , mon amour                sleep , my love      1      27
+3     4            french     solange berry                    un grand amour                   a great love      9       1
+4     5           swedish        alice babs                     lilla stjärna                    little star      4      10
+5     6            danish   raquel rastenni  jeg rev et blad ud af min dagbog  i tore a page out of my diary      8       3
+6     7            french       fud leclerc                  ma petite chatte              my little sweetie      5       8
+7     8            german  margot hielscher           für zwei groschen musik          music for two pennies      7       5
+8     9            german    liane augustin      die ganze welt braucht liebe     the whole world needs love      5       8
+9    10  german , italian         lys assia                           giorgio                              -      2      24

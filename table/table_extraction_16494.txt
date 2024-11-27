@@ -1,0 +1,10 @@
+                      vessel         origin                   type  in service                   unit
+0  oliver hazard perry class  united states                frigate           2  anti - submarine unit
+1               kobben class         norway              submarine           4         submarine unit
+2                 kilo class   soviet union              submarine           1         submarine unit
+3                orkan class   east germany      fast attack craft           3   missile vessels unit
+4             tarantul class   soviet union               corvette           2   missile vessels unit
+5                project 888         poland          training ship           1           support unit
+6                project 281         poland            rescue ship           2           support unit
+7               project 5002         poland            rescue ship           2           support unit
+8                project 863         poland  reconnaissance vessel           2   reconnaissance group

@@ -1,0 +1,13 @@
+      knight                   weapon / item  external weapon shield animal                 cart
+0     arthur                       excalibur             none        dragon          dahlia cart
+1   lancelot                           lance            sword          lion           lance cart
+2      trunk                   battering ram       battle axe           ram         ramhead cart
+3       tone  blacksmith 's hammer and stake            sword       serpent          large wagon
+4     breeze                            pike            sword        sphinx                 none
+5      wally                         daggers  two shortswords        falcon                 none
+6     gallop                       pole mace            sword      cerberus                 none
+7     darren                        crossbow            sword         eagle  giant crossbow cart
+8       phil                     spiked club     mace , sword       panther                 none
+9      brick                      brick wall            sword           bat     brick tower cart
+10      zeke                           spear     sword , club         hydra                 none
+11       lug                        football            sword        kraken          large wagon

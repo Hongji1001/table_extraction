@@ -1,0 +1,11 @@
+         name  goals  caps           first cap          latest cap
+0        pele     77    92       july 7 , 1957      july 18 , 1971
+1     ronaldo     62    98     march 23 , 1994       june 7 , 2011
+2     romário     55    70       may 23 , 1987     april 27 , 2005
+3        zico     48    71  february 25 , 1976      june 21 , 1986
+4      bebeto     39    75     april 28 , 1985      july 12 , 1998
+5     rivaldo     34    74  december 16 , 1993  november 19 , 2003
+6   jairzinho     33    81       june 7 , 1964      march 3 , 1982
+7  ronaldinho     33    97      june 26 , 1999     april 24 , 2013
+8      ademir     32    39   january 21 , 1945     march 15 , 1953
+9      tostão     32    54       may 15 , 1966       july 9 , 1972

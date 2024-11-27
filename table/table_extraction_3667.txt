@@ -1,0 +1,8 @@
+   pick      cfl team           player position             college
+0    34  saskatchewan     andre batson       wr                york
+1    35            bc  jamie macdonald       ot   northern illinois
+2    36      hamilton      luc normand       wr          university
+3    37      winnipeg   jonathan swift       lb  tennessee - martin
+4    38      montreal    andy brereton       sb    western michigan
+5    39       calgary    trent bagnail       ol        saskatchewan
+6    40      edmonton      oj santiago       te          kent state

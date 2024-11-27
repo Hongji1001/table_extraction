@@ -1,0 +1,31 @@
+    round  pick                  player position               college
+0       1     5  elroy crazylegs hirsch      end              michigan
+1       2    16          milan lazetich   tackle              michigan
+2       3    21         wg (dub) wooten      end              oklahoma
+3       4    32              jack zilly      end            notre dame
+4       5    37           roger harding   center            california
+5       6    48            jerry cowhig     back            notre dame
+6       7    59              fred negus   center             wisconsin
+7       8    70           johnny august     back               alabama
+8       9    81            dick huffman   tackle             tennessee
+9      10    92            vern walters     back                  alma
+10     11   103               tom fears      end                  ucla
+11     12   114             joe winkler   center                purdue
+12     13   125              jack aland   tackle               alabama
+13     14   136             chuck uknes     back                  iowa
+14     15   147               bill lund     back  case western reserve
+15     16   158              bob barton      end            holy cross
+16     17   169            dick hoerner     back                  iowa
+17     18   180              lee kennon   tackle              oklahoma
+18     19   191          eagle matulich     back     mississippi state
+19     20   202            bill griffin   tackle              kentucky
+20     21   213          leroy erickson     back                oregon
+21     22   224               ray evans   tackle       texas - el paso
+22     23   235            luke higgins   tackle            notre dame
+23     24   246              stan nowak      end        south carolina
+24     25   257            gene konopka    guard             villanova
+25     26   268              ray florek     back              illinois
+26     27   279              russ perry     back           wake forest
+27     28   290                pat west     back                   usc
+28     29   301              bill davis     back                oregon
+29     30   312         charley compton   tackle               alabama

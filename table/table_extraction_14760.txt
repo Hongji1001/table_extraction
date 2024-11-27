@@ -1,0 +1,42 @@
+    track                            song title                      artist                                     album legends track
+0       1                     lights and sounds                  yellowcard                     5.4 lights and sounds           yes
+1       2  break on through (to the other side)                   the doors                             5.4 the doors            no
+2       3                               shotgun                 the outline  5.4 you smash it , we'll build around it           yes
+3       4                           life burns!                apocalyptica                          5.4 apocalyptica            no
+4       5                      top of the world  the all - american rejects                            5.4 move along            no
+5       6                          the big jump       the chemical brothers                       5.4 push the button            no
+6       7                              stand up                   pennywise                              5.4 the fuse           yes
+7       8          tuned to a different station                        dogs                5.4 turn against this land           yes
+8       9                             the world           the starting line                 5.4 based on a true story            no
+9      10      daft punk is playing at my house             lcd soundsystem                       5.4 lcd soundsystem            no
+10     11                      do what you want                       ok go                                 5.4 oh no           yes
+11     12                  band - girls - money                        tsar                  5.4 band - girls - money           yes
+12     13                               come on          andy hunter degree                                  5.4 life            no
+13     14                           almost here              the academy is                           5.4 almost here           yes
+14     15                            riot radio                the dead 60s                          5.4 the dead 60s           yes
+15     16                               nü rock                 morningwood                           5.4 morningwood           yes
+16     17                                 today                   junkie xl                                 4.2 today           yes
+17     18                      heard that sound                        mxpx                                 5.4 panic           yes
+18     19                                 bundy                animal alpha                            5.4 pheromones           yes
+19     20                                i want                  goldfinger                  5.4 disconnection notice           yes
+20     21                         hand of blood     bullet for my valentine                         5.4 hand of blood            no
+21     22                         dance , dance                fall out boy              5.4 from under the cork tree            no
+22     23                          all the rage        funeral for a friend                                 5.4 hours            no
+23     24                   apply some pressure                 maxïmo park                     5.4 a certain trigger            no
+24     25                          better world                    infusion              5.4 six feet above yesterday            no
+25     26                     an honest mistake                 the bravery                           5.4 the bravery            no
+26     27                                   ink                       finch                 5.4 say hello to sunshine           yes
+27     28                          the hey man!                     emanuel              5.4 soundtrack to a headrush           yes
+28     29                    as the tables turn                         cky                5.4 an answer can be found            no
+29     30                              red flag                billy talent                       5.4 billy talent ii           yes
+30     31                         wake the dead                comeback kid                         5.4 wake the dead           yes
+31     32                            helicopter                  bloc party                          5.4 silent alarm            no
+32     33                               flyover        asian dub foundation                                  5.4 tank            no
+33     34                     straight to video    mindless self indulgence              5.4 you'll rebel to anything           yes
+34     35                  beast and the harlot           avenged sevenfold                          5.4 city of evil            no
+35     36                             first day                   timo maas                              5.4 pictures            no
+36     37                      the great escape           we are scientists                 5.4 with love and squalor           yes
+37     38                                 fight               unwritten law               5.4 here 's to the mourning            no
+38     39                     fear and loathing           the black velvets                     5.4 the black velvets           yes
+39     40                               lullaby                      thrice                               5.4 vheissu            no
+40     41                             shot down             nine black alps                         5.4 everything is           yes

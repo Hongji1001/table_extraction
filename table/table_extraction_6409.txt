@@ -1,0 +1,19 @@
+                                  city               country                                            airport iata  icao
+0                              bangkok              thailand                               suvarnabhumi airport  bkk  vtbs
+1                              barisal            bangladesh                                    barisal airport  bzl  vgbr
+2                           chittagong            bangladesh                  shah amanat international airport  cgp  vgeg
+3                         cox 's bazar            bangladesh                               cox 's bazar airport  cxb  vgcb
+4                                dhaka            bangladesh                    shahjalal international airport  dac  vghs
+5                                dubai  united arab emirates                        dubai international airport  dxb  omdb
+6   ishwardi (begins 18 november 2013)            bangladesh                                   ishwardi airport  ird  vgis
+7                               jeddah          saudi arabia               king abdulaziz international airport  jed  oejn
+8                              jessore            bangladesh                                    jessore airport  jsr  vgjr
+9                            kathmandu                 nepal                    tribhuvan international airport  ktm  vnkt
+10                             kolkata                 india  netaji subhash chandra bose international airport  ccu  vecc
+11                        kuala lumpur              malaysia                 kuala lumpur international airport  kul  wmkk
+12                              london        united kingdom                                    gatwick airport  lgw  egkk
+13                              muscat                  oman                       muscat international airport  mct  ooms
+14                            rajshahi            bangladesh                               shah makhdum airport  rjh  vgrj
+15                             saidpur            bangladesh                                    saidpur airport  spd  vgsd
+16                           singapore             singapore                           singapore changi airport  sin  wsss
+17                              sylhet            bangladesh                       osmani international airport  zyl  vgsy

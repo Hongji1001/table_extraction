@@ -1,0 +1,39 @@
+                 date           opponent venue result  attendance
+0      19 august 2001  manchester united     a  2 - 3       67534
+1      22 august 2001         sunderland     h  2 - 0       20197
+2      25 august 2001       derby county     h  0 - 0       15641
+3    9 september 2001  charlton athletic     a  1 - 1       20451
+4   15 september 2001            arsenal     h  1 - 3       20805
+5   22 september 2001     leicester city     a  0 - 0       18918
+6   30 september 2001            chelsea     h  1 - 1       20197
+7     14 october 2001        aston villa     a  0 - 2       28579
+8     21 october 2001       ipswich town     h  1 - 1       17221
+9     27 october 2001        southampton     h  2 - 1       18771
+10    3 november 2001    west ham united     a  2 - 0       26217
+11   17 november 2001   newcastle united     h  3 - 1       21159
+12   24 november 2001   bolton wanderers     a  0 - 0       23848
+13    2 december 2001       leeds united     h  0 - 0       20918
+14    8 december 2001            everton     h  2 - 0       19338
+15   12 december 2001          liverpool     a  0 - 0       37163
+16   15 december 2001  tottenham hotspur     a  0 - 4       36054
+17   26 december 2001  charlton athletic     h  0 - 0       17900
+18   30 december 2001  manchester united     h  2 - 3       21159
+19     2 january 2002       derby county     a  1 - 0       28165
+20    12 january 2002      middlesbrough     h  2 - 1       18975
+21    19 january 2002         sunderland     a  1 - 1       45124
+22    30 january 2002       ipswich town     a  0 - 1       25156
+23    2 february 2002        aston villa     h  0 - 0       20041
+24    9 february 2002   blackburn rovers     h  2 - 0       19580
+25   19 february 2002      middlesbrough     a  1 - 2       26235
+26   23 february 2002            arsenal     a  1 - 4       38029
+27       2 march 2002          liverpool     h  0 - 2       21103
+28       6 march 2002            chelsea     a  2 - 3       39744
+29      16 march 2002            everton     a  1 - 2       34639
+30      24 march 2002  tottenham hotspur     h  0 - 2       15885
+31      30 march 2002        southampton     a  1 - 1       31616
+32       1 april 2002    west ham united     h  0 - 1       19416
+33       8 april 2002   newcastle united     a  1 - 1       50017
+34      20 april 2002       leeds united     a  1 - 0       39111
+35      23 april 2002   bolton wanderers     h  3 - 0       18107
+36      27 april 2002     leicester city     h  0 - 0       21106
+37        11 may 2002   blackburn rovers     a  0 - 3       30487

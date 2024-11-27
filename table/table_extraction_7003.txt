@@ -1,0 +1,11 @@
+   track                   title                         translation                        composer        recorded
+0      1  la valse à mille temps  the waltz a thousand times as fast                    jacques brel  1959 - 09 - 14
+1      2                    seul                               alone                    jacques brel  1959 - 09 - 15
+2      3     la dame patronnesse                      the patronness                    jacques brel  1959 - 09 - 11
+3      4               je t'aime                          i love you  jacques brel , françois rauber  1959 - 09 - 17
+4      5        ne me quitte pas                      don't leave me                    jacques brel  1959 - 09 - 11
+5      6           les flamandes                       flemish women                    jacques brel  1959 - 09 - 14
+6      7                isabelle                            isabelle  jacques brel , françois rauber  1959 - 09 - 15
+7      8                 la mort                               death                    jacques brel  1959 - 09 - 14
+8      9            la tendresse                          tenderness                    jacques brel  1959 - 09 - 11
+9     10              la colombe                            the dove                    jacques brel  1959 - 09 - 15

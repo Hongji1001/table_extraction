@@ -1,0 +1,44 @@
+                 mission            location                type                        head of mission         position  list
+0                germany              berlin             embassy              he rafael calventi gaviño       ambassador  list
+1                austria              vienna             embassy                         ramón quiñones       ambassador  list
+2                belgium            brussels             embassy        alejandro augusto gonzález pons       ambassador  list
+3                 brazil            brasilia             embassy                  héctor dionisio pérez       ambassador  list
+4                  chile            santiago             embassy           pablo arturo maríñez álvarez       ambassador  list
+5      republic of china              taipei             embassy             víctor manuel sánchez peña       ambassador  list
+6               colombia              bogotá             embassy                         ángel lockward       ambassador  list
+7             costa rica            san josé             embassy              adonaida medina rodríguez       ambassador  list
+8                   cuba              havana             embassy          josé manuel castillo betances       ambassador  list
+9                ecuador               quito             embassy                nestor juan cerón suero       ambassador  list
+10                 egypt               cairo             embassy                 maría gabriela bonetti       ambassador  list
+11           el salvador        san salvador             embassy                       roberto victoria       ambassador  list
+12                france               paris             embassy               guillermo piña contreras       ambassador  list
+13                greece              athens           consulate             genoveva bernard de roidis   general consul  list
+14             guatemala      guatemala city             embassy  octavio alfredo león lister henríquez       ambassador  list
+15                 haiti  port - au - prince             embassy                     rubén silié valdez       ambassador  list
+16          vatican city        vatican city             embassy                        víctor grimaldi       ambassador  list
+17              honduras         tegucigalpa             embassy        josé del carmen acosta carrasco       ambassador  list
+18                 india           new delhi             embassy      frank hans dannenberg castellanos       ambassador  list
+19                israel            tel aviv             embassy                   alexander de la rosa       ambassador  list
+20                 italy                rome             embassy                    vinicio tobal ureña       ambassador  list
+21               jamaica            kingston             embassy               filomena navarro tavárez       ambassador  list
+22                 japan               tokyo             embassy                     pedro vergés ciman       ambassador  list
+23           south korea               seoul             embassy                   hector galvan susana       ambassador  list
+24                mexico         mexico city             embassy           pablo arturo mariñez álvarez       ambassador  list
+25               morocco               rabat             embassy                  francisco a caraballo       ambassador  list
+26           netherlands           the hague             embassy                       luis arias nunez       ambassador  list
+27             nicaragua             managua             embassy                         pedro blandino       ambassador  list
+28                panama         panama city             embassy       virgilio augusto álvarez bonilla       ambassador  list
+29                  peru                lima             embassy           rafael antonio julian cedano       ambassador  list
+30              portugal              lisbon             embassy             ana silvia reynoso de abud       ambassador  list
+31                 qatar                doha             embassy                     hugo guiliani cury       ambassador  list
+32          south africa            pretoria             embassy                   raul barrientos lara       ambassador  list
+33                russia              moscow             embassy              jorge luís pérez alvarado       ambassador  list
+34                 spain              madrid             embassy                           césar medina       ambassador  list
+35                sweden           stockholm             embassy          marina isabel cáceres estévez       ambassador  list
+36           switzerland               berne             embassy                 josé tomás ares germán       ambassador  list
+37   trinidad and tobago       port of spain             embassy                   josé manuel castillo       ambassador  list
+38  united arab emirates               dubai  honorary consulate               sultan ahmed bin sulayem  honorary consul  list
+39        united kingdom              london             embassy                       anibal de castro       ambassador  list
+40         united states       washington dc             embassy                        roberto saladín       ambassador  list
+41               uruguay          montevideo             embassy                    silvio herasme peña       ambassador  list
+42             venezuela             caracas             embassy                   jaime durán hernando       ambassador  list

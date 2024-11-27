@@ -1,0 +1,9 @@
+   rank  lane               name    nationality   time
+0     1     4         matt welsh      australia  54.52
+1     2     5        josh watson      australia  54.93
+2     3     3        neil walker  united states  55.20
+3     4     1       chris renaud         canada  55.70
+4     5     2  alexandre massura         brazil  56.07
+5     6     6     gordan koå¾ulj        croatia  56.26
+6     7     7       david ortega          spain  56.33
+7     8     8      adam ruckwood  great britain  56.34

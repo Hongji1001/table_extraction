@@ -1,0 +1,26 @@
+   position  jersey                 name  height (cm)  weight (kg)           birthdate                    birthplace          20072008 team
+0         g      31       craig anderson          188           79       may 21 , 1981         park ridge , illinois       florida panthers
+1         g      35         robert esche          188          102   january 22 , 1978         whitesboro , new york  ak bars kazan ( khl )
+2         g      30           tim thomas          180           91     april 15 , 1974            davison , michigan          boston bruins
+3         d       2        keith ballard          180           91  november 26 , 1982          baudette , minnesota        phoenix coyotes
+4         d      77          tom gilbert          191           95   january 10 , 1983       bloomington , minnesota        edmonton oilers
+5         d       6          tim gleason          183           98   january 29 , 1983            clawson , michigan    carolina hurricanes
+6         d       5          matt greene          191          101       may 13 , 1983        grand ledge , michigan        edmonton oilers
+7         d       4       jordan leopold          185           91     august 3 , 1980     golden valley , minnesota     colorado avalanche
+8         d      10          paul martin          187           77      march , 5 1981       minneapolis , minnesota      new jersey devils
+9         d      22          mark stuart          188           97     april 27 , 1984         rochester , minnesota          boston bruins
+10        d      43     james wisniewski          180           88  february 21 , 1984             canton , michigan     chicago blackhawks
+11       lw       7          david booth          183           96  november 24 , 1984            detroit , michigan       florida panthers
+12       lw      83         patrick kane          178           81  november 19 , 1988            buffalo , new york     chicago blackhawks
+13       lw       9  patrick o 'sullivan          180           86   february 1 , 1985              toronto , canada               la kings
+14       lw      17          zach parise          180           86      july 28 , 1984        prior lake , minnesota      new jersey devils
+15        c      16     brandon dubinsky          185           95     april 29 , 1986            anchorage , alaska       new york rangers
+16        c      11         jeff halpern          183           90        may 3 , 1976            potomac , maryland    tampa bay lightning
+17        c      88        peter mueller          188           93     april 14 , 1988       bloomington , minnesota        phoenix coyotes
+18        c      12        lee stempniak          183           88   february 4 , 1983        west seneca , new york         st louis blues
+19       rw      42         david backes          188           98        may 1 , 1984                   minneapolis         st louis blues
+20       rw      23         dustin brown          187           82   november , 4 1984             ithaca , new york               la kings
+21       rw      37          adam burish          185           91    january 6 , 1983           madison , wisconsin     chicago blackhawks
+22       rw       8          phil kessel          183           86    october , 2 1987           madison , wisconsin          boston bruins
+23       rw      29     jason pominville          183           84  november 30 , 1982  repentigny , quebec , canada         buffalo sabres
+24       rw      19        drew stafford          188           92   october 30 , 1985         milwaukee , wisconsin         buffalo sabres

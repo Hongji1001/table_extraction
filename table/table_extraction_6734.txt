@@ -1,0 +1,39 @@
+                               player   no (s) height in ft         position        years for rockets school / club team / country
+0             bailey , gus gus bailey       22        6 - 6            guard                1974 - 76              texas - el paso
+1         bailey , james james bailey        2        6 - 9          forward                1982 - 84           xavierian brothers
+2               baker , vin vin baker       42       6 - 11          forward                2004 - 05                     hartford
+3             barker , tom tom barker       15       6 - 11           center                1978 - 79                       hawaii
+4   barkley , charles charles barkley        4        6 - 6          forward              1996 - 2000                       auburn
+5         barnes , harry harry barnes       30        6 - 3          forward                1968 - 69                 northeastern
+6           barnett , jim jim barnett       33        6 - 4            guard                1967 - 70                       oregon
+7       barnhill , john john barnhill       30        6 - 1            guard                1967 - 68              tennessee state
+8       barrett , andre andre barrett       12       5 - 10            guard                2004 - 05                   seton hall
+9           barry , brent brent barry       17        6 - 7            guard                2008 - 09                 oregon state
+10              barry , jon jon barry       20        6 - 5            guard                2004 - 06                 georgia tech
+11            barry , rick rick barry        2        6 - 8          forward                1978 - 80                        miami
+12      battier , shane shane battier       31        6 - 8          forward              2006 - 2011                         duke
+13        baxter , lonny lonny baxter       35        6 - 8          forward                2005 - 06                     maryland
+14          behagen , ron ron behagen       34        6 - 9          forward                1977 - 78                    minnesota
+15      bennett , elmer elmer bennett        6        6 - 1            guard                1996 - 97                   notre dame
+16        berry , walter walter berry        6        6 - 8          forward                1988 - 89                     st johns
+17            block , john john block       34        6 - 9          forward                1967 - 71                          usc
+18        bogans , keith keith bogans       10        6 - 5  guard / forward                2005 - 06                     kentucky
+19              bond , phil phil bond       30        6 - 2            guard                1977 - 78                   louisville
+20      booker , melvin melvin booker        9        6 - 1            guard                1995 - 96                     missouri
+21            bowen , ryan ryan bowen       40        6 - 9          forward                2004 - 06                         iowa
+22      bowie , anthony anthony bowie       25        6 - 6            guard                1989 - 90                     oklahoma
+23    bradley , alonzo alonzo bradley  22 , 30        6 - 7          forward                1977 - 80               texas southern
+24    braggs , torraye torraye braggs       32        6 - 8          forward                2003 - 05                       xavier
+25            breaux , tim tim breaux       15        6 - 7  guard / forward                1994 - 96                      wyoming
+26        britt , tyrone tyrone britt       31        6 - 4            guard                1967 - 68              johnson c smith
+27        brooks , aaron aaron brooks        0        6 - 0            guard       2007 - 2011 , 2013                       oregon
+28        brooks , scott scott brooks        1       5 - 11            guard                1992 - 95                  uc - irvine
+29        brown , chucky chucky brown       52        6 - 8          forward                1994 - 96               north carolina
+30            brown , tony tony brown       35        6 - 6          forward                1988 - 89                     arkansas
+31        brown , tierre tierre brown       10        6 - 2            guard                2001 - 02                mcnesse state
+32        brunson , rick rick brunson        9        6 - 4            guard                2005 - 06                       temple
+33            bryant , joe joe bryant       22        6 - 9  forward / guard                1982 - 83                      lasalle
+34          bryant , mark mark bryant        2        6 - 9          forward                1995 - 96                   seton hall
+35    budinger , chase chase budinger       10        6 - 7          forward              2009 - 2012                      arizona
+36        bullard , matt matt bullard       50       6 - 10          forward  1990 - 94 , 1996 - 2001                         iowa
+37      butler , jackie jackie butler       40       6 - 10           center                     2007    coastal christian academy

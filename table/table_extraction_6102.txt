@@ -1,0 +1,7 @@
+          country           date            label        format     catalogue
+0  united kingdom   13 june 1994              4ad            cd   cad 4011 cd
+1  united kingdom   13 june 1994              4ad            lp      cad 4011
+2  united kingdom   13 june 1994              4ad      cassette    cad c 4011
+3   united states   14 june 1994    4ad / reprise            cd   9 45578 - 2
+4           japan  20 march 1996  nippon columbia            cd  cocy - 80093
+5  united kingdom    2 july 2001              4ad  cd (reissue)   gad 4011 cd

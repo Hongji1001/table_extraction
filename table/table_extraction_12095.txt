@@ -1,0 +1,7 @@
+                          concessionaire           fa division (s)     gauge  length , km takeover date
+0                  ferroexpreso pampeano  roca , sarmiento , mitre     broad         5094    1 nov 1991
+1                nuevo central argentino                     mitre     broad         4900   23 dec 1992
+2                          ferrosur roca                      roca     broad         3145   11 mar 1993
+3  buenos aires al pacifico - san martín                san martín     broad         5690   26 aug 1993
+4           mesopotámico general urquiza                   urquiza  standard         2704   22 oct 1993
+5                        belgrano cargas                  belgrano     metre         9860   16 nov 1999

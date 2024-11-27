@@ -1,0 +1,23 @@
+                  driver         constructor  laps time / retired  grid
+0        ralf schumacher      williams - bmw    45    1:18:17.873     2
+1     rubens barrichello             ferrari    45       + 46.117     6
+2     jacques villeneuve         bar - honda    45     + 1:02.806    12
+3   giancarlo fisichella  benetton - renault    45     + 1:03.477    17
+4          jenson button  benetton - renault    45     + 1:05.454    18
+5             jean alesi        prost - acer    45     + 1:05.950    14
+6          olivier panis         bar - honda    45     + 1:17.527    13
+7       enrique bernoldi   arrows - asiatech    44        + 1 lap    19
+8         jos verstappen   arrows - asiatech    44        + 1 lap    20
+9        fernando alonso  minardi - european    44        + 1 lap    21
+10          jarno trulli      jordan - honda    34     hydraulics    10
+11       david coulthard  mclaren - mercedes    27         engine     5
+12         tarso marques  minardi - european    26        gearbox    22
+13    juan pablo montoya      williams - bmw    24         engine     1
+14    michael schumacher             ferrari    23  fuel pressure     4
+15         luciano burti        prost - acer    23       spun off    16
+16        kimi räikkönen   sauber - petronas    16      halfshaft     8
+17          eddie irvine   jaguar - cosworth    16  fuel pressure    11
+18         mika häkkinen  mclaren - mercedes    13         engine     3
+19         ricardo zonta      jordan - honda     7      collision    15
+20         nick heidfeld   sauber - petronas     0      collision     7
+21      pedro de la rosa   jaguar - cosworth     0      collision     9

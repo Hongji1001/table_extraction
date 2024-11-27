@@ -1,0 +1,9 @@
+               play                       author                        company          base         country
+0           cyclops                    euripides              amphiktio theatre       nicosia          cyprus
+1      the trackers                    sophocles     anagnosis cultural society        athens          greece
+2  oedipus the king                    sophocles         zhejiang beijing opera       beijing           china
+3  prometheus bound                    aeschylus     compagnie josã besprosvany      brussels         belgium
+4             medea                    euripides       buzz productions theater       nicosia          cyprus
+5  prometheus bound                    aeschylus                  attis theatre        athens          greece
+6          antigone                    sophocles            theatre lab company        london  united kingdom
+7          dionysia  excerpts from various plays  northern greece state theatre  thessaloniki          greece

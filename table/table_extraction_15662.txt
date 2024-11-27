@@ -1,0 +1,10 @@
+         name country         type      moving from transfer fee
+0  eyjólfsson     isl  transferred               hk  undisclosed
+1      bajner     hun  transferred   liberty oradea  undisclosed
+2     behrami     sui  transferred            lazio          5 m
+3    laštůvka     cze       loaned  shakhtardonetsk        n / a
+4     grasser     aut  transferred        grazer ak  undisclosed
+5      ilunga     cod       loaned         toulouse        n / a
+6  di michele     ita       loaned           torino        n / a
+7       lópez     uru  transferred      river plate   free agent
+8     tristán     esp  transferred          livorno   free agent

@@ -1,0 +1,19 @@
+       month  week          overall        offensive        defensive        transition            rookie
+0   december     1     jason wulder     jason wulder        gord nash         josh sims       dane dobbie
+1    january     2   blaine manning   blaine manning     rob marshall     bobby mcbride     bobby mcbride
+2    january     3     jeff zywicki     jeff zywicki   nick patterson  johnny christmas       craig point
+3    january     4     john tavares     john tavares       bob watson      pat mccready   merrick thomson
+4    january     5     sean pollock     sean pollock       ryan avery      geoff snider       jordan hall
+5   february     6     jeff zywicki     jeff zywicki       aaron bold     jimmy quinlan       craig point
+6   february     7      pat o'toole      shawn evans      pat o'toole       jarett park       craig point
+7   february     8  john grant , jr  john grant , jr       bob watson    brodie merrill       jordan hall
+8   february     9     casey powell     casey powell      daniel sams      rob van beek       daniel sams
+9   february    10      shawn evans      shawn evans  curtis palidwor    mark steenhuis    steve hutchins
+10     march    11      ken montour       luke wiles      ken montour    mark steenhuis  frank resetarits
+11     march    12      gavin prout    mike hominuck        matt vinc        john orson       craig point
+12     march    13       bob watson    brian langtry       bob watson     mitch belisle       sean morris
+13     march    14      cody jacobs      cody jacobs      rory glaves       chris mckay      matt macleod
+14     april    15     jeff zywicki        ryan ward       scott self    mark steenhuis     bobby mcbride
+15     april    16   athan iannucci   athan iannucci      pat o'toole    nolan heavenor       tom johnson
+16     april    17    pat maddalena    pat maddalena        matt vinc    mark steenhuis       jordan hall
+17     april    18      jim veltman     john tavares      greg peyser         brad self      peter jacobs

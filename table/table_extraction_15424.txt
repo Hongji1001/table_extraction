@@ -1,0 +1,14 @@
+                         sport       body         year          event type                               location    nations
+0                    aquathlon       cmas         2009           world cup                              not known  not known
+1                  finswimming       cmas         1976  world championship                      hanover , germany  not known
+2                free - diving       aida         1996  world championship                          nice , france  not known
+3                 spearfishing       cmas         1957  world championship               mali losinj , yugoslavia  not known
+4                 sport diving       cmas  before 2011           world cup                              not known  not known
+5          underwater football        muc    not known           not known                              not known  not known
+6            underwater hockey       cmas         1980  world championship                     vancouver , canada          5
+7        underwater ice hockey  not known         2007           world cup                   weissensee , austria          8
+8      underwater orienteering       cmas         1973  world championship                     lokve , yugoslavia  not known
+9       underwater photography       cmas         1985  world championship                          genoa , italy  not known
+10            underwater rugby       cmas         1980  world championship                     mullheim , germany  not known
+11  underwater target shooting       cmas         1999  world championship                              not known  not known
+12            underwater video       cmas         2010  world championship  fuerteventura , canary island , spain          7

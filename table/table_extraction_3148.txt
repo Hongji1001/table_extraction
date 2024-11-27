@@ -1,0 +1,18 @@
+                          road race       distance    location                 country month held
+0               maraton de santiago       marathon    santiago                   chile      april
+1                pyongyang marathon       marathon   pyongyang             north korea      april
+2                 brighton marathon       marathon    brighton          united kingdom      april
+3                   nagano marathon       marathon      nagano                   japan      april
+4               düsseldorf marathon       marathon  düsseldorf                 germany      april
+5                 hannover marathon       marathon    hannover                 germany        may
+6                     riga marathon       marathon        riga                  latvia        may
+7         gifu seiryu half marathon  half marathon        gifu                   japan        may
+8                edinburgh marathon       marathon   edinburgh          united kingdom        may
+9               corrida de langueux          10 km    langueux                  france       june
+10                     vidovdan 10k          10 km       brčko  bosnia and herzegovina       june
+11              gold coast marathon       marathon  gold coast               australia       july
+12  siberian international marathon       marathon        omsk                  russia  september
+13                        paris 20k          20 km       paris                  france    october
+14                  beirut marathon          20 km      beirut                 lebanon   november
+15       alpes - maritimes marathon       marathon        nice                  france   november
+16                valencia marathon       marathon    valencia                   spain   november

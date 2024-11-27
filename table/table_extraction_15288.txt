@@ -1,0 +1,13 @@
+              election            first member             first party                 second member            second party
+0                 1832   sir rowland hill , bt                    tory                    john cotes                    whig
+1                 1834   sir rowland hill , bt            conservative                    john cotes                    whig
+2                 1835   sir rowland hill , bt            conservative         william ormsby - gore            conservative
+3   1843 by - election          viscount clive            conservative         william ormsby - gore            conservative
+4   1848 by - election      john whitehall dod            conservative         william ormsby - gore            conservative
+5                 1857      john whitehall dod            conservative              hon rowland hill            conservative
+6                 1859      john ormsby - gore            conservative              hon rowland hill            conservative
+7                 1865      john ormsby - gore            conservative              hon charles cust            conservative
+8   1866 by - election      john ormsby - gore            conservative  hon adelbert brownlow - cust            conservative
+9   1867 by - election      john ormsby - gore            conservative              viscount newport            conservative
+10  1876 by - election        stanley leighton            conservative              viscount newport            conservative
+11                1885  constituency abolished  constituency abolished        constituency abolished  constituency abolished

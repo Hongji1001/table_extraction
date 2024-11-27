@@ -1,0 +1,6 @@
+   year     recipient           role                                       category     result
+0  2007  sara ramirez  callie torres        outstanding actress - television series  nominated
+1  2008  sara ramirez  callie torres  outstanding actress - drama television series  nominated
+2  2009  sara ramirez  callie torres  outstanding actress - drama television series  nominated
+3  2011  sara ramirez  callie torres  favorite tv actress - leading role in a drama  nominated
+4  2012  sara ramirez  callie torres          favorite tv actress - supporting role  nominated

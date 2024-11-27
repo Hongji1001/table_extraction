@@ -1,0 +1,10 @@
+           city    country  iata  icao                             airport
+0  anuradhapura  sri lanka   acj  vcca                anuradhapura airport
+1       colombo  sri lanka   cmb  vcbi  bandaranaike international airport
+2       colombo  sri lanka   rml  vccc                   ratmalana airport
+3        jaffna  sri lanka   tba   tba                      jaffna airport
+4      kalutara  sri lanka   tba  vccn                 katukurunda airport
+5       koggala  sri lanka   tba   tba                     koggala airport
+6     minneriya  sri lanka   tba   mnh                  minneriya air base
+7      sigiriya  sri lanka   tba   tba                    sigiriya airport
+8   trincomalee  sri lanka  vcct   trr                   china bay airport

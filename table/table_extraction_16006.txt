@@ -1,0 +1,46 @@
+    rank                                name    status           city  floors
+0      1                lodha project wadala  proposed         wadala     101
+1      2                       joyus housing  proposed        girgaon     125
+2      3                      raheja imperia  proposed          worli      85
+3      4                      the imperial 3  approved         tardeo     116
+4      5            shreepati garden tower 1  approved          parel     110
+5      6            shreepati garden tower 2  approved          parel     110
+6      7                   celestia spaces 1  proposed          sewri      80
+7      8                   celestia spaces 2  proposed          sewri      80
+8      9                   celestia spaces 3  proposed          sewri      80
+9     10                   celestia spaces 4  proposed          sewri      80
+10    11                   celestia spaces 5  proposed          sewri      80
+11    12                   celestia spaces 6  proposed          sewri      80
+12    13                   celestia spaces 7  proposed          sewri      80
+13    14                   celestia spaces 8  proposed          sewri      80
+14    15          four seasons hotel tower 2  proposed          worli      71
+15    16                        matru mandir  proposed         tardeo     100
+16    17    india international trade center  proposed  nariman point      72
+17    18                     shreepati skies  approved         tardeo      88
+18    19                    sky link tower 1  approved          worli      85
+19    19                    sky link tower 2  approved          worli      85
+20    19                               waves  proposed          worli      80
+21    20                         indra tower  proposed          dadar      80
+22    21                   twisting horizons  proposed          worli      70
+23    22                      hubtown realms  approved        gamdevi      60
+24    23                 oberoi skyz tower 1  proposed          worli      65
+25    24                 oberoi skyz tower 2  proposed          worli      65
+26    25                 marina apartments 1  approved          dadar      62
+27    26                       hubtown bay 1  approved          worli      55
+28    27                       hubtown bay 2  approved          worli      55
+29    28                       hubtown bay 3  approved          worli      55
+30    29                 marina apartments 2  approved          dadar      42
+31    30                    shreepati estate  approved    lower parel      82
+32    31                              ariana  approved          parel      75
+33    32                     trident tower 1  proposed          parel      69
+34    33            shreepati garden tower 3  approved          parel      68
+35    34            shreepati garden tower 4  approved          parel      68
+36    35                crescent bay tower 1  approved          parel      64
+37    36  bhendi bazar redevelopment tower 1  approved  bhendi bazaar      62
+38    37                     trident tower 2  proposed          parel      61
+39    38                crescent bay tower 2  approved          parel      57
+40    39  bhendi bazar redevelopment tower 2  approved  bhendi bazaar      56
+41    40  bhendi bazar redevelopment tower 3  approved  bhendi bazaar      56
+42    41                crescent bay tower 3  approved          parel      54
+43    42                crescent bay tower 4  approved          parel      51
+44    43  bhendi bazar redevelopment tower 4  approved  bhendi bazaar      50

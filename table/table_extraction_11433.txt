@@ -1,0 +1,13 @@
+       date              cover model         centerfold model        interview subject      20 questions
+0    1 - 95           drew barrymore  melissa deanne holliday  jean - claude van damme        tom snyder
+1    2 - 95          victoria jacobs         lisa marie scott              tim robbins       david spade
+2    3 - 95              amber smith            stacy sanches     vladimir zhirinovsky       jon stewart
+3    4 - 95              shana hiatt            danelle folta              david mamet  samuel l jackson
+4    5 - 95            nancy sinatra       cynthia gwyn brown           camille paglia  david hasselhoff
+5    6 - 95       julie lynn cialini             rhonda adams          joycelyn elders        tom arnold
+6    7 - 95            sandra taylor               heidi mark               mel gibson        kurt loder
+7    8 - 95             shelly jones     rachel jeã¡n marteen              berry gordy        dawn steel
+8    9 - 95  kimberley conrad hefner           donna d'errico           cindy crawford    sandra bullock
+9   10 - 95               lisa boyle           alicia rickter         snoop doggy dogg        bill maher
+10  11 - 95             tahnee welch               holly witt            harvey keitel    g gordon liddy
+11  12 - 95           farrah fawcett          samantha torres           george foreman    dominick dunne

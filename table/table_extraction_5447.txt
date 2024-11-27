@@ -1,0 +1,13 @@
+                 name height weight    spike                2008 club
+0      jelena nikolić      m      -  cm (in)          takefuji bamboo
+1   jovana brakočević      m      -  cm (in)  spess volley conegliano
+2      ivana đerisilo      m      -  cm (in)            voléro zürich
+3   nataša krsmanović      m      -  cm (in)            voléro zürich
+4     brižitka molnar      m      -  cm (in)             metal galati
+5      jovana vesović      m      -  cm (in)          jedinstvo užice
+6     maja ognjenović      m      -  cm (in)             metal galati
+7     vesna čitaković      m      -  cm (in)      eczacıbaşı istanbul
+8        maja simanić      m      -  cm (in)               zok rijeka
+9    sanja malagurski      m      -  cm (in)          hit nova gorica
+10  stefana veljković      m      -  cm (in)       poštar 064 beograd
+11       suzana ćebić      m      -  cm (in)          jedinstvo užice

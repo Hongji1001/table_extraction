@@ -1,0 +1,11 @@
+                  cyclist       nation team       time  uci points
+0       johan vansummeren      belgium  prl  30h 52'11          50
+1           robert gesink  netherlands  rab       + 27          40
+2             kim kirchen   luxembourg  tmo       + 38          35
+3          fabian wegmann      germany  gst       + 39          30
+4       alessandro ballan        italy  lam       + 44          25
+5    pablo lastras garcia        spain  gce       + 44          20
+6          frã¤nk schleck   luxembourg  csc       + 44          15
+7          danilo di luca        italy  liq       + 44          10
+8  jose joaquin rojas gil        spain  gce       + 47           5
+9         thomas voeckler       france  btl       + 52           2

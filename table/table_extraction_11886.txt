@@ -1,0 +1,19 @@
+             city          country iata  icao                               airport
+0           adana           turkey  ada  ltaf               adana şakirpaşa airport
+1         antalya           turkey  ayt  ltai                       antalya airport
+2          bodrum           turkey  bjv  ltfe                milas - bodrum airport
+3         dalaman           turkey  dlm  ltbs                       dalaman airport
+4           erbil             iraq  ebl  orer           erbil international airport
+5       gaziantep           turkey  gzt  ltaj                       oğuzeli airport
+6        istanbul           turkey  ist  ltba  atatürk international airport (base)
+7        istanbul           turkey  saw  ltfj   sabiha gökçen international airport
+8           izmir           turkey  adb  ltbj                adnan menderes airport
+9            kars           turkey  ksy  ltcf                          kars airport
+10        kayseri           turkey  asr  ltau         erkilet international airport
+11  north nicosia  northern cyprus  ecn  lcen           ercan international airport
+12     simferopol          ukraine  sip  ukff      simferopol international airport
+13    sulaymaniah             iraq  isu  orsu    sulaimaniyah international airport
+14         tehran             iran  ika  oiie   imam khomeini international airport
+15        tbilisi          georgia  tbs  ugtb         tbilisi international airport
+16            van           turkey  van  ltci               van ferit melen airport
+17        yerevan          armenia  evn  udyz       zvartnots international airport

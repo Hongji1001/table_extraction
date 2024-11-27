@@ -1,0 +1,31 @@
+    round  pick  overall                name position              college
+0       1     8        8          mike micka       fb              colgate
+1       3     7       23          earl audet       ot  southern california
+2       5     7       39          ed doherty       rb       boston college
+3       6     7       50      jackie fellows       rb         fresno state
+4       7     7       61         hal fischer        g                texas
+5       8     7       72         cliff white       ot         murray state
+6       9     7       83          ted ogdahl       rb           willamette
+7      10     7       94         bob sneddon       db     st mary 's (cal)
+8      11     7      105       bill aldworth       ot            minnesota
+9      12     7      116         bill joslyn       rb             stanford
+10     13     7      127      charley walker        c             kentucky
+11     14     7      138        boyd clement        c         oregon state
+12     15     7      149         jim gaffney       qb            tennessee
+13     16     7      160        ted ossowski       ot         oregon state
+14     17     7      171           tom davis       rb                 duke
+15     18     7      182       john batorski        e              colgate
+16     19     7      193      clyde ehrhardt        c              georgia
+17     20     7      204          dave brown        e                 ucla
+18     21     7      215            bill ivy       ot         northwestern
+19     22     7      226       bruce babcock       rb            rochester
+20     23     7      237       bill reinhard       db           california
+21     24     7      248            ed bauer        g       south carolina
+22     25     7      259       smokey martin       rb              cornell
+23     26     7      270       lee gustafson       rb         oregon state
+24     27     7      281         nick pappas       ot                 utah
+25     28     7      292       lindsey bowen        e                 rice
+26     29     7      303      bill gustafson       ot     washington state
+27     30     7      314      bill yablonski        c           holy cross
+28     31     2      320  buster hollingbery        c     washington state
+29     32     2      326     willard sheller       rb             stanford

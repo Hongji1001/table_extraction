@@ -1,0 +1,12 @@
+          tournament        also currently known as                                            city (s)        country             court surface   tier iv in  years
+0               rome    internazionali bnl d'italia                                                rome          italy                      clay         1988      1
+1             zurich                    zurich open                                              zurich    switzerland                  hard (i)         1988      1
+2            hamburg                     rexona cup                                             hamburg        germany                      clay  1988 - 1989      2
+3         new jersey     united jersey bank classic                                         mahwah , nj  united states                      hard  1988 - 1989      2
+4            newport      virginia slims of newport                                        newport , ri  united states                      clay  1988 - 1989      2
+5        san antonio               pilot pen tennis                                    san antonio , tx  united states                      hard  1988 - 1989      2
+6          san diego                 san diego open                                      san diego , ca  united states                      hard  1988 - 1989      2
+7             sydney  medibank international sydney                                              sydney      australia  grass (1988) hard (1989)  1988 - 1989      2
+8              tampa                    eckerd open                                          tampa , fl  united states                      clay  1988 - 1989      2
+9   puerto rico open                  honda classic  san juan (1988 - 1989 , 1991 - 1993) dorado (1990)    puerto rico                      hard  1988 - 1993      6
+10            kansas   avon championships of kansas                                        wichita , ks  united states                      hard         1990      1

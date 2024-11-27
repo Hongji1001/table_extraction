@@ -1,0 +1,26 @@
+                       name   years gender           area         authority  decile  roll
+0          balclutha school   1 - 8   coed      balclutha             state       5   186
+1     blue mountain college  7 - 13   coed        tapanui             state       7   206
+2            clinton school   1 - 8   coed        clinton             state       4    87
+3      clutha valley school   1 - 8   coed      balclutha             state       9   100
+4             heriot school   1 - 6   coed         heriot             state       8    72
+5         kaitangata school   1 - 8   coed     kaitangata             state       4   107
+6      lawrence area school  1 - 13   coed       lawrence             state       6   137
+7             milton school   1 - 6   coed         milton             state       4   151
+8           romahapa school   1 - 8   coed      balclutha             state       4    41
+9           rosebank school   1 - 8   coed      balclutha             state       6   280
+10  south otago high school  9 - 15   coed       rosebank             state       6   484
+11      st joseph 's school   1 - 8   coed      balclutha  state integrated       7    61
+12        st mary 's school   1 - 6   coed         milton  state integrated       4    85
+13          stirling school   1 - 8   coed       stirling             state       7    28
+14          tahakopa school   1 - 8   coed          owaka             state       9     8
+15      taieri beach school   1 - 8   coed   taieri mouth             state       5    14
+16           tapanui school   1 - 6   coed        tapanui             state       7   115
+17  the catlins area school  1 - 13   coed          owaka             state       6   165
+18           tokoiti school   1 - 6   coed        tokoiti             state       4    38
+19  tokomairiro high school  7 - 13   coed         milton             state       5   268
+20  waihola district school   1 - 8   coed        waihola             state       6    31
+21         waikoikoi school   1 - 6   coed      waikoikoi             state       8    28
+22         waitahuna school   1 - 6   coed      waitahuna             state       7    22
+23     waiwera south school   1 - 8   coed  waiwera south             state       7    40
+24            warepa school   1 - 8   coed      balclutha             state       9    55

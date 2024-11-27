@@ -1,0 +1,16 @@
+                         school                                       mascot            location  founded  entered isl        grades number of students  varsity teams
+0           belmont hill school         no mascot (sextant is school symbol)        belmont , ma     1923         1948        7 - 12           420 boys             16
+1                 brooks school                                      bishops  north andover , ma     1926         1948        9 - 12                368             22
+2   buckingham browne & nichols                                      knights      cambridge , ma     1883         1948  pre - k - 12                997             16
+3           governor 's academy                                     red dogs        byfield , ma     1763         1948        9 - 12                376             20
+4                 groton school                                       zebras         groton , ma     1884         1972        8 - 12                352             19
+5    lawrence academy at groton                                     spartans         groton , ma     1793         1973        9 - 12                375             22
+6              middlesex school                                       zebras        concord , ma     1901         1968        9 - 12                350             24
+7                milton academy                                     mustangs         milton , ma     1798         1948        k - 12                680             25
+8    noble and greenough school                                     bulldogs         dedham , ma     1866         1948        7 - 12                525             25
+9                 rivers school                                    red wings         weston , ma     1915         1973        6 - 12                450             16
+10         roxbury latin school                                        foxes   west roxbury , ma     1645         1974        7 - 12           290 boys             10
+11          st george 's school                                      dragons     middletown , ri     1896         1981        9 - 12                345             24
+12            st mark 's school                                        lions   southborough , ma     1865         1948        9 - 12                325             22
+13            st paul 's school  pelicans (teams are cheered for as big red)        concord , nh     1856         1973        9 - 12                533             17
+14       st sebastian 's school                                       arrows        needham , ma     1941         1973        7 - 12           350 boys             14

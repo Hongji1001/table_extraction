@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0           david coulthard      mclaren - mercedes    78    1:49:28.213     3
+1        rubens barrichello                 ferrari    78       + 15.889     6
+2      giancarlo fisichella     benetton - playlife    78       + 18.522     8
+3              eddie irvine       jaguar - cosworth    78     + 1:05.924    10
+4                 mika salo       sauber - petronas    78     + 1:20.775    13
+5             mika häkkinen      mclaren - mercedes    77        + 1 lap     5
+6        jacques villeneuve             bar - honda    77        + 1 lap    17
+7             nick heidfeld         prost - peugeot    77        + 1 lap    18
+8            johnny herbert       jaguar - cosworth    76       + 2 laps    11
+9   heinz - harald frentzen  jordan - mugen - honda    70       spun off     4
+10           jos verstappen       arrows - supertec    60       spun off    15
+11       michael schumacher                 ferrari    55        exhaust     1
+12            ricardo zonta             bar - honda    48       spun off    20
+13          ralf schumacher          williams - bmw    37       spun off     9
+14             jarno trulli  jordan - mugen - honda    36        gearbox     2
+15              pedro diniz       sauber - petronas    30       spun off    19
+16               jean alesi         prost - peugeot    29   transmission     7
+17         gastón mazzacane     minardi - fondmetal    22       spun off    22
+18                marc gené     minardi - fondmetal    21        gearbox    21
+19           alexander wurz     benetton - playlife    18       spun off    12
+20            jenson button          williams - bmw    16         engine    14
+21         pedro de la rosa       arrows - supertec     0  not restarted    16

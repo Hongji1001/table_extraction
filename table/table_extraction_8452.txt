@@ -1,0 +1,6 @@
+                                             name       circuit         date               winning drivers winning constructor  report
+0                                indianapolis 500  indianapolis       31 may                frank lockhart              miller  report
+1                               french grand prix       miramas      27 june                    jules goux             bugatti  report
+2  san sebastián grand prix / european grand prix       lasarte      18 july                    jules goux             bugatti  report
+3                              british grand prix    brooklands     7 august  robert sénéchal louis wagner              delage  report
+4                              italian grand prix         monza  5 september                louis charavel             bugatti  report

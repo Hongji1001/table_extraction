@@ -1,0 +1,14 @@
+               date          region                     label        catalogue                                     format
+0     17 april 1982              uk                    bronze         bron 539                                      vinyl
+1     17 april 1982   north america                   mercury   srm - 1 - 4042                                      vinyl
+2              1982          france      wea filipacchi music           893048                                      vinyl
+3              1982         germany                    bronze          204 636                                      vinyl
+4   21 / dec / 1982      yugoslavia                   jugoton      lsbro 11019                                      vinyl
+5              1982  australia / nz                    bronze        l - 37841                                      vinyl
+6              1982          brazil                    bronze          6328444                                      vinyl
+7              1987          france     castle communications        clacd 123                                         cd
+8              1996              uk  essential , castle music       esm cd 372                                         cd
+9              1999              us      castle music america  cdx cmacd - 523                                         cd
+10             2001   north america                metal - is        cdx 85211                                         cd
+11             2003           italy                   earmark      lppic 41017  180 g vinyl picture disc , gatefold cover
+12             2005              uk                 sanctuary       smed - 244                                        2cd

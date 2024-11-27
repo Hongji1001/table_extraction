@@ -1,0 +1,14 @@
+             name  tournaments       pro debut top division debut   highest rank
+0         jōkōryū            9        may 2011      november 2012   maegashira 7
+1     ōsunaarashi           10      march 2012      november 2013  maegashira 15
+2        kotoōshū           11   november 2002     september 2004          ōzeki
+3            aran           11    january 2007      november 2008       sekiwake
+4            itai           12  september 1978     september 1980       komusubi
+5       konishiki           12       july 1982          july 1984          ōzeki
+6   tochiazuma ii           12   november 1994      november 1996          ōzeki
+7       asashōryū           12    january 1999       january 2001       yokozuna
+8       tokitenkū           12       july 2002          july 2004       komusubi
+9       yoshikaze           12    january 2004       january 2006   maegashira 1
+10         baruto           12        may 2004           may 2006          ōzeki
+11      sakaizawa           12      march 2006         march 2008  maegashira 15
+12   yamamotoyama           12    january 2007       january 2009   maegashira 9

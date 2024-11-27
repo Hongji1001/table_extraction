@@ -1,0 +1,6 @@
+          player        country year (s) won  total to par
+0   hubert green  united states         1977    152    + 8
+1     jerry pate  united states         1976    153    + 9
+2    lee trevino  united states  1968 , 1971    154   + 10
+3  arnold palmer  united states         1960    156   + 12
+4    gary player   south africa         1965    156   + 12

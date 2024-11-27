@@ -1,0 +1,11 @@
+                           place   code  area (km 2 )  population most spoken language
+0    addo elephant national park  20602          1.08          90                xhosa
+1                           addo  20601          3.21        1752            afrikaans
+2                       barsheba  20603          0.61         517                xhosa
+3                        bontrug  20604          2.33        6806                xhosa
+4                           enon  20605          0.40         782            afrikaans
+5                       kirkwood  20606          3.07        2749            afrikaans
+6                     kwazenzele  20607          3.62        3733                xhosa
+7                  nomathamsanqa  20608          1.53        9266                xhosa
+8                       paterson  20609          0.22         671            afrikaans
+9  remainder of the municipality  20610       3491.83       15218                xhosa

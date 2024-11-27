@@ -1,0 +1,11 @@
+  opposing teams  against            date                                     venue       status
+0          italy       11  07 / 02 / 2009                       twickenham , london  six nations
+1          wales       23  14 / 02 / 2009              millennium stadium , cardiff  six nations
+2        ireland       14  28 / 02 / 2009                       croke park , dublin  six nations
+3         france       10  15 / 03 / 2009                       twickenham , london  six nations
+4       scotland       12  21 / 03 / 2009                       twickenham , london  six nations
+5      argentina       15  06 / 06 / 2009                 old trafford , manchester   first test
+6      argentina       24  13 / 06 / 2009  estadio padre ernesto martearena , salta  second test
+7      australia       18  07 / 11 / 2009                       twickenham , london   test match
+8      argentina        9  14 / 11 / 2009                       twickenham , london   test match
+9    new zealand       19  21 / 11 / 2009                       twickenham , london   test match

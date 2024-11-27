@@ -1,0 +1,17 @@
+                 actor          character      soap opera                                    years  duration
+0        jukka puotila     pertti mäkimaa        kotikatu                              1995 - 2012  17 years
+1        ville keskilä      teemu luotola        kotikatu                              1995 - 2012  17 years
+2      lena meriläinen      eeva virtanen        kotikatu                              1995 - 2012  17 years
+3         anitta niemi      karin luotola        kotikatu                              1995 - 2012  17 years
+4         misa nirhamo      janne mäkimaa        kotikatu                              1995 - 2012  17 years
+5          tiina rinne      maija mäkimaa        kotikatu                              1995 - 2012  17 years
+6       pirjo moilanen      laura mäkimaa        kotikatu                              1995 - 2012  17 years
+7          jarmo koski    seppo taalasmaa  salatut elämät                              1999 - 2013  14 years
+8          esko kovero       ismo laitela  salatut elämät                                    1999-  15 years
+9        aake kalliala         mauri alho        kotikatu                              1998 - 2012  14 years
+10  petteri jamalainen     hessu pennanen        kotikatu                              1996 - 2009  13 years
+11       anu palevaara       jenni vainio  salatut elämät  1999 - 2001 , 2002 - 2011 , 2012 - 2013  12 years
+12         risto autio     hannes luotola        kotikatu                1995 - 2006 , 2007 , 2012  11 years
+13      sulevi peltola      onni partanen        kotikatu                1999 - 2009 , 2011 - 2012  11 years
+14       eeva litmanen      anja partanen        kotikatu                              1999 - 2010  11 years
+15    laura malmivaara  tuija kangasharju        kotikatu                              2002 - 2012  10 years

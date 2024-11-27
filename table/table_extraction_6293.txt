@@ -1,0 +1,22 @@
+    pick                   round            player          position             school
+0      1                       1  vinny testaverde       quarterback         miami (fl)
+1     36        2 (from buffalo)    ricky reynolds        cornerback   washington state
+2     50  2 (from san francisco)      winston moss        linebacker         miami (fl)
+3     51    2 (from new england)         don smith      running back  mississippi state
+4     57                       3      mark carrier     wide receiver     nicholls state
+5      0            supplemental         dan sileo  defensive tackle         miami (fl)
+6     85                       4        don graham        linebacker         penn state
+7     87        4 (from buffalo)          ron hall         tight end             hawaii
+8    106  4 (from san francisco)        bruce hill     wide receiver      arizona state
+9    135    5 (from new england)     henry rolling        linebacker             nevada
+10   137     5 (from washington)        tony mayes    defensive back           kentucky
+11   146      6 (from san diego)     steve bartalo      running back     colorado state
+12   169                       7       curt jarvis  defensive tackle            alabama
+13   190    7 (from new england)      harry swayne            tackle            rutgers
+14   197   8 (from indianapolis)      stan mataele  defensive tackle            arizona
+15   224                       9    joe armentrout      running back          wisconsin
+16   246    9 (from new england)        greg davis            kicker            citadel
+17   252                      10     mike simmonds             guard      indiana state
+18   280                      11     reggie taylor      running back         cincinnati
+19   308                      12      scott cooper  defensive tackle      kearney state
+20   313      12 (from st louis)        mike shula       quarterback            alabama

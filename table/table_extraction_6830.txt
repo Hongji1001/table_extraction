@@ -1,0 +1,32 @@
+                    player      position date of birth (age)  caps         club / province
+0          aaron carpenter        hooker    1 september 1983    12               brantford
+1              pat riordan        hooker   30 september 1979    12            burnaby lake
+2           scott franklin          prop     23 october 1980     2      castaway wanderers
+3               dan pletch          prop       12 april 1983    16      oakville crusaders
+4              mike pletch          prop       12 april 1983     7      oakville crusaders
+5                 rod snow          prop          1 may 1970    55       newfoundland rock
+6                jon thiel          prop         31 may 1975    36          bayside sharks
+7               mike burak          lock      9 october 1980    15                     pau
+8               mike james          lock        21 july 1973    51          stade français
+9             josh jackson          lock      2 october 1980    15         bordeaux bègles
+10               luke tait          lock     26 october 1981    11          overmach parma
+11            david biddle       flanker      10 august 1985     1               meralomas
+12           jamie cudmore       flanker        7 april 1980    17       clermont auvergne
+13         adam kleeberger       flanker        2 march 1984     7  university of victoria
+14             colin yukes       flanker     23 october 1979    29                    agen
+15  sean - michael stephen      number 8     27 october 1982     8                 béziers
+16               mike webb      number 8        19 june 1979    15                 swilers
+17            ed fairhurst  scrum - half          7 may 1979    27         cornish pirates
+18           matt weingart  scrum - half        26 june 1982     6      castaway wanderers
+19   morgan williams ( c )  scrum - half       17 april 1976    47                    albi
+20         nathan hirayama    fly - half       23 march 1988     0  university of victoria
+21             ander monro    fly - half    6 september 1981     6                waterloo
+22              ryan smith    fly - half   13 september 1979    29               montauban
+23            craig culpan        centre         17 may 1982     2               meralomas
+24           derek daypuck        centre    20 february 1978    16      castaway wanderers
+25            david spicer        centre         31 may 1985     8  university of victoria
+26            nick trenkel        centre        7 april 1987     0                capilano
+27   justin mensah - coker          wing    18 november 1983     7                    albi
+28         james pritchard          wing        21 july 1979    12           bedford blues
+29       dth van der merwe          wing       28 april 1986     2            james bay aa
+30               mike pyke      fullback       24 march 1984    14               montauban

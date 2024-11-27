@@ -1,0 +1,7 @@
+         episode broadcast date run time  viewers (in millions)                               archive
+0    episode one   8 march 1969    24:11                    5.8  only stills and / or fragments exist
+1    episode two  15 march 1969    25:02                    6.8                           35 mm t / r
+2  episode three  22 march 1969    23:50                    6.4  only stills and / or fragments exist
+3   episode four  29 march 1969    22:25                    5.8  only stills and / or fragments exist
+4   episode five   5 april 1969    24:44                    5.5  only stills and / or fragments exist
+5    episode six  12 april 1969    24:26                    5.3  only stills and / or fragments exist

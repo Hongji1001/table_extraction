@@ -1,0 +1,17 @@
+    game        date                opponent            score               location   record
+0     57   fri mar 1       san antonio spurs         108 - 98          boston garden  42 - 15
+1     58   sun mar 3  portland trail blazers        107 - 116          boston garden  42 - 16
+2     59   mon mar 4          indiana pacers        126 - 101  hartford civic center  43 - 16
+3     60   wed mar 6              miami heat        126 - 117          boston garden  44 - 16
+4     61   fri mar 8    los angeles clippers         104 - 98        la sports arena  45 - 16
+5     62  sun mar 10  portland trail blazers   111 - 109 (ot)      memorial coliseum  46 - 16
+6     63  tue mar 12        sacramento kings         110 - 95             arco arena  47 - 16
+7     64  wed mar 13               utah jazz        109 - 112            salt palace  47 - 17
+8     65  fri mar 15      washington bullets          94 - 86         capital centre  48 - 17
+9     66  sun mar 17      philadelphia 76ers        110 - 105          boston garden  49 - 17
+10    67  tue mar 19           atlanta hawks         92 - 104               the omni  49 - 18
+11    68  wed mar 20      washington bullets         102 - 81          boston garden  50 - 18
+12    69  fri mar 22          indiana pacers        109 - 121    market square arena  50 - 19
+13    70  thu mar 28              miami heat          88 - 90            miami arena  50 - 20
+14    71  fri mar 29     cleveland cavaliers        110 - 108          boston garden  51 - 20
+15    72  sun mar 31           chicago bulls  135 - 132 (2ot)          boston garden  52 - 20

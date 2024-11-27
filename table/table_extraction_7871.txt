@@ -1,0 +1,7 @@
+            ship                         site  guns naval constructor    superintendent
+0     chesapeake           gosport , virginia    44        josiah fox      richard dale
+1   constitution       boston , massachusetts    44   george claghorn  samuel nicholson
+2      president          new york , new york    44  forman cheeseman      silas talbot
+3  united states  philadelphia , pennsylvania    44  joshua humphreys        john barry
+4       congress   portsmouth , new hampshire    36     james hackett       james sever
+5  constellation         baltimore , maryland    36     david stodder    thomas truxtun

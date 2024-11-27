@@ -1,0 +1,22 @@
+               player              team         opponent  year      score                     outcome
+0      gerald brosnan           fitzroy      collingwood  1903    29 - 31  behind (hit the goal post)
+1    ron barassi , sr         melbourne          geelong  1940  151 - 154                      behind
+2      malcolm blight   north melbourne         hawthorn  1977    46 - 47  no score (out on the full)
+3        warren ralph           carlton      collingwood  1984    71 - 76                      behind
+4        robert scott           geelong           sydney  1988  111 - 114  behind (hit the goal post)
+5       simon beasley         footscray   brisbane bears  1988    71 - 72                      behind
+6        steven clark         melbourne         essendon  1991    80 - 86       no score (fell short)
+7    stephen kernahan           carlton         essendon  1993  132 - 132  no score (out on the full)
+8    chris mainwaring        west coast          carlton  1993    91 - 92  behind (hit the goal post)
+9       marcus picken    brisbane lions         adelaide  2001  122 - 127       no score (fell short)
+10     nick dal santo          st kilda           sydney  2002    56 - 56       no score (fell short)
+11       matthew egan           geelong        melbourne  2005   99 - 100                      behind
+12      daniel motlop     port adelaide         st kilda  2006    60 - 64                      behind
+13       brad johnson  western bulldogs  north melbourne  2008  110 - 113                      behind
+14      jack riewoldt          richmond         st kilda  2008  107 - 110       no score (fell short)
+15       brad johnson  western bulldogs          geelong  2009  114 - 116                      behind
+16      nick riewoldt          st kilda         essendon  2009  108 - 110                      behind
+17    justin westhoff     port adelaide       gold coast  2011  101 - 104                      behind
+18  hayden ballantyne         fremantle       west coast  2011    64 - 65  behind (hit the goal post)
+19        adam goodes            sydney         essendon  2011   99 - 100                      behind
+20    hamish mcintosh   north melbourne         essendon  2012  102 - 104                      behind

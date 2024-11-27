@@ -1,0 +1,17 @@
+   round pick            player position    nationality                   team         college
+0      3    -       norm grekin        f  united states  philadelphia warriors        la salle
+1      3    -       cliff hagan    g / f  united states         boston celtics        kentucky
+2      5    -       bob santini        f  united states        new york knicks            iona
+3      7    -  lou tsioropoulos        f  united states         boston celtics        kentucky
+4      -    -      richard atha        g  united states        new york knicks   indiana state
+5      -    -       irv bemoras    g / f  united states        milwaukee hawks        illinois
+6      -    -       bill bolger        f  united states        milwaukee hawks      georgetown
+7      -    -        gene dyker        f  united states        milwaukee hawks          depaul
+8      -    -       jack george        g  united states  philadelphia warriors        la salle
+9      -    -       ken sears +        f  united states       rochester royals     santa clara
+10     -    -    billy kenville    g / f  united states     syracuse nationals  st bonaventure
+11     -    -        paul nolen        c  united states      baltimore bullets      texas tech
+12     -    -      bob peterson        f  united states      baltimore bullets          oregon
+13     -    -        connie rea    g / f  united states      baltimore bullets       centenary
+14     -    -     frank reddout        f  united states       rochester royals        syracuse
+15     -    -         joe smyth        f  united states        new york knicks         niagara

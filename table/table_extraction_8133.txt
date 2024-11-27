@@ -1,0 +1,23 @@
+    frequency callsign                brand                   format city of license          website      webcast
+0       88.10     khoy       catholic radio                religious          laredo          khoyorg  listen live
+1       88.90    xhldo     radio tamaulipas             public radio    nuevo laredo    tamaulipasgob            -
+2       89.90     kbnl      radio manantial        spanish religious          laredo          kbnlcom            -
+3       91.30    xhnoe       stereo 91.3 fm     spanish contemporary    nuevo laredo         xhnoecom  listen live
+4       92.70     kjbz                  z93                   tejano          laredo         z933.com            -
+5       94.10    xhtln  imagen / rmx laredo      talk / contemporary    nuevo laredo         rmxcommx  listen live
+6       94.90     kqur            the works          mainstream rock          laredo   949theworkscom  listen live
+7       95.70     xhbk               exa fm     spanish contemporary    nuevo laredo                -            -
+8       96.50      new             tu radio                  norteño    nuevo laredo                -            -
+9       97.10    xhnlo    multimedios radio     spanish contemporary    nuevo laredo       mmradiocom  listen live
+10      98.10     krrg     big buck country                  country          laredo    bigbuck98.com            -
+11      99.30     xhnk      digital ecstasy             classic hits    nuevo laredo     radioramacom  listen live
+12     100.50     kbdr               la ley                   tejano          laredo    laley1005.com  listen live
+13     101.50     xhas             ke buena                  norteño    nuevo laredo       kebuenacom  listen live
+14     102.30     xhmw   los 40 principales              spanish pop    nuevo laredo     radioramacom  listen live
+15     103.30    xhahu     radio nuevo león              spanish pop         anáhuac                -  listen live
+16     104.50      new        la más pesada                  norteño    nuevo laredo                -            -
+17     104.90    xhnlr            radio uat         university radio    nuevo laredo            uatmx            -
+18     106.10     knex            hot 106.1  urban / rhythmic top 40          laredo      hot1061.com  listen live
+19     106.50      new          la tremenda                  norteño    nuevo laredo    tremendacommx            -
+20     107.30    xhgts        digital 107.3              spanish pop    nuevo laredo  digital1073.com  listen live
+21     162.55    wxk26   noaa weather radio                  weather          laredo          noaagov            -

@@ -1,0 +1,8 @@
+           region                 date                 label format      catalog
+0  united kingdom  september 10 , 2007  all around the world     cd  globe cd 46
+1         ireland  september 10 , 2007  all around the world     cd  globe cd 46
+2       australia    december 8 , 2007       central station     cd  csr cd 5486
+3     new zealand    december 8 , 2007       central station     cd  csr cd 5486
+4         germany        june 2 , 2008               zooland  12 ep      zoo 039
+5         austria        june 2 , 2008               zooland  12 ep      zoo 039
+6     switzerland        june 2 , 2008               zooland  12 ep      zoo 039

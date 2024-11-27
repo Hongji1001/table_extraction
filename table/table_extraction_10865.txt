@@ -1,0 +1,15 @@
+    pick                mls team          player position                                      affiliation
+0      1     kansas city wizards    chance myers        d                       ucla ventura county fusion
+1      2               fc dallas       brek shea        m                                generation adidas
+2      3          real salt lake    tony beltran        d                           ucla los angeles storm
+3      4      los angeles galaxy   sean franklin        d  cal state northridge san fernando valley quakes
+4      5         colorado rapids  ciaran o'brien        m                     uc santa barbara tacoma tide
+5      6           columbus crew        andy iro        d                                 uc santa barbara
+6      7            chicago fire  patrick nyarko        f                                    virginia tech
+7      8               fc dallas      josh lambo       gk                                generation adidas
+8      9              toronto fc    julius james        d                                      connecticut
+9     10              toronto fc      pat phelan        m                                      wake forest
+10    11     kansas city wizards  roger espinoza        m                                       ohio state
+11    12            chicago fire   dominic cervi       gk                                            tulsa
+12    13  new england revolution   rob valentino        d                     san francisco san jose frogs
+13    14          real salt lake     david horst        d              old dominion hampton roads piranhas

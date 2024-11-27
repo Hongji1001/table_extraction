@@ -1,0 +1,8 @@
+  parish (prestegjeld) sub - parish (sokn)             church name    year built location of the church
+0          kinn parish                 bru   askrova bedehuskapell          1957                espeset
+1          kinn parish                 bru          stavang kyrkje          1957                stavang
+2          kinn parish           eikefjord        eikefjord kyrkje          1812              eikefjord
+3          kinn parish                kinn  batalden bedehuskapell          1907                 fanøya
+4          kinn parish                kinn            florø kyrkje          1882                  florø
+5          kinn parish                kinn             kinnakyrkje  12th century                   kinn
+6          kinn parish              nordal           nordal kyrkje          1898               nordalen

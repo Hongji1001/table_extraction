@@ -1,0 +1,31 @@
+    rank                               building       city height (m / ft)  built
+0      1        floreasca city center sky tower  bucharest               -   2012
+1      2                          basarab tower  bucharest               -   1988
+2      3           bucharest tower center (btc)  bucharest               -   2008
+3      4                     casa presei libere  bucharest               -   1956
+4      5                  administrative palace  satu mare               -   1984
+5      6                              asmita t3  bucharest               -   2009
+6      7               palace of the parliament  bucharest               -   1988
+7      8              bucharest financial plaza  bucharest               -   1997
+8      9                              brd tower  bucharest               -   2003
+9     10                charles de gaulle plaza  bucharest               -   2005
+10    10                             euro tower  bucharest               -   2012
+11    11             intercontinental bucharest  bucharest               -   1970
+12    12                          monaco towers  bucharest               -   2009
+13    12                            nusco tower  bucharest               -   2010
+14    13                        cathedral plaza  bucharest               -   2010
+15    13                       city gate towers  bucharest               -   2009
+16    14                palas residential tower       iași               -   2012
+17    15             millennium business center  bucharest               -   2006
+18    16         howard johnson hotel bucharest  bucharest               -   2001
+19    16                        alia apartments  bucharest               -   2009
+20    17  business development center bucharest  bucharest               -   2004
+21    18                               un plaza  bucharest               -   1978
+22    19        petre andrei university of iași       iași               -   2004
+23    19                          fructus tower  timișoara               -   2011
+24    19                              pgv tower  bucharest               -   2006
+25    19                        rin grand hotel  bucharest               -   2008
+26    20                              bos tower  bucharest               -   2007
+27    20                          premium plaza  bucharest               -   2007
+28    21                            griro tower  bucharest               -   1984
+29    21             bucharest corporate center  bucharest               -   2007

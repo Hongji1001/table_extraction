@@ -1,0 +1,8 @@
+              name    power   torque    size engine code  0 - 100 km / h , s top speed        years
+0             316i  at 5500  at 3900  1596cc      m43b16                12.3      n /a  1994 - 1999
+1             316i  at 5300  at 2500  1895cc      m43b19                11.9      n /a  1999 - 2000
+2            316 g     5500  at 3900  1596cc      m43b16                15.6        na  1995 - 2000
+3            318ti  at 6000  at 4500  1796cc      m42b18                 9.9      n /a  1994 - 1995
+4            318ti  at 6000  at 4300  1895cc      m44b19                 9.9      n /a  1995 - 1998
+5            323ti  at 5500  at 3950  2494cc      m52b25                 7.8      n /a  1997 - 2001
+6  318tds (diesel)  at 4400  at 2000  1665cc      m41d17                13.9      n /a  1995 - 2001

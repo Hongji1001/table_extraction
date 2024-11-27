@@ -1,0 +1,30 @@
+                           name         council seat  formed  population (2010)        area website
+0            armadale , city of             armadale    1894              60983  km2 (sqmi)    link
+1          bassendean , town of           bassendean    1901              14790  km2 (sqmi)    link
+2           bayswater , city of               morley    1897              61865  km2 (sqmi)    link
+3             belmont , city of           cloverdale    1898              35082  km2 (sqmi)    link
+4           cambridge , town of              floreat    1994              26959  km2 (sqmi)    link
+5             canning , city of           cannington    1907              88433  km2 (sqmi)    link
+6           claremont , town of            claremont    1898               9891  km2 (sqmi)    link
+7            cockburn , city of            spearwood    1871              91313  km2 (sqmi)    link
+8           cottesloe , town of            cottesloe    1895               8222  km2 (sqmi)    link
+9      east fremantle , town of       east fremantle    1897               7534  km2 (sqmi)    link
+10          fremantle , city of            fremantle    1871              28626  km2 (sqmi)    link
+11           gosnells , city of             gosnells    1907             106724  km2 (sqmi)    link
+12          joondalup , city of            joondalup    1998             164445  km2 (sqmi)    link
+13         kalamunda , shire of            kalamunda    1897              55814  km2 (sqmi)    link
+14            kwinana , city of  kwinana town centre    1954              29029  km2 (sqmi)    link
+15           melville , city of              ardross    1900             102434  km2 (sqmi)    link
+16        mosman park , town of          mosman park    1899               9440  km2 (sqmi)    link
+17         mundaring , shire of            mundaring    1903              38910  km2 (sqmi)    link
+18           nedlands , city of             nedlands    1893              22508  km2 (sqmi)    link
+19  peppermint grove , shire of     peppermint grove    1895               1749  km2 (sqmi)    link
+20              perth , city of                perth    1856              17955  km2 (sqmi)    link
+21         rockingham , city of           rockingham    1897             104130  km2 (sqmi)    link
+22        south perth , city of          south perth    1892              43908  km2 (sqmi)    link
+23           stirling , city of             stirling    1871             202014  km2 (sqmi)    link
+24            subiaco , city of              subiaco    1896              18862  km2 (sqmi)    link
+25               swan , city of              midland    1871             112960  km2 (sqmi)    link
+26      victoria park , town of        victoria park    1994              32958  km2 (sqmi)    link
+27            vincent , city of          leederville    1994              31209  km2 (sqmi)    link
+28           wanneroo , city of             wanneroo    1902             150106  km2 (sqmi)    link

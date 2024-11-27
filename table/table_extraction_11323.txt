@@ -1,0 +1,6 @@
+                          office   democratic ticket     republican ticket prohibition ticket     greenback ticket
+0                       governor     lucius robinson        edwin d morgan     william j groo    richard m griffin
+1            lieutenant governor  william dorsheimer      sherman s rogers     albert f brown     thomas armstrong
+2  judge of the court of appeals         robert earl     george f danforth       henry hagner  marcena m dickinson
+3             canal commissioner      darius a ogden      daniel g spencer    shotwell powell  abraham j cuddeback
+4     inspector of state prisons   robert h anderson  charles t trowbridge     elias t talbot         john w crump

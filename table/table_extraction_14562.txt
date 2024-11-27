@@ -1,0 +1,9 @@
+                                          name  public  intranet  extranet  personal sites  team sites  developer
+0                              ibm connections     yes       yes       yes             yes         yes        yes
+1                             ibm lotus domino     yes       yes       yes              no         yes        yes
+2                         ibm lotus quickplace     yes       yes       yes             yes         yes        yes
+3                    microsoft exchange server     yes       yes       yes              no          no         no
+4  microsoft office live communications server      no       yes       yes             yes         yes         no
+5                         microsoft sharepoint     yes       yes       yes             yes         yes        yes
+6             microsoft team foundation server      no       yes       yes              no         yes        yes
+7                                         name  public  intranet  extranet  personal sites  team sites  developer

@@ -1,0 +1,9 @@
+   year                  tournament                       venue result      extra
+0  1965          all - africa games         brazzaville , congo    1st  long jump
+1  1970  british commonwealth games        edinburgh , scotland    2nd      100 m
+2  1970  british commonwealth games        edinburgh , scotland    2nd      200 m
+3  1972               olympic games            munich , germany    6th      100 m
+4  1972               olympic games            munich , germany    7th      200 m
+5  1973          all - africa games             lagos , nigeria    1st      100 m
+6  1973          all - africa games             lagos , nigeria    1st      200 m
+7  1974  british commonwealth games  christchurch , new zealand    3rd      200 m

@@ -1,0 +1,7 @@
+   year   record finish       manager playoffs
+0  1974  31 - 39    7th  hoyt wilhelm     none
+1  1975  33 - 33    6th  gene hassell     none
+2  1976  25 - 42    8th    bobby dews     none
+3  1977  43 - 27    2nd    bob didier     none
+4  1978  33 - 37    5th    eddie haas     none
+5  1979  39 - 31    2nd  gene hassell     none

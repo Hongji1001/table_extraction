@@ -1,0 +1,10 @@
+     nation                skip                  third                   second               lead
+0   belgium        thomas suter             marc suter          walter verbüken        dirk heylen
+1  bulgaria     lubomir velinov         stoil georgiev          tihomir todorov      ilian kirilov
+2   croatia          alen cadez          dalibor golec             drazen cutic     ognjen golubic
+3    greece  nikolaos zacharias    athanassios pantios      georgios arampatzis  dimitrios kolonas
+4   hungary         györgy nagy     zsombor rokusfalvy            balazs nemeth       zoltan jakab
+5     italy   stefano ferronato  carlo alessandro zisa  gian paolo zandegiacomo      marco mariani
+6    latvia      ritvars gulbis          ainars gulbis           aivars avotins   normunds sarsuns
+7  slovakia       pavol pitonak      frantisek pitonak            tomas pitonak      peter pitonak
+8     wales        jamie meikle           stuart hills            andrew tanner      james pougher

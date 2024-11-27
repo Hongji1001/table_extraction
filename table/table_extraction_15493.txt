@@ -1,0 +1,9 @@
+           region                 date                label format     catalog
+0       australia  september 20 , 2008  rough trade records     cd  rtradcd491
+1  united kingdom  september 22 , 2008  rough trade records     cd  rtradcd491
+2  united kingdom  september 22 , 2008  rough trade records     lp  rtradlp491
+3   united states  september 23 , 2008  warner bros records     cd      508668
+4   united states  september 23 , 2008  warner bros records     lp      508668
+5       hong kong  september 26 , 2008  rough trade records     cd  rtradcd491
+6          canada  september 30 , 2008  warner music canada     cd     2508668
+7           japan   november 26 , 2008   warner music group     cd   wpcb10098

@@ -1,0 +1,6 @@
+                              method of administration  category 1  category 2 category 3 category 4 category 5
+0        oral : ld50 measured in mg / kg of bodyweight        5.00        50.0        300      2 000      5 000
+1     dermal : ld 50 measured in mg / kg of bodyweight       50.00       200.0      1 000      2 000      5 000
+2              gas inhalation : lc 50 measured in ppmv      100.00       500.0      2 500     20 000  undefined
+3         vapour inhalation : lc 50 measured in mg / l        0.50         2.0         10         20  undefined
+4  dust and mist inhalation : lc 50 measured in mg / l        0.05         0.5        1.0        5.0  undefined

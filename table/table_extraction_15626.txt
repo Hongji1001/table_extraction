@@ -1,0 +1,10 @@
+  constituency number          name reserved for ( sc / st / none)   district  number of electorates (2009)
+0                 191     alirajpur                             st  alirajpur                        155726
+1                 192         jobat                             st  alirajpur                        168001
+2                 193        jhabua                             st     jhabua                        179351
+3                 194       thandla                             st     jhabua                        151806
+4                 195      petlawad                             st     jhabua                        168241
+5                 219  ratlam rural                             st     ratlam                        142652
+6                 220   ratlam city                           none     ratlam                        155062
+7                 221       sailana                             st     ratlam                        125917
+8             total :       total :                        total :    total :                       1246756

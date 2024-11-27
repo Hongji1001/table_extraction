@@ -1,0 +1,16 @@
+                   date  score     ht                      venue competition
+0        june 15 , 1941  1 - 5  1 - 1     praterstadion , vienna    friendly
+1    september 8 , 1941  1 - 1  0 - 0  tehelné pole , bratislava    friendly
+2   september 28 , 1941  5 - 2  3 - 0      hšk građanski stadium    friendly
+3     january 18 , 1942  0 - 2  0 - 1                     zagreb    friendly
+4        april 5 , 1942  0 - 4  0 - 0      stadio luigi ferraris    friendly
+5       april 13 , 1942  6 - 0  3 - 0      hšk concordia stadium    friendly
+6         june 7 , 1942  2 - 1  2 - 1                 bratislava    friendly
+7        june 14 , 1942  1 - 1  0 - 0                   budapest    friendly
+8    september 8 , 1942  6 - 1  1 - 0                     zagreb    friendly
+9     october 11 , 1942  2 - 2  2 - 1                  bucharest    friendly
+10    november 1 , 1942  1 - 5  0 - 2                  stuttgart    friendly
+11       april 4 , 1943  0 - 1  0 - 1                     zurich    friendly
+12      april 10 , 1943  1 - 0  0 - 0                     zagreb    friendly
+13        june 6 , 1943  3 - 1  1 - 1                 bratislava    friendly
+14       april 9 , 1944  7 - 3  5 - 1      hšk građanski stadium    friendly

@@ -1,0 +1,47 @@
+    rnd       circuit                                       pole position                              fastest lap                                              winner  results
+0     1       daytona                                    58 brumos racing                         16 penske racing                                    58 brumos racing  results
+1     1       daytona  david donohue antonio garcía darren law buddy rice  romain dumas timo bernhard ryan briscoe  david donohue antonio garcía darren law buddy rice  results
+2     1       daytona                                      70 speedsource               86 farnbacher loles racing                               67 the racer 's group  results
+3     2      virginia                              01 chip ganassi racing                       10 suntrust racing                   99 gainsco / bob stallings racing  results
+4     2      virginia                             memo rojas scott pruett             max angelelli brian friselle                             jon fogarty alex gurney  results
+5     2      virginia                                      70 speedsource                 57 stevenson motorsports                            57 stevenson motorsports  results
+6     2      virginia                           nick ham sylvain tremblay               robin liddell andrew davis                          andrew davis robin liddell  results
+7     3    new jersey                                    12 penske racing                   6 michael shank racing                                     76 krohn racing  results
+8     3    new jersey                          romain dumas timo bernhard                michael valiante john pew                        niclas jönsson ricardo zonta  results
+9     3    new jersey                                    07 banner racing               87 farnbacher loles racing                          87 farnbacher loles racing  results
+10    3    new jersey                          kelly collins paul edwards                     dirk werner leh keen                                leh keen dirk werner  results
+11    4   laguna seca                              01 chip ganassi racing        99 gainsco / bob stallings racing                   99 gainsco / bob stallings racing  results
+12    4   laguna seca                             memo rojas scott pruett                  jon fogarty alex gurney                             jon fogarty alex gurney  results
+13    4   laguna seca                                      70 speedsource                           70 speedsource                                      70 speedsource  results
+14    4   laguna seca                           nick ham sylvain tremblay                sylvain tremblay nick ham                           nick ham sylvain tremblay  results
+15    5  watkins glen                              01 chip ganassi racing                   01 chip ganassi racing                              01 chip ganassi racing  results
+16    5  watkins glen                             scott pruett memo rojas                  scott pruett memo rojas                             scott pruett memo rojas  results
+17    5  watkins glen                          87 farnbacher loles racing               86 farnbacher loles racing                          87 farnbacher loles racing  results
+18    5  watkins glen                                dirk werner leh keen                    wolf henzler eric lux                                leh keen dirk werner  results
+19    6    mid - ohio                   99 gainsco / bob stallings racing                   6 michael shank racing                              01 chip ganassi racing  results
+20    6    mid - ohio                             jon fogarty alex gurney                michael valiante john pew                             scott pruett memo rojas  results
+21    6    mid - ohio                          86 farnbacher loles racing               87 farnbacher loles racing                          87 farnbacher loles racing  results
+22    6    mid - ohio                         eric lux dominik farnbacher                     dirk werner leh keen                                leh keen dirk werner  results
+23    7       daytona                              01 chip ganassi racing        99 gainsco / bob stallings racing                                  10 suntrust racing  results
+24    7       daytona                             memo rojas scott pruett                  alex gurney jon fogarty                       max angelelli brian frisselle  results
+25    7       daytona                                      70 speedsource                    67 the racer 's group                          87 farnbacher loles racing  results
+26    7       daytona                           nick ham sylvain tremblay                  andy lally justin marks                                leh keen dirk werner  results
+27    8        barber                   99 gainsco / bob stallings racing                          76 krohn racing                   99 gainsco / bob stallings racing  results
+28    8        barber                             jon fogarty alex gurney             ricardo zonta niclas jönsson                             jon fogarty alex gurney  results
+29    8        barber                          87 farnbacher loles racing                 57 stevenson motorsports                            57 stevenson motorsports  results
+30    8        barber                                leh keen dirk werner               robin liddell andrew davis                          andrew davis robin liddell  results
+31    9  watkins glen                   99 gainsco / bob stallings racing                          76 krohn racing                                     76 krohn racing  results
+32    9  watkins glen                             jon fogarty alex gurney             ricardo zonta niclas jönsson                        niclas jönsson ricardo zonta  results
+33    9  watkins glen                          87 farnbacher loles racing               87 farnbacher loles racing                                      69 speedsource  results
+34    9  watkins glen                                leh keen dirk werner                     dirk werner leh keen                           emil assentato jeff segal  results
+35   10      montreal                   99 gainsco / bob stallings racing        99 gainsco / bob stallings racing                                  10 suntrust racing  results
+36   10      montreal                             jon fogarty alex gurney                  jon fogarty alex gurney                       max angelelli brian frisselle  results
+37   10      montreal                          87 farnbacher loles racing               30 racers edge motorsports                            57 stevenson motorsports  results
+38   10      montreal                                leh keen dirk werner              tom sutherland dane cameron                          andrew davis robin liddell  results
+39   11        miller                   99 gainsco / bob stallings racing        99 gainsco / bob stallings racing                   99 gainsco / bob stallings racing  results
+40   11        miller                             jon fogarty alex gurney                  alex gurney jon fogarty                             jon fogarty alex gurney  results
+41   11        miller                                      70 speedsource                 57 stevenson motorsports                                      69 speedsource  results
+42   11        miller                           nick ham sylvain tremblay               andrew davis robin liddell                           emil assentato jeff segal  results
+43   12     homestead                   99 gainsco / bob stallings racing              90 spirit of daytona racing                                    59 brumos racing  results
+44   12     homestead                             jon fogarty alex gurney                buddy rice antonio garcía                         joão barbosa hurley haywood  results
+45   12     homestead                                      70 speedsource                    07 team drinkin' mate                               07 team drinkin' mate  results

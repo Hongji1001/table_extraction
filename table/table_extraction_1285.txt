@@ -1,0 +1,8 @@
+   pick                          cfl team                           player position        college
+0    25  edmonton eskimos (via hamilton )                      sammy okpro       db      concordia
+1    26                  edmonton eskimos                    jonathan hood       db           stfx
+2    27                calgary stampeders                   ronald hilaire       dl        buffalo
+3    28                montreal alouettes                     terence firr      rec       manitoba
+4    29                 toronto argonauts                    delroy clarke       db         ottawa
+5    30             saskatchewan (via bc)  jean - françois morin - roberge       ol       montréal
+6    31             winnipeg blue bombers                     marc beswick       db  saint mary 's

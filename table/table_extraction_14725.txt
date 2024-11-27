@@ -1,0 +1,40 @@
+                    name confederation  international goals  caps  goals per match
+0               ali daei           afc                  109   149             0.73
+1          ferenc puskás          uefa                   84    85             0.96
+2     kunishige kamamoto           afc                   80    84             0.95
+3        godfrey chitalu           caf                   78   108             0.72
+4                   pelé      conmebol                   77    92             0.84
+5          sándor kocsis          uefa                   75    68             1.10
+6        bashar abdullah           afc                   75   133             0.56
+7         majed abdullah           afc                   71   116             0.61
+8             stern john      concacaf                   70   115             0.61
+9     kiatisuk senamuang           afc                   70   131             0.54
+10           gerd müller          uefa                   68    62             1.10
+11        miroslav klose          uefa                   68   130             0.53
+12         hossam hassan           caf                   68   176             0.39
+13  jassem al - houwaidi           afc                   63    74             0.85
+14               ronaldo      conmebol                   62    98             0.63
+15         didier drogba           caf                   62    97             0.64
+16         hussein saeed           afc                   61   126             0.48
+17          robbie keane          uefa                   61   130             0.47
+18        imre schlosser          uefa                   59    68             0.87
+19          carlos pavón      concacaf                   57   101             0.56
+20        landon donovan      concacaf                   57   154             0.37
+21     gabriel batistuta      conmebol                   56    78             0.72
+22           david villa          uefa                   56    93             0.60
+23               romário      conmebol                   55    70             0.79
+24       kazuyoshi miura           afc                   55    89             0.62
+25            jan koller          uefa                   55    91             0.60
+26           fandi ahmad           afc                   55   101             0.55
+27       joachim streich          uefa                   55   102             0.54
+28           carlos ruiz      concacaf                   55   104             0.53
+29          samuel eto'o           caf                   55   113             0.48
+30         cha bum - kun           afc                   55   121             0.46
+31          poul nielsen          uefa                   52    38             1.37
+32     jon dahl tomasson          uefa                   52   112             0.46
+33      adnan al talyani           afc                   52   161             0.32
+34           lajos tichy          uefa                   51    72             0.71
+35           hakan şükür          uefa                   51   112             0.46
+36         thierry henry          uefa                   51   123             0.41
+37         karim bagheri           afc                   50    87             0.57
+38      hwang sun - hong           afc                   50   103             0.48

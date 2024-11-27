@@ -1,0 +1,15 @@
+   television service country language                        content hdtv   package / option
+0           contotv 1   italy  italian             general television   no          qualsiasi
+1           contotv 2   italy  italian             general television   no          qualsiasi
+2           contotv 3   italy  italian             general television   no          qualsiasi
+3           contotv 4   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+4           contotv 5   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+5          teleitalia   italy  italian             general television   no  qualsiasi ( fta )
+6     teleitalia spot   italy  italian             general television   no  qualsiasi ( fta )
+7             d - xtv   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+8           r - light   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+9                 sct   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+10            boy&boy   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+11              privã   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+12             themex   italy  italian  programmi per adulti 24h / 24   no          qualsiasi
+13    satisfaction hd   italy  italian  programmi per adulti 24h / 24  yes          qualsiasi

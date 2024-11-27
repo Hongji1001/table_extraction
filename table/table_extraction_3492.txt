@@ -1,0 +1,12 @@
+             team                                   chairman              head coach            captain kitmaker                    shirt sponsor
+0         al ahli                 abdullah saeed al naboodah  abdul hamid al mistaki    fabio cannavaro   adidas                          toshiba
+1       al jazira                mansour bin zayed al nahyan              abel braga      ibrahim diaky   adidas                             ipic
+2        al wahda           sheikh saeed bin zayed al nahyan     josef hickersberger       bashir saeed     nike                             emal
+3          al ain                  hazza bin zayed al nahyan         alexandre gallo     ali al wehaibi   macron                  first gulf bank
+4      al sharjah             abdullah bin mohammed al thani             abdul majid    abdullah suhail    n / a                      saif - zone
+5         al nasr  maktoum bin hasher bin maktoum al maktoum            walter zenga     abdallah mousa    erreà                     emirates nbd
+6   ittihad kalba                   saeed bin saqr al qasimi           jorvan vieira  gregory dufrennes   adidas                    gillett group
+7           dubai         sheikh ahmed bin rashed al maktoum       junior dos santos         ali hassan    umbro                            n / a
+8        bani yas                   saif bin zayed al nahyan               mahdi ali       fawzi bashir    erreà        secure project management
+9         al wasl         sheikh ahmed bin rashed al maktoum         khalifa mobarak     khalid darwish     nike  saif belhasa group of companies
+10      al shabab         hh sh saeed bin maktoum al maktoum          paulo bonamigo     adeel abdullah    erreà                        emaratech

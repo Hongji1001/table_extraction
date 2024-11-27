@@ -1,0 +1,9 @@
+   standard order             english translation transcription (based on pinyin) traditional chinese simplified chinese
+0               1       grieving i make my plaint                         xi song                  惜誦                 惜诵
+1               2              crossing the river                       she jiang                  涉江                 涉江
+2               3               a lament for ying                         ai ying                  哀郢                 哀郢
+3               4  the outpouring of sad thoughts                         chou si                  抽思                 抽思
+4               5                  embracing sand                        huai sha                  懷沙                 怀沙
+5               6          thinking of a fair one                       si meiren                 思美人                思美人
+6               7       alas for the days gone by                       xi wangri                 昔往日                昔往日
+7               8  in praise of the orange - tree                         ju song                  橘頌                 橘颂

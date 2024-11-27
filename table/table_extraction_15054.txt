@@ -1,0 +1,7 @@
+  constituency number               name reserved for ( sc / st / none) district  number of electorates (2009)
+0                  46            kithore                           none   meerut                        290768
+1                  47  meerut cantonment                           none   meerut                        324906
+2                  48             meerut                           none   meerut                        281518
+3                  49       meerut south                           none   meerut                        337192
+4                  59              hapur                             sc    hapur                        258907
+5             total :            total :                        total :  total :                       1493291

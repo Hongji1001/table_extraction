@@ -1,0 +1,11 @@
+   year network play - by - play            color commentator (s)         sideline reporter (s)
+0  1990    espn     mike patrick                    joe theismann                  chris berman
+1  1991    espn     mike patrick                    joe theismann                  chris berman
+2  1992    espn     mike patrick                    joe theismann                  chris berman
+3  1993    espn     mike patrick                    joe theismann                  chris berman
+4  1994    espn     mike patrick                    joe theismann                  chris berman
+5  1995     abc      al michaels   frank gifford and dan dierdorf  lynn swann and lesley visser
+6  1996     abc      al michaels   frank gifford and dan dierdorf  lynn swann and lesley visser
+7  1997     abc      al michaels   frank gifford and dan dierdorf  lynn swann and lesley visser
+8  1998     abc      al michaels   frank gifford and dan dierdorf  lynn swann and lesley visser
+9  1999     abc      al michaels  dan dierdorf and boomer esiason   lesley visser and dan fouts

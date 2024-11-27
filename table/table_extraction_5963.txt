@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0        rubens barrichello                 ferrari    45    1:25:34.418    18
+1             mika häkkinen      mclaren - mercedes    45        + 7.452     4
+2           david coulthard      mclaren - mercedes    45       + 21.168     1
+3             jenson button          williams - bmw    45       + 22.685    16
+4                 mika salo       sauber - petronas    45       + 27.112    15
+5          pedro de la rosa       arrows - supertec    45       + 29.080     5
+6           ralf schumacher          williams - bmw    45       + 30.898    14
+7        jacques villeneuve             bar - honda    45       + 47.537     9
+8              jarno trulli  jordan - mugen - honda    45       + 50.901     6
+9              eddie irvine       jaguar - cosworth    45     + 1:19.664    10
+10         gastón mazzacane     minardi - fondmetal    45     + 1:29.504    21
+11            nick heidfeld         prost - peugeot    40     alternator    13
+12  heinz - harald frentzen  jordan - mugen - honda    39        gearbox    17
+13           jos verstappen       arrows - supertec    39       spun off    11
+14            ricardo zonta             bar - honda    37       spun off    12
+15                marc gené     minardi - fondmetal    33         engine    22
+16           alexander wurz     benetton - playlife    31     electrical     7
+17              pedro diniz       sauber - petronas    29      collision    19
+18               jean alesi         prost - peugeot    29      collision    20
+19           johnny herbert       jaguar - cosworth    12        gearbox     8
+20       michael schumacher                 ferrari     0      collision     2
+21     giancarlo fisichella     benetton - playlife     0      collision     3

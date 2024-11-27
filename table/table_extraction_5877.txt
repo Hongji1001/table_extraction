@@ -1,0 +1,27 @@
+                driver          constructor  laps time / retired  grid
+0          alain prost        mclaren - tag    67    1:35:13.284     2
+1     michele alboreto              ferrari    67       + 23.911     5
+2        nelson piquet        brabham - bmw    67       + 24.922     1
+3           niki lauda        mclaren - tag    67       + 43.086    15
+4          rené arnoux              ferrari    67     + 1:01.430     6
+5     riccardo patrese           alfa romeo    66        + 1 lap     9
+6    andrea de cesaris     ligier - renault    65       + 2 laps    17
+7          mauro baldi        spirit - hart    65       + 2 laps    24
+8      thierry boutsen         arrows - bmw    64       ignition    11
+9    françois hesnault     ligier - renault    64       + 3 laps    19
+10       derek warwick              renault    61    overheating     7
+11          jo gartner  osella - alfa romeo    60    fuel system    22
+12            teo fabi        brabham - bmw    57        gearbox    10
+13       nigel mansell      lotus - renault    51         engine     8
+14      patrick tambay              renault    47    fuel system     3
+15       eddie cheever           alfa romeo    37    fuel system    13
+16     philippe alliot           ram - hart    37          turbo    25
+17     jonathan palmer           ram - hart    35          turbo    21
+18     jacques laffite     williams - honda    27         engine    14
+19     elio de angelis      lotus - renault    25          turbo    23
+20    stefan johansson       toleman - hart    17    overheating    26
+21        keke rosberg     williams - honda     0      collision     4
+22        ayrton senna       toleman - hart     0      collision    12
+23          marc surer         arrows - bmw     0      collision    16
+24      gerhard berger            ats - bmw     0      collision    18
+25  piercarlo ghinzani  osella - alfa romeo     0      collision    20

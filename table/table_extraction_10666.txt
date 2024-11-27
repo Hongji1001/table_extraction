@@ -1,0 +1,16 @@
+                                              name town / city         region on dinosaur trail education programs / guided tours associated field digs
+0                             blaine county museum     chinook  north central               yes                                no                    no
+1                             carter county museum     ekalaka      southeast               yes                                no                    no
+2          fort peck field station of paleontology   fort peck      northeast               yes                               yes                    no
+3         fort peck interpretive center and museum   fort peck      northeast               yes                               yes                    no
+4                           garfield county museum      jordan      northeast               yes                                no                   yes
+5   great plains dinosaur museum and field station       malta      northeast               yes                               yes                   yes
+6                     h earl clack memorial museum       havre  north central               yes                                no                    no
+7                             makoshika state park    glendive      southeast               yes                               yes                    no
+8                        makoshika dinosaur museum    glendive      southeast               yes                               yes                   yes
+9                            museum of the rockies     bozeman  south central               yes                               yes                    no
+10                                old trail museum     choteau  north central               yes                                no                    no
+11                          phillips county museum       malta      northeast               yes                                no                    no
+12                            rudyard depot museum     rudyard  north central               yes                                no                    no
+13                    two medicine dinosaur center       bynum  north central               yes                               yes                   yes
+14                        upper musselshell museum   harlowton  south central               yes                                no                    no

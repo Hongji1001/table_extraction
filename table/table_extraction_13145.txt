@@ -1,0 +1,32 @@
+                  senator       party  district       home town  took office
+0            bill ratliff  republican         1  mount pleasant         1989
+1                ted lyon  democratic         2        mesquite         1991
+2              bill haley  democratic         3          center         1991
+3           carl a parker  democratic         4     port arthur         1977
+4         kent a caperton  democratic         5           bryan         1981
+5              gene green  democratic         6         houston         1987
+6           don henderson  republican         7         houston         1991
+7           oh ike harris  republican         8          dallas         1967
+8            chet edwards  democratic         9     duncanville         1983
+9            chris harris  republican        10       arlington         1991
+10            chet brooks  democratic        11        pasadena         1967
+11            hugh parmer  democratic        12      fort worth         1983
+12     craig a washington  democratic        13         houston         1983
+13     gonzalo barrientos  democratic        14          austin         1985
+14          john whitmire  democratic        15         houston         1983
+15          john n leedom  republican        16          dallas         1981
+16       j e buster brown  republican        17    lake jackson         1981
+17         ken armbrister  democratic        18        victoria         1987
+18           frank tejeda  democratic        19     san antonio         1987
+19         carlos f truan  democratic        20  corpus christi         1977
+20       judith zaffirini  democratic        21          laredo         1987
+21            bob glasgow  democratic        22    stephenville         1980
+22  eddie bernice johnson  democratic        23          dallas         1987
+23         temple dickson  democratic        24     san antonio         1989
+24              bill sims  democratic        25     san antonio         1983
+25     cyndi taylor krier  republican        26     san antonio         1985
+26           hector uribe  democratic        27     brownsville         1981
+27          john montford  democratic        28         lubbock         1982
+28    h tati santiesteban  democratic        29         el paso         1973
+29         steve carriker  democratic        30            roby         1988
+30            teel bivins  republican        31        amarillo         1989

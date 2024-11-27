@@ -1,0 +1,7 @@
+  result         opponent                         method                        event  date                               notes
+0    win  ricardo almeida  technical submission (injury)  adcc 2001 absolute division  2001  3rd place spot - wins bronze medal
+1   loss    ricardo arona                         points           adcc 2001 absolute  2001                       semi - finals
+2    win  ricco rodriguez                         points           adcc 2001 absolute  2001                    quarter - finals
+3    win       genki sudo                         points           adcc 2001 absolute  2001                       opening round
+4   loss    mark robinson                         points            adcc 2001 + 99 kg  2001                    quarter - finals
+5    win    hiroki fukuda  submission (rear naked choke)            adcc 2001 + 99 kg  2001                       opening round

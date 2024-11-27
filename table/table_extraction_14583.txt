@@ -1,0 +1,7 @@
+           player        country year (s) won  total to par
+0       rich beem  united states         2002    149    + 9
+1       john daly  united states         1991    149    + 9
+2        bob tway  united states         1986    149    + 9
+3     mark brooks  united states         1996    150   + 10
+4  davis love iii  united states         1997    152   + 12
+5     vijay singh           fiji  1998 , 2004    152   + 12

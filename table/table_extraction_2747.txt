@@ -1,0 +1,16 @@
+   region / country                    local name                           main presenter    network  year premiered
+0             china  夢想合唱團 mengxiang hechang tuan                               sa beining   cctv - 1            2011
+1           denmark                      allstars                       lisbeth østergaard        tv2            2008
+2           estonia                   laululahing                          tarmo leinatamm        etv            2008
+3           finland                     kuorosota                     kristiina komulainen    nelonen            2009
+4            france      la bataille des chorales                        benjamin castaldi        tf1            2009
+5            latvia                     koru kari                           lauris reiniks        tv3            2008
+6         lithuania                   chorų karai  vytautas šapranauskas & jurgita jurkutė        tv3            2010
+7            norway           det store korslaget                              øyvind mund        tv2            2009
+8            poland                bitwa na glosy       hubert urbanski & piotr kedzierski      tvp 2            2010
+9            russia                   битва хоров                           valery meladze  rossiya 1            2012
+10            spain       la batalla de los coros                             josep lobató     cuatro            2008
+11           sweden                     körslaget                             gry forssell        tv4            2008
+12      switzerland               kampf der chöre                              sven epiney       sf 1            2010
+13           turkey            korolar çarpışıyor                            behzat uighur    show tv            2009
+14          vietnam              hợp ca tranh tài                             nguyên khang       vtv3            2012

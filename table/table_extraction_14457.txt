@@ -1,0 +1,7 @@
+   round  pick            player    nationality      school / club team
+0      1    22    jerry reynolds  united states         louisiana state
+1      3    68   eugene mcdowell  united states                 florida
+2      4    91    cozell mcqueen  united states    north carolina state
+3      5   114        ray knight  united states              providence
+4      6   137  quentin anderson  united states              texas tech
+5      7   160        mario elie  united states  american international

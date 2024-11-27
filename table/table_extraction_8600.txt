@@ -1,0 +1,8 @@
+   rank         city  titles                                       winning clubs  last victory
+0     1     budapest      26  honvéd spartacus elektromos se vörös meteor újpest          1991
+1     2     veszprém      20                                       veszprém (20)          2012
+2     3    tatabánya       4                                       tatabánya (4)          1984
+3     4         győr       3                                            győr (3)          1990
+4     5       szeged       2                                          szeged (2)          2007
+5     6  dunaújváros       1                                     dunaferr se (1)          2000
+6     6     debrecen       1                                        debrecen (1)          1975

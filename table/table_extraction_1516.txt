@@ -1,0 +1,10 @@
+              athlete               event                 round of 32                round of 16               quarterfinals       semifinals
+0  redouane bouchtouk     light flyweight   carvalho ( bra ) l 7 - 13            did not advance             did not advance  did not advance
+1   abdelillah nhaila           flyweight   mammadov ( aze ) l 4 - 19            did not advance             did not advance  did not advance
+2      hicham mesbahi        bantamweight     romero ( col ) w 11 - 3   ikgopoleng ( bot ) l rsc             did not advance  did not advance
+3       mahdi ouatine       featherweight  enkhzorig ( mgl ) l 1 - 10            did not advance             did not advance  did not advance
+4     tahar tamsamani         lightweight  valentino ( ita ) l 4 - 15            did not advance             did not advance  did not advance
+5      driss moussaid  light welterweight       kidd ( aus ) w 23 - 2  iglesias ( cub ) l 4 - 15             did not advance  did not advance
+6        mehdi khalsi        welterweight   mahmudov ( uzb ) l 3 - 11            did not advance             did not advance  did not advance
+7        said rachidi        middleweight     artayev ( kaz ) l 2 - 8            did not advance             did not advance  did not advance
+8     mohamed arjaoui         heavyweight                       n / a      pitt ( aus ) w 11 - 6  wilder ( usa ) l 10 - 10 +  did not advance

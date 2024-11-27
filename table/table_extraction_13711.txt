@@ -1,0 +1,8 @@
+  consonant final stem example : k'ats - (man) vowel final stem (truncating) example : mama - (father) vowel final stem (non - truncating) example : sakartvelo - (georgia)
+0                  - i               k'ats - i                           - ø                      mama                                 - ø                       sakartvelo
+1                 - ma              k'ats - ma                           - m                  mama - m                                 - m                   sakartvelo - m
+2                  - s               k'ats - s                           - s                  mama - s                                 - s                   sakartvelo - s
+3                 - is              k'ats - is                          - is                  mam - is                                 - s                   sakartvelo - s
+4                 - it              k'ats - it                          - it                  mam - it                                - ti                  sakartvelo - ti
+5                 - ad              k'ats - ad                           - d                  mama - d                                 - d                   sakartvelo - d
+6                  - o              k'ats - o!                           - ø                     mama!                                 - ø                      sakartvelo!

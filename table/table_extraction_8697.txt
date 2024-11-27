@@ -1,0 +1,37 @@
+                player  solo  total sacks  fumble force  fumble rec
+0      anthony gebhart    15     31     0             0           0
+1            cj wilson    10     26     0             1           0
+2         dustin duclo    13     25     0             0           0
+3     boston mccornell     8     23     ½             1           0
+4         londen fryar    15     26     0             0           0
+5          e j biggers    12     16     0             1           1
+6        zach davidson     6     15    1½             0           0
+7     nick varcadipane     3     12     0             0           0
+8     austin pritchard     5     11     0             0           0
+9        mark berghuis     4      8     ½             1           0
+10       justin braska     3      8     ½             0           0
+11      cody cielenski     4      8     ½             0           0
+12       greg marshall     2      8     ½             0           0
+13        andy dorcely     5      7     0             0           0
+14           cory flom     1      7     0             0           0
+15     harrison porter     1      7     0             0           0
+16      desman stephen     2      5     0             0           0
+17  cornelius robinson     1      4     0             0           0
+18     mario armstrong     3      4     0             0           0
+19        matt pickens     1      3     0             0           0
+20         scott gajos     2      3     0             0           0
+21        grant nemeth     0      3     0             0           0
+22   garrett sosnovich     1      3     0             0           0
+23     fernand kashama     1      2     0             0           0
+24        louis delmas     1      2     0             0           0
+25        brandon west     2      2     0             0           0
+26       antwain allen     0      1     0             0           0
+27            nic saad     0      1     0             0           0
+28         herb martin     1      1     0             0           0
+29          mike jones     1      1     0             0           0
+30     glenis thompson     1      1     0             0           0
+31    phillip thompson     1      1     0             0           0
+32           jim laney     1      1     0             0           0
+33     phillip swanson     1      1     0             0           0
+34       kirk elsworth     1      1     0             0           0
+35      tom harrington     0      0     0             0           1

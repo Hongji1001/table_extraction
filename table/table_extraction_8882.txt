@@ -1,0 +1,30 @@
+                 player       position               previous club  apps  tries     goals  points
+0         michael platt      full back           castleford tigers    20      5         0      20
+1           dave halley     right wing              bradford bulls    23      9         0      36
+2           james evans   right centre  wakefield trinity wildcats    30      9         0      36
+3            tame tupou      left wing            brisbane broncos    10      3         0      12
+4         iestyn harris      stand off   cardiff blues rugby union    27      3   50 / 60     110
+5       paul deacon (c)     scrum half            oldham roughyeds    20      3  90 / 106     188
+6            joe vagana           prop        new zealand warriors    19      1     0 / 1       4
+7          terry newton         hooker              wigan warriors    26      9         0      36
+8            andy lynch           prop           castleford tigers    29      5         0      20
+9        david solomona     second row  wakefield trinity wildcats    24      5         0      20
+10  glenn morrison (vc)     second row             parramatta eels    14      6         0      24
+11   jamie langley (vc)  loose forward              bradford bulls    28      2         0       8
+12        chris feather           prop                leeds rhinos    13      1         0       4
+13            matt cook     second row              bradford bulls    17      4         0      16
+14          sam burgess  loose forward              bradford bulls    23      8         0      32
+15           matt james           prop              bradford bulls    11      0         0       0
+16        craig kopczak           prop              bradford bulls    14      0         0       0
+17       simon finnigan  loose forward           salford city reds    30     10         0      40
+18         wayne godwin         hooker                        hull    23      4         0      16
+19         ben jeffries      stand off  wakefield trinity wildcats    27     11         0      44
+20           chris nero     second row         huddersfield giants    24      5         0      20
+21           paul sykes   right centre               harlequins rl    29     16     3 / 5      70
+22        semi tadulala     right wing  wakefield trinity wildcats    25     23         0      88
+23        jason crookes   right centre              bradford bulls     0      0         0       0
+24      richard johnson         centre              bradford bulls     3      0         0       0
+25          kieran hyde      full back              bradford bulls     0      0         0       0
+26        keale carlile         hooker              bradford bulls     1      0         0       0
+27       jode sherriffe  loose forward              bradford bulls     0      0         0       0
+28      james donaldson     second row              bradford bulls     0      0         0       0

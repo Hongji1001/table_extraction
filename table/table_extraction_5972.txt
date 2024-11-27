@@ -1,0 +1,23 @@
+                     driver         constructor  laps time / retired  grid
+0        michael schumacher             ferrari    78    1:47:22.561     2
+1        rubens barrichello             ferrari    78        + 0.431     4
+2              eddie irvine   jaguar - cosworth    78       + 30.698     6
+3        jacques villeneuve         bar - honda    78       + 32.454     9
+4           david coulthard  mclaren - mercedes    77        + 1 lap     1
+5                jean alesi        prost - acer    77        + 1 lap    11
+6             jenson button  benetton - renault    77        + 1 lap    17
+7            jos verstappen   arrows - asiatech    77        + 1 lap    19
+8          enrique bernoldi   arrows - asiatech    76       + 2 laps    20
+9            kimi räikkönen   sauber - petronas    73       + 5 laps    15
+10          ralf schumacher      williams - bmw    57     electrical     5
+11            tarso marques  minardi - european    56   transmission    22
+12          fernando alonso  minardi - european    54        gearbox    18
+13  heinz - harald frentzen      jordan - honda    49       accident    13
+14     giancarlo fisichella  benetton - renault    43        gearbox    10
+15             jarno trulli      jordan - honda    30     hydraulics     8
+16            luciano burti        prost - acer    24        gearbox    21
+17         pedro de la rosa   jaguar - cosworth    18     hydraulics    14
+18            mika häkkinen  mclaren - mercedes    15       steering     3
+19            olivier panis         bar - honda    13       steering    12
+20       juan pablo montoya      williams - bmw     2       spun off     7
+21            nick heidfeld   sauber - petronas     0      collision    16

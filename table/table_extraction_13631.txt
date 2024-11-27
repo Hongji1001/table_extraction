@@ -1,0 +1,38 @@
+               city               country iata  icao                                  airport
+0           bacolod           philippines  bcd  rpvb    bacolod - silay international airport
+1             basco           philippines  bso  rpuo                            basco airport
+2          busuanga           philippines  usu  rpvv                francisco b reyes airport
+3            butuan           philippines  bxu  rpme                          bancasi airport
+4    cagayan de oro           philippines  cgy  rpml       laguindingan international airport
+5          calbayog           philippines  cyp  rpvc                         calbayog airport
+6          catarman           philippines  crm  rpvf                catarman national airport
+7          caticlan           philippines  mph  rpve                godofredo p ramos airport
+8              cebu           philippines  ceb  rpvm      mactan - cebu international airport
+9          cotabato           philippines  cbo  rpmc                            awang airport
+10            davao           philippines  dvo  rpmd   francisco bangoy international airport
+11          dipolog           philippines  dpl  rpmg                          dipolog airport
+12            dubai  united arab emirates  dxb  omdb              dubai international airport
+13        dumaguete           philippines  dgt  rpvd                          sibulan airport
+14   general santos           philippines  ges  rpmr     general santos international airport
+15         hangzhou                 china  hgh  zshc  hangzhou xiaoshan international airport
+16        hong kong             hong kong  hkg  vhhh          hong kong international airport
+17           iloilo           philippines  ilo  rpvi             iloilo international airport
+18             jolo           philippines  jol  rpmj                             jolo airport
+19           kalibo           philippines  klo  rpvk             kalibo international airport
+20     kuala lumpur              malaysia  kul  wmkk       kuala lumpur international airport
+21            laoag           philippines  lao  rpli              laoag international airport
+22          legazpi           philippines  lgp  rplp                          legazpi airport
+23           manila           philippines  mnl  rpll       ninoy aquino international airport
+24          masbate           philippines  mbt  rpvj                moises r espinosa airport
+25             naga           philippines  wnp  rpun                             naga airport
+26           ozamiz           philippines  ozc  rpmo                             labo airport
+27  puerto princesa           philippines  pps  rpvp    puerto princesa international airport
+28            roxas           philippines  rxs  rpvp                            roxas airport
+29         shanghai                 china  pvg  zspd    shanghai pudong international airport
+30        singapore             singapore  sin  wsss                 singapore changi airport
+31          surigao           philippines  sug  rpms                          surigao airport
+32         tacloban           philippines  tac  rpva               daniel z romualdez airport
+33       tagbilaran           philippines  tag  rpvt                       tagbilaran airport
+34      tawi - tawi           philippines  sgs  rpmn                    sanga - sanga airport
+35       tuguegarao           philippines  tug  rput                       tuguegarao airport
+36        zamboanga           philippines  zam  rpmz          zamboanga international airport

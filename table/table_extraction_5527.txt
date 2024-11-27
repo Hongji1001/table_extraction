@@ -1,0 +1,24 @@
+                          driver                          entrant    constructor                  chassis                       engine tyre
+0             juan manuel fangio                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo 159 lbc 1.5 l8 s    p
+1                giuseppe farina                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo 159 lbc 1.5 l8 s    p
+2                  luigi fagioli                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo 159 lbc 1.5 l8 s    p
+3                    reg parnell                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo 159 lbc 1.5 l8 s    p
+4                   david murray              scuderia ambrosiana       maserati       maserati 4clt - 48       maserati 4 cl 1.5 l4 s    d
+5                david hampshire              scuderia ambrosiana       maserati       maserati 4clt - 48       maserati 4 cl 1.5 l4 s    d
+6                 leslie johnson                   taso mathieson            era                    era e                 era 1.5 l6 s    d
+7         peter walker tony rolt                     peter walker            era                    era e                 era 1.5 l6 s    d
+8   joe fry brian shawe - taylor                          joe fry       maserati             maserati 4cl       maserati 4 cl 1.5 l4 s    d
+9                  cuth harrison                    cuth harrison            era                    era b                 era 1.5 l6 s    d
+10                    bob gerard                       bob gerard            era                    era b                 era 1.5 l6 s    d
+11       yves giraud - cabantous  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c - da           talbot 23cv 4.5 l6    d
+12                  louis rosier  automobiles talbot - darracq sa  talbot - lago       talbot - lago t26c           talbot 23cv 4.5 l6    d
+13            philippe étancelin  automobiles talbot - darracq sa  talbot - lago       talbot - lago t26c           talbot 23cv 4.5 l6    d
+14                 eugène martin  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c - da           talbot 23cv 4.5 l6    d
+15                  johnny claes                     ecurie belge  talbot - lago       talbot - lago t26c           talbot 23cv 4.5 l6    d
+16                  louis chiron        officine alfieri maserati       maserati       maserati 4clt - 48       maserati 4 cl 1.5 l4 s    p
+17          toulo de graffenried                     enrico platé       maserati       maserati 4clt - 48       maserati 4 cl 1.5 l4 s    p
+18                        b bira                     enrico platé       maserati       maserati 4clt - 48       maserati 4 cl 1.5 l4 s    p
+19                felice bonetto                  scuderia milano       maserati       maserati 4clt - 50       maserati 4 cl 1.5 l4 s    p
+20                     joe kelly                        joe kelly           alta                  alta gp                alta 1.5 l4 s    d
+21             geoffrey crossley                geoffrey crossley           alta                  alta gp                alta 1.5 l4 s    d
+22                  raymond mays                     raymond mays            era                    era d                 era 1.5 l6 s    d

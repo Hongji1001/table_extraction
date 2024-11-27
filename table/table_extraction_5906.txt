@@ -1,0 +1,25 @@
+                driver               constructor  laps time / retired  grid
+0         ayrton senna            mclaren - ford    53    1:40:27.912     2
+1          alain prost        williams - renault    53       + 11.435     1
+2        mika häkkinen            mclaren - ford    53       + 26.129     3
+3           damon hill        williams - renault    53     + 1:23.538     6
+4   rubens barrichello             jordan - hart    53     + 1:35.101    12
+5         eddie irvine             jordan - hart    53     + 1:46.421     8
+6        mark blundell          ligier - renault    52        + 1 lap    17
+7             jj lehto                    sauber    52        + 1 lap    11
+8       martin brundle          ligier - renault    51       + 2 laps    15
+9    pierluigi martini            minardi - ford    51       + 2 laps    22
+10      johnny herbert              lotus - ford    51       + 2 laps    19
+11       toshio suzuki   larrousse - lamborghini    51       + 2 laps    23
+12          pedro lamy              lotus - ford    49       accident    20
+13       derek warwick  footwork - mugen - honda    48      collision     7
+14    riccardo patrese           benetton - ford    45       accident    10
+15      gerhard berger                   ferrari    40         engine     5
+16        aguri suzuki  footwork - mugen - honda    28       spun off     9
+17  jean - marc gounon            minardi - ford    26       withdrew    24
+18       ukyo katayama          tyrrell - yamaha    26         engine    13
+19     karl wendlinger                    sauber    25         engine    16
+20          érik comas   larrousse - lamborghini    17         engine    21
+21  michael schumacher           benetton - ford    10      collision     4
+22          jean alesi                   ferrari     7         engine    14
+23   andrea de cesaris          tyrrell - yamaha     0      collision    18

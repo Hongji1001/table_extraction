@@ -1,0 +1,40 @@
+                          team         chassis                       engine       tire                       sponsor
+0         marlboro team penske  penske pc - 24  ilmor - mercedes benz ic108   goodyear                      marlboro
+1         marlboro team penske  penske pc - 24  ilmor - mercedes benz ic108   goodyear                      marlboro
+2         newman / haas racing            lola                      ford xb   goodyear             kmart / budweiser
+3         newman / haas racing            lola                      ford xb   goodyear     kmart / texaco - havoline
+4   target chip ganassi racing     reynard 95i                      ford xb   goodyear  target stores / scotch video
+5   target chip ganassi racing     reynard 95i                      ford xb   goodyear           target stores / stp
+6                walker racing     reynard 95i                      ford xb   goodyear           valvoline / cummins
+7                walker racing     reynard 95i                      ford xb   goodyear            marlboro / chapecó
+8            dick simon racing            lola                      ford xb   goodyear     cristal / mobil 1 / copec
+9            dick simon racing            lola                      ford xb   goodyear                        herdez
+10           dick simon racing            lola                      ford xb   goodyear                        herdez
+11           dick simon racing            lola                      ford xb   goodyear                        bryant
+12           dick simon racing            lola                      ford xb   goodyear                   unsponsored
+13           dick simon racing            lola                      ford xb   goodyear                        subway
+14                 hall racing     reynard 95i  ilmor - mercedes benz ic108   goodyear                      pennzoil
+15        rahal - hogan racing            lola  ilmor - mercedes benz ic108   goodyear                        miller
+16        rahal - hogan racing            lola  ilmor - mercedes benz ic108   goodyear                      duracell
+17               galles racing            lola  ilmor - mercedes benz ic108   goodyear         tecate / quaker state
+18               galles racing            lola  ilmor - mercedes benz ic108   goodyear                      brastemp
+19               galles racing            lola  ilmor - mercedes benz ic108   goodyear                      brastemp
+20        a j foyt enterprises            lola                      ford xb   goodyear                    copenhagen
+21        a j foyt enterprises            lola                      ford xb   goodyear                    copenhagen
+22    bettenhausen motorsports  penske pc - 23  ilmor - mercedes benz ic108   goodyear                        alumax
+23              pacwest racing     reynard 95i                      ford xb   goodyear                          visa
+24              pacwest racing     reynard 95i                      ford xb   goodyear          hollywood cigarettes
+25              pacwest racing     reynard 95i                      ford xb   goodyear                   unsponsored
+26       payton / coyne racing            lola                      ford xb  firestone                          agfa
+27       payton / coyne racing            lola                      ford xb  firestone                     mi - jack
+28              patrick racing            lola                      ford xb  firestone                     firestone
+29              arciero racing     reynard 95i                      ford xb  firestone                     panasonic
+30                  team green     reynard 95i                      ford xb   goodyear                     player 's
+31          tasman motorsports     reynard 95i                        honda  firestone             lci international
+32          tasman motorsports     reynard 95i                        honda  firestone             lci international
+33             forsythe racing     reynard 95i                      ford xb   goodyear                  abb / indeck
+34                 team menard            lola    menard (badged as buick )  firestone                       glidden
+35                 team menard            lola    menard (badged as buick )  firestone        quaker state / glidden
+36                 team menard            lola    menard (badged as buick )  firestone                  quaker state
+37             comptech racing     reynard 95i                        honda  firestone                      motorola
+38                project indy     reynard 95i                      ford xb   goodyear      no touch / marcelo group

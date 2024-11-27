@@ -1,0 +1,17 @@
+                  name  gp - gs  gain  loss  long avg / g
+0   derrick washington       14  1078    42    59    74.0
+1        jeremy maclin       14   306    13    56    20.9
+2         chase daniel       14   384   103    48    20.1
+3        jimmy jackson       14   275    28    37    17.6
+4        de'vion moore       13   251    20    55    17.8
+5       blaine gabbert        5    37    15    30     4.4
+6          shawn scott        3    23     1     8     7.3
+7       tommy saunders       14    14     0     8     1.0
+8      jerrell jackson       13    11     1    11     0.8
+9         chase patton        8    19    10    11     1.1
+10   danario alexander       12     6     0     3     0.5
+11        tyrone reece        2     3     5     3   - 1.0
+12                team       11     0     8     0   - 0.7
+13         jared perry       14     0     8     0   - 0.6
+14               total       14  2407   254    59   153.8
+15           opponents       14  2219   471    93   124.9

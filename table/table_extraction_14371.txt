@@ -1,0 +1,6 @@
+   rank       nation  gold  silver  bronze  total
+0     1    indonesia     2       2       1      5
+1     2  south korea     2       1       1      4
+2     3        china     0       1       4      5
+3     4      denmark     0       0       1      1
+4     5     malaysia     0       0       1      1

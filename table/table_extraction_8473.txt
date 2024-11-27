@@ -1,0 +1,18 @@
+              player                    club  league goals  cup goals  total
+0        jason byrne              shelbourne            22          8     30
+1        mark farren              derry city            18          4     22
+2       john o'flynn               cork city            11          4     15
+3       kevin mchugh              finn harps            13          1     14
+4        eamon zayed          bray wanderers            12          0     12
+5         glen crowe              shelbourne             8          4     12
+6       gavin whelan         drogheda united             8          1      9
+7   patrick mcwalter                     ucd             7          2      9
+8     declan o'brien         drogheda united             7          2      9
+9       stephen ward               bohemians             7          2      9
+10     robbie martin                     ucd             6          3      9
+11      andrew myler           longford town             4          5      9
+12       kevin doyle               cork city             7          1      8
+13      robbie doyle  st patrick 's athletic             7          1      8
+14      richie baker              shelbourne             6          2      8
+15     roy o'donovan               cork city             6          2      8
+16        tony grant               bohemians             5          3      8

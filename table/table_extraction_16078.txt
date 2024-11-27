@@ -1,0 +1,13 @@
+                   name height weight    spike          2008 club
+0       natalya zhukova      m      -  cm (in)      iller bankasi
+1       tatyana pyurova      m      -  cm (in)           zhetyssu
+2          olga karpova      m      -  cm (in)              rahat
+3         yuliya kutsko      m      -  cm (in)              rahat
+4       olga nassedkina      m      -  cm (in)              rahat
+5    korrina ishimtseva      m      -  cm (in)              rahat
+6   xeniya ilyuchshenko      m      -  cm (in)      iller bankasi
+7           yelena ezau      m      -  cm (in)              rahat
+8          olga grushko      m      -  cm (in)           marmaris
+9        irina zaitseva      m      -  cm (in)              rahat
+10       yelena pavlova      m      -  cm (in)  hisamitsu springs
+11       inna matveyeva      m      -  cm (in)              rahat

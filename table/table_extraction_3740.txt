@@ -1,0 +1,6 @@
+   season                sport                     tournament structure  of divisions  1st tournament   2012 - 2013 state tournament location
+0    fall        cross country            district , regional , & state             3            1928         national trail raceway , hebron
+1    fall               soccer  sectional , district , regional & state             3            1976                 crew stadium , columbus
+2  winter              bowling           sectional , district , & state             2            2007  wayne webb 's columbus bowl , columbus
+3  winter           ice hockey                         district & state             1            1978             nationwide arena , columbus
+4  winter  swimming and diving           sectional , district , & state             2            1928          c t branin natatorium , canton

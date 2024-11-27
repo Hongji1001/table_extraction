@@ -1,0 +1,9 @@
+   round                  pick               player position    nationality                          club team
+0      1                     5          luke schenn      (d)         canada            kelowna rockets ( whl )
+1      2  60 (from pittsburgh)          jimmy hayes     (rw)  united states             lincoln stars ( ushl )
+2      4                    98  mikhail stefanovich      (c)        belarus          quebec remparts ( qmjhl )
+3      5                   128         greg pateryn      (d)  united states  ohio junior blue jackets ( ushl )
+4      5    129 (from phoenix)       joël champagne      (c)         canada    chicoutimi saguenéens ( qmjhl )
+5      5    130 (from florida)        jerome flaake     (lw)        germany                kölner haie ( del )
+6      6                   158     grant rollheiser      (g)         canada        trail smoke eaters ( bchl )
+7      7                   188    andrew macwilliam      (d)         canada           camrose kodiaks ( ajhl )

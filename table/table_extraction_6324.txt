@@ -1,0 +1,18 @@
+              player    pos  from school / country  rebs  asts
+0       maciej lampe     pf  2004           poland    76    10
+1        andrew lang      c  1988         arkansas  1267   100
+2       antonio lang     sf  1994             duke     4     1
+3         dan langhi     pf  2002       vanderbilt    87    21
+4        dave lattin  f / c  1968             utep   323    48
+5         gani lawal     pf  2010     georgia tech     0     0
+6          mo layton     pg  1971              usc   241   386
+7            ron lee     pg  1976           oregon   666   700
+8         tim legler     sg  1990         la salle     8     6
+9   olexsiy alex len      c  2013         maryland     3     0
+10  randy livingston     pg  1999              lsu   132   173
+11    horacio llamas      c  1997     grand canyon    36     5
+12      ian lockhart     pf  1990        tennessee     0     0
+13       luc longley      c  1999       new mexico   544   122
+14       robin lopez      c  2008         stanford   791    43
+15     maurice lucas     pf  1982        marquette  2081   567
+16      phil lumpkin     pg  1975     miami (ohio)    23    48

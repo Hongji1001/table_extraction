@@ -1,0 +1,15 @@
+   frequency      call sign                  format                              owner                             notes
+0    fm 88.1         vf2522     tourist information           cameron bell consultancy            licensed to chilliwack
+1    fm 88.5   cbu - 1 - fm             news / talk  canadian broadcasting corporation            licensed to abbotsford
+2    fm 89.5      chwk - fm             active rock              fabmar communications            licensed to chilliwack
+3    fm 91.7      cbyf - fm             news / talk  canadian broadcasting corporation            licensed to chilliwack
+4    fm 92.5  cfun - fm - 1  contemporary hit radio                       rogers media            licensed to abbotsford
+5    fm 96.7      cbyh - fm             news / talk  canadian broadcasting corporation  licensed to harrison hot springs
+6    fm 98.3      cksr - fm      adult contemporary                       rogers media            licensed to chilliwack
+7    fm 99.9   cbu - fm - 7            public music  canadian broadcasting corporation            licensed to chilliwack
+8   fm 100.5      cfsr - fm      adult contemporary                       rogers media                  licensed to hope
+9   fm 101.7      civl - fm            campus radio    university of the fraser valley            licensed to abbotsford
+10  fm 101.7      cbue - fm             news / talk  canadian broadcasting corporation                  licensed to hope
+11  fm 102.1  cbuf - fm - 1             news / talk  canadian broadcasting corporation            licensed to chilliwack
+12  fm 107.1      ckqc - fm                 country                       rogers media            licensed to abbotsford
+13  fm 107.5      cfun - fm  contemporary hit radio                       rogers media            licensed to chilliwack

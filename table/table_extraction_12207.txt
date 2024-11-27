@@ -1,0 +1,39 @@
+                 date              opponent venue result  attendance
+0       9 august 2003            kilmarnock     h  4 - 0       49108
+1      16 august 2003              aberdeen     a  3 - 2       16348
+2      23 august 2003             hibernian     h  5 - 2       49642
+3      31 august 2003         dundee united     a  3 - 1       11111
+4   13 september 2003  dunfermline athletic     h  4 - 0       49072
+5   21 september 2003   heart of midlothian     a  4 - 0       14732
+6   27 september 2003                dundee     h  3 - 1       49548
+7      4 october 2003                celtic     h  0 - 1       49825
+8     19 october 2003            motherwell     a  1 - 1       10824
+9     25 october 2003            livingston     a  0 - 0        9627
+10    1 november 2003       partick thistle     h  3 - 1       49551
+11    9 november 2003            kilmarnock     a  3 - 2       12204
+12   22 november 2003              aberdeen     h  3 - 0       49962
+13   30 november 2003             hibernian     a  1 - 0       11160
+14    6 december 2003         dundee united     h  2 - 1       49307
+15   14 december 2003  dunfermline athletic     a  0 - 2        8592
+16   20 december 2003                hearts     h  2 - 1       49592
+17   28 december 2003                dundee     a  2 - 0       10948
+18     3 january 2004                celtic     a  0 - 3       59087
+19    17 january 2004            motherwell     h  1 - 0       48925
+20    24 january 2004            livingston     h  1 - 0       48638
+21    1 february 2004       partick thistle     a  1 - 0        8220
+22   11 february 2004            kilmarnock     h  2 - 0       46900
+23   14 february 2004              aberdeen     a  1 - 1       15815
+24   21 february 2004             hibernian     h  3 - 0       49698
+25   29 february 2004         dundee united     a  0 - 2       10497
+26      13 march 2004                hearts     a  1 - 1       14598
+27      20 march 2004                dundee     h  4 - 0       49364
+28      23 march 2004  dunfermline athletic     h  4 - 1       47487
+29      28 march 2004                celtic     h  1 - 2       49909
+30       4 april 2004            motherwell     a  1 - 0        8967
+31      14 april 2004            livingston     a  1 - 1        6096
+32      17 april 2004       partick thistle     h  2 - 0       49279
+33      24 april 2004         dundee united     a  3 - 3        8339
+34         1 may 2004            motherwell     h  4 - 0       47579
+35         8 may 2004                celtic     a  0 - 1       59180
+36        12 may 2004                hearts     h  0 - 1       47467
+37        16 may 2004  dunfermline athletic     a  3 - 2        6798

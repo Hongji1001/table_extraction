@@ -1,0 +1,22 @@
+   district            incumbent       party  first elected                                result
+0    ohio 1  charles phelps taft  republican           1894               retired republican hold
+1    ohio 2     jacob h bromwell  republican           1894                          re - elected
+2    ohio 3          paul j sorg  democratic           1894               retired democratic hold
+3    ohio 4    fernando c layton  democratic           1890               retired democratic hold
+4    ohio 5    francis b de witt  republican           1894    lost re - election democratic gain
+5    ohio 6      george w hulick  republican           1892  lost re - nomination republican hold
+6    ohio 7      george w wilson  republican           1892               retired republican hold
+7    ohio 8      luther m strong  republican           1892  lost re - nomination republican hold
+8    ohio 9     james h southard  republican           1894                          re - elected
+9   ohio 10      lucien j fenton  republican           1894                          re - elected
+10  ohio 11  charles h grosvenor  republican           1892                          re - elected
+11  ohio 12       david k watson  republican           1894    lost re - election democratic gain
+12  ohio 13  stephen ross harris  republican           1894    lost re - election democratic gain
+13  ohio 14      winfield s kerr  republican           1894                          re - elected
+14  ohio 15   h clay van voorhis  republican           1892                          re - elected
+15  ohio 16      lorenzo danford  republican           1894                          re - elected
+16  ohio 17    addison s mcclure  republican           1894    lost re - election democratic gain
+17  ohio 18      robert w tayler  republican           1894                          re - elected
+18  ohio 19   stephen a northway  republican           1892                          re - elected
+19  ohio 20      clifton b beach  republican           1894                          re - elected
+20  ohio 21    theodore e burton  republican           1894                          re - elected

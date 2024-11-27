@@ -1,0 +1,19 @@
+                    company                     type         principal activities incorporated in group 's equity shareholding
+0   cobalt ground solutions               subsidiary              ground handling  united kingdom                          60%
+1                  cygnific               subsidiary            sales and service     netherlands                         100%
+2                     epcor               subsidiary                  maintenance     netherlands                         100%
+3       high speed alliance            joint venture            high speed trains     netherlands        5% (10% voting right)
+4             kenya airways                associate                      airline           kenya                          27%
+5                  klm asia               subsidiary                      airline          taiwan                         100%
+6     klm catering services               subsidiary            catering services     netherlands                         100%
+7            klm cityhopper               subsidiary                      airline     netherlands                         100%
+8         klm cityhopper uk               subsidiary                      airline  united kingdom                         100%
+9    klm equipment services               subsidiary            equipment support     netherlands                         100%
+10   klm financial services               subsidiary                    financing     netherlands                         100%
+11       klm flight academy               subsidiary               flight academy     netherlands                         100%
+12      klm health services               subsidiary              health services     netherlands                         100%
+13       klm uk engineering               subsidiary  engineering and maintenance  united kingdom                         100%
+14                martinair               subsidiary                cargo airline     netherlands                         100%
+15  schiphol logistics park  joint controlled entity                    logistics     netherlands       53% (45% voting right)
+16             transaviacom               subsidiary                      airline     netherlands                         100%
+17      transaviacom france                associate                      airline          france                          40%

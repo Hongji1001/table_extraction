@@ -1,0 +1,6 @@
+   rank                name                           team  games  rebounds
+0     1        nicole ohlde        us valenciennes olympic     13       124
+1     2  jennifer fleischer                  dexia w namur     10        91
+2     3         ann wauters                    cska moscow     13       118
+3     4        iciss tillis                       ttt riga      9        80
+4     5    yelena leuchanka  teo vilnius ummc ekaterinburg     14       124

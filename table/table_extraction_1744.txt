@@ -1,0 +1,20 @@
+    pos                driver  starts  finishes  wins  podiums  stage wins  points
+0     1        sébastien loeb      12        11     7        9          88      93
+1     2        mikko hirvonen      12        11     4       11          51      92
+2     3          daniel sordo      12        12     0        7          18      64
+3     4  jari - matti latvala      12        10     1        4          40      41
+4     5        petter solberg      10         7     0        2          10      35
+5     6       henning solberg      12        12     0        2           8      33
+6     7        matthew wilson      12        11     0        0           2      28
+7     8       sébastien ogier      12         8     0        1          13      24
+8     9     federico villagra       8         7     0        0           0      16
+9    10     conrad rautenbach      12         7     0        0           0       9
+10   11          mads østberg       7         4     0        0           1       7
+11   12   khalid al - qassimi       9         9     0        0           0       6
+12   13        chris atkinson       1         1     0        0           0       4
+13   14        evgeny novikov       8         4     0        0           4       4
+14   15        matti rantanen       1         1     0        0           0       4
+15   16   krzysztof hołowczyc       1         1     0        0           0       3
+16   17          jari ketomaa       1         1     0        0           0       3
+17   18   nasser al - attiyah       6         5     0        0           0       1
+18   19             urmo aava       3         3     0        0           0       1

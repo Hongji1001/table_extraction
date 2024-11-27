@@ -1,0 +1,16 @@
+       nationality   height              name                      sport           lifespan
+0            india  cm (in)  aditya romeo dev               bodybuilding        1988 - 2012
+1           canada  cm (in)    henry franklyn                 ice hockey  late 19th century
+2    united states  cm (in)      eddie gaedel                   baseball        1925 - 1961
+3           canada  cm (in)     lionel giroux                  wrestling        1935 - 1995
+4    united states  cm (in)       dylan postl                  wrestling             1986 -
+5    united states  cm (in)       julie krone               horse racing             1963 -
+6          england  cm (in)     tich cornford                    cricket        1900 - 1964
+7        australia  cm (in)      jim bradford  australian rules football        1926 - 2005
+8    united states  cm (in)      jack shapiro          american football        1907 - 2001
+9   united kingdom  cm (in)  frederick walden       association football        1888 - 1949
+10   united states  cm (in)   shannon bobbitt                 basketball             1985 -
+11   united states  cm (in)     muggsy bogues      basketball (inactive)             1965 -
+12          canada  cm (in)       roy worters                 ice hockey        1900 - 1957
+13   united states  cm (in)      earl boykins        basketball (active)             1976 -
+14   united states  cm (in)  trindon holliday          american football             1986 -

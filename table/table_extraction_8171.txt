@@ -1,0 +1,22 @@
+    year    award ceremony                                            category                      nominee     result
+0   2009        tony award                                        best musical                 best musical  nominated
+1   2009        tony award                              best book of a musical       david lindsay - abaire  nominated
+2   2009        tony award                                 best original score               jeanine tesori  nominated
+3   2009        tony award    best performance by a leading actor in a musical           brian d'arcy james  nominated
+4   2009        tony award  best performance by a leading actress in a musical                sutton foster  nominated
+5   2009        tony award   best performance by a featured actor in a musical           christopher sieber  nominated
+6   2009        tony award                                 best orchestrations  danny troob and john clancy  nominated
+7   2009        tony award                                 best costume design                   tim hatley        won
+8   2009  drama desk award                                 outstanding musical          outstanding musical  nominated
+9   2009  drama desk award                       outstanding book of a musical       david lindsay - abaire  nominated
+10  2009  drama desk award                      outstanding actor in a musical           brian d'arcy james        won
+11  2009  drama desk award                      outstanding actor in a musical               daniel breaker  nominated
+12  2009  drama desk award                    outstanding actress in a musical                sutton foster  nominated
+13  2009  drama desk award             outstanding featured actor in a musical           christopher sieber  nominated
+14  2009  drama desk award                   outstanding director of a musical                  jason moore  nominated
+15  2009  drama desk award                                   outstanding music               jeanine tesori  nominated
+16  2009  drama desk award                                  outstanding lyrics       david lindsay - abaire  nominated
+17  2009  drama desk award                          outstanding orchestrations                  danny troob  nominated
+18  2009  drama desk award                              outstanding set design                   tim hatley        won
+19  2009  drama desk award                          outstanding costume design                   tim hatley        won
+20  2009      grammy award                             best musical show album      best musical show album  nominated

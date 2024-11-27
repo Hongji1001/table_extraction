@@ -1,0 +1,19 @@
+              driver        constructor  laps  time / retired  grid
+0   pedro rodrã­guez  cooper - maserati    80       2:05:45.9     4
+1          john love    cooper - climax    80          + 26.4     5
+2       john surtees              honda    79         + 1 lap     6
+3        denny hulme    brabham - repco    78        + 2 laps     2
+4       bob anderson   brabham - climax    78        + 2 laps    10
+5       jack brabham    brabham - repco    76        + 4 laps     1
+6      dave charlton   brabham - climax    63  not classified     8
+7         luki botha   brabham - climax    60  not classified    17
+8         sam tingle       lds - climax    56        accident    14
+9      piers courage        lotus - brm    51     fuel system    18
+10        dan gurney     eagle - climax    44      suspension    11
+11        jo siffert  cooper - maserati    41          engine    16
+12      jochen rindt  cooper - maserati    38          engine     7
+13       mike spence                brm    31        oil leak    13
+14        jo bonnier  cooper - maserati    30          engine    12
+15         jim clark        lotus - brm    22          engine     3
+16       graham hill        lotus - brm     6        accident    15
+17    jackie stewart                brm     2          engine     9

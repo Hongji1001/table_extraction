@@ -1,0 +1,22 @@
+    rank                       nation  gold  silver  bronze  total
+0      1                       france    34      25      18     77
+1      2                       canada     9      15      20     44
+2      3                      morocco     7       8       6     21
+3      4                      senegal     3       3       4     10
+4      5                       quebec     2       4       8     14
+5      6  french community of belgium     2       1       5      8
+6      7                     djibouti     1       1       1      3
+7      7                        egypt     1       1       1      3
+8      7                   madagascar     1       1       1      3
+9      7                       rwanda     1       1       1      3
+10    11                  ivory coast     1       0       3      4
+11    12        republic of the congo     1       0       1      2
+12    12                  switzerland     1       0       1      2
+13    14                         togo     1       0       0      1
+14    15                      tunisia     0       2       2      4
+15    16                        gabon     0       1       2      3
+16    17                new brunswick     0       1       1      2
+17    17                   luxembourg     0       1       1      2
+18    19                    mauritius     0       0       2      2
+19    20                 burkina faso     0       0       1      1
+20    20                         mali     0       0       1      1

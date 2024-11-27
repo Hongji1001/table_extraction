@@ -1,0 +1,28 @@
+    pick                     player             nationality                nba team                     school / club team
+0     28        sherman douglas (g)                     usa              miami heat                               syracuse
+1     29              dyron nix (f)                     usa       charlotte hornets                              tennessee
+2     30           frank kornet (f)                     usa         milwaukee bucks                             vanderbilt
+3     31            jeff martin (g)                     usa    los angeles clippers                           murray state
+4     32         stanley brundy (f)                     usa         new jersey nets                                 depaul
+5     33            jay edwards (g)                     usa    los angeles clippers                                indiana
+6     34           gary leonard (c)                     usa  minnesota timberwolves                               missouri
+7     35             pat durham (f)                     usa        dallas mavericks                         colorado state
+8     36  cliff robinson + (pf / c)                     usa  portland trail blazers                            connecticut
+9     37         michael ansley (f)                     usa           orlando magic                                alabama
+10    38          doug west (g / f)                     usa  minnesota timberwolves                              villanova
+11    39         ed horton (pf / c)                     usa      washington bullets                                   iowa
+12    40             dino raäa (pf)  yugoslavia ( croatia )          boston celtics  kk split ( yugoslavia , now croatia )
+13    41              doug roth (c)                     usa      washington bullets                              tennessee
+14    42      michael cutright (sg)                     usa          denver nuggets                          mcneese state
+15    43          chucky brown (pf)                     usa     cleveland cavaliers                   north carolina state
+16    44          reggie cross (pf)                     usa      philadelphia 76ers                                 hawaii
+17    45          scott haffner (g)                     usa              miami heat                             evansville
+18    46          ricky blanton (f)                     usa            phoenix suns                                    lsu
+19    47         reggie turner (sf)                     usa          denver nuggets                                    uab
+20    48           junie lewis (pg)                     usa               utah jazz                                   utah
+21    49       haywoode workman (g)                     usa           atlanta hawks                           oral roberts
+22    50         brian quinnett (f)                     usa         new york knicks                       washington state
+23    51          mike morrison (g)                     usa            phoenix suns                            loyola (md)
+24    52             greg grant (g)                     usa            phoenix suns                          trenton state
+25    53            jeff hodge (sg)                     usa        dallas mavericks                          south alabama
+26    54            toney mack (sg)                     usa      philadelphia 76ers                                georgia

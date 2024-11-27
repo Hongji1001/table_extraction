@@ -1,0 +1,7 @@
+            player    nationality jersey number (s) position                    years              from
+0       craig ehlo  united states                 3       sg              1996 - 1997  washington state
+1       dale ellis  united states                 3  sg / sf  1986 - 1991 1997 - 1999         tennessee
+2   pervis ellison  united states                29        c                     2000        louisville
+3  francisco elson    netherlands                16        c                     2008        california
+4     reggie evans  united states           34 , 30       pf              2002 - 2006              iowa
+5    patrick ewing  united states                33   center              2000 - 2001        georgetown

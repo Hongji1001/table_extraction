@@ -1,0 +1,9 @@
+  railway               loco name  build date       wheels       disposal
+0    kesr               tenterden        1900  2 - 4 - 0 t  scrapped 1941
+1    kesr               rolvenden        1900  2 - 4 - 0 t  scrapped 1941
+2    kesr                  hecate        1904  0 - 8 - 0 t   to sr and br
+3  pdswjr              a s harris        1907  0 - 6 - 0 t   to sr and br
+4  pdswjr  earl of mount edgcumbe        1907  0 - 6 - 2 t   to sr and br
+5  pdswjr           lord st levan        1907   0 - 6 - 2t   to sr and br
+6     smr                 pyramus        1911   0 - 6 - 2t     sold c1916
+7     smr                  thisbe        1911   0 - 6 - 2t     sold c1916

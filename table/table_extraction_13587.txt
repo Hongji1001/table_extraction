@@ -1,0 +1,7 @@
+          player    position  round  pick            nfl club
+0   bryan bulaga      tackle      1    23   green bay packers
+1    pat angerer  linebacker      2    63  indianapolis colts
+2  amari spievey  cornerback      3    66       detroit lions
+3    tony moeaki   tight end      3    93  kansas city chiefs
+4       a j edds  linebacker      4   119      miami dolphins
+5  kyle calloway      tackle      7   216       buffalo bills

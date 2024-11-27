@@ -1,0 +1,15 @@
+                       school            city     team name         county year joined  year left
+0                      attica          attica  red ramblers    23 fountain        1947       1966
+1            delphi community          delphi       oracles     08 carroll        1947       1992
+2                       flora           flora       badgers     08 carroll        1947       1961
+3          rensselaer central      rensselaer       bombers      37 jasper        1947       1949
+4                   rossville       rossville       hornets     12 clinton        1947       1977
+5                     winamac         winamac      warriors     66 pulaski        1947       1972
+6                    sheridan        sheridan    blackhawks    29 hamilton   1948 2000  1965 2012
+7                southwestern       lafayette      wildcats  79 tippecanoe        1958       1966
+8                     western     russiaville      panthers      34 howard        1958       1965
+9                     carroll           flora       cougars     08 carroll        1961       1977
+10            clinton prairie       frankfort       gophers     12 clinton        1961       1974
+11           central catholic       lafayette       knights  79 tippecanoe        1970       1993
+12  harrison (west lafayette)  west lafayette       raiders  79 tippecanoe        1970       1997
+13                 mccutcheon       lafayette     mavericks  79 tippecanoe        1975       1997

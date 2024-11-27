@@ -1,0 +1,11 @@
+             player    nationality          position years in toronto           school / club team
+0       john salley  united states           forward        1995 - 96                 georgia tech
+1     reggie slater  united states   guard - forward        1996 - 99                      wyoming
+2       uroš slokar       slovenia  forward - center        2006 - 07     benetton treviso (italy)
+3      will solomon  united states             guard        2008 - 09  fenerbahçe ülker ( turkey )
+4          pape sow        senegal           forward        2004 - 07          cal state fullerton
+5   michael stewart  united states  forward - center      1998 - 2002                   california
+6         ed stokes  united states           forward        1997 - 98                      arizona
+7   peja stojaković         serbia           forward        2010 - 11              paok ( greece )
+8  damon stoudamire  united states             guard        1995 - 98                      arizona
+9    rod strickland  united states             guard             2004                       depaul

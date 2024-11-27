@@ -1,0 +1,25 @@
+                date                     venue  score result            competition
+0    20 january 1935               lima , peru  1 - 0  1 - 4      1935 copa america
+1      4 august 1936          berlin , germany  1 - 0  7 - 3   1936 summer olympics
+2      4 august 1936          berlin , germany  2 - 0  7 - 3   1936 summer olympics
+3      4 august 1936          berlin , germany  3 - 0  7 - 3   1936 summer olympics
+4      4 august 1936          berlin , germany  4 - 1  7 - 3   1936 summer olympics
+5      4 august 1936          berlin , germany  6 - 1  7 - 3   1936 summer olympics
+6      8 august 1936          berlin , germany  1 - 0  4 - 2   1936 summer olympics
+7      december 1936  buenos aires , argentina  1 - 2  2 - 3      1937 copa america
+8     6 january 1937  buenos aires , argentina  1 - 1  2 - 4      1937 copa america
+9      16 april 1938         bogota , colombia  1 - 0  4 - 2  1938 bolivarian games
+10       10 may 1938         bogota , colombia  3 - 1  4 - 2  1938 bolivarian games
+11       21 may 1938         bogota , colombia  1 - 0  3 - 0  1938 bolivarian games
+12   15 january 1939               lima , peru  1 - 0  5 - 2      1939 copa america
+13   15 january 1939               lima , peru  3 - 0  5 - 2      1939 copa america
+14   15 january 1939               lima , peru  5 - 1  5 - 2      1939 copa america
+15   22 january 1939               lima , peru  1 - 0  3 - 1      1939 copa america
+16   22 january 1939               lima , peru  2 - 1  3 - 1      1939 copa america
+17   29 january 1939               lima , peru  1 - 0  3 - 0      1939 copa america
+18   29 january 1939               lima , peru  2 - 0  3 - 0      1939 copa america
+19  23 february 1941          santiago , chile  1 - 0  4 - 0      1941 copa america
+20  23 february 1941          santiago , chile  2 - 0  4 - 0      1941 copa america
+21  23 february 1941          santiago , chile  4 - 0  4 - 0      1941 copa america
+22   21 january 1942      montevideo , uruguay  1 - 2  1 - 2      1942 copa america
+23   25 january 1942      montevideo , uruguay  1 - 1  1 - 3      1942 copa america

@@ -1,0 +1,12 @@
+   singular abbreviation           singular word plural abbreviation               plural word    discipline
+0                      d                   didot                  dd                    didots    typography
+1                      f  following line or page                  ff  following lines or pages         notes
+2                      f                   folio                  ff                    folios    literature
+3                      h                    hand                  hh                     hands  horse height
+4                      l                    line                  ll                     lines         notes
+5                     ms              manuscript                 mss               manuscripts         notes
+6                     op                    opus                 opp                     opera         notes
+7                      p                    page                  pp                     pages         notes
+8                      q                  quarto                  qq                   quartos    literature
+9               s (or §)                 section          ss (or §§)                  sections         notes
+10                     v                  volume                  vv                   volumes         notes

@@ -1,0 +1,10 @@
+  constituency number       name reserved for ( sc / st / none)    district  number of electorates (2009)
+0                  38      deori                           none       sagar                        160350
+1                  39      rehli                           none       sagar                        176108
+2                  42      banda                           none       sagar                        176993
+3                  53    malhara                           none  chhatarpur                        150503
+4                  54  pathariya                           none       damoh                        165758
+5                  55      damoh                           none       damoh                        185489
+6                  56     jabera                           none       damoh                        169816
+7                  57      hatta                             sc       damoh                        173217
+8             total :    total :                        total :     total :                       1358234

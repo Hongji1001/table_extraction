@@ -1,0 +1,28 @@
+                    driver     constructor  laps  time / retired  grid
+0               jacky ickx         ferrari    14       1:42:12.3     1
+1           clay regazzoni         ferrari    14          + 48.3     7
+2          ronnie peterson    march - ford    14        + 1:06.7     4
+3            howden ganley             brm    14        + 2:20.2    18
+4             brian redman  mclaren - ford    14        + 2:35.7    19
+5              graham hill  brabham - ford    14        + 2:59.6    15
+6        wilson fittipaldi  brabham - ford    14        + 3:00.1    21
+7            mike beuttler    march - ford    14        + 5:10.7    27
+8   jean - pierre beltoise             brm    14        + 5:20.2    13
+9         franã§ois cevert  tyrrell - ford    14        + 5:43.7     5
+10          jackie stewart  tyrrell - ford    13       collision     2
+11         arturo merzario         ferrari    13         + 1 lap    22
+12       andrea de adamich  surtees - ford    13         + 1 lap    20
+13            tim schenken  surtees - ford    13         + 1 lap    12
+14              chris amon           matra    13         + 1 lap     8
+15             carlos pace    march - ford    11  not classified    11
+16      emerson fittipaldi    lotus - ford    10         gearbox     3
+17         henri pescarolo    march - ford    10        accident     9
+18             denny hulme  mclaren - ford     8          engine    10
+19           mike hailwood  surtees - ford     8      suspension    16
+20        carlos reutemann  brabham - ford     6    differential     6
+21          rolf stommelen    march - ford     6      electrical    14
+22             dave walker    lotus - ford     6        oil leak    23
+23              niki lauda    march - ford     4        oil leak    24
+24              derek bell           tecno     4          engine    25
+25           dave charlton    lotus - ford     4        physical    26
+26            reine wisell             brm     3          engine    17

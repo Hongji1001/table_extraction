@@ -1,0 +1,21 @@
+                     driver         constructor  laps time / retired  grid
+0        michael schumacher             ferrari    53    1:14:19.838     1
+1        juan pablo montoya      williams - bmw    53        + 5.294     2
+2        rubens barrichello             ferrari    53       + 11.835     3
+3            kimi räikkönen  mclaren - mercedes    53       + 12.834     4
+4                 marc gené      williams - bmw    53       + 27.891     5
+5        jacques villeneuve         bar - honda    52        + 1 lap    10
+6               mark webber   jaguar - cosworth    52        + 1 lap    11
+7           fernando alonso             renault    52        + 1 lap    20
+8             nick heidfeld   sauber - petronas    52        + 1 lap    16
+9      giancarlo fisichella       jordan - ford    52        + 1 lap    13
+10        zsolt baumgartner       jordan - ford    51       + 2 laps    18
+11            nicolas kiesa  minardi - cosworth    51       + 2 laps    19
+12  heinz - harald frentzen   sauber - petronas    50   transmission    14
+13          david coulthard  mclaren - mercedes    45  fuel pressure     8
+14            olivier panis              toyota    35         brakes     9
+15           jos verstappen  minardi - cosworth    27       oil leak    17
+16            jenson button         bar - honda    24        gearbox     7
+17       cristiano da matta              toyota     3           tyre    12
+18            justin wilson   jaguar - cosworth     2        gearbox    15
+19             jarno trulli             renault     0     hydraulics     6

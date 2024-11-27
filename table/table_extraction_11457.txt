@@ -1,0 +1,13 @@
+    year         chassis             engine  start  finish                      entrant
+0   1981      phoenix 80  ford cosworth dfx     12       4       jerry o'connell racing
+1   1982  penske pc - 10  ford cosworth dfx      2      30                  team penske
+2   1983       march 83c  ford cosworth dfx     22       5            bignotti - cotter
+3   1984      eagle 84sb         pontiac v8     27      20          all american racers
+4   1985       march 85c  ford cosworth dfx     32      11            kraco enterprises
+5   1986       march 86c  ford cosworth dfx      6       2               patrick racing
+6   1987       march 87c     chevrolet 265a     24      31               patrick racing
+7   1988       march 88c  ford cosworth dfx     13      11  machinist union racing team
+8   1989       march 88c  ford cosworth dfx     27      32  machinist union racing team
+9   1990  penske pc - 18              buick     15       9            granatelli racing
+10  1991   lola t91 / 00              buick     16      29                  team menard
+11  1993   lola t93 / 00     chevrolet 265c     14      14                galles racing

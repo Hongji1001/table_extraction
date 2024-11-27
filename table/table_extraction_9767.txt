@@ -1,0 +1,19 @@
+           county  per capita income  median household income  median family income  population  number of households
+0      cumberland              31041                    55658                 71335      281674                117339
+1         lincoln              28003                    47678                 58028       34457                 15149
+2   united states              27334                    51914                 62982   308745538             116716292
+3            york              27137                    55008                 65077      197131                 81009
+4       sagadahoc              26983                    55486                 66650       35293                 15088
+5         hancock              26876                    47533                 60092       54418                 24221
+6           maine              25385                    46933                 58185     1328361                557219
+7            knox              25291                    45264                 55830       39736                 17258
+8        kennebec              24656                    45973                 56853      122151                 51128
+9       penobscot              22977                    42658                 54271      153923                 62966
+10   androscoggin              22752                    44470                 55045      107702                 44315
+11          waldo              22213                    41312                 50222       38786                 16431
+12         oxford              21254                    39748                 48000       57833                 24300
+13       franklin              20838                    39831                 48634       30768                 13000
+14       somerset              20709                    36647                 47177       52228                 21927
+15      aroostook              20251                    36574                 47114       71870                 30961
+16    piscataquis              19870                    34016                 43821       17535                  7825
+17     washington              19401                    34859                 43612       32856                 14302

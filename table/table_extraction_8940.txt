@@ -1,0 +1,30 @@
+                                 ensemble  gold medals  silver medals  bronze medals  total medals
+0                               aftermath            0              0              1             1
+1                             arthur hill            1              1              1             3
+2                           b2 percussion            0              0              1             1
+3                   brookwood independent            1              0              0             1
+4                 chattanooga independent            0              2              0             2
+5                                  craven            0              0              1             1
+6                         dojo percussion            1              0              0             1
+7               east 80 indoor percussion            0              0              1             1
+8                eastside fury percussion            1              0              0             1
+9                                elements            1              0              0             1
+10           farmington united percussion            0              1              1             2
+11                  full force percussion            0              1              0             1
+12                huron valley percussion            0              0              1             1
+13                   impact audio theater            0              1              0             1
+14                                   leap            2              0              0             2
+15                      long beach indoor            0              0              1             1
+16                    madison independent            1              0              0             1
+17                              oc indoor            1              0              0             1
+18                                pioneer            2              0              0             2
+19                                 plan b            1              0              0             1
+20              quest percussion ensemble            0              1              0             1
+21                                   ripe            0              0              1             1
+22                      salem blue devils            0              1              0             1
+23                   scenic city velocity            0              1              0             1
+24  spirit of america percussion ensemble            1              2              1             4
+25                    tomball independent            0              0              1             1
+26                         vegas vanguard            0              1              2             3
+27            voyager intrepid percussion            0              0              1             1
+28                 walled lake percussion            1              2              0             3

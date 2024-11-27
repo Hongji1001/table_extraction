@@ -1,0 +1,12 @@
+    no            player  height position  year born              current club
+0    4      joseph gomis    1.80    guard       1978  grupo capitol valladolid
+1    5      pape badiane    2.08   center       1980                    roanne
+2    6       sacha giffa    1.97  forward       1977                strasbourg
+3    7    yohann sangare    1.92    guard       1983       lyon - villeurbanne
+4    8  yakhouba diawara    2.01  forward       1982            denver nuggets
+5    9       tony parker    1.86    guard       1982         san antonio spurs
+6   10   cédric ferchaud    1.94    guard       1980              pau - orthez
+7   11   florent piétrus    2.02  forward       1981            unicaja málaga
+8   12     tariq kirksay    1.98    guard       1978                     nancy
+9   13        boris diaw    2.03  forward       1982              phoenix suns
+10  14      ronny turiaf    2.06   center       1983        los angeles lakers

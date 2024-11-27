@@ -1,0 +1,11 @@
+                       institution                 location  founded     type  enrollment  joined        nickname
+0           briar cliff university        sioux city , iowa     1930  private        1150    2002        chargers
+1  concordia university , nebraska        seward , nebraska     1894  private        2200    1969        bulldogs
+2       dakota wesleyan university  mitchell , south dakota     1885  private         780    2000          tigers
+3                    doane college         crete , nebraska     1872  private        1000    1969          tigers
+4                    dordt college      sioux center , iowa     1955  private        1400    2000       defenders
+5                 hastings college      hastings , nebraska     1882  private        1150    1969         broncos
+6               midland university       fremont , nebraska     1883  private         946    1969        warriors
+7              morningside college        sioux city , iowa     1894  private        1272    2003        mustangs
+8            mount marty college 1   yankton , south dakota     1936  private        1100    2000         lancers
+9   nebraska wesleyan university 2       lincoln , nebraska     1887  private        1600    1969  prairie wolves

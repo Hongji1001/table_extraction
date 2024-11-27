@@ -1,0 +1,18 @@
+                driver                       team  laps time / retired  grid  points
+0   sébastien bourdais           n / h / l racing    64    1:45:02.885     2      32
+1           will power             team australia    64        + 1.906     1      29
+2         oriol servià                 pkv racing    64        + 3.364     4      25
+3         graham rahal           n / h / l racing    64        + 7.346     7      23
+4           paul tracy            forsythe racing    64        + 8.593     8      21
+5       simon pagenaud             team australia    64        + 9.638     6      19
+6      bruno junqueira          dale coyne racing    64       + 15.823    12      17
+7      mario domínguez  pacific coast motorsports    64       + 16.077    15      16
+8            neel jani                 pkv racing    64       + 16.199    11      13
+9        justin wilson                    rusport    64       + 16.954     5      11
+10          alex figge  pacific coast motorsports    63        + 1 lap    17      10
+11     nelson philippe            conquest racing    63        + 1 lap    13       9
+12       alex tagliani        rocketsports racing    62       + 2 laps    14       8
+13      david martínez            forsythe racing    58       + 6 laps    10       7
+14     katherine legge          dale coyne racing    56     mechanical    16       6
+15     robert doornbos           minardi team usa    12     mechanical     3       6
+16          dan clarke           minardi team usa     0     mechanical     9       4

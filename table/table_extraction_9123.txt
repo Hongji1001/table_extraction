@@ -1,0 +1,9 @@
+   game       date           location  time  attendance
+0     1  october 1      redland field  1:42       30511
+1     2  october 2      redland field  1:42       29698
+2     3  october 3  comiskey park (i)  1:30       29126
+3     4  october 4  comiskey park (i)  1:37       34363
+4     5  october 6  comiskey park (i)  1:45       34379
+5     6  october 7      redland field  2:06       32006
+6     7  october 8      redland field  1:47       13923
+7     8  october 9  comiskey park (i)  2:27       32930

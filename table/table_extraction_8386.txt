@@ -1,0 +1,12 @@
+   place         player        country  score to par
+0     t1   horton smith  united states     70    - 2
+1     t1    jimmy hines  united states     70    - 2
+2     t1   emmet french  united states     70    - 2
+3     t4     craig wood  united states     71    - 1
+4     t4   walter hagen  united states     71    - 1
+5     t4   henry picard  united states     71    - 1
+6     t4  johnny golden  united states     71    - 1
+7     t8    billy burke  united states     72      e
+8     t8     ky laffoon  united states     72      e
+9    t10    denny shute  united states     73    + 1
+10   t10     leo diegel  united states     73    + 1

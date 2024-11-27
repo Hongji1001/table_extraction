@@ -1,0 +1,18 @@
+                        team                      winners   runners - up                third place               fourth place
+0   peñarol de mar del plata  2 ( 2007 - 08 , 2009 - 10 )              0                          0                          0
+1         uniceub / brasília              1 ( 2008 - 09 )              0                          0            2 (2012 , 2013)
+2         regatas corrientes              1 ( 2010 - 11 )              0                          0                          0
+3   pioneros de quintana roo                   1 ( 2012 )              0                          0                          0
+4                  pinheiros                   1 ( 2013 )              0                          0                          0
+5         halcones uv xalapa                            0  1 (2008 - 09)  2 (2009 - 10 , 2010 - 11)                          0
+6       capitanes de arecibo                            0  1 (2010 - 11)                   1 (2013)                          0
+7          soles de mexicali                            0  1 (2007 - 08)                          0                          0
+8    espartanos de margarita                            0  1 (2009 - 10)                          0                          0
+9        la unión de formosa                            0       1 (2012)                          0                          0
+10                     lanús                            0       1 (2013)                          0                          0
+11             miami tropics                            0              0              1 (2007 - 08)                          0
+12                     biguá                            0              0              1 (2008 - 09)                          0
+13          obras sanitarias                            0              0                   1 (2012)                          0
+14                     minas                            0              0                          0  2 (2007 - 08 , 2008 - 09)
+15                    quimsa                            0              0                          0              1 (2009 - 10)
+16            halcones rojos                            0              0                          0              1 (2010 - 11)

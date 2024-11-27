@@ -1,0 +1,10 @@
+   nat              name        moving from      type transfer window  ends transfer fee
+0  sco      andy webster     wigan athletic  transfer          summer  2011       0.45 m
+1  sco      kenny miller       derby county  transfer          summer  2011          2 m
+2  ltu   andrius velička             viking  transfer          summer  2011          1 m
+3  nir     kyle lafferty            burnley  transfer          summer  2013       3.25 m
+4  alg  madjid bougherra  charlton athletic  transfer          summer  2012        2.5 m
+5  esp      aarón ñíguez           valencia      loan          summer  2010        n / a
+6  por      pedro mendes         portsmouth  transfer          summer  2011          3 m
+7  nir      steven davis             fulham  transfer          summer  2012          3 m
+8  usa       maurice edu         toronto fc  transfer          summer  2013        2.6 m

@@ -1,0 +1,8 @@
+     city of license identifier frequency         power class recnet
+0         brockville  cbob - fm   91.9 fm   1080 s watt     a  query
+1           cornwall  cboc - fm   95.5 fm    3000 watts     a  query
+2         deep river       cbli   1110 am      40 watts    lp  query
+3           kingston  cbck - fm  107.5 fm  100000 watts    c1  query
+4  maniwaki , quebec       cbom    710 am      40 watts    lp  query
+5           pembroke  cbcd - fm   92.5 fm  100000 watts    c1  query
+6            whitney  cbcw - fm   98.5 fm     162 watts    a1  query

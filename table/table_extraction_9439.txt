@@ -1,0 +1,8 @@
+       district          incumbent       party  first elected                              result
+0  california 1     thomas j geary  democratic           1890  lost re - election republican gain
+1  california 2  anthony caminetti  democratic           1890  lost re - election republican gain
+2  california 3   warren b english  democratic           1892  lost re - election republican gain
+3  california 4    james g maguire  democratic           1892                        re - elected
+4  california 5      eugene f loud  republican           1890                        re - elected
+5  california 6      marion cannon    populist           1892             retired republican gain
+6  california 7   william w bowers  republican           1890                        re - elected

@@ -1,0 +1,9 @@
+   pick                                     team            player       position        college
+0     9                           denver broncos       dick butkus     linebacker       illinois
+1    10                           houston oilers    malcolm walker         center           rice
+2    11                          oakland raiders  fred biletnikoff  wide receiver  florida state
+3    12                            new york jets       john huarte    quarterback     notre dame
+4    13                       kansas city chiefs      jack chapple     linebacker       stanford
+5    14                       san diego chargers     roy jefferson     linebacker           utah
+6    15    houston oilers (from boston patriots)       ralph neely         tackle       oklahoma
+7    16  kansas city chiefs (from buffalo bills)   ronnie caveness     linebacker       arkansas

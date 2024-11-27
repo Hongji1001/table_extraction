@@ -1,0 +1,31 @@
+    round  pick           player        position                      school / club team
+0       1     6       ernie case            back  university of california , los angeles
+1       3    20     burr baldwin             end                                    ucla
+2       5    31     buddy burris           guard                                oklahoma
+3       6    40      gene wilson  defensive back                                     smu
+4       7    52     dick connors            back                            northwestern
+5       8    62   monte moncrief          tackle                               texas a&m
+6       9    72     bob mcdougal        fullback                              miami (fl)
+7      10    81        bob kelly            back                              notre dame
+8      11    92      tom moulton          center                          oklahoma state
+9      12   100     george hills           guard                          oklahoma state
+10     13   111     bob skoglund   defensive end                              notre dame
+11     14   122    jack mitchell     quarterback                                oklahoma
+12     15   130   denny crawford          tackle                               tennessee
+13     16   141     jim callanan             end                                     usc
+14     17   151     ted scalissi            back                           ripon college
+15     18   160      jim goodman          tackle                                 indiana
+16     19   172      dick miller           guard                                lawrence
+17     20   181     brad ecklund          center                                  oregon
+18     21   190         bob west            back                                colorado
+19     22   202   maurice reilly            back                                colorado
+20     23   211     ron sockolov          tackle                              california
+21     24   220  herbert st john           guard                                 georgia
+22     25   232     fred redeker            back                              cincinnati
+23     26   241      herm lubker             end                                arkansas
+24     27   250    bob palladino            back                              notre dame
+25     28   262   jerrell baxter          tackle                          north carolina
+26     29   271      ray sellers             end                                 georgia
+27     30   280      jerry carle            back                            northwestern
+28     31   290       bill hogan            back                                  kansas
+29     32   297      ralph olsen   defensive end                                    utah

@@ -1,0 +1,6 @@
+                competition  appearances  played  drawn  lost  goals for  goals against
+0              european cup            3      20      4     4         32             12
+1                  uefa cup            3      20      5     5         18             16
+2  inter - cities fairs cup            2       6      0     3          8              9
+3            uefa super cup            2       4      1     1          4              3
+4                     total           10      50     10    13         62             40

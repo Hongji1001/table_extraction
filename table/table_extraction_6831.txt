@@ -1,0 +1,6 @@
+           player  rec  yards   avg  td 's  long
+0  charles pauley    6     60  10.0      1    17
+1      sean scott    5     37   7.4      0    11
+2     jj mckelvey    4     48  12.0      1    32
+3   jerrian james    4     44  11.0      1    23
+4        wes ours    1      9   9.0      0     9

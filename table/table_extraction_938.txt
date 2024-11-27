@@ -1,0 +1,13 @@
+    pick           nfl team             player        position                    college
+0     18  green bay packers       tony bennett      linebacker                mississippi
+1     19  green bay packers   darrell thompson    running back                  minnesota
+2     48  green bay packers       leroy butler   strong safety              florida state
+3     75  green bay packers      bobby houston      linebacker       north carolina state
+4    102  green bay packers      jackie harris       tight end         louisiana - monroe
+5    132  green bay packers     charles wilson   wide receiver              memphis state
+6    159  green bay packers         bryce paup   defensive end              northern iowa
+7    186  green bay packers  lester archambeau   defensive end                   stanford
+8    215  green bay packers        roger brown      cornerback              virginia tech
+9    242  green bay packers   kirk baumgartner     quarterback  wisconsin - stevens point
+10   269  green bay packers      jerome martin  defensive back           western kentucky
+11   299  green bay packers      harry jackson    running back             st cloud state

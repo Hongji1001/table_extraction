@@ -1,0 +1,13 @@
+                    name height weight    spike          2008 club
+0        melinda hanaoui      m      -  cm (in)  istres volleyball
+1         sérine hanaoui      m      -  cm (in)  istres volleyball
+2      saleha benhamouda      m      -  cm (in)         mc algiers
+3        raouia rouabhia      m      -  cm (in)            venelle
+4        narimène madani      m      -  cm (in)          nc bejaia
+5   fatma - zohra oukazi      m      -  cm (in)         mc algiers
+6       mouni abderrahim      m      -  cm (in)               aswb
+7         safia boukhima      m      -  cm (in)               aswb
+8         nawel mansouri      m      -  cm (in)          nc bejaia
+9           faïza tsabet      m      -  cm (in)  istres volleyball
+10          lydia oulmou      m      -  cm (in)  istres volleyball
+11       tassadit aïssou      m      -  cm (in)               aswb

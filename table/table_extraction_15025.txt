@@ -1,0 +1,8 @@
+          player        country year (s) won  total to par finish
+0     nick price       zimbabwe         1992    269     11      1
+1    jeff sluman  united states         1988    283    + 3    t25
+2    wayne grady      australia         1990    284    + 4    t30
+3     hal sutton  united states         1983    289    + 9    t55
+4  lanny wadkins  united states         1977    290   + 10    t61
+5  raymond floyd  united states  1969 , 1982    290   + 10    t61
+6  payne stewart  united states         1989    291   + 11    t66

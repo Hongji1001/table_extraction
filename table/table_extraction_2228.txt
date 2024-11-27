@@ -1,0 +1,12 @@
+             date (gmt)  yield (megatons)          deployment       country      test site         name or number
+0     october 30 , 1961              50.0  parachute air drop  soviet union  novaya zemlya  tsar bomba , test 130
+1    december 24 , 1962              24.2            air drop  soviet union  novaya zemlya               test 219
+2       august 5 , 1962              21.1            air drop  soviet union  novaya zemlya               test 147
+3   september 27 , 1962              20.0            air drop  soviet union  novaya zemlya               test 174
+4   september 25 , 1962              19.1            air drop  soviet union  novaya zemlya               test 173
+5    february 28 , 1954              15.0              ground           usa   bikini atoll           castle bravo
+6          may 4 , 1954              13.5               barge           usa   bikini atoll          castle yankee
+7     october 23 , 1961              12.5            air drop  soviet union  novaya zemlya               test 123
+8       march 26 , 1954              11.0               barge           usa   bikini atoll           castle romeo
+9     october 31 , 1952              10.4              ground           usa       eniwetok               ivy mike
+10     august 25 , 1962              10.0            air drop  soviet union  novaya zemlya               test 158

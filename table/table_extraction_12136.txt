@@ -1,0 +1,15 @@
+        city  country iata  icao                                         airport
+0   benghazi    libya  ben  hllb                    benina international airport
+1     djerba  tunisia  dje  dttj           djerba - zarzis international airport
+2      gabès  tunisia  gae  dttg           gabès - matmata international airport
+3      gafsa  tunisia  gaf  dttf              gafsa - ksar international airport
+4      malta    malta  mla  lmml                     malta international airport
+5    misrata    libya  mra  hlms                                 misrata airport
+6   monastir  tunisia  mir  dtmb  monastir habib bourguiba international airport
+7     naples    italy  nap  lirn                    naples international airport
+8    palermo    italy  pmo  licj                    falcone - borsellino airport
+9       sfax  tunisia  sfa  dttx              sfax - thyna international airport
+10   tabarka  tunisia  tbj  dtka      tabarka - ain draham international airport
+11    tozeur  tunisia  toe  dttz            tozeur - nefta international airport
+12   tripoli    libya  tip  hllt                   tripoli international airport
+13     tunis  tunisia  tun  dtaa          tunis - carthage international airport

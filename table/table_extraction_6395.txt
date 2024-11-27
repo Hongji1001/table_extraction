@@ -1,0 +1,31 @@
+    current governor           state  past  took office                                      current term
+0   robert j bentley         alabama  list         2011                                        first term
+1       sean parnell          alaska  list         2009  second term (elected to first full term in 2010)
+2         jan brewer         arizona  list         2009  second term (elected to first full term in 2010)
+3         rick scott         florida  list         2011                                        first term
+4        nathan deal         georgia  list         2011                                        first term
+5        butch otter           idaho  list         2007                                       second term
+6     terry branstad            iowa  list         2011                                        first term
+7         mike pence         indiana  list         2013                                        first term
+8      sam brownback          kansas  list         2011                                         fist term
+9       bobby jindal       louisiana  list         2008                                       second term
+10       paul lepage           maine  list         2011                                        first term
+11       rick snyder        michigan  list         2011                                        first term
+12       phil bryant     mississippi  list         2012                                        first term
+13     dave heineman        nebraska  list         2005                                       second term
+14    brian sandoval          nevada  list         2011                                        first term
+15    chris christie      new jersey  list         2010                                        first term
+16   susana martinez      new mexico  list         2011                                        first term
+17    jack dalrymple    north dakota  list         2010  second term (elected to first full term in 2012)
+18       pat mccrory  north carolina  list         2013                                        first term
+19       john kasich            ohio  list         2011                                        first term
+20       mary fallin        oklahoma  list         2011                                        first term
+21       tom corbett    pennsylvania  list         2011                                        first term
+22       nikki haley  south carolina  list         2011                                        first term
+23   dennis daugaard    south dakota  list         2011                                        first term
+24       bill haslam       tennessee  list         2011                                        first term
+25        rick perry           texas  list         2000                     fourth term (third full term)
+26      gary herbert            utah  list         2009                                        first term
+27     bob mcdonnell        virginia  list         2010                                        first term
+28      scott walker       wisconsin  list         2011                                        first term
+29         matt mead         wyoming  list         2011                                        first term

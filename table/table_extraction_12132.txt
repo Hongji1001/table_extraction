@@ -1,0 +1,13 @@
+   place               player        country  score  to par
+0      1          tiger woods  united states     66       6
+1      2          mark hensby      australia     67       5
+2     t3         fred couples  united states     68       4
+3     t3          luke donald        england     68       4
+4     t3        retief goosen   south africa     68       4
+5     t3      trevor immelman   south africa     68       4
+6     t3         peter lonard      australia     68       4
+7     t3  josé maría olazábal          spain     68       4
+8     t3      eric ramsay (a)       scotland     68       4
+9     t3          chris riley  united states     68       4
+10    t3        tino schuster        germany     68       4
+11    t3       scott verplank  united states     68       4

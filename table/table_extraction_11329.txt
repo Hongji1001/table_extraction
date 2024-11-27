@@ -1,0 +1,6 @@
+                         name        novelty                           status                           authors                    unit            location                                             notes
+0                  eophyllium  gen et sp nov                            valid          wedmann , bradler , rust  messel pit fossil site             germany          first leaf insect from the fossil record
+1                glisachaemus  gen et sp nov                            valid                            szwedo            baltic amber              europe                             new planthopper genus
+2              mongolbittacus  gen et sp nov                            vaild       petrulevicius , huang & ren   jiulongshan formation               china                                        a bittacid
+3  sialis (protosialis) casca         sp nov  jr synonym of protosialis casca                  engel & grimaldi         dominican amber  dominican republic  only alderfly from the west indies fossil record
+4    schwenckfeldina archoica         sp nov                            valid  mohrig & solã cubicrzano kraemer           mexican amber              mexico                                     a sciarid fly

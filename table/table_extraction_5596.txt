@@ -1,0 +1,14 @@
+    year                                    category     character           for the show     result
+0   2003                             favourite patni   prerna basu  kasautii zindagii kay  nominated
+1   2003                              favourite beti   prerna basu  kasautii zindagii kay  nominated
+2   2003  favourite jodi (paired with cezanne khan )   prerna basu  kasautii zindagii kay        won
+3   2003                              favourite bahu   prerna basu  kasautii zindagii kay  nominated
+4   2004                               favourite maa   prerna basu  kasautii zindagii kay        won
+5   2004                              favourite bahu   prerna basu  kasautii zindagii kay        won
+6   2005                               favourite maa   prerna basu  kasautii zindagii kay        won
+7   2006                              favourite saas   prerna basu  kasautii zindagii kay  nominated
+8   2006                               favourite maa   prerna basu  kasautii zindagii kay        won
+9   2007                               favourite maa   prerna basu  kasautii zindagii kay        won
+10  2007  favourite jodi (paired with cezanne khan )  prerna basu'  kasautii zindagii kay  nominated
+11  2007                             favourite patni   prerna basu  kasautii zindagii kay  nominated
+12  2008   spl honour for immense work for star plus   prerna basu  kasautii zindagii kay        won

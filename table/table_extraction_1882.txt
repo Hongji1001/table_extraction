@@ -1,0 +1,12 @@
+                         institution                     location   nickname  founded                  type  enrollment  joined
+0            albertus magnus college      new haven , connecticut    falcons     1925  private ( catholic )        1769    1995
+1                 anna maria college       paxton , massachusetts     amcats     1946  private ( catholic )        1244    2011
+2                 emmanuel college 2       boston , massachusetts     saints     1919  private ( catholic )        2350    1995
+3         johnson & wales university    providence , rhode island   wildcats     1914               private       16000    1995
+4                     lasell college       newton , massachusetts     lasers     1851               private        1200    2007
+5                  mount ida college       newton , massachusetts   mustangs     1899               private        1300    2007
+6                 norwich university         northfield , vermont     cadets     1819  private ( military )        3000    1998
+7                  rivier university       nashua , new hampshire    raiders     1933  private ( catholic )        2300    1995
+8       university of saint joseph 1  west hartford , connecticut  blue jays     1932  private ( catholic )        1020    1995
+9   saint joseph 's college of maine             standish , maine      monks     1912  private ( catholic )        1034    2007
+10                 simmons college 1       boston , massachusetts     sharks     1899               private        4912    1995

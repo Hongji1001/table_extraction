@@ -1,0 +1,9 @@
+   model  speed (ghz)  l3 cache (mb)  qpi speed (gt / s)  ddr3 clock (mhz)  tdp (w)  cores  threads turbo - boost
+0  w3503         2.40              4                 4.8              1066      130      2        2            no
+1  w3505         2.53              4                 4.8              1066      130      2        2            no
+2  w3520         2.66              8                 4.8              1066      130      4        8           yes
+3  w3530         2.80              8                 4.8              1066      130      4        8           yes
+4  w3540         2.93              8                 4.8              1066      130      4        8           yes
+5  w3550         3.06              8                 4.8              1066      130      4        8           yes
+6  w3565         3.20              8                 4.8              1066      130      4        8           yes
+7  w3570         3.20              8                 6.4              1333      130      4        8           yes

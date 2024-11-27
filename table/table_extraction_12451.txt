@@ -1,0 +1,14 @@
+                name position  height  weight       year             home town
+0        jeremy case    guard   6 - 1     170  sophomore        mcalester , ok
+1     mario chalmers    guard   6 - 1     182   freshman        anchorage , ak
+2           cj giles   center  6 - 10     235  sophomore          seattle , wa
+3       jeff hawkins    guard  5 - 11     180     senior      kansas city , ks
+4    darnell jackson  forward   6 - 8     240  sophomore    oklahoma city , ok
+5         sasha kaun   center  6 - 11     246  sophomore        melbourne , fl
+6     matt kleinmann   center  6 - 10     237   freshman    overland park , ks
+7    christian moody  forward   6 - 8     220     senior        asheville , nc
+8   russell robinson    guard   6 - 1     196  sophomore    new york city , ny
+9       brandon rush    guard   6 - 6     202   freshman      kansas city , mo
+10   rodrick stewart    guard   6 - 4     201  sophomore          seattle , wa
+11    stephen vinson    guard   6 - 2     195     senior         lawrence , ks
+12     julian wright  forward   6 - 8     218   freshman  chicago heights , il

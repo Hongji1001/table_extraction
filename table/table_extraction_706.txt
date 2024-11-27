@@ -1,0 +1,8 @@
+      district            incumbent       party  first elected        result                                  candidates
+0  louisiana 1  joachim o fernandez  democratic           1930  re - elected           joachim o fernandez (d) unopposed
+1  louisiana 2       paul h maloney  democratic           1930  re - elected                paul h maloney (d) unopposed
+2  louisiana 3      robert l mouton  democratic           1936  re - elected               robert l mouton (d) unopposed
+3  louisiana 4       overton brooks  democratic           1936  re - elected  overton brooks (d) 99.6% ben neal (i) 0.4%
+4  louisiana 5         newt v mills  democratic           1936  re - elected                  newt v mills (d) unopposed
+5  louisiana 6      john k griffith  democratic           1936  re - elected               john k griffith (d) unopposed
+6  louisiana 7      rené l de rouen  democratic           1927  re - elected               rené l de rouen (d) unopposed

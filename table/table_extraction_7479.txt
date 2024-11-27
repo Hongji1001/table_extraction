@@ -1,0 +1,13 @@
+                          name   years gender        area         authority  decile  roll
+0               arohena school   1 - 8   coed  te awamutu             state       6    51
+1               hauturu school   1 - 8   coed      oparau             state       3    48
+2                kawhia school   1 - 8   coed      kawhia             state       1    51
+3               kio kio school   1 - 8   coed     kio kio             state       7   140
+4             korakonui school   1 - 8   coed   korakonui             state       8   133
+5              maihiihi school   1 - 8   coed    maihiihi             state       7    60
+6              ngutunui school   1 - 8   coed  te awamutu             state       9    33
+7                 otewa school   1 - 8   coed  otorohanga             state       8    63
+8           otorohanga college  9 - 15   coed  otorohanga             state       4   353
+9            otorohanga school   1 - 8   coed  otorohanga             state       2    57
+10     otorohanga south school   1 - 8   coed  otorohanga             state       4   363
+11  st mary 's catholic school   1 - 8   coed  otorohanga  state integrated       5    34

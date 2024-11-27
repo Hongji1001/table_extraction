@@ -1,0 +1,33 @@
+                player    nationality          position  from      school / country
+0        corky calhoun  united states           forward  1974          pennsylvania
+1      demetrius calip  united states             guard  1991              michigan
+2          mack calvin  united states             guard  1976                   usc
+3       elden campbell  united states  forward / center  1990               clemson
+4        tony campbell  united states   guard / forward  1987            ohio state
+5     derrick caracter  united states           forward  2010                  utep
+6          don carlson  united states   guard / forward  1948             minnesota
+7           bob carney  united states             guard  1954               bradley
+8           kenny carr  united states           forward  1977  north carolina state
+9         butch carter  united states             guard  1980               indiana
+10      maurice carter  united states             guard  2003                   lsu
+11          ron carter  united states             guard  1978                   vmi
+12           jay carty  united states           forward  1968          oregon state
+13     cedric ceballos  united states           forward  1994   cal state fullerton
+14      john celestand  united states             guard  1999             villanova
+15    wilt chamberlain  united states            center  1968                kansas
+16      jerry chambers  united states           forward  1966                  utah
+17          don chaney  united states             guard  1976               houston
+18          jim chones  united states  forward / center  1979             marquette
+19       doug christie  united states             guard  1993            pepperdine
+20        archie clark  united states             guard  1966             minnesota
+21          earl clark  united states           forward  2012            louisville
+22        jim cleamons  united states             guard  1971            ohio state
+23       lester conner  united states             guard  1994          oregon state
+24          brian cook  united states           forward  2003              illinois
+25        duane cooper  united states             guard  1992                   usc
+26          joe cooper  united states  forward / center  1982              colorado
+27      michael cooper  united states   guard / forward  1978            new mexico
+28          mel counts  united states  forward / center  1968          oregon state
+29    freddie crawford  united states   guard / forward  1968        st bonaventure
+30         joe crispin  united states             guard  2001            penn state
+31  javaris crittenton  united states             guard  2007          georgia tech

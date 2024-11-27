@@ -1,0 +1,20 @@
+                         name                           country      mandate start        mandate end        term length
+0   dame elmira minita gordon                            belize  21 september 1981   17 november 1993   12years , 57days
+1                jeanne sauvé                            canada        14 may 1984    29 january 1990   5years , 260days
+2            dame nita barrow                          barbados        6 june 1990   19 december 1995   5years , 196days
+3       dame catherine tizard                       new zealand   13 december 1990      21 march 1996    5years , 99days
+4       dame pearlette louisy                       saint lucia  17 september 1997          incumbent  16years , 137days
+5           adrienne clarkson                            canada     7 october 1999  27 september 2005   5years , 324days
+6             dame sian elias                       new zealand      22 march 2001       4 april 2001    0years , 13days
+7      dame silvia cartwright                       new zealand       4 april 2001      4 august 2006   5years , 122days
+8             dame ivy dumont                       the bahamas   11 november 2001   30 november 2005    4years , 19days
+9                monica dacon  saint vincent and the grenadines        3 june 2002   2 september 2002    0years , 91days
+10             michaëlle jean                            canada  27 september 2005     1 october 2010     5years , 4days
+11            dame sian elias                       new zealand       4 april 2006     23 august 2006   0years , 141days
+12          emmanuelle mignon                           andorra        6 june 2007  24 september 2008    1year , 110days
+13    dame louise lake - tack               antigua and barbuda       17 july 2007          incumbent   6years , 199days
+14              quentin bryce                         australia   5 september 2008          incumbent   5years , 149days
+15            dame sian elias                       new zealand     23 august 2011     31 august 2011     0years , 8days
+16               sylvie hubac                           andorra        15 may 2012          incumbent    1year , 262days
+17               sandra mason                          barbados        30 may 2012        1 june 2012     0years , 2days
+18     dame cécile la grenade                           grenada         7 may 2013          incumbent   0years , 270days

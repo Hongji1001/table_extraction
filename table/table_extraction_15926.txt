@@ -1,0 +1,9 @@
+   pick                                     team           player        position                 college
+0    25                           denver broncos  george donnelly  defensive back                illinois
+1    26                           houston oilers     bobby maples          center                  baylor
+2    27                          oakland raiders         gus otto      linebacker                missouri
+3    28                            new york jets  bob schweickert     quarterback           virginia tech
+4    29                       kansas city chiefs      otis taylor      linebacker        prairie view a&m
+5    30                       san diego chargers      steve tensi     quarterback           florida state
+6    31                          boston patriots    ellis johnson        halfback  southeastern louisiana
+7    32  kansas city chiefs (from buffalo bills)      frank pitts   wide receiver    saginaw valley state

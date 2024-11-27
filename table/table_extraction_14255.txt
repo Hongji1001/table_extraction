@@ -1,0 +1,13 @@
+    pick  brand (to)               employee (real name)             role brand (from)
+0      1  smackdown!        rené duprée ( rené goguen )    male wrestler          raw
+1      2         raw                   shelton benjamin    male wrestler   smackdown!
+2      3  smackdown!                       mark jindrak    male wrestler          raw
+3      4         raw            nidia ( nidia guenard )             diva   smackdown!
+4      5  smackdown!       triple h 1 ( paul levesque )    male wrestler          raw
+5      6         raw              rhyno ( terry gerin )    male wrestler   smackdown!
+6      7  smackdown!  rob van dam ( robert szatkowski )    male wrestler          raw
+7      8         raw        tajiri ( yoshihiro tajiri )    male wrestler   smackdown!
+8      9  smackdown!                      theodore long          manager          raw
+9     10         raw             edge ( adam copeland )    male wrestler   smackdown!
+10    11  smackdown!        spike dudley ( matt hyson )    male wrestler          raw
+11    12         raw                      paul heyman 2  general manager   smackdown!

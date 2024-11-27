@@ -1,0 +1,8 @@
+           region                date    label    format   catalogue
+0       australia     april 11 , 2005  reprise        cd  9362486152
+1           japan      july 22 , 2004  reprise        cd   wpcr11890
+2           japan   january 26 , 2005  reprise  cd + dvd   wpzr30075
+3           japan      june 24 , 2009  reprise        cd   wpcr13504
+4  united kingdom  september 3 , 2004  reprise        cd  9362486152
+5   united states       june 8 , 2004  reprise        cd      486152
+6   united states  december 16 , 2008  reprise  12 vinyl      148615

@@ -1,0 +1,22 @@
+    year     result                       award film or series   character
+0   1999  nominated  national television awards     eastenders  dot cotton
+1   2000  nominated  national television awards     eastenders  dot cotton
+2   2000  nominated         british soap awards     eastenders  dot cotton
+3   2000        won  tv quick and choice awards     eastenders  dot cotton
+4   2001  nominated  national television awards     eastenders  dot cotton
+5   2001  nominated         british soap awards     eastenders  dot cotton
+6   2001        won          inside soap awards     eastenders  dot cotton
+7   2001  nominated  tv quick and choice awards     eastenders  dot cotton
+8   2002  nominated  national television awards     eastenders  dot cotton
+9   2002  nominated         british soap awards     eastenders  dot cotton
+10  2002        won         british soap awards     eastenders  dot cotton
+11  2004  nominated         british soap awards     eastenders  dot cotton
+12  2005  nominated  national television awards     eastenders  dot cotton
+13  2005  nominated         british soap awards     eastenders  dot cotton
+14  2005        won         british soap awards     eastenders  dot cotton
+15  2005        won          inside soap awards     eastenders  dot cotton
+16  2005  nominated  tv quick and choice awards     eastenders  dot cotton
+17  2007  nominated  national television awards     eastenders  dot cotton
+18  2008  nominated                 tric awards     eastenders  dot cotton
+19  2009  nominated  national television awards     eastenders  dot cotton
+20  2009  nominated                bafta awards     eastenders  dot cotton

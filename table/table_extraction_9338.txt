@@ -1,0 +1,18 @@
+       season            team                country  division  apps  goals
+0   1998 - 99      bane raška             yugoslavia         2    11      0
+1   1999 - 00      bane raška             yugoslavia         2    27      2
+2   2000 - 01     ofk beograd             yugoslavia         1    15      0
+3   2001 - 02     ofk beograd             yugoslavia         1    32      3
+4   2002 - 03     ofk beograd  serbia and montenegro         1    29      0
+5   2003 - 04     ofk beograd  serbia and montenegro         1    25      1
+6   2004 - 05     ofk beograd  serbia and montenegro         1    10      0
+7        2005  torpedo moscow                 russia         1    29      0
+8        2006  torpedo moscow                 russia         1    20      2
+9        2007  torpedo moscow                 russia         2    23      1
+10       2008       tom tomsk                 russia         1    28      3
+11       2009       tom tomsk                 russia         1    27      3
+12       2010       tom tomsk                 russia         1    25      1
+13       2011       tom tomsk                 russia         1    22      2
+14       2012  dynamo bryansk                 russia         2     6      0
+15  2012 - 13       vojvodina                 serbia         1    20      0
+16  2013 - 14       vojvodina                 serbia         1     0      0

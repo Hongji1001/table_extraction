@@ -1,0 +1,12 @@
+            ballarat fl  wins  byes  losses  draws  against
+0                darley    15     2       1      0     1067
+1            east point    12     2       4      0     1180
+2               sunbury    11     2       5      0     1246
+3              ballarat     9     2       7      0     1105
+4          melton south     9     2       7      0     1286
+5        lake wendouree     8     2       8      0     1186
+6                 redan     7     2       9      0     1261
+7         bacchus marsh     6     2      10      0     1814
+8                melton     6     2      10      0     1729
+9   north ballarat city     4     2      12      0     1596
+10           sebastapol     1     2      15      0     1963

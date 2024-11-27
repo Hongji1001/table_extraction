@@ -1,0 +1,14 @@
+   sydney melbourne perth adelaide gold coast auckland
+0     yes       yes   yes      yes        yes      yes
+1     yes       yes    no       no         no      yes
+2     yes       yes   yes      yes         no      yes
+3     yes       yes   yes      yes        yes       no
+4      no       yes    no      yes        yes       no
+5     yes       yes    no       no        yes       no
+6      no        no    no       no        yes       no
+7     yes       yes    no       no         no       no
+8     yes        no    no      yes        yes       no
+9     yes        no    no       no         no      yes
+10     no       yes    no       no        yes       no
+11     no       yes    no      yes         no       no
+12     no        no    no       no         no      yes

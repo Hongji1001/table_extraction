@@ -1,0 +1,20 @@
+    ep  season                    title  directed by                                written by    original air date prod code
+0    8       1  the lion sleeps tonight  noam pitlik            jack carrerow & lisa a bannick  september 27 , 1985     4 g01
+1    9       2                  tornado  noam pitlik  frank dungan & jeff stein & tony sheehan    october 04 , 1985     4 g02
+2   10       3          the cheerleader  noam pitlik                               lissa levin    october 11 , 1985     4 g03
+3   11       4                  requiem  noam pitlik             jeffrey ferro & fredric weiss    october 18 , 1985     4 g04
+4   12       5                 delivery  noam pitlik             fredric weiss & jeffrey ferro    october 25 , 1985     4 g05
+5   13       6             the contract  noam pitlik  frank dungan & jeff stein & tony sheehan   november 01 , 1985     4 g07
+6   14       7                     vows  noam pitlik                               lissa levin   november 08 , 1985     4 g06
+7   15       8                   strike  noam pitlik             jeffrey ferro & fredric weiss   november 15 , 1985     4 g08
+8   16       9               the letter  noam pitlik              karen wengrod & ken cinnamon   november 22 , 1985     4 g10
+9   17      10                  pinball  noam pitlik                 frank dungan & jeff stein   november 29 , 1985     4 g09
+10  19      12               speechless  noam pitlik                 frank dungan & jeff stein    january 03 , 1986     4 g13
+11  20      13              the teacher  noam pitlik                               lissa levin    january 10 , 1986     4 g14
+12  21      14              the dropout  noam pitlik            jack carrerow & lisa a bannick    january 17 , 1986     4 g12
+13  22      15                   rivals  noam pitlik             fredric weiss & jeffrey ferro    january 24 , 1986     4 g15
+14  23      16         wesley 's friend  noam pitlik  frank dungan & jeff stein & tony sheehan    january 31 , 1986     4 g16
+15  24      17                 the will  noam pitlik                               lissa levin   february 07 , 1986     4 g17
+16  26      19         heather 's tutor  noam pitlik                               lissa levin   february 21 , 1986     4 g19
+17  27      20                    amish  noam pitlik                              tony sheehan      march 07 , 1986     4 g20
+18  28      21           dinner for two  noam pitlik             fredric weiss & jeffery ferro      march 21 , 1986     4 g21

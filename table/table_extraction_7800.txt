@@ -1,0 +1,12 @@
+         season                      team     country      division  apps  goals
+0          2003          traktor tashkent  uzbekistan             1    15     11
+1          2004          traktor tashkent  uzbekistan             1    25      8
+2          2005          traktor tashkent  uzbekistan             1    13      4
+3          2005     fc pakhtakor tashkent  uzbekistan             1    12      6
+4          2006          traktor tashkent  uzbekistan             1    30     21
+5          2007          traktor tashkent  uzbekistan             1     1      0
+6          2007   fc saturn moscow oblast      russia             1     2      0
+7          2008         navbahor namangan  uzbekistan             1     0      0
+8          2009        lokomotiv tashkent  uzbekistan             1     0      0
+9   2009 - 2010              sriwijaya fc   indonesia  super league    60   1000
+10     20102011  persisam putra samarinda   indonesia  super league    12      2

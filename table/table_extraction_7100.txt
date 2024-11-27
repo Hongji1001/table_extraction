@@ -1,0 +1,29 @@
+   station number              district                  location        type                                    appliances                              registrations
+0             c14          peterborough                dogsthorpe   wholetime                           1 wrl , 1 tl , 1 rv             kx13 ezj , t837 rfl , t838 rfl
+1             c15          peterborough           peterborough rv    retained                                         1 wrl                                   kx58 lwn
+2             c16          peterborough                stanground   wholetime                        1 multistar 1 + (cara)                                   kx09 jha
+3             c17       huntingdonshire                    yaxley    retained                                  1 wrl , 1 wt                        af02 xtl , af52 vmm
+4             c18               fenland                whittlesey    retained                                         1 wrl                                   ae06 pfu
+5             c19          peterborough                   thorney    retained                                         1 wrl                                   ae06 pfo
+6             c20               fenland                   wisbech  day crewed                                         2 wrl                        kx60 aym , kx59 jho
+7             c21               fenland                     march    retained                                         2 wrl                        kx53 fjz , y992 wfl
+8             c22               fenland                     manea    retained                                         1 wrl                                    s47 bce
+9             c23               fenland                 chatteris    retained                                         1 wrl                                   kp54 cwy
+10            c24       huntingdonshire                    ramsey    retained                                         2 wrl                        ae03 ouu , y991 wfl
+11            c25       huntingdonshire                    sawtry    retained                                         1 wrl                                   ae03 ous
+12            c26       huntingdonshire                 kimbolton    retained                                         1 wrl                                   af02 xtj
+13            c27       huntingdonshire                huntingdon   wholetime                           2 wrl , 1 rv , 1 cu  kx13 ezg , kx11 hyw , y724 wva , r615 tav
+14            c28       huntingdonshire  st ives , cambridgeshire    retained                                         2 wrl                         af02 xtk , s49 bce
+15            c01             cambridge                 cambridge   wholetime  1 wrl , 1 multistar 1 + (cara) , 1 tl , 1 rv  kx13 ezh , kx59 ewo , v879 uew , af51 dwl
+16            c02  south cambridgeshire                 cottenham    retained                                         1 wrl                                   ae03 oup
+17            c03   east cambridgeshire                    sutton    retained                                         1 wrl                                    s48 bce
+18            c04   east cambridgeshire                littleport    retained                                         1 wrl                                   r863 efl
+19            c05   east cambridgeshire                       ely  day crewed                                         2 wrl                        kx13 ezl , kp54 cwx
+20            c06   east cambridgeshire                     soham    retained                                         2 wrl                        p153 gfl , p151 gfl
+21            c07   east cambridgeshire                   burwell    retained                                         1 wrl                                   t905 wva
+22            c08   east cambridgeshire          swaffham bulbeck    retained                                         1 wrl                                   n490 sav
+23            c09  south cambridgeshire                    linton    retained                                         1 wrl                                   t906 wva
+24            c10  south cambridgeshire                   sawston    retained                                         1 wrl                                   ae06 pfv
+25            c11  south cambridgeshire                 gamlingay    retained                                         1 wrl                                   kx53 fjy
+26            c12  south cambridgeshire          papworth everard    retained                                         1 wrl                                   kx60 ayn
+27            c13       huntingdonshire                  st neots  day crewed                           2 wrl , 1 iru / hmu             kx13 ezm , kx59 jhu , dg53 fzl

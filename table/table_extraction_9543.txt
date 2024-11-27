@@ -1,0 +1,10 @@
+   round              player    position     nationality   college / junior / club team
+0      1          terry ryan   left wing          canada     tri - city americans (whl)
+1      3      miloslav guren     defence  czechoslovakia                hc zlín (czech)
+2      3  martin hohenberger   left wing         austria    prince george cougars (whl)
+3      4    jonathan delisle  right wing          canada        hull olympiques (qmjhl)
+4      5        niklas anger  right wing          sweden        djurgårdens if (sweden)
+5      6          boyd olson      center          canada     tri - city americans (whl)
+6      7    stephane robidas     defence          canada  shawinigan cataractes (qmjhl)
+7      8           greg hart  right wing          canada         kamloops blazers (whl)
+8      9          eric houde      center          canada     halifax mooseheads (qmjhl)

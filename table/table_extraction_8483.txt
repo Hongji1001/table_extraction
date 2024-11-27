@@ -1,0 +1,12 @@
+                                  currency     code    entry erm ii central rate official target date
+0                            bulgarian lev      bgn               -      1.95583                    -
+1                            croatian kuna      hrk               -            -                    -
+2                             czech koruna      czk               -            -                    -
+3                             danish krone      dkk  1 january 1999      7.46038     formal opt - out
+4                         hungarian forint      huf               -            -                    -
+5                             latvian lats      lvl      2 may 2005     0.702804       1 january 2014
+6                         lithuanian litas      ltl    28 june 2004      3.45280       1 january 2015
+7                             polish złoty      pln               -            -                    -
+8                             romanian leu      ron               -            -                    -
+9                            swedish krona      sek  not considered            -   de facto opt - out
+10  british pound sterling gibraltar pound  gbp gip  not considered            -     formal opt - out

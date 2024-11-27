@@ -1,0 +1,9 @@
+   pick      cfl team             player position        college
+0    13      hamilton        devin grant       ol           utah
+1    14            bc       matt kellett        k   saskatchewan
+2    15      montreal        scott flory       ol   saskatchewan
+3    16       calgary     harland ah you       dl  brigham young
+4    17      edmonton      scott deibert       rb    minot state
+5    18      montreal     william loftus        d       manitoba
+6    19  saskatchewan  kevin pressburger       lb       waterloo
+7    20       toronto     jermaine brown       rb   winona state

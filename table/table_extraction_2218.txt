@@ -1,0 +1,41 @@
+                                 team                car (s)   -                driver (s)         primary sponsor (s)   listed owner (s)           crew chief
+0                   akins motorsports  chevrolet monte carlo  38               kasey kahne                 great clips         brad akins            jon wolfe
+1                   akins motorsports  chevrolet monte carlo  58         brent sherman (r)       serta / hickory farms      doug stringer         tony lambert
+2               biagi brothers racing            ford taurus   4         ryan hemphill (r)          geico / pet brands         fred biagi           mark tutor
+3                        braun racing  chevrolet monte carlo  32               shane hmiel          win fuel / trimspa         todd braun           todd lohse
+4                  brewco motorsports            ford taurus  27               david green                     kleenex       tammy brewer       stewart cooper
+5                  brewco motorsports            ford taurus  66               greg biffle                   duraflame    clarence brewer           newt moore
+6                chance 2 motorsports  chevrolet monte carlo   8         martin truex , jr    bass pro shops / tracker   teresa earnhardt         kevin manion
+7                 chip ganassi racing         dodge intrepid  41         reed sorenson (r)       discount tire company       chip ganassi         brian pattie
+8          curb agajanian motorsports         dodge intrepid  43                aaron fike                 channellock          mike curb       joe shear , jr
+9                dale earnhardt , inc  chevrolet monte carlo  11               paul menard                     menards   teresa earnhardt         dan stillman
+10                  davis motorsports  chevrolet monte carlo   0          kertus davis (r)                    racegirl       johnny davis       ronnie griffin
+11              day enterprise racing     pontiac grand prix  16               john hayden           31 - w insulation          wayne day          tom perkins
+12                    dct motorsports  chevrolet monte carlo  36           stanton barrett       frist time portfolios        john mcgill        ricky pearson
+13               evernham motorsports         dodge intrepid   6            paul wolfe (r)                    unilever       ray evernham         elton sawyer
+14                fitzbradshaw racing         dodge intrepid  12                tim fedewa                   supercuts          mimi fitz  steve plattenberger
+15                fitzbradshaw racing         dodge intrepid  14             david stremme          united states navy     terry bradshaw            randy cox
+16  frank cicci racing with jim kelly  chevrolet monte carlo  34              randy lajoie              dollar general        frank cicci           john bland
+17            gic - mixon motorsports  chevrolet monte carlo  24            kim crosby (r)     boudreaux 's butt paste        gregg mixon          greg guarry
+18               hendrick motorsports  chevrolet monte carlo   5                kyle busch                     lowe 's      rick hendrick             jim long
+19                jay robinson racing            ford taurus  28              derrike cope                         amd       jay robinson          terry allen
+20                jay robinson racing            ford taurus  49             steve grissom          advil liqui - gels       jay robinson           phil dixon
+21                   joe gibbs racing  chevrolet monte carlo  18                 j j yeley     vigoro / the home depot          joe gibbs       jason ratcliff
+22                   joe gibbs racing  chevrolet monte carlo  20          denny hamlin (r)         rockwell automation          joe gibbs    cully barraclough
+23               keith coleman racing  chevrolet monte carlo  23           shawna robinson                  vassarette      keith coleman            mike byrd
+24         kevin harvick incorporated  chevrolet monte carlo  33              tony stewart  mr clean / outdoor channel     delana harvick         butch hylton
+25     labonte motorsports / haas cnc  chevrolet monte carlo  44            justin labonte   united states coast guard      terry labonte       bryant frazier
+26              macdonald motorsports  chevrolet monte carlo  72           geoffrey bodine                gunbrokercom      pat macdonald             jim daly
+27                  nemco motorsports  chevrolet monte carlo   7               jeff fuller            big boar customs    andrea nemechek    johnny vermillion
+28                  nemco motorsports  chevrolet monte carlo  87              joe nemechek                cellular one    andrea nemechek          gary putnam
+29                     phoenix racing         dodge intrepid   1             johnny sauter       yellow transportation        james finch            marc reno
+30                         ppc racing            ford taurus  10  michel jourdain , jr (r)                      telcel        greg pollex          todd gordon
+31                         ppc racing            ford taurus  22             kenny wallace                   stacker 2        greg pollex             wes ward
+32           richard childress racing  chevrolet monte carlo   2              clint bowyer                     acdelco  richard childress           gil martin
+33           richard childress racing  chevrolet monte carlo  21             kevin harvick                    reese 's  richard childress          ricky viers
+34                robert yates racing            ford taurus  90            elliott sadler               citifinancial       robert yates             rick ren
+35                       roush racing            ford taurus  60          carl edwards (r)      charter communications         jack roush         brad parrott
+36                rusty wallace , inc         dodge intrepid  64            jamie mcmurray                 top - flite      rusty wallace     blake bainbridge
+37                     st motorsports  chevrolet monte carlo  47              jon wood (r)               clorox / wisk   jodi geschickter              jay guy
+38                     st motorsports  chevrolet monte carlo  59             stacy compton                   kingsford    tad geschickter           chris rice
+39             team rensi motorsports            ford taurus  25              ashton lewis  united states marine corps           ed rensi        charlie lewis

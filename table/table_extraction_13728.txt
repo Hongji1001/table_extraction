@@ -1,0 +1,16 @@
+    game  december               opponent  score       record
+0     21         2    pittsburgh penguins  4 - 1   10 - 8 - 3
+1     22         3      los angeles kings  4 - 2   11 - 8 - 3
+2     23         6      detroit red wings  3 - 3   11 - 8 - 4
+3     24         7          boston bruins  3 - 1   11 - 9 - 4
+4     25         9      detroit red wings  3 - 2  11 - 10 - 4
+5     26        10     montreal canadiens  3 - 2  12 - 10 - 4
+6     27        13    chicago black hawks  5 - 2  12 - 11 - 4
+7     28        16    toronto maple leafs  4 - 2  12 - 12 - 4
+8     29        17         st louis blues  5 - 3  13 - 12 - 4
+9     30        20      detroit red wings  2 - 0  14 - 12 - 4
+10    31        23          boston bruins  4 - 0  14 - 13 - 4
+11    32        25    philadelphia flyers  3 - 1  15 - 13 - 4
+12    33        27  minnesota north stars  3 - 3  15 - 13 - 5
+13    34        30    chicago black hawks  3 - 3  15 - 13 - 6
+14    35        31    toronto maple leafs  4 - 0  16 - 13 - 6

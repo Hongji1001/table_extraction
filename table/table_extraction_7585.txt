@@ -1,0 +1,20 @@
+                            name   years gender        area         authority  decile  roll
+0             argyll east school   1 - 8   coed       otane             state       4    51
+1   central hawke 's bay college  9 - 15   coed  waipukurau             state       4   557
+2               elsthorpe school   1 - 8   coed   elsthorpe             state       9    42
+3              flemington school   1 - 8   coed  waipukurau             state       8    71
+4              mangaorapa school   1 - 8   coed  porangahau             state       3    19
+5                 omakere school   1 - 8   coed     waipawa             state       8    30
+6                ongaonga school   1 - 8   coed    ongaonga             state       6   111
+7                   otane school   1 - 8   coed       otane             state       3    43
+8              porangahau school   1 - 8   coed  porangahau             state       4    31
+9                 pukehou school   1 - 8   coed     pukehou             state       5   108
+10               sherwood school   1 - 8   coed     takapau             state       6    30
+11           st joseph 's school   1 - 8   coed  waipukurau  state integrated       5    95
+12                takapau school   1 - 8   coed     takapau             state       5   141
+13               te aute college  9 - 15   boys     pukehou  state integrated       3    86
+14            the terrace school   1 - 8   coed  waipukurau             state       2   214
+15               tikokino school   1 - 8   coed     waipawa             state       7    42
+16                tkkm o takapau   1 - 8   coed     takapau             state       3    37
+17                waipawa school   1 - 8   coed     waipawa             state       3   139
+18             waipukurau school   1 - 8   coed  waipukurau             state       3   243

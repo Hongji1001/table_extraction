@@ -1,0 +1,8 @@
+  opposing team  against            date                                venue         status
+0     japan 'b'        7  10 / 05 / 1979                                tokyo     tour match
+1         japan       19  13 / 05 / 1979    kintetsu hanazono stadium , osaka   first 'test'
+2        kyūshū        3  16 / 05 / 1979                              fukuoka     tour match
+3         japan       18  20 / 05 / 1979              olympic stadium , tokyo  second 'test'
+4  fiji juniors       22  25 / 05 / 1979                              lautoka     tour match
+5          fiji        7  29 / 05 / 1979              national stadium , suva   'test' match
+6         tonga       17  01 / 06 / 1979  teufaiva sport stadium , nuku alofa   'test' match

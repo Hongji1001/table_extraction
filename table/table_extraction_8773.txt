@@ -1,0 +1,31 @@
+                  artist             country of origin   period active  release - year of first charted record                                     genre claimed sales
+0              metallica                 united states  1981 - present                                    1983                heavy metal / thrash metal   110 million
+1           taylor swift                 united states  2006 - present                                    2006  country / country pop / pop / pop - rock   101 million
+2                 eminem                 united states  1996 - present                                    1999                                   hip hop   100 million
+3         britney spears                 united states  1998 - present                                    1998                 pop / dance / dance - pop   100 million
+4            rod stewart                united kingdom  1964 - present                                    1969                                rock / pop   100 million
+5               bon jovi                 united states  1983 - present                                    1983                    hard rock / glam metal   100 million
+6          fleetwood mac  united kingdom united states  1967 - present                                    1968                                rock / pop   100 million
+7        backstreet boys                 united states  1993 - present                                    1995                                       pop   100 million
+8          guns n' roses                 united states  1985 - present                                    1987                   hard rock / heavy metal   100 million
+9                 prince                 united states  1976 - present                                    1978            funk / r&b / pop / soul / rock   100 million
+10          kenny rogers                 united states  1958 - present                                    1975                             country / pop   100 million
+11        paul mccartney                united kingdom  1960 - present                                    1970                                      rock   100 million
+12         janet jackson                 united states  1982 - present                                    1982                                 r&b / pop   100 million
+13               chicago                 united states  1967 - present                                    1969                                rock / pop   100 million
+14        the carpenters                 united states     1969 - 1983                                    1969                                       pop   100 million
+15             bob dylan                 united states  1959 - present                                    1963                               folk / rock   100 million
+16        george michael                united kingdom  1981 - present                                    1984                                       pop   100 million
+17           bryan adams                        canada  1979 - present                                    1979                                      rock   100 million
+18           def leppard                united kingdom  1977 - present                                    1979                   hard rock / heavy metal   100 million
+19                  cher                 united states  1964 - present                                    1965                 pop / rock / dance / folk   100 million
+20         lionel richie                 united states  1968 - present                                    1981                                 pop / r&b   100 million
+21  olivia newton - john                     australia  1966 - present                                    1966                                       pop   100 million
+22        linda ronstadt                 united states  1967 - present                                    1968                     rock / folk / country   100 million
+23         stevie wonder                 united states  1961 - present                                    1962                         funk / r&b / soul   100 million
+24           tina turner                 united states  1955 - present                                    1975                                rock / pop   100 million
+25        the beach boys                 united states  1961 - present                                    1962                    rock / pop / surf rock   100 million
+26                  kiss                 united states  1972 - present                                    1974                   hard rock / heavy metal   100 million
+27               the who                united kingdom  1964 - present                                    1965                          rock / hard rock   100 million
+28       johnny hallyday                        france     1957 - 2007                                    1960                                rock / pop   100 million
+29           barry white                 united states     1972 - 2003                                    1973                                r&b / soul   100 million

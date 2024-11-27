@@ -1,0 +1,8 @@
+  parish ( prestegjeld ) sub - parish (sokn)       church name  year built location of the church
+0       bremanger parish               berle      berle kyrkje        1977                  berle
+1       bremanger parish           bremanger  bremanger kyrkje        1914              bremanger
+2       bremanger parish               frøya      frøya kyrkje        1865                  frøya
+3           davik parish               davik      davik kyrkje        1886                  davik
+4           davik parish           midtgulen  midtgulen kyrkje        1904              midtgulen
+5           davik parish             rugsund    rugsund kyrkje        1838                rugsund
+6           davik parish             ålfoten    ålfoten kyrkje        1600                ålfoten

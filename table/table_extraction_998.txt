@@ -1,0 +1,19 @@
+          character     french voice actor   italian voice actor    german voice actor spanish voice actor
+0            daxter          xavier fagnon         daniele demma           erik borner         blanca rada
+1               jak        damien boisseau        claudio moneta        andreas gröber     ricardo escobar
+2    samos the sage             marc alfos   giovanni battezzato         michael lucke     aparicio rivero
+3             keira         sophie arthuys     stephania patruno        sylvia steiner     mercedes cepeda
+4   gt blitz / mizo           antoine tomé           diego sabre        gilles karolyi      jorge teixeira
+5               sig         pascal renwick           diego sabre           peter wenke        david garcía
+6             razer      mathias kozlowski           luca sandri       sebastian walch    alejandro garcía
+7           ashelin         vanina pradier     stephania patruno         susanne grawe     mercedes cepeda
+8            pecker         pascal renwick     oliviero corbetta           peter wenke       jorge texeira
+9              torn        thierry mercier     oliviero corbetta          michael betz     roberto encinas
+10          kleiver      martial le minoux           tony fuochi     achim barrenstein   salvador aldeguer
+11             rayn    véronique desmadryl      emanuela damasio        rita rhingeanu        conchi lópez
+12             krew           alain dorval     stefano albertini         mario hassert    salvador serrano
+13          ratchet              marc saez       simone d'andrea         dirk fenselau       javier romano
+14             osmo         dennis boileau       massimo rovatti       michael deckner       rafael torres
+15           kaeden           stéfan godin        andrea denisco  karl - jürgen sihler   antonio fernández
+16            taryn  emmanuelle bondeville       angiolina gobbi     petra buschkämper        mayte torres
+17            ximon              marc saez  massimo di benedetto           linus kraus      jesús pinillos

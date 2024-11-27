@@ -1,0 +1,13 @@
+   place         player        country  score to par
+0     t1      andy bean  united states     70    - 1
+1     t1   keith fergus  united states     70    - 1
+2     t1     lou graham  united states     70    - 1
+3     t1     lon hinkle  united states     70    - 1
+4     t1    tom purtzer  united states     70    - 1
+5     t6    jim colbert  united states     71      e
+6     t6  john cook (a)  united states     71      e
+7     t6   larry nelson  united states     71      e
+8     t6     jerry pate  united states     71      e
+9     t6   dana quigley  united states     71      e
+10    t6    bill rogers  united states     71      e
+11    t6   tom weiskopf  united states     71      e

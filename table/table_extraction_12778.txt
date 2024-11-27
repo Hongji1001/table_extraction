@@ -1,0 +1,23 @@
+         barangay urban / rural geographic character  population (2007)  population (2010)
+0       alangilan         rural       coastal / farm               4346               4361
+1            amio         rural          hill / farm               2192               2118
+2      buenavista         rural          hill / farm               1270                990
+3       kabulacan         rural          hill / farm               2821               2480
+4       caigangan         rural          hill / farm               1553               1386
+5       caranoche         rural       coastal / farm               3742               3913
+6         cawitan         rural       coastal / farm               5602               5809
+7          fatima         rural       coastal / farm               1517               1317
+8         mabuhay         rural       coastal / farm               1892               1847
+9      manalongon         rural       coastal / farm               4319               4842
+10   mansagomayon         rural          hill / farm               1421               1011
+11      milagrosa         rural          hill / farm               4148               3385
+12      nagbinlod         rural          hill / farm               2512               3012
+13      nagbalaye         rural       coastal / farm               4941               4957
+14           obat         rural          hill / farm               2572               2599
+15      poblacion         urban       coastal / farm              11788              12515
+16  san francisco         rural       coastal / farm               3940               4052
+17       san jose         rural          hill / farm               2490               2539
+18     san miguel         rural          hill / farm                939               1282
+19      san pedro         rural       coastal / farm               3517               3319
+20  santo rosario         rural          hill / farm               1379               1315
+21        talalak         rural          hill / farm               3738               4257

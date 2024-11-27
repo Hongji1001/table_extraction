@@ -1,0 +1,8 @@
+        time              12:00 pm                   01:00 pm                 02:00 pm 03:00 pm                           04:00 pm                05:00 pm 05:55 pm
+0     monday  asian hero (vj mike)  melosamosorn (vj woonsen)    asian chart (vj mike)    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+1    tuesday  asian hero (vj mike)  melosamosorn (vj woonsen)                mainstage    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+2  wednesday  asian hero (vj mike)  melosamosorn (vj woonsen)     siam top 20 (vj bas)    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+3   thursday  asian hero (vj mike)  melosamosorn (vj woonsen)  the ticket (vj loukade)    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+4     friday  asian hero (vj mike)  melosamosorn (vj woonsen)     countdown (vj pitta)    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+5   saturday  asian hero (vj mike)                      tunes     siam top 20 (vj bas)    tunes  zog zag (vj loukade , ake , bank)  khon du pen yai (live)   covery
+6     sunday  asian hero (vj mike)                      tunes     countdown (vj pitta)    tunes  zog zag (vj loukade , ake , bank)         khon du pen yai   covery

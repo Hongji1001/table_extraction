@@ -1,0 +1,15 @@
+                      title  season           director                    teleplay     first broadcast
+0        the golden spiders    1.10  michael o'herlihy  wallace ware + peter nasco   january 16 , 1981
+1     death on the doorstep    1.20     george mccowan             stephen downing   january 23 , 1981
+2              before i die    1.30    edward m abroms                alfred hayes   january 30 , 1981
+3         wolfe at the door    1.40  herbert hirschman                 lee sheldon   february 6 , 1981
+4     might as well be dead    1.50     george mccowan               seeleg lester  february 13 , 1981
+5       to catch a dead man    1.60    edward m abroms         john meredyth lucas  february 20 , 1981
+6      in the best families    1.70     george mccowan                alfred hayes      march 6 , 1981
+7        murder by the book    1.80        bob kelljan                wallace ware     march 13 , 1981
+8    what happened to april    1.90    edward m abroms             stephen downing     march 20 , 1981
+9                    gambit    1.10     george mccowan              stephen kandel      april 3 , 1981
+10      death and the dolls    1.11       gerald mayer              gerald sanford     april 10 , 1981
+11   the murder in question    1.12     george mccowan               merwin gerard     april 17 , 1981
+12  the blue ribbon hostage    1.13         ron satlof                 dick nelson        may 5 , 1981
+13            sweet revenge    1.14     george mccowan                 ben roberts       june 2 , 1981

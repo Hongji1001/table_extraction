@@ -1,0 +1,14 @@
+    year          date                                       title format (s) award description (s) result (s)
+0   1987       july 28                                     whitney      album                  gold        won
+1   1987       july 28                                     whitney      album              platinum        won
+2   1987       july 28                                     whitney      album    2 multi - platinum        won
+3   1987       july 28  i wanna dance with somebody (who loves me)     single                  gold        won
+4   1987      august 4                                     whitney      album    3 multi - platinum        won
+5   1987  september 30                                     whitney      album    4 multi - platinum        won
+6   1987   november 20                                     whitney      album    5 multi - platinum        won
+7   1988      april 18                                     whitney      album    6 multi - platinum        won
+8   1989   february 13  i wanna dance with somebody (who loves me)     single              platinum        won
+9   1993       june 23                                     whitney      album    7 multi - platinum        won
+10  1994   november 29                                     whitney      album    8 multi - platinum        won
+11  1995   november 29                                     whitney      album    9 multi - platinum        won
+12  1995    december 6                                so emotional     single                  gold        won

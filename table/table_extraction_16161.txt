@@ -1,0 +1,9 @@
+           region                 date                 format                  label   edition
+0   united states  september 23 , 2008  cd , digital download      hollywood records  standard
+1          canada  september 23 , 2008  cd , digital download      hollywood records  standard
+2           japan   february 18 , 2009                     cd     avex entertainment  standard
+3   united states      march 31 , 2009                     cd      hollywood records    deluxe
+4          canada      march 31 , 2009                     cd      hollywood records    deluxe
+5  united kingdom      april 16 , 2009       digital download  universal music group  standard
+6       australia      april 19 , 2009       digital download      hollywood records  standard
+7  united kingdom      april 20 , 2009                     cd        polydor records  standard

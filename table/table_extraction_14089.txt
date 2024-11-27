@@ -1,0 +1,14 @@
+     res     record             opponent                       method                   event  round   time        location
+0   draw  4 - 6 - 3         ken orihashi         decision (unanimous)  zst - battle hazard 01      1   5:00   tokyo , japan
+1   loss  4 - 6 - 2         ron waterman         decision (unanimous)                  ufc 25      3   5:00  yoyogi , japan
+2   loss  4 - 5 - 2      francisco bueno                tko (strikes)                 pride 5      1   4:59  nagoya , japan
+3    win  4 - 4 - 2           naoki sano                tko (strikes)                 pride 4      1   9:25   tokyo , japan
+4   loss  3 - 4 - 2           rene rooze       tko (referee stoppage)          k - 1 hercules      1   2:48  nagoya , japan
+5   draw  3 - 3 - 2      kenji kawaguchi                         draw         shooto - shooto      5   3:00   tokyo , japan
+6   loss  3 - 3 - 1        manabu yamada          submission (armbar)         shooto - shooto      3  n / a   tokyo , japan
+7   loss  3 - 2 - 1      kenji kawaguchi                     decision         shooto - shooto      5   3:00   osaka , japan
+8    win  3 - 1 - 1        manabu yamada          submission (armbar)         shooto - shooto      4  n / a   tokyo , japan
+9    win  2 - 1 - 1   yoshimasa ishikawa          submission (armbar)         shooto - shooto      2  n / a   tokyo , japan
+10  draw  1 - 1 - 1         takashi tojo                         draw         shooto - shooto      1  n / a   tokyo , japan
+11  loss      1 - 1  kazuhiro kusayanagi  submission (triangle choke)         shooto - shooto      1   1:17   tokyo , japan
+12   win      1 - 0          yutaka fuji          submission (armbar)         shooto - shooto      2   2:36   tokyo , japan

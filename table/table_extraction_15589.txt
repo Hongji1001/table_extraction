@@ -1,0 +1,18 @@
+    new area code                                 where affected area codes   format      effective date
+0             227                              maryland           240 , 301  overlay                none
+1             274                             wisconsin                 920  overlay                none
+2             346                                 texas     281 , 713 , 832  overlay       july 1 , 2014
+3             364                              kentucky                 270  overlay      march 3 , 2014
+4             447                              illinois                 217  overlay                none
+5             464                              illinois                 708  overlay                none
+6             628                            california                 415  overlay                none
+7             629                             tennessee                 615  overlay                none
+8             659                               alabama                 205  overlay                none
+9             679                              michigan                 313  overlay                none
+10            725                                nevada                 702  overlay       june 3 , 2014
+11            730                              illinois                 618  overlay                none
+12            782  nova scotia and prince edward island                 902  overlay  november 30 , 2014
+13            825                               alberta     403 , 587 , 780  overlay      april 9 , 2016
+14            844                           toll - free     800888877866855  overlay   december 7 , 2013
+15            930                               indiana                 812  overlay    october 6 , 2014
+16            959                           connecticut                 860  overlay    august 30 , 2014

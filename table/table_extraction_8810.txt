@@ -1,0 +1,17 @@
+    year             competition                     venue position  notes
+0   1999  world race walking cup  mézidon - canon , france     55th  20 km
+1   2002  world race walking cup             turin , italy     29th  50 km
+2   2002      commonwealth games      manchester , england      2nd  20 km
+3   2003     world championships            paris , france      5th  20 km
+4   2004           olympic games           athens , greece     16th  20 km
+5   2004  world race walking cup        naumburg , germany     14th  20 km
+6   2005     world championships        helsinki , finland     10th  20 km
+7   2006      commonwealth games     melbourne , australia      2nd  20 km
+8   2006  world race walking cup         la coruña , spain     18th  20 km
+9   2007     world championships             osaka , japan      7th  20 km
+10  2008           olympic games        beijing , pr china      6th  20 km
+11  2009     world championships          berlin , germany     18th  20 km
+12  2009     world championships          berlin , germany      6th  50 km
+13  2010  world race walking cup        chihuahua , mexico      dnf  50 km
+14  2010      commonwealth games             delhi , india      2nd  20 km
+15  2012           olympic games   london , united kingdom     27th  50 km

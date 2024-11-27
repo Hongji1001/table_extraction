@@ -1,0 +1,15 @@
+    draw                      competing dancers                                                 dance styles  rank  points
+0      1      danny saucedo & jeanette carlsson                                                    cha - cha    12      38
+1      2         dorian steidl & nicole kuntner                                   slowfox / jive / hip - hop    13      29
+2      3   patrick spiegelberg & katja svensson                      samba / tango / paso doble / jazz dance     6     102
+3      4         eldar dzhafarov & anna sazhina                paso doble / rumba / tango / azeri folk dance     5     106
+4      5    gavin ó fearraigh & dearbhla lennon                   paso doble / rumba / hard shoe irish dance    11      40
+5      6                maria lund & mikko ahti                                                        tango    10      44
+6      7        thomas berge & roemjana de haan                                           rumba / show dance    14       1
+7      8      karina krysko & saulius skambinas                       rumba / cha - cha / acrobatic elements     4     110
+8      9         louisa lytton & vincent simone                                    paso doble / jive / tango     9      47
+9     10   tatiana navka & alexander litvinenko  cha - cha / samba / rumba / paso doble / russian folk dance     2     121
+10    11         jason roditis & tonia kosovich                                                 latin dances     7      72
+11    12            raquel tavares & joão tiago                                                rumba / tango     8      61
+12    13          edyta herbuś & marcin mroczek                               rumba / cha - cha / jazz dance     1     154
+13    14  lilia podkopayeva & sergey kostetskiy                    jive / ukrainian folk dance / rock'n'roll     3     119

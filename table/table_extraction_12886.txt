@@ -1,0 +1,37 @@
+                 name            flag                        cargo                                                     fate         date of attack
+0               aenos          greece                        wheat                                           sunk by u - 38             17 october
+1            assyrian  united kingdom                        grain                                          sunk by u - 101             19 october
+2              beatus  united kingdom  steel , timber and aircraft                                           sunk by u - 46             18 october
+3           blairspey  united kingdom                       timber                    damaged by u - 101 damaged by u - 100  18 october 19 october
+4             boekelo     netherlands                       timber                       damaged by u - 100 sunk by u - 123  18 october 19 october
+5              botusk  united kingdom                       timber                                      reached port safely          ||-|42||-|0||
+6           carsbreck  united kingdom                       timber                                        damaged by u - 38             18 october
+7           clintonia  united kingdom                     pulpwood                        damaged by u - 99 sunk by u - 123  19 october 19 october
+8      ss convallaria          sweden                     pulpwood                                           sunk by u - 46             18 october
+9           corinthic  united kingdom        steel and scrap metal                                      reached port safely          ||-|21||-|0||
+10           creekirk  united kingdom                     iron ore                                          sunk by u - 101             18 october
+11              dioni          greece                        grain                                      reached port safely          ||-|82||-|0||
+12  eaglescliffe hall  united kingdom                       timber                                      reached port safely          ||-|64||-|0||
+13     empire brigade  united kingdom      various metals and ores                                           sunk by u - 99             19 october
+14     empire miniver  united kingdom           pig iron and steel                                           sunk by u - 99             19 october
+15             fiscus  united kingdom  steel , timber and aircraft                                           sunk by u - 99             18 october
+16        flynderborg  united kingdom                     pulpwood                                      reached port safely          ||-|12||-|0||
+17         ss gunborg          sweden                     pulpwood                                           sunk by u - 46             18 october
+18             havørn          norway                    pit props                                      reached port safely          ||-|53||-|0||
+19    inger elisabeth          norway                    pit props                                      reached port safely          ||-|44||-|0||
+20          karlander          norway                       timber                                      reached port safely          ||-|92||-|0||
+21          languedoc  united kingdom                     fuel oil                                           sunk by u - 48             17 october
+22         ss niritos          greece                      sulphur                                           sunk by u - 99             18 october
+23           scoresby  united kingdom                    pit props                                           sunk by u - 48             17 october
+24       ss sedgepool  united kingdom                        wheat                                          sunk by u - 123             19 october
+25       ss shekatika  united kingdom          pit props and steel  damaged by u - 123 , u - 99 and u - 100 sunk by u - 123             19 october
+26           snefjeld          norway                       timber                                           sunk by u - 99             19 october
+27          sneland i          norway                      sulphur                                      reached port safely          ||-|94||-|0||
+28        soesterberg     netherlands                    pit props                                          sunk by u - 101             19 october
+29           somersby  united kingdom                        flour                                      reached port safely          ||-|83||-|0||
+30          ss thalia          greece        steel , lead and zinc                                           sunk by u - 99             19 october
+31             thorøy          norway                     fuel oil                                      reached port safely          ||-|63||-|0||
+32         ss trevisa          canada                       timber                                          sunk by u - 124             16 october
+33            trident  united kingdom             steel and timber                                      reached port safely          ||-|43||-|0||
+34         valparaiso          sweden                general cargo                                      reached port safely          ||-|14||-|0||
+35             winona   united states                       timber                                         returned to port          ||-|34||-|0||

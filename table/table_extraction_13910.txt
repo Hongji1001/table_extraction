@@ -1,0 +1,7 @@
+          date pos           player         from club transfer fee
+0     sep 2008  fw  marcello trotta            napoli       750000
+1  12 oct 2008  df  oliver nicholas           arsenal         free
+2  20 oct 2008  mf         alex pla       ud cornellà       undisc
+3  20 oct 2008  mf  jorge guinovart       ud cornellà       undisc
+4  17 feb 2009  df     jérémy helan            rennes       undisc
+5  25 feb 2009  gk   gunnar nielsen  blackburn rovers         free

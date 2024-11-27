@@ -1,0 +1,23 @@
+    year                game                     team                   runner - up           score
+0   2012   capital bowl xxii     hutt valley spartans        wellington city wolves          24 - 6
+1   2011    capital bowl xxi     hutt valley spartans        wellington city wolves          34 - 8
+2   2010     capital bowl xx          porirua knights          hutt valley spartans          28 - 8
+3   2009    capital bowl xix   wellington city wolves          hutt valley spartans         20 - 13
+4   2008  capital bowl xviii          porirua knights        wellington city wolves         28 - 18
+5   2007   capital bowl xvii          porirua knights        wellington city wolves          14 - 6
+6   2006    capital bowl xvi     hutt valley spartans           knight city knights  21 - 19 (4 ot)
+7   2005     capital bowl xv           porirua giants           knight city knights          13 - 0
+8   2004    capital bowl xiv           porirua giants           knight city knights         22 - 20
+9   2003   capital bowl xiii      knight city knights          manawatu silverbacks          42 - 0
+10  2002    capital bowl xii           porirua giants           knight city knights          12 - 3
+11  2001     capital bowl xi           porirua giants           harbour city sharks          12 - 3
+12  2000      capital bowl x           porirua giants            wellington knights          22 - 0
+13  1999     capital bowl ix           porirua giants  palmerston north silverbacks         46 - 21
+14  1998   capital bowl viii           porirua giants         wellington hurricanes           6 - 0
+15  1997    capital bowl vii       porirua hurricanes  palmerston north silverbacks          30 - 8
+16  1996     capital bowl vi      capital city giants            porirua hurricanes           8 - 0
+17  1995      capital bowl v      capital city giants            porirua hurricanes          24 - 6
+18  1994     capital bowl iv     hutt valley chargers                  levin tigers             wbd
+19  1992    capital bowl iii             levin tigers           capital city giants          21 - 7
+20  1991     capital bowl ii     hutt valley chargers       harbour city hurricanes          12 - 6
+21  1990      capital bowl i  harbour city hurricanes          hutt valley chargers         20 - 16

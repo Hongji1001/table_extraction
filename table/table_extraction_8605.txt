@@ -1,0 +1,10 @@
+     year                team tackles  solo  sacks  int yds
+0    2004       new york jets     107    77    2.0       58
+1    2005       new york jets   169 1   124    0.5        1
+2    2006       new york jets     114    67    0.0        0
+3    2007       new york jets      43    32    0.0        1
+4    2008  new orleans saints     132    98    1.0        8
+5    2009  new orleans saints     110    87    2.0       25
+6    2010  new orleans saints     105    71    4.0        5
+7    2011  new orleans saints      54    36    0.0        0
+8  totals              totals     833   591    9.5       98

@@ -1,0 +1,17 @@
+                      format filename extension image support interactivity support                             word wrap support open standard
+0                       djvu               djvu           yes                    no                                            no           yes
+1                epub (idpf)               epub           yes                   yes                                           yes           yes
+2                fictionbook                fb2           yes                    no                                           yes           yes
+3                       html               html           yes                    no                                           yes           yes
+4                     kindle                azw           yes                   yes                                           yes            no
+5           microsoft reader                lit           yes                    no                                           yes            no
+6                 mobipocket         prc , mobi           yes                   yes                                           yes            no
+7           multimedia ebook                exe           yes                   yes                                            no           yes
+8                newton book                pkg           yes                   yes                                           yes           yes
+9                    ereader                pdb           yes                    no                                           yes            no
+10                plain text                txt            no                    no                                           yes           yes
+11                   plucker                pdb           yes                   yes                                           yes           yes
+12  portable document format                pdf           yes                   yes  yes though not all readers implement support           yes
+13                postscript                 ps           yes                    no                                            no           yes
+14               tome raider          tr2 , tr3           yes                    no                                           yes            no
+15                   openxps         oxps , xps           yes                    no                                            no           yes

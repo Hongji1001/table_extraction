@@ -1,0 +1,20 @@
+              driver        constructor  laps  time / retired  grid
+0          jim clark        lotus - brm   108      2:09:40.11     2
+1       jochen rindt  cooper - maserati   107     out of fuel     9
+2       john surtees  cooper - maserati   107         + 1 lap     4
+3         jo siffert  cooper - maserati   105        + 3 laps    13
+4      bruce mclaren     mclaren - ford   105        + 3 laps    11
+5     peter arundell     lotus - climax   101        + 7 laps    19
+6      innes ireland                brm    96      alternator    17
+7     richie ginther              honda    81  not classified     8
+8        mike spence        lotus - brm    74        ignition    12
+9     ronnie bucknum              honda    58          engine    18
+10        jo bonnier  cooper - maserati    57  not classified    15
+11      jack brabham    brabham - repco    55          engine     1
+12    jackie stewart                brm    53          engine     6
+13       graham hill                brm    52    differential     5
+14   lorenzo bandini            ferrari    34          engine     3
+15       denny hulme    brabham - repco    18          engine     7
+16  pedro rodrã­guez        lotus - brm    13      retirement    10
+17        dan gurney    eagle - weslake    13          clutch    14
+18     bob bondurant     eagle - climax     5    disqualified    16

@@ -1,0 +1,45 @@
+    rank               airline / holding  passenger fleet  current destinations alliance / association
+0      1                 lufthansa group              627                   283          star alliance
+1      2                         ryanair              305                   176                  elfaa
+2      3                air france - klm              621                   246                skyteam
+3      4    international airlines group              435                   207               oneworld
+4      5                         easyjet              194                   126                  elfaa
+5      6                turkish airlines              222                   245          star alliance
+6      7                air berlin group              153                   145               oneworld
+7      8                  aeroflot group              239                   189                skyteam
+8      9                       sas group              173                   157          star alliance
+9     10                        alitalia              143                   101                skyteam
+10    11       norwegian air shuttle asa               79                   120                  elfaa
+11    12                pegasus airlines               42                    70                  n / a
+12    13                        wizz air               45                    83                  elfaa
+13    14                       transaero               93                   113                  n / a
+14    15                    tap portugal               71                    80          star alliance
+15    16                      aer lingus               46                    75                  n / a
+16    17                         finnair               44                    65               oneworld
+17    18                              s7               52                    90               oneworld
+18    19                      air europa               40                    54                skyteam
+19    20                  utair aviation              108                   117                  n / a
+20    21                      sunexpress               23                    48                  n / a
+21    22                           flybe               68                    56                  elfaa
+22    23               brussels airlines               45                    67          star alliance
+23    24                 aegean airlines               29                    40          star alliance
+24    25                monarch airlines               39                    30                  n / a
+25    26                 virgin atlantic               41                    37                  n / a
+26    27                        atlasjet               15                    15                  n / a
+27    28             lot polish airlines               40                    54          star alliance
+28    29                        jet2.com               49                    59                  elfaa
+29    30                   meridiana fly               18                    40                  n / a
+30    31                   ural airlines               29                    66                  n / a
+31    32                  czech airlines               25                    49                skyteam
+32    33                       airbaltic               28                    60                  n / a
+33    34                        onur air               29                    21                  n / a
+34    35  ukraine international airlines               40                    54                  n / a
+35    36                     olympic air               16                    37                  n / a
+36    37                           tarom               23                    48                skyteam
+37    38                      icelandair               27                    36                  n / a
+38    39                croatia airlines               13                    40          star alliance
+39    40                      air serbia               13                    34                  n / a
+40    41                         belavia               23                    40                  n / a
+41    42                  cyprus airways                9                    18                  n / a
+42    43                    bulgaria air               11                    22                  n / a
+43    44                   adria airways               12                    37          star alliance

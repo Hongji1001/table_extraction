@@ -1,0 +1,13 @@
+                        shooter         event              rank points             score points                    total
+0   erdzhanik avetisyan ( rus )      wcf 2007       defending champion       defending champion       defending champion
+1        chiara cainero ( ita )    og beijing    olympic gold medalist    olympic gold medalist    olympic gold medalist
+2             kim rhode ( usa )    og beijing  olympic silver medalist  olympic silver medalist  olympic silver medalist
+3     christine brinker ( ger )    og beijing  olympic bronze medalist  olympic bronze medalist  olympic bronze medalist
+4            haley dunn ( usa )  wc kerrville                       15                       14                       29
+5     andri eleftheriou ( cyp )   wc belgrade                       15                       14                       29
+6              wei ning ( chn )    wc beijing                       15                       13                       28
+7          diana bacosi ( ita )       wc suhl                       15                       13                       28
+8      danka bartekovã¡ ( svk )       wc suhl                       10                       13                       23
+9         connie smotek ( usa )  wc kerrville                        8                       10                       18
+10           zhang shan ( chn )    wc beijing                        4                       12                       16
+11     nathalie larsson ( swe )    wc beijing                        5                       11                       16

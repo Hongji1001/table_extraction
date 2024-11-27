@@ -1,0 +1,6 @@
+  call sign  frequency mhz              city of license  erp w class fcc info
+0    w238aw           95.5   west view , south carolina     55     d      fcc
+1    w242bx           96.3  greenville , south carolina    100     d      fcc
+2    w289ao          105.9    anderson , south carolina     27     d      fcc
+3    w216bj           91.1       wando , south carolina     10     d      fcc
+4    w220cn           91.9  charleston , south carolina     10     d      fcc

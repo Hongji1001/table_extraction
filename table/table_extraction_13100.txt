@@ -1,0 +1,8 @@
+            opposing team  against            date                               venue       status
+0         san isidro club       14  16 / 05 / 1981                        buenos aires   tour match
+1      northern region xv       12  19 / 05 / 1981                       cã cubicrdoba   tour match
+2  buenos aires selection       25  23 / 05 / 1981                        buenos aires   tour match
+3      southern region xv        3  25 / 05 / 1981                       mar del plata   tour match
+4               argentina       19  30 / 05 / 1981  ferrocarril stadium , buenos aires   first test
+5       litoral region xv       21  02 / 06 / 1981                             rosario   tour match
+6               argentina        6  06 / 06 / 1981  ferrocarril stadium , buenos aires  second test

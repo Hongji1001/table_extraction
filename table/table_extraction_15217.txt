@@ -1,0 +1,6 @@
+        name              builder                                      type works number  built
+0    pioneer  andrew barclay & co  0 - 4 - 0 wt (converted to 0 - 4 - 2 wt)      unknown   1876
+1  chevalier  andrew barclay & co  0 - 4 - 0 st (converted to 0 - 4 - 2 st)          269   1885
+2   princess          kerr stuart                               0 - 4 - 2 t          717   1900
+3     argyll  andrew barclay & co                               0 - 6 - 2 t         1049   1906
+4   atlantic  andrew barclay & co                               0 - 6 - 2 t         1098   1907

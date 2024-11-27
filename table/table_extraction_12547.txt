@@ -1,0 +1,10 @@
+                 nation  gold  silver  bronze  total
+0   united states (usa)     3       0       1      4
+1   great britain (gbr)     1       1       0      2
+2         belarus (blr)     1       0       1      2
+3          france (fra)     0       1       1      2
+4          russia (rus)     0       1       1      2
+5  czech republic (cze)     0       1       0      1
+6     switzerland (sui)     0       1       0      1
+7       argentina (arg)     0       0       1      1
+8           grand total     5       5       5     15

@@ -1,0 +1,17 @@
+    draw   language            artist                   english translation  place  points
+0      1    finnish       marion rung                          chirpy chirp      7       4
+1      2     french       fud leclerc                             your name     13       0
+2      3    spanish   victor balaguer                               call me     13       0
+3      4     german  eleonore schwarz                only in the vienna air     13       0
+4      5     danish     ellen winther                               lullaby     10       2
+5      6    swedish    inger berggren                        sun and spring      7       4
+6      7     german    conny froboess                   two little italians      6       9
+7      8      dutch    de spelbrekers                                     -     13       0
+8      9     french   isabelle aubret                          a first love      1      26
+9     10  norwegian    inger jacobsen                  come sun , come rain     10       2
+10    11     french     jean philippe                            the return     10       2
+11    12    serbian    lola novaković  don't turn the lights on at twilight      4      10
+12    13    english    ronnie carroll                                     -      4      10
+13    14     french    camillo felgen                           little chap      3      11
+14    15    italian     claudio villa                     goodbye , goodbye      9       3
+15    16     french  françois deguelt                           say nothing      2      13

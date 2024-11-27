@@ -1,0 +1,32 @@
+                   name                           team  laps time / retired  grid
+0          garth tander                hsv dealer team    27     44:22.8901     7
+1           mark skaife             holden racing team    27     44:25.0081     2
+2         jamie whincup  triple eight race engineering    27     44:30.2066     3
+3         craig lowndes  triple eight race engineering    27     44:31.1292     6
+4            rick kelly                hsv dealer team    27     44:31.9938     1
+5            todd kelly             holden racing team    22     44:37.5393     4
+6     mark winterbottom        ford performance racing    27     44:38.0844     8
+7        russell ingall          stone brothers racing    27     44:38.3849     9
+8          will davison            dick johnson racing    27     44:39.2158    10
+9           greg murphy              tasman motorsport    27     44:40.5244    15
+10       lee holdsworth        garry rogers motorsport    27     44:40.7724    14
+11       james courtney          stone brothers racing    27     44:49.2402    11
+12       steven johnson            dick johnson racing    27     44:49.5746    22
+13  shane van gisbergen               team kiwi racing    27     44:52.9996    16
+14   cameron mcconville               paul weel racing    27     44:54.8540    20
+15          shane price             perkins motorsport    27     44:56.6239    17
+16       jason richards              tasman motorsport    27     44:56.9721     5
+17           steve owen                rod nash racing    27     45:00.8395    21
+18           max wilson                     wps racing    27     45:02.4155    19
+19           dean canto        garry rogers motorsport    27     45:03.4082    26
+20         andrew jones              brad jones racing    27     45:06.5586    23
+21      marcus marshall             perkins motorsport    27     45:11.6344    25
+22      jason bargwanna                     wps racing    27     45:13.7269    24
+23            alan gurr              britek motorsport    27     45:18.1815    31
+24        paul dumbrell               paul weel racing    27     45:19.8692    29
+25          simon wills              brad jones racing    27     45:24.0657    30
+26      steven richards        ford performance racing    27     45:52.2962    12
+27            john bowe        paul cruickshank racing    27     45:57.0551    27
+28          paul morris         paul morris motorsport    12     35:12.7448    18
+29           owen kelly         paul morris motorsport     7     13:43.0249    28
+30         jason bright              britek motorsport     6      9:54.6552    13

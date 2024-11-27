@@ -1,0 +1,11 @@
+                 date  vs            opponent'   score'  attendance record
+0   january 12 , 1990  at      new york saints    9 - 4       10126    win
+1   january 13 , 1990  vs     pittsburgh bulls   13 - 8       16101    win
+2  february 11 , 1990  vs       detroit turbos  21 - 19       15204    win
+3  february 17 , 1990  at    baltimore thunder  14 - 13       10904    win
+4      march 3 , 1990  at     pittsburgh bulls    9 - 8       12121    win
+5     march 11 , 1990  vs    baltimore thunder   10 - 9       16711    win
+6     march 16 , 1990  at  new england blazers  11 - 13       10551   loss
+7     march 24 , 1990  vs      new york saints    5 - 8       17177   loss
+8      april 7 , 1990  vs      new york saints  11 - 10       13552    win
+9     april 13 , 1990  at  new england blazers   17 - 7       11479    win

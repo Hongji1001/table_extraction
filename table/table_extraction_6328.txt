@@ -1,0 +1,35 @@
+             player    pos  from       school / country  rebs  asts
+0      james bailey  f / c  1987                rutgers   210    42
+1       toby bailey      g  1999                   ucla   126    43
+2      marcus banks     pg  2006                   unlv    58    85
+3       mike bantom  f / c  1973        saint joseph 's  1095   325
+4   leandro barbosa      g  2003                 brazil  1098  1208
+5   charles barkley      f  1992                 auburn  3232  1219
+6       matt barnes      f  2008                   ucla   421   212
+7     andre barrett     pg  2006             seton hall     3     2
+8       earl barron      c  2010                memphis    40     4
+9      kenny battle     sf  1989      northern illinois   177    53
+10  michael beasley      f  2012           kansas state   282   111
+11  william bedford      c  1986                memphis   246    57
+12     charlie bell      g  2001         michigan state     4     2
+13        raja bell     sg  2005  florida international   842   600
+14    mario bennett      f  1995          arizona state    49     6
+15    ed biedenbach      g  1968        unc - asheville     2     3
+16     eric bledsoe     pg  2013               kentucky    12    12
+17     corie blount     pf  1999             cincinnati   198    18
+18     dexter boney      g  1997                   unlv     6     0
+19   dudley bradley  f / g  1981         north carolina    87    80
+20       mike bratz     pg  1977               stanford   423   525
+21     aaron brooks     pg  2011                 oregon    27   104
+22     chucky brown     sf  1996   north carolina state    16     4
+23        dee brown     pg  2008               illinois     1     3
+24     gerald brown      g  1999             pepperdine    22    31
+25       mike brown  c / f  1997      george washington    25     5
+26      randy brown      g  2002       new mexico state    26    35
+27    shannon brown     sg  2011         michigan state   306   177
+28      mark bryant  f / c  1996             seton hall   456    93
+29     jud buechler     sf  2001                arizona     8     3
+30        pat burke      c  2005                 auburn   120    21
+31      steve burtt     pg  1991                   iona    34    59
+32         don buse     pg  1977             evansville   699  1067
+33     marty byrnes      f  1978               syracuse    97    61

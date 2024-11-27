@@ -1,0 +1,8 @@
+    medal              name           games     sport                       event
+0  silver         yael arad  1992 barcelona      judo  women 's half middleweight
+1  bronze       oren smadja  1992 barcelona      judo          men 's lightweight
+2  bronze       gal fridman    1996 atlanta   sailing            men 's sailboard
+3  bronze  michael kolganov     2000 sydney  canoeing     men 's k - 1 500 metres
+4  bronze       ariel zeevi     2004 athens      judo     men 's half heavyweight
+5    gold       gal fridman     2004 athens   sailing            men 's sailboard
+6  bronze    shahar tzuberi    2008 beijing   sailing            men 's sailboard

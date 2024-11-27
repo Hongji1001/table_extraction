@@ -1,0 +1,8 @@
+           date                 city    opponent results type of game
+0      march 22             sarajevo     uruguay     2:1     friendly
+1      march 30             belgrade     romania     2:0   balkan cup
+2      april 26               borovo      poland     2:1     friendly
+3     august 27  bucharest , romania     romania     1:4   balkan cup
+4  september 10           luxembourg  luxembourg     5:0     1982 wcq
+5  september 27            ljubljana     denmark     2:1     1982 wcq
+6   november 15       torino , italy       italy     0:2     1982 wcq

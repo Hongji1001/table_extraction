@@ -1,0 +1,6 @@
+          player        country  year (s) won  total to par finish
+0   billy casper  united states          1959    285    + 5     t4
+1  arnold palmer  united states          1960    286    + 6     t5
+2   gene littler  united states          1961    291   + 11    t11
+3      ed furgol  united states          1954    292   + 12    t14
+4  jack nicklaus  united states          1962    295   + 15    t23

@@ -1,0 +1,11 @@
+  main contestant co - contestant (yaar vs pyaar) date performed scores by each individual judge total score / week  position      status
+0   kashmira shah                       mukul dev        july 30                 8 + 9 + 10 = 27            56 / 60     top 2     current
+1   kashmira shah                krushna abhishek        july 31                9 + 10 + 10 = 29            56 / 60     top 2     current
+2    vishal singh                dimple jhangiani        july 30                  1 + 7 + 5 = 13            35 / 60  bottom 2  eliminated
+3    vishal singh                    pranita sahu        july 31                  7 + 7 + 8 = 22            35 / 60  bottom 2  eliminated
+4  karanvir bohra                     tina parekh        july 30                  5 + 7 + 8 = 20            46 / 60      safe     current
+5  karanvir bohra                    teejay sidhu        july 31                 7 + 10 + 9 = 26            46 / 60      safe     current
+6      jatin shah                shalini chandran        july 30                  7 + 7 + 5 = 19            41 / 60  bottom 2     current
+7      jatin shah                   priya bhatija        july 31                  6 + 8 + 8 = 22            41 / 60  bottom 2     current
+8  mridul singhvi                     wasna ahmed        july 30                 8 + 10 + 9 = 27            48 / 60     top 2     current
+9  mridul singhvi                    tina sachdev        july 31                  7 + 7 + 7 = 21            48 / 60     top 2     current

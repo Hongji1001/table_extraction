@@ -1,0 +1,15 @@
+                  date            city result  score                                competition
+0   february 21 , 1976        brasília      w  1 - 0  international friendly (unofficial match)
+1   february 25 , 1976      montevideo      w  2 - 1         taça do atlntico / taça rio branco
+2   february 27 , 1976    buenos aires      w  2 - 1                taça do atlntico / roca cup
+3       april 7 , 1976        asunción      d  1 - 1       taça do atlntico / taça oswaldo cruz
+4      april 28 , 1976  rio de janeiro      w  2 - 1         taça do atlntico / taça rio branco
+5        may 19 , 1976  rio de janeiro      w  2 - 0                taça do atlntico / roca cup
+6        may 23 , 1976     los angeles      w  1 - 0                        usa bicentenary cup
+7        may 28 , 1976         seattle      w  2 - 0                        usa bicentenary cup
+8        may 31 , 1976       new haven      w  4 - 1                        usa bicentenary cup
+9        june 2 , 1976   san francisco      w  4 - 3  international friendly (unofficial match)
+10       june 4 , 1976     guadalajara      w  3 - 0                     international friendly
+11       june 9 , 1976  rio de janeiro      w  3 - 1       taça do atlntico / taça oswaldo cruz
+12    october 6 , 1976  rio de janeiro      l  0 - 2  international friendly (unofficial match)
+13   december 1 , 1976  rio de janeiro      w  2 - 0                     international friendly

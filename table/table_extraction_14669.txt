@@ -1,0 +1,6 @@
+   seat         season 1          season 2          season 3          season 6          season 7
+0     1    jim treliving     jim treliving     jim treliving     jim treliving     jim treliving
+1     2    kevin o'leary     kevin o'leary     kevin o'leary     kevin o'leary     kevin o'leary
+2     3    jennifer wood  arlene dickinson  arlene dickinson  arlene dickinson  arlene dickinson
+3     4   laurence lewin    laurence lewin    w brett wilson      bruce croxon      bruce croxon
+4     5  robert herjavec   robert herjavec   robert herjavec   robert herjavec     david chilton

@@ -1,0 +1,17 @@
+                   team   outgoing manager manner of departure date of vacancy      replaced by date of appointment
+0         albion rovers     john mccormack            resigned         28 june      paul martin              9 july
+1   heart of midlothian      stephen frail              sacked          9 july     csaba lászló             11 july
+2                dundee           alex rae              sacked      20 october      jocky scott          30 october
+3              montrose           jim weir              sacked      19 october     steven tweed          15 january
+4       berwick rangers     alan mcgonigal            resigned     13 november     jimmy crease         26 december
+5            livingston      roberto landi              sacked      1 december     paul hegarty          5 december
+6          brechin city    michael o'neill            resigned     15 december        jim duffy           9 january
+7            elgin city  robbie williamson            resigned     20 december        ross jack          23 january
+8          inverness ct     craig brewster              sacked      19 january    terry butcher          27 january
+9             stranraer     derek ferguson            resigned      24 january       keith knox         17 february
+10            east fife        dave baikie            resigned        14 april  stevie crawford            14 april
+11           livingston       paul hegarty           suspended        25 april      john murphy             30 june
+12             aberdeen   jimmy calderwood      mutual consent          24 may      mark mcghee             12 june
+13               celtic    gordon strachan            resigned          25 may     tony mowbray             16 june
+14            hibernian   mixu paatelainen            resigned          29 may      john hughes              8 june
+15              falkirk        john hughes            resigned          8 june        eddie may             23 june

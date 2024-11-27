@@ -1,0 +1,15 @@
+         date  opponent home / away                        field        result
+0     june 15   cannons        home  the ballpark at harbor yard     l 13 - 19
+1     june 17  bayhawks        home  the ballpark at harbor yard      w 12 - 9
+2     june 23  rattlers        away               frontier field     l 14 - 19
+3     june 29   lizards        home  the ballpark at harbor yard     l 16 - 17
+4     june 30     pride        away           yogi berra stadium     l 10 - 17
+5      july 6  rattlers        home  the ballpark at harbor yard     l 10 - 14
+6     july 12   lizards        away                     eab park     w 13 - 12
+7     july 14   cannons        away      cawley memorial stadium     l 15 - 17
+8     july 19     pride        home  the ballpark at harbor yard     l 14 - 15
+9     july 27  bayhawks        away               homewood field  l 11 - 12 ot
+10   august 5   lizards        away              hofstra stadium     l 14 - 17
+11  august 11   lizards        home  the ballpark at harbor yard     l 17 - 18
+12  august 19   cannons        home  the ballpark at harbor yard     w 17 - 15
+13  august 25   cannons        away      cawley memorial stadium  l 14 - 15 ot

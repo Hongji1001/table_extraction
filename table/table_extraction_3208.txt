@@ -1,0 +1,7 @@
+                                 engine family cylinder layout         displacement (s)    injection type                                     years produced
+0                                  maxxforce 5              v6  275 cubic inches (4.5l)  direct injection                                     2007 - current
+1  maxxforce 7 3rd generation ford powerstroke              v8                     6.4l  direct injection  2007 - current (international) 2008 - 2010 (ford)
+2                                 maxxforce dt      inline - 6  466 cubic inches (7.6l)  direct injection                                     2007 - current
+3                                  maxxforce 9      inline - 6  570 cubic inches (9.3l)  direct injection                                     2007 - current
+4                                 maxxforce 10      inline - 6  570 cubic inches (9.3l)  direct injection                                     2007 - current
+5                                 maxxforce 11      inline - 6                    10.5l  direct injection                                     2007 - current

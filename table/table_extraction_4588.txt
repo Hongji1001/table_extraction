@@ -1,0 +1,7 @@
+         home team home team score        away team away team score                  venue  crowd           date
+0         hawthorn       8.11 (59)         st kilda        8.8 (56)        glenferrie oval  10000  8 august 1925
+1          geelong      11.20 (86)         richmond        4.8 (32)             corio oval  13500  8 august 1925
+2          fitzroy     17.18 (120)  north melbourne       11.8 (74)  brunswick street oval   7000  8 august 1925
+3  south melbourne      13.14 (92)        footscray      12.15 (87)              lake oval  15000  8 august 1925
+4        melbourne       7.10 (52)      collingwood       9.11 (65)                    mcg  33642  8 august 1925
+5         essendon     15.11 (101)          carlton       8.14 (62)             windy hill  10000  8 august 1925

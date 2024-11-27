@@ -1,0 +1,31 @@
+     television service country language                              content hdtv    package / option
+0     vetrina primafila   italy  italian                        presentazione   no           qualsiasi
+1    sky primafila 1 hd   italy  italian                       primafila film  yes  qualsiasi + sky hd
+2       sky primafila 2   italy  italian                       primafila film   no           qualsiasi
+3    sky primafila 3 hd   italy  italian                       primafila film  yes  qualsiasi + sky hd
+4       sky primafila 4   italy  italian                       primafila film   no           qualsiasi
+5    sky primafila 5 hd   italy  italian                       primafila film  yes  qualsiasi + sky hd
+6       sky primafila 6   italy  italian                       primafila film   no           qualsiasi
+7    sky primafila 7 hd   italy  italian  primafila film / primafila hot club  yes  qualsiasi + sky hd
+8       sky primafila 8   italy  italian  primafila film / primafila hot club   no           qualsiasi
+9    sky primafila 9 hd   italy  italian  primafila film / primafila hot club  yes  qualsiasi + sky hd
+10     sky primafila 10   italy  italian  primafila film / primafila hot club   no           qualsiasi
+11  sky primafila 11 hd   italy  italian  primafila film / primafila hot club  yes  qualsiasi + sky hd
+12     sky primafila 12   italy  italian  primafila film / primafila hot club   no           qualsiasi
+13  sky primafila 13 hd   italy  italian  primafila film / primafila hot club  yes  qualsiasi + sky hd
+14     sky primafila 14   italy  italian  primafila film / primafila hot club   no           qualsiasi
+15     sky primafila 15   italy  italian  primafila film / primafila hot club   no           qualsiasi
+16     sky primafila 16   italy  italian  primafila film / primafila hot club   no           qualsiasi
+17     sky primafila 17   italy  italian  primafila film / primafila hot club   no           qualsiasi
+18     sky primafila 18   italy  italian  primafila film / primafila hot club   no           qualsiasi
+19     sky primafila 19   italy  italian  primafila film / primafila hot club   no           qualsiasi
+20  sky primafila 20 hd   italy  italian                         penthouse tv  yes  qualsiasi + sky hd
+21     sky primafila 21   italy  italian                   primafila hot club   no           qualsiasi
+22     sky primafila 22   italy  italian                   primafila hot club   no           qualsiasi
+23     sky primafila 23   italy  italian                   primafila hot club   no           qualsiasi
+24     sky primafila 24   italy  italian                   primafila hot club   no           qualsiasi
+25     sky primafila 25   italy  italian                   primafila hot club   no           qualsiasi
+26     sky primafila 26   italy  italian                   primafila hot club   no           qualsiasi
+27     sky primafila 27   italy  italian                   primafila hot club   no           qualsiasi
+28     sky primafila 28   italy  italian                              man - x   no           qualsiasi
+29    vetrina primafila   italy  italian                        presentazione   no           qualsiasi

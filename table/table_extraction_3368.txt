@@ -1,0 +1,9 @@
+   pick                   cfl team          player position            college
+0     1   calgary (1) via winnipeg      wayne holm       qb       simon fraser
+1     2  hamilton (1) via montreal    dave fahrner       fb            western
+2     3               edmonton (1)    evald timusk       ot  waterloo lutheran
+3     4                     bc (1)    john mcmanus       de            alberta
+4     5               hamilton (2)     jim bennett       ot            toronto
+5     6                calgary (2)  barry jamieson       ot  waterloo lutheran
+6     7   winnipeg (1) via toronto      bob larose       hb            western
+7     8           saskatchewan (1)     bob schmidt       ot            alberta

@@ -1,0 +1,25 @@
+   position  jersey                 name  height (cm)  weight (kg)            birthdate                     birthplace                        20052006 team
+0         g      31       craig anderson          188           79        may 21 , 1981          park ridge , illinois                   chicago blackhawks
+1         g      33     jason bacashihua          180           79  september , 20 1982    dearborn heights , michigan                       st louis blues
+2         g      30          david mckee          185           82    december 5 , 1983                midland , texas                     cornell ( ecac )
+3         d      41       andrew alberts          196          104       june 30 , 1981       eden prairie , minnesota                        boston bruins
+4         d       6            joe corvo          185           93       june 20 , 1977            oak park , illinois                    los angeles kings
+5         d      25             hal gill          202          109       april , 6 1975        concord , massachusetts                        boston bruins
+6         d      55       mike komisarek          194          104    january , 19 1982       islip terrace , new york                   montreal canadiens
+7         d      34         freddy meyer          178           87     january 4 , 1981   sanbornville , new hampshire                  philadelphia flyers
+8         d      44         brooks orpik          188           99  september , 26 1980     san francisco , california                  pittsburgh penguins
+9         d       7           ryan suter          185           88    january , 21 1985            madison , wisconsin                  nashville predators
+10       lw      14          mark cullen          180           79    october 28 , 1978           moorhead , minnesota                   chicago blackhawks
+11       lw       9         andy hilbert          180           88    february 6 , 1981              howell , michigan                  pittsburgh penguins
+12       lw      12          ryan malone          193          102    december , 1 1979      pittsburgh , pennsylvania                  pittsburgh penguins
+13       lw      21          yan stastny          178           87  september 30 , 1982  quebec city , quebec , canada            providence bruins ( ahl )
+14        c      17          ryan kesler          188           92     august , 31 1984             livonia , michigan                    vancouver canucks
+15        c      10  patrick o 'sullivan          180           86    february 1 , 1985               toronto , canada                houston aeros ( ahl )
+16        c      11       marty reasoner          185           91   february 26 , 1977       honeoye falls , new york                        boston bruins
+17        c      16           jim slater          182           75    december , 9 1982             detroit , michigan                    atlanta thrashers
+18        c      20         r j umberger          181           91         may , 3 1982      pittsburgh , pennsylvania                  philadelphia flyers
+19       rw      23         dustin brown          187           82    november , 4 1984              ithaca , new york                    los angeles kings
+20       rw      28            adam hall          191           94     august 14 , 1980           kalamazoo , michigan                  nashville predators
+21       rw       8          phil kessel          180           82     october , 2 1987            madison , wisconsin     university of minnesota ( wcha )
+22       rw      18         richard park          183           86        may 27 , 1976            seoul , south korea                    vancouver canucks
+23       rw      19        drew stafford          188           92    october 30 , 1985          milwaukee , wisconsin  university of north dakota ( wcha )

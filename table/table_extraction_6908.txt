@@ -1,0 +1,13 @@
+    round  overall             player     nationality                              club team
+0       1        2      alexei yashin          russia              hc dynamo moscow (russia)
+1       2       25        chad penney          canada            north bay centennials (ohl)
+2       3       50   patrick traverse          canada          shawinigan cataractes (qmjhl)
+3       4       73         radek hamr  czechoslovakia                hc sparta praha (czech)
+4       5       98     daniel guerard          canada           victoriaville tigres (qmjhl)
+5       6      121      alan sinclair   united states          university of michigan (ncaa)
+6       7      146  jaroslav miklenda  czechoslovakia                      ds olomuc (czech)
+7       8      169         jay kenney   united states  new milford canterbury school (us hs)
+8       9      194      claude savoie          canada           victoriaville tigres (qmjhl)
+9      10      217        jack grimes          canada                 belleville bulls (ohl)
+10     11      242      tomas jelinek  czechoslovakia                          hpk (finland)
+11     11      264   petter ronnquist          sweden                      nacka hk (sweden)

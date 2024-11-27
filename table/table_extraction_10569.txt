@@ -1,0 +1,23 @@
+                                        name pinnacle height  floors  completion       city
+0        pingan international finance centre               -     115        2015   shenzhen
+1                             shanghai tower               -     128        2014   shanghai
+2           wuhan greenland financial center               -     119        2016      wuhan
+3                         goldin finance 117               -     117        2015    tianjin
+4                              rose rock ifc               -     100        2015    tianjin
+5                       chow tai fook centre               -     116        2016  guangzhou
+6                            the ctf tianjin               -      97        2015    tianjin
+7               china resources headquarters               -     100        2017   shenzhen
+8                                  china zun               -     108        2016    beijing
+9                     kaisa feng long centre               -      92        2015   shenzhen
+10                   dalian greenland center               -      88        2016     dalian
+11               tianjin r&f guangdong tower               -      91        2016    tianjin
+12           international commerce center 1               -      99        2016  chongqing
+13                              wuhan center               -      88        2015      wuhan
+14                           wuhan tiandi a1               -      76        2016      wuhan
+15  jw marriott international finance centre               -     102        2014  chongqing
+16                        dalian eton center               -      81        2013     dalian
+17                          forum 66 tower 1               -      76        2013   shenyang
+18                          sino steel tower               -      80        2015    tianjin
+19                          forum 66 tower 2               -      68        2013   shenyang
+20                     wenzhou lucheng plaza               -      71        2013    wenzhou
+21              gezhouba international plaza               -      69        2013      wuhan

@@ -1,0 +1,33 @@
+    year    location fans' choice award male artist of the year female artist of the year group or duo of the year
+0   2013    edmonton        terri clark              dean brody             kira isabella              the stellas
+1   2012   saskatoon        johnny reid              dean brody      carolyn dawn johnson                hey romeo
+2   2011    hamilton        johnny reid             johnny reid               terri clark                hey romeo
+3   2010    edmonton        johnny reid            gord bamford            victoria banks               doc walker
+4   2009   vancouver        johnny reid             johnny reid          crystal shawanda               doc walker
+5   2008    winnipeg         doc walker             johnny reid            jessie farrell               doc walker
+6   2007      regina        terri clark             brad johner      carolyn dawn johnson            emerson drive
+7   2006  saint john        terri clark           george canyon      carolyn dawn johnson         the road hammers
+8   2005     calgary      george canyon           george canyon               terri clark         the road hammers
+9   2004    edmonton        terri clark             jason mccoy               terri clark               doc walker
+10  2003     calgary        terri clark             aaron lines              shania twain            emerson drive
+11  2002     calgary        terri clark             paul brandt      carolyn dawn johnson            emerson drive
+12  2001     calgary        terri clark             jason mccoy      carolyn dawn johnson           the wilkinsons
+13  2000    edmonton     the wilkinsons             paul brandt           michelle wright           the wilkinsons
+14  1999      ottawa       shania twain             paul brandt              shania twain           the wilkinsons
+15  1998     calgary       shania twain             paul brandt              shania twain                    leahy
+16  1997    hamilton        terri clark             paul brandt               terri clark       farmer 's daughter
+17  1996     calgary       shania twain           charlie major              shania twain           prairie oyster
+18  1995    edmonton    michelle wright           charlie major              shania twain           prairie oyster
+19  1994     calgary     prairie oyster           charlie major           patricia conroy           prairie oyster
+20  1993    hamilton    michelle wright              george fox           michelle wright        the rankin family
+21  1992     calgary       rita macneil               ian tyson           michelle wright           prairie oyster
+22  1991    hamilton       rita macneil              george fox           michelle wright           prairie oyster
+23  1990    edmonton            kd lang              george fox           michelle wright           prairie oyster
+24  1989      ottawa            kd lang         gary fjellgaard                   kd lang             family brown
+25  1988     toronto            kd lang               ian tyson                   kd lang             family brown
+26  1987   vancouver            kd lang               ian tyson              anita perras             family brown
+27  1986    winnipeg       family brown           terry carisse              anita perras             family brown
+28  1985    edmonton        dick damron           terry carisse             carroll baker          mercey brothers
+29  1984     moncton     ronnie prophet           terry carisse            marie bottrell             family brown
+30  1983      regina       family brown             dick damron            marie bottrell             family brown
+31  1982     halifax       family brown           terry carisse             carroll baker             family brown

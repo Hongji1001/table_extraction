@@ -1,0 +1,9 @@
+             school      location     mascot  enrollment ihsaa class ihsaa football class                   county
+0            bremen        bremen      lions         495          aa                   aa              50 marshall
+1  culver community        culver  cavaliers         287           a                    a              50 marshall
+2             glenn     walkerton    falcons         605         aaa                  aaa             71 st joseph
+3           jimtown       elkhart    jimmies         601         aaa                  aaa               20 elkhart
+4    knox community          knox   redskins         620         aaa                  aaa                75 starke
+5           laville     lakeville    lancers         379          aa                    a             71 st joseph
+6     new prairie 1  new carlisle    cougars         852         aaa                 aaaa  46 laporte 71 st joseph
+7            triton       bourbon    trojans         316           a                    a              50 marshall

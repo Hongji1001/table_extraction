@@ -1,0 +1,13 @@
+                            place   code  area (km 2 )  population most spoken language
+0                         alldays  90901         11.75         385       northern sotho
+1                        bahanawa  90902        390.17       19068       northern sotho
+2            bahanawa - ba - kibi  90903        163.78        7763       northern sotho
+3                   bochum part 1  90912          4.33        8501       northern sotho
+4                   bochum part 2  90905        182.33       15911       northern sotho
+5                        dichoeng  90906         58.29       17347       northern sotho
+6                        manthata  90907       1335.47       72175       northern sotho
+7                         matlala  90908        180.83        8697       northern sotho
+8                     pietersburg  90909          1.33        3818       northern sotho
+9                         ramutla  90910          7.81        1047       northern sotho
+10                        seshego  90911          6.00        1058       northern sotho
+11  remainder of the municipality  90904       2198.72        5539       northern sotho

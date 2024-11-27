@@ -1,0 +1,7 @@
+                club  wins  losses  draws  against
+0             cobden     8       7      0     1256
+1           mortlake     8       7      0     1051
+2  south warrnambool     8       7      0     1155
+3        warrnambool     8       7      0     1371
+4             terang     7       8      0     1110
+5         camperdown     6       9      0     1314

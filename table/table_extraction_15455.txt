@@ -1,0 +1,13 @@
+   frequency      call sign         branding                   format                                 owner
+0    am 1070           cfax        cfax 1070              news / talk                      bell media radio
+1    fm 88.9  cbux - fm - 1   espace musique             public music     canadian broadcasting corporation
+2    fm 90.5      cbcv - fm    cbc radio one       public news / talk     canadian broadcasting corporation
+3    fm 91.3      cjzn - fm         the zone              modern rock                    jim pattison group
+4    fm 92.1   cbu - fm - 2      cbc radio 2             public music     canadian broadcasting corporation
+5    fm 98.5      cioc - fm        the ocean  soft adult contemporary                 rogers communications
+6    fm 99.7  cbuf - fm - 9  première chaîne       public news / talk     canadian broadcasting corporation
+7   fm 100.3      ckkq - fm            the q              active rock                    jim pattison group
+8   fm 101.9      cfuv - fm             cfuv             campus radio                university of victoria
+9   fm 103.1      chtt - fm          jack fm               adult hits                 rogers communications
+10  fm 107.3      chbe - fm          kool fm   hot adult contemporary                      bell media radio
+11  fm 107.9      cils - fm   radio victoria          community radio  société radio communautaire victoria

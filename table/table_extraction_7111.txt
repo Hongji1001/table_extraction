@@ -1,0 +1,17 @@
+                player  tackles  solo  assisted  sack  yards  td 's
+0            rex motes     26.0    24         4     0      0      0
+1         nathan creer     25.5    24         3     0      0      0
+2        walter holman     21.0    17         8     2      3      0
+3          pete stubbs     19.5    18         3     3      0      0
+4      michael witteck     16.0    14         4     2      0      0
+5           jon roehlk     15.0    11         8     6      0      0
+6         dwayne dixon     13.0    12         2     0      0      0
+7       sean mcinerney      9.0     8         2     3      0      0
+8         robert goins      9.0     9         0     0      0      0
+9       richard dupree      8.5     6         5     0      0      0
+10        brett wilson      8.0     7         2     0      0      0
+11          wes walton      7.0     4         6     2      0      0
+12  fernando mcwherter      5.0     5         0     0      0      0
+13        mike calhoun      3.0     2         2     3      0      0
+14       kendall walls      2.0     2         0     0      0      0
+15       steve griffin      1.0     1         0     0      0      0

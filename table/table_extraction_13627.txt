@@ -1,0 +1,16 @@
+    position                pilot         country                                          glider  points
+0          1       sebastian kawa          poland                      diana sailplanes - diana 2      69
+1          2   carlos rocca vidal           chile    schempp - hirth flugzeugbau gmbh - ventus 2b      55
+2          3      mario kiessling         germany   schempp - hirth flugzeugbau gmbh - ventus 2ax      47
+3          4          uli schwenk         germany   schempp - hirth flugzeugbau gmbh - ventus 2ax      40
+4          5       thomas gostner           italy                      diana sailplanes - diana 2      43
+5          6       tilo holighaus         germany   schempp - hirth flugzeugbau gmbh - ventus 2ax      24
+6          7  wolfgang janowitsch         austria  schempp - hirth flugzeugbau gmbh - ventus 2cxa      15
+7          8           rene vidal           chile    schempp - hirth flugzeugbau gmbh - ventus 2c      14
+8          8    stanislaw wujczak          poland         alexander schleicher gmbh & co - asg 29      14
+9         10  eduard supersperger         austria    schempp - hirth flugzeugbau gmbh - ventus 2b      12
+10        11       heimo demmerer         austria    schempp - hirth flugzeugbau gmbh - ventus 2b      11
+11        12    patrick puskeiler         germany   schempp - hirth flugzeugbau gmbh - discus 2ax       8
+12        13       petr krejcirik  czech republic   schempp - hirth flugzeugbau gmbh - ventus 2ax       4
+13        13        graham parker       australia         alexander schleicher gmbh & co - asg 29       4
+14        15         olli teronen         finland         alexander schleicher gmbh & co - asg 29       2

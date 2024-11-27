@@ -1,0 +1,7 @@
+                peak country  elevation (m)  prominence (m)  col (m)
+0       galdhøpiggen  norway           2469            2372       97
+1         kebnekaise  sweden           2113            1754      359
+2       jiehkkevárri  norway           1834            1741       93
+3           snøhetta  norway           2286            1675      611
+4  store lenangstind  norway           1624            1576       48
+5       sarektjåhkkå  sweden           2089            1519      570

@@ -1,0 +1,13 @@
+                             name         circuit        date         winning driver winning constructor  report
+0                  pau grand prix             pau    10 april           rené dreyfus            delahaye  report
+1                 campbell trophy      brooklands    18 april            prince bira                 era  report
+2                 cork grand prix    carrigrohane    23 april           rené dreyfus            delahaye  report
+3              tripoli grand prix         mellaha      15 may           hermann lang     mercedes - benz  report
+4          gávea nacional circuit           gávea      29 may   arthur nascimento jr          alfa romeo  report
+5       grand prix des frontières          chimay      5 june    maurice trintignant             bugatti  report
+6       rio de janeiro grand prix           gávea     12 june  carlo maria pintacuda          alfa romeo  report
+7                     coppa ciano       montenero    7 august           hermann lang     mercedes - benz  report
+8                    coppa acerbo         pescara   15 august      rudolf caracciola     mercedes - benz  report
+9   junior car club 200 mile race      brooklands   27 august       johnny wakefield                 era  report
+10          mountain championship      brooklands  15 october           raymond mays                 era  report
+11           donington grand prix  donington park  22 october         tazio nuvolari          auto union  report

@@ -1,0 +1,16 @@
+               name  championship  league cup  fa cup total
+0      dele adebola             8           1       0   0 9
+1     leon mckenzie             7           0       1   0 8
+2        stern john             5           0       1   0 6
+3    michael mifsud             4           0       0   0 4
+4     michael doyle             3           0       0   0 3
+5        kevin kyle             3           0       0   0 3
+6          jay tabb             3           0       0   0 3
+7      elliott ward             3           0       0   0 3
+8     colin cameron             2           0       1   0 3
+9    chris birchall             2           0       0   0 2
+10    wayne andrews             1           0       0   0 1
+11   stephen hughes             1           0       0   0 1
+12  gary mcsheffrey             1           0       0   0 1
+13   kevin thornton             1           0       0   0 1
+14       adam virgo             1           0       0   0 1

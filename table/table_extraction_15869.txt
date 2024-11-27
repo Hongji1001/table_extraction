@@ -1,0 +1,40 @@
+    heat  lane                     name     nationality     time
+0      4     3            alicia coutts       australia  2:11.55
+1      4     4               katie hoff   united states  2:11.58
+2      3     4         natalie coughlin   united states  2:11.63
+3      5     3             hannah miley   great britain  2:11.72
+4      3     6    julie hjorth - hansen         denmark  2:11.99
+5      5     4           stephanie rice       australia  2:12.07
+6      4     5           camille muffat          france  2:12.16
+7      5     5          kirsty coventry        zimbabwe  2:12.18
+8      3     2           asami kitagawa           japan  2:12.47
+9      5     6     katarzyna baranowska          poland  2:12.47
+10     5     2         evelyn verrasztó         hungary  2:12.52
+11     3     1               li jiaxing           china  2:12.53
+12     3     7          julia wilkinson          canada  2:12.56
+13     3     5   mireia belmonte garcía           spain  2:12.75
+14     3     3        keri - anne payne   great britain  2:12.78
+15     4     1        svetlana karpeeva          russia  2:12.94
+16     4     8           katinka hosszú         hungary  2:13.05
+17     5     1            helen norfolk     new zealand  2:13.50
+18     5     7        erica morningstar          canada  2:14.11
+19     4     6                   qi hui           china  2:14.25
+20     4     2              cylia vabre          france  2:14.34
+21     2     7          joanna maranhão          brazil  2:14.97
+22     2     1          sara nordenstam          norway  2:15.13
+23     2     2            choi hye - ra     south korea  2:15.26
+24     2     3              anja klinar        slovenia  2:15.39
+25     2     5         jessica pengelly    south africa  2:15.80
+26     3     8             maría peláez           spain  2:15.97
+27     2     6          femke heemskerk     netherlands  2:16.28
+28     2     8             siow yi ting        malaysia  2:17.11
+29     4     7       katharina schiller         germany  2:18.00
+30     1     6            ganna dzerkal         ukraine  2:18.25
+31     1     2            erika stewart        colombia  2:18.54
+32     1     3              sherry tsai       hong kong  2:18.91
+33     5     8            sonja schöber         germany  2:20.18
+34     1     4  erla dögg haraldsdóttir         iceland  2:20.53
+35     1     7            lin man - hsu  chinese taipei  2:23.29
+36     2     4         georgina bardach       argentina  2:25.74
+37     1     1    fibriani ratna marita       indonesia  2:28.18
+38     1     5        maroua mathlouthi         tunisia      dns

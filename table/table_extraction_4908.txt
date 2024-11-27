@@ -1,0 +1,11 @@
+   pick            player country of origin                pba team              college
+0    11    oliver agapito       philippines    tanduay rhum masters           st benilde
+1    12    anton villoria       philippines        red bull thunder               letran
+2    13      marlon basco       philippines  barangay ginebra kings                luzon
+3    14         jovy sese       philippines       pop cola panthers               manila
+4    15     ricky calimag       philippines    tanduay rhum masters             san beda
+5    16      jojo tangkay       philippines      sta lucia realtors         southwestern
+6    17  charles de jesus     united states    tanduay rhum masters      western wyoming
+7    18       kenny evans     united states             alaska aces  san francisco state
+8    19      jomar tierra       philippines      san miguel beermen                 east
+9    20        ato morano       philippines       pop cola panthers             san beda

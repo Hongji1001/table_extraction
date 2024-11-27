@@ -1,0 +1,10 @@
+   n degree  television service country language      content  dar hdtv package / option
+0       861          telemarket   italy  italian  televendita  4:3   no       no ( fta )
+1       862          noello sat   italy  italian  televendita  4:3   no       no ( fta )
+2       863   elite shopping tv   italy  italian  televendita  4:3   no       no ( fta )
+3       864              juwelo   italy  italian  televendita  4:3   no       no ( fta )
+4       865            diprè tv   italy  italian         arte  4:3   no       no ( fta )
+5       866  telemarket for you   italy  italian  televendita  4:3   no       no ( fta )
+6       867   la sorgente sat 1   italy  italian  televendita  4:3   no       no ( fta )
+7       868   la sorgente sat 2   italy  italian  televendita  4:3   no       no ( fta )
+8       869   la sorgente sat 3   italy  italian  televendita  4:3   no       no ( fta )

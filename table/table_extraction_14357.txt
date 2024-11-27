@@ -1,0 +1,21 @@
+                 player  tries  goals  field goals  points
+0          corey parker      5     75            0     170
+1          israel folau     17      0            0      68
+2   antonio winterstein     14      0            0      56
+3       karmichael hunt     11      0            0      44
+4        jharal yow yeh      9      0            0      36
+5        steve michaels      8      0            0      32
+6            alex glenn      6      0            0      24
+7         peter wallace      2      6            1      21
+8          david taylor      5      0            0      20
+9              ben te'o      4      0            0      16
+10       darren lockyer      4      0            0      16
+11        justin hodges      3      0            0      12
+12          sam thaiday      3      0            0      12
+13            lagi setu      3      0            0      12
+14         joel clinton      2      0            0       8
+15         josh mcguire      2      0            0       8
+16          ashton sims      2      0            0       8
+17    andrew mccullough      2      0            0       8
+18           nick kenny      1      0            0       4
+19                total    103     81            1     585

@@ -1,0 +1,21 @@
+                  name  championship  league cup  fa cup  total
+0      aron gunnarsson             9           1       2     12
+1           daniel fox             8           1       0      9
+2   guillaume beuzelin             7           0       2      9
+3           scott dann             8           0       0      8
+4     clinton morrison             8           0       0      8
+5       stephen wright             6           1       0      7
+6       isaac osbourne             6           0       0      6
+7             jay tabb             4           0       0      4
+8      freddy eastwood             3           0       1      4
+9      keiren westwood             3           0       1      4
+10       michael doyle             4           0       0      4
+11        elliott ward             3           0       1      4
+12       leon mckenzie             3           0       0      3
+13      robbie simpson             3           0       0      3
+14           leon best             2           0       0      2
+15    jordan henderson             2           0       0      2
+16         marcus hall             1           1       0      2
+17          ben turner             2           0       0      2
+18      michael mifsud             1           0       0      1
+19        james mcpake             1           0       0      1

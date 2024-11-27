@@ -1,0 +1,10 @@
+                                  player  no (s) height in ft          position      years for rockets school / club team / country
+0          padgett , scott scott padgett      35        6 - 9           forward  2003 - 05 , 2006 - 07                     kentucky
+1  patterson , patrick patrick patterson      54        6 - 9           forward            2010 - 2013                     kentucky
+2            paultz , billy billy paultz       5       6 - 11            center              1979 - 83                   st john 's
+3            perry , curtis curtis perry      54        6 - 7           forward              1970 - 71            sw missouri state
+4            petersen , jim jim petersen      43       6 - 10  forward / center              1984 - 88                    minnesota
+5    petruska , richard richard petruska       3       6 - 10            center              1993 - 94                         ucla
+6      piatkowski , eric eric piatkowski      52        6 - 7             guard              2003 - 04                     nebraska
+7        pippen , scottie scottie pippen      33        6 - 8           forward              1998 - 99             central arkansas
+8              posey , james james posey      55        6 - 8           forward              2002 - 03                xavier (ohio)

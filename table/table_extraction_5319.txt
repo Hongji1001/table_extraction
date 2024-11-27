@@ -1,0 +1,20 @@
+               athlete    nationality 3.60 3.80 3.95   result
+0         bob richards  united states    -    -    o  4.55 or
+1              don laz  united states    -    -    o     4.50
+2      ragnar lundberg         sweden    -    -    o     4.40
+3      petro denysenko   soviet union    -    -    o     4.40
+4        valto olenius        finland    -    -    -     4.30
+5      bunkichi sawada          japan    -    o  xxo     4.20
+6   volodymyr brazhnyk   soviet union    -    o    o     4.20
+7       viktor knyazev   soviet union    -    o    o     4.20
+8        george mattos  united states    -    -    o     4.20
+9         erkki kataja        finland    -    -    o     4.10
+10      tamás homonnay         sweden    -    o    o     4.10
+11        lennart lind        hungary    -    o    o     4.10
+12       milan milakov     yugoslavia    -    o   xo     4.10
+13  rigas efstathiadis         greece    -    o    o     3.95
+14  torfy bryngeirsson        iceland    -    o    o     3.95
+15         erling kaas         norway    -    o  xxx     3.80
+16  theodosios balafas         greece    o    o  xxx     3.80
+17      jukka piironen        finland    -   xo   xx     3.80
+18       zeno dragomir        romania    -   xo   xx     3.80

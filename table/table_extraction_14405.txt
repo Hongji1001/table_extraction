@@ -1,0 +1,19 @@
+                             club                       city                       stadium  capacity         200708 season
+0                   as andria bat                     andria            stadio degli ulivi     10500  17th in serie c2 / c
+1              sf aversa normanna                     aversa              stadio rinascita      2000       1st serie d / h
+2              ss barletta calcio                   barletta        stadio cosimo puttilli      5000       2nd serie d / h
+3                 ss cassino 1927                    cassino           stadio gino salveti      3700   8th in serie c2 / c
+4                    fc catanzaro                  catanzaro        stadio nicola ceravolo     13619  10th in serie c2 / c
+5             cosenza calcio 1914                    cosenza               stadio san vito     24000       1st serie d / i
+6                     gela calcio                       gela        stadio vincenzo presti      4400   7th in serie c2 / c
+7       fc igea virtus barcellona  barcellona pozzo di gotto      stadio carlo d'alcontres      5000  11th in serie c2 / c
+8                   ac isola liri             isola del liri        stadio conte a mangoni      3400       1st serie d / g
+9           ss manfredonia calcio                manfredonia               stadio miramare      4076  18th in serie c1 / a
+10                       as melfi                      melfi         stadio arturo valerio      4500  13th in serie c2 / c
+11                    ac monopoli                   monopoli  stadio vito simone veneziani      6880   6th in serie c2 / c
+12           as noicattaro calcio                 noicattaro               stadio comunale      2500  12th in serie c2 / c
+13  as pescina valle del giovenco                   avezzano              stadio dei marsi      4500   2nd in serie c2 / c
+14       ss scafatese calcio 1922                    scafati               stadio comunale      1950  16th in serie c2 / c
+15              pol val di sangro                     atessa           stadio montemarcone      2000  15th in serie c2 / c
+16             us vibonese calcio              vibo valentia            stadio luigi razza      4500  14th in serie c2 / c
+17                  vigor lamezia              lamezia terme       stadio guido d'ippolito      4000   4th in serie c2 / c

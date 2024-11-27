@@ -1,0 +1,34 @@
+                date        city           country                          venue     time
+0    20 october 1999   sheffield           england                sheffield arena  evening
+1    22 october 1999     glasgow          scotland                           secc  evening
+2    23 october 1999     glasgow          scotland                           secc  matinee
+3    23 october 1999     glasgow          scotland                           secc  evening
+4    24 october 1999     glasgow          scotland                           secc  evening
+5    26 october 1999   sheffield           england                sheffield arena  evening
+6    27 october 1999     cardiff             wales    cardiff international arena  evening
+7    28 october 1999     cardiff             wales    cardiff international arena  evening
+8    30 october 1999  manchester           england  manchester evening news arena  evening
+9    31 october 1999  manchester           england  manchester evening news arena  matinee
+10   31 october 1999  manchester           england  manchester evening news arena  evening
+11   2 november 1999  birmingham           england                 birmingham nec  evening
+12   3 november 1999  birmingham           england                 birmingham nec  evening
+13   4 november 1999      london           england                  wembley arena  evening
+14   5 november 1999      london           england                  wembley arena  evening
+15   7 november 1999  manchester           england  manchester evening news arena  evening
+16  23 november 1999  manchester           england  manchester evening news arena  evening
+17  24 november 1999  manchester           england  manchester evening news arena  evening
+18  26 november 1999      london           england                  wembley arena  evening
+19  27 november 1999      london           england                  wembley arena  matinee
+20  27 november 1999      london           england                  wembley arena  evening
+21  29 november 1999   sheffield           england                sheffield arena  evening
+22  30 november 1999  newscastle           england                newcastle arena  evening
+23   1 december 1999  newscastle           england                newcastle arena  evening
+24   2 december 1999  newscastle           england                newcastle arena  evening
+25   3 december 1999  newscastle           england                newcastle arena  evening
+26   6 december 1999     glasgow          scotland                           secc  evening
+27   7 december 1999     glasgow          scotland                           secc  evening
+28   8 december 1999     glasgow          scotland                           secc  evening
+29  10 december 1999      dublin           ireland                      the point  evening
+30  11 december 1999      dublin           ireland                      the point  evening
+31  12 december 1999     belfast  northern ireland                   king 's hall  evening
+32  13 december 1999     belfast  northern ireland                   king 's hall  evening

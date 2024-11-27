@@ -1,0 +1,18 @@
+   place             player        country  score to par
+0      1  colin montgomerie       scotland     65    - 5
+1     t2     steve stricker  united states     66    - 4
+2     t2         hal sutton  united states     66    - 4
+3     t4         tom lehman  united states     67    - 3
+4     t4       mark mcnulty       zimbabwe     67    - 3
+5     t6        hideki kase          japan     68    - 2
+6     t6      dave schreyer  united states     68    - 2
+7     t8     justin leonard  united states     69    - 1
+8     t8        jeff sluman  united states     69    - 1
+9    t10        mike brisky  united states     70      e
+10   t10         hale irwin  united states     70      e
+11   t10    joel kribel (a)  united states     70      e
+12   t10         larry mize  united states     70      e
+13   t10        david ogrin  united states     70      e
+14   t10        craig parry      australia     70      e
+15   t10        chris perry  united states     70      e
+16   t10        david white  united states     70      e

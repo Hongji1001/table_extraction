@@ -1,0 +1,6 @@
+  call sign  frequency mhz                   city of license  erp w class fcc info
+0    k202bp           88.3  bellaire , smith county , kansas     78     d      fcc
+1    k216ed           91.1             phillipsburg , kansas    222     d      fcc
+2    k241an           96.1                    pratt , kansas    250     d      fcc
+3    k278ap          103.5                    lewis , kansas    171     d      fcc
+4    k297ai          107.3                hill city , kansas    170     d      fcc

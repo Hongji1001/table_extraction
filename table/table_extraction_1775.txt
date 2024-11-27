@@ -1,0 +1,20 @@
+                player        original season  gender        eliminated      placing
+0     derrick kosinski         rr : x - treme    male            winner       winner
+1         evelyn smith             fresh meat  female            winner       winner
+2    johnny devenanzio          rw : key west    male            winner       winner
+3       kenny santucci             fresh meat    male            winner       winner
+4        jenn grijalva            rw : denver  female         episode 8  runner - up
+5        paula meronek          rw : key west  female         episode 8  runner - up
+6        robin hibbard         rw : san diego  female         episode 8  runner - up
+7           ryan kehoe             fresh meat    male         episode 8  runner - up
+8       dunbar merrill            rw : sydney    male         episode 8    9th place
+9        johanna botta            rw : austin  female         episode 8   10th place
+10      kellyanne judd            rw : sydney  female         episode 8   11th place
+11           dan walsh  rr : viewers' revenge    male         episode 8   12th place
+12        colie edison            rw : denver  female         episode 7   13th place
+13  cohutta grindstaff            rw : sydney    male         episode 6   14th place
+14       tyrie ballard            rw : denver    male         episode 5   15th place
+15        ashli robson            rw : sydney  female         episode 4   16th place
+16     rachel robinson      rr : campus crawl  female         episode 3   17th place
+17         abram boise     rr : south pacific    male         episode 2   18th place
+18      dave malinosky         rw : hollywood    male  episode 2 (quit)   19th place

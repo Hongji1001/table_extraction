@@ -1,0 +1,24 @@
+                         entrant             constructor   chassis                     engine tyre                   driver  rounds
+0              winfield williams   williams - mecachrome      fw20       mecachrome gc37 - 01    g       jacques villeneuve     all
+1              winfield williams   williams - mecachrome      fw20       mecachrome gc37 - 01    g  heinz - harald frentzen     all
+2      scuderia ferrari marlboro                 ferrari      f300                ferrari 047    g       michael schumacher     all
+3      scuderia ferrari marlboro                 ferrari      f300                ferrari 047    g             eddie irvine     all
+4   mild seven benetton playlife     benetton - playlife      b198         playlife gc37 - 01    b     giancarlo fisichella     all
+5   mild seven benetton playlife     benetton - playlife      b198         playlife gc37 - 01    b           alexander wurz     all
+6          west mclaren mercedes      mclaren - mercedes  mp4 - 13           mercedes fo110 g    b          david coulthard     all
+7          west mclaren mercedes      mclaren - mercedes  mp4 - 13           mercedes fo110 g    b            mika häkkinen     all
+8       benson and hedges jordan  jordan - mugen - honda       198  mugen - honda mf - 301 hc    g               damon hill     all
+9       benson and hedges jordan  jordan - mugen - honda       198  mugen - honda mf - 301 hc    g          ralf schumacher     all
+10       gauloises prost peugeot         prost - peugeot      ap01                peugeot a16    b            olivier panis     all
+11       gauloises prost peugeot         prost - peugeot      ap01                peugeot a16    b             jarno trulli     all
+12      red bull sauber petronas       sauber - petronas       c17         petronas spe - 01d    g               jean alesi     all
+13      red bull sauber petronas       sauber - petronas       c17         petronas spe - 01d    g           johnny herbert     all
+14           danka zepter arrows                  arrows       a19             arrows t2 - f1    b              pedro diniz     all
+15           danka zepter arrows                  arrows       a19             arrows t2 - f1    b                mika salo     all
+16                  stewart ford          stewart - ford      sf02          ford vj zetec - r    b       rubens barrichello     all
+17                  stewart ford          stewart - ford      sf02          ford vj zetec - r    b            jan magnussen   1 - 7
+18                  stewart ford          stewart - ford      sf02          ford vj zetec - r    b           jos verstappen  8 - 16
+19                tyrrell racing          tyrrell - ford       026          ford jd zetec - r    g           ricardo rosset     all
+20                tyrrell racing          tyrrell - ford       026          ford jd zetec - r    g        toranosuke takagi     all
+21        fondmetal minardi team          minardi - ford      m198          ford jd zetec - r    b            shinji nakano     all
+22        fondmetal minardi team          minardi - ford      m198          ford jd zetec - r    b            esteban tuero     all

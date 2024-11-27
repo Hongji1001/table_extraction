@@ -1,0 +1,28 @@
+        nat                  name          since  goals         ends                     transfer fee
+0       esp               almunia           2004      0  undisclosed                            0.5 m
+1       fra                 sagna           2007      1         2014                            7.5 m
+2       civ          touré ( vc )  2002 (winter)     14  undisclosed                           0.15 m
+3       fra      gallas (captain)           2006     13  undisclosed  part exchange with a cole + 5 m
+4       fra                clichy           2003      1         2012                           0.25 m
+5       bra              denílson           2006      5  undisclosed                            3.4 m
+6       esp  fàbregas ( captain )           2003     29         2014                             free
+7       cmr                  song           2005      3  undisclosed                            1.0 m
+8       fra                 nasri           2008      7  undisclosed                             12 m
+9       tog              adebayor  2006 (winter)     62  undisclosed                              3 m
+10      ned              v persie           2004     63         2011                           2.75 m
+11      den              bendtner           2004     23         2012                     youth system
+12      civ                 eboué  2005 (winter)      6  undisclosed                           1.54 m
+13      fra                 diaby  2006 (winter)     10  undisclosed                              2 m
+14      eng               walcott  2006 (winter)     14  undisclosed                            9.1 m
+15  sui civ               djourou           2003      0  undisclosed                     youth system
+16      mex                  vela           2005      6         2010                            0.5 m
+17      fra             silvestre           2008      2         2010                           0.75 m
+18      wal                ramsey           2008      1  undisclosed                            4.8 m
+19      eng                 gibbs           2007      0  undisclosed                     youth system
+20      pol             fabiański           2007      0  undisclosed                            2.0 m
+21      rus              arshavin  2009 (winter)      6         2012                           15.0 m
+22      eng              wilshere           2008      1  undisclosed                     youth system
+23  cro bra               eduardo           2007     15         2011                            7.5 m
+24  por fra              bischoff           2008      0  undisclosed                             free
+25      ita               mannone           2005      0  undisclosed                           0.35 m
+26      cze               rosický           2006     13  undisclosed                            6.8 m

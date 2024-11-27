@@ -1,0 +1,6 @@
+   year                         tournament                venue result             event
+0  1997  world cross country championships        turin , italy   25th         long race
+1  1998  world cross country championships  marrakech , morocco   26th         long race
+2  1998  world cross country championships  marrakech , morocco    6th  team competition
+3  2001  world half marathon championships    bristol , england   22nd     half marathon
+4  2001  world half marathon championships    bristol , england    3rd  team competition

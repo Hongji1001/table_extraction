@@ -1,0 +1,9 @@
+                      teams  finals appearances  championships  runners - up           years won years runners - up
+0            indiana pacers                   5              3             2  1970 , 1972 , 1973        1969 , 1975
+1             new york nets                   3              2             1         1974 , 1976               1972
+2         kentucky colonels                   3              1             2                1975        1971 , 1973
+3  los angeles / utah stars                   3              1             2                1971        1970 , 1974
+4              oakland oaks                   1              1             0                1969                  -
+5         pittsburgh pipers                   1              1             0                1968                  -
+6            denver nuggets                   1              0             1                   -               1976
+7    new orleans buccaneers                   1              0             1                   -               1968

@@ -1,0 +1,13 @@
+            player  height position  year born                current club
+0       dror hagag    1.78    guard       1978            hapoel jerusalem
+1        moran rot    1.78    guard       1982                hapoel holon
+2   yotam halperin    1.96    guard       1984            maccabi tel aviv
+3     lior eliyahu    2.05  forward       1985            maccabi tel aviv
+4   erez markovich    2.08   center       1978            hapoel jerusalem
+5    jeron roberts    1.94    guard       1976  demon astronauts amsterdam
+6        guy pnini    2.01  forward       1983            hapoel jerusalem
+7      meir tapiro    1.94    guard       1975               bnei hasharon
+8       matan naor    1.94  forward       1980              ironi nahariya
+9     ido kozikaro    2.02  forward       1978              ironi nahariya
+10     yaniv green    2.06  forward       1980              csk vvs samara
+11      amit tamir    2.08   center       1979           cherkassy monkeys

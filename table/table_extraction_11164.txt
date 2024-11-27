@@ -1,0 +1,9 @@
+                   team      match     points       draw       lost
+0         start gniezno         10         14          0          3
+1       kolejarz rawicz         10         13          1          3
+2       tramwajarz łódź         10         10          0          5
+3  ostrovia ostrów wlkp         10         10          0          5
+4         skra warszawa         10          7          1          6
+5      stal gorzów wlkp         10          6          0          7
+6           cwk czeladź        dnq        dnq        dnq        dnq
+7          kks katowice  dissolved  dissolved  dissolved  dissolved

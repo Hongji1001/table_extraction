@@ -1,0 +1,19 @@
+                club                                 city              stadium  capacity                         201112 season
+0            aprilia                              aprilia         quinto ricci      2000   5th in lega pro seconda divisione b
+1           arzanese  arzano (playing in frattamaggiore )   pasquale ianniello      4000   9th in lega pro seconda divisione b
+2     aversanormanna                               aversa    augusto bisceglia      2555  11th in lega pro seconda divisione b
+3   borgo a buggiano                             buggiano    alberto benedetti      2000  10th in lega pro seconda divisione a
+4         campobasso                           campobasso            romagnoli      4000  13th in lega pro seconda divisione b
+5             chieti                               chieti       guido angelini     12750   4th in lega pro seconda divisione b
+6            foligno                              foligno         enzo blasone      5650    18th in lega pro prima divisione a
+7              fondi                                fondi  domenico purificato      2500  12th in lega pro seconda divisione b
+8          gavorrano                            gavorrano     romeo malservisi      2000   7th in lega pro seconda divisione b
+9       hinterreggio                      reggio calabria      oreste granillo     27543               1st in serie d girone i
+10          l'aquila                             l'aquila      tommaso fattori     10000   8th in lega pro seconda divisione b
+11    martina franca                       martina franca  gian domenico tursi      5000               1st in serie d girone h
+12             melfi                                melfi       arturo valerio      4100  16th in lega pro seconda divisione b
+13        poggibonsi                           poggibonsi        stefano lotti      2513   9th in lega pro seconda divisione a
+14         pontedera                            pontedera      ettore mannucci      5000               1st in serie d girone e
+15       salernitana                              salerno               arechi     37245  1st in serie d girone g (as salerno)
+16            teramo                               teramo             comunale      7498               1st in serie d girone f
+17      vigorlamezia                        lamezia terme     guido d'ippolito      4000   3rd in lega pro seconda divisione b

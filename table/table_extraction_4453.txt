@@ -1,0 +1,21 @@
+    round  overall           player          position       school / club team
+0       1       21    marvin upshaw     defensive end                  trinity
+1       2       47  john garlington        linebacker                      lsu
+2       3       64  harry olszewski             guard                  clemson
+3       3       66   reece morrison      running back              texas state
+4       4      104     wayne meylan        linebacker                 nebraska
+5       5      131       mike wempe            tackle                 missouri
+6       5      134   jackie jackson      running back                  clemson
+7       6      152       nate james    defensive back              florida a&m
+8       7      186       dale brady      running back                  memphis
+9       8      212       tom schoen    defensive back               notre dame
+10      9      238     david porter  defensive tackle                 michigan
+11     10      255      james greer     defensive end         stephen f austin
+12     10      267   alvin mitchell    defensive back             morgan state
+13     11      293       jim alcorn       quarterback                  clarion
+14     12      319      tom beutler        linebacker                   toledo
+15     13      348    terry sellers    defensive back                  georgia
+16     14      374     edgar whipps      running back            jackson state
+17     15      400       bob baxter           flanker                  memphis
+18     16      429     dick sievert     defensive end  wisconsin - river falls
+19     17      455   wayne mcduffie            center            florida state

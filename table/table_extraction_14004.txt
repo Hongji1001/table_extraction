@@ -1,0 +1,25 @@
+     res       record          opponent                         method                                           event  round  time                    location
+0    win  11 - 12 - 1       ryan jensen    submission (triangle choke)                                vfc 19 - inferno      1  3:10        iowa , united states
+1    win  11 - 11 - 1     gerald harris                      ko (slam)                              tfc 7 - red rumble      1  4:57      kansas , united states
+2    win  11 - 10 - 1      zelg galesic            submission (armbar)                                    cage rage 17      1  1:10            london , england
+3    win   11 - 9 - 1     jerry spiegel                  tko (punches)               ff 1 - fightforce : butte brawl 1      1  2:50     montana , united states
+4    win   10 - 9 - 1      jorge patino           decision (unanimous)                                    cage rage 16      3  5:00            london , england
+5    win   10 - 8 - 1    daijiro matsui            decision (majority)                                    cage rage 15      3  5:00            london , england
+6   loss   10 - 7 - 1    anderson silva                   ko (punches)                                    cage rage 14      1  4:59            london , england
+7    win   10 - 6 - 1  nilson de castro                  tko (punches)                    cage rage 12 - the real deal      1  0:15                     england
+8    win    9 - 6 - 1         mark weir                  tko (punches)                         cage rage 11 - face off      1  1:45                     england
+9    win    8 - 6 - 1       sol gilbert                     ko (punch)                      cage rage 10 - deliverance      2  0:20                     england
+10   win    7 - 6 - 1     rich franklin           submission (punches)                           sb 38 - superbrawl 38      2  1:28      hawaii , united states
+11   win    7 - 5 - 1     david loiseau           decision (unanimous)                                tko 17 - revenge      3  5:00             quebec , canada
+12   win    7 - 4 - 1   trevor prangley       submission (cobra choke)                                          ufc 48      2  1:05      nevada , united states
+13   win    7 - 3 - 1     mike rothmeir                     ko (punch)                        rsf - shooto challenge 2      1  1:02    illinois , united states
+14   win    6 - 3 - 1    danny anderson                  tko (punches)                                vfc 6 - overload      1  0:25        iowa , united states
+15   win    5 - 3 - 1      german reyes                tko (leg kicks)                                      hooknshoot      2  4:49     indiana , united states
+16   win    4 - 3 - 1       efrain ruiz          tko (corner stoppage)  hooknshoot - absolute fighting championships 3      1  5:00     florida , united states
+17  loss    3 - 3 - 1    andrei semenov  submission (rear naked choke)               m - 1 mfc - russia vs the world 4      1  2:57      st petersburg , russia
+18   win    3 - 2 - 1       john renken                 ko (head kick)                           hooknshoot - new wind      1  0:11     indiana , united states
+19   win    3 - 1 - 1   shiko yamashita           decision (unanimous)                            hooknshoot - kings 1      2  5:00     indiana , united states
+20   win    2 - 1 - 1   angelo popofski                   ko (punches)                            hooknshoot - masters      2  0:13     indiana , united states
+21  loss    1 - 1 - 1       phil baroni           decision (unanimous)                                          ufc 30      2  5:00  new jersey , united states
+22  draw    1 - 0 - 1      brian guidry                           draw                             hooknshoot - fusion      2  5:00     indiana , united states
+23   win        1 - 0   bradley burrick  submission (guillotine choke)                             hooknshoot - driven      1  3:27     indiana , united states

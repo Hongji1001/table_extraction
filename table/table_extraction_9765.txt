@@ -1,0 +1,6 @@
+               tournament                    2006                    2007               2008 - 12                    2013
+0  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments
+1         australian open                      1r                      2r                       a                      3r
+2             french open                       a                       a                       a                       a
+3               wimbledon                       a                      1r                       a                       a
+4                 us open                       a                       a                       a                       a

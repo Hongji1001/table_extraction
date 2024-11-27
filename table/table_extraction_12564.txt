@@ -1,0 +1,7 @@
+              athlete   event     100h   200 m    800 m  final  rank
+0     pramila gudanda  result    13.97   24.92  2:23.46   5771    27
+1     pramila gudanda  points   983.00  894.00      777   5771    27
+2        shobha javur  result    13.62   24.62  2:27.50   5749    29
+3        shobha javur  points  1033.00  922.00      725   5749    29
+4  susmita singha roy  result    14.11   24.34  2:21.14   5705    32
+5  susmita singha roy  points   963.00  948.00      808   5705    32

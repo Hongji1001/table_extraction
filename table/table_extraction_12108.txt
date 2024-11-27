@@ -1,0 +1,10 @@
+              week                  theme                     song choice      original artist      result
+0  top 24 (12 men)   contestant 's choice                      moon river        andy williams        safe
+1  top 20 (10 men)   contestant 's choice                what 's going on          marvin gaye        safe
+2   top 16 (8 men)   contestant 's choice          what a wonderful world      louis armstrong        safe
+3           top 12                  1960s           a house is not a home       dionne warwick        safe
+4           top 11  billboard number ones                    ain't nobody           chaka khan        safe
+5           top 10                  1990s             i believe i can fly              r kelly    bottom 2
+6            top 9       classic broadway       if ever i would leave you         from camelot        safe
+7            top 8  songs from birth year  i'll never love this way again       dionne warwick        safe
+8            top 7      1970s dance music                       september  earth , wind & fire  eliminated

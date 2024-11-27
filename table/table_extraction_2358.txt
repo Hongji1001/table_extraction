@@ -1,0 +1,10 @@
+   position     1990 - 1991     1991 - 1992     1992 - 1993     1993 - 1994    1994 - 1995
+0         1        mike ray    drew kachtik     cliff swain     cliff swain    cliff swain
+1         2       tim doyle    andy roberts    andy roberts       tim doyle   andy roberts
+2         3    andy roberts       tim doyle        mike ray    andy roberts      tim doyle
+3         4    dan obremski     mike yellen  ruben gonzalez    drew kachtik    mike guidry
+4         5    drew kachtik        mike ray    drew kachtik     mike guidry   drew kachtik
+5         6      egan inoue    dan obremski       tim doyle        mike ray       mike ray
+6         7  ruben gonzalez     jack newman    bret harnett  ruben gonzalez     aaron katz
+7         8     mike yellen  ruben gonzalez    dave johnson     jack newman  sudsy monchik
+8         9     marty hogan    dave johnson     jack newman      john ellis     john ellis

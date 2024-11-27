@@ -1,0 +1,18 @@
+    year                  award show              category     recipient (s)     result
+0   2000  national television awards  most popular actress  debra stephenson  nominated
+1   2000  national television awards    most popular drama             n / a        won
+2   2000             tv quick awards      best loved drama             n / a        won
+3   2001  national television awards  most popular actress  debra stephenson  nominated
+4   2001  national television awards    most popular drama             n / a        won
+5   2001             tv quick awards      best loved drama             n / a        won
+6   2001             tv quick awards          best actress  debra stephenson        won
+7   2002  national television awards    most popular drama             n / a  nominated
+8   2002             tv quick awards      best loved drama             n / a        won
+9   2002             tv quick awards          best actress       claire king        won
+10  2003  national television awards    most popular drama             n / a  nominated
+11  2003             tv quick awards      best loved drama             n / a        won
+12  2003             tv quick awards          best actress       claire king        won
+13  2004  national television awards    most popular drama             n / a  nominated
+14  2004             tv quick awards            best actor        jack ellis        won
+15  2005  national television awards    most popular drama             n / a  nominated
+16  2006  national television awards    most popular drama             n / a  nominated

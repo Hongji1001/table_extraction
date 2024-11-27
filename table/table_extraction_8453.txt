@@ -1,0 +1,25 @@
+                             name          circuit          date         winning driver winning constructor  report
+0                   pozzo circuit           verona      21 march    alessandro consonno             bugatti  report
+1                 rome grand prix     valle giulia      28 march             aymo maggi             bugatti  report
+2             provence grand prix          miramas      28 march          henry segrave              talbot  report
+3             alessandria circuit      alessandria       4 april      giovanni alloatti             bugatti  report
+4                    coppa florio          madonie      25 april        meo constantini             bugatti  report
+5                    targa florio          madonie      25 april        meo constantini             bugatti  report
+6                     coppa vinci          messina         2 may      renato balestrero                  om  report
+7              tripoli grand prix          tripoli         2 may     françois eysermann             bugatti  report
+8                   savio circuit          ravenna        23 may  gastone brilli - peri              ballot  report
+9                     perugia cup          perugia        30 may       emilio materassi               itala  report
+10                mugello circuit          mugello       27 june       emilio materassi               itala  report
+11               camaiore circuit         camaiore       18 july    baconin borzacchini             salmson  report
+12             spanish grand prix          lasarte       25 july        meo constantini             bugatti  report
+13         grand prix de la marne    reims - gueux       25 july        françois lescot             bugatti  report
+14        grand prix du comminges  saint - gaudens      1 august           louis chiron             bugatti  report
+15                   coppa acerbo          pescara      7 august         luigi spinozzi             bugatti  report
+16                coppa montenero        montenero     15 august       emilio materassi               itala  report
+17            boulogne grand prix         boulogne     28 august          george eyston             bugatti  report
+18            la baule grand prix         la baule     28 august           louis wagner              delage  report
+19               milan grand prix            monza  12 september        meo constantini             bugatti  report
+20                 solituderennen         solitude  12 september              otto merz            mercedes  report
+21  junior car club 200 mile race       brooklands  25 september          henry segrave              delage  report
+22            grand prix du salon        montlhéry    17 october            albert divo              talbot  report
+23                  garda circuit             salò    17 october             aymo maggi             bugatti  report

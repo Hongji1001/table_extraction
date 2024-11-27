@@ -1,0 +1,36 @@
+                player                date        original team           offer team       result
+0          gary nylund         august 1986  toronto maple leafs   chicago blackhawks     accepted
+1      geoff courtnall         august 1988      edmonton oilers     new york rangers      matched
+2        scott stevens      july 16 , 1990  washington capitals       st louis blues     accepted
+3       dave christian      july 21 , 1991        boston bruins       st louis blues      dropped
+4    glen featherstone      july 25 , 1991       st louis blues        boston bruins     accepted
+5      dave thomlinson      july 25 , 1991       st louis blues        boston bruins     accepted
+6     brendan shanahan      july 25 , 1991    new jersey devils       st louis blues     accepted
+7        michel goulet           july 1991   chicago blackhawks       st louis blues      matched
+8          adam graves       sept 3 , 1991      edmonton oilers     new york rangers     accepted
+9        kevin stevens      sept 25 , 1991  pittsburgh penguins        boston bruins      matched
+10         dave manson      june 26 , 1992      edmonton oilers  washington capitals      matched
+11       teemu selanne                1992        winnipeg jets       calgary flames      matched
+12       craig simpson      july 16 , 1993      edmonton oilers      san jose sharks  invalidated
+13        kelly miller      july 18 , 1993  washington capitals      san jose sharks      matched
+14      marty mcsorley       august , 1993    los angeles kings       st louis blues      matched
+15         petr nedved      march 4 , 1994    vancouver canucks       st louis blues     accepted
+16       scott stevens       july 4 , 1994    new jersey devils       st louis blues      matched
+17          mike craig      july 29 , 1994         dallas stars  toronto maple leafs     accepted
+18         steven rice    august 30 , 1994      edmonton oilers     hartford whalers     accepted
+19       shayne corson      july 28 , 1995      edmonton oilers       st louis blues     accepted
+20         stu grimson    august 17 , 1995    detroit red wings     new york rangers      matched
+21       keith tkachuk                1995        winnipeg jets   chicago blackhawks      matched
+22         ron tugnutt      july 10 , 1996  washington capitals      ottawa senators     accepted
+23           joe sakic                1997   colorado avalanche     new york rangers      matched
+24       chris gratton                1997  tampa bay lightning  philadelphia flyers     accepted
+25      mattias ohlund                1997    vancouver canucks  toronto maple leafs      matched
+26      sergei fedorov            feb 1998    detroit red wings  carolina hurricanes      matched
+27         ryan kesler      sept 12 , 2006    vancouver canucks  philadelphia flyers      matched
+28        thomas vanek       july 6 , 2007       buffalo sabres      edmonton oilers      matched
+29       dustin penner      july 26 , 2007        anaheim ducks      edmonton oilers     accepted
+30        david backes       july 1 , 2008       st louis blues    vancouver canucks      matched
+31       steve bernier       july 8 , 2008    vancouver canucks       st louis blues      matched
+32  niklas hjalmarsson       july 9 , 2010   chicago blackhawks      san jose sharks      matched
+33          shea weber      july 18 , 2012  nashville predators  philadelphia flyers      matched
+34      ryan o 'reilly  february 28 , 2013   colorado avalanche       calgary flames      matched

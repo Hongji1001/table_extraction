@@ -1,0 +1,15 @@
+         latitude       longitude          city             state        country
+0   79 degree59′n   85 degree56′w        eureka           nunavut         canada
+1   78 degree55′n   11 degree56′e  ny - ålesund          svalbard         norway
+2   78 degree13′n   15 degree39′e  longyearbyen          svalbard         norway
+3   77 degree28′n   69 degree14′w       qaanaaq         greenland        denmark
+4   76 degree25′n   82 degree54′w   grise fiord           nunavut         canada
+5   73 degree30'n   80 degree31'e        dikson  krasnoyarsk krai         russia
+6   72 degree47'n   56 degree09'w     upernavik         greenland        denmark
+7   71 degree39'n  128 degree52'e         tiksi    sakha republic         russia
+8   71 degree18′n  156 degree46′w        barrow            alaska  united states
+9   70 degree59'n   25 degree59'e   honningsvåg          finnmark         norway
+10  70 degree40′n   23 degree41′e    hammerfest          finnmark         norway
+11  70 degree12′n  148 degree31′w     deadhorse            alaska  united states
+12  70 degree05′n   27 degree53′e       nuorgam           lapland        finland
+13  70 degree05′n   29 degree44′e         vadsø          finnmark         norway

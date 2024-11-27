@@ -1,0 +1,35 @@
+                  rider manufacturer  laps        time  grid
+0          simone corsi      aprilia    23   41:46.100     5
+1         nicolas terol      aprilia    23     + 3.206     2
+2         bradley smith      aprilia    23     + 4.986     1
+3          stefan bradl      aprilia    23     + 5.022     3
+4           pablo nieto          ktm    23     + 6.254    13
+5          steve bonsey      aprilia    23    + 20.563     6
+6         scott redding      aprilia    23    + 22.517     8
+7    dominique aegerter        derbi    23    + 23.002    11
+8        mike di meglio        derbi    23    + 23.928     7
+9        sandro cortese      aprilia    23    + 33.541    15
+10     raffaele de rosa          ktm    23    + 33.664    10
+11         esteve rabat          ktm    23    + 33.987    16
+12     tomoyoshi koyama          ktm    23    + 34.426    21
+13  pol espargarã cubic        derbi    23    + 40.038    17
+14     takaaki nakagami      aprilia    23    + 44.515    19
+15     michael ranseder      aprilia    23    + 45.498    24
+16         jules cluzel       loncin    23    + 49.685    27
+17       andrea iannone      aprilia    23    + 53.186    20
+18        pere tutusaus      aprilia    23    + 58.037    25
+19  roberto lacalendola      aprilia    23  + 1:03.610    28
+20        alexis masbou       loncin    23  + 1:04.732    26
+21         ivan maestro        honda    23  + 1:19.599    34
+22          daniel saez      aprilia    23  + 1:24.990    32
+23          louis rossi        honda    23  + 1:48.192    33
+24      alberto moncayo        derbi    20    + 3 laps    35
+25            axel pons      aprilia    22    accident    23
+26      lorenzo zanetti          ktm    14    accident    31
+27    hugo van den berg      aprilia    12  retirement    30
+28           joan olive        derbi     9    accident    18
+29           danny webb      aprilia     8    accident     9
+30       stefano bianco      aprilia     7    accident    14
+31         sergio gadea      aprilia     6    accident    12
+32        efren vazquez      aprilia     6    accident    22
+33       gabor talmacsi      aprilia     3  retirement     4

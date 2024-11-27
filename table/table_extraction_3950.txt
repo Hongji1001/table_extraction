@@ -1,0 +1,24 @@
+                   country        alternante title          tv network (s)                    series premiere                      series finale
+0                   mexico   la fuerza del destino  canal de las estrellas                    march 14 , 2011                     july 31 , 2011
+1                 colombia   la fuerza del destino                  rcn tv                       may 2 , 2011                september 20 , 2011
+2                venezuela   la fuerza del destino              venevision                       may 5 , 2011                september 20 , 2011
+3                     peru   la fuerza del destino              américa tv                      may 23 , 2011                 november 11 , 2011
+4                      usa   la fuerza del destino               univision                    august 2 , 2011                 december 26 , 2011
+5                  albania           forca e fatit             vizion plus                   august 29 , 2011                   january 9 , 2012
+6                   poland  miłość i przeznaczenie                 tv puls                 september 5 , 2011                  february 7 , 2012
+7                   serbia            tajna ljubav      rtv pink pink soap  september 12 , 2011 july 3 , 2013  april 13 , 2012 october 12 , 2013
+8                    spain   la fuerza del destino                    la 1                september 21 , 2011                  january 25 , 2012
+9   bosnia and herzegovina            tajna ljubav                 pink bh                 november 22 , 2011                      may 16 , 2012
+10              montenegro            tajna ljubav                  pink m                 december 19 , 2011                       may 2 , 2012
+11               lithuania            likimo galia                     tv3                   january 4 , 2012                      may 31 , 2012
+12                 hungary        a végzet hatalma                  story4                   january 9 , 2012                      june 1 , 2012
+13                  panama   la fuerza del destino                canal 13                  january 16 , 2012                       may 7 , 2012
+14                   chile   la fuerza del destino                 mega tv                  january 31 , 2012                    april 19 , 2012
+15                 romania        forța destinului                acasă tv                    march 26 , 2012                      may 28 , 2012
+16                    iran    the power of destiny                  farsi1                    march 10 , 2012                     july 28 , 2012
+17                  israel            כוחו של גורל                    viva                    april 19 , 2012                september 21 , 2012
+18                 croatia             moć sudbine                     hrt                      june 5 , 2012                   october 9 , 2012
+19                slovenia               moč usode                  pop tv                     july 12 , 2012                 november 30 , 2012
+20               macedonia     силата на судбината                 pink 15                               2011                               2011
+21                 morocco      al maktoub المكتوب                  2 m tv                   august 14 , 2013                   january 2 , 2014
+22                  cyprus              η εκδίκηση                    ant1                  october 15 , 2013                                tba

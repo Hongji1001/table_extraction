@@ -1,0 +1,8 @@
+                     provider        years free or pay no of channels colour digital          transmission
+0  (unbranded vhf collection)  1936 - 1985        free              2     no      no  analogue terrestrial
+1    405 - line cable service  1938 - 1949     unknown              2     no      no        analogue cable
+2                      virgin  1984 - 2009         pay             35    yes      no        analogue cable
+3                         sky  1989 - 2001         pay        unknown    yes      no    analogue satellite
+4                         bsb  1990 - 1992         pay              5    yes      no    analogue satellite
+5     ondigital / itv digital  1998 - 2002         pay        unknown    yes     yes   digital terrestrial
+6                         kit  1999 - 2006         pay        unknown    yes     yes                  iptv

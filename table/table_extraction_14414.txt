@@ -1,0 +1,11 @@
+   pick            afl team         player          position         college
+0     1      miami dolphins  jim grabowski      running back        illinois
+1     2      miami dolphins    rick norton       quarterback        kentucky
+2     3     boston patriots    karl singer  offensive tackle          purdue
+3     4      denver broncos     jerry shay  offensive tackle          purdue
+4     5      houston oilers    tommy nobis        linebacker           texas
+5     6  kansas city chiefs    aaron brown               end       minnesota
+6     7  san diego chargers      don davis  offensive tackle  cal state - la
+7     8       buffalo bills    mike dennis      running back       ole 'miss
+8     9       new york jets    bill yearby  offensive tackle        michigan
+9    10     oakland raiders    rodger bird      running back        kentucky

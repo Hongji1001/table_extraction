@@ -1,0 +1,23 @@
+                 player    nationality          position years in orlando            school / club team
+0   tariq abdul - wahad         france           forward      1999 - 2000                san josé state
+1         arron afflalo  united states             guard   2012 - present                          ucla
+2            mark acres  united states            center      1989 - 1992                  oral roberts
+3        cory alexander  united states             guard      2000 - 2001                      virginia
+4           malik allen  united states           forward      2010 - 2011                     villanova
+5          rafer alston  united states             guard             2009                  fresno state
+6          john amaechi        england  forward - center      1999 - 2001                    penn state
+7         nick anderson  united states             guard      1989 - 1999                      illinois
+8         ryan anderson  united states  forward - center      2009 - 2012                    california
+9        michael ansley  united states           forward      1989 - 1991                       alabama
+10     robert archibald       scotland  forward - center             2003                      illinois
+11       gilbert arenas  united states             guard      2010 - 2011                       arizona
+12         trevor ariza  united states           forward      2006 - 2007                          ucla
+13        b j armstrong  united states             guard      1998 - 1999                          iowa
+14    darrell armstrong  united states             guard      1994 - 2003            fayetteville state
+15        carlos arroyo    puerto rico             guard      2006 - 2008         florida international
+16        chucky atkins  united states             guard      1999 - 2000                 south florida
+17        stacey augmon  united states           forward      2004 - 2006                          unlv
+18      james augustine  united states           forward      2006 - 2008                      illinois
+19         isaac austin  united states            center      1998 - 1999                 arizona state
+20        anthony avent  united states           forward      1993 - 1995                    seton hall
+21         gustavo ayon         mexico           forward      2012 - 2013  universidad popular autónoma

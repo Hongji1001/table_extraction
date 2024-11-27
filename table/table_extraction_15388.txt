@@ -1,0 +1,27 @@
+    number  time   aircraft       opponent             location
+0        1  1810   nieuport     pfalz diii             baussant
+1        2   805   nieuport     pfalz diii   pont - à - mousson
+2        3  1824   nieuport    albatros dv            ribécourt
+3        4   912   nieuport    albatros dv               flirey
+4        5   925   nieuport    albatros ci         bois de rate
+5        6   738   nieuport    albatros ci               jaulny
+6        7   815  spad xiii    fokker dvii              villecy
+7        8   810  spad xiii    fokker dvii     bois de warville
+8        9   840  spad xiii    fokker dvii                billy
+9       10   850  spad xiii  halberstadt c   foret de spincourt
+10      11   600  spad xiii    fokker dvii           damvillers
+11      12   500  spad xiii        balloon  sivry - sur - meuse
+12      13  1930  spad xiii        balloon              puzieux
+13      14  1730  spad xiii    hannover cl           montfaucon
+14      15  1740  spad xiii    fokker dvii             vilosnes
+15      16  1707  spad xiii        balloon            dannevoux
+16      17  1640  spad xiii    fokker dvii   cléry - le - grand
+17      18  1752  spad xiii    fokker dvii    dun - sur - meuse
+18      19  1552  spad xiii    fokker dvii   cléry - le - petit
+19      20  1552  spad xiii    fokker dvii   cléry - le - petit
+20      21  1555  spad xiii    fokker dvii   cléry - le - petit
+21      22  1655  spad xiii    fokker dvii   grande carne ferme
+22      23  1505  spad xiii    fokker dvii        bois de money
+23      24  1450  spad xiii    fokker dvii            grand pre
+24      25  1635  spad xiii        balloon             st juvin
+25      26  1040  spad xiii        balloon           remonville

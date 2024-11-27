@@ -1,0 +1,13 @@
+                                           company           type principal activities         incorporated in group 's equity shareholding (10 march 2010)
+0                                mandarin airlines     subsidiary              airline                  taiwan                                          93%
+1                            yangtze river express  joint venture        cargo airline                   china                                          25%
+2   taoyuan international airport services limited     subsidiary      ground handling                  taiwan                                          49%
+3          china pacific catering services limited     subsidiary    catering services                  taiwan                                          51%
+4                         hua hsia company limited     subsidiary              laundry                  taiwan                                         100%
+5           china pacific laundry services limited     subsidiary              laundry                  taiwan                                          55%
+6               taiwan air cargo terminals limited     subsidiary        cargo loading                  taiwan                                          54%
+7                       global sky express limited  joint venture        cargo loading                  taiwan                                          25%
+8                                         cal park     subsidiary         headquarters                  taiwan                                         100%
+9                                 dynasty holidays     subsidiary        travel agency                  taiwan                                          51%
+10                       cal - aisa investment inc     subsidiary      holding company  british virgin islands                                         100%
+11                 china aircraft services limited  joint venture  maintenance company               hong kong                                          20%

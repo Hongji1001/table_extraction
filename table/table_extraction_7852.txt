@@ -1,0 +1,6 @@
+  call sign  frequency mhz             city of license              erp w class fcc info
+0      wvtw           88.5  charlottesville , virginia               1000    b1      fcc
+1      wffc           89.9           ferrum , virginia               1100     a      fcc
+2      wqiq           88.3     spotsylvania , virginia               3500     a      fcc
+3      wriq           88.7        lexington , virginia               3900     a      fcc
+4      wwvt         1260.0   christiansburg , virginia  5000 day 25 night     d      fcc

@@ -1,0 +1,13 @@
+                             name         date defending forces brigade                     population
+0               'arab al - 'arida        n / a            n / a   n / a               330 inc 180 jews
+1               'arab al - bawati        n / a            n / a   n / a                            520
+2                       al - bira        n / a            n / a   n / a                            260
+3   al - hamra ('arab al - hamra)        n / a            n / a   n / a                            730
+4                          jabbul  7 june 1948            n / a   barak  420 inc 170 jews (beyt yosef)
+5                           kafra        n / a            n / a   n / a                            430
+6                  al - khunayzir        n / a            n / a   n / a                            260
+7                  masil al - jil        n / a            n / a   n / a                            100
+8                   al - murassas        n / a            n / a   n / a                            460
+9                 tall al - shawk        n / a            n / a   n / a                            120
+10                      umm 'ajra        n / a            n / a   n / a                            260
+11                          zab'a        n / a            n / a   n / a                            170

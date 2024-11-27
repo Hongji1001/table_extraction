@@ -1,0 +1,12 @@
+    no               player  height position  year born            current club
+0    4            pau gasol    2.13   center       1980       memphis grizzlies
+1    5       rudy fernández    1.96    guard       1985            dkv joventut
+2    6       carlos cabezas    1.86    guard       1980          unicaja málaga
+3    7  juan carlos navarro    1.92    guard       1980       memphis grizzlies
+4    8        josé calderón    1.91    guard       1981         toronto raptors
+5    9         felipe reyes    2.06   center       1980             real madrid
+6   10       carlos jiménez    2.05  forward       1976          unicaja málaga
+7   11     sergio rodríguez    1.91    guard       1986  portland trail blazers
+8   12      berni rodríguez    1.97    guard       1980          unicaja málaga
+9   13           marc gasol    2.16   center       1985         akasvayu girona
+10  14          àlex mumbrú    2.02  forward       1979             real madrid

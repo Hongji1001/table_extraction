@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0             mika häkkinen      mclaren - mercedes    69    1:41:35.727     2
+1      giancarlo fisichella     benetton - playlife    69        + 0.782     7
+2              eddie irvine                 ferrari    69        + 1.797     3
+3           ralf schumacher     williams - supertec    69        + 2.392    13
+4            johnny herbert          stewart - ford    69        + 2.805    10
+5               pedro diniz       sauber - petronas    69        + 3.711    18
+6           david coulthard      mclaren - mercedes    69        + 5.004     4
+7                 marc gené          minardi - ford    68        + 1 lap    22
+8             olivier panis         prost - peugeot    68        + 1 lap    15
+9               luca badoer          minardi - ford    67       + 2 laps    21
+10  heinz - harald frentzen  jordan - mugen - honda    65         brakes     6
+11       alessandro zanardi     williams - supertec    50         brakes    12
+12        toranosuke takagi                  arrows    41   transmission    19
+13       jacques villeneuve          bar - supertec    34       spun off    16
+14       michael schumacher                 ferrari    29       spun off     1
+15         pedro de la rosa                  arrows    22   transmission    20
+16               damon hill  jordan - mugen - honda    14       spun off    14
+17       rubens barrichello          stewart - ford    14       steering     5
+18            ricardo zonta          bar - supertec     2       spun off    17
+19               jean alesi       sauber - petronas     0      collision     8
+20             jarno trulli         prost - peugeot     0      collision     9
+21           alexander wurz     benetton - playlife     0   transmission    11

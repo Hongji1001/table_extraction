@@ -1,0 +1,13 @@
+                               player  no (s) height in ft          position years for rockets school / club team / country
+0         gaines , reece reece gaines       4        6 - 6             guard         2004 - 05                   louisville
+1           gambee , dave dave gambee      20        6 - 6           forward         1967 - 68                 oregon state
+2   garland , winston winston garland      22        6 - 2             guard         1992 - 93     southwest missouri state
+3     garrett , calvin calvin garrett       0        6 - 7           forward         1980 - 83   austin peay , oral roberts
+4             gibbs , dick dick gibbs      40        6 - 5           forward         1971 - 73              texas - el paso
+5         godfread , dan dan godfread      35        6 - 9  forward / center         1991 - 92                   evansville
+6     graham , stephen stephen graham       9        6 - 6   guard / forward              2005               oklahoma state
+7             gray , devin devin gray       9        6 - 6   guard / forward       1999 - 2000                      clemson
+8         green , gerald gerald green      25        6 - 8   guard / forward              2008     gulf shores academy (tx)
+9         green , johnny johnny green      24        6 - 5           forward         1967 - 68               michigan state
+10    griffin , adrian adrian griffin       7        6 - 5   guard / forward         2003 - 04                   seton hall
+11      griffin , eddie eddie griffin      33       6 - 10           forward         2001 - 03                   seton hall

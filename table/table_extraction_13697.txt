@@ -1,0 +1,13 @@
+                                show                              host (s)   flagship           market  iheartradio
+0                  armstrong & getty            jack armstrong , joe getty       kste       sacramento        n / a
+1               bob and the showgram                             bob dumas       wdcg          raleigh  listen live
+2              bronson and christine          bob bronson , christine nagy       wltw         new york        n / a
+3              the john and ken show        john kobylt , kenneth chiampou        kfi      los angeles        n / a
+4                   johnjay and rich           johnjay van es , rich berra       kzzp          phoenix  listen live
+5                mojo in the morning                   mojo (tom carballo)       wkqi          detroit  listen live
+6            murphy , sam , and jodi  bob murphy , sam north , jodi carson       krve      baton rouge        n / a
+7        the paul and young ron show          paul castronovo , ron brewer  wbgg - fm  fort lauderdale        n / a
+8             rover 's morning glory                  rover (shane french)       wmms        cleveland  listen live
+9      sean valentine in the morning                        sean valentine       kbig      los angeles        n / a
+10  the war room with quinn and rose        jim quinn , rose somma tennent       wpgb       pittsburgh        n / a
+11                   the travel show             don shafer , larry gelwix       knrs   salt lake city        n / a

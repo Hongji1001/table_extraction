@@ -1,0 +1,9 @@
+               name  overs bowled  maidens  runs conceded  wickets  extras    er
+0         brett lee          52.4        6            264       15      15  5.04
+1    nathan bracken          68.5        9            274       18       5  4.00
+2  mitchell johnson          61.0       12            210       11      13  3.44
+3      stuart clark          33.0        4            121        5       8  3.67
+4       james hopes          47.0        7            156        6       0  3.32
+5    michael clarke          13.0        0             67        0       3  5.15
+6    andrew symonds           5.5        0             32        0       1  5.82
+7     ashley noffke           9.0        0             46        1       0  5.11

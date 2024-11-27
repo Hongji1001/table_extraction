@@ -1,0 +1,9 @@
+                          institution         location  team nickname  joined tschl                      home arena  capacity       team website
+0                 university of akron       akron , oh           zips          2010       center ice sports complex       900        zips hockey
+1            university of cincinnati  cincinnati , oh       bearcats          2010              cincinnati gardens     10208  cincinnati hockey
+2                university of dayton      dayton , oh         flyers          2010            kettering rec center       700      dayton hockey
+3  indiana university of pennsylvania     indiana , pa  crimson hawks          2010                  s&t bank arena      1000         iup hockey
+4                     ohio university      athens , oh        bobcats          2011                      bird arena      2000        ohio hockey
+5                university of toledo      toledo , oh        rockets          2010           team toledo ice house      1100      toledo hockey
+6            university of pittsburgh  pittsburgh , pa       panthers          2010        bladerunners harmarville      1200        pitt hockey
+7            west virginia university  morgantown , wv   mountaineers          2010  morgantown municipal ice arena       500         wvu hockey

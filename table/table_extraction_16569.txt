@@ -1,0 +1,7 @@
+          opposing team  against            date                      venue         round
+0          ipswich town        0  05 / 01 / 2008     portman road , ipswich   third round
+1       plymouth argyle        1  26 / 01 / 2008  fratton park , portsmouth  fourth round
+2     preston north end        0  17 / 02 / 2008         deepdale , preston   fifth round
+3     manchester united        0  08 / 03 / 2008  old trafford , manchester   sixth round
+4  west bromwich albion        0  05 / 04 / 2008   wembley stadium , london  semi - final
+5          cardiff city        0  17 / 05 / 2008   wembley stadium , london         final

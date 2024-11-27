@@ -1,0 +1,19 @@
+               rider manufacturer  laps        time  grid
+0       casey stoner       ducati    27   40:56.643     1
+1    valentino rossi       yamaha    27     + 6.504    12
+2       nicky hayden        honda    27     + 7.205     3
+3      jorge lorenzo       yamaha    27    + 11.500     2
+4      shinya nakano        honda    27    + 11.914     9
+5     james toseland       yamaha    27    + 12.243     5
+6   andrea dovizioso        honda    27    + 12.780     8
+7      colin edwards       yamaha    27    + 25.920     7
+8    randy de puniet        honda    27    + 26.037     4
+9    loris capirossi       suzuki    27    + 26.799    11
+10        toni elias       ducati    27    + 27.027    13
+11      anthony west     kawasaki    27    + 47.808    18
+12      john hopkins     kawasaki    27    + 48.333    16
+13  sylvain guintoli       ducati    27    + 48.899    14
+14   chris vermeulen       suzuki    27    + 48.935    15
+15    marco melandri       ducati    27  + 1:11.767    17
+16   alex de angelis        honda     0    accident    10
+17      dani pedrosa        honda     0    accident     6

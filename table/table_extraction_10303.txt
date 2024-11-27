@@ -1,0 +1,11 @@
+               ntfa div 2  wins  byes  losses  draws  against
+0                evandale    17     0       1      0      982
+1                lilydale    14     0       4      0     1138
+2              old scotch    14     0       4      0     1130
+3           fingal valley    12     0       6      0     1237
+4             st patricks     9     0       9      0     1601
+5    university / mowbray     9     0       9      0     1624
+6      old launcestonians     7     0      11      0     1926
+7  south - prospect hawks     5     0      13      0     2285
+8              tamar cats     3     0      15      0     2422
+9                   perth     0     0      18      0     2865

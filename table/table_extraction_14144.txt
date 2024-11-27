@@ -1,0 +1,14 @@
+                              round                           team 1                              agg                           team 2                          1st leg                          2nd leg
+0           2008 uefa intertoto cup          2008 uefa intertoto cup          2008 uefa intertoto cup          2008 uefa intertoto cup          2008 uefa intertoto cup          2008 uefa intertoto cup
+1                       first round                         cracovia                            1 - 5              shakhtyor soligorsk                            1 - 2                            0 - 3
+2                      second round                       sturm graz                            2 - 0              shakhtyor soligorsk                            2 - 0                            0 - 0
+3                2008 - 09 uefa cup               2008 - 09 uefa cup               2008 - 09 uefa cup               2008 - 09 uefa cup               2008 - 09 uefa cup               2008 - 09 uefa cup
+4            first qualifying round                   legia warszawa                            4 - 1                            gomel                            0 - 0                            4 - 1
+5            first qualifying round                 mtz - ripo minsk                            2 - 3                           žilina                            2 - 2                            0 - 1
+6   2008 - 09 uefa champions league  2008 - 09 uefa champions league  2008 - 09 uefa champions league  2008 - 09 uefa champions league  2008 - 09 uefa champions league  2008 - 09 uefa champions league
+7            first qualifying round                     bate borisov                            3 - 0                            valur                            2 - 0                            1 - 0
+8           second qualifying round                       anderlecht                            3 - 4                     bate borisov                            1 - 2                            2 - 2
+9            thind qualifying round                     levski sofia                            1 - 2                     bate borisov                            0 - 1                            1 - 1
+10                      group stage                      real madrid                            3 - 0                     bate borisov                            2 - 0                            1 - 0
+11                      group stage                     bate borisov                            2 - 2                         juventus                            2 - 2                            0 - 0
+12                      group stage              zenit st petersburg                            3 - 1                     bate borisov                            1 - 1                            2 - 0

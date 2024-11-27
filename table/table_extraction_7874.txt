@@ -1,0 +1,14 @@
+    year                    competition                         venue position  performance
+0   1983            mediterranean games          casablanca , morocco      3rd    long jump
+1   1987     world indoor championships  indianapolis , united states      8th    long jump
+2   1987  european indoor championships               liãvin , france      6th    long jump
+3   1987            mediterranean games               latakia , syria      1st    long jump
+4   1988  european indoor championships            budapest , hungary      4th    long jump
+5   1989     world indoor championships            budapest , hungary      5th    long jump
+6   1989  european indoor championships       the hague , netherlands      4th    long jump
+7   1992  european indoor championships                 genoa , italy      7th    long jump
+8   1992  european indoor championships                 genoa , italy      9th  triple jump
+9   1993     world indoor championships              toronto , canada     10th    long jump
+10  1993     world indoor championships              toronto , canada      4th  triple jump
+11  1993            world championships           stuttgart , germany      6th  triple jump
+12  1997            mediterranean games                  bari , italy      3rd  triple jump

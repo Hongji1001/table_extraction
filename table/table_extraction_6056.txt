@@ -1,0 +1,25 @@
+    stage               winner general classification points classification trofeo fast team
+0       p        renault - elf        bernard hinault           not awarded    renault - elf
+1       1     giuseppe saronni         patrick bonnet      giuseppe saronni    renault - elf
+2       2       michael wilson         laurent fignon      giuseppe saronni    renault - elf
+3       3      bernard hinault        bernard hinault      giuseppe saronni          bianchi
+4       4          urs freuler        bernard hinault      giuseppe saronni          bianchi
+5       5          urs freuler        bernard hinault           urs freuler          bianchi
+6       6      silvano contini        bernard hinault      giuseppe saronni          bianchi
+7       7      francesco moser        francesco moser       francesco moser          bianchi
+8       8      moreno argentin        francesco moser       francesco moser          bianchi
+9       9     giuseppe saronni        francesco moser      giuseppe saronni          bianchi
+10     10          urs freuler        francesco moser       francesco moser          bianchi
+11     11       bernard becaas        francesco moser       francesco moser          bianchi
+12     12      bernard hinault        bernard hinault       francesco moser          bianchi
+13     13      silvano contini        bernard hinault       francesco moser          bianchi
+14     14       guido bontempi        bernard hinault       francesco moser          bianchi
+15     15     silvestro milani        bernard hinault       francesco moser          bianchi
+16     16        vicente belda        bernard hinault       francesco moser          bianchi
+17     17      silvano contini        silvano contini       francesco moser          bianchi
+18     18      bernard hinault        bernard hinault       francesco moser          bianchi
+19     19  robert dill - bundi        bernard hinault       francesco moser          bianchi
+20     20      francesco moser        bernard hinault       francesco moser          bianchi
+21     21     giuseppe saronni        bernard hinault       francesco moser          bianchi
+22     22      bernard hinault        bernard hinault       francesco moser          bianchi
+23  final                final        bernard hinault       francesco moser          bianchi

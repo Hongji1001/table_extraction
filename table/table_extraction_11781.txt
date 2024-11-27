@@ -1,0 +1,8 @@
+   year                   venue             winner        country        score
+0  1974  kings norton golf club         neil coles        england   283 ( - 5)
+1  1973  kings norton golf club      charles coody  united states   281 ( - 7)
+2  1972      dalmahoy golf club      peter thomson      australia  270 ( - 14)
+3  1971      dalmahoy golf club       bernard hunt        england   276 ( - 8)
+4  1970      dalmahoy golf club       tony jacklin        england  267 ( - 17)
+5  1969     moor park golf club  bernard gallacher       scotland          275
+6  1968        pannal golf club       peter butler        england          281

@@ -1,0 +1,20 @@
+    draw    language                                 song           english translation  place  points
+0      1     english         wait until the weekend comes                             -      6      91
+1      2     finnish                        eläköön elämä                long live life      9      58
+2      3       greek  to katalava arga (το κατάλαβα αργά)        i realised it too late     16      15
+3      4      danish             sku' du spørg' fra no'en  what business is it of yours     11      41
+4      5     spanish                    la fiesta terminó             the party 's over     14      36
+5      6      french           femme dans ses rêves aussi       woman in her dreams too     10      56
+6      7     turkish                      didai didai dai                             -     14      36
+7      8       dutch                      laat me nu gaan                 let me go now     19       7
+8      9  portuguese                 penso em ti , eu sei      thinking of you , i know     18       9
+9     10      german                             für alle                  for everyone      2     105
+10    11      hebrew              olé , olé (עולה , עולה)               going up and up      5      93
+11    12     italian                       magic oh magic                             -      7      78
+12    13   norwegian                        la det swinge                  let it swing      1     123
+13    14     english                              love is                             -      4     100
+14    15      german                        piano , piano               slowly , slowly     12      39
+15    16     swedish                      bra vibrationer               good vibrations      3     103
+16    17      german                   kinder dieser welt        children of this world      8      60
+17    18      french          children , kinder , enfants                      children     13      37
+18    19       greek                 miazoume (μοιάζουμε)                  we are alike     16      15

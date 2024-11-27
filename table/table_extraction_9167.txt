@@ -1,0 +1,10 @@
+      season              player          position    nationality                                        team
+0  2003 - 04   dondrell whitmore   guard / forward            usa                                     snæfell
+1  2004 - 05  fridrik stefansson  forward / center        iceland                                    njarðvík
+2  2005 - 06      steinar kaldal   guard / forward        iceland                                          kr
+3  2006 - 07       justin shouse             guard            usa                                     snæfell
+4  2007 - 08          nate brown             guard            usa                                          ír
+5  2008 - 09  brenton birmingham             guard  usa / iceland                                   grindavík
+6  2009 - 10  hlynur baeringsson           forward        iceland                                     snæfell
+7  2010 - 11       kelly biedler           forward            usa                                          ír
+8  2011 - 12     junior hairston           forward            usa  thor thorl ( icelandic : þór þorlákshöfn )

@@ -1,0 +1,13 @@
+                player  no    nationality          position years in toronto    school / club team
+0        josé calderón   8          spain             guard      2005 - 2013  tau cerámica (spain)
+1         marcus camby  21  united states            center        1996 - 98         massachusetts
+2       anthony carter  25  united states             guard        2011 - 12                hawaii
+3         vince carter  15  united states   guard - forward      1998 - 2004        north carolina
+4         chris childs   1  united states             guard        2001 - 02           boise state
+5        doug christie  13  united states           forward      1996 - 2000            pepperdine
+6           keon clark   7  united states  forward - center        2001 - 02                  unlv
+7            omar cook   1  united states             guard        2005 - 06            st john 's
+8        tyrone corbin  23  united states   guard - forward        2000 - 01                depaul
+9   william cunningham  54  united states            center             1999                temple
+10        earl cureton  35  united states           forward        1996 - 97               detroit
+11          dell curry  30  united states             guard      1999 - 2002         virginia tech

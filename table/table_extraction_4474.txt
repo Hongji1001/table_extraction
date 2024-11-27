@@ -1,0 +1,32 @@
+                   name                     team  laps  grid  points
+0        lee holdsworth  garry rogers motorsport    46     4      24
+1          garth tander     toll hsv dealer team    46    19      20
+2        russell ingall    stone brothers racing    46     9      17
+3         jamie whincup             teamvodafone    46    30      15
+4       steven richards  ford performance racing    46     6      13
+5        jason richards        tasman motorsport    46     5      12
+6          andrew jones                 team boc    46    17      11
+7            steve owen          autobarn racing    46    21      10
+8            max wilson               wps racing    46    11       9
+9         paul dumbrell   supercheap auto racing    46    25       8
+10           todd kelly       holden racing team    46     2       6
+11       steven johnson          jim beam racing    46    12       5
+12      jason bargwanna               wps racing    45    27       4
+13        craig lowndes             teamvodafone    45     1       3
+14           rick kelly     toll hsv dealer team    45    15       2
+15         will davison          jim beam racing    45     8       0
+16          simon wills                 team boc    45    10       0
+17         jack perkins    jack daniel 's racing    45    26       0
+18            john bowe  paul cruickshank racing    45    24       0
+19          shane price    jack daniel 's racing    45    18       0
+20          paul morris      team sirromet wines    45    29       0
+21          greg murphy        tasman motorsport    45    31       0
+22  shane van gisbergen         team kiwi racing    45    13       0
+23    mark winterbottom  ford performance racing    43     3       0
+24   cameron mcconville   supercheap auto racing    43    22       0
+25     fabian coulthard      team sirromet wines    34    14       0
+26          mark skaife       holden racing team    31    20       0
+27            alan gurr        britek motorsport    29    28       0
+28           dean canto  garry rogers motorsport    27    23       0
+29         jason bright         britek motosport    22    16       0
+30       james courtney    stone brothers racing    17     7       0

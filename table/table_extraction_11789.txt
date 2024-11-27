@@ -1,0 +1,10 @@
+   game  december             opponent     score     record
+0     6         4      detroit cougars     1 - 0  4 - 2 - 0
+1     7         7        boston bruins     1 - 0  5 - 2 - 0
+2     8        12        boston bruins  2 - 1 ot  6 - 2 - 0
+3     9        15  chicago black hawks     6 - 2  6 - 3 - 0
+4    10        19      detroit cougars  1 - 1 ot  6 - 3 - 1
+5    11        21   pittsburgh pirates     1 - 0  7 - 3 - 1
+6    12        23      ottawa senators     1 - 0  7 - 4 - 1
+7    13        26   new york americans     5 - 2  7 - 5 - 1
+8    14        28      ottawa senators  3 - 2 ot  7 - 6 - 1

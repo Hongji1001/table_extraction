@@ -1,0 +1,20 @@
+                driver                       team  laps time / retired  grid  points
+0   sébastien bourdais       newman / haas racing    57    1:39:26.671     2      34
+1     a j allmendinger                    rusport    57   + 9.130 secs     6      27
+2         jimmy vasser                 pkv racing    57  + 31.852 secs     8      25
+3        alex tagliani             team australia    57  + 36.420 secs     9      23
+4         oriol servià       newman / haas racing    57  + 43.968 secs     1      22
+5           timo glock        rocketsports racing    57  + 45.616 secs    10      19
+6        justin wilson                    rusport    57  + 59.630 secs     7      17
+7        ronnie bremer          dale coyne racing    57  + 65.852 secs    15      15
+8    ricardo sperafico          dale coyne racing    57  + 76.292 secs    18      14
+9        andrew ranger  mi - jack conquest racing    57  + 93.488 secs    17      11
+10     marcus marshall             team australia    56        + 1 lap    13      10
+11    michael mcdowell        rocketsports racing    56        + 1 lap    16       9
+12       rodolfo lavín           cte racing - hvm    53       + 4 laps    12       8
+13     nelson philippe  mi - jack conquest racing    47     off course    14       7
+14          will power             team australia    29        contact    11       6
+15  fabrizio del monte           cte racing - hvm    28        contact    19       5
+16          paul tracy            forsythe racing    24        gearbox     5       5
+17     mario domínguez            forsythe racing     1        contact     3       3
+18  cristiano da matta                 pkv racing     0        contact     4       2

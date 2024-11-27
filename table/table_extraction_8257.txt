@@ -1,0 +1,10 @@
+   season                  host winners          score        runners - up            third place
+0    2000                brazil   0 - 0  vasco da gama              necaxa            real madrid
+1    2005                 japan   1 - 0      liverpool            saprissa                ittihad
+2    2006                 japan   1 - 0      barcelona             al ahly                américa
+3    2007                 japan   4 - 2   boca juniors  urawa red diamonds        étoile du sahel
+4    2008                 japan   1 - 0      ldu quito         gamba osaka                pachuca
+5    2009  united arab emirates   2 - 1    estudiantes     pohang steelers                atlante
+6    2010  united arab emirates   3 - 0        mazembe       internacional  seongnam ilhwa chunma
+7    2011                 japan   4 - 0         santos             al sadd         kashiwa reysol
+8    2012                 japan   1 - 0        chelsea           monterrey                al ahly

@@ -1,0 +1,7 @@
+  result record           opponent    method                       event  round                  location
+0    win  6 - 0   phillip hellesoe       tko  sky city convention centre      2    auckland , new zealand
+1    win  5 - 0  jeremiah constant       tko               caesars tahoe      1  stateline , nevada , usa
+2    win  4 - 0    james auimatagi       tko                 aba stadium      2  kohimarama , new zealand
+3    win  3 - 0     richard tutaki        ko                 asb stadium      2    auckland , new zealand
+4    win  2 - 0          bob gasio       tko                 aba stadium      3    auckland , new zealand
+5    win  1 - 0    toa naketoatama  decision                 aba stadium      4  kohimarama , new zealand

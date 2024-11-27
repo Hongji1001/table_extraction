@@ -1,0 +1,15 @@
+          camera    filter         wavelength total exposure time  exposures
+0          wfpc2     f300w   300nm (u - band)             140400s        106
+1          wfpc2     f450w   450nm (b - band)             103500s         67
+2          wfpc2     f606w   606nm (v - band)              99300s         53
+3          wfpc2     f814w   814nm (i - band)             113900s         57
+4    nicmos nic3     f110w   110nm (j - band)             162600s        142
+5    nicmos nic3     f160w   160nm (h - band)             171200s        150
+6    nicmos nic3    f222 m  222 mm (k - band)             105000s        102
+7           stis     50ccd        350 - 950nm             155600s         67
+8           stis  f28x50lp        550 - 960nm              49800s         64
+9           stis    mirfuv        150 - 170nm              52100s         25
+10          stis    mirnuv        160 - 320nm              22600s         12
+11  spectroscopy    g430 m    302.2 - 356.6nm              57100s         61
+12  spectroscopy     g140l        115 - 173nm              18500s          8
+13  spectroscopy    e230 m      227.8 - 312nm             151100s         69

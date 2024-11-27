@@ -1,0 +1,45 @@
+    year                  venue           city       state              host
+0   1971    hollywood palladium    los angeles  california     andy williams
+1   1972             felt forum  new york city    new york     andy williams
+2   1973      tennessee theatre      nashville   tennessee     andy williams
+3   1974    hollywood palladium    los angeles  california     andy williams
+4   1975           uris theater  new york city    new york     andy williams
+5   1976    hollywood palladium    los angeles  california     andy williams
+6   1977    hollywood palladium    los angeles  california     andy williams
+7   1978      shrine auditorium    los angeles  california       john denver
+8   1979      shrine auditorium    los angeles  california       john denver
+9   1980      shrine auditorium    los angeles  california      kenny rogers
+10  1981  radio city music hall  new york city    new york        paul simon
+11  1982      shrine auditorium    los angeles  california       john denver
+12  1983      shrine auditorium    los angeles  california       john denver
+13  1984      shrine auditorium    los angeles  california       john denver
+14  1985      shrine auditorium    los angeles  california       john denver
+15  1986      shrine auditorium    los angeles  california      kenny rogers
+16  1987      shrine auditorium    los angeles  california     billy crystal
+17  1988  radio city music hall  new york city    new york     billy crystal
+18  1989      shrine auditorium    los angeles  california     billy crystal
+19  1990      shrine auditorium    los angeles  california   garry shandling
+20  1991  radio city music hall  new york city    new york   garry shandling
+21  1992      shrine auditorium    los angeles  california  whoopie goldberg
+22  1993      shrine auditorium    los angeles  california   garry shandling
+23  1994  radio city music hall  new york city    new york   garry shandling
+24  1995      shrine auditorium    los angeles  california       paul reiser
+25  1996      shrine auditorium    los angeles  california   ellen degeneres
+26  1997  madison square garden  new york city    new york   ellen degeneres
+27  1998  radio city music hall  new york city    new york    kelsey grammer
+28  1999      shrine auditorium    los angeles  california   rosie o'donnell
+29  2000         staples center    los angeles  california   rosie o'donnell
+30  2001         staples center    los angeles  california       jon stewart
+31  2002         staples center    los angeles  california       jon stewart
+32  2003  madison square garden  new york city    new york              none
+33  2004         staples center    los angeles  california              none
+34  2005         staples center    los angeles  california     queen latifah
+35  2006         staples center    los angeles  california              none
+36  2007         staples center    los angeles  california              none
+37  2008         staples center    los angeles  california              none
+38  2009         staples center    los angeles  california              none
+39  2010         staples center    los angeles  california              none
+40  2011         staples center    los angeles  california              none
+41  2012         staples center    los angeles  california         ll cool j
+42  2013         staples center    los angeles  california         ll cool j
+43  2014         staples center    los angeles  california               tbd

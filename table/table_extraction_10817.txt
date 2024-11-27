@@ -1,0 +1,12 @@
+    round  pick  overall              name          position            college
+0       1    16       16        mike pitts     defensive end            alabama
+1       2    15       43       james britt    defensive back                lsu
+2       3    19       75   andrew provence  defensive tackle     south carolina
+3       4    18      102       john harper        linebacker  southern illinois
+4       5    17      129      brett miller  offensive tackle               iowa
+5       6    16      156     anthony allen     wide receiver         washington
+6       7    15      183         jeff turk    defensive back        boise state
+7       8    19      215         john rade        linebacker        boise state
+8      10    17      268  ralph giacomarro            punter         penn state
+9      11    16      295       john salley    defensive back            wyoming
+10     12    15      322   allama matthews         tight end         vanderbilt

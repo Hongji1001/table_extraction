@@ -1,0 +1,11 @@
+   rank         common of  population  area (km 2 )  density (inhabitants / km 2 )  altitude (mslm)
+0   1st            torino      907563         130.7                         6943.9              239
+1   2nd        moncalieri       58320          47.3                         1233.0              260
+2   3rd          collegno       50137          18.0                         2785.4              302
+3   4th            rivoli       49591          29.2                         1698.3              352
+4   5th         nichelino       48946          20.4                         2399.3              229
+5   6th  settimo torinese       47988          32.7                         1467.5              207
+6   7th        grugliasco       37870          13.0                         2913.1              293
+7   8th            chieri       36168          50.0                          723.4              376
+8   9th          pinerolo       36158          54.0                          667.0              305
+9  10th     venaria reale       34859          20.0                         1743.0              262

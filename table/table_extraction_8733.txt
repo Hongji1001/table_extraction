@@ -1,0 +1,8 @@
+                    riding     candidate 's name gender   residence      occupation  votes rank
+0        calgary southwest         larry heather      m     calgary  audio producer    256  6th
+1  fort mcmurray-athabasca      jacob strydhorst      m  neerlandia          farmer    186  7th
+2               lethbridge         geoffrey capp      m  lethbridge  security guard   1094  5th
+3                  macleod      marc slingerland      m  lethbridge         teacher    422  5th
+4             medicine hat     frans vandestroet      m     enchant    farm realtor    363  7th
+5         westlock-st paul        sippe hofstede      m    westlock       draftsman    510  5th
+6               yellowhead  john marvin wierenga      m  neerlandia          welder    606  5th

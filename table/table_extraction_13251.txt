@@ -1,0 +1,19 @@
+    round  pick  overall              name position            college
+0       1     1        1       ernie davis       rb           syracuse
+1       2     1       15     joe hernandez       wr            arizona
+2       3     1       29      bob mitinger       lb         penn state
+3       4     1       43   billy neighbors        g            alabama
+4       7     1       85         bert coan       hb             kansas
+5       8     1       99       ron hatcher       fb     michigan state
+6       9     1      113         dave viti        e  boston university
+7      10     1      127    john childress        g           arkansas
+8      11     1      141      carl palazzo       ot        adams state
+9      12     1      155  terry terrebonne       hb             tulane
+10     13     1      169      bill whisler        e               iowa
+11     14     1      183        jim costen       hb     south carolina
+12     15     1      197         len velia       ot            georgia
+13     16     1      211     tommy brooker        e            alabama
+14     17     1      225      allen miller       lb               ohio
+15     18     1      239       carl charon       db     michigan state
+16     19     1      253      claude crabb       db           colorado
+17     20     1      267     ed trancygier       qb      florida state

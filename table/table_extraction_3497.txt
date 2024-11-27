@@ -1,0 +1,9 @@
+                    team   outgoing manager manner of departure    date of vacancy         table incoming manager date of appointment
+0          tatran prešov     roman pivarník              sacked     22 august 2010  pre - season   ladislav pecko      23 august 2010
+1             mfk košice     žarko djurović    mutual agreement  28 september 2010  pre - season  štefan tarkovič   28 september 2010
+2         mfk ružomberok  ladislav jurkemik    mutual agreement    10 october 2010  pre - season  goran milojević    11 octobert 2010
+3      slovan bratislava      jozef jankech    mutual agreement    13 october 2010  pre - season    karel jarolím    13 octobert 2010
+4  dukla banská bystrica        karol marko    mutual agreement    30 october 2010  pre - season     štefan zaťko     8 november 2010
+5               fc nitra         ivan galád              sacked   24 november 2010  pre - season      ivan vrabec    21 december 2010
+6               fc nitra        ivan vrabec              sacked      13 march 2011  pre - season   cyril stachura       14 march 2011
+7         spartak trnava     dušan radolský              sacked      19 march 2011  pre - season   peter zelenský       22 march 2011

@@ -1,0 +1,10 @@
+        season                  league                                   teams   home   away
+0    1996 - 97  regionalliga süd (iii)  1. fc nuremberg - spvgg greuther fürth  1 - 0  1 - 3
+1    1996 - 97             dfb - pokal  spvgg greuther fürth - 1. fc nuremberg  2 - 1  2 - 1
+2    1997 - 98     2nd bundesliga (ii)  1. fc nuremberg - spvgg greuther fürth  0 - 1  1 - 0
+3  1999 - 2000          2nd bundesliga  1. fc nuremberg - spvgg greuther fürth  2 - 2  1 - 1
+4    2000 - 01          2nd bundesliga  1. fc nuremberg - spvgg greuther fürth  0 - 1  1 - 1
+5    2003 - 04          2nd bundesliga  1. fc nuremberg - spvgg greuther fürth  1 - 1  2 - 2
+6    2008 - 09          2nd bundesliga  1. fc nuremberg - spvgg greuther fürth  2 - 1  1 - 1
+7    2011 - 12             dfb - pokal  1. fc nuremberg - spvgg greuther fürth  0 - 1  0 - 1
+8    2012 - 13              bundesliga  1. fc nuremberg - spvgg greuther fürth  0 - 1  0 - 0

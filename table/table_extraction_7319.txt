@@ -1,0 +1,16 @@
+                  name       service                 rank           place of action           unit
+0         john andrews          navy      ordinary seaman     aboard the ussbenicia     ussbenicia
+1        charles brown  marine corps             corporal    aboard the usscolorado    usscolorado
+2         john coleman  marine corps              private    aboard the usscolorado    usscolorado
+3      james dougherty  marine corps              private  aboard the usscarondelet  usscarondelet
+4   frederick franklin          navy        quartermaster    aboard the usscolorado    usscolorado
+5      patrick h grace          navy  chief quartermaster     aboard the ussbenicia     ussbenicia
+6         cyrus hayden          navy            carpenter    aboard the usscolorado    usscolorado
+7      william f lukes          navy             landsman            ganghwa island    usscolorado
+8   alexander mckenzie          navy    boatswain 's mate    aboard the usscolorado    usscolorado
+9     michael mcnamara  marine corps              private     aboard the ussbenicia     ussbenicia
+10      james f merton          navy             landsman            ganghwa island    usscolorado
+11       michael owens  marine corps              private    aboard the usscolorado    usscolorado
+12         hugh purvis  marine corps              private      aboard the ussalaska      ussalaska
+13     samuel f rogers          navy        quartermaster    aboard the usscolorado    usscolorado
+14        william troy          navy      ordinary seaman    aboard the usscolorado    usscolorado

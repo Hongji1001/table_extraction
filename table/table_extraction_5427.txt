@@ -1,0 +1,6 @@
+      region  date        label         format     catalog
+0  worldwide  1981  warner bros             lp        3645
+1  worldwide  1981         sire  cassette tape  m5s - 3645
+2  worldwide  1987    luaka bop             cd        3645
+3  worldwide  1990  warner bros  cassette tape        3645
+4  worldwide  1990  warner bros             cd        3645

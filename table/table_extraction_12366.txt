@@ -1,0 +1,9 @@
+   pick      cfl team              player position            college
+0    21      hamilton      tarek jayoussi       wr            calgary
+1    22      winnipeg  garrett sutherland       lb  northern illinois
+2    23      winnipeg     jean daniel roy       dl             ottawa
+3    24       calgary     aubrey cummings       wr             acadia
+4    25      edmonton       chris evraire       sb             ottawa
+5    26      winnipeg      eddie williams       wr    southwest state
+6    27  saskatchewan      jason van geel       lb           waterloo
+7    28       toronto       brian mlachak        k            calgary

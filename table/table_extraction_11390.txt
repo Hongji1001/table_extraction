@@ -1,0 +1,13 @@
+    year                       award                                category                  recipient     result
+0   2010     green globe film awards  outstanding actors asians in hollywood                brenda song  nominated
+1   2010    2010 kids' choice awards                        favorite tv show     the suite life on deck  nominated
+2   2010    2010 kids' choice awards                       favorite tv actor               cole sprouse  nominated
+3   2010    2010 kids' choice awards                       favorite tv actor              dylan sprouse        won
+4   2010    hollywood teen tv awards                 teen pick show : comedy     the suite life on deck  nominated
+5   2010    hollywood teen tv awards              teen pick actress : comedy                 debby ryan  nominated
+6   2010    hollywood teen tv awards                teen pick actor : comedy              dylan sprouse  nominated
+7   2011    2011 kids' choice awards                        favorite tv show     the suite life on deck  nominated
+8   2011    2011 kids' choice awards                       favorite tv actor               cole sprouse  nominated
+9   2011    2011 kids' choice awards                       favorite tv actor              dylan sprouse        won
+10  2011    2011 kids' choice awards                    favorite tv sidekick                brenda song  nominated
+11  2011  casting society of america         best casting children 's series  dana gergely brandi brice        won

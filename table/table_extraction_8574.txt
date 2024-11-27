@@ -1,0 +1,33 @@
+       res      record             opponent                 method                                          event  round  time                     location
+0     loss  19 - 9 - 4       naoyuki kotani    submission (armbar)                   pancrase - impressive tour 9      1  1:44                tokyo , japan
+1     loss  19 - 8 - 4         kota okazawa             ko (punch)                   pancrase - impressive tour 4      1  2:42                tokyo , japan
+2      win  19 - 7 - 4     katsuhiko nagata   decision (unanimous)                            gcm - cage force 17      3  5:00                tokyo , japan
+3     loss  18 - 7 - 4        maximo blanco          tko (strikes)                                       pancrase      2  4:38                        japan
+4     draw  18 - 6 - 4        mizuto hirota                   draw                            gcm - cage force ex      3  5:00              saitama , japan
+5      win  17 - 6 - 3           koji oishi   decision (unanimous)                     pancrase - changing tour 1      3  5:00                tokyo , japan
+6      win  18 - 6 - 3     daisuke hanazawa   decision (unanimous)                          pancrase - shining 10      3  5:00                tokyo , japan
+7     loss  16 - 6 - 3            nick diaz  tko (corner stoppage)                                         dream3      1  6:45              saitama , japan
+8     draw  16 - 5 - 3      djamal kurbanov                   draw                           pancrase - shining 3      3  5:00                tokyo , japan
+9      win  16 - 5 - 2       satoru kitaoka       decision (split)                           pancrase - shining 1      3  5:00                tokyo , japan
+10    draw  15 - 5 - 2     shigetoshi iwase                   draw                 kingdom of grapple - live 2007      3  5:00                tokyo , japan
+11     win  15 - 5 - 1  fabricio nascimento          tko (punches)  pancrase - 2007 neo - blood tournament finals      2  2:33                tokyo , japan
+12     win  14 - 5 - 1           koji oishi           ko (punches)                            pancrase - rising 5      2  2:45                tokyo , japan
+13  x loss  13 - 5 - 1    yoshiyuki yoshida             ko (punch)                             gcm - cage force 2      1  1:45                tokyo , japan
+14     win  13 - 4 - 1       takefume hanai          tko (punches)                             gcm - cage force 1      2  3:29                tokyo , japan
+15  x loss  12 - 4 - 1         daizo ishige   decision (unanimous)                              pancrase - blow 6      3  5:00             yokohama , japan
+16     win  12 - 3 - 1         kim haeng ki          tko (punches)                          mars world grand prix      3  4:20                chiba , japan
+17    draw  11 - 3 - 1       satoru kitaoka                   draw                              pancrase - blow 1      3  5:00                tokyo , japan
+18     win      11 - 3     daisuke hanazawa    decision (majority)                                    gcm - dog 4      3  5:00                tokyo , japan
+19  x loss      10 - 3        akira kikuchi          tko (punches)                                      hero 's 2      1  1:41                tokyo , japan
+20     win      10 - 2           kenji arai             ko (punch)                            pancrase - spiral 4      2  4:30  kanagawa prefecture , japan
+21     win       9 - 2           heath sims          tko (punches)                            pancrase - spiral 1      1  4:40                tokyo , japan
+22     win       8 - 2            kyle noke       decision (split)                               warriors realm 2      3  5:00                    australia
+23     win       7 - 2       satoru kitaoka   decision (unanimous)                            pancrase - brave 10      3  5:00                chiba , japan
+24     win       6 - 2          takuya wada   decision (unanimous)                             pancrase - brave 8      3  5:00                tokyo , japan
+25     win       5 - 2          hikaru sato          tko (punches)                             pancrase - brave 6      1  3:53                tokyo , japan
+26     win       4 - 2         ichiro kanai    decision (majority)                             pancrase - brave 4      2  5:00                tokyo , japan
+27  x loss       3 - 2        eiji ishikawa    decision (majority)                             pancrase - brave 1      2  5:00                tokyo , japan
+28     win       3 - 1          taro minato   decision (unanimous)                            gcm - demolition 12      2  5:00                        japan
+29     win       2 - 1         ichiro kanai   decision (unanimous)                             gcm - demolition 7      2  5:00                        japan
+30     win       1 - 1   motohiro tachihara   decision (unanimous)                             gcm - demolition 5      2  5:00                        japan
+31  x loss       0 - 1      yoshinori oniki          tko (strikes)                             gcm - demolition 4      1  1:09                        japan

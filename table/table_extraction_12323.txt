@@ -1,0 +1,6 @@
+                         school         location  founded                                    affiliation      nickname
+0  appalachian state university       boone , nc     1899  public ( university of north carolina system)  mountaineers
+1   coastal carolina university      conway , sc     1954                                         public  chanticleers
+2         high point university  high point , nc     1924                            private / methodist      panthers
+3    johnson & wales university   charlotte , nc     2004                         private / non - profit      wildcats
+4   virginia military institute   lexington , va     1839                        public military college       keydets

@@ -1,0 +1,19 @@
+             driver        constructor  laps time / retired  grid
+0      john surtees  cooper - maserati    65     2:06:35.34     1
+1      jack brabham    brabham - repco    65         + 7.88     4
+2       denny hulme    brabham - repco    64        + 1 lap     6
+3    richie ginther              honda    64        + 1 lap     3
+4        dan gurney     eagle - climax    64        + 1 lap     9
+5        jo bonnier  cooper - maserati    63       + 2 laps    12
+6    peter arundell        lotus - brm    61       + 4 laps    17
+7    ronnie bucknum              honda    60       + 5 laps    13
+8   pedro rodríguez        lotus - brm    49   differential     8
+9     bruce mclaren     mclaren - ford    40         engine    14
+10       jo siffert  cooper - maserati    33     suspension    11
+11     jochen rindt  cooper - maserati    32     suspension     5
+12    innes ireland                brm    28   transmission    16
+13   jackie stewart                brm    26       oil leak    10
+14    bob bondurant    eagle - weslake    24    fuel system    18
+15      graham hill                brm    18         engine     7
+16        jim clark        lotus - brm     9        gearbox     2
+17    moisés solana  cooper - maserati     9    overheating    15

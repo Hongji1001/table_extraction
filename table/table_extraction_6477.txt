@@ -1,0 +1,9 @@
+          nation                  skip            third           second               lead           alternate
+0         canada      sandra schmirler       jan betker    joan mccusker    marcia gudereit          atina ford
+1        denmark  helena blach lavrsen   margit pörtner      dorthe holm        trine qvist       jane bidstrup
+2        germany         andrea schöpp    monika wagner  natalie nessler    heike wieländer      carine meidele
+3  great britain            kirsty hay     edith loudon  jackie lockhart       katie loudon        felsie bayne
+4          japan        mayumi ohkutsu      akiko katoh     yukari kondo        yoko mimura          akemi niwa
+5         norway          dordi nordby  marianne haslum  kristin løvseth        hanne woods        grethe wolan
+6         sweden    elisabet gustafson  katarina nyberg   louise marmont  elisabeth persson  margaretha lindahl
+7  united states      lisa schoeneberg      erika brown     debbie henry     lori mountford        stacy liapis

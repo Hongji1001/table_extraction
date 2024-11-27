@@ -1,0 +1,8 @@
+               name             company                         platform       latest stable release                      price in usd
+0              mint                mint                              php                        2.17                         30 / site
+1           sawmill      flowerfire inc    windows / linux / bsd / posix                         8.5         mixed , from 99 / profile
+2            splunk          splunk inc  windows / linux / bsd / solaris                       5.0.3  negotiable , 500 mb per day free
+3         surfstats  surfstats software                          windows                      2013.7                           from 45
+4            urchin              google            windows / linux / bsd                         7.0        sale has been discontinued
+5        tealeaf cx             tealeaf                  windows / linux                         8.4                    see web - site
+6  unica netinsight                 ibm        windows / linux / solaris  8.6 (as of 2012 - 05 - 15)           various pricing options

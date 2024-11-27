@@ -1,0 +1,10 @@
+           island      gaelic name        location  area ( ha )  population last inhabited  height (m)
+0     ailsa craig   creag ealasaid  south ayrshire           99           0          1980s         338
+1           arran           arainn           arran        43201        4629              -         874
+2            bute             bòid            bute        12217        6498              -         278
+3          davaar  eilean dà bhàrr         kintyre           52           0              -         115
+4   great cumbrae     cumaradh mòr            bute         1168        1376              -         127
+5       holy isle  eilean mo laise           arran          253          31              -         314
+6     inchmarnock  innis mheàrnaig            bute          253           0          1980s          60
+7  little cumbrae    cumaradh beag            bute          313           0          1990s         123
+8           sanda          àbhainn         kintyre          127           0              -         123

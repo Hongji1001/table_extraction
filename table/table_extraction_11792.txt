@@ -1,0 +1,7 @@
+                             name space agency       launch date  terminated                             location
+0                           corot   cnes & esa  27 december 2006        2013           earth orbit (872 - 884 km)
+1                       hipparcos          esa     8 august 1989  march 1993         earth orbit (223 - 35632 km)
+2          hubble space telescope         nasa     24 april 1990           -     earth orbit (586.47 - 610.44 km)
+3                  kepler mission         nasa      6 march 2009           -  earth - trailing heliocentric orbit
+4                            most          csa      30 june 2003           -           earth orbit (819 - 832 km)
+5  swift gamma ray burst explorer         nasa  20 november 2004           -           earth orbit (585 - 604 km)

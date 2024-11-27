@@ -1,0 +1,12 @@
+    round  overall           player position         college
+0       1        4      bruce clark       dt      penn state
+1       1       26     george cumby       lb        oklahoma
+2       2       34         mark lee       db      washington
+3       3       61       syd kitson        g     wake forest
+4       4       87       fred nixon       wr        oklahoma
+5       6      143      karl swanke       ot  boston college
+6       7      169  buddy aydelette       ot         alabama
+7       8      199        tim smith       db    oregon state
+8       9      195   kelly saalfeld        c        nebraska
+9      10      253      jafus white       db       texas a&i
+10     12      310    james stewart       db         memphis

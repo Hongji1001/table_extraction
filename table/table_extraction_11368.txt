@@ -1,0 +1,12 @@
+                          institution                    location  founded     type  enrollment              team primary conference
+0                ave maria university         ave maria , florida     1998  private        1200           gyrenes            the sun
+1             dakota state university      madison , south dakota     1881   public        3102           trojans               none
+2               edward waters college      jacksonville , florida     1866  private         800            tigers  gulf coast (gcac)
+3   haskell indian nations university           lawrence , kansas     1884   tribal        1000  fighting indians               mcac
+4                   jamestown college    jamestown , north dakota     1883  private         967           jimmies               none
+5     lindenwood universitybelleville       belleville , illinois     2003  private        2600              lynx               none
+6           mayville state university     mayville , north dakota     1889   public         825            comets               none
+7                       menlo college       atherton , california     1927  private         650              oaks             calpac
+8                    point university        west point , georgia     1937  private        1035          skyhawks                aac
+9        valley city state university  valley city , north dakota     1890   public        1340           vikings               none
+10    webber international university       babson park , florida     1927  private         616          warriors            the sun

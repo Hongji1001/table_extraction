@@ -1,0 +1,44 @@
+                            artist   inst                                      release        format               label  year
+0                   atlantic drone      g                               atlantic drone      cd , mp3          noiseville  2007
+1                   atlantic drone      g  a vivified sugar cube explains the universe            lp            circadia  2009
+2                             ball      g                                 trouble doll  cd , cs , lp         shimmy disc  1989
+3                        bongwater      g                                double bummer   2xcd , 2xlp         shimmy disc  1988
+4                        bongwater      g                        you don't love me yet             7         shimmy disc  1988
+5                        bongwater      g                               too much sleep  cd , cs , lp         shimmy disc  1989
+6                        bongwater      g                           the power of pussy  cd , cs , lp         shimmy disc  1990
+7                        bongwater      g                             box of bongwater          4xcd         shimmy disc  1990
+8                       dew - claw      g                               natural causes           mp3            geodesic  2010
+9                      galaxie 500      g                                         rain             7        caff records  1989
+10  jad fair & the shapir - o'rama      b                              we are the rage            cd               avant  1996
+11  jad fair & the shapir - o'rama  b , g                             i like your face            cd         wire monkey  1999
+12                    king missile      g                                mystical shit  cd , cs , lp         shimmy disc  1990
+13                    king missile      g                         the way to salvation  cd , cs , lp    atlantic records  1991
+14                    king missile      g                                   happy hour       cd , cs            atlantic  1992
+15                    king missile      g                              martin scorsese             7          staple gun  1992
+16                    king missile  g , b                                 king missile       cd , lp            atlantic  1994
+17                   the martinets      b                                  love! hate!            cd        scooch pooch  2000
+18                   the martinets      b                          new stories for men      cd , mp3        scooch pooch  2002
+19                   the martinets      b                                comeback tour      cd , mp3        tornado ride  2010
+20                         overcat      g                           the great red spot     cdr , mp3            geodesic  2008
+21                         overcat  g , b               for a better today , tomorrrow           mp3  green type of tube  2010
+22               phantom tollbooth  g , v                         valley of the gwangi             7   homestead records  1986
+23               phantom tollbooth  g , v                            phantom tollbooth            ep           homestead  1986
+24               phantom tollbooth  g , v                         one way conversation       cs , lp           homestead  1987
+25               phantom tollbooth  g , v                                    power toy       cd , lp           homestead  1988
+26               phantom tollbooth  g , v                   daylight in the quiet zone  cd , cs , ep           homestead  1990
+27               phantom tollbooth      g                           beard of lightning       cd , lp                 off  2003
+28               phantom tollbooth  g , v                                    power toy           mp3            pt5speed  2010
+29                 shapir - o'rama      b                 el mundo de vapor y valentia            cd     mind of a child  1995
+30                     stress test  b , g                             the rocket thing           mp3  green type of tube  2010
+31                     when people      b                                    uncle ben             7         shimmy disc  1988
+32                     when people      b                                        bobby  cd , cs , lp         shimmy disc  1989
+33                     when people      b                                        porgy  cd , cs , lp         shimmy disc  1991
+34                     when people  b , g                     bill kennedy 's showtime  cd , cs , lp         shimmy disc  1994
+35                      wide right  g , b                                   wide right      cd , mp3             pop top  2004
+36                      wide right  g , b                        sleeping on the couch      cd , mp3             pop top  2005
+37                       wonderama      b               everyday should be my birthday             7                ajax  1989
+38                       wonderama      b                   padre pio : the stigmatist             7                ajax  1990
+39                       wonderama      b                                  chaostrophy       cd , lp        resonance us  1991
+40                     yo la tengo      b                           the river of water             7                egon  1985
+41                     yo la tengo      g                           for the turnstiles             7              coyote  1987
+42                     yo la tengo  b , g                            prisoners of love          3xcd     matador records  2005

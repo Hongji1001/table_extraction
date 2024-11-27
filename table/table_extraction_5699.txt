@@ -1,0 +1,7 @@
+   round  pick player drafted or traded for       position           college
+0      1    11       fred dryer (via trade)  defensive end   san diego state
+1      2    31                cullen bryant   running back          colorado
+2      2    37                 ron jaworski    quarterback  youngstown state
+3      2    42               jim youngblood     linebacker    tennessee tech
+4      3    60                   tim stokes         tackle            oregon
+5      4    95               eddie mcmillan     cornerback     florida state

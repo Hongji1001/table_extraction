@@ -1,0 +1,6 @@
+          season       division            tms            pos       pff nmcc           ufl cup afc pc
+0  no league yet  no league yet  no league yet  no league yet  no league yet     semi - finals      -
+1           2010              2              8            2nd              -  quarter - finals      -
+2           2011              2              8     1st (prom)              -  quarter - finals      -
+3           2012              1             10            7th              -       group stage      -
+4           2013              1             10            8th    round of 16               tbd    dnq

@@ -1,0 +1,16 @@
+    year           winner             jockey             trainer                 owner     time
+0   2013       regalo mia     luis contreras      michelle nihei    steven w ciccarone  2:23.48
+1   2012      hit it rich  javier castellano      shug mcgaughey   stuart s janney iii  2:28.06
+2   2011  la luna de miel     john velazquez     h graham motion  rashit shaykhutdinov  2:25.76
+3   2010   speak easy gal     elvis trujillo       marty wolfson    farnsworth stables  2:28.46
+4   2009  dress rehearsal    kent desormeaux      william i mott       swettenham stud  2:29.77
+5   2008          hostess     john velazquez        h james bond    william clifton jr  2:25.83
+6   2007     safari queen      chris decarlo     todd a pletcher          arindel farm  2:25.17
+7   2006      honey ryder   john r velazquez     todd a pletcher    glencrest farm llc  2:23.07
+8   2005      honey ryder   john r velazquez     todd a pletcher    glencrest farm llc  2:27.15
+9   2004        meridiana        edgar prado  christophe clement     jon & sarah kelly  2:26.99
+10  2003        tweedside       rene douglas     todd a pletcher          e & l melnyk  2:32.36
+11  2002    julie jalouse      jose a santos  christophe clement          skymarc farm  2:25.89
+12  2001         innuendo     jerry d bailey  christophe clement        gerald w leigh  2:25.24
+13  2000     lisieux rose      jose a santos  christophe clement    moyglare stud farm  2:25.64
+14  1999          coretta      jose a santos  christophe clement        gerald w leigh  2:23.85

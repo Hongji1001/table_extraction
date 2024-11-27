@@ -1,0 +1,15 @@
+                                  name   years gender        area         authority  decile  roll
+0                    frasertown school   1 - 6   coed  frasertown             state       4   107
+1                     kotemaori school   1 - 8   coed   kotemaori             state       4     6
+2                        mohaka school   1 - 8   coed      mohaka             state       1    36
+3                        nuhaka school   1 - 8   coed      nuhaka             state       2   123
+4                         ohuka school   1 - 8   coed       ohuka             state      10    12
+5                        putere school   1 - 8   coed      putere             state       2    12
+6                     ruakituri school   1 - 8   coed   ruakituri             state       7     9
+7                  st joseph 's school   1 - 8   coed      wairoa  state integrated       3   122
+8               te kura o waikaremoana   1 - 8   coed        tuai             state       2    27
+9                      te mahia school   1 - 8   coed       mahia             state       1    48
+10                tiaho primary school   1 - 6   coed      wairoa             state       2   150
+11  tkkm o ngati kahungunu o te wairoa   1 - 8   coed      wairoa             state       1    61
+12                      wairoa college  7 - 15   coed      wairoa             state       2   544
+13               wairoa primary school   1 - 6   coed      wairoa             state       2   228

@@ -1,0 +1,37 @@
+                                             name  merging to hdr from ldr images  hdr output ( exr , hdr , logluv , etc)                   tonemapping  exposure fusion
+0                  i2align quickage express / pro                             yes                                     yes                            no               no
+1                             pixtra panostitcher                              no                                      no                            no               no
+2                             pixtra omnistitcher                              no                                      no                            no               no
+3                      photofit harmony / premium                              no                                      no                            no               no
+4                                 panoramaplus x4                              no                                      no                            no               no
+5   panoramabuilder 7.0 / panoramabuilder 7.0 pro                              no                                      no                            no               no
+6                       360 panorama professional                              no                                      no                            no               no
+7                          vrstitcher fisheye pro                              no                                      no                            no               no
+8                                        cool 360                              no                                      no                            no               no
+9          panavue imageassembler std / pro / ent                              no                                      no                            no               no
+10                        the panorama factory v5                              no                                      no                            no               no
+11                pixmaker lite / home / business                              no                                      no                            no               no
+12                                    ptassembler                              no                                      no                            no              yes
+13     panoweaver standard / professional / batch                             yes                                      no  yes (basic gamma adjustment)               no
+14                              ptgui / ptgui pro                             yes                                     yes                           yes              yes
+15                   autopano pro / giga / server                             yes                                     yes                           yes               no
+16                                     autostitch                              no                                      no                            no               no
+17                                calico panorama                              no                                      no                            no               no
+18                                          hugin                             yes                                     yes                            no              yes
+19                           3dvista stitcher 3.0                              no                                      no                            no               no
+20                                       d joiner                              no                                      no                            no               no
+21                               panorama maker 6                              no                                      no                            no               no
+22                            photovista panorama                              no                                      no                            no               no
+23                                 panoramastudio                              no                                      no                            no               no
+24                        stitcher unlimited 2009                             yes                                     yes                           yes               no
+25                       adg panorama tools / pro                              no                                      no                            no               no
+26                            panorama composer 3                              no                                      no                            no               no
+27                         image composite editor                              no                                      no                            no               no
+28                               panorama perfect                              no                                      no                            no               no
+29                                      photoshop                             yes                                     yes                           yes               no
+30                                    aipr lite 1                              no                                      no                           yes               no
+31                             gigapan stitch 1.0                              no                                      no                            no               no
+32                                  panoramamaker                              no                                      no                            no               no
+33                                       panoedit                             yes                                     yes                            no               no
+34                                    sharpstitch                              no                                      no                            no               no
+35                                           name  merging to hdr from ldr images  hdr output ( exr , hdr , logluv , etc)                   tonemapping  exposure fusion

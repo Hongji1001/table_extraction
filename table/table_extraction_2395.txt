@@ -1,0 +1,16 @@
+                                  station line (s)         city / neighborhood  year opened                                 transit connections park and ride
+0                     university street u  central            downtown seattle         2009  metro , rapidride , st express , community transit            no
+1                        pioneer square u  central    pioneer square , seattle         2009  metro , rapidride , st express , community transit            no
+2                         stadium station  central              sodo , seattle         2009              metro , st express , community transit            no
+3                            sodo station  central              sodo , seattle         2009                                  metro , st express            no
+4                           beacon hill u  central       beacon hill , seattle         2009                                               metro            no
+5                             mount baker  central       mount baker , seattle         2009                                               metro            no
+6                           columbia city  central     columbia city , seattle         2009                                               metro            no
+7                         othello station  central         new holly , seattle         2009                                               metro            no
+8                           rainier beach  central     rainier beach , seattle         2009                                               metro            no
+9                      tukwila int™l blvd  central                     tukwila         2009                                   metro , rapidride           yes
+10                       seatac / airport  central  sea - tac airport , seatac         2009  metro , rapidride , st express , sea - tac airport            no
+11                             south 25th   tacoma                      tacoma         2003                         pierce transit , st express            no
+12                          union station   tacoma             downtown tacoma         2003                         pierce transit , st express            no
+13  convention center / south 15th street   tacoma             downtown tacoma         2003                         pierce transit , st express            no
+14    commerce street / south 11th street   tacoma             downtown tacoma         2011                         pierce transit , st express            no

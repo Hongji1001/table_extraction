@@ -1,0 +1,6 @@
+  opposing teams  against            date                        venue        status
+0         france       19  15 / 01 / 1983          twickenham , london  five nations
+1          wales       13  05 / 02 / 1983  cardiff arms park , cardiff  five nations
+2       scotland       22  05 / 03 / 1983          twickenham , london  five nations
+3        ireland       25  19 / 03 / 1982      lansdowne road , dublin  five nations
+4    new zealand        9  19 / 11 / 1982          twickenham , london    test match

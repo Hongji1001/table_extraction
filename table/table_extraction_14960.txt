@@ -1,0 +1,22 @@
+                                 tie no                            home team                                score                            away team                           attendance
+0                                     4                     bridlington town                                1 - 2                   newcastle benfield                                  172
+1                                     7                 north ferriby united                                6 - 1                              consett                                  135
+2                                    17                            leek town                                0 - 1                            clitheroe                                  224
+3                                    20              fc united of manchester                                3 - 4                        nantwich town                                 1012
+4                                    30                           rugby town                                5 - 3                 friar lane & epworth                                  176
+5                                    31                    ellesmere rangers                                1 - 3                         cradley town                                  274
+6                                    32             rainworth miners welfare                                1 - 3                          stourbridge                                  155
+7                                    34                       halesowen town                                8 - 1                              meir ka                                  308
+8                                    36                       southam united                                2 - 1                      gornal athletic                                  153
+9                                    37                      willenhall town                                1 - 3                       retford united                                   95
+10                                   52                               yaxley                                0 - 3                       needham market                                  128
+11                                   56                        barton rovers                                1 - 2                                 ware                                  112
+12                                   61                       harrow borough                                1 - 2                 hemel hempstead town                                  121
+13                                   70                             uxbridge                                1 - 3                     heybridge swifts                                  105
+14                                   74                         arlesey town                                1 - 0                       brentwood town                                  110
+15                                   76                         bedford town                                1 - 1                           wealdstone                                  349
+16  bedford town won 4 - 2 on penalties  bedford town won 4 - 2 on penalties  bedford town won 4 - 2 on penalties  bedford town won 4 - 2 on penalties  bedford town won 4 - 2 on penalties
+17                                   81                           whyteleafe                                2 - 0                         horsham ymca                                   82
+18                                   85                              arundel                                1 - 2                       godalming town                                  123
+19                                   90                         vcd athletic                                3 - 0                           hythe town                                  153
+20                                  109                             bideford                                1 - 3                           frome town                                  193

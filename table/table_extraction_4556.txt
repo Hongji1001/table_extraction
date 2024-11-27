@@ -1,0 +1,11 @@
+   round  overall              player          position          college
+0      1       13           ty warren  defensive tackle        texas a&m
+1      2       36       eugene wilson        cornerback         illinois
+2      2       45      bethel johnson     wide receiver        texas a&m
+3      4      117          dan klecko  defensive tackle           temple
+4      4      120       asante samuel        cornerback  central florida
+5      5      164          dan koppen            center   boston college
+6      6      201     kliff kingsbury       quarterback       texas tech
+7      7      234        spencer nead         tight end              byu
+8      7      239  tully banta - cain        linebacker       california
+9      7      243        ethan kelley  defensive tackle           baylor

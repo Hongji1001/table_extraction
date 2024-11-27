@@ -1,0 +1,15 @@
+                                   player   no (s) height in ft          position      years for rockets school / club team / country
+0       caldwell , adrian adrian caldwell       44        6 - 8           forward  1989 - 91 , 1994 - 95                        lamar
+1             carr , antoine antoine carr       55        6 - 9           forward              1998 - 99                wichita state
+2   carroll , joe barry joe barry carroll        2        7 - 1  center / forward              1987 - 88                       purdue
+3               cassell , sam sam cassell       10        6 - 3             guard              1993 - 96                florida state
+4               cato , kelvin kelvin cato       13       6 - 11            center            1999 - 2004                   iowa state
+5     chievous , derrick derrick chievous        3        6 - 7   guard / forward              1988 - 90                     missouri
+6           chilcutt , pete pete chilcutt       32       6 - 10           forward              1994 - 96               north carolina
+7                 coleman , ec ec coleman  12 , 44        6 - 8           forward  1973 - 74 , 1978 - 79              houston baptist
+8           collier , jason jason collier       52        7 - 0  forward / center              2000 - 03                 georgia tech
+9               colson , sean sean colson       20        6 - 0             guard              2000 - 01              unc - charlotte
+10          conner , lester lester conner        7        6 - 4             guard              1987 - 88                 oregon state
+11                cook , brian brian cook       43        6 - 9           forward              2009 - 10                     illinois
+12      cunningham , dick dick cunningham       34       6 - 10            center              1971 - 72                 murray state
+13            cureton , earl earl cureton       35        6 - 9  forward / center              1993 - 94      detroit , robert morris

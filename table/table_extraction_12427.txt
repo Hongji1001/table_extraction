@@ -1,0 +1,6 @@
+         city    mongolian mongolian script       province  population (2008)
+0  ulan bator  улаанбаатар    ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ   municipality            1008738
+1     erdenet      эрдэнэт         ᠡᠷᠳᠡᠨᠢᠲᠦ         orkhon              86866
+2     darkhan       дархан           ᠳᠠᠷᠬᠠᠨ  darkhan - uul              74300
+3  choibalsan    чойбалсан       ᠴᠣᠶᠢᠪᠠᠯᠰᠠᠩ         dornod              38150
+4       mörön        мөрөн            ᠮᠥᠷᠡᠨ       khövsgöl              36082

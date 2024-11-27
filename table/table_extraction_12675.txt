@@ -1,0 +1,12 @@
+                channel play - by - play color commentator (s)      studio host              studio analysts
+0             kcal - tv      chick hearn             stu lantz  alan massengale                 james worthy
+1   fox sports net west      chick hearn             stu lantz  paul sunderland                   jack haley
+2             kcal - tv  paul sunderland             stu lantz  alan massengale                 james worthy
+3   fox sports net west  paul sunderland             stu lantz   bill macdonald   jack haley or reggie theus
+4              fsn west  paul sunderland             stu lantz   bill macdonald                   jack haley
+5             kcal - tv      joel meyers             stu lantz  alan massengale                 james worthy
+6              fsn west      joel meyers             stu lantz   bill macdonald                   jack haley
+7              fsn west      joel meyers             stu lantz   bill macdonald  jack haley or paul westphal
+8             kcal - tv      joel meyers             stu lantz         jim hill                 james worthy
+9       fox sports west      joel meyers             stu lantz   bill macdonald  norm nixon or paul westphal
+10      fox sports west      joel meyers             stu lantz   bill macdonald                   norm nixon

@@ -1,0 +1,24 @@
+                rider                   bike  laps        time  grid
+0          rubén xaus         ducati 999 f06    23   37:14.606     2
+1       noriyuki haga        yamaha yzf - r1    23     + 1.997     7
+2        troy bayliss         ducati 999 f07    23     + 6.330     1
+3         troy corser        yamaha yzf - r1    23     + 8.780     4
+4      james toseland        honda cbr1000rr    23    + 17.040     5
+5       lorenzo lanzi         ducati 999 f07    23    + 24.272     6
+6     michel fabrizio        honda cbr1000rr    23    + 25.822     9
+7          max biaggi  suzuki gsx - r1000 k7    23    + 26.087    12
+8        josh brookes        honda cbr1000rr    23    + 28.778     3
+9       roberto rolfo        honda cbr1000rr    23    + 32.754    17
+10       régis laconi      kawasaki zx - 10r    23    + 37.084    15
+11    max neukirchner  suzuki gsx - r1000 k6    23    + 37.141    13
+12    giovanni bussei         ducati 999 f06    23    + 37.563    11
+13         jakub smrž         ducati 999 f05    23    + 38.544    20
+14     yukio kagayama  suzuki gsx - r1000 k7    23    + 53.049     8
+15  shinichi nakatomi        yamaha yzf - r1    17  retirement    18
+16    karl muggeridge        honda cbr1000rr    12  retirement    10
+17    carmelo morales        yamaha yzf - r1    12  retirement    16
+18       luca morelli           ducati 999rs    11  retirement    22
+19        fonsi nieto      kawasaki zx - 10r    10  retirement    14
+20       steve martin        honda cbr1000rr     8  retirement    21
+21   christian zaiser     mv agusta f4 312 r     3  retirement    19
+22       dean ellison           ducati 999rs     3  retirement    23

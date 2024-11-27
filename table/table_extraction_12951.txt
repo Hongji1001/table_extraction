@@ -1,0 +1,18 @@
+    year    location                           gold                                silver                                 bronze
+0   1996  herne hill      brian steel paul wingrave         russell williams colin denman                keith reid derek marloe
+1   1997  herne hill      brian steel paul wingrave         russell williams colin denman                keith reid derek marloe
+2   1998  herne hill      brian steel paul wingrave         russell williams colin denman                clive burr derek marloe
+3   1999  herne hill        simon cope derek marloe         russell williams colin denman                  rob jefferies unknown
+4   2000     reading        simon cope derek marloe             james taylor colin denman              dave edwards roger hughes
+5   2001     reading       ray hughes paul wingrave                       unknown unknown                   james taylor unknown
+6   2002  herne hill  russell williams colin denman          martin freeman colin garnham               ray hughes paul wingrave
+7   2003     reading      bryan taylor colin denman          martin freeman colin garnham            andrew russell derek marloe
+8   2004  herne hill          tom white steve white           simon gaywood colin garnham               tony gibb graham bristow
+9   2005  herne hill      bryan taylor colin denman  james holland - leader colin garnham             simon gaywood derek marloe
+10  2006     reading      bryan taylor colin denman  james holland - leader colin garnham             simon gaywood derek marloe
+11  2007      maindy       tony gibb graham bristow           james mccallum derek marloe             matthew rowe courtney rowe
+12  2008      maindy        luke rowe courtney rowe              tony gibb graham bristow             andrew magnier chris pyatt
+13  2009     newport        jon mould courtney rowe            jamie rogers steve parsons                     tony gibb tim read
+14  2010  scunthorpe        matt rowe courtney rowe          matt gittings george gilbert            adam duggleby dave urquhart
+15  2011  herne hill     jack kirk peter bã¤uerlein            adam duggleby alex wharton  james holland - leader graham bristow
+16  2012  herne hill   matt gittings george gilbert            adam duggleby alex wharton              symon lewis michael lewis

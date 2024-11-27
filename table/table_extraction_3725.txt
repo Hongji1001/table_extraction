@@ -1,0 +1,6 @@
+         parent unit                                geschwader base       unit (gruppe / staffel)      aircraft type                        commanding officer
+0   jagdgeschwader 1                       twenthe / drope / rheine  stab and i / ii / iii gruppe  fw 190 and bf 109                          herbert ihlefeld
+1   jagdgeschwader 6   quackenbruck / delmenhorst / vechta / bissel           stab / i / ii / iii  fw 190 and bf 109                             johann kogler
+2  jagdgeschwader 26  furstenau / furstenau / nordhorn / plantlunne           stab / i / ii / iii  fw 190 and bf 109                             josef priller
+3  jagdgeschwader 27    rheine / rheine / hopsten / hesepe / achmer      stab / i / ii / iii / iv             bf 109                         ludwig franzisket
+4  jagdgeschwader 54                             furstenau / vorden                      iii / iv  fw 190 and bf 109  n / a - only iii and iv gruppe took part

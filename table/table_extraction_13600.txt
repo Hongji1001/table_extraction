@@ -1,0 +1,8 @@
+                 team            outgoing manager manner of departure   date of vacancy                                 replaced by date of appointment position in table
+0                mons       philippe saint - jean            resigned    21 august 2008                  thierry pister (caretaker)      21 august 2008              18th
+1           roeselare               dirk geeraerd              sacked   26 october 2008                             dennis van wijk     29 october 2008              18th
+2  germinal beerschot          harm van veldhoven            resigned  13 november 2008                              aimé anthuenis    14 november 2008              16th
+3                mons  thierry pister (caretaker)              sacked   4 december 2008                christophe dessy (caretaker)     4 december 2008              15th
+4           charleroi              thierry siquet              sacked  15 december 2008                                john collins    15 december 2008              11th
+5                genk         ronny van geneugden            resigned      5 march 2009  pierre denier and hans visser (caretakers)        5 march 2009               4th
+6             lokeren             georges leekens            resigned     31 march 2009                         aleksandar janković        6 april 2009               7th

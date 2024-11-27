@@ -1,0 +1,13 @@
+                  date                     venue  score result                          competition
+0   december 11 , 2002  petaling jaya , malaysia  5 - 0    win                             friendly
+1   december 18 , 2002     singapore , singapore  0 - 4    win           2002 tiger cup group stage
+2   december 20 , 2002     singapore , singapore  3 - 1    win           2002 tiger cup group stage
+3   december 29 , 2002     singapore , singapore  2 - 1   lose  2002 tiger cup third / fourth place
+4    october 22 , 2003          manama , bahrain  3 - 1   lose     2004 afc asian cup qualification
+5     august 23 , 2006      shah alam , malaysia  1 - 2   lose  2006 merdeka tournament group stage
+6       july 10 , 2007   kuala lumpur , malaysia  1 - 5   lose       2007 afc asian cup group stage
+7       july 22 , 2008         hyderabad , india  1 - 1   draw                             friendly
+8    october 15 , 2008    kelana jaya , malaysia  4 - 0    win              2008 merdeka tournament
+9    october 23 , 2008   kuala lumpur , malaysia  4 - 0    win              2008 merdeka tournament
+10   december 6 , 2008         phuket , thailand  3 - 0    win                  2008 aff suzuki cup
+11   december 8 , 2008         phuket , thailand  2 - 3   lose                  2008 aff suzuki cup

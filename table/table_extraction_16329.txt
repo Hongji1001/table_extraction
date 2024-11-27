@@ -1,0 +1,17 @@
+                       player                                        int'l debut          year                     cross code debut          date                  position
+0             dally messenger                2nd ru test australia v new zealand          1907               rl new zealand v wales    1 jan 1908                    centre
+1   frederick stanley jackson               ru british lions tour of australasia          1908          new zealand v great britain          1910                      back
+2                emosi koloto                              ru test tonga v wales  12 june 1986                     rl new zealand v          1991                   forward
+3               john schuster                    ru test new zealand v australia   3 july 1988            rl western samoa v france   5 sept 1995                      back
+4           va'aiga tuigamala                              rwc new zealand v usa          1991          rlwc western samoa v france   12 oct 1995                      back
+5                  henry paul                       rl test new zealand v france          1995                  ru england v france    2 mar 2002                      back
+6               michael horak                                  rl south africa v          1997               ru england v argentina  22 june 2002                      back
+7                 lote tuqiri                                 rlwc fiji v russia          2000      1st ru test australia v ireland   7 june 2003                    winger
+8        coenraad breytenbach                          rlwc south africa v tonga          2000                     russia v georgia          2002                    centre
+9                  brad thorn                         rl australia v new zealand          1997               ru new zealand v wales  21 june 2003                   forward
+10          maurie fa'asavalu                   rugby union samoa v south africa   6 july 2002  rl test great britain v new zealand   27 oct 2007                   forward
+11           lesley vainikolo              rl anzac test new zealand v australia          1999                   ru england v wales    2 feb 2008                      wing
+12                craig gower                    sl test australia v new zealand          1997            ru test italy v australia  13 june 2009  fly - half / five eighth
+13             shontayne hape  rl tri - nations test new zealand v great britain   20 nov 2004          ru test england v australia  12 june 2010                      back
+14               tasesa lavea              rl anzac test new zealand v australia          2000                   ru samoa v ireland   13 nov 2010                      back
+15                cooper vuna                                           rl tonga          2008                 ru australia v wales   09 jun 2012                      back

@@ -1,0 +1,12 @@
+   place               player        country  score to par
+0     t1     brandel chamblee  united states     69    - 3
+1     t1       davis love iii  united states     69    - 3
+2     t1       scott mccarron  united states     69    - 3
+3     t1           nick price       zimbabwe     69    - 3
+4     t5           lee janzen  united states     70    - 2
+5     t5       justin leonard  united states     70    - 2
+6     t5         andrew magee  united states     70    - 2
+7     t5    colin montgomerie       scotland     70    - 2
+8     t5  josé maría olazábal          spain     70    - 2
+9     t5         mark o'meara  united states     70    - 2
+10    t5          jeff sluman  united states     70    - 2

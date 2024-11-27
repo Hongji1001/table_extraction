@@ -1,0 +1,11 @@
+   position                   driver / passenger     equipment  bike no  points
+0         1  daniël willemsen / kenny van gaalen   zabel - wsp        1     452
+1         2       etienne bax / kaspars stupelis   zabel - wsp        5     447
+2         3     ben adriaenssen / sven verbrugge     ktm - wsp        6     385
+3         4    joris hendrickx / kaspars liepins     ktm - vmc      222     369
+4         5         jan hendrickx / tim smeuninx   zabel - vmc        3     369
+5         6     valentin giraud / nicolas musset     ktm - wht      138     334
+6         7     vaclav rozehnal / marek rozehnal   zabel - vmc       11     240
+7         8     marcel willemsen / gertie eggink  zabel - mefo       21     223
+8         9     maris rupeiks / elvijs mucenieks   zabel - wsp        4     194
+9        10       andy bürgler / raphael markert     ktm - vmc       14     188

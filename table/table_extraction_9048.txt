@@ -1,0 +1,20 @@
+    18 september 2007 - 19:45     preston north end  home   won 2 - 1   5754
+0   22 september 2007 - 15:00  west bromwich albion  home  lost 3 - 2   8307
+1   29 september 2007 - 15:00     colchester united  away   won 1 - 0   5218
+2      2 october 2007 - 19:45          norwich city  away  drew 0 - 0  23176
+3      6 october 2007 - 15:00               watford  home  lost 3 - 1   7515
+4     20 october 2007 - 17:15        leicester city  home  drew 0 - 0   6006
+5     23 october 2007 - 19:45   sheffield wednesday  away   won 2 - 1  21557
+6     27 october 2007 - 15:00          cardiff city  away  drew 1 - 1  11850
+7     3 november 2007 - 15:00        crystal palace  home  drew 0 - 0   6778
+8     6 november 2007 - 19:45            stoke city  home  lost 3 - 2   5531
+9    10 november 2007 - 15:00             blackpool  away  lost 1 - 0   8051
+10   24 november 2007 - 15:00                  hull  home  lost 2 - 1   8633
+11   27 november 2007 - 15:00              coventry  away  drew 1 - 1  14036
+12    1 december 2007 - 15:00       plymouth argyle  away  lost 3 - 0  10520
+13    3 december 2007 - 20:00             blackpool  home  drew 1 - 1   4407
+14    8 december 2007 - 15:00   queens park rangers  home  drew 2 - 2   5612
+15   15 december 2007 - 15:00          ipswich town  away  lost 3 - 2  19306
+16   22 december 2007 - 15:00               norwich  home  lost 0 - 1   6648
+17   26 december 2007 - 15:00               preston  away   won 0 - 1  12920
+18     1 january 2008 - 15:00              barnsley  home  drew 2 - 2   6792

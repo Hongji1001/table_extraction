@@ -1,0 +1,23 @@
+                  driver             constructor  laps time / retired  grid
+0             niki lauda                 ferrari    40     1:45:16.78     2
+1      patrick depailler          tyrrell - ford    40        + 21.47     9
+2              tom pryce           shadow - ford    40        + 23.84    12
+3   hans - joachim stuck            march - ford    40      + 1:28.17    14
+4         jody scheckter          tyrrell - ford    40      + 1:56.46    13
+5            jochen mass          mclaren - ford    40      + 1:58.27     6
+6         clay regazzoni                 ferrari    40      + 2:15.24     4
+7             jacky ickx  wolf - williams - ford    39        + 1 lap    19
+8            renzo zorzi         williams - ford    39        + 1 lap    17
+9            carlos pace    brabham - alfa romeo    39        + 1 lap    10
+10         ingo hoffmann       fittipaldi - ford    39        + 1 lap    20
+11      carlos reutemann    brabham - alfa romeo    37    out of fuel    15
+12    emerson fittipaldi       fittipaldi - ford    37       + 3 laps     5
+13        lella lombardi            march - ford    36       + 4 laps    22
+14  jean - pierre jarier           shadow - ford    33       accident     3
+15            james hunt          mclaren - ford    32       accident     1
+16    vittorio brambilla            march - ford    15       oil leak     7
+17       jacques laffite          ligier - matra    14   transmission    11
+18       ronnie peterson            lotus - ford    10       accident    18
+19        mario andretti            lotus - ford     6       accident    16
+20           john watson           penske - ford     2    fuel system     8
+21            ian ashley                     brm     2       oil pump    21

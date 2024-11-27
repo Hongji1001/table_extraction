@@ -1,0 +1,7 @@
+              name                  class                 navy date joined date departed
+0     hms bluebell  flower class corvette           royal navy  18 october    21 october
+1         hmcs elk            armed yacht  royal canadian navy   5 october     7 october
+2        hms fowey   shoreham class sloop           royal navy  18 october    21 october
+3   hms heartsease  flower class corvette           royal navy  18 october    21 october
+4        hms leith    grimsby class sloop           royal navy  18 october    21 october
+5  hms scarborough   hastings class sloop           royal navy   5 october    21 october

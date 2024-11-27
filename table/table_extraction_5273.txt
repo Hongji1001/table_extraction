@@ -1,0 +1,11 @@
+                 opponent result    score            date                    venue
+0        penrith panthers   loss  24 - 28     7 june 2003    dairy farmers stadium
+1  south sydney rabbitohs   draw  20 - 20     15 may 2004       bluetongue stadium
+2    new zealand warriors    win  28 - 26    20 june 2004         ericsson stadium
+3       newcastle knights    win  28 - 24    25 july 2004  energyaustralia stadium
+4        canberra raiders   loss  14 - 15     27 may 2006    dairy farmers stadium
+5        penrith panthers    win  30 - 26  13 august 2007              cua stadium
+6        penrith panthers   loss  18 - 19     31 may 2008    dairy farmers stadium
+7         cronulla sharks   loss  19 - 20    26 june 2010    dairy farmers stadium
+8       newcastle knights    win  28 - 24    24 july 2010    dairy farmers stadium
+9  south sydney rabbitohs   loss  24 - 26  19 august 2011              anz stadium

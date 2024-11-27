@@ -1,0 +1,20 @@
+                   date        venue                          score result                                       competition
+0       april 25 , 2001     tashkent                          2 - 0    win                 2002 fifa world cup qualification
+1     february 9 , 2002      ta'qali                          2 - 1   loss                                          friendly
+2    september 1 , 2002     damascus                          1 - 0    win  2002 west asian football federation championship
+3     december 7 , 2002       manama                          3 - 0    win                                friendly (2 goals)
+4    december 23 , 2002  kuwait city                          2 - 1    win                                          friendly
+5   september 26 , 2003        amman                          3 - 2    win                  2004 afc asian cup qualification
+6    november 18 , 2003        amman                          3 - 0    win                  2004 afc asian cup qualification
+7    february 18 , 2004        amman                          5 - 0    win                 2006 fifa world cup qualification
+8         may 30 , 2004       annaba                          1 - 1   draw                                          friendly
+9        june 21 , 2004       tehran                          2 - 0    win  2004 west asian football federation championship
+10       july 31 , 2004    chongqing  1 - 1 aet (1:1 , 1:1) 4:3 pso   loss                                2004 afc asian cup
+11     august 21 , 2004        amman                          2 - 2   draw                                friendly (2 goals)
+12     october 8 , 2004      bangkok                          3 - 2    win                                          friendly
+13    october 20 , 2004      tripoli                          3 - 0    win                                          friendly
+14   february 22 , 2006        amman                          3 - 0    win                  2007 afc asian cup qualification
+15    october 28 , 2007        amman                          2 - 0    win                 2010 fifa world cup qualification
+16    january 24 , 2008        dubai                          1 - 1   draw                                          friendly
+17    january 28 , 2008        amman                          4 - 1    win                                          friendly
+18   december 30 , 2009        jinan                          2 - 2   draw                                friendly (2 goals)

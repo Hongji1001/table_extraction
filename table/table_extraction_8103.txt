@@ -1,0 +1,15 @@
+       season           prelim         1st round        2nd round        3rd round           finals
+0   1991 - 92                -    w , 4 - 1 , cb  w , 4 - 0 , mon              bye  l , 3 - 4 , adk
+1   1992 - 93                -   w , 4 - 1 , mon   l , 0 - 4 , cb                -                -
+2   1993 - 94                -    w , 4 - 1 , cb  l , 2 - 4 , mon                -                -
+3   1994 - 95                -   l , 1 - 4 , fre                -                -                -
+4   1995 - 96                -  l , 1 - 3 , sjnb                -                -                -
+5   1996 - 97                -   w , 3 - 1 , bng  l , 3 - 4 , ham                -                -
+6   1997 - 98                -  l , 1 - 3 , sjnb                -                -                -
+7   1998 - 99                -   l , 2 - 4 , fre                -                -                -
+8   1999 - 00  out of playoffs   out of playoffs  out of playoffs  out of playoffs  out of playoffs
+9   2000 - 01                -   l , 1 - 3 , que                -                -                -
+10  2001 - 02  w , 2 - 0 , pro   w , 3 - 2 , low  l , 0 - 4 , bri                -                -
+11  2002 - 03  out of playoffs   out of playoffs  out of playoffs  out of playoffs  out of playoffs
+12  2003 - 04  out of playoffs   out of playoffs  out of playoffs  out of playoffs  out of playoffs
+13  2004 - 05                -   l , 1 - 4 , mtb                -                -                -

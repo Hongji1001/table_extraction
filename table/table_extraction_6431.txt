@@ -1,0 +1,20 @@
+              player    nationality          position  years for jazz school / club team
+0    andre wakefield  united states             guard       1979 - 80             loyola
+1          neal walk  united states            center       1974 - 75            florida
+2        andy walker  united states             guard       1976 - 77            niagara
+3        earl watson  united states             guard  2010 - present               ucla
+4       jamie watson  united states           forward       1994 - 97     south carolina
+5        slick watts  united states             guard       1977 - 78        xavier (la)
+6         eric white  united states           forward            1989         pepperdine
+7   jerome whitehead  united states  center / forward     1979 - 1980          marquette
+8       jeff wilkins  united states  center / forward       1980 - 86     illinois state
+9     aaron williams  united states  center / forward            1994             xavier
+10    deron williams  united states       point guard       2005 - 11           illinois
+11     duck williams  united states             guard       1979 - 80         notre dame
+12  freeman williams  united states   guard / forward       1982 - 83     portland state
+13  maurice williams  united states             guard       2003 - 04            alabama
+14     nate williams  united states   guard / forward       1975 - 78         utah state
+15   rickey williams  united states             guard       1982 - 83   long beach state
+16       howard wood  united states           forward       1981 - 82          tennessee
+17       sam worthen  united states             guard       1981 - 82          marquette
+18     luther wright  united states            center       1993 - 94         seton hall

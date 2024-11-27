@@ -1,0 +1,24 @@
+                            school name         city  students  fte teachers  pupil / teacher ratio school level     low grade  high grade
+0              bowers elementary school  santa clara       403          21.0                  19.20      primary  kindergarten   5th grade
+1             bracher elementary school  santa clara       386          19.8                  19.50      primary  kindergarten   5th grade
+2               braly elementary school    sunnyvale       307          16.6                  18.50      primary  kindergarten   5th grade
+3           briarwood elementary school  santa clara       414          23.6                  17.50      primary  kindergarten   5th grade
+4                 buchser middle school  santa clara       885          42.6                  20.80       middle     6th grade   8th grade
+5                 bullis charter school    los altos       350          16.0                  21.75   elementary  kindergarten   6th grade
+6                cabrillo middle school  santa clara       883          40.0                  22.10       middle     6th grade   8th grade
+7             don callejon k - 8 school  santa clara       749          21.0                  16.90        k - 8  kindergarten   8th grade
+8              hughes elementary school  santa clara       410          21.0                  19.50      primary  kindergarten   5th grade
+9          laurelwood elementary school  santa clara       556          29.2                  19.00      primary  kindergarten   5th grade
+10              mayne elementary school       alviso       452          25.9                  17.50      primary  kindergarten   5th grade
+11           millikin elementary school  santa clara       365          15.0                  24.30      primary  kindergarten   5th grade
+12           montague elementary school  santa clara       398          21.5                  18.50      primary  kindergarten   5th grade
+13  new valley continuation high school  santa clara       169          11.0                  15.40         high    10th grade  12th grade
+14               peterson middle school    sunnyvale      1265          54.1                  23.40       middle     6th grade   8th grade
+15            pomeroy elementary school  santa clara       506          25.6                  19.80      primary  kindergarten   5th grade
+16          ponderosa elementary school    sunnyvale       500          28.3                  17.70      primary  kindergarten   5th grade
+17              santa clara high school  santa clara      1573          69.7                  22.60         high     9th grade  12th grade
+18         scott lane elementary school  santa clara       439          26.0                  16.90      primary  kindergarten   5th grade
+19             sutter elementary school  santa clara       360          20.2                  17.80      primary  kindergarten   5th grade
+20         washington elementary school  santa clara       349          17.4                  20.10      primary  kindergarten   5th grade
+21           westwood elementary school  santa clara       468          22.0                  21.30      primary  kindergarten   5th grade
+22          adrian c wilcox high school  santa clara      1908          82.2                  23.20         high     9th grade  12th grade

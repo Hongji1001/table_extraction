@@ -1,0 +1,7 @@
+   year         entrant          chassis                engine  points
+0  1952      élie bayol          osca 20     osca straight - 6       0
+1  1953      élie bayol          osca 20     osca straight - 6       0
+2  1953            osca          osca 20     osca straight - 6       0
+3  1954  equipe gordini  gordini type 16  gordini straight - 6       2
+4  1955  equipe gordini  gordini type 16  gordini straight - 6       0
+5  1956         gordini  gordini type 32  gordini straight - 8       0

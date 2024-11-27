@@ -1,0 +1,10 @@
+                antibody          brand name  approval date       type                              target
+0            alemtuzumab             campath           2001  humanized                                cd52
+1            bevacizumab             avastin           2004  humanized  vascular endothelial growth factor
+2    brentuximab vedotin            adcetris           2011   chimeric                                cd30
+3              cetuximab             erbitux           2004   chimeric    epidermal growth factor receptor
+4  gemtuzumab ozogamicin            mylotarg           2000  humanized                                cd33
+5   ibritumomab tiuxetan             zevalin           2002     murine                                cd20
+6            panitumumab            vectibix           2006      human    epidermal growth factor receptor
+7              rituximab  rituxan , mabthera           1997   chimeric                                cd20
+8            trastuzumab           herceptin           1998  humanized                               erbb2

@@ -1,0 +1,10 @@
+                          name        novelty status               authors            location
+0              formosibittacus  gen et sp nov  vaild       li , ren & shih               china
+1                haidomyrmodes  gen et sp nov  vaild       perrichot et al              france
+2             jurahylobittacus  gen et sp nov  valid       li , ren & shih               china
+3           lutzomyia adiketis         sp nov  valid                poinar  dominican republic
+4           proraphidia gomezi         sp nov  valid          jarzembowski             england
+5         proraphidia hopkinsi         sp nov  valid          jarzembowski               spain
+6                sinomeganeura  gen et sp nov  valid  ren , nel , & prokop               china
+7           syndesus ambericus         sp nov  vaild              woodruff  dominican republic
+8  termitaradus avitinquilinus         sp nov  vaild      grimaldi & engel  dominican republic

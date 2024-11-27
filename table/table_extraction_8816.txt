@@ -1,0 +1,13 @@
+                 player  height position  year born         current club
+0          stepán vrubl    1.86    guard       1976          a plus brno
+1           pavel benes    1.90    guard       1975              nymburk
+2     maurice whitfield    1.86    guard       1973     olympiada patras
+3         michal kremen    2.00  forward       1981              nymburk
+4           lukás kraus    2.01  forward       1984              liberec
+5           jiří welsch    1.97    guard       1980              unicaja
+6   ladislav sokolovsky    2.00  forward       1977              nymburk
+7          luboš bartoň    2.02  forward       1980         dkv joventut
+8           radek necas    2.04  forward       1980              nymburk
+9            petr benda    2.04   center       1982              nymburk
+10         jakub houška    2.06   center       1982                děčín
+11      ondrej starosta    2.15   center       1979  basket cai zaragoza

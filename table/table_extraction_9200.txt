@@ -1,0 +1,12 @@
+                driver  points  season  races percentage of possible points
+0   michael schumacher     148    2004     18                        82.22%
+1   michael schumacher     144    2002     17                        84.71%
+2      fernando alonso     134    2006     18                        74.44%
+3      fernando alonso     133    2005     19                        70.00%
+4   michael schumacher     123    2001     17                        72.36%
+5   michael schumacher     121    2006     18                        67.22%
+6   rubens barrichello     114    2004     18                        63.33%
+7       kimi räikkönen     112    2005     19                        58.95%
+8       kimi räikkönen     110    2007     17                        64.71%
+9       lewis hamilton     109    2007     17                        64.12%
+10     fernando alonso     109    2007     17                        64.12%

@@ -1,0 +1,33 @@
+    rank                         gymnast difficulty score  routine score  total
+0      1        natalia chernova ( rus )                -           28.1   66.8
+1      1        natalia chernova ( rus )             14.0           38.7   66.8
+2      2          anna dogonadze ( ger )                -           27.3   66.7
+3      2          anna dogonadze ( ger )             14.2           39.4   66.7
+4      3           olena movchan ( ukr )                -           27.8   65.8
+5      3           olena movchan ( ukr )             14.1           38.0   65.8
+6      4          huang shanshan ( chn )                -           26.4   65.4
+7      4          huang shanshan ( chn )             14.0           39.0   65.4
+8      5          karen cockburn ( can )                -           27.0   65.1
+9      5          karen cockburn ( can )             14.2           38.1   65.1
+10     6  heather ross - mcmanus ( can )                -           26.8   63.8
+11     6  heather ross - mcmanus ( can )             14.0           37.0   63.8
+12     7           haruka hirota ( jpn )                -           26.9   63.0
+13     7           haruka hirota ( jpn )             12.8           36.1   63.0
+14     8          andrea lenders ( ned )                -           27.4   62.7
+15     8          andrea lenders ( ned )             12.7           35.3   62.7
+16     9        rusudan khoperia ( geo )                -           26.3   62.5
+17     9        rusudan khoperia ( geo )             13.8           36.2   62.5
+18    10      katerina prokesova ( svk )                -           25.9   61.9
+19    10      katerina prokesova ( svk )             13.2           36.0   61.9
+20    11        ekaterina khilko ( uzb )                -           26.8   61.6
+21    11        ekaterina khilko ( uzb )             13.1           34.8   61.6
+22    12          kirsten lawton ( gbr )                -           27.6   60.2
+23    12          kirsten lawton ( gbr )             11.8           32.6   60.2
+24    13             lesley daly ( aus )                -           25.8   58.9
+25    13             lesley daly ( aus )             13.0           33.1   58.9
+26    14        jennifer parilla ( usa )                -           26.9   52.7
+27    14        jennifer parilla ( usa )             10.7           25.8   52.7
+28    15         irina karavaeva ( rus )                -           27.1   39.9
+29    15         irina karavaeva ( rus )              6.2           12.8   39.9
+30    16        tatiana petrenia ( blr )                -           27.6   32.9
+31    16        tatiana petrenia ( blr )              3.4            5.3   32.9

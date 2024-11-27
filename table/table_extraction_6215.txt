@@ -1,0 +1,9 @@
+                           race name                 circuit        date   winning driver         constructor  report
+0           xiv argentine grand prix            buenos aires  24 january       chris amon               matra  report
+1               vi race of champions            brands hatch    21 march   clay regazzoni             ferrari  report
+2                 questor grand prix  ontario motor speedway    28 march   mario andretti             ferrari  report
+3                  xii spring trophy             oulton park     9 april  pedro rodriguez                 brm  report
+4    xxiii brdc international trophy             silverstone       8 may      graham hill  brabham - cosworth  report
+5             vi rhein - pokalrennen              hockenheim     13 june       jacky ickx             ferrari  report
+6       xviii international gold cup             oulton park   22 august     john surtees  surtees - cosworth  report
+7  i world championship victory race            brands hatch  24 october     peter gethin                 brm  report

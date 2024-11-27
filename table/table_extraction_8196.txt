@@ -1,0 +1,18 @@
+    season             date                   location      race place
+0     1993  13 - mar - 1993         kvitfjell , norway  downhill   2nd
+1     1995  09 - dec - 1994       lake louise , canada  downhill   1st
+2     1995  11 - dec - 1994       lake louise , canada   super g   3rd
+3     1995  14 - jan - 1995         garmisch , germany   super g   2nd
+4     1995  20 - jan - 1995  cortina d'ampezzo , italy  downhill   2nd
+5     1995  21 - jan - 1995  cortina d'ampezzo , italy  downhill   1st
+6     1995  17 - feb - 1995               åre , sweden  downhill   1st
+7     1995  04 - mar - 1995         saalbach , austria  downhill   1st
+8     1995  11 - mar - 1995  lenzerheide , switzerland  downhill   1st
+9     1995  15 - mar - 1995             bormio , italy  downhill   1st
+10    1996  01 - dec - 1995       lake louise , canada  downhill   1st
+11    1996  16 - dec - 1995         st anton , austria  downhill   3rd
+12    1996  19 - jan - 1996  cortina d'ampezzo , italy  downhill   1st
+13    1996  20 - jan - 1996  cortina d'ampezzo , italy  downhill   2nd
+14    1996  03 - feb - 1996     val - d'isère , france  downhill   2nd
+15    1996  29 - feb - 1996            narvik , norway  downhill   1st
+16    1996  01 - mar - 1996            narvik , norway  downhill   2nd

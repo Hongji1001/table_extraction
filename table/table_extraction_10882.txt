@@ -1,0 +1,22 @@
+    year                                  title                   role                            producer                             director
+0   1996                             sana naman                  bless                                 maq                          boots plata
+1   1996                 mara clara : the movie                   mara                         star cinema  emil cruz jr / jerry lopez sineneng
+2   1996                      kung alam mo lang                   anna                                 maq                          boots plata
+3   1997                ako ba ang nasa puso mo                 teresa                                 maq                    jose javier reyes
+4   1997                kulayan natin ang bukas  maria elisa (mariles)                         regal films                          boots plata
+5   1997          nasaan ka nang kailangan kita        stefanie (stef)                         regal films                          boots plata
+6   1997                      paano ang puso ko                 cecile                         star cinema                         rory quintos
+7   1997                              wow multo                   judy                                 maq                         tony y reyes
+8   1997                               sanggano               angelica                          megavision                       toto natividad
+9   1997                                  babae                   alex                      gem / premiere               sigrid andrea bernardo
+10  1997                        nasaan ang puso                    ria                                 maq                        chito s roã±o
+11  1998      babangon ang huling patak ng dugo                 isabel                    rockfield ent co                        jose balagtas
+12  1998  muling ibalik ang tamis ng pag - ibig                  milet                         star cinema                          boots plata
+13  1998                    i'm sorry , my love                  tinay                          viva films                         joyce bernal
+14  1998                kay tagal kang hinintay                   anna                         star cinema                         rory quintos
+15  1998                kasal - kasalan sakalan                  milet  crown seven ventures / solar films                      edgardo vinarao
+16  1999                      my pledge of love                  raida                          viva films                          boots plata
+17  1999                    gimik : the reunion       dianne villaruel                         star cinema                       laurenti dyogi
+18  1999            isusumbong kita sa tatay ko                   joey       star cinema / fpj productions                          boots plata
+19  1999                        dito sa puso ko     ligaya tatlonghari                          viva films                          eric quizon
+20  1999                  esperanza : the movie      esperanza estrera                         star cinema                 jerry lopez sineneng

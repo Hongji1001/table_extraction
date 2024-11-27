@@ -1,0 +1,25 @@
+       date                         course  distance                      winner                race leader
+0    19 may                 milan to turin         -   francesco camusso ( ita )  francesco camusso ( ita )
+1    20 may                 turin to genoa         -       learco guerra ( ita )  francesco camusso ( ita )
+2    21 may                       rest day  rest day                    rest day                   rest day
+3    22 may               genoa to livorno         -       learco guerra ( ita )  francesco camusso ( ita )
+4    23 may                livorno to pisa         -       learco guerra ( ita )      learco guerra ( ita )
+5    24 may                   pisa to rome         -       learco guerra ( ita )      learco guerra ( ita )
+6    25 may                       rest day  rest day                    rest day                   rest day
+7    26 may                 rome to naples         -       learco guerra ( ita )      learco guerra ( ita )
+8    27 may                 naples to bari         -     adriano vignoli ( ita )      learco guerra ( ita )
+9    28 may                       rest day  rest day                    rest day                   rest day
+10   29 may             bari to campobasso         -  fãlicien vervaecke ( bel )      giuseppe olmo ( ita )
+11   30 may           campobasso to teramo         -       learco guerra ( ita )      learco guerra ( ita )
+12   31 may               teramo to ancona         -       learco guerra ( ita )      learco guerra ( ita )
+13   1 june                       rest day  rest day                    rest day                   rest day
+14   2 june               ancona to rimini         -       learco guerra ( ita )      learco guerra ( ita )
+15   3 june             rimini to florence         -       learco guerra ( ita )      learco guerra ( ita )
+16   4 june            florence to bologna         -       giuseppe olmo ( ita )  francesco camusso ( ita )
+17   5 june                       rest day  rest day                    rest day                   rest day
+18   6 june             bologna to ferrara         -       learco guerra ( ita )      learco guerra ( ita )
+19   7 june             ferrara to trieste         -     fabio battesini ( ita )      learco guerra ( ita )
+20   8 june  trieste to bassano del grappa         -       giuseppe olmo ( ita )      learco guerra ( ita )
+21   9 june                       rest day  rest day                    rest day                   rest day
+22  10 june               bassano to milan         -       giuseppe olmo ( ita )      learco guerra ( ita )
+23    total                              -   km (mi)                           -                    km (mi)

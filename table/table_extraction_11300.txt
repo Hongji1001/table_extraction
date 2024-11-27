@@ -1,0 +1,7 @@
+                          office     republican ticket    democratic ticket       liberal ticket conservative ticket socialist workers ticket socialist labor ticket
+0                       governor  nelson a rockefeller  robert m morgenthau  robert m morgenthau     david h jaquith            richard garza              eric hass
+1            lieutenant governor        malcolm wilson         john j burns         john j burns  e vernon carbonara         sylvia weinstein           john emanuel
+2                    comptroller        john p lomenzo        arthur levitt        arthur levitt       thomas d cole             allen taplin          milton herder
+3               attorney general     louis j lefkowitz      edward r dudley      edward r dudley  frederick s dennin              leroy mcrae                 (none)
+4  judge of the court of appeals       marcus g christ      john f scileppi      john f scileppi              (none)                   (none)                 (none)
+5                     us senator        jacob k javits      james b donovan      james b donovan    kieran o'doherty            carl feingold          stephen emery

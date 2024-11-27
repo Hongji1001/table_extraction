@@ -1,0 +1,24 @@
+    no in series  no in season                                  title    directed by                    written by    original air date  production code
+0            154             1                     time is on my side  david trainer     jeff filgo & jackie filgo   september 8 , 2004              701
+1            155             2        let 's spend the night together  david trainer                   dean batali  september 15 , 2004              702
+2            156             3          (i can't get no) satisfaction  david trainer                kristin newman  september 22 , 2004              703
+3            157             4                        beast of burden  david trainer                   dave schiff  september 29 , 2004              704
+4            158             5               it 's only rock and roll  david trainer                  philip stark     october 6 , 2004              705
+5            159             6                         rip this joint  david trainer                 rob des hotel    november 3 , 2004              706
+6            160             7                mother 's little helper  david trainer                    mark hudis   november 10 , 2004              707
+7            161             8                                  angie  david trainer  chris peterson & bryan moore   november 17 , 2004              708
+8            162             9     you can't always get what you want  david trainer                 gregg mettler   november 24 , 2004              709
+9            163            10                    surprise , surprise  david trainer              sarah mclaughlin    december 1 , 2004              710
+10           164            11                                 winter  david trainer                   dean batali   december 15 , 2004              711
+11           165            12                        don't lie to me  david trainer                kristin newman     january 5 , 2005              712
+12           166            13             can't you hear me knocking  david trainer                 rob des hotel    january 12 , 2005              713
+13           167            14                    street fighting man  david trainer                   alan dybner    february 9 , 2005              714
+14           168            15                     it 's all over now  david trainer                    mark hudis   february 16 , 2005              715
+15           169            16                       on with the show  david trainer                   dave schiff   february 23 , 2005              716
+16           170            17                   down the road apiece  david trainer                  philip stark       march 2 , 2005              717
+17           171            18  oh , baby (we got a good thing goin')  david trainer                 gregg mettler       march 9 , 2005              718
+18           172            19              who 's been sleeping here  david trainer                 david spancer      march 23 , 2005              719
+19           173            20                          gimme shelter  david trainer  chris peterson & bryan moore      march 30 , 2005              720
+20           174            21                   2120 so michigan ave  david trainer                   dean batali      april 27 , 2005              721
+21           175            22             2000 light years from home  david trainer                kristin newman         may 4 , 2005              722
+22           176            23                    take it or leave it  david trainer                 gregg mettler        may 11 , 2005              723

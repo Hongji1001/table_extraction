@@ -1,0 +1,14 @@
+            region            date              label       format           catalog
+0    north america    january 1969    fantasy records           lp              8387
+1   united kingdom       july 1969    liberty records           lp         lbs 83261
+2          germany            1969  bellaphon records           lp        blps 19002
+3   united kingdom      march 1973    fantasy records           lp            ft 507
+4    north america            1983    fantasy records           lp        orc - 4513
+5   united kingdom       july 1984    fantasy records           lp       fas lp 5003
+6   united kingdom       july 1984    fantasy records     cassette        fas k 5003
+7   united kingdom     august 1987    fantasy records           lp          face 502
+8   united kingdom     august 1987    fantasy records     cassette          facc 502
+9   united kingdom     august 1987    fantasy records           cd          cdef 502
+10   north america            1988    fantasy records     cassette             54513
+11   north america            1988    fantasy records           cd    fcd - 4513 - 2
+12   north america  june 10 , 2008    fantasy records  expanded cd  fan - 30877 - 02

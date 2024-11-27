@@ -1,0 +1,18 @@
+             year           location                  gold            silver            bronze
+0            1997    carrick on suir            morgan fox      david mccann    raymond clarke
+1            1998             collon        raymond clarke      david mccann       ian chivers
+2            1999     waterford city           tommy evans        morgan fox   eugene moriarty
+3            2000   blackpool , cork          david mccann   brian kenneally      mark scanlon
+4            2001  dundrod , belfast      david mccann (2)      mark scanlon    paddy moriarty
+5            2002          stamullen          mark scanlon      ciaran power       tommy evans
+6            2003              sligo      mark scanlon (2)       denis lynch  david o'loughlin
+7            2004              sligo      david o'loughlin      david mccann     nicolas roche
+8            2005            belfast  david o'loughlin (2)      mark scanlon      david mccann
+9            2006           westport      david mccann (3)      ciaran power     paídi o'brien
+10           2007          waterford  david o'loughlin (3)     paídi o'brien      mark cassidy
+11           2008           midleton         daniel martin     paídi o'brien   brian kenneally
+12           2009           dunboyne         nicolas roche  david o'loughlin     paídi o'brien
+13           2010              sligo        matt brammeier     nicolas roche     daniel martin
+14           2011            emyvale    matt brammeier (2)     daniel martin      david mccann
+15           2012            clonmel    matt brammeier (3)     nicolas roche     philip lavery
+16  2013 (169 km)        carlingford    matt brammeier (4)     philip lavery       damien shaw

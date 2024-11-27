@@ -1,0 +1,28 @@
+         city of license / market                          station channel tv ( dt )                             owned since primary affiliation
+0                         phoenix                    ksaz - tv + +           10 (10)                                    1997                 fox
+1                         phoenix                          kutp ¤¤           45 (26)                                    2001         mynetworktv
+2                     los angeles                             kttv           11 (11)                                    1986                 fox
+3                     los angeles                          kcop ¤¤           13 (13)                                    2001         mynetworktv
+4                 washington , dc                             wttg            5 (36)                                    1986                 fox
+5                 washington , dc                             wdca           20 (35)                                    2002         mynetworktv
+6        ocala - gainesville , fl  wogx (semi - satellite of wofl)           51 (31)                                    2002                 fox
+7         orlando - daytona beach                             wofl           35 (22)                                    2002                 fox
+8         orlando - daytona beach                          wrbw ¤¤           65 (41)                                    2001         mynetworktv
+9           tampa - st petersburg                         wtvt + +           13 (12)                                    1997                 fox
+10                        atlanta                    waga - tv + +            5 (27)                                    1997                 fox
+11                        chicago                             wfld           32 (31)                                    1986                 fox
+12            gary , in - chicago                        wpwr - tv           50 (51)                                    2002         mynetworktv
+13                         boston                             wfxt           25 (31)  1995 (previously owned from 1987 - 91)                 fox
+14                        detroit                         wjbk + +             2 (7)                                    1997                 fox
+15          minneapolis - st paul                     kmsp - tv ¤¤             9 (9)                                    2001                 fox
+16          minneapolis - st paul                             wftc           29 (29)                                    2002         mynetworktv
+17  secaucus , nj - new york city                     wwor - tv ¤¤            9 (38)                                    2001         mynetworktv
+18                  new york city                             wnyw            5 (44)                                    1986                 fox
+19                   philadelphia                        wtxf - tv           29 (42)                                    1995                 fox
+20            belmont - charlotte                             wjzy           46 (47)                                    2013                 fox
+21     rock hill , sc - charlotte                        wmyt - tv           55 (39)                                    2013         mynetworktv
+22                        memphis                        whbq - tv           13 (13)                                    1994                 fox
+23                 austin , texas                         ktbc + +             7 (7)                                    1997                 fox
+24            dallas - fort worth                         kdfw + +            4 (35)                                    1997                 fox
+25            dallas - fort worth                             kdfi           27 (36)                                    1998         mynetworktv
+26                        houston                             kriv           26 (26)                                    1986                 fox

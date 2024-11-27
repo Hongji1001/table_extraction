@@ -1,0 +1,11 @@
+   points                 name                club  tries  drop
+0     207           andy goode    leicester tigers      1     4
+1     201      charlie hodgson         sale sharks      0     9
+2     192       danny cipriani        london wasps      6     0
+3     179         glen jackson            saracens      2     2
+4     178         olly barkley          bath rugby      3     0
+5     152            ryan lamb    gloucester rugby      4     1
+6     127  alberto di bernardo      leeds carnegie      0     5
+7     118          shane drahm  worcester warriors      1     1
+8     115        adrian jarvis          harlequins      0     0
+9     107         chris malone          harlequins      2     2

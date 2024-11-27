@@ -1,0 +1,12 @@
+   Unnamed: 0                 week 1                week 2                   week 3                 week 4                week 5
+0     january  vanessa marie arevalo   jillian mae sundeen            wendy rosprim         paulette myers      alina novozilova
+1    february       lizette bordeaux         gina grotjohn            summer sunday        katia corriveau                   NaN
+2       march           stormy shuff  cheree lynn prochnow          feather frazier  christi nicole taylor                   NaN
+3       april         mysti sherwood            erin urban                casey mae       natasha podkuyko  angela marie taulane
+4         may             amy warner           susan weiss              joy behrman          candice hines                   NaN
+5        june        crystal beddows        dawn tortorice     erika michelle barrã             gina blair                   NaN
+6        july      jeanette rundgren        samantha speer         kathleen salazar          roxanne galla      shiloh mccormick
+7      august         chantal vachon      natasha bernasek           jamie medeiros           charis boyle                   NaN
+8   september          rebecca ramos       jennifer korbin             coco johnsen           tailor james                   NaN
+9     october        anna m pincenti        brandy ritchey  jeanette marie martinez           jaime rucker        susanne kohnen
+10   november       tiffany holliday          gina patrone       heather marie hoke             piret aava                   NaN

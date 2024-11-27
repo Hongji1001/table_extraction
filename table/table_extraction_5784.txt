@@ -1,0 +1,22 @@
+                   driver             constructor  laps time / retired  grid
+0      juan manuel fangio              alfa romeo    42     2:07:53.64     1
+1           piero taruffi                 ferrari    42        + 55.24     6
+2             nino farina              alfa romeo    42      + 1:19.31     2
+3         consalvo sanesi              alfa romeo    41        + 1 lap     4
+4    toulo de graffenried              alfa romeo    40       + 2 laps     5
+5          alberto ascari                 ferrari    40       + 2 laps     7
+6            louis chiron                maserati    40       + 2 laps    19
+7           stirling moss              hwm - alta    40       + 2 laps    14
+8            louis rosier  talbot - lago - talbot    39       + 3 laps     8
+9      philippe étancelin  talbot - lago - talbot    39       + 3 laps    12
+10           rudi fischer                 ferrari    39       + 3 laps    10
+11           harry schell                maserati    38       + 4 laps    17
+12           johnny claes  talbot - lago - talbot    35       + 7 laps    18
+13           guy mairesse  talbot - lago - talbot    31      + 11 laps    21
+14        peter whitehead                 ferrari    36       accident     9
+15          henri louveau  talbot - lago - talbot    30       accident    11
+16       george abecassis              hwm - alta    23        magneto    20
+17  yves giraud cabantous  talbot - lago - talbot    14       ignition    15
+18        luigi villoresi                 ferrari    12       accident     3
+19  josé froilán gonzález  talbot - lago - talbot    10       oil pump    13
+20             peter hirt                 veritas     0    fuel system    16

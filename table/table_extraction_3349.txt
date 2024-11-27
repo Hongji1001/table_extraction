@@ -1,0 +1,12 @@
+                  name position  height  weight  age          home town                         team / school
+0          jay arnette    guard   6 - 2     175   21        austin , tx                                 texas
+1         walt bellamy   center  6 - 11     217   21     baltimore , md                               indiana
+2           bob boozer  forward   6 - 8     220   23         omaha , ne  peoria caterpillars ( kansas state )
+3     terry dischinger  forward   6 - 6     190   19   terre haute , in                                purdue
+4   burdette haldorson  forward   6 - 7     207   26        austin , mn           phillips 66ers ( colorado )
+5       darrall imhoff   center  6 - 11     220   21      berkeley , ca                            california
+6         allen kelley    guard  5 - 11     164   27        mccune , ks        peoria caterpillars ( kansas )
+7          lester lane    guard  5 - 11     165   28       purcell , ok          wichita vickers ( oklahoma )
+8          jerry lucas  forward   6 - 8     220   20    middletown , oh                            ohio state
+9      oscar robertson  forward   6 - 5     220   21  indianapolis , in                            cincinnati
+10        adrian smith    guard   6 - 0     175   23    farmington , ky          us armed forces ( kentucky )

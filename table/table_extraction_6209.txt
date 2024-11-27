@@ -1,0 +1,17 @@
+                             race          date          location         pole position           fastest lap        race winner           constructor  report
+0            argentine grand prix    15 january      buenos aires        mario andretti     gilles villeneuve     mario andretti          lotus - ford  report
+1            brazilian grand prix    29 january       jacarepaguá       ronnie peterson      carlos reutemann   carlos reutemann               ferrari  report
+2        south african grand prix       4 march           kyalami            niki lauda        mario andretti    ronnie peterson          lotus - ford  report
+3   united states grand prix west       2 april        long beach      carlos reutemann            alan jones   carlos reutemann               ferrari  report
+4               monaco grand prix         7 may            monaco      carlos reutemann            niki lauda  patrick depailler        tyrrell - ford  report
+5              belgian grand prix        21 may            zolder        mario andretti       ronnie peterson     mario andretti          lotus - ford  report
+6              spanish grand prix        4 june            jarama        mario andretti        mario andretti     mario andretti          lotus - ford  report
+7              swedish grand prix       17 june        anderstorp        mario andretti            niki lauda         niki lauda  brabham - alfa romeo  report
+8               french grand prix        2 july       paul ricard           john watson      carlos reutemann     mario andretti          lotus - ford  report
+9              british grand prix       16 july      brands hatch       ronnie peterson            niki lauda   carlos reutemann               ferrari  report
+10              german grand prix       30 july    hockenheimring        mario andretti       ronnie peterson     mario andretti          lotus - ford  report
+11            austrian grand prix     13 august    österreichring       ronnie peterson       ronnie peterson    ronnie peterson          lotus - ford  report
+12               dutch grand prix     27 august         zandvoort        mario andretti            niki lauda     mario andretti          lotus - ford  report
+13             italian grand prix  10 september             monza        mario andretti        mario andretti         niki lauda  brabham - alfa romeo  report
+14       united states grand prix     1 october      watkins glen        mario andretti  jean - pierre jarier   carlos reutemann               ferrari  report
+15            canadian grand prix     8 october  île notre - dame  jean - pierre jarier            alan jones  gilles villeneuve               ferrari  report

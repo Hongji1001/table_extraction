@@ -1,0 +1,14 @@
+             player    nationality jersey number (s) position        years                              from
+0      bob kauffman  united states                22   pf / c  1968 - 1969                          guilford
+1       greg kelser  united states                 3       sf  1982 - 1982                    michigan state
+2        shawn kemp  united states                40       pf  1990 - 1997  trinity valley community college
+3       joe kennedy  united states                34       sf  1969 - 1970                              duke
+4     jerome kersey  united states                 7       sf  1997 - 1998                          longwood
+5        chris king  united states                35  pf / sf  1997 - 1998                       wake forest
+6       reggie king  united states                51  pf / sf  1983 - 1985                           alabama
+7         rich king  united states           25 , 45        c  1991 - 1995                          nebraska
+8    curtis kitchen  united states                42       pf         1986                     south florida
+9       bart kofoed  united states                23       pg  1991 - 1992                nebraska - kearney
+10        don kojis  united states           44 , 22       sf  1970 - 1972                         marquette
+11       tommy kron  united states                11       sg  1967 - 1969                          kentucky
+12  ibrahim kutluay         turkey                11       sg  2004 - 2005                         ülkerspor

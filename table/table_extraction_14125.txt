@@ -1,0 +1,13 @@
+    nat           name      moving from      type transfer window  ends transfer fee      source
+0   por         morais          chelsea  transfer          summer  2009         free  reuterscom
+1   mkd     nikolovski    slaven belupo  transfer          summer  2009         free           -
+2   bra        emerson       aek athens  transfer          summer  2008         free  uefacupcom
+3   bra        tavares     porto alegre  transfer          summer  2010         free           -
+4   bra       evilasio     porto alegre  transfer          summer  2008         free           -
+5   bra      zé carlos            braga  transfer          summer  2009         free     uefacom
+6   bra         rubens        villa rio      loan          summer  2008         free           -
+7   ser        corović     ael limassol      loan          summer  2008         free           -
+8   alb          haxhi        ergotelis  transfer          winter  2009         free           -
+9   ned        broerse          utrecht  transfer          winter  2009         free        nunl
+10  ser  mirosavljević        smederevo  transfer          winter  2009         free           -
+11  cyp  charalambides  carl zeiss jena  transfer          winter  2010         free           -

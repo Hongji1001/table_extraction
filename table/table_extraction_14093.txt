@@ -1,0 +1,23 @@
+     res      record                opponent                                   method                                event  round          location
+0   loss  13 - 7 - 2         fabricio werdum                               ko (punch)                       jungle fight 2      2   manaus , brazil
+1    win  13 - 6 - 2          erik wanderley                                 decision                 heat fc 2: evolution      3    natal , brazil
+2    win  12 - 6 - 2  rodrigo gripp de sousa  technical submission (guillotine choke)                       jungle fight 1      1   manaus , brazil
+3   loss  11 - 6 - 2         forrest griffin            submission (rear naked choke)                   heat fc 1: genesis      1    natal , brazil
+4   draw  11 - 5 - 2          gary goodridge                                     draw             inoki bom - ba - ye 2001      5   saitama , japan
+5    win  11 - 5 - 1          daijiro matsui                                 decision                             pride 15      3   saitama , japan
+6   loss  10 - 5 - 1             akira shoji                                 decision  pride grand prix 2000 opening round      1     tokyo , japan
+7   loss  10 - 4 - 1        kazushi sakuraba                      submission (armbar)                              pride 6      1  yokohama , japan
+8   draw  10 - 3 - 1        masakatsu funaki                                     draw            pancrase - breakthrough 4      1  yokohama , japan
+9    win      10 - 3             jeremy horn            submission (guillotine choke)                           ufc brazil      1            brazil
+10   win       9 - 3      branden lee hinkle              submission (triangle choke)                 ivc 6: the challenge      1            brazil
+11  loss       8 - 3              dan severn                    tko (doctor stoppage)         ivc 1: real fight tournament      1            brazil
+12  loss       8 - 2         kevin randleman                                 decision       universal vale tudo fighting 6      1            brazil
+13   win       8 - 1                rei zulu                                    n / a                 freestyle de belem 1  n / a    belém , brazil
+14   win       7 - 1           silvio vieira                                    n / a                 freestyle de belem 1  n / a    belém , brazil
+15   win       6 - 1        francisco nonato                                    n / a                 freestyle de belem 1  n / a    belém , brazil
+16   win       5 - 1      fernando cerchiari                                tko (cut)       brazilian vale tudo fighting 1      1            brazil
+17   win       4 - 1    carlos alberto regis                     submission (strikes)       brazilian vale tudo fighting 1      1            brazil
+18   win       3 - 1        naohisa kawamura                             ko (punches)       universal vale tudo fighting 1      1             japan
+19   win       2 - 1             drago drago                     submission (strikes)         gaisei challenge vale tudo 2      1            brazil
+20  loss       1 - 1           jorge pereira                            tko (strikes)                  circuito de lutas 3      1            brazil
+21   win       1 - 0         agrinaldo ralei                     submission (strikes)                  circuito de lutas 3      1            brazil

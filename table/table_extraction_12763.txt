@@ -1,0 +1,20 @@
+         circuit                        location                      date pole position fastest lap      winner
+0        march 8  daytona international speedway   daytona beach , florida    mat mladin  mat mladin  mat mladin
+1       april 19         barber motorsports park           leeds , alabama    mat mladin  mat mladin  mat mladin
+2       april 20         barber motorsports park           leeds , alabama    mat mladin   ben spies  mat mladin
+3       april 26              auto club speedway      fontana , california     ben spies  mat mladin   ben spies
+4       april 27              auto club speedway      fontana , california     ben spies  mat mladin   ben spies
+5         may 17                infineon raceway       sonoma , california     ben spies   ben spies   ben spies
+6         may 18                infineon raceway       sonoma , california     ben spies   ben spies   ben spies
+7         may 30         miller motorsports park             tooele , utah     ben spies   ben spies   ben spies
+8         june 1         miller motorsports park             tooele , utah     ben spies   ben spies   ben spies
+9         june 7                    road america  elkhart lake , wisconsin     ben spies   ben spies   ben spies
+10        june 8                    road america  elkhart lake , wisconsin     ben spies   ben spies  mat mladin
+11       july 20       mazda raceway laguna seca     monterey , california     ben spies  mat mladin  mat mladin
+12      august 2    mid - ohio sports car course          lexington , ohio     ben spies  mat mladin  mat mladin
+13      august 3    mid - ohio sports car course          lexington , ohio     ben spies  mat mladin  mat mladin
+14     august 16  virginia international raceway       danville , virginia     ben spies  mat mladin   ben spies
+15     august 17  virginia international raceway       danville , virginia     ben spies  mat mladin   ben spies
+16     august 30                    road atlanta       braselton , georgia     ben spies   ben spies  mat mladin
+17     august 31                    road atlanta       braselton , georgia     ben spies   ben spies   ben spies
+18  september 28       mazda raceway laguna seca     monterey , california    mat mladin  mat mladin  mat mladin

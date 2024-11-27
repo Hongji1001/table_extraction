@@ -1,0 +1,8 @@
+   draw              artist                      song        results place
+0     1        wenche myhre      alt har en mening nã            out   3rd
+1     2           publiners                  te stein  siste sjansen   4th
+2     3          tine wulff                      ride            out   6th
+3     4  alexander stenerud              find my girl          final   2nd
+4     5     janni santillan  (like you did) yesterday  siste sjansen   5th
+5     6       julius winger             like an angel            out   7th
+6     7  tone damli aaberge               butterflies          final   1st

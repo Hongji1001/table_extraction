@@ -1,0 +1,6 @@
+  number  serial number into service withdrawn  scrapped
+0    dh1            573     4 / 1962   example      2004
+1    dh2            574     4 / 1962   example  feb 1994
+2    dh3            575      example   example  oct 1997
+3    dh4            579      example   example  sep 1997
+4    dh5            580      example   example  sep 1997

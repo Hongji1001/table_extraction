@@ -1,0 +1,12 @@
+           chemical class           group   formula                                              prefix                      suffix
+0                   thiol      sulfhydryl       rsh                                  sulfanyl - ( - sh)                     - thiol
+1   sulfide ( thioether )         sulfide      rsr'                      substituentsulfanyl - ( - sr')    di (substituent) sulfide
+2               disulfide       disulfide     rssr'                   substituentdisulfanyl - ( - ssr')  di (substituent) disulfide
+3               sulfoxide        sulfinyl     rsor'                              - sulfinyl - ( - sor')  di (substituent) sulfoxide
+4                 sulfone        sulfonyl  rso 2 r'                           - sulfonyl - ( - so 2 r')    di (substituent) sulfone
+5            sulfinicacid         sulfino   rso 2 h                               sulfino - ( - so 2 h)              - sulfinicacid
+6            sulfonicacid           sulfo   rso 3 h                                 sulfo - ( - so 3 h)              - sulfonicacid
+7             thiocyanate     thiocyanate      rscn                              thiocyanato - ( - scn)      substituentthiocyanate
+8             thiocyanate  isothiocyanate      rncs                           isothiocyanato - ( - ncs)   substituentisothiocyanate
+9                  thione   carbonothioyl     rcsr'      - thioyl - ( - csr') or sulfanylidene - ( = s)                    - thione
+10                  thial   carbonothioyl      rcsh  methanethioyl - ( - csh) or sulfanylidene - ( = s)                     - thial

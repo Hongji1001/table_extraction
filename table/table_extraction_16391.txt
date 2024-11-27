@@ -1,0 +1,6 @@
+   round  pick          player        position          school
+0      2    27      al simpson           guard  colorado state
+1      3    62     danny buggs   wide receiver   west virginia
+2      4    79   robert giblin  defensive back         houston
+3      7   158  jim obradovich       tight end             usc
+4      8   183       john tate      linebacker   jackson state

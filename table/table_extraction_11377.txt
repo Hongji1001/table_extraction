@@ -1,0 +1,18 @@
+               player    nationality          position years in orlando   school / club team
+0        jeryl sasser  united states             guard      2001 - 2003   southern methodist
+1        jeryl sasser  united states             guard      2001 - 2003   southern methodist
+2       danny schayes  united states  forward - center      1996 - 1999             syracuse
+3        dennis scott  united states   guard - forward      1990 - 1997         georgia tech
+4        rony seikaly        lebanon            center      1996 - 1998             syracuse
+5        rony seikaly  united states            center      1996 - 1998             syracuse
+6          brian shaw  united states             guard      1994 - 1997     uc santa barbara
+7         miles simon  united states             guard      1998 - 1999              arizona
+8        scott skiles  united states             guard      1989 - 1994       michigan state
+9       ishmael smith  united states             guard      2012 - 2013          wake forest
+10        kenny smith  united states             guard             1996       north carolina
+11         otis smith  united states   guard - forward      1989 - 1992         jacksonville
+12     felton spencer  united states            center             1996           louisville
+13  deshawn stevenson  united states             guard      2004 - 2006  washington union hs
+14  deshawn stevenson  united states             guard      2004 - 2006  washington union hs
+15     rod strickland  united states             guard      2003 - 2004               depaul
+16       derek strong  united states           forward      1996 - 2000        xavier (ohio)

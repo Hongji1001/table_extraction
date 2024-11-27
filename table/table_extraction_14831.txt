@@ -1,0 +1,13 @@
+                week 1                week 2           week 3                    week 4          week 5
+0   alexandra penovich        josie goldberg   felicia taylor              diane deluna             NaN
+1        cassia walton             kaci lynn   amanda english  cassie and kat kellerman             NaN
+2         demi jessica         jenna jamison     dana dicillo             heidi wheeler  jenna michelle
+3          blair snell         sharae spears  chernise yvette                chelsea co             NaN
+4        heather bauer       britney arianna         jia lynn               kristi lynn             NaN
+5        crystal enloe      lexi lombardelli   katie anderson              tasha nicole  bryleigh rayne
+6          nikki ryann  brittany sylvanowicz      debbie beal             kristen smith             NaN
+7        anissa holmes   shannon bettencourt   alinna d penta           kristina jarvis             NaN
+8       stephanie emma      elizabeth taylor     rebecca lynn          stephanie strong   samantha dunn
+9       jennifer kohut           ashley lowe   jennifer lewis               jane taylor             NaN
+10        jayden tyler        lauren d'marie       ashley sey             lynn delarosa             NaN
+11       natalie marie   michelle panzarella   lindsey roeper               dayna jones     kaytee bees

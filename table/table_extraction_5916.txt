@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0                damon hill      williams - renault    71    1:49:52.976     1
+1                jean alesi      benetton - renault    71       + 17.982     5
+2        michael schumacher                 ferrari    70        + 1 lap     4
+3            mika hã¤kkinen      mclaren - mercedes    70        + 1 lap     7
+4                 mika salo        tyrrell - yamaha    70        + 1 lap    11
+5             olivier panis  ligier - mugen - honda    70        + 1 lap    15
+6              eddie irvine                 ferrari    70        + 1 lap    10
+7               pedro diniz  ligier - mugen - honda    69       + 2 laps    22
+8             ukyo katayama        tyrrell - yamaha    69       + 2 laps    16
+9                pedro lamy          minardi - ford    68       + 3 laps    18
+10              luca badoer            forti - ford    67       + 4 laps    19
+11           martin brundle        jordan - peugeot    64       spun off     6
+12       rubens barrichello        jordan - peugeot    59       spun off     2
+13  heinz - harald frentzen           sauber - ford    36         engine     9
+14          david coulthard      mclaren - mercedes    29       spun off    14
+15           johnny herbert           sauber - ford    28         engine    12
+16       jacques villeneuve      williams - renault    26       spun off     3
+17           gerhard berger      benetton - renault    26     hydraulics     8
+18        andrea montermini            forti - ford    26       spun off    20
+19           ricardo rosset         footwork - hart    24       spun off    17
+20           jos verstappen         footwork - hart    19         engine    13
+21            tarso marques          minardi - ford     0       spun off    21

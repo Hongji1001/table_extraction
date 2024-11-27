@@ -1,0 +1,21 @@
+                     driver         constructor  laps time / retired  grid
+0        michael schumacher             ferrari    69    1:24:04.888     1
+1            kimi räikkönen  mclaren - mercedes    69        + 3.362     2
+2        rubens barrichello             ferrari    69        + 3.951     5
+3             jenson button         bar - honda    69       + 42.243     7
+4           david coulthard  mclaren - mercedes    69       + 59.740    14
+5           ralf schumacher      williams - bmw    68        + 1 lap    10
+6               mark webber   jaguar - cosworth    68        + 1 lap    17
+7              jarno trulli             renault    68        + 1 lap     6
+8          antônio pizzonia   jaguar - cosworth    68        + 1 lap     8
+9        cristiano da matta              toyota    68        + 1 lap    13
+10             ralph firman       jordan - ford    68        + 1 lap    16
+11       jacques villeneuve         bar - honda    68        + 1 lap    12
+12            justin wilson  minardi - cosworth    67       + 2 laps    18
+13     giancarlo fisichella       jordan - ford    60    fuel system     9
+14            nick heidfeld   sauber - petronas    46         engine     4
+15          fernando alonso             renault    44         engine    19
+16       juan pablo montoya      williams - bmw    32         engine     3
+17            olivier panis              toyota     6     suspension    11
+18           jos verstappen  minardi - cosworth     0         clutch    20
+19  heinz - harald frentzen   sauber - petronas     0         clutch    15

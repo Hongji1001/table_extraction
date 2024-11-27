@@ -1,0 +1,9 @@
+  school (ihsaa id)      location     mascot  enrollment ihsaa class                   county  year joined
+0            bremen        bremen      lions         505          aa              50 marshall         1989
+1  culver community        culver  cavaliers         306           a              50 marshall         1977
+2             glenn     walkerton    falcons         613         aaa             71 st joseph         1966
+3           jimtown       elkhart    jimmies         642         aaa               20 elkhart         1966
+4    knox community          knox   redskins         632         aaa                75 starke         1982
+5           laville     lakeville    lancers         413           a             71 st joseph         1966
+6       new prairie  new carlisle    cougars         859        aaaa  46 laporte 71 st joseph         1968
+7            triton       bourbon    trojans         333           a              50 marshall         1980

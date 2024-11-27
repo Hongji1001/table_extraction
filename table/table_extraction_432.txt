@@ -1,0 +1,47 @@
+        municipality  population  area km square  density population per km square                area    county      Unnamed: 6
+0               oslo      590041             426                              1300                oslo      oslo    greater oslo
+1          lørenskog       32894              67                               455  inner circle north  akershus    greater oslo
+2           nittedal       21008             179                               109  inner circle north  akershus    greater oslo
+3           rælingen       15611              56                               263  inner circle north  akershus    greater oslo
+4            skedsmo       47945              75                               552  inner circle north  akershus    greater oslo
+5            enebakk       10205             195                                47  inner circle south  akershus    greater oslo
+6           nesodden       17380              61                               264  inner circle south  akershus    greater oslo
+7           oppegård       24917              34                               687  inner circle south  akershus    greater oslo
+8                ski       28120             162                               164  inner circle south  akershus    greater oslo
+9              bærum      111637             189                               547   inner circle west  akershus    greater oslo
+10  aurskog - høland       14380             894                                15  outer circle north  akershus    greater oslo
+11          eidsvoll       20781             385                                48  outer circle north  akershus    greater oslo
+12               fet       10312             137                                69  outer circle north  akershus    greater oslo
+13          gjerdrum        5843              82                                61  outer circle north  akershus    greater oslo
+14            hurdal        2625             261                                10  outer circle north  akershus    greater oslo
+15         nannestad       10982             324                                31  outer circle north  akershus    greater oslo
+16               nes       18022             609                                29  outer circle north  akershus    greater oslo
+17             sørum       15475             200                                64  outer circle north  akershus    greater oslo
+18        ullensaker       29296             250                                95  outer circle north  akershus    greater oslo
+19            lunner        8640             272                                31  outer circle north   oppland    greater oslo
+20             asker       54890              91                               522   outer circle west  akershus    greater oslo
+21             hurum        9055             156                                56   outer circle west  buskerud    greater oslo
+22            røyken       18960             111                               154   outer circle west  buskerud    greater oslo
+23             frogn       14667              85                               155  outer circle south  akershus    greater oslo
+24            vestby       14398             134                                96  outer circle south  akershus    greater oslo
+25                ås       16411             101                               142  outer circle south  akershus    greater oslo
+26             askim       14894              66                               212  outer circle south   østfold    greater oslo
+27          eidsberg       10807             229                                44  outer circle south   østfold    greater oslo
+28             hobøl        4774             239                                17  outer circle south   østfold    greater oslo
+29            marker        3471             368                                 9  outer circle south   østfold    greater oslo
+30           rømskog         676             159                                 4  outer circle south   østfold    greater oslo
+31          skiptvet        3546              93                                36  outer circle south   østfold    greater oslo
+32         spydeberg        5186             133                                35  outer circle south   østfold    greater oslo
+33          trøgstad        5092             188                                26  outer circle south   østfold    greater oslo
+34              moss       30093              58                               478         moss region   østfold     moss region
+35             rygge       14315              70                               196         moss region   østfold     moss region
+36              råde        6846             105                                61         moss region   østfold     moss region
+37             våler        4472             239                                17         moss region   østfold     moss region
+38           drammen       62815             135                               420      drammen region  buskerud  drammen region
+39              lier       23356             281                                77      drammen region  buskerud  drammen region
+40       nedre eiker       22709             114                               188      drammen region  buskerud  drammen region
+41        øvre eiker       16350             418                                37      drammen region  buskerud  drammen region
+42               hof        3061             149                                20      drammen region  vestfold  drammen region
+43       holmestrand       10059              84                               113      drammen region  vestfold  drammen region
+44             sande        8348             174                                44      drammen region  vestfold  drammen region
+45           svelvik        6478              56                               115      drammen region  vestfold  drammen region

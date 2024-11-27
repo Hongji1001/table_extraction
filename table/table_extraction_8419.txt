@@ -1,0 +1,16 @@
+           status                    name  first performance  last performance                style
+0   original cast            kiril kulish     1 october 2008    3 october 2009               ballet
+1   original cast           david álvarez     2 october 2008    3 january 2010               ballet
+2   original cast           trent kowalik     8 october 2008      7 march 2010  ballet / irish step
+3            past         tommy batchelor   10 february 2009  11 december 2009               ballet
+4            past                 alex ko     6 october 2009       15 may 2011  ballet / gymnastics
+5            past            liam redhead   23 december 2009    29 august 2010               ballet
+6            past         michael dameski    31 january 2010  5 september 2010               ballet
+7            past          kevin geraghty   19 december 2009      12 june 2011      ballet / street
+8            past          jacob clemente       3 april 2010       3 july 2011         ballet / tap
+9            past       giuseppe bausilio        3 july 2011   6 november 2011               ballet
+10           past            myles erlick  24 september 2011  13 november 2011               ballet
+11     final cast        peter mazurowski     29 august 2010    8 january 2012               ballet
+12     final cast  joseph ryan harrington    24 october 2010    8 january 2012               ballet
+13     final cast          tade biesinger        17 may 2011    8 january 2012               ballet
+14     final cast             julian elia   12 november 2011    8 january 2012               ballet

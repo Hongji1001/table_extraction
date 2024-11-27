@@ -1,0 +1,13 @@
+              name   nation position  fa cup apps  fa cup goals  total apps  total goals
+0    graham bailey  england       df            2             0           2            0
+1      jeff barker  england       df            2             0           2            0
+2   albert bateman  england       mf            2             0           2            0
+3       eddie carr  england       mf            1             0           1            0
+4        don clegg  england       gk            2             0           2            0
+5   jimmy glazzard  england       fw            2             0           2            0
+6     george green  england       df            2             0           2            0
+7      george howe  england       df            1             0           1            0
+8     vic metcalfe  england       mf            1             0           1            0
+9    arthur morton  england       df            2             0           2            0
+10       joe poole  england       fw            1             0           1            0
+11     billy price  england       fw            2             1           2            1

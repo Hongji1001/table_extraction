@@ -1,0 +1,13 @@
+     res     record           opponent                  method                                     event  round  time                                     location
+0     nc  7 - 3 (2)          che mills              no contest        ufc on fuel tv : barao vs mcdonald      3  5:00                             london , england
+1    win  7 - 3 (1)       john maguire    decision (unanimous)                                   ufc 154      3  5:00                   montreal , quebec , canada
+2     nc  6 - 3 (1)     chris clements              no contest                                   ufc 149      3  2:02                   calgary , alberta , canada
+3    win      6 - 3     henry martinez        decision (split)                                   ufc 143      3  5:00           las vegas , nevada , united states
+4   loss      5 - 3      lance benoist    decision (unanimous)  ufc fight night : shields vs ellenberger      3  5:00      new orleans , louisiana , united states
+5   loss      5 - 2       sean pierson    decision (unanimous)                                   ufc 124      3  5:00                   montreal , quebec , canada
+6    win      5 - 1  damarques johnson           tko (punches)           ufc live : jones vs matyushenko      2  4:29       san diego , california , united states
+7    win      4 - 1          greg soto     dq (illegal upkick)                                   ufc 111      3  1:30          newark , new jersey , united states
+8   loss      3 - 1      nick osipczak  tko (elbows & punches)                                   ufc 105      3  3:53                         manchester , england
+9    win      3 - 0         dan cramer    decision (unanimous)                                   ufc 101      3  5:00  philadelphia , pennsylvania , united states
+10   win      2 - 0        steve bruno    decision (unanimous)      ufc fight night : lauzon vs stephens      3  5:00              tampa , florida , united states
+11   win      1 - 0       dante rivera    decision (unanimous)             the ultimate fighter 7 finale      3  5:00           las vegas , nevada , united states

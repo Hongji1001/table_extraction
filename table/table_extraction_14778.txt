@@ -1,0 +1,9 @@
+          player  round  pick          position             nfl club
+0  bobby watkins      2    23          halfback        chicago bears
+1    dean dugger      4    46               end  philadelphia eagles
+2   dave leggett      7    74       quarterback    chicago cardinals
+3  jerry krisher     13   153            center  philadelphia eagles
+4    john borton     13   157       quarterback     cleveland browns
+5  dick brubaker     15   170               end    chicago cardinals
+6      bob myers     28   328  defensive tackle      baltimore colts
+7  dave williams     28   330             guard  pittsburgh steelers

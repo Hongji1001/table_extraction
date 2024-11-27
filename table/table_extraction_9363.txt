@@ -1,0 +1,22 @@
+   call sign  frequency mhz              city of license  erp w class fcc info
+0     k208dq           89.5            almont , colorado     16     d      fcc
+1     k220im           91.9             brush , colorado    250     d      fcc
+2     k208ch           89.5        burlington , colorado    250     d      fcc
+3     k210bg           90.1        canon city , colorado    250     d      fcc
+4     k216es           91.1           cardiff , colorado     14     d      fcc
+5     k290ak          105.9  colorado springs , colorado     55     d      fcc
+6     k292fm          106.3            denver , colorado     99     d      fcc
+7     k237cy           95.3        ft collins , colorado     10     d      fcc
+8     k229ah           93.7    grand junction , colorado     10     d      fcc
+9     k201hv           88.1            jansen , colorado     10     d      fcc
+10    k220iy           91.9         lafayette , colorado    115     d      fcc
+11   k220 gh           91.9       lake george , colorado     75     d      fcc
+12    k207bi           89.3             lamar , colorado    250     d      fcc
+13    k211eq           90.1        new castle , colorado     19     d      fcc
+14    k204ex           88.7            paonia , colorado     62     d      fcc
+15    k206bu           89.1           seibert , colorado    250     d      fcc
+16    k215da           90.9      silver cliff , colorado    250     d      fcc
+17    k218db           91.5             vilas , colorado    250     d      fcc
+18    k207bk           89.3             walsh , colorado    250     d      fcc
+19    k220de           91.9           windsor , colorado     10     d      fcc
+20    k248as           97.5     woodland park , colorado    250     d      fcc

@@ -1,0 +1,9 @@
+   pick                                   team           player          position           college
+0    57                         denver broncos       jon hohman   offensive guard         wisconsin
+1    58                         houston oilers        ray ogden         tight end           alabama
+2    59  houston oilers (from oakland raiders)       roy hilton     defensive end     jackson state
+3    60                          new york jets     rick mccurdy     defensive end          oklahoma
+4    61                     kansas city chiefs     danny thomas       quarterback               smu
+5    62                     san diego chargers  clancy williams    defensive back  washington state
+6    63                        boston patriots       fred brown  defensive tackle        miami (fl)
+7    64                          buffalo bills   ray rissmiller  offensive tackle           georgia

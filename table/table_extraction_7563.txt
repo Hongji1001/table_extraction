@@ -1,0 +1,26 @@
+                       team constructor              motorcycle tyre             rider            rounds
+0      ducati marlboro team      ducati  ducati desmosedici gp8    b      casey stoner               all
+1      ducati marlboro team      ducati  ducati desmosedici gp8    b    marco melandri               all
+2         repsol honda team       honda            honda rc212v  m b      dani pedrosa           14 - 18
+3         repsol honda team       honda            honda rc212v    m      dani pedrosa            1 - 13
+4         repsol honda team       honda            honda rc212v    m    tadayuki okada                 6
+5         repsol honda team       honda            honda rc212v    m      nicky hayden  1 - 11 , 13 - 18
+6      jir team scot motogp       honda            honda rc212v    m  andrea dovizioso               all
+7             tech 3 yamaha      yamaha         yamaha yzr - m1    m     colin edwards               all
+8             tech 3 yamaha      yamaha         yamaha yzr - m1    m    james toseland               all
+9       rizla suzuki motogp      suzuki          suzuki gsv - r    b   chris vermeulen               all
+10      rizla suzuki motogp      suzuki          suzuki gsv - r    b     nobuatsu aoki                17
+11      rizla suzuki motogp      suzuki          suzuki gsv - r    b         ben spies                 8
+12      rizla suzuki motogp      suzuki          suzuki gsv - r    b         ben spies           11 , 14
+13      rizla suzuki motogp      suzuki          suzuki gsv - r    b  kousuke akiyoshi                15
+14      rizla suzuki motogp      suzuki          suzuki gsv - r    b   loris capirossi    1 - 7 , 9 - 18
+15     kawasaki racing team    kawasaki  kawasaki ninja zx - rr    b     jamie hacking                11
+16     kawasaki racing team    kawasaki  kawasaki ninja zx - rr    b      anthony west               all
+17     kawasaki racing team    kawasaki  kawasaki ninja zx - rr    b      john hopkins   1 - 9 , 12 - 18
+18         lcr honda motogp       honda            honda rc212v    m   randy de puniet               all
+19  san carlo honda gresini       honda            honda rc212v    b   alex de angelis               all
+20  san carlo honda gresini       honda            honda rc212v    b     shinya nakano               all
+21               alice team      ducati  ducati desmosedici gp9    b        toni elías               all
+22               alice team      ducati  ducati desmosedici gp9    b  sylvain guintoli               all
+23         fiat yamaha team      yamaha         yamaha yzr - m1    b   valentino rossi               all
+24         fiat yamaha team      yamaha         yamaha yzr - m1    m     jorge lorenzo               all

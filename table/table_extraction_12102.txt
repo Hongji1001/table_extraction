@@ -1,0 +1,6 @@
+          year       supplier      chest           sleeves      back
+0      unknown        gilbert    unknown           unknown   unknown
+1  2006 - 2008          kooga  autoglass  wells bombardier  lifesure
+2  2008 - 2010          kooga  autoglass  wells bombardier  lifesure
+3  2010 - 2011          kooga  autoglass  wells bombardier  lifesure
+4  2011 - 2014  zoo sport ltd  autoglass  wells bombardier  lifesure

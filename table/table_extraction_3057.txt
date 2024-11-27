@@ -1,0 +1,6 @@
+   episode             the wãrd                              guest introductory phrase original airdate  production code
+0      749                 none      barney frank , laura ingraham                none         august 3             6097
+1      750                 none                     michael posner                none         august 4             6098
+2      753                 none                       david finkel                none        august 11             6101
+3      755                 none  richard a clarke , john fetterman                none        august 16             6103
+4      759  losing his religion                        leslie kean                none        august 23             6107

@@ -1,0 +1,15 @@
+                  model power  torque rpm  displacement (cc)    engine
+0                   2.0  n /a        4800               1984     b5204
+1                   2.5  n /a        3300               2435  b5252 s2
+2                   glt  n /a        3300               2435   b5254 s
+3                  2.0t  n /a        1800               1984  b5204 t2
+4                  2.4t  n /a        1800               2435  b5254 t3
+5              2.4t awd  n /a        1800               2435  b5254 t3
+6                t5 2.0  n /a        2700               1984  b5204 t3
+7                    t5  n /a        2700               2319  b5234 t3
+8   r fwd manual phase1  n /a        2700               2319  b5234 t4
+9     r fwd auto phase1  n /a        2700               2319  b5234 t3
+10  r awd manual phase1  n /a        2700               2319  b5234 t4
+11    r awd auto phase1  n /a        2700               2319  b5234 t6
+12    r awd auto phase2  n /a        2400               2319  b5234 t8
+13    r awd auto phase3  n /a        2500               2435  b5244 t2

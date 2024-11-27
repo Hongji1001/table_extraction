@@ -1,0 +1,11 @@
+  wager                           winner                      loser                  location                date
+0  hair                          vampiro            bestia negra ii  xochimilco , mexico city     march 21 , 1992
+1  hair                          vampiro             rick patterson    monterrey , nuevo león      june 28 , 1992
+2  hair                          vampiro              pirata morgan               mexico city      july 17 , 1992
+3  hair                          vampiro               aaron grundy    monterrey , nuevo león    august 23 , 1992
+4  hair                          vampiro             sangre chicana    monterrey , nuevo león  december 10 , 1992
+5  hair                          vampiro              pirata morgan           houston , texas  september 1 , 1998
+6  hair                          vampiro               rey bucanero               mexico city  december 13 , 2002
+7  hair                          shocker                    vampiro               mexico city      april 4 , 2003
+8  hair  cien caras and máscara año 2000  vampiro and pierroth , jr               mexico city  december 17 , 2004
+9  hair                         chessman                    vampiro         zapopan , jalisco   december 2 , 2012

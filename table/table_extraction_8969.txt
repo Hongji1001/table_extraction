@@ -1,0 +1,37 @@
+                sport                              competition name                                  competing entities     age groups                                          held every
+0            aquatics      fina world junior swimming championships                                         individuals  17 or younger                                           two years
+1           athletics  iaaf world junior championships in athletics                                         individuals        18 - 19                                           two years
+2           athletics   iaaf world youth championships in athletics                                         individuals  17 or younger                                           two years
+3           badminton                bwf world junior championships                                         individuals  19 or younger                                            one year
+4               bandy               bandy world championship u - 23                                             nations     under - 23                                           two years
+5               bandy               bandy world championship u - 19                                             nations     under - 19                                           two years
+6               bandy               bandy world championship u - 17                                             nations     under - 17                                           two years
+7               bandy               bandy world championship u - 15                                             nations     under - 15                                           two years
+8            baseball            world junior baseball championship                                             nations     under - 18               one year through 2000 , now two years
+9            baseball             world youth baseball championship                                             nations     under - 16  one year through 1998 , two years starting in 2001
+10           baseball                       big league world series                                         communities        16 - 18                                            one year
+11           baseball                    senior league world series                                         communities        14 - 16                                            one year
+12           baseball                    junior league world series                                         communities        13 - 15                                            one year
+13           baseball                    little league world series                                         communities  13 or younger                                            one year
+14         basketball            fiba under - 21 world championship                                             nations  21 or younger                               four years until 2005
+15         basketball            fiba under - 19 world championship                                             nations  19 or younger               four years until 2007 , now two years
+16         basketball            fiba under - 17 world championship                                             nations  17 or younger                                           two years
+17         basketball           fiba 3x3 u - 18 world championships                                             nations  18 or younger                                                year
+18            cricket                      u - 19 cricket world cup                                             nations  19 or younger                                           two years
+19     figure skating     world junior figure skating championships                                         individuals        13 - 19                                            one year
+20  football (soccer)                         fifa u - 20 world cup                                             nations  20 or younger                                           two years
+21  football (soccer)                         fifa u - 17 world cup                                             nations  17 or younger                                           two years
+22         ice hockey                   iihf world u20 championship                                             nations  20 or younger                                                year
+23         ice hockey                  iihf world u18 championships                                             nations  18 or younger                                                year
+24           lacrosse       under - 19 world lacrosse championships                                             nations  19 or younger                                          four years
+25             rowing             junior world rowing championships                                             nations  18 or younger                                                year
+26        rugby union                 irb junior world championship                                             nations  20 or younger                                                year
+27        rugby union             under 19 rugby world championship                                             nations  19 or younger                                                year
+28        rugby union             under 21 rugby world championship                                             nations  21 or younger                                                year
+29      speed skating      world junior speed skating championships                             individuals and nations  19 or younger                                            one year
+30      speed skating            isu junior world cup speed skating                             individuals and nations  19 or younger                                            one year
+31            sailing        isaf youth sailing world championships                                             nations    under 19 's                                            annually
+32            sailing               isaf classes world championship  held in the optimist , splash , zoom , rs tera etc  19 or younger                                             various
+33       table tennis       world junior table tennis championships                             individuals and nations  18 or younger                                            one year
+34         volleyball   men 's junior volleyball world championship                                             nations  21 or younger                                           two years
+35         volleyball      boys youth volleyball world championship                                             nations  19 or younger                                           two years

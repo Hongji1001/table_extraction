@@ -1,0 +1,10 @@
+            peak                country  elevation (m)  prominence (m)  col (m)
+0      mount ida       greece ( crete )           2456            2456        0
+1       taygetus                 greece           2404            2344       60
+2      lefka ori       greece ( crete )           2453            2038      415
+3  mount olympus                 cyprus           1952            1952        0
+4  mount kyllini                 greece           2376            1870      506
+5          dikti       greece ( crete )           2148            1798      350
+6          dirfi      greece ( euboea )           1743            1743        0
+7    mount ainos   greece ( kefalonia )           1628            1628        0
+8        fengari  greece ( samothrace )           1611            1611        0

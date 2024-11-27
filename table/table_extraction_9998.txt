@@ -1,0 +1,25 @@
+       date                                                   course  distance                   type                      winner
+0    4 july                                                   monaco         -  individual time trial   fabian cancellara ( sui )
+1    5 july                                      monaco to brignoles         -             flat stage      mark cavendish ( gbr )
+2    6 july                           marseille to la grande - motte         -             flat stage      mark cavendish ( gbr )
+3    7 july                                              montpellier         -        team time trial                      astana
+4    8 july                                  cap d'agde to perpignan         -             flat stage     thomas voeckler ( fra )
+5    9 july                      girona , spain to barcelona , spain         -             flat stage        thor hushovd ( nor )
+6   10 july                 barcelona to andorra - arcalis , andorra         -         mountain stage        brice feillu ( fra )
+7   11 july                       andorra la vella to saint - girons         -         mountain stage   luis león sánchez ( esp )
+8   12 july                                saint - gaudens to tarbes         -         mountain stage    pierrick fédrigo ( fra )
+9   13 july                                                 rest day  rest day               rest day                    rest day
+10  14 july                                      limoges to issoudun         -             flat stage      mark cavendish ( gbr )
+11  15 july                                 vatan to saint - fargeau         -             flat stage      mark cavendish ( gbr )
+12  16 july                                       tonnerre to vittel         -             flat stage      nicki sørensen ( den )
+13  17 july                                         vittel to colmar         -  medium mountain stage   heinrich haussler ( ger )
+14  18 july                                       colmar to besançon         -             flat stage       sergei ivanov ( rus )
+15  19 july                      pontarlier to verbier , switzerland         -         mountain stage    alberto contador ( esp )
+16  20 july                                                 rest day  rest day               rest day                    rest day
+17  21 july        martigny , switzerland to bourg - saint - maurice         -         mountain stage         sandy casar ( fra )
+18  22 july            bourg - saint - maurice to le grand - bornand         -         mountain stage       fränk schleck ( lux )
+19  23 july                                                   annecy         -  individual time trial    alberto contador ( esp )
+20  24 july                            bourgoin - jallieu to aubenas         -             flat stage      mark cavendish ( gbr )
+21  25 july                               montélimar to mont ventoux         -         mountain stage  juan manuel gárate ( esp )
+22  26 july  montereau - fault - yonne to paris ( champs - élysées )         -             flat stage      mark cavendish ( gbr )
+23    total                                                    total         -                km (mi)                     km (mi)

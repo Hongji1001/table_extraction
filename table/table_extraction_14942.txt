@@ -1,0 +1,11 @@
+           district      incumbent       party  first elected       results
+0   massachusetts 1     john olver  democratic           1991  re - elected
+1   massachusetts 2   richard neal  democratic           1988  re - elected
+2   massachusetts 3   jim mcgovern  democratic           1996  re - elected
+3   massachusetts 4   barney frank  democratic           1980  re - elected
+4   massachusetts 5   marty meehan  democratic           1992  re - elected
+5   massachusetts 6   john tierney  democratic           1996  re - elected
+6   massachusetts 7      ed markey  democratic           1976  re - elected
+7   massachusetts 8   mike capuano  democratic           1998  re - elected
+8   massachusetts 9  stephen lynch  democratic           2001  re - elected
+9  massachusetts 10  bill delahunt  democratic           1996  re - elected

@@ -1,0 +1,23 @@
+                    driver          constructor  laps time / retired  grid
+0       emerson fittipaldi         lotus - ford    75      1:48:18.7     7
+1         franã§ois cevert       tyrrell - ford    75         + 42.7     3
+2           george follmer        shadow - ford    75       + 1:13.1    14
+3             peter revson       mclaren - ford    74        + 1 lap     5
+4   jean - pierre beltoise                  brm    74        + 1 lap    10
+5              denny hulme       mclaren - ford    74        + 1 lap     2
+6            mike beuttler         march - ford    74        + 1 lap    19
+7          henri pescarolo         march - ford    73       + 2 laps    18
+8           clay regazzoni                  brm    69       + 6 laps     8
+9        wilson fittipaldi       brabham - ford    69       + 6 laps    12
+10             nanni galli  iso marlboro - ford    69       + 6 laps    20
+11              jacky ickx              ferrari    69       + 6 laps     6
+12        carlos reutemann       brabham - ford    66      halfshaft    15
+13           howden ganley  iso marlboro - ford    63    out of fuel    21
+14         ronnie peterson         lotus - ford    56        gearbox     1
+15          jackie stewart       tyrrell - ford    47         brakes     4
+16              niki lauda                  brm    28           tyre    11
+17             graham hill        shadow - ford    27         brakes    22
+18           mike hailwood       surtees - ford    25       oil leak     9
+19           jackie oliver        shadow - ford    23         engine    13
+20       andrea de adamich       brabham - ford    17          wheel    17
+21             carlos pace       surtees - ford    13      halfshaft    16

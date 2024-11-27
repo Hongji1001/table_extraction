@@ -1,0 +1,14 @@
+    pick  round            player            position             school
+0      4      1  broderick thomas  outside linebacker           nebraska
+1     33      2     danny peebles       wide receiver           nc state
+2     90      4  anthony florence      defensive back  bethune - cookman
+3    117      5      jamie lawson        running back     nicholls state
+4    146      6        chris mohr              punter            alabama
+5    154      6    derrick little          linebacker     south carolina
+6    200      8          carl bax               guard           missouri
+7    230      9       patrick egu        running back             nevada
+8    257     10        ty granger              tackle            clemson
+9    284     11        rod mounts               guard          texas a&m
+10   290     11    willie griffin       defensive end           nebraska
+11   302     11       herb duncan       wide receiver   northern arizona
+12   329     12       terry young      defensive back   georgia southern

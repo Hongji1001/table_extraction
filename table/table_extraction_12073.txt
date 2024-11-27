@@ -1,0 +1,9 @@
+   lane                name         country     mark  react
+0     6           liu xiang           china  7.46 sb  0.217
+1     8       allen johnson   united states     7.55  0.176
+2     3  staņislavs olijars          latvia  7.60 sb  0.136
+3     7     evgeniy borisov          russia     7.60  0.232
+4     5     thomas blaschek         germany     7.64  0.198
+5     4         allan scott  united kingdom     7.65  0.148
+6     1    jackson quiñónez           spain     7.66  0.217
+7     2      yoel hernández            cuba     7.91  0.249

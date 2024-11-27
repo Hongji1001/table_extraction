@@ -1,0 +1,16 @@
+                                    manufacturer                          model                   kit / factory       wing  seats
+0                                      aeroprakt                  a - 22 foxbat                         factory  high wing      2
+1                                        allegro  allegro 2000 and allegro 2007  approved kit and factory built  high wing      2
+2                                        evektor                      sportstar                         factory        low      2
+3                                         jabiru                           j120                         factory       high      2
+4                                         jabiru                           j160                            both       high      2
+5                                         jabiru                           j170                            both       high      2
+6                                         jabiru                           j230                            both       high      2
+7                                         jabiru                           j250                             kit       high      2
+8                                         jabiru                         ul - d                             kit       high      2
+9                                      pipistrel                          sinus    factory & kit built approved  high wing      2
+10                                     pipistrel  virus - virus sw (short wing)    factory & kit built approved  high wing      2
+11  savage classic , savage cruiser , savage cub                            cub    factory & kit built approved  high wing      2
+12                          tl 2000 sting carbon                          sting          approved factory built   low wing      2
+13                         raj hamsa ultralights                x - air hanuman             approved kit or lsa  high wing      2
+14                              x - air standard               x - air standard                    approved kit  high wing      2

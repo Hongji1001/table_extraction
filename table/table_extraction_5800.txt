@@ -1,0 +1,14 @@
+           name country       status            moving to transfer fee
+0         mears     eng  transferred         derby county          1 m
+1    sheringham     eng  transferred    colchester united         free
+2   reo - coker     eng  transferred          aston villa        8.5 m
+3        newton     eng  transferred       leicester city         free
+4       carroll     nir  transferred              rangers         free
+5      benayoun     isr  transferred            liverpool  undisclosed
+6     konchesky     eng  transferred               fulham       3.25 m
+7      harewood     eng  transferred          aston villa  undisclosed
+8         tévez     arg  transferred    manchester united  undisclosed
+9       ephraim     eng       loaned  queens park rangers         loan
+10       dailly     sco       loaned          southampton         loan
+11      ephraim     eng  transferred  queens park rangers  undisclosed
+12       dailly     sco  transferred              rangers  undisclosed

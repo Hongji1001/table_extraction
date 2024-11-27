@@ -1,0 +1,27 @@
+    pick             player                  team position                hometown / school
+0      1        al chambers      seattle mariners       of                  harrisburg , pa
+1      2          tim leary         new york mets      rhp                             ucla
+2      3      jay schroeder     toronto blue jays        c           pacific palisades , ca
+3      4      brad komminsk        atlanta braves       of                        lima , oh
+4      5      juan bustabad     oakland athletics       ss                     hialeah , fl
+5      6     andy van slyke    st louis cardinals       of                new hartford , ny
+6      7        john bohnet     cleveland indians      lhp                     vallejo , ca
+7      8      john mizerock        houston astros        c                punxsutawney , pa
+8      9     steve buechele     chicago white sox       ss                   fullerton , ca
+9     10        tim wallach        montreal expos       1b              cal state fullerton
+10    11       kevin brandt       minnesota twins       of                     nekoosa , wi
+11    12        jon perlman          chicago cubs      rhp                baylor university
+12    13         rick leach        detroit tigers       of           university of michigan
+13    14       joe lansford      san diego padres       1b                    san jose , ca
+14    15     scott garrelts  san francisco giants      rhp                     buckley , il
+15    16         steve howe   los angeles dodgers      lhp           university of michigan
+16    17  jerry don gleaton         texas rangers      lhp    university of texas at austin
+17    18       rick luecken  san francisco giants      rhp                     houston , tx
+18    19    rick seilheimer     chicago white sox        c                     brenham , tx
+19    20          dan lamar       cincinnati reds        c                     houston , tx
+20    21     atlee hammaker    kansas city royals      lhp  east tennessee state university
+21    22      mike sullivan       cincinnati reds      rhp               clemson university
+22    23        chris baker        detroit tigers       of            dearborn heights , mi
+23    24          bob geren      san diego padres        c                   san diego , ca
+24    25        steve perry   los angeles dodgers      rhp           university of michigan
+25    26     mike stenhouse     oakland athletics       of               harvard university

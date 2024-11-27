@@ -1,0 +1,8 @@
+   round            name position                                     school                  signed
+0      1  larry burchart      rhp                  oklahoma state university  no dodgers - 1967 june
+1      2     james doran       of                  staunton military academy                     yes
+2      3  jeffrey bowman      rhp                     modesto junior college                      no
+3      4   maurice smith        c  university of illinois at urbanachampaign                     yes
+4      5    paul devaney      rhp               rochester business institute                     yes
+5      6  michael babler      rhp                             chabot college                      no
+6      7     eldon jones      lhp              trinidad state junior college     no athletics - 1970

@@ -1,0 +1,19 @@
+                         name                  circuit          date         winning driver winning constructor  report
+0             nice grand prix                     nice      22 april        luigi villoresi            maserati  report
+1        marseille grand prix                    prado        12 may         raymond sommer            maserati  report
+2            forez grand prix     st just - andrezieux        19 may         raymond sommer            maserati  report
+3                   paris cup         bois de boulogne        30 may  jean - pierre wimille          alfa romeo  report
+4   grand prix des frontières                   chimay        9 june          leslie brooke                 era  report
+5              gransden lodge  gransden lodge airfield       15 june       george abecassis             bugatti  report
+6       roussillon grand prix                perpignan       30 june  jean - pierre wimille          alfa romeo  report
+7         burgundy grand prix                    dijon        7 july  jean - pierre wimille          alfa romeo  report
+8             albi grand prix                     albi       14 july         tazio nuvolari            maserati  report
+9           nantes grand prix                   nantes       28 july                   raph            maserati  report
+10              ulster trophy               ballyclare     10 august            prince bira                 era  report
+11   circuit des trois villes                    lille     25 august         raymond sommer            maserati  report
+12   circuit des trois villes                    lille     25 august          henri louveau            maserati  report
+13           milan grand prix            sempione park  29 september    carlo felice trossi          alfa romeo  report
+14             coupe du salon         bois de boulogne     6 october         raymond sommer            maserati  report
+15         gávea circuit race                    gávea     6 october            chico landi          alfa romeo  report
+16      penya rhin grand prix                pedralbes    27 october        giorgio pelassa            maserati  report
+17       boa vista grand prix           rio de janeiro   15 december            chico landi          alfa romeo  report

@@ -1,0 +1,8 @@
+                   title                                               year            developer               publisher           platform
+0              blue mars                                   2009 (open beta)       avatar reality          avatar reality  microsoft windows
+1                 crysis                                               2007     crytek frankfurt         electronic arts  microsoft windows
+2         crysis warhead                                               2008      crytek budapest         electronic arts  microsoft windows
+3      entropia universe  2003 (initial version) 2009 (cryengine 2 version)              mindark                 mindark  microsoft windows
+4  merchants of brooklyn                                               2009  paleo entertainment     paleo entertainment  microsoft windows
+5                the day                                                tba     reloaded studios  nexon tencent holdings  microsoft windows
+6              vigilance                                           released     harrington group        harrington group  microsoft windows

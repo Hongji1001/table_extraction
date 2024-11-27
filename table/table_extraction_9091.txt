@@ -1,0 +1,24 @@
+                 station japanese  distance (km) rapid                    location
+0                fukui ※      福井駅            0.0     ●                       fukui
+1           shin - fukui     新福井駅            0.5     ●                       fukui
+2           fukuiguchi ※     福井口駅            1.5     ●                       fukui
+3   echizen - kaihotsu ※    越前開発駅            2.4     ●                       fukui
+4     echizen - shinbo ※    越前新保駅            3.4     ●                       fukui
+5            oiwakeguchi     追分口駅            4.4     ●                       fukui
+6    higashi - fujishima     東藤島駅            5.3     ●                       fukui
+7   echizen - shimabashi    越前島橋駅            6.0     ●                       fukui
+8          kannonmachi ※     観音町駅            7.3     ●  eiheiji , yoshida district
+9             matsuoka ※      松岡駅            8.4     ●  eiheiji , yoshida district
+10             shiizakai     志比堺駅            9.3     ｜  eiheiji , yoshida district
+11        eiheijiguchi ※    永平寺口駅           10.9     ●  eiheiji , yoshida district
+12             shimoshii     下志比駅           11.9     ｜  eiheiji , yoshida district
+13               kōmyōji     光明寺駅           12.7     ｜  eiheiji , yoshida district
+14                domeki       轟駅           14.2     ｜  eiheiji , yoshida district
+15      echizen - nonaka    越前野中駅           15.7     ｜  eiheiji , yoshida district
+16               sannō ※      山王駅           17.2     ●  eiheiji , yoshida district
+17    echizen - takehara    越前竹原駅           19.3     ●  eiheiji , yoshida district
+18              kobunato     小舟渡駅           21.2     ｜  eiheiji , yoshida district
+19                  hota      保田駅           23.1     ｜                   katsuyama
+20               hossaka      発坂駅           24.5     ●                   katsuyama
+21               hishima      比島駅           26.4     ▲                   katsuyama
+22           katsuyama ※      勝山駅           27.8     ●                   katsuyama

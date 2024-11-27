@@ -1,0 +1,21 @@
+         model        built  quantity  seats     length                   engine
+0    pg - 2501  1939 - 1940         8     25  ft1in (m)        gmc 248 6 cyl gas
+1    pg - 2502  1939 - 1940        66     25  ft1in (m)        gmc 308 6 cyl gas
+2    pg - 2503         1941         4     25  ft1in (m)        gmc 248 6 cyl gas
+3    pg - 2504  1940 - 1941        70     25  ft1in (m)        gmc 308 6 cyl gas
+4    pg - 2505  1941 - 1942       118     25  ft1in (m)        gmc 308 6 cyl gas
+5    pg - 2901  1939 - 1940        50     29  ft0in (m)        gmc 426 6 cyl gas
+6    pd - 2901  1939 - 1940        16     29  ft0in (m)  gmc 4 - 71 4 cyl diesel
+7    pg - 2902  1940 - 1941        56     29  ft0in (m)        gmc 426 6 cyl gas
+8    pd - 2902  1941 - 1942       249     29  ft0in (m)  gmc 4 - 71 4 cyl diesel
+9    pg - 2903  1941 - 1942       304     29  ft0in (m)        gmc 426 6 cyl gas
+10   pd - 3301         1942       115     33  ft0in (m)  gmc 4 - 71 4 cyl diesel
+11   pg - 3301  1942 - 1943        49     33  ft0in (m)        gmc 477 6 cyl gas
+12   pd - 3701  1940 - 1941        59     37  ft0in (m)  gmc 6 - 71 6 cyl diesel
+13  pdg - 3701  1940 - 1941       240     37  ft0in (m)  gmc 6 - 71 6 cyl diesel
+14   pg - 3701  1940 - 1941        70     37  ft0in (m)        gmc 707 6 cyl gas
+15  pgg - 3701  1940 - 1941        91     37  ft0in (m)        gmc 707 6 cyl gas
+16  pda - 3701  1942 - 1943       185     37  ft0in (m)  gmc 4 - 71 4 cyl diesel
+17  pga - 3701  1942 - 1943        51     37  ft0in (m)        gmc 477 6 cyl gas
+18  pdg - 4101  1940 - 1941       224     41  ft0in (m)  gmc 6 - 71 6 cyl diesel
+19  pgg - 4101  1940 - 1941        35     41  ft0in (m)        gmc 707 6 cyl gas

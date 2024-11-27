@@ -1,0 +1,19 @@
+    week                 date              opponent     result  record           game site  attendance
+0      1   september 5 , 1993        miami dolphins  l 20 - 24   0 - 1        hoosier dome     51858.0
+1      2  september 12 , 1993    cincinnati bengals    w 9 - 6   1 - 1  riverfront stadium     50299.0
+2      3                    -                     -          -       -                   -         NaN
+3      4  september 26 , 1993      cleveland browns  w 23 - 10   2 - 1        hoosier dome     59654.0
+4      5     october 3 , 1993        denver broncos  l 13 - 35   2 - 2   mile high stadium     74953.0
+5      6    october 10 , 1993        dallas cowboys   l 3 - 27   2 - 3        hoosier dome     60453.0
+6      7                    -                     -          -       -                   -         NaN
+7      8    october 24 , 1993        miami dolphins  l 27 - 41   2 - 4  joe robbie stadium     57301.0
+8      9    october 31 , 1993  new england patriots    w 9 - 6   3 - 4        hoosier dome     46522.0
+9     10    november 7 , 1993   washington redskins  l 24 - 30   3 - 5         rfk stadium     50523.0
+10    11   november 14 , 1993         new york jets  l 17 - 31   3 - 6        hoosier dome     47351.0
+11    12   november 21 , 1993         buffalo bills   l 9 - 23   3 - 7        rich stadium     79101.0
+12    13   november 29 , 1993    san diego chargers   l 0 - 31   3 - 8        hoosier dome     54110.0
+13    14    december 5 , 1993         new york jets    w 9 - 6   4 - 8     the meadowlands     45799.0
+14    15   december 12 , 1993       new york giants   l 6 - 20   4 - 9      giants stadium     70411.0
+15    16   december 19 , 1993   philadelphia eagles  l 10 - 20  4 - 10        hoosier dome     44952.0
+16    17   december 26 , 1993  new england patriots   l 0 - 38  4 - 11     foxboro stadium     26571.0
+17    18     january 2 , 1994         buffalo bills  l 10 - 30  4 - 12        hoosier dome     43028.0

@@ -1,0 +1,11 @@
+   rank           city  population  year of census or estimate country
+0     1    mexico city     8851080                        2010  mexico
+1     2  new york city     8175133                        2010     usa
+2     3    los angeles     3792621                        2010     usa
+3     4        toronto     2791140                        2011  canada
+4     5        chicago     2695598                        2010     usa
+5     6        houston     2099451                        2010     usa
+6     7       montreal     1854442                        2010  canada
+7     8       ecatepec     1655015                        2010  mexico
+8     9    guadalajara     1564514                        2010  mexico
+9    10   philadelphia     1556396                        2010     usa

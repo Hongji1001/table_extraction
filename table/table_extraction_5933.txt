@@ -1,0 +1,9 @@
+                   tournament      2002      2003      2004     2005     2006     2007     2008     2009     2010     2011     2012
+0                     fed cup   fed cup   fed cup   fed cup  fed cup  fed cup  fed cup  fed cup  fed cup  fed cup  fed cup  fed cup
+1                 world group        qf         w         f        f       qf       sf       qf       qf       qf       qf        a
+2     world group play - offs         a         a         a        a        w        a        w        w        w        l        a
+3              world group ii  not held  not held  not held        a        a        a        a        a        a        a        l
+4  world group ii play - offs  not held  not held  not held        a        a        a        a        a        a        a        w
+5     europe / africa group i         a         a         a        a        a        a        a        a        a        a        a
+6                  win - loss     1 - 1     4 - 0     3 - 1    2 - 1    1 - 1    1 - 1    1 - 1    1 - 1    1 - 1    0 - 2    1 - 1
+7            year end ranking         6         1         1        2        3        3        5       11        9       15       16

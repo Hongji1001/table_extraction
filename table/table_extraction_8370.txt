@@ -1,0 +1,10 @@
+                             circuit           location / state         date winning driver                team
+0                        amaroo park   sydney , new south wales  26 - 28 feb  peter doulman       m3 motorsport
+1             symmons plains raceway      launceston , tasmania  12 - 14 mar  peter doulman       m3 motorsport
+2  phillip island grand prix circuit  phillip island , victoria    2 - 4 apr  peter doulman       m3 motorsport
+3     lakeside international raceway      brisbane , queensland  16 - 18 apr     colin bond  caltex team toyota
+4               winton motor raceway         benalla , victoria     1416 may  peter doulman       m3 motorsport
+5              eastern creek raceway   sydney , new south wales    4 - 6 jun     colin bond  caltex team toyota
+6           mallala motor sport park  mallala , south australia    2 - 4 jul     john smith  caltex team toyota
+7                 barbagallo raceway  perth , western australia   9 - 11 jul     john smith  caltex team toyota
+8                  oran park raceway   sydney , new south wales    6 - 8 aug  peter doulman       m3 motorsport

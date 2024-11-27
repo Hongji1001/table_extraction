@@ -1,0 +1,6 @@
+             player    position  ekstraklasa  polish cup  uefa cup  total
+0         ján mucha  goalkeeper            1           0         2      3
+1             roger  midfielder            1           0         2      3
+2    maciej iwański     forward            1           0         2      3
+3  miroslav radović  midfielder            1           0         2      3
+4    wojciech szala  midfielder            1           0         2      3

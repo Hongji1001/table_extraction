@@ -1,0 +1,6 @@
+         opposing team  against              date venue          round
+0     stockport county        0    8 january 1949     h      3rd round
+1  sheffield wednesday        1   29 january 1949     h      4th round
+2       newport county        2  12 february 1949     h      5th round
+3         derby county        1  26 february 1949     h  quarter final
+4       leicester city        3     26 march 1949     n     semi final

@@ -1,0 +1,9 @@
+   draw                               song                               performer  points rank
+0     1                        the real me  kiev connolly & the missing passengers     104  1st
+1     2                               easy                         honor heffernan      97  2nd
+2     3  this isn't war (it 's revolution)                             nicola kerr      79  3rd
+3     4                          uaigneach                             barry ronan      48  8th
+4     5                         here we go                            linda martin      71  6th
+5     6                         angel eyes                            jenny newman      77  5th
+6     7                       song for you                              dave lalor      68  7th
+7     8                 it was meant to be                                  noelle      79  3rd

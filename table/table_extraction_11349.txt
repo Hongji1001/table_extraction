@@ -1,0 +1,12 @@
+                       album title format  year      original label        chart positions
+0            distant plastic trees     lp  1991           red flame                      -
+1                  the wayward bus     lp  1992               popup                      -
+2            the house of tomorrow     ep  1992  feel good all over                      -
+3   the charm of the highway strip     lp  1994       merge records                      -
+4                          holiday     lp  1994  feel good all over                      -
+5                         get lost     lp  1995       merge records                      -
+6                    69 love songs     lp  1999       merge records                      -
+7                                i     lp  2004    nonesuch records  152 ( billboard 200 )
+8                       distortion     lp  2008    nonesuch records     77 (billboard 200)
+9                          realism     lp  2010    nonesuch records    110 (billboard 200)
+10   love at the bottom of the sea     lp  2012       merge records     89 (billboard 200)

@@ -1,0 +1,8 @@
+            school       location       mascot  size ihsaa class         county
+0  crawford county        marengo     wolfpack   487          aa    13 crawford
+1         mitchell       mitchell  bluejackets   620         aaa    47 lawrence
+2          orleans        orleans     bulldogs   258           a      59 orange
+3            paoli          paoli         rams   511          aa      59 orange
+4    perry central        leopold   commodores   334          aa       62 perry
+5   springs valley    french lick   blackhawks   319           a      59 orange
+6  west washington  campbellsburg     senators   307           a  88 washington

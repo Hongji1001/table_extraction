@@ -1,0 +1,14 @@
+    season         manager   record  win % post - season record post - season win % mlb affiliate
+0     2001      joe cannon  92 - 48    657                4 - 0               1.000       houston
+1     2002      joe cannon  81 - 59    579                    -                   -       houston
+2   2003 ♦      russ nixon  75 - 63    543                0 - 2                 000       houston
+3     2004    iván dejesús  68 - 72    486                    -                   -       houston
+4     2005       tim bogar  81 - 58    583                    -                   -       houston
+5   2006 ♦       jack lind  75 - 63    543                0 - 2                 000       houston
+6     2007  gregg langbehn  59 - 81    421                    -                   -       houston
+7     2008  gregg langbehn  45 - 93    326                    -                   -       houston
+8     2009     tom lawless  68 - 72    486                    -                   -       houston
+9     2010  rodney linares  71 - 68    511                    -                   -       houston
+10    2011  rodney linares  59 - 79    428                    -                   -       houston
+11    2012    iván dejesús  69 - 69    500                    -                   -       houston
+12    2013  brian buchanan  44 - 42    512                    -                   -   kansas city

@@ -1,0 +1,22 @@
+                 rider manufacturer  laps time / retired  grid
+0      valentino rossi       yamaha    27      45:43.156     1
+1        sete gibernau        honda    27        + 8.631     2
+2       marco melandri        honda    27       + 18.460     3
+3          alex barros        honda    27       + 26.938     8
+4        shinya nakano     kawasaki    27       + 27.659     5
+5         troy bayliss        honda    27       + 28.509     9
+6           max biaggi        honda    27       + 30.618    16
+7        makoto tamada        honda    27       + 36.887     7
+8        colin edwards       yamaha    27       + 37.608    15
+9         carlos checa       ducati    27       + 39.678    12
+10        alex hofmann     kawasaki    27       + 42.283    10
+11          toni elías       yamaha    27       + 55.457    13
+12     loris capirossi       ducati    27     + 1:02.372     6
+13        john hopkins       suzuki    27     + 1:19.346    11
+14       roberto rolfo       ducati    27     + 1:33.607    18
+15       james ellison        blata    26        + 1 lap    21
+16     franco battaini        blata    26        + 1 lap    19
+17          rubén xaus       yamaha    24       + 3 laps    17
+18        nicky hayden        honda    20     retirement     4
+19  kenny roberts , jr       suzuki    11     retirement    14
+20         shane byrne    proton kr     2     retirement    20

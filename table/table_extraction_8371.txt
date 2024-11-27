@@ -1,0 +1,11 @@
+     position            name             party  first elected      district
+0    chairman   sharon bulova  democratic party           2009       - large
+1  supervisor       john cook  republican party           2009      braddock
+2  supervisor      john foust  democratic party           2007   dranesville
+3  supervisor   cathy hudgins  democratic party           1999   hunter mill
+4  supervisor      jeff mckay  democratic party           2007           lee
+5  supervisor  penelope gross  democratic party           1995         mason
+6  supervisor   gerald hyland  democratic party           1988  mount vernon
+7  supervisor     linda smyth  democratic party           2003    providence
+8  supervisor     pat herrity  republican party           2007   springfield
+9  supervisor    michael frey  republican party           1991         sully

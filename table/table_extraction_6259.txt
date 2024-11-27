@@ -1,0 +1,18 @@
+                date                                     venue  result  scored                           competition
+0    18 october 1999              mong kok stadium , hong kong   4 - 1       0      2000 afc asian cup qualification
+1    24 october 1999              mong kok stadium , hong kong   1 - 1       0      2000 afc asian cup qualification
+2      25 april 2000             hong kong stadium , hong kong   0 - 1       0                              friendly
+3     8 october 2000                                 hong kong   1 - 0       0                              friendly
+4   10 december 2000             hong kong stadium , hong kong   1 - 2       0                              friendly
+5       4 march 2001             hong kong stadium , hong kong   1 - 1       0     2002 fifa world cup qualification
+6       8 march 2001             hong kong stadium , hong kong   0 - 2       0     2002 fifa world cup qualification
+7      11 march 2001             hong kong stadium , hong kong   0 - 2       0     2002 fifa world cup qualification
+8      20 march 2001            al sadd stadium , doha , qatar   0 - 1       0     2002 fifa world cup qualification
+9      23 march 2001            al sadd stadium , doha , qatar   2 - 1       0     2002 fifa world cup qualification
+10     25 march 2001            al sadd stadium , doha , qatar   0 - 3       0     2002 fifa world cup qualification
+11  22 february 2003             hong kong stadium , hong kong   2 - 0       0    2003 eaff championship preliminary
+12  24 february 2003             hong kong stadium , hong kong   3 - 0       0    2003 eaff championship preliminary
+13      2 march 2003             hong kong stadium , hong kong  11 - 0       1    2003 eaff championship preliminary
+14     25 march 2003              mong kok stadium , hong kong   5 - 1       2        2004 afc asian cup preliminary
+15     30 march 2003              mong kok stadium , hong kong   2 - 2       0        2004 afc asian cup preliminary
+16    23 august 2009  world games stadium , kaohsiung , taiwan   4 - 0       0  2010 eaff championship semi - finals

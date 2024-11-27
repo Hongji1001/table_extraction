@@ -1,0 +1,10 @@
+                 school      location       mascot        county  year joined   previous conference  year left                        conference joined
+0  shipshewanna - scott  shipshewanna      indians   44 lagrange         1964       lagrange county       1966       none (consolidated into westview )
+1                topeka        topeka        bears   44 lagrange         1964       lagrange county       1966       none (consolidated into westview )
+2                albion        albion      trojans      57 noble         1966          noble county       1968  none (consolidated into central noble )
+3              cromwell      cromwell     spartans      57 noble         1966          noble county       1967     none (consolidated into west noble )
+4         howe military          howe       cadets  44 la grange         1966          independents       1980                             independents
+5              ligonier      ligonier  red raiders      57 noble         1966          noble county       1967     none (consolidated into west noble )
+6                wawaka        wawaka     chargers      57 noble         1966          noble county       1967     none (consolidated into west noble )
+7             wolf lake     wolf lake       wolves      57 noble         1966          noble county       1968  none (consolidated into central noble )
+8               garrett       garrett  railroaders     17 dekalb         1981  northeastern indiana       2005                             allen county

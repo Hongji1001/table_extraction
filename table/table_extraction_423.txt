@@ -1,0 +1,11 @@
+  strongs   hebrew word strongs transliteration strongs words compounded english spelling
+0    3470    יְשַׁעְיָה             y e sha'yah              yasha & yah         jeshajah
+1   3470a  יְשַׁעְיָהוּ           y e sha'yahuw             yasha & yahu        jeshajahu
+2    5418     נְתַנְיָה             n e thanyah             nathan & yah        nethanjah
+3   5418a   נְתַנְיָהוּ           n e thanyahuw            nathan & yahu       nethanjahu
+4     138    אֲדֹנִיָּה               'adoniyah             'adown & yah         adonijah
+5    138a  אֲדֹנִיָּהוּ             'adoniyahuw            'adown & yahu        adonijahu
+6     452      אֵלִיָּה                 'eliyah                'el & yah           elijah
+7    452a    אֵלִיָּהוּ                'eliyahu               'el & yahu          elijahu
+8    3414     יִרְמְיָה              yirm e yah               ruwm & yah         jirmejah
+9   3414a   יִרְמְיָהוּ            yirm e yahuw              ruwm & yahu        jirmejahu

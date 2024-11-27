@@ -1,0 +1,11 @@
+   rank                name        years  matches  goals
+0     1        petar zhekov  1963 - 1976      333    253
+1     2       nasko sirakov  1980 - 1998      294    196
+2     3  dinko dermendzhiev  1961 - 1974      447    194
+3     4        hristo bonev  1966 - 1984      410    185
+4     5        plamen getov  1977 - 1995      286    165
+5     6       nikola kotkov  1956 - 1971      322    163
+6     7    stefan bogomilov  1963 - 1979      353    162
+7     8     petar mihtarski  1984 - 2000      301    157
+8     9        petko petkov  1968 - 1980      229    152
+9    10     dimitar yakimov  1956 - 1974      308    151

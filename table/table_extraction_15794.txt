@@ -1,0 +1,20 @@
+                  driver                            team  laps time / retired  grid  points
+0     sébastien bourdais            newman / haas racing   154    1:49:22.498     1      22
+1        mario domínguez              herdez competition   154   + 0.084 secs     6      16
+2   michel jourdain , jr                      team rahal   154   + 0.245 secs     3      14
+3        bruno junqueira            newman / haas racing   154  + 12.042 secs     2      12
+4           oriol servià                  patrick racing   154  + 12.055 secs     7      10
+5         darren manning                   walker racing   154  + 24.602 secs     5       8
+6     patrick carpentier                  team player 's   153        + 1 lap    17       6
+7           jimmy vasser  american spirit team johansson   153        + 1 lap    11       5
+8          rodolfo lavín                   walker racing   153        + 1 lap     8       4
+9         roberto moreno              herdez competition   153        + 1 lap    12       3
+10    ryan hunter - reay  american spirit team johansson   152       + 2 laps    15       2
+11            paul tracy                  team player 's   152       + 2 laps    16       1
+12        tiago monteiro     fittipaldi - dingman racing   152       + 2 laps    14       0
+13       mario haberfeld       mi - jack conquest racing   152       + 2 laps     4       0
+14      adrian fernández                fernández racing   152       + 2 laps    19       0
+15        joël camathias               dale coyne racing   152       + 2 laps    18       0
+16            alex yoong               dale coyne racing    81     mechanical    13       0
+17         alex tagliani             rocketsports racing    28     mechanical     9       0
+18       patrick lemarié                       pk racing    25        contact    10       0

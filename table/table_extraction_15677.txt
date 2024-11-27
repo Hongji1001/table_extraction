@@ -1,0 +1,31 @@
+                rider                bike  laps        time  grid
+0        troy bayliss     ducati 1098 f08    20   40:22.724     1
+1         troy corser     yamaha yzf - r1    20     + 1.468     2
+2     michel fabrizio     ducati 1098 f08    20     + 3.272     3
+3          max biaggi   ducati 1098 rs 08    20     + 3.475     4
+4    ryuichi kiyonari     honda cbr1000rr    20     + 3.791     5
+5       noriyuki haga     yamaha yzf - r1    20     + 9.120    12
+6     max neukirchner  suzuki gsx - r1000    20     + 9.358     9
+7        carlos checa     honda cbr1000rr    20    + 11.787    13
+8      yukio kagayama  suzuki gsx - r1000    20    + 17.228    10
+9      kenan sofuoğlu     honda cbr1000rr    20    + 17.705    26
+10    karl muggeridge     honda cbr1000rr    20    + 22.347    15
+11  shinichi nakatomi     yamaha yzf - r1    20    + 25.563    18
+12     niccolò canepa     ducati 1098 f08    20    + 25.699     6
+13        fonsi nieto  suzuki gsx - r1000    20    + 34.064     7
+14   gregorio lavilla     honda cbr1000rr    20    + 36.545    19
+15      makoto tamada   kawasaki zx - 10r    20    + 43.934    22
+16    ayrton badovini   kawasaki zx - 10r    20    + 44.339    16
+17      shuhei aoyama     honda cbr1000rr    20    + 50.092    23
+18     jason pridmore     honda cbr1000rr    20    + 58.827    29
+19       jiri drazdak     honda cbr1000rr    20    + 59.928    27
+20   christian zaiser     yamaha yzf - r1    20  + 1:21.587    28
+21  sébastien gimbert     yamaha yzf - r1    18    accident    24
+22  vittorio iannuzzo   kawasaki zx - 10r     9  retirement    25
+23      roberto rolfo     honda cbr1000rr     8  retirement    20
+24         ruben xaus   ducati 1098 rs 08     8  retirement    11
+25        milos cihak  suzuki gsx - r1000     5    accident    30
+26        david checa     yamaha yzf - r1     3    accident    17
+27      lorenzo lanzi   ducati 1098 rs 08     3    accident    14
+28       régis laconi   kawasaki zx - 10r     3    accident    21
+29         jakub smrz   ducati 1098 rs 08     3    accident     8

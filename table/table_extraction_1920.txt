@@ -1,0 +1,6 @@
+                       branding callsign  frequency power (kw)        location
+0                 yes! fm 101.1     dwys  101.1 mhz      25 kw    metro manila
+1        yes! fm 104.1 urdaneta     dzvm  104.1 mhz       1 kw        urdaneta
+2          yes! fm 91.1 boracay     dyyr   91.1 mhz       1 kw         boracay
+3       yes! fm 106.3 dumaguete     dyyd  106.3 mhz      10 kw       dumaguete
+4  yes! fm 104.7 cagayan de oro     dxyr  104.7 mhz      10 kw  cagayan de oro

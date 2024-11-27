@@ -1,0 +1,9 @@
+    district      incumbent       party  first elected                             results
+0  arizona 1     rick renzi  republican           2002                        re - elected
+1  arizona 2   trent franks  republican           2002                        re - elected
+2  arizona 3   john shadegg  republican           1994                        re - elected
+3  arizona 4      ed pastor  democratic           1990                        re - elected
+4  arizona 5   j d hayworth  republican           1994  lost re - election democratic gain
+5  arizona 6     jeff flake  republican           2000                        re - elected
+6  arizona 7  raul grijalva  democratic           2002                        re - elected
+7  arizona 8      jim kolbe  republican           1984             retired democratic gain

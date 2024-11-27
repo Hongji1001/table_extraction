@@ -1,0 +1,14 @@
+              element             wood               fire                                  earth           metal              water
+0               color            green                red                                 yellow           white              black
+1           direction             east              south                                 center            west              north
+2              planet          jupiter               mars                                 saturn           venus            mercury
+3   heavenly creature  azure dragon 青龍  vermilion bird 朱雀                       yellow dragon 黃龍  white tiger 白虎  black tortoise 玄武
+4      heavenly stems            甲 , 乙              丙 , 丁                                  戊 , 己           庚 , 辛              壬 , 癸
+5               phase         new yang          full yang                     yin / yang balance         new yin           full yin
+6              energy       generative          expansive                            stabilizing     contracting         conserving
+7              season           spring             summer  change of seasons (every third month)          autumn             winter
+8             climate            windy                hot                                   damp             dry               cold
+9         development        sprouting           blooming                               ripening       withering            dormant
+10          livestock              dog       sheep / goat                                 cattle         chicken                pig
+11              fruit             plum            apricot                                 jujube           peach           chestnut
+12              grain            wheat              beans                                   rice            hemp             millet

@@ -1,0 +1,42 @@
+    year  class        team  points  wins
+0   1949  350cc   velocette       0     0
+1   1949  500cc     triumph       0     0
+2   1950  350cc   velocette       0     0
+3   1950  500cc      norton       0     0
+4   1951  250cc   velocette       6     0
+5   1951  350cc   velocette       0     0
+6   1951  500cc         bsa       0     0
+7   1952  250cc  moto guzzi       4     0
+8   1952  350cc   velocette       0     0
+9   1952  500cc      norton       0     0
+10  1953  250cc  moto guzzi       4     0
+11  1953  350cc         ajs       0     0
+12  1953  500cc   matchless       0     0
+13  1954  250cc  moto guzzi      15     1
+14  1954  350cc         ajs       0     0
+15  1954  500cc         ajs       0     0
+16  1955  250cc  moto guzzi       6     0
+17  1955  350cc         ajs       0     0
+18  1955  500cc   matchless       0     0
+19  1956  125cc   mv agusta       0     0
+20  1956  250cc  moto guzzi       5     0
+21  1956  350cc  moto guzzi       0     0
+22  1957  125cc   mv agusta       0     0
+23  1957  250cc  moto guzzi       4     0
+24  1957  350cc  moto guzzi       0     0
+25  1957  500cc  moto guzzi       0     0
+26  1958  125cc     mondial       1     0
+27  1958  250cc     mondial       2     0
+28  1958  350cc         ajs       0     0
+29  1958  500cc         ajs       0     0
+30  1959  125cc         nsu       1     0
+31  1959  125cc      ducati       1     0
+32  1959  350cc         ajs       0     0
+33  1959  500cc         ajs       0     0
+34  1961  125cc      ducati       0     0
+35  1961  250cc  moto guzzi       0     0
+36  1961  350cc  moto guzzi       0     0
+37  1961  500cc   matchless       0     0
+38  1962  250cc  moto guzzi      19     1
+39  1962  350cc  moto guzzi       1     0
+40  1962  500cc  moto guzzi       0     0

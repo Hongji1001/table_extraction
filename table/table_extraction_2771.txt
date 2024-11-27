@@ -1,0 +1,7 @@
+                 version dock connection aux in battery iphone certified video out dual voltage
+0     sounddock series i        firewire     no      no               no        no          yes
+1  sounddock series i v2             usb     no      no              yes        no          yes
+2    sounddock series ii             usb    yes      no              yes        no          yes
+3   sounddock series iii       lightning    yes      no              yes        no          yes
+4     sounddock portable             usb    yes     yes               no        no          yes
+5  sounddock portable v2             usb    yes     yes              yes        no          yes

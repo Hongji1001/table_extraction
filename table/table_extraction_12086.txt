@@ -1,0 +1,19 @@
+               rider manufacturer  laps        time  grid
+0    valentino rossi       yamaha    28   44:30.799     4
+1      jorge lorenzo       yamaha    28     + 4.997     5
+2      colin edwards       yamaha    28     + 6.805     2
+3       dani pedrosa        honda    28    + 10.157     1
+4    chris vermeulen       suzuki    28    + 21.762     8
+5   andrea dovizioso        honda    28    + 22.395    10
+6    loris capirossi       suzuki    28    + 27.806    11
+7       nicky hayden        honda    28    + 27.995     6
+8    randy de puniet        honda    28    + 29.344    12
+9      shinya nakano        honda    28    + 30.822    13
+10       toni elã­as       ducati    28    + 35.154    14
+11   alex de angelis        honda    28    + 36.216    15
+12  sylvain guintoli       ducati    28    + 52.038    16
+13      anthony west     kawasaki    28  + 1:29.307    18
+14    marco melandri       ducati    27     + 1 lap    17
+15      casey stoner       ducati    26    + 2 laps     3
+16      john hopkins     kawasaki    16  retirement     9
+17    james toseland       yamaha     2    accident     7

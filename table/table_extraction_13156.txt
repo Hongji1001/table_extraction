@@ -1,0 +1,15 @@
+                     team                       head coach         team captain                         venue  capacity kitmaker                    shirt sponsor         club chairman
+0             aek larnaca              savvas constantinou    constantinos mina               neo gsz stadium     13032     mass                       cytavision        marios ellinas
+1            ael limassol                  mihai stoichiţă        simos krassas               tsirion stadium     13331     mass  sinergatiko tamieftirio lemesou    andreas sofokleous
+2              aep paphos                      nir klinger     giorgos georgiou               pafiako stadium     10000     mass        eurolink investment group    fillippos georgiou
+3            alki larnaca              panikos xiourouppas         andrés rouga           ammochostos stadium      5500    legea                  team a security   demetris phantousis
+4    anorthosis famagusta                michalis pamboris       nikos nicolaou  antonis papadopoulos stadium     10003     puma       quality group developments      chris georgiades
+5           apep pitsilia                  willy scheepers          bruno piano               tsirion stadium     13331     mass                             kkcg  panayiotis neokleous
+6                   apoel                   ivan jovanović      marinos satsias                   gsp stadium     22859    lotto                        mtn group    foivos erotokritou
+7        apollon limassol                thomas von heesen  christos theophilou               tsirion stadium     13331    lotto         columbia ship management    theodoros antoniou
+8     apop kinyras peyias                 giorgos polyviou  giannis sfakianakis       peyia municipal stadium      3828     puma                         primetel        michalis mitas
+9    atromitos yeroskipou              sofoklis sofokleous       argyris petrou               pafiako stadium     10000    umbro                   spe yeroskipou        vangelis genis
+10         doxa katokopia         charalmbos christodoulou  kyriacos polykarpou               makario stadium     16000     puma        yiannakas real estate ltd   charalambos argyrou
+11  enosis neon paralimni  adamos adamou & antonis kleftis       demos goumenos             paralimni stadium      5800    lotto                 elian developers         adamos loizou
+12         ethnikos achna                   stéphane demol   christos poyiatzis                dasaki stadium      7000     nike             famagusta developers       kikis philippou
+13                 omonia                    takis lemonis       costas kaiafas                   gsp stadium     22859    lotto                    ocean tankers   miltiadis neophytou

@@ -1,0 +1,15 @@
+    round  pick           player          position  school / club team
+0       2    46      eugene epps    defensive back     texas - el paso
+1       3    62         ed cross      running back          pine bluff
+2       5   114     bill kishman    defensive back      colorado state
+3       6   139  harold mclinton        linebacker            southern
+4       7   166    jeff anderson      running back            virginia
+5       7   173      john didion            center        oregon state
+6       8   191      larry brown      running back        kansas state
+7      11   269       eric norri  defensive tackle          notre dame
+8      12   295      bob shannon    defensive back     tennessee state
+9      13   322    michael shook    defensive back         north texas
+10     14   347       rick brand  defensive tackle            virginia
+11     15   374      paul rogers            tackle            virginia
+12     16   399  mike washington        linebacker            southern
+13     17   426     rich dobbert     defensive end  springfield (mass)

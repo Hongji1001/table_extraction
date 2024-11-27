@@ -1,0 +1,18 @@
+   place             player        country  score to par
+0     t1        terry diehl  united states     69    - 1
+1     t1        rod funseth  united states     69    - 1
+2     t1       hubert green  united states     69    - 1
+3     t1        grier jones  united states     69    - 1
+4     t1  florentino molina      argentina     69    - 1
+5     t1       larry nelson  united states     69    - 1
+6     t1        tom purtzer  united states     69    - 1
+7     t8          sam adams  united states     70      e
+8     t8       george burns  united states     70      e
+9     t8       al geiberger  united states     70      e
+10    t8    morris hatalsky  united states     70      e
+11    t8          joe inman  united states     70      e
+12    t8       steve melnyk  united states     70      e
+13    t8        mike morley  united states     70      e
+14    t8        don padgett  united states     70      e
+15    t8      arnold palmer  united states     70      e
+16    t8        bob e smith  united states     70      e

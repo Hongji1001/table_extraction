@@ -1,0 +1,13 @@
+                candidate                                           background original team  age      hometown                      result
+0              thomas ben                                   divisional manager      number 8   34      auckland          hired by serepisos
+1             david wyatt                       self - employed - media agency      number 8   27      auckland  fired in the season finale
+2   catherine livingstone                  self - employed - concierge service        athena   33      auckland            fired in week 12
+3              karen reid  self - employed - practices in alternative medicine        athena   33      auckland            fired in week 11
+4             linda slade                                   university student        athena   21  christchurch            fired in week 10
+5            nicky clarke                                        pr specialist        athena   28      auckland             fired in week 9
+6         daniel phillips                          advertising account manager      number 8   31      auckland             fired in week 8
+7           meena chhagan                                           accountant        athena   24    wellington             fired in week 7
+8           richard henry                                     getfrank founder      number 8   26      auckland             fired in week 7
+9              paul natac                    infringement relationship manager      number 8   28      auckland             fired in week 6
+10        chris whiteside                                           accountant      number 8   28  christchurch             fired in week 4
+11        kirsty parkhill                         business development manager        athena   35    wellington             fired in week 3

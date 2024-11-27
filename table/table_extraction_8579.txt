@@ -1,0 +1,17 @@
+     res      record             opponent                         method                                   event  round                            location
+0   loss  10 - 5 (1)         lance palmer               decision (split)              rfa 4: griffin vs escudero      3  las vegas , nevada , united states
+1   loss  10 - 4 (1)          pablo garza               ko (flying knee)          the ultimate fighter 12 finale      1  las vegas , nevada , united states
+2    win  10 - 3 (1)        bryan caraway               decision (split)                                  wec 50      3  las vegas , nevada , united states
+3    win   9 - 3 (1)        courtney buck  submission (rear naked choke)                                  wec 47      1     columbus , ohio , united states
+4     nc   8 - 3 (1)        cole province                     no contest                                  wec 42      3  las vegas , nevada , united states
+5   loss       8 - 3      wagnney fabiano           decision (unanimous)                                  wec 40      3  chicago , illinois , united states
+6    win       8 - 2         thomas denny            submission (armbar)                         gfc - evolution      1     columbus , ohio , united states
+7    win       7 - 2     masakazu imanari            decision (majority)                        deep - 25 impact      3                       tokyo , japan
+8   loss       6 - 2        marcos galvão                       decision                          jungle fight 6      3                     manaus , brazil
+9    win       6 - 1          mike french            submission (armbar)  gfc - team gracie vs team hammer house      2     columbus , ohio , united states
+10   win       5 - 1  miljan djurasinovic  submission (rear naked choke)                          jungle fight 5      1                     manaus , brazil
+11   win       4 - 1   jean robert monier  submission (rear naked choke)                          jungle fight 4      3                     manaus , brazil
+12   win       3 - 1          fabio mello           decision (unanimous)                          jungle fight 3      3                     manaus , brazil
+13   win       2 - 1      andre rodrigues                            tko                        papucaia fight 1  n / a                   papucaia , brazil
+14  loss       1 - 1        yoshiro maeda           decision (unanimous)                      pancrase - brave 7      3                       osaka , japan
+15   win       1 - 0           rani yahya                       decision                          jungle fight 2      3                     manaus , brazil

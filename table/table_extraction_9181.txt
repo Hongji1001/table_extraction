@@ -1,0 +1,26 @@
+                  driver      constructor  laps  time / retired  grid
+0          stirling moss          vanwall    53       2:09:15.1     2
+1          mike hawthorn          ferrari    53        + 1:24.7     1
+2              phil hill          ferrari    53        + 1:25.5     5
+3             jo bonnier              brm    53        + 1:46.7     8
+4           harry schell              brm    53        + 2:33.7    10
+5         masten gregory         maserati    52         + 1 lap    13
+6          roy salvadori  cooper - climax    51        + 2 laps    14
+7           jack fairman  cooper - climax    50        + 3 laps    11
+8          hans herrmann         maserati    50        + 3 laps    18
+9          cliff allison   lotus - climax    49        + 4 laps    16
+10          jack brabham  cooper - climax    49        + 4 laps    19
+11         gerino gerini         maserati    48        + 5 laps    17
+12         bruce mclaren  cooper - climax    48        + 5 laps    21
+13        robert la caze  cooper - climax    48        + 5 laps    23
+14          andré guelfi  cooper - climax    48        + 5 laps    25
+15           graham hill   lotus - climax    45        + 7 laps    12
+16  stuart lewis - evans          vanwall    41  fatal accident     3
+17       françois picard  cooper - climax    31        accident    24
+18           tom bridger  cooper - climax    30        accident    22
+19           tony brooks          vanwall    29          engine     7
+20     olivier gendebien          ferrari    29        accident     6
+21            jean behra              brm    26          engine     4
+22       wolfgang seidel  cooper - climax    15        accident    20
+23         ron flockhart              brm    15        camshaft    15
+24   maurice trintignant  cooper - climax     9          engine     9

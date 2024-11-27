@@ -1,0 +1,11 @@
+                             circuit            location / state            date          winner                        team
+0              eastern creek raceway    sydney , new south wales     25 - 27 jan   craig lowndes          holden racing team
+1      sandown international raceway        melbourne , victoria       2 - 4 feb   craig lowndes          holden racing team
+2             mount panorama circuit  bathurst , new south wales     23 - 25 feb       john bowe         dick johnson racing
+3             symmons plains raceway       launceston , tasmania     15 - 17 mar   craig lowndes          holden racing team
+4  phillip island grand prix circuit   phillip island , victoria     12 - 14 apr   larry perkins  castrol perkins motorsport
+5                calder park raceway        melbourne , victoria     26 - 28 apr  russell ingall  castrol perkins motorsport
+6     lakeside international raceway       brisbane , queensland       3 - 5 may   craig lowndes          holden racing team
+7                 barbagallo raceway   perth , western australia     24 - 26 may   craig lowndes          holden racing team
+8           mallala motor sport park   mallala , south australia  31 may - 2 jun   craig lowndes          holden racing team
+9                  oran park raceway    sydney , new south wales     14 - 16 jun     peter brock          holden racing team

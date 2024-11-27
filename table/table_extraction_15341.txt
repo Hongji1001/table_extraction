@@ -1,0 +1,10 @@
+                         club       sport  founded                           league                     venue
+0           brooklyn cyclones    baseball     2001           new york - penn league                  mcu park
+1           long island ducks    baseball     2000                  atlantic league         bethpage ballpark
+2               new york mets    baseball     1962            major league baseball                citi field
+3               brooklyn nets  basketball     1967  national basketball association           barclays center
+4           long island lions    football     2010        five star football league    mitchel athletic field
+5  empire state demon knights    football     2008        five star football league    aviator sports complex
+6          new york islanders  ice hockey     1972           national hockey league           nassau coliseum
+7         long island lizards    lacrosse     2001            major league lacrosse  mitchel athletic complex
+8             new york cosmos      soccer     2010     north american soccer league    james m shuart stadium

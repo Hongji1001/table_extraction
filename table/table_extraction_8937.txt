@@ -1,0 +1,7 @@
+           school            team division record overall record                   season outcome
+0  sussex central  golden knights           5 - 0         11 - 1  loss in div i championship game
+1         milford      buccaneers           3 - 2          6 - 4          failed to make playoffs
+2   cape henlopen         vikings           3 - 2          5 - 5          failed to make playoffs
+3   caesar rodney          riders           2 - 3          5 - 5          failed to make playoffs
+4           dover        senators           3 - 3          5 - 5          failed to make playoffs
+5     sussex tech          ravens           0 - 5          2 - 8          failed to make playoffs

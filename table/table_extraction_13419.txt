@@ -1,0 +1,35 @@
+   rank      administrative division  area (km square)  area (sq mi)  national share (%)     comparable country
+0     1                     xinjiang           1664897        640900            17.23000                   iran
+1     2                        tibet           1228400        474300            12.75000           south africa
+2     3                   nei menggu           1155092        456800            12.28000               colombia
+3     4                      qinghai            721000        278400             7.48000                 zambia
+4     5                      sichuan            485000        187300             5.03000           turkmenistan
+5     6                 heilongjiang            452645        177600             4.77000       papua new guinea
+6     7                        gansu            454000        175300             4.71000                 sweden
+7     8                       yunnan            383194        152200             4.09000               zimbabwe
+8     9                      guangxi            237558         91400             2.45000                   laos
+9    10                        hunan            211855         81800             2.19000                 guyana
+10   11                      shaanxi            205800         79500             2.13000                belarus
+11   12                        hebei            188434         72500             1.94000             kyrgyzstan
+12   13                        jilin            191124         72400             1.94000                senegal
+13   14                        hubei            185888         71800             1.93000                  syria
+14   15                    guangdong            179757         68700             1.84000               cambodia
+15   16                      guizhou            176153         68000             1.82000                uruguay
+16   17                        henan            165536         64500             1.73000               suriname
+17   18                      jiangxi            166894         64400             1.73000                tunisia
+18   19                       shanxi            156711         60540             1.62000                  nepal
+19   20                     shandong            156700         60500             1.62000             bangladesh
+20   21                     liaoning            148064         56300             1.51000             tajikistan
+21   22                        anhui            140126         53800             1.44000                 greece
+22   23                 fujian , prc            124016         46900             1.26000            north korea
+23   24                     zhejiang            104141         40209             1.08000                iceland
+24   25                      jiangsu            102600         39600             1.06000            south korea
+25   26                    chongqing             82269         31800             0.85000   united arab emirates
+26   27                      ningxia             66000         25500             0.68000              sri lanka
+27   28                       hainan             35354         13100             0.35000                moldova
+28   29                      beijing             16411          6490             0.17000              swaziland
+29   30                      tianjin             11917          4602             0.12000                vanuatu
+30   31                     shanghai              6340          2448             0.06500                 brunei
+31   32                    hong kong              1104           422             0.01100  são tomé and príncipe
+32   33                        macau                30            10             0.00028                 tuvalu
+33    -  people 's republic of china           9630960       3718530           100.00000          united states

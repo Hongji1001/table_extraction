@@ -1,0 +1,9 @@
+   pick                  cfl team             player position              school
+0    19          ottawa renegades     kevin lawrence       rb        northwestern
+1    20  saskatchewan roughriders  patrick thibeault       sb       saint mary 's
+2    21         toronto argonauts     robin tremblay       de             houston
+3    22                  bc lions       chris gayton       lb            kentucky
+4    23        montreal alouettes        josh jansen       lb  occidental college
+5    24          edmonton eskimos   dahrran diedrick       rb            nebraska
+6    25     hamilton tiger - cats        doug borden       dt       saint mary 's
+7    26     winnipeg blue bombers     michael shaver       fb              ottawa

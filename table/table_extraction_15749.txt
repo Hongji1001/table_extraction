@@ -1,0 +1,43 @@
+     rank group                          name          nationality  mark
+0       1     b                brittney reese        united states  6.87
+1       2     a            maurren higa maggi               brazil  6.79
+2       3     b              tatyana lebedeva               russia  6.70
+3       4     a                carolina klüft               sweden  6.70
+4       5     a                  grace upshaw        united states  6.68
+5       6     a              oksana udmurtova               russia  6.63
+6       7     b                   keila costa               brazil  6.62
+7       8     a                 tabia charles               canada  6.61
+8       9     a                   funmi jimoh        united states  6.61
+9      10     b                  jade johnson        great britain  6.61
+10     11     a               chelsea hammond              jamaica  6.60
+11     12     b             blessing okagbare              nigeria  6.59
+12     13     b                tatyana kotova               russia  6.57
+13     14     a             hrysopiyí devetzí               greece  6.57
+14     15     b           concepción montaner                spain  6.53
+15     16     b              bronwyn thompson            australia  6.53
+16     17     a              yargelis savigne                 cuba  6.49
+17     18     b  iryna charnushenka - stasiuk              belarus  6.48
+18     19     b                  kumiko ikeda                japan  6.47
+19     20     a               denisa ščerbová       czech republic  6.46
+20     21     a            patricia sylvester              grenada  6.44
+21     22     b                 viorica țigău              romania  6.44
+22     23     a             viktoriya rybalko              ukraine  6.43
+23     24     a               karin melis mey               turkey  6.42
+24     25     b                  ruky abdulai               canada  6.41
+25     26     a                  nina kolarič             slovenia  6.40
+26     27     b                 ksenija balta              estonia  6.38
+27     28     b                soon - ok jung          south korea  6.33
+28     29     b                 olga rypakova           kazakhstan  6.30
+29     30     b                ivana španović               serbia  6.30
+30     31     a                   naide gomes             portugal  6.29
+31     32     a               volha sergeenka              belarus  6.25
+32     33     b           oleksandra stadnyuk              ukraine  6.19
+33     34     b             marestella torres          philippines  6.17
+34     35     a       pamela mouele - mboussi                congo  6.06
+35     36     b                  arantxa king              bermuda  6.01
+36     37     a                rhonda watkins  trinidad and tobago  5.88
+37     38     a                 tricia flores               belize  5.25
+38  n / a     b             anju bobby george                india    nm
+39  n / a     b                jackie edwards              bahamas    nm
+40  n / a     a                jana velďáková             slovakia    nm
+41  n / a     a              lyudmyla blonska              ukraine   dsq

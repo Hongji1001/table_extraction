@@ -1,0 +1,9 @@
+   pick               player country of origin                       pba team                                 college
+0     1     danilo ildefonso       philippines     formula shell zoom masters                                national
+1     2         noy castillo     united states             san miguel beermen                             the citadel
+2     3             ali peek     united states                  pop cola 800s                              saint mary
+3     4  brixter encarnacion       philippines                  pop cola 800s                           san sebastian
+4     5      william antonio     united states             san miguel beermen                    chaminade university
+5     6        banjo calpito       philippines             sta lucia realtors                           san sebastian
+6     7      henry fernandez       philippines  purefoods carne norte beefies                                 visayas
+7     8         steven smith     united states            gordon 's gin boars  united states international university

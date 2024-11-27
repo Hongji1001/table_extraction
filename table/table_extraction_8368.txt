@@ -1,0 +1,6 @@
+                    title entered chart (uk)  peak position (uk)  weeks on chart (uk) sent to cbeebies album
+0                    no 1   11 november 2000                   4                   23                    yes
+1    best friends forever      31 march 2001                  12                   10                    yes
+2         do the lollipop      4 august 2001                  17                    8                     no
+3  i believe in christmas   15 december 2001                   9                    6                     no
+4       have fun , go mad  14 september 2002                  20                    7                    yes

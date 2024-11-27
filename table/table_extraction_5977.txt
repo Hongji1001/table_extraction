@@ -1,0 +1,23 @@
+                     driver         constructor  laps time / retired  grid
+0        juan pablo montoya      williams - bmw    53    1:16:58.493     1
+1        rubens barrichello             ferrari    53        + 5.175     2
+2           ralf schumacher      williams - bmw    53       + 17.335     4
+3        michael schumacher             ferrari    53       + 24.991     3
+4          pedro de la rosa   jaguar - cosworth    53     + 1:14.984    10
+5        jacques villeneuve         bar - honda    53     + 1:22.469    15
+6            kimi räikkönen   sauber - petronas    53     + 1:23.107     9
+7                jean alesi      jordan - honda    52        + 1 lap    16
+8             olivier panis         bar - honda    52        + 1 lap    17
+9      giancarlo fisichella  benetton - renault    52        + 1 lap    14
+10            nick heidfeld   sauber - petronas    52        + 1 lap     8
+11               tomáš enge        prost - acer    52        + 1 lap    20
+12          fernando alonso  minardi - european    51       + 2 laps    21
+13         enrique bernoldi   arrows - asiatech    46     crankshaft    18
+14               alex yoong  minardi - european    44       spun off    22
+15  heinz - harald frentzen        prost - acer    28        gearbox    12
+16           jos verstappen   arrows - asiatech    25  fuel pressure    19
+17            mika häkkinen  mclaren - mercedes    19        gearbox     7
+18             eddie irvine   jaguar - cosworth    14         engine    13
+19          david coulthard  mclaren - mercedes     6         engine     6
+20            jenson button  benetton - renault     4         engine    11
+21             jarno trulli      jordan - honda     0      collision     5

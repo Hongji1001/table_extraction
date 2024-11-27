@@ -1,0 +1,31 @@
+                   name   feature          latitude        longitude distance     bearing
+0       aagaard islands    island  65 degree51.0 's  53 degree40.0'e  93.4 km  346 degree
+1        armstrong peak      peak  66 degree24.0 's  53 degree23.0'e  45.1 km  311 degree
+2        bandy nunataks   nunatak  66 degree55.0 's  53 degree36.0'e  36.8 km  221 degree
+3            bird ridge     ridge  66 degree47.0 's  55 degree04.0'e  42.3 km  108 degree
+4               bratthø      peak  66 degree39.0 's  54 degree40.0'e  22.8 km  086 degree
+5        cape batterbee      cape  65 degree51.0 's  53 degree48.0'e  92.2 km  350 degree
+6          conradi peak      peak  66 degree08.0 's  54 degree35.0'e  62.4 km  018 degree
+7           doyle point     point  65 degree53.0 's  54 degree52.0'e  92.8 km  021 degree
+8        grimsley peaks      peak  66 degree34.0 's  53 degree40.0'e  24.1 km  297 degree
+9               knausen      peak  66 degree22.0 's  53 degree13.0'e  53.1 km  308 degree
+10            mjåkollen      peak  66 degree33.0 's  53 degree28.0'e  32.8 km  293 degree
+11        mount bennett  mountain  66 degree32.0 's  53 degree38.0'e  27.2 km  303 degree
+12   mount breckinridge  mountain  66 degree37.0 's  53 degree41.0'e  21.3 km  285 degree
+13          mount bride  mountain  66 degree26.0 's  53 degree57.0'e  27.4 km  341 degree
+14           mount gate  mountain  66 degree51.0 's  53 degree18.0'e  42.5 km  241 degree
+15      mount griffiths  mountain  66 degree28.0 's  54 degree01.0'e  23.0 km  345 degree
+16         mount maines  mountain  66 degree38.0 's  53 degree54.0'e  11.6 km  288 degree
+17          mount pasco  mountain  66 degree59.0 's  54 degree44.0'e  43.5 km  144 degree
+18        mount stadler  mountain  66 degree54.0 's  53 degree14.0'e  47.8 km  237 degree
+19     napier mountains  mountain  66 degree30.0 's  53 degree40.0'e  28.3 km  311 degree
+20      newman nunataks   nunatak  66 degree40.0 's  54 degree45.0'e  26.4 km  090 degree
+21  proclamation island    island  65 degree51.0 's  53 degree41.0'e  93.2 km  347 degree
+22               rabben      peak  66 degree27.0 's  54 degree07.0'e  24.1 km  356 degree
+23      skarvet nunatak   nunatak  66 degree26.0 's  53 degree45.0'e  31.4 km  326 degree
+24    sørtoppen nunatak   nunatak  66 degree40.0 's  53 degree28.0'e  30.1 km  270 degree
+25      tippet nunataks   nunatak  66 degree44.0 's  53 degree15.0'e  40.3 km  259 degree
+26        vicars island    island  65 degree50.0 's  54 degree29.0'e  93.9 km  009 degree
+27        wheeler rocks      rock  66 degree17.0 's  55 degree08.0'e  61.0 km  046 degree
+28      wilkinson peaks      peak  66 degree37.0 's  54 degree15.0'e   7.1 km  038 degree
+29       young nunataks   nunatak  66 degree44.0 's  54 degree08.0'e   7.4 km  186 degree

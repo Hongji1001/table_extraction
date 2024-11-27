@@ -1,0 +1,15 @@
+    ngc number                                      object type constellation right ascension ( j2000 ) declination ( j2000 )
+0         3310                                    spiral galaxy    ursa major              10h38 m45.9s          degree30′12″
+1         3311                                elliptical galaxy         hydra              10h36 m43.3s          degree31′41″
+2         3312                                    spiral galaxy         hydra              10h37 m02.3s          degree33′54″
+3         3314  spiral galaxy occulted by another spiral galaxy         hydra              10h37 m12.8s          degree41′04″
+4         3344                                    spiral galaxy     leo minor              10h43 m31.1s          degree55′20″
+5         3351                                    spiral galaxy           leo              10h43 m57.7s          degree42′13″
+6         3359                                    spiral galaxy    ursa major              10h46 m36.6s          degree13′25″
+7         3368                                    spiral galaxy           leo              10h46 m45.8s          degree49′10″
+8         3369                                lenticular galaxy         hydra              10h46 m44.9s          degree14′34″
+9         3370                                    spiral galaxy           leo              10h47 m04.2s          degree16′23″
+10        3371                                lenticular galaxy           leo              10h48 m16.9s          degree37′43″
+11        3372                                   diffuse nebula        carina              10h44 m19.0s          degree53′21″
+12        3379                                elliptical galaxy           leo              10h47 m49.8s          degree34′55″
+13        3384                                lenticular galaxy           leo              10h48 m16.9s          degree37′43″

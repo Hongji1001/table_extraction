@@ -1,0 +1,10 @@
+                  date                   venue  score competition match report
+0      march 28 , 2007        ta' qali stadium  0 - 1   euro2008q       report
+1        june 2 , 2007       pankritio stadium  2 - 0   euro2008q       report
+2        june 6 , 2007       pankritio stadium  2 - 1   euro2008q       report
+3  september 12 , 2007        ullevaal stadion  2 - 2   euro2008q       report
+4    october 13 , 2007  athens olympic stadium  3 - 2   euro2008q       report
+5    october 17 , 2007    ali sami yen stadium  0 - 1   euro2008q       report
+6   november 17 , 2007  athens olympic stadium  5 - 0   euro2008q       report
+7   november 21 , 2007  athens olympic stadium  1 - 2   euro2008q       report
+8      march 26 , 2008               ltu arena  1 - 2    friendly       report

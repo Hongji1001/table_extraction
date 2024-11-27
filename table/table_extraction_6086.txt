@@ -1,0 +1,13 @@
+              player shoots position  acquired                    place of birth                                 joined from
+0       david clarke      l       rw      2008            peterborough , england                    alleghe hockey , serie a
+1   robert lachowicz      l       lw      2010              nottingham , england                  manchester phoenix , epihl
+2      matthew myers      r        c      2010                   cardiff , wales                     johnstown chiefs , echl
+3    patrick galivan      l       lw      2012         oak park , illinois , usa                  gwinnett gladiators , echl
+4    anthony stewart      r       rw      2012         lasalle , quebec , canada   carolina hurricanes , nhl lockout contact
+5        marc levers      r       rw      2007                   derby , england                       belfast giants , eihl
+6       matt francis      r       rw      2011              surrey , bc , canada                  gwinnett gladiators , echl
+7         david ling      r       rw      2012    halifax , nova scotia , canada  hc pustertal val pusteria wolves , serie a
+8       bruce graham      l        c      2012  moncton , new brunswick , canada                       allen americans , chl
+9   brandon benedict      l        c      2011    halifax , nova scotia , canada                       belfast giants , eihl
+10        jordan fox      l        c      2011         kirkwood , missouri , usa                          jokipojat , mestis
+11         josh ward      r       rw      2012              nottingham , england                  manchester phoenix , epihl

@@ -1,0 +1,17 @@
+       season                 team     country          league  level  apps  goals
+0        1998               kairat  kazakhstan  premier league      1     2      0
+1        1999               kairat  kazakhstan  premier league      1    21      1
+2        2000               kairat  kazakhstan  premier league      1    19      3
+3        2001               kairat  kazakhstan  premier league      1    27      3
+4        2002               kairat  kazakhstan  premier league      1    29      2
+5        2003               kairat  kazakhstan  premier league      1    30      5
+6        2004               kairat  kazakhstan  premier league      1    26      3
+7        2005               kairat  kazakhstan  premier league      1    17      1
+8        2006               kairat  kazakhstan  premier league      1    15      0
+9   2006 - 07  akã§aabat sebatspor      turkey        league a      2    16      5
+10  2007 - 08  kayseri erciyesspor      turkey        league a      2    15      1
+11  2008 - 09  kayseri erciyesspor      turkey        league a      2    28      1
+12  2009 - 10           kartalspor      turkey        league a      2    20      0
+13  2010 - 11       diyarbakirspor      turkey        league a      2     1      0
+14       2012               irtysh  kazakhstan  premier league      1     4      0
+15       2012                tobol  kazakhstan  premier league      1     2      0

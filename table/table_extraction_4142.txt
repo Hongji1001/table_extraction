@@ -1,0 +1,10 @@
+                                              name         location  launched  acquired capacity , mln tpa
+0                lukoil - nizhegorodnefteorgsintez           kstovo      1958      2000             15 , 0
+1                      lukoil - permnefteorgsintez             perm      1958      1991             12 , 0
+2               lukoil - volgogradneftepererabotka        volgograd      1957      1991              9 , 9
+3                   lukoil - ukhtaneftepererabotka            ukhta      1934      2000              3 , 7
+4  lukoil - odessky neftepererabatyvayuschiy zavod           odessa      1937      1999              3 , 6
+5                          lukoil neftochim burgas           burgas      1964      1999              7 , 5
+6                                petrotel - lukoil        ploieåÿti      1904      1998              2 , 4
+7                                             isab  priolo gargallo      1975      2008             16 , 0
+8                                              trn       vlissingen      1973      2009              7 , 9

@@ -1,0 +1,7 @@
+   round  pick        player    nationality school / club team
+0      1    20   sam vincent  united states     michigan state
+1      3    70  andre battle  united states        loyola (il)
+2      4    93  cliff webber  united states    liberty baptist
+3      5   116  albert butts  united states           la salle
+4      6   139   ralph lewis  united states           la salle
+5      7   162   chris remly  united states            rutgers

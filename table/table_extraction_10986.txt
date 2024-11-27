@@ -1,0 +1,12 @@
+    position                 team  points  played  drawn  lost  against difference
+0          1            são paulo      34      20      2     2       19         35
+1          2               santos      32      20      2     3       31         23
+2          3        ypiranga - sp      27      20      5     4       24         20
+3          4          corinthians      26      20      4     5       32         18
+4          5           portuguesa      20      20      2     9       34         15
+5          6            palmeiras      19      20      5     8       32        - 3
+6          7             juventus      19      20      5     8       49       - 17
+7          8  portuguesa santista      17      20      5     9       41       - 12
+8          9       comercial - sp      12      20      2    13       52       - 17
+9         10            jabaquara       7      20      3    15       46       - 25
+10        11        nacional - sp       7      20      3    15       55       - 37

@@ -1,0 +1,8 @@
+   episode  broadcast date bbc one presenter (s)                                         starring radio 1 presenter  viewers (millions)
+0        1            2005         clare balding                                       doug segal             n / a                6.43
+1        2            2006         myleene klass  gethin jones , natasha kaplinsky & alesha dixon             n / a                6.06
+2        3            2007         myleene klass  gethin jones , natasha kaplinsky & nick knowles             n / a                5.35
+3        5            2009         myleene klass                                            n / a             nihal                7.65
+4        6            2010         jake humphrey                                            n / a             nihal                9.37
+5        7            2011         jake humphrey                                            n / a             nihal               10.67
+6        8            2012           gabby logan                                            n / a             nihal                9.73

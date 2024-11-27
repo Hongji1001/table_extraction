@@ -1,0 +1,17 @@
+    round  choice  overall                        player name                           position                            college
+0       1      25       25                          john ward                   offensive tackle                     oklahoma state
+1       2      25       51                     bill cappleman                        quarterback                      florida state
+2       3      25       77                      chuck burgoon                         linebacker                         north park
+3       4      25      103   traded to the new orleans saints   traded to the new orleans saints   traded to the new orleans saints
+4       5      25      129                         greg jones                       running back                               ucla
+5       6      25      155  traded to the pittsburgh steelers  traded to the pittsburgh steelers  traded to the pittsburgh steelers
+6       7      25      181                         hap farber                         linebacker                        mississippi
+7       8      25      207                       mike carroll                              guard                           missouri
+8       9      25      233                      george morrow                      defensive end                        mississippi
+9      10      25      259                          stu voigt                          tight end                          wisconsin
+10     11      25      285                godfrey zaunbrecher                             center                    louisiana state
+11     12      25      311                      james holland                     defensive back                      jackson state
+12     13      25      337                      robert pearce                     defensive back                   stephen f austin
+13     14      25      363                       tommy spinks                      wide receiver                     louisiana tech
+14     15      25      389                     bennie francis                      defensive end                      chadron state
+15     16      25      415                       bruce cerone                      wide receiver                      emporia state

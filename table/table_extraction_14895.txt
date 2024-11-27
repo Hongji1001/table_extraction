@@ -1,0 +1,31 @@
+    pick                       player    nationality position                                           nhl team                          team from                            league from
+0     91                jeremie blain         canada        d                                    edmonton oilers            acadie - bathurst titan      quebec major junior hockey league
+1     92                 sam brittain         canada        g                  florida panthers (from toronto) 1                     canmore eagles           alberta junior hockey league
+2     93           benjamin gallacher         canada        d                                   florida panthers                    camrose kodiaks           alberta junior hockey league
+3     94            brandon archibald  united states        d                              columbus blue jackets         sault ste marie greyhounds                  ontario hockey league
+4     95                stephen silas         canada        d           colorado avalanche (from ny islanders) 2                   belleville bulls                  ontario hockey league
+5     96          geoffrey schemitsch         canada        d                                tampa bay lightning                  owen sound attack                  ontario hockey league
+6     97             craig cunningham         canada       lw                    boston bruins (from carolina) 3                   vancouver giants                  western hockey league
+7     98               steven shipley         canada        c                    buffalo sabres (from atlanta) 4                  owen sound attack                  ontario hockey league
+8     99               joonas donskoi        finland       rw                florida panthers (from minnesota) 5                       oulun kärpät                   sm - liiga (finland)
+9    100                 andrew yogan  united states   c / lw                                   new york rangers                        erie otters                  ontario hockey league
+10   101                 ivan telegin         russia       lw                  atlanta thrashers (from dallas) 6                     saginaw spirit                  ontario hockey league
+11   102  mathieu corbeil - theriault         canada        g             columbus blue jackets (from anaheim) 7                 halifax mooseheads      quebec major junior hockey league
+12   103                  john ramage  united states        d                                     calgary flames                  wisconsin badgers  western collegiate hockey association
+13   104                jani hakanpaa        finland        d                                     st louis blues                    kiekko - vantaa                   sm - sarja (finland)
+14   105                 justin shugg         canada       lw    carolina hurricanes (from boston via anaheim) 8                  windsor spitfires                  ontario hockey league
+15   106              marcus sorensen         sweden       rw                                    ottawa senators                      södertälje sk                 j20 superelit (sweden)
+16   107             sami aittokallio        finland        g                                 colorado avalanche                              ilves                sm - liiga jr (finland)
+17   108                  bill arnold  united states        c                  calgary flames (from nashville) 9            us national u - 18 team            united states hockey league
+18   109                 alex theriau         canada        d    dallas stars (from los angeles via colorado) 10                 everett silvertips                  western hockey league
+19   110                tom kuhnhackl        germany       rw                                pittsburgh penguins                 landshut cannibals               2nd bundesliga (germany)
+20   111              teemu pulkkinen        finland       lw                                  detroit red wings                            jokerit                   sm - liiga (finland)
+21   112             philipp grubauer        germany        g  washington capitals (from phoenix via toronto) 11                  windsor spitfires                  ontario hockey league
+22   113               mark macmillan         canada        f   montreal canadiens (from buffalo via phoenix) 12            alberni valley bulldogs         british columbia hockey league
+23   114                    joe faust  united states        d                                  new jersey devils  bloomington jefferson high school         united states high school - mn
+24   115              patrick mcnally  united states        d                                  vancouver canucks                     milton academy         united states high school - ma
+25   116              petter granberg         sweden        d           toronto maple leafs (from washington) 13                     skellefteå aik                 j20 superelit (sweden)
+26   117                 morgan ellis         canada        d                                 montreal canadiens       cape breton screaming eagles      quebec major junior hockey league
+27   118                 james mullin  united states   c / rw             tampa bay lightning (from san jose) 14           shattuck - saint mary 's                       midget major aaa
+28   119                   tye mcginn         canada       lw                                philadelphia flyers                gatineau olympiques      quebec major junior hockey league
+29   120                    rob flick         canada        c                                 chicago blackhawks     mississauga st michaels majors                  ontario hockey league

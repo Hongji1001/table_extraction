@@ -1,0 +1,9 @@
+   season    network             host  contestants              winner          destination
+0       2  mtv india  rannvijay singh           10  ayushmann khurrana                india
+1       3  mtv india  rannvijay singh           12         parul shahi                india
+2       4  mtv india  rannvijay singh           13         anthony yeh                india
+3       5  mtv india  rannvijay singh           13    ashutosh kaushik  thailand , malaysia
+4       6  mtv india  rannvijay singh           20         nauman sait            australia
+5       7  mtv india  rannvijay singh           23          anwar syed               africa
+6       8  mtv india  rannvijay singh           13    aanchal khurrana               brazil
+7       9  mtv india  rannvijay singh           13        vikas khoker        united states

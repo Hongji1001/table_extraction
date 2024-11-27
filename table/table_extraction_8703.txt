@@ -1,0 +1,22 @@
+                     rider  year  final position - giro  final position - tour  final position - vuelta
+0              adam hansen  2013                     72                     72                       60
+1              adam hansen  2012                     94                     81                      123
+2           sebastian lang  2011                     56                    113                       77
+3        carlos sastre (2)  2010                      8                     20                        8
+4              julian dean  2009                    136                    121                      132
+5         marzio bruseghin  2008                      3                     27                       10
+6               erik zabel  2008                     80                     43                       49
+7              mario aerts  2007                     20                     70                       28
+8            carlos sastre  2006                     43                      4                        4
+9        giovanni lombardi  2005                     88                    118                      114
+10   jon odriozola mugarza  2001                     58                     69                       83
+11         mariano piccoli  1999                     38                     50                       58
+12          guido bontempi  1992                     40                     75                       62
+13           neil stephens  1992                     57                     74                       66
+14      eduardo chozas (2)  1991                     10                     11                       11
+15       marco giovannetti  1991                      8                     30                       18
+16    marino lejarreta (4)  1991                      5                     53                        3
+17            inaki gaston  1991                     23                     61                       14
+18  alberto leanizbarrutia  1991                     64                     39                       44
+19      valdimir poelnikov  1991                     11                     88                       66
+20         valerio tebaldi  1991                     47                     89                       87

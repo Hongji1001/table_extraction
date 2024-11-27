@@ -1,0 +1,13 @@
+   place          player        country          score to par
+0      1    bruce devlin      australia  70 + 69 = 139    - 5
+1      2    larry rinker  united states  74 + 67 = 141    - 3
+2      3   scott simpson  united states  73 + 69 = 142    - 2
+3     t5        lyn lott  united states  72 + 71 = 143    - 1
+4     t5      andy north  united states  72 + 71 = 143    - 1
+5     t5    calvin peete  united states  71 + 72 = 143    - 1
+6     t5     bill rogers  united states  70 + 73 = 143    - 1
+7     t9    george burns  united states  72 + 72 = 144      e
+8     t9  bobby clampett  united states  71 + 73 = 144      e
+9     t9        tom kite  united states  73 + 71 = 144      e
+10    t9   jack nicklaus  united states  74 + 70 = 144      e
+11    t9      tom watson  united states  72 + 72 = 144      e

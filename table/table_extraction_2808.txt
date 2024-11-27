@@ -1,0 +1,38 @@
+                     name    position                                   period  appearances  goals                nationality square
+0            yann lachuer  midfielder                              1998 - 1999           25      2                            france
+1             alboury lah     forward                              1990 - 1991            6      0                           senegal
+2            bernard lama  goalkeeper                1992 - 1997 , 1998 - 2000          315      0                            france
+3         bernard lambert  midfielder                              1972 - 1973            6      0                            france
+4            loïck landre    defender                                   2011 -            1      0                            france
+5        mickaël landreau  goalkeeper                              2006 - 2009          156      0                            france
+6      christophe landrin  midfielder                              2005 - 2006           29      2                            france
+7         gérard lanthier  midfielder                              1984 - 1985           42      1                            france
+8           jacky laposte  midfielder                1972 - 1977 , 1978 - 1979          175     17                            france
+9    jean - michel larqué  midfielder                              1977 - 1979           25      0                            france
+10      nicolas laspalles    defender                              1998 - 2000           29      0                            france
+11         thierry laurey  midfielder                              1990 - 1991            8      0                            france
+12       ezequiel lavezzi     forward                                     2013           42     11                         argentina
+13              hugo leal  midfielder                              2001 - 2004           74      3                          portugal
+14        sylvain léandri  midfielder                              1971 - 1972           15      0                            france
+15          robin leclerc  midfielder                1972 - 1973 , 1974 - 1976           32      3                            france
+16        didier ledunois    defender                              1972 - 1974           17      0                            france
+17           paul le guen  midfielder                              1991 - 1998          343     24                            france
+18  jean - claude lemoult  midfielder                              1977 - 1986          264     11                            france
+19               leonardo  midfielder                              1996 - 1997           46     10                            brazil
+20  jean - louis léonetti  midfielder                1971 - 1972 , 1973 - 1974           81      3                            france
+21          ronan le crom  goalkeeper                                   2012 -            1      0                            france
+22           yvon le roux    defender                              1989 - 1990           15      1                            france
+23           jérôme leroy  midfielder                1996 - 1999 , 2002 - 2003          162     12                            france
+24          laurent leroy     forward                              1998 - 2003           97     20                            france
+25          lionel letizi  goalkeeper                              2000 - 2006          196      0                            france
+26        danijel ljuboja     forward                              2003 - 2005           56      8                            serbia
+27         francis llacer    defender  1989 - 1996 , 1997 - 1999 , 2001 - 2003          245      4                            france
+28          michel llodra  midfielder                              1973 - 1974            3      0                            france
+29           patrice loko     forward                              1995 - 1999          116     36                            france
+30       dominique lokoli    defender                              1974 - 1979          148      2                            france
+31          claude lowitz    defender                              1985 - 1987           29      0                            france
+32            lucas moura     forward                                   2013 -           15      0                            brazil
+33           chiguy lucau     forward                              2002 - 2003            3      0  democratic republic of the congo
+34           peter luccin  midfielder                              2000 - 2001           38      2                            france
+35           diego lugano    defender                                   2011 -           21      1                           uruguay
+36            zivco lukic    defender                              1970 - 1971            1      0                        yugoslavia

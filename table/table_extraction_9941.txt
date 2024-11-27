@@ -1,0 +1,12 @@
+    game  january             opponent     score        record  points
+0     37        3      edmonton oilers  3 - 3 ot   18 - 9 - 10      46
+1     38        7   new york islanders     5 - 0   19 - 9 - 10      48
+2     39        9  carolina hurricanes     2 - 0   20 - 9 - 10      50
+3     40       11  nashville predators     8 - 0   21 - 9 - 10      52
+4     41       13  washington capitals     3 - 0   22 - 9 - 10      54
+5     42       16  toronto maple leafs     3 - 4  22 - 10 - 10      56
+6     43       18      ottawa senators     5 - 0  23 - 10 - 10      56
+7     44       21  washington capitals     4 - 1  24 - 10 - 10      58
+8     45       26     florida panthers  3 - 3 ot  24 - 10 - 11      59
+9     46       28      phoenix coyotes     4 - 2  25 - 10 - 11      61
+10    47       30  tampa bay lightning     6 - 2  26 - 10 - 11      63

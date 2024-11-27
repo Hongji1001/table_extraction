@@ -1,0 +1,18 @@
+                    driver     constructor  laps time / retired  grid
+0           jackie stewart    matra - ford    84      1:55:55.6     2
+1               jacky ickx  brabham - ford    83        + 1 lap     4
+2            bruce mclaren  mclaren - ford    83        + 1 lap     7
+3             jochen rindt    lotus - ford    83        + 1 lap     1
+4            piers courage  brabham - ford    83        + 1 lap    10
+5               vic elford  mclaren - ford    82       + 2 laps    11
+6              graham hill    lotus - ford    82       + 2 laps    12
+7               jo siffert    lotus - ford    81       + 3 laps     9
+8   jean - pierre beltoise    matra - ford    78       + 6 laps    17
+9               john miles    lotus - ford    75       + 9 laps    14
+10        pedro rodrã­guez         ferrari    61         engine     8
+11              chris amon         ferrari    45        gearbox     5
+12             denny hulme  mclaren - ford    27       ignition     3
+13           jackie oliver             brm    19   transmission    13
+14              jo bonnier    lotus - ford     6         engine    16
+15              derek bell  mclaren - ford     5     suspension    15
+16            john surtees             brm     1     suspension     6

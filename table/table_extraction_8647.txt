@@ -1,0 +1,9 @@
+          phase             round  clubs remaining  clubs involved winners from previous round new entries this round   leagues entering at this round
+0   first phase       first round               78              36                        none                     36  teams from lega pro and serie d
+1   first phase      second round               60              40                          18                     22                          serie b
+2   first phase       third round               40              32                          20                     12    lowest - ranked serie a teams
+3   first phase      fourth round               24              16                          16                   none                             none
+4  second phase       round of 16               16              16                           8                      8   highest - ranked serie a teams
+5  second phase  quarter - finals                8               8                           8                   none                             none
+6  second phase     semi - finals                4               4                           4                   none                             none
+7  second phase             final                2               2                           2                   none                             none

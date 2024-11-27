@@ -1,0 +1,12 @@
+    date                 opponent venue          result attendance   competition
+0      1    peterborough phantoms  home       won 6 - 1       1421        league
+1      2    peterborough phantoms  away  won 3 - 2 (so)        443        league
+2      8         swindon wildcats  away       won 3 - 2        790  knockout cup
+3      9    chelmsford chieftains  away       won 5 - 3        423        league
+4     15      sheffield scimitars  away       won 5 - 3        351        league
+5     16         swindon wildcats  home       won 3 - 1       1244  knockout cup
+6     22          romford raiders  home       won 5 - 2       1551  knockout cup
+7     23          romford raiders  away      lost 2 - 6    unknown        league
+8     26  milton keynes lightning  home       won 4 - 3       1228   premier cup
+9     29    chelmsford chieftains  home       won 5 - 0       1117        league
+10    30              slough jets  home       won 4 - 3       1921        league

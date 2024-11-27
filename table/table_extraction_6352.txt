@@ -1,0 +1,17 @@
+                      gymnast  start value penalty  average  total
+0     gervasio deferr ( esp )          9.9       -    9.687  9.737
+1     gervasio deferr ( esp )          9.9       -    9.787  9.737
+2   evgeni sapronenko ( lat )         10.0       -    9.712  9.706
+3   evgeni sapronenko ( lat )         10.0       -    9.700  9.706
+4   marian drăgulescu ( rou )         10.0       -    9.900  9.612
+5   marian drăgulescu ( rou )          9.9       -    9.325  9.612
+6       kyle shewfelt ( can )          9.9       -    9.687  9.599
+7       kyle shewfelt ( can )          9.9       -    9.512  9.599
+8         filip yanev ( bul )          9.9       -    9.625  9.581
+9         filip yanev ( bul )          9.9       -    9.537  9.581
+10         róbert gál ( hun )          9.9       -    9.525  9.537
+11         róbert gál ( hun )          9.9       -    9.550  9.537
+12        li xiaopeng ( chn )          9.9       -    9.075  9.368
+13        li xiaopeng ( chn )         10.0       -    9.662  9.368
+14  alexei bondarenko ( rus )         10.0       -    9.100  4.550
+15  alexei bondarenko ( rus )          0.0       -    0.000  4.550

@@ -1,0 +1,10 @@
+  constituency number             name reserved for ( sc / st / none)    district  number of electorates (2009)
+0                  49          chandla                             sc  chhatarpur                    164443.000
+1                  50         rajnagar                           none  chhatarpur                    169579.000
+2                  58            pawai                           none       panna                    190471.000
+3                  59          gunnaor                             sc       panna                    157659.000
+4                  60            panna                           none       panna                    166824.000
+5                  92  vijayraghavgarh                           none       katni                    162554.000
+6                  93          murwara                           none       katni                    172412.000
+7                  94       bahoriband                           none       katni                       166.771
+8             total :          total :                        total :     total :                   1350713.000

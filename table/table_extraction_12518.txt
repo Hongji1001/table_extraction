@@ -1,0 +1,10 @@
+   year        character                            title           author             artist                 imprint
+0  2005  dokuro mitsukai  bludgeoning angel dokuro - chan     masaki okayu          torishimo           dengeki bunko
+1  2006             kino                  kino 's journey  keiichi sigsawa  kouhaku kuroboshi           dengeki bunko
+2  2007             holo                   spice and wolf   isuna hasekura         jå ayakura           dengeki bunko
+3  2008  haruhi suzumiya           haruhi suzumiya series  nagaru tanigawa          noizi ito  kadokawa sneaker bunko
+4  2009      tohko amano                 book girl series    mizuki nomura       miho takeoka           famitsu bunko
+5  2010    mikoto misaka           toaru majutsu no index   kazuma kamachi   kiyotaka haimura           dengeki bunko
+6  2011    mikoto misaka           toaru majutsu no index   kazuma kamachi   kiyotaka haimura           dengeki bunko
+7  2012    mikoto misaka           toaru majutsu no index   kazuma kamachi   kiyotaka haimura           dengeki bunko
+8  2013    mikoto misaka           toaru majutsu no index   kazuma kamachi   kiyotaka haimura           dengeki bunko

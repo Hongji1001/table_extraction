@@ -1,0 +1,14 @@
+                                       railroad  game cost real - life years of operation                       real - life eventual outcome          currently part of
+0              atchison , topeka , and santa fe      40000                    1859 - 1996     merged with burlington northern to become bnsf                       bnsf
+1                                 union pacific      40000                 1862 - present                                currently operating              union pacific
+2                                  pennsylvania      30000                    1846 - 1968  merged with new york central to form penn central  amtrak , norfolk southern
+3           chicago , rock island , and pacific      29000                    1852 - 1980                                         liquidated                      n / a
+4                              missouri pacific      21000                    1849 - 1982                          merged with union pacific              union pacific
+5                           chesapeake and ohio      20000                    1869 - 1972                          renamed to chessie system                        csx
+6                      st louis & san francisco      19000                    1876 - 1980                    acquired by burlington northern                       bnsf
+7   chicago , milwaukee , st paul , and pacific      18000                    1847 - 1985                  acquired by the soo line railroad           canadian pacific
+8                              illinois central      14000                    1851 - 1999          acquired by the canadian national railway          canadian national
+9                     chicago and north western      14000                    1865 - 1995                          merged into union pacific              union pacific
+10                            texas and pacific      10000                    1871 - 1976                   merged with the missouri pacific              union pacific
+11                              western pacific       8000                    1903 - 1983                          acquired by union pacific              union pacific
+12          new york , new haven , and hartford       4000                    1872 - 1969                           merged into penn central                     amtrak

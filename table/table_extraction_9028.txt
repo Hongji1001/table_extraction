@@ -1,0 +1,19 @@
+            date         visiting team final score             host team                   stadium
+0   september 12   pittsburgh steelers      43 - 0      cleveland browns  cleveland browns stadium
+1   september 19         new york jets      3 - 17         buffalo bills      ralph wilson stadium
+2   september 26       new york giants     14 - 16  new england patriots           foxboro stadium
+3      october 3       oakland raiders     21 - 22      seattle seahawks                  kingdome
+4     october 10  tampa bay buccaneers     23 - 26     green bay packers             lambeau field
+5     october 17   washington redskins     24 - 10     arizona cardinals         sun devil stadium
+6     october 21    kansas city chiefs      35 - 8      baltimore ravens            psinet stadium
+7     october 31  tampa bay buccaneers      3 - 20         detroit lions        pontiac silverdome
+8     november 7      tennessee titans      0 - 17        miami dolphins        pro player stadium
+9    november 14        denver broncos     17 - 20      seattle seahawks                  kingdome
+10   november 21    new orleans saints     23 - 41  jacksonville jaguars            alltel stadium
+11   november 28       atlanta falcons     28 - 34     carolina panthers          ericsson stadium
+12    december 2   pittsburgh steelers      6 - 20  jacksonville jaguars            alltel stadium
+13    december 5        dallas cowboys      6 - 13  new england patriots           foxboro stadium
+14    december 9       oakland raiders     14 - 21      tennessee titans         adelphia coliseum
+15   december 12     minnesota vikings     28 - 31    kansas city chiefs         arrowhead stadium
+16   december 19         buffalo bills     31 - 21     arizona cardinals         sun devil stadium
+17   december 26   washington redskins     26 - 20   san francisco 49ers                 3com park

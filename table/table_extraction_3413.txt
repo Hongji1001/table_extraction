@@ -1,0 +1,14 @@
+                    club  played  won  drawn  lost  points for  points against  tries for  points
+0                   club  played  won  drawn  lost  points for  points against  tries for  points
+1             beddau rfc      22   19      0     3         654             321         85      57
+2            bargoed rfc      22   17      0     5         665             436         89      51
+3          newbridge rfc      22   17      0     5         516             281         63      51
+4          pontypool rfc      22   15      0     7         515             370         59      45
+5       fleur de lys rfc      22   10      0    12         422             523         49      30
+6               uwic rfc      22    9      1    12         625             604         74      28
+7   newport saracens rfc      22    9      1    12         368             457         46      28
+8          llanharan rfc      22    9      0    13         546             565         66      27
+9         caerphilly rfc      22    9      0    14         402             572         47      24
+10         blackwood rfc      22    6      1    15         433             511         51      19
+11         abercynon rfc      22    5      2    15         365             718         45      17
+12    ystrad rhondda rfc      22    5      1    16         417             570         47      16

@@ -1,0 +1,14 @@
+   year location         mens singles      womens singles                        mens doubles                         womens doubles
+0      2012 doha               xu xin           chen meng                       ma lin xu xin                     li xiaodan wen jia
+1      2011 doha               xu xin          liu shiwen                   wang liqin xu xin                     guo yue li xiaoxia
+2      2010 doha           wang liqin             guo yue                     ma lin wang hao                   ding ning liu shiwen
+3      2009 doha            timo boll        zhang yining                      ma long xu xin                   guo yue zhang yining
+4      2008 doha               ma lin        zhang yining                      chen qi ma lin                   guo yue zhang yining
+5      2007 doha               ma lin          li xiaoxia        cho eon - rae lee jung - woo                    li xiaoxia wang nan
+6      2006 doha           wang liqin        zhang yining                 wang hao wang liqin                  wang nan zhang yining
+7      2005 doha           wang liqin        zhang yining               kong linghui wang hao                   guo yue niu jianfeng
+8      2003 doha    vladimir samsonov        tamara boros      kalinikos kreanga jörg roßkopf  tatyana logatzkaya veronika pavlovich
+9      2002 doha  jean - michel saive            wang nan                  wang liqin yan sen                    li jia niu jianfeng
+10     2001 doha       zoran primorac      kim hyon - hui  chang yen - shu chiang peng - lung             kim moo - kyo ryu ji - hae
+11     1999 doha       zoran primorac  jing tian - zorner  chang yen - shu chiang peng - lung          csilla bátorfi krisztina tóth
+12     1998 doha       zoran primorac               li ju                  wang liqin yan sen                         li ju wang nan

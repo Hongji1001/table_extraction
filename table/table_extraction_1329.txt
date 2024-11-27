@@ -1,0 +1,8 @@
+             team 1        points             team 2 1st leg 2nd leg
+0        fluminense         6 - 0  atlético nacional   2 - 1   1 - 0
+1          flamengo  3 - 3 ( gd )            américa   4 - 2   0 - 3
+2       river plate         1 - 4        san lorenzo   1 - 2   2 - 2
+3             atlas         4 - 1              lanús   1 - 0   2 - 2
+4          cruzeiro         0 - 6       boca juniors   1 - 2   1 - 2
+5       estudiantes  3 - 3 ( gd )          ldu quito   0 - 2   2 - 1
+6  cúcuta deportivo         0 - 6             santos   0 - 2   0 - 2

@@ -1,0 +1,12 @@
+    year      country           nominated work                                     award     result
+0   1987    australia   don't dream it 's over  most performed australasian popular work        won
+1   1988    australia   don't dream it 's over                                gold award        won
+2   1992    australia     neil finn & tim finn                    songwriter of the year        won
+3   1993    australia        fall at your feet   most performed australian work overseas        won
+4   1993    australia  four seasons in one day                          song of the year        won
+5   1994    australia              distant sun                          song of the year        won
+6   1994    australia                neil finn                    songwriter of the year        won
+7   1994    australia         weather with you   most performed australian work overseas        won
+8   1995    australia         private universe                          song of the year  nominated
+9   2001    australia   don't dream it 's over                 ten best australian songs          7
+10  2007  new zealand           don't stop now                             silver scroll  nominated

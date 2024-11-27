@@ -1,0 +1,12 @@
+             club     location                  stadium  capacity             manager             captain
+0        fc honka        espoo   tapiolan urheilupuisto      6000       mika lehkosuo        tomi maanoja
+1        fc inter        turku          veritas stadion     10000        job dragtsma      henri lehtonen
+2         ff jaro    jakobstad   jakobstads centralplan      5000  alexei eremenko sr          heikki aho
+3            haka  valkeakoski           tehtaan kenttä      3516        sami ristilä  regillio nooitmeer
+4             hjk     helsinki           sonera stadium     10770      antti muurinen        ville wallén
+5             jjk    jyväskylä           harjun stadion      3000       kari martonen      mikko hyyrynen
+6            kups       kuopio     kuopion keskuskenttä      5000         esa pekonen  pietari holopainen
+7   ifk mariehamn    mariehamn     wiklöf holding arena      4000        pekka lyyski        allan olesen
+8            mypa      kouvola                saviniemi      4167   toni korkeakunnas          tuomas aho
+9            rops    rovaniemi  rovaniemen keskuskenttä      4000        matti hiukka       tuomo könönen
+10            tps        turku          veritas stadion     10000      marko rajamäki   jarno heinikangas

@@ -1,0 +1,48 @@
+    year                  actor                           award              motion picture     result
+0   1959         sidney poitier              best actor - drama            the defiant ones  nominated
+1   1960         sidney poitier  best actor - musical or comedy                porgy & bess  nominated
+2   1962         sidney poitier              best actor - drama         a raisin in the sun  nominated
+3   1964         sidney poitier              best actor - drama         lilies of the field        won
+4   1966         sidney poitier              best actor - drama             a patch of blue  nominated
+5   1968         sidney poitier              best actor - drama    in the heat of the night  nominated
+6   1969            ossie davis           best supporting actor            the scalphunters  nominated
+7   1971       james earl jones                new star - actor        the great white hope        won
+8   1971       james earl jones              best actor - drama        the great white hope  nominated
+9   1975       james earl jones  best actor - musical or comedy                    claudine  nominated
+10  1982         howard rollins                        new star                     ragtime  nominated
+11  1982         howard rollins           best supporting actor                     ragtime  nominated
+12  1983     louis gossett , jr           best supporting actor  an officer and a gentleman        won
+13  1983           eddie murphy                new star - actor                      48 hrs  nominated
+14  1984           eddie murphy  best actor - musical or comedy              trading places  nominated
+15  1985           eddie murphy  best actor - musical or comedy           beverly hills cop  nominated
+16  1985          adolph caesar           best supporting actor          a soldier 's story  nominated
+17  1987          dexter gordon              best actor - drama              round midnight  nominated
+18  1988      denzel washington              best actor - drama                 cry freedom  nominated
+19  1988         morgan freeman           best supporting actor                street smart  nominated
+20  1989        forest whitaker              best actor - drama                        bird  nominated
+21  1990         morgan freeman  best actor - musical or comedy          driving miss daisy        won
+22  1990      denzel washington           best supporting actor                       glory        won
+23  1993      denzel washington              best actor - drama                   malcolm x  nominated
+24  1995         morgan freeman              best actor - drama    the shawshank redemption  nominated
+25  1995       samuel l jackson           best supporting actor                pulp fiction  nominated
+26  1997       samuel l jackson           best supporting actor              a time to kill  nominated
+27  1997      cuba gooding , jr           best supporting actor               jerry maguire  nominated
+28  1997           eddie murphy  best actor - musical or comedy         the nutty professor  nominated
+29  1998       samuel l jackson  best actor - musical or comedy                jackie brown  nominated
+30  1998         djimon hounsou              best actor - drama                     amistad  nominated
+31  2000      denzel washington              best actor - drama               the hurricane        won
+32  2000  michael clarke duncan           best supporting actor              the green mile  nominated
+33  2002             will smith              best actor - drama                         ali  nominated
+34  2002      denzel washington              best actor - drama                training day  nominated
+35  2005         morgan freeman           best supporting actor         million dollar baby  nominated
+36  2005             jamie foxx           best supporting actor                  collateral  nominated
+37  2005             jamie foxx  best actor - musical or comedy                         ray        won
+38  2005            don cheadle              best actor - drama                hotel rwanda  nominated
+39  2006        terrence howard              best actor - drama               hustle & flow  nominated
+40  2007           eddie murphy           best supporting actor                  dreamgirls        won
+41  2007       chiwetel ejiofor  best actor - musical or comedy                 kinky boots  nominated
+42  2007             will smith              best actor - drama    the pursuit of happyness  nominated
+43  2007        forest whitaker              best actor - drama   the last king of scotland        won
+44  2008      denzel washington              best actor - drama           american gangster  nominated
+45  2010         morgan freeman              best actor - drama                    invictus  nominated
+46  2013      denzel washington              best actor - drama                      flight  nominated

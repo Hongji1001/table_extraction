@@ -1,0 +1,6 @@
+  official name  status  area km 2  population census ranking
+0     coverdale  parish     236.15        4401    769 of 5008
+1  hillsborough  parish     303.73        1395   1684 of 5008
+2         elgin  parish     519.38         968   2124 of 5008
+3      hopewell  parish     149.32         643   2689 of 5008
+4        harvey  parish     276.84         376   3372 of 5008

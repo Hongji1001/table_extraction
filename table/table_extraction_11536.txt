@@ -1,0 +1,21 @@
+       season            competition       round               opponent       series
+0   2002 - 03               uefa cup          r1    zenit st petersburg        4 - 3
+1   2002 - 03               uefa cup          r2                   paok        2 - 3
+2   2003 - 04  uefa champions league          q3             aek athens        2 - 3
+3   2003 - 04               uefa cup          r1           hajduk split  1 - 1 ( a )
+4   2005 - 06               uefa cup          q2            wisła płock  3 - 3 ( a )
+5   2005 - 06               uefa cup          r1                   mypa        4 - 1
+6   2005 - 06               uefa cup       group          middlesbrough    5th place
+7   2005 - 06               uefa cup       group           litex lovech    5th place
+8   2005 - 06               uefa cup       group  dnipro dnipropetrovsk    5th place
+9   2005 - 06               uefa cup       group                     az    5th place
+10  2006 - 07               uefa cup          q2               videoton        3 - 1
+11  2006 - 07               uefa cup          r1            åtvidabergs        8 - 0
+12  2006 - 07               uefa cup       group                     az    5th place
+13  2006 - 07               uefa cup       group         slovan liberec    5th place
+14  2006 - 07               uefa cup       group                sevilla    5th place
+15  2006 - 07               uefa cup       group                  braga    5th place
+16  2008 - 09               uefa cup          q2            lech poznań        0 - 6
+17  2010 - 11     uefa europa league  play - off    fc steaua bucureşti  1 - 1 ( p )
+18  2013 - 14  uefa champions league          q3                   lyon        0 - 2
+19  2013 - 14     uefa europa league  play - off             fiorentina  2 - 2 ( a )

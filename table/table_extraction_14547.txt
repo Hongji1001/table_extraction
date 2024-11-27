@@ -1,0 +1,18 @@
+                                            perpetrator                date    year                            location    country   killed  injured
+0                    delgado morales , campo elias , 52         12.04 dec 4  1986.0                              bogotá   colombia       29       12
+1                          hennard , george pierre , 35        10.16 oct 16  1991.0                        killeen , tx        usa       23  19 - 22
+2                           huberty , james oliver , 41       07.18 july 18  1984.0                      san diego , ca        usa       21       19
+3                     ferreira de frança , genildo , 27   05.21 may 21 / 22  1997.0         santo antônio dos barreiros     brazil       14     03 3
+4                           wong , jiverly antares , 41       04.03 april 3  2009.0                     binghamton , ny        usa       13     04 4
+5                                                    hz               05.32  1959.9                                  jz         bz    100.9    100.9
+6                            unruh , howard barton , 28         09.06 sep 6  1949.0                         camden , nj        usa       13     03 3
+7                   holmes , james eagan , 24 (suspect)       07.20 july 20  2012.0                         aurora , co        usa       12       62
+8                             pough , james edward , 42  06.17 june 17 / 18  1990.0                   jacksonville , fl        usa       11     06 6
+9                 lozano velásquez , juan de jesús , 26       06.24 june 24  2000.0                              bogotá   colombia       11     05 5
+10                              caceres , gregorio , 50        02.18 feb 18  1942.0                            trujillo  venezuela       11     04 4
+11                                                   pz               08.32  1994.9                                  rz         mz    100.9    100.9
+12                                  flores , oscar , 23       07.31 july 31  2005.0              san jerónimo de juárez     mexico       11     02 2
+13                                              unknown        12.18 dec 18  1936.0                     monte aprazível     brazil  10 - 16     0.0 
+14                      mclendon , michael kenneth , 28      03.10 march 10  2009.0      kinston , samson & geneva , al        usa       10     06 6
+15  starkweather , charles , 19 fugate , caril ann , 14   01.21 jan 21 - 29  1958.0  lincoln & bennet , ne douglas , wy        usa       10    0.1 0
+16                      malagón gonzález , arnoldo , 22        06.01 june 1  1993.0                              soacha   colombia       10     0.0 

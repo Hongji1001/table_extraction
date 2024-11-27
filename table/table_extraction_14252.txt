@@ -1,0 +1,6 @@
+        type      name title  royal house     from
+0  sovereign  shaokang  king  xia dynasty  2007 bc
+1  sovereign       zhu  king  xia dynasty  1985 bc
+2  sovereign      huai  king  xia dynasty  1968 bc
+3  sovereign      mang  king  xia dynasty  1924 bc
+4  sovereign       xie  king  xia dynasty  1906 bc

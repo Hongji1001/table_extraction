@@ -1,0 +1,9 @@
+   pick                team             player      position            college
+0   145      denver broncos    ron oelschlager      halfback             kansas
+1   146      houston oilers          frank fox        tackle  sam houston state
+2   147     oakland raiders    frank mcclendon        tackle            alabama
+3   148       new york jets        mitch dudek        tackle             xavier
+4   149  kansas city chiefs        mike alford        center             auburn
+5   150  san diego chargers        braden beck        kicker           stanford
+6   151     boston patriots          jim nance  running back           syracuse
+7   152       buffalo bills  frank marchlewski        center          minnesota

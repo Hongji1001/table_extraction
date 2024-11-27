@@ -1,0 +1,6 @@
+   year               award     result                                      category                       film
+0  1945       academy award  nominated                         best supporting actor                      laura
+1  1947       academy award  nominated                         best supporting actor          the razor 's edge
+2  1949       academy award  nominated                  best actor in a leading role             sitting pretty
+3  1947  golden globe award        won                         best supporting actor          the razor 's edge
+4  1953  golden globe award  nominated  best motion picture actor - musical / comedy  stars and stripes forever

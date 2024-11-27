@@ -1,0 +1,47 @@
+    tie no            home team  score               away team  attendance
+0        1            blackpool  3 - 0                tamworth        4796
+1        2           darlington  3 - 3             yeovil town        3698
+2   replay          yeovil town  1 - 0              darlington        5365
+3        3               barnet  1 - 2               bath city        2147
+4        4         bristol city  1 - 1               brentford       10000
+5   replay            brentford  1 - 1            bristol city        3706
+6        5                 bury  5 - 2         vauxhall motors        2566
+7        6               histon  2 - 0         shrewsbury town        2843
+8        7             rochdale  2 - 1           oxford united        2333
+9        8         notts county  2 - 1                  woking        4562
+10       9     stafford rangers  0 - 2            chester city        2492
+11      10         swindon town  4 - 1     sheffield wednesday        6160
+12      11     stockport county  3 - 1       huddersfield town        3479
+13      12    wycombe wanderers  1 - 0          coalville town        2816
+14      13       bristol rovers  1 - 1                carlisle        5658
+15  replay      carlisle united  1 - 0          bristol rovers        4813
+16      14     northampton town  1 - 0                barnsley        4876
+17      15        bradford city  0 - 1      rushden & diamonds        4171
+18      16            hull city  3 - 2               morecambe       10129
+19      17      southend united  0 - 3              luton town        6683
+20      18          exeter city  1 - 0            grimsby town        3378
+21      19    scunthorpe united  2 - 0            chesterfield        4869
+22      20       mansfield town  1 - 1       colchester united        3202
+23  replay    colchester united  4 - 1          mansfield town        2492
+24      21        alfreton town  1 - 1       macclesfield town        2251
+25  replay    macclesfield town  2 - 0           alfreton town        1783
+26      22            port vale  3 - 1  kidderminster harriers        4141
+27      23         halifax town  3 - 1        cambridge united        2368
+28      24      cheltenham town  1 - 3            swansea city        4551
+29      25            southport  1 - 3         hereford united        2045
+30      26                hayes  0 - 4                 wrexham        1751
+31      27        tiverton town  1 - 3        doncaster rovers        1618
+32      28        boston united  5 - 2              hornchurch        2437
+33      29  peterborough united  2 - 1         tranmere rovers        2940
+34      30        leyton orient  3 - 1    dagenham & redbridge        4155
+35      31          slough town  2 - 1                 walsall        2023
+36      32       cambridge city  2 - 1               leigh rmi         930
+37      33  forest green rovers  1 - 1             bournemouth        1837
+38  replay          bournemouth  3 - 1     forest green rovers        5489
+39      34    hartlepool united  3 - 0            lincoln city        4533
+40      35      billericay town  0 - 1       stevenage borough        1804
+41      36              yeading  2 - 1          halesowen town         524
+42      37       aldershot town  4 - 0           canvey island        2600
+43      38      hinckley united  2 - 0          torquay united        2129
+44      39             thurrock  0 - 1         oldham athletic        1156
+45      40   milton keynes dons  1 - 0          lancaster city        2065

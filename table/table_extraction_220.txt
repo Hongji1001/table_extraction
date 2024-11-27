@@ -1,0 +1,8 @@
+            player  no    nationality         position years for jazz school / club team
+0   adrian dantley   4  united states  guard - forward      1979 - 86         notre dame
+1       brad davis  12  united states            guard      1979 - 80           maryland
+2   darryl dawkins  45  united states           center      1987 - 88   maynard evans hs
+3     paul dawkins  31  united states            guard      1979 - 80  northern illinois
+4       greg deane  33  united states            guard      1979 - 80               utah
+5  james donaldson  54  united states           center      1993 - 95   washington state
+6        john drew  22  united states  guard - forward      1982 - 85     gardner - webb

@@ -1,0 +1,7 @@
+   episode     the wãrd                               guest                      introductory phrase original airdate  production code
+0      791         none  david frum , katrina vanden heuvel  shaka brah! this is the colbert report!      november 02             6139
+1      794  nothingness                          reza aslan                                     none      november 08             6142
+2      795         none          abbe lowell , cee lo green                                     none      november 09             6143
+3      796         none           beri fox , martha stewart                                     none      november 10             6144
+4      798         none      jeffrey goldberg , david stern                                     none      november 15             6146
+5      801         none                    salvatore giunta                                     none      november 18             6149

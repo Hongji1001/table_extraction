@@ -1,0 +1,12 @@
+   place            player           country  score to par
+0      1     darren clarke  northern ireland     66    - 6
+1     t2  ricky barnes (a)     united states     69    - 3
+2     t2     sergio garcía             spain     69    - 3
+3     t4        nick price          zimbabwe     70    - 2
+4     t4         mike weir            canada     70    - 2
+5     t6    toru taniguchi             japan     71    - 1
+6     t6        david toms     united states     71    - 1
+7     t8         tim clark      south africa     72      e
+8     t8       jerry kelly     united states     72      e
+9     t8       paul lawrie          scotland     72      e
+10    t8      jeff maggert     united states     72      e

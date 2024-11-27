@@ -1,0 +1,11 @@
+               state  seats (acs)           date of counting  incumbent election winner
+0            tripura           60        friday , 7 mar 2008    cpi (m)         cpi (m)
+1          meghalaya           60        friday , 7 mar 2008        inc           mpa 1
+2           nagaland           60    saturday , 8 march 2008        dan           dan 2
+3          karnataka          240       sunday , 25 may 2008        inc             bjp
+4       chhattisgarh           90       monday , 08 dec 2008        bjp             bjp
+5     madhya pradesh          230   monday , 8 december 2008        bjp             bjp
+6              delhi           70   monday , 8 december 2008        inc             inc
+7            mizoram           40       monday , 08 dec 2008        mnf             inc
+8          rajasthan          200   monday , 8 december 2008        bjp             inc
+9  jammu and kashmir           87  sunday , 28 december 2008  pdp + inc        nc + inc

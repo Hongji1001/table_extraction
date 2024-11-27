@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0            mika hã¤kkinen      mclaren - mercedes    71    1:30:44.086     3
+1           david coulthard      mclaren - mercedes    71        + 5.289    14
+2        michael schumacher                 ferrari    71       + 39.092     4
+3              eddie irvine                 ferrari    71       + 43.976     8
+4           ralf schumacher  jordan - mugen - honda    71       + 50.654     9
+5        jacques villeneuve   williams - mecachrome    71       + 53.202    11
+6                damon hill  jordan - mugen - honda    71     + 1:13.624    15
+7            johnny herbert       sauber - petronas    70        + 1 lap    18
+8            alexander wurz     benetton - playlife    70        + 1 lap    17
+9              jarno trulli         prost - peugeot    70        + 1 lap    16
+10            shinji nakano          minardi - ford    70        + 1 lap    21
+11           ricardo rosset          tyrrell - ford    69       + 2 laps    22
+12           jos verstappen          stewart - ford    51         engine    12
+13            esteban tuero          minardi - ford    30       spun off    19
+14     giancarlo fisichella     benetton - playlife    21      collision     1
+15               jean alesi       sauber - petronas    21      collision     2
+16  heinz - harald frentzen   williams - mecachrome    16         engine     7
+17       rubens barrichello          stewart - ford     8         brakes     5
+18              pedro diniz                  arrows     3      collision    13
+19                mika salo                  arrows     1      collision     6
+20            olivier panis         prost - peugeot     0         clutch    10
+21        toranosuke takagi          tyrrell - ford     0      collision    20

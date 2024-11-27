@@ -1,0 +1,11 @@
+             ship  guns                          class                      captain                 rank         year
+0    hms hyperion    74  third - rate ship of the line              richard bolitho           midshipman         1794
+1   hms impulsive    64  third - rate ship of the line               thomas herrick           midshipman  1795 - 1797
+2    hms lysander    74  third - rate ship of the line  richard bolitho (commodore)           lieutenant  1798 - 1800
+3   hms phalarope    32                        frigate                  daniel emes           lieutenant         1801
+4     hms firefly    14                           brig                 adam bolitho  commander / captain  1803 - 1805
+5     hms anemone    38                        frigate                 adam bolitho              captain  1806 - 1812
+6    hms valkyrie    42                        frigate                 adam bolitho         flag captain  1813 - 1814
+7  hms unrivalled    46                        frigate                 adam bolitho              captain         1815
+8      hms athena    74  third - rate ship of the line                 adam bolitho         flag captain         1817
+9      hms onward    38                        frigate                 adam bolitho              captain  1818 - 1819

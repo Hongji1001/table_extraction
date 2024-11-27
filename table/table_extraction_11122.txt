@@ -1,0 +1,7 @@
+   position                           team  points  played  drawn  lost  against difference
+0         1                     paulistano      18      10      2     0        3         17
+1         2                        germnia      13      10      3     2       16         14
+2         3  sc internacional de são paulo      11      10      3     3       19        - 4
+3         4             são paulo athletic       8      10      0     6       26       - 10
+4         5                      mackenzie       7      10      1     6       27          0
+5         6               aa das palmeiras       3      10      1     8       27       - 17

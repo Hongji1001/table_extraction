@@ -1,0 +1,9 @@
+               athlete     class     horse              event     result       rank
+0       ineke de groot  grade iv      indo  championship test     63.161          7
+1       ineke de groot  grade iv      indo     freestyle test     58.955         13
+2        sabine peters  grade iv  donna dm  championship test     62.516          8
+3        sabine peters  grade iv  donna dm     freestyle test     65.863          9
+4  petra van der sande  grade ii   toscane  championship test     66.909          4
+5  petra van der sande  grade ii   toscane     freestyle test  withdrawn  withdrawn
+6   sjerstin vermeulen  grade iv   sultano  championship test     66.452          4
+7   sjerstin vermeulen  grade iv   sultano     freestyle test     67.908          7

@@ -1,0 +1,9 @@
+        type                    name      title royal house     from
+0  sovereign         sláine mac dela  high king    fir bolg  1934 bc
+1  sovereign       rudraige mac dela  high king    fir bolg  1933 bc
+2  sovereign  gann mac dela & genann  high king    fir bolg  1931 bc
+3  sovereign        sengann mac dela  high king    fir bolg  1927 bc
+4  sovereign       fiacha cennfinnán  high king    fir bolg  1922 bc
+5  sovereign                  rinnal  high king    fir bolg  1917 bc
+6  sovereign                 fodbgen  high king    fir bolg  1911 bc
+7  sovereign        eochaid mac eirc  high king    fir bolg  1907 bc

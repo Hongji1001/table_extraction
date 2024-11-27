@@ -1,0 +1,26 @@
+    rank             player     county   tally  total opposition
+0      1         eoin kelly  waterford  2 - 13     19     offaly
+1      2        joe canning     galway  2 - 12     18       cork
+2      3      brian carroll     offaly  0 - 16     16      laois
+3      4         eoin kelly  waterford  1 - 10     13  tipperary
+4      5  david o'callaghan     dublin   1 - 9     12    wexford
+5      5       ben o'connor       cork  0 - 12     12     galway
+6      5         eoin kelly  waterford   1 - 9     12   kilkenny
+7      5        joe canning     galway   2 - 6     12     antrim
+8      9     henry shefflin   kilkenny  0 - 11     11     offaly
+9      9         eoin kelly  waterford   1 - 8     11    wexford
+10     9     henry shefflin   kilkenny  0 - 11     11       cork
+11     9         joe bergin     offaly   3 - 2     11   limerick
+12    13       dave bennett  waterford  0 - 10     10      clare
+13    13  david o'callaghan     dublin  0 - 10     10       cork
+14    13     henry shefflin   kilkenny   1 - 7     10    wexford
+15    13      mark flaherty      clare   1 - 7     10  waterford
+16    13         eoin kelly  tipperary   1 - 7     10       cork
+17    13      eddie brennan   kilkenny   2 - 4     10  waterford
+18    19      noel costello      laois   0 - 9      9     offaly
+19    19  david o'callaghan     dublin   0 - 9      9    wexford
+20    19        joe canning     galway   0 - 9      9      laois
+21    19      brian carroll     offaly   0 - 9      9  waterford
+22    19  david o'callaghan     dublin   1 - 6      9  westmeath
+23    19      willie hyland      laois   2 - 3      9     offaly
+24    19         eoin kelly  waterford   2 - 3      9     antrim

@@ -1,0 +1,9 @@
+   pick          cfl team          player position       college
+0    28      winnipeg (5)     john storey       hb  saskatchewan
+1    29      montreal (3)     john proter       ot    st mary 's
+2    30      edmonton (4)    carl lindros       de       western
+3    31      bc lions (4)  don warrington       hb  simon fraser
+4    32      hamilton (5)     jay graydon       db      mcmaster
+5    33       calgary (5)   dave sterritt       ot      waterloo
+6    34       toronto (3)     vince lyons       hb      mcmaster
+7    35  saskatchewan (4)     greg hunter       hb       alberta

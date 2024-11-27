@@ -1,0 +1,27 @@
+             title   directed by               written by    original air date production code
+0           dallas  don colliver  peter field rachael ray       march 7 , 2003          ad1b07
+1          vermont  don colliver  peter field rachael ray      april 23 , 2003          ad1b01
+2             oahu  don colliver  peter field rachael ray      april 30 , 2003          ad1b04
+3         cape cod  don colliver  peter field rachael ray        may 14 , 2003          ad1b02
+4           hawaii  don colliver  peter field rachael ray        may 21 , 2003          ad1b05
+5           boston  don colliver  peter field rachael ray        may 28 , 2003          ad1b03
+6   corpus christi  don colliver  peter field rachael ray        june 4 , 2003          ad1b09
+7          memphis  don colliver  peter field rachael ray       june 11 , 2003          ad1b10
+8             maui  don colliver  peter field rachael ray       june 18 , 2003          ad1b06
+9           austin  don colliver  peter field rachael ray       june 25 , 2003          ad1b08
+10     new orleans  don colliver  peter field rachael ray        july 2 , 2003          ad1b11
+11       nashville  don colliver  peter field rachael ray        july 9 , 2003          ad1b12
+12    laguna beach  don colliver  peter field rachael ray       july 23 , 2003          ad1b13
+13          sedona  don colliver  peter field rachael ray   september 3 , 2003          ad1b15
+14    palm springs  don colliver  peter field rachael ray  september 10 , 2003          ad1b14
+15       milwaukee  don colliver  peter field rachael ray  september 17 , 2003          ad1b17
+16          tucson  don colliver  peter field rachael ray  september 24 , 2003          ad1b16
+17         chicago  don colliver  peter field rachael ray     october 8 , 2003          ad1b18
+18        montreal  don colliver  peter field rachael ray   december 10 , 2003          ad1b24
+19          denver  don colliver  peter field rachael ray     january 7 , 2004          ad1b21
+20           aspen  don colliver  peter field rachael ray    january 21 , 2004          ad1b22
+21        portland  don colliver  peter field rachael ray   february 25 , 2004          ad1b23
+22        santa fe  don colliver  peter field rachael ray      march 10 , 2004          ad1b20
+23     adirondacks  don colliver  peter field rachael ray       april 2 , 2004          ad1b25
+24       cleveland  don colliver  peter field rachael ray       april 9 , 2004          ad1b19
+25        saratoga  don colliver  peter field rachael ray      april 16 , 2004          ad1b26

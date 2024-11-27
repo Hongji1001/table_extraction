@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0        michael schumacher                ferrari    44    1:33:46.717     3
+1      giancarlo fisichella       jordan - peugeot    44       + 26.753     4
+2   heinz - harald frentzen     williams - renault    44       + 32.147     7
+3            johnny herbert      sauber - petronas    44       + 39.025    11
+4        jacques villeneuve     williams - renault    44       + 42.103     1
+5            gerhard berger     benetton - renault    44     + 1:03.741    15
+6               pedro diniz        arrows - yamaha    44     + 1:25.931     8
+7                jean alesi     benetton - renault    44     + 1:42.008     2
+8         gianni morbidelli      sauber - petronas    44     + 1:42.582    13
+9              eddie irvine                ferrari    43      collision    17
+10                mika salo         tyrrell - ford    43        + 1 lap    19
+11            jan magnussen         stewart - ford    43        + 1 lap    18
+12               damon hill        arrows - yamaha    42      wheel nut     9
+13            ukyo katayama         minardi - hart    42         engine    20
+14             jarno trulli  prost - mugen - honda    42       + 2 laps    14
+15           mika hã¤kkinen     mclaren - mercedes    44   disqualified     5
+16           jos verstappen         tyrrell - ford    25       spun off    21
+17          ralf schumacher       jordan - peugeot    21       spun off     6
+18          david coulthard     mclaren - mercedes    19       spun off    10
+19            tarso marques         minardi - hart    18       spun off    22
+20       rubens barrichello         stewart - ford     8       steering    12
+21            shinji nakano  prost - mugen - honda     5     electrical    16

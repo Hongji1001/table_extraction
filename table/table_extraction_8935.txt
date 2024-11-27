@@ -1,0 +1,8 @@
+         school          team division record overall record                          season outcome
+0  indian river       indians           6 - 0         12 - 0           won div ii state championship
+1        delmar      wildcats           5 - 1          9 - 2  loss in first round of div ii playoffs
+2        laurel      bulldogs           4 - 2          4 - 6                 failed to make playoffs
+3   lake forest      spartans           3 - 3          5 - 5                 failed to make playoffs
+4      polytech      panthers           2 - 4          2 - 8                 failed to make playoffs
+5    woodbridge  blue raiders           1 - 5          2 - 8                 failed to make playoffs
+6       seaford     blue jays           0 - 6         0 - 10                 failed to make playoffs

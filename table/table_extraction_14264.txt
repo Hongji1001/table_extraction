@@ -1,0 +1,6 @@
+        tournament   2008   2010   2011   2012   2013
+0  australian open      a     1r     1r     q1     2r
+1      french open     1r     1r     1r     q3     1r
+2        wimbledon      a     4r     q1     q1     2r
+3          us open      a     1r      a     2r     1r
+4       win - loss  0 - 1  3 - 4  0 - 2  1 - 1  2 - 4

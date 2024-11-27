@@ -1,0 +1,19 @@
+    year                 network lap - by - lap                  pit reporters           host
+0   1960  cbs sports spectacular     bud palmer                     bud palmer     bud palmer
+1   1962             abc 's wwos      jim mckay                chris economaki      jim mckay
+2   1963             abc 's wwos  bill flemming                chris economaki  bill flemming
+3   1964             abc 's wwos  bill flemming  chris economaki stirling moss  bill flemming
+4   1965             abc 's wwos  bill flemming                  bill flemming  bill flemming
+5   1966             abc 's wwos     curt gowdy                chris economaki     curt gowdy
+6   1967             abc 's wwos      jim mckay                chris economaki      jim mckay
+7   1968             abc 's wwos  bill flemming                  bill flemming  bill flemming
+8   1969             abc 's wwos  bill flemming                  bill flemming  bill flemming
+9   1970             abc 's wwos  keith jackson                chris economaki  keith jackson
+10  1971             abc 's wwos  keith jackson                chris economaki  keith jackson
+11  1972             abc 's wwos  keith jackson                chris economaki  keith jackson
+12  1973             abc 's wwos      jim mckay                chris economaki      jim mckay
+13  1974             abc 's wwos  keith jackson                chris economaki  keith jackson
+14  1975             abc 's wwos  bill flemming                  bill flemming  bill flemming
+15  1976             abc 's wwos  bill flemming                chris economaki  bill flemming
+16  1977             abc 's wwos      jim mckay                chris economaki      jim mckay
+17  1978             abc 's wwos      jim mckay                chris economaki      jim mckay

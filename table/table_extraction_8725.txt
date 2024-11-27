@@ -1,0 +1,7 @@
+                year                  english title             original title            country           director
+0  best foreign film              best foreign film          best foreign film  best foreign film  best foreign film
+1               1975                and now my love              toute une vie     france / italy     claude lelouch
+2               1976                   face to face        ansikte mot ansikte             sweden     ingmar bergman
+3               1977  that obscure object of desire  cet obscur objet du désir     france / spain        luis buñuel
+4               1978                    madame rosa          la vie devant soi             france      moshé mizrahi
+5               1979              soldier of orange         soldaat van oranje        netherlands     paul verhoeven

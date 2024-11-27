@@ -1,0 +1,16 @@
+   province (ashkharh) armenian name  area (km square)  number of cantons (gavars)       center
+0        upper armenia    բարձր հայք             23860                           9          ani
+1              sophene          ծոփք             18890                           8  arshamashat
+2             aghdznik        աղձնիք             17532                          11  tigranakert
+3            turuberan   տուրուբերան             25008                          17    haykashen
+4              moxoene          մոկք              2962                           8      aparanq
+5             corduene       կորճայք             14707                          11      mahkert
+6          persarmenia    պարսկահայք             11010                           9      salmast
+7           vaspurakan   վասպուրական             40870                          35          van
+8               syunik       սյունիք             15237                          12    baghaberd
+9              artsakh         արցախ             11528                          12       shushi
+10          paytakaran    փայտակարան             21000                          10   bakurakert
+11                utik         ուտիք             11315                           8       parnes
+12              gugark       գուգարք             16795                           9      ardahan
+13                tayk          տայք             10179                           8     boghberd
+14             ayrarat       այրարատ             40105                          22      armavir

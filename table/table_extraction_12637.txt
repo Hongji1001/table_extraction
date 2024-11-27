@@ -1,0 +1,16 @@
+     rank          nation  gold  silver  bronze  total
+0       1    soviet union     8       4       1     13
+1       2           japan     2       1       0      3
+2       2      yugoslavia     2       1       0      3
+3       4          turkey     2       0       3      5
+4       5        bulgaria     1       3       5      9
+5       6         hungary     1       1       2      4
+6       7            iran     0       1       1      2
+7       7          sweden     0       1       1      2
+8       9  czechoslovakia     0       1       0      1
+9       9    east germany     0       1       0      1
+10      9           italy     0       1       0      1
+11      9         romania     0       1       0      1
+12     13   united states     0       0       2      2
+13     14    west germany     0       0       1      1
+14  total           total    16      16      16     48

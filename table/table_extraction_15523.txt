@@ -1,0 +1,32 @@
+    pick            player                   team position                                            school
+0      1     matt anderson         detroit tigers        p                                   rice university
+1      2           jd drew  philadelphia phillies       of                          florida state university
+2      3        troy glaus         anaheim angels   3b , p                                              ucla
+3      4      jason grilli   san francisco giants        p                             seton hall university
+4      5      vernon wells      toronto blue jays       of                      bowie hs (arlington , texas)
+5      6       geoff goetz          new york mets        p                       jesuit hs (tampa , florida)
+6      7      dan reichert     kansas city royals        p                         university of the pacific
+7      8          jj davis     pittsburgh pirates       of             baldwin park hs (pomona , california)
+8      9   michael cuddyer        minnesota twins   ss , p           great bridge hs (chesapeake , virginia)
+9     10       jon garland           chicago cubs        p           kennedy hs (granada hills , california)
+10    11      chris enochs      oakland athletics        p                          west virginia university
+11    12        aaron akin        florida marlins        p                   cowley county community college
+12    13     kyle peterson      milwaukee brewers        p                               stanford university
+13    14    brandon larson        cincinnati reds       ss                        louisiana state university
+14    15    jason dellaero      chicago white sox   ss , p                       university of south florida
+15    16     lance berkman         houston astros       1b                                   rice university
+16    17      john curtice         boston red sox        p           great bridge hs (chesapeake , virginia)
+17    18       mark mangum       colorado rockies        p                    kingwood hs (kingwood , texas)
+18    19     ryan anderson       seattle mariners        p             divine child hs (westland , michigan)
+19    20      adam kennedy     st louis cardinals       ss                   cal state northridge university
+20    21       eric dubose      oakland athletics        p                      mississippi state university
+21    22      jayson werth      baltimore orioles   c , of                  glenwood hs (chatham , illinois)
+22    23    donnie bridges         montreal expos        p          oak grove hs (hattiesburg , mississippi)
+23    24     tyrell godwin       new york yankees       of   east bladen hs (elizabethtown , north carolina)
+24    25       glenn davis    los angeles dodgers       1b                             vanderbilt university
+25    26  darnell mcdonald      baltimore orioles       of            cherry creek hs (englewood , colorado)
+26    27   kevin nicholson       san diego padres       ss                                stetson university
+27    28          tim drew      cleveland indians   p , of            lowndes county hs (valdosta , georgia)
+28    29      troy cameron         atlanta braves       ss  st thomas aquinas hs (fort lauderdale , florida)
+29    30         jack cust   arizona diamondbacks       1b           immaculata hs (somerville , new jersey)
+30    31  jason standridge   tampa bay devil rays        p          hewitt - trussville hs (trussville , al)

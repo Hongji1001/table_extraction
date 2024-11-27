@@ -1,0 +1,17 @@
+   result                           race distance  weight winner or 2nd pos'n
+0     2nd       ajc warwick stakes (wfa)       8f    8.11       amounis   1st
+1     won  tatts chelmsford stakes (wfa)       9f    9.40    nightmarch   2nd
+2     won          rrc hill stakes (wfa)       8f    9.40    nightmarch   2nd
+3     won        ajc spring stakes (wfa)      12f    8.11    nightmarch   2nd
+4     won         ajc craven plate (wfa)      10f    8.11    nightmarch   2nd
+5     won       ajc randwick plate (wfa)      2 m    8.11        donald   2nd
+6     won        mvrc ws cox plate (wfa)    9 ½ f    8.11      tregilla   2nd
+7     won     vrc melbourne stakes (wfa)      10f    8.11      tregilla   2nd
+8     won              vrc melbourne cup      2 m    9.12   second wind   2nd
+9     won    vrc linlithgow stakes (wfa)       8f    8.12      mollison   2nd
+10    won      vrc cb fisher plate (wfa)      12f    8.12   second wind   2nd
+11    won    vatc st george stakes (wfa)       9f    9.70        induna   2nd
+12    won     vatc futurity stakes (wfa)       7f   10.30   mystic peak   2nd
+13    won      vrc essendon stakes (wfa)      10f    8.70        lampra   2nd
+14    won        vrc king 's plate (wfa)      12f    9.70         glare   2nd
+15    2nd      vrc cm lloyd stakes (wfa)       8f    9.70     waterline   1st

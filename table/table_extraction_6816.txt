@@ -1,0 +1,33 @@
+                 player      position date of birth (age)  caps   club / province
+0         george chuter        hooker         9 july 1976    12  leicester tigers
+1             lee mears        hooker        5 march 1979    16              bath
+2            mark regan        hooker     28 january 1972    37           bristol
+3      perry freshwater          prop        27 july 1973     7         perpignan
+4       andrew sheridan          prop     11 january 1979    10       sale sharks
+5          matt stevens          prop      1 october 1982    11              bath
+6    phil vickery ( c )          prop       14 march 1976    53             wasps
+7       steve borthwick          lock     12 october 1979    28              bath
+8               ben kay          lock    14 december 1975    45  leicester tigers
+9            simon shaw          lock     28 january 1972    36             wasps
+10  martin corry ( vc )       flanker     12 october 1973    55  leicester tigers
+11          lewis moody       flanker        12 june 1978    45  leicester tigers
+12             tom rees       flanker   11 september 1984     5             wasps
+13          joe worsley       flanker        14 june 1977    56             wasps
+14   lawrence dallaglio      number 8      10 august 1972    79             wasps
+15          nick easter      number 8      15 august 1978     5        harlequins
+16       andy gomarsall  scrum - half        24 july 1974    25        harlequins
+17          shaun perry  scrum - half          4 may 1978    10           bristol
+18       peter richards  scrum - half       10 march 1978     6      london irish
+19         olly barkley    fly - half    28 november 1981    16              bath
+20      jonny wilkinson    fly - half         25 may 1979    57         newcastle
+21           toby flood    fly - half       8 august 1985     9         newcastle
+22            mike catt        centre   17 september 1971    69      london irish
+23         andy farrell        centre         30 may 1975     3          saracens
+24          dan hipkiss        centre         4 june 1982     1  leicester tigers
+25           jamie noon        centre          9 may 1979    24         newcastle
+26          mathew tait        centre     6 february 1986    11         newcastle
+27           mark cueto          wing    26 december 1979    19       sale sharks
+28          josh lewsey          wing    30 november 1976    47             wasps
+29          paul sackey          wing     8 november 1979     2             wasps
+30       nick abendanon      fullback      27 august 1986     2              bath
+31       jason robinson      fullback        30 july 1974    51        unattached

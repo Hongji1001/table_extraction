@@ -1,0 +1,9 @@
+          designation  bus width (bits) channels  clock rate (mhz)  bandwidth (mb / s)
+0               pc600                16   single               266                1066
+1               pc700                16   single               355                1420
+2               pc800                16   single               400                1600
+3  pc1066 (rimm 2100)                16   single               533                2133
+4  pc1200 (rimm 2400)                16   single               600                2400
+5           rimm 3200                32     dual               400                3200
+6           rimm 4200                32     dual               533                4200
+7           rimm 4800                32     dual               600                4800

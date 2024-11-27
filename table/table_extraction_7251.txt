@@ -1,0 +1,7 @@
+      season          winner                  team position  win
+0  2006 - 07   joe d'aloisio    philadelphia growl        g    1
+1  2005 - 06    ryan clemens        littleton fire        g    1
+2  2004 - 05       jay mazer   harrisburg lunatics        d    1
+3  2003 - 04      jim vivona  morristown minutemen        f    1
+4  2002 - 03  steve yingling          york typhoon        f    1
+5  2001 - 02  brian yingling          york typhoon        f    1

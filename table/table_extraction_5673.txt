@@ -1,0 +1,11 @@
+   year  class tyres                                   team                           co - drivers  laps  pos class pos
+0  1981      c     m                               wm aerem          serge saulnier michel pignard    15  dnf       dnf
+1  1983      c     m                            ford france                        henri pescarolo   174  dnf       dnf
+2  1986     c1     m                        brun motorsport               didier theys alain fertã    89  dnf       dnf
+3  1993     c1     m                   peugeot talbot sport                yannick dalmas teo fabi   374  2nd       2nd
+4  1994    gt1     g      le mans porsche team joest racing      hans joachim stuck danny sullivan   343  3rd       2nd
+5  1995    wsc     g                  porsche kremer racing  hans joachim stuck christophe bouchut   289  6th       2nd
+6  1996    gt1     m                             porsche ag          hans joachim stuck bob wollek   353  2nd       1st
+7  1997    gt1     g                             porsche ag          hans joachim stuck bob wollek   238  dnf       dnf
+8  1998    gt1     m  toyota motorsports toyota team europe              ralf kelleners geoff lees   330  dnf       dnf
+9  1999  lmgtp     m  toyota motorsports toyota team europe            ralf kelleners allan mcnish   173  dnf       dnf

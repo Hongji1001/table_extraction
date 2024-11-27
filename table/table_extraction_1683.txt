@@ -1,0 +1,18 @@
+            city of license / market    station channel ( tv / rf )  owned since     affiliation
+0                            phoenix  knxv - tv             15 (15)         1985             abc
+1           bakersfield , california  kero - tv             23 (10)         2011             abc
+2           bakersfield , california  kzkc - lp                  42         2011  azteca américa
+3                          san diego       kgtv             10 (10)         2011             abc
+4                          san diego  kzsd - lp                  41         2011  azteca américa
+5        colorado springs , colorado  kzks - lp                  23         2011  azteca américa
+6                             denver  kmgh - tv               7 (7)         2011             abc
+7                             denver  kzco - lp                  27         2011  azteca américa
+8            fort collins , colorado  kzfc - lp                  36         2011  azteca américa
+9              tampa - st petersburg  wfts - tv             28 (29)         1986             abc
+10                   west palm beach       wptv              5 (12)         1961             nbc
+11                      indianapolis       wrtv              6 (25)         2011             abc
+12                         baltimore  wmar - tv              2 (38)         1991             abc
+13                           detroit  wxyz - tv              7 (41)         1986             abc
+14  kansas city , mo - lawrence , ks  kshb - tv             41 (42)         1977             nbc
+15                        cincinnati  wcpo - tv              9 (22)         1949             abc
+16        cleveland - akron - canton       wews              5 (15)         1947             abc

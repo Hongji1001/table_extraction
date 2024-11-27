@@ -1,0 +1,8 @@
+   round  pick  overall              name       position                 college
+0      2    16       45      bert emanuel  wide receiver                    rice
+1      3     7       72  anthony phillips     cornerback  texas a&m - kingsville
+2      3    34       99  alai kalaniuvalu          guard            oregon state
+3      4     8      111       perry klein    quarterback                 cw post
+4      4    15      118       mitch davis     linebacker                 georgia
+5      5     7      138  harrison houston  wide receiver                 florida
+6      7     7      201    jamal anderson   running back                    utah

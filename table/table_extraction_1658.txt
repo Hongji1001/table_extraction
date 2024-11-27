@@ -1,0 +1,32 @@
+                commune  area (km 2 )  2002 population  pop density (km 2 ) municipality website
+0    santiago (capital)          22.4           200792               8963.9                 link
+1              vitacura          28.3            81499               2879.8                 link
+2             san ramón           6.5            94906              14600.9                 link
+3            san miguel           9.5            78872               8302.3                 link
+4           san joaquín           9.7            97625              10064.4                 link
+5                 renca          24.2           133518               5517.3                 link
+6              recoleta          16.2           148220               9149.4                 link
+7         quinta normal          12.4           104012               8388.1                 link
+8             quilicura          57.5           126518               2200.3                 link
+9              pudahuel         197.4           195653                991.1                 link
+10          providencia          14.4           120874               8394.0                 link
+11            peñalolén          54.2           216060               3986.3                 link
+12  pedro aguirre cerda           9.7           114560              11810.3                 link
+13                ñuñoa          16.9           163511               9675.2                 link
+14                maipú         133.0           468390               3521.7                 link
+15                macul          12.9           112535               8723.6                 link
+16             lo prado           6.7           104316              15569.6                 link
+17            lo espejo           7.2           112800              15666.7                 link
+18         lo barnechea        1023.7            74749                 73.0                 link
+19           las condes          99.4           249893               2514.0                 link
+20             la reina          23.4            96762               4135.1                 link
+21           la pintana          30.6           190085               6211.9                 link
+22            la granja          10.1           132520              13120.8                 link
+23           la florida          70.8           365674               5164.9                 link
+24          la cisterna          10.0            85118               8511.8                 link
+25        independencia           7.4            65479               8848.5                 link
+26           huechuraba          44.8            74070               1653.3                 link
+27     estación central          14.1           130394               9247.8                 link
+28            el bosque          14.1           175594              12453.5                 link
+29             conchalí          70.7           133256               1884.8                 link
+30          cerro navia          11.1           148312              13361.4                 link

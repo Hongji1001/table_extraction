@@ -1,0 +1,16 @@
+    pos class                     entrant                                   drivers  laps
+0     1     a                  gio racing                   mark gibbs rohan onslow   161
+1     2     b      benson & hedges racing               alan jones peter fitzgerald   155
+2     3     a  playscape racing australia                kevin waldock brett peters   152
+3     4     a                   gemspares                 daryl hendrick john white   144
+4     5     c       toyota team australia                  ron searle don griffiths   141
+5     6     c        speedtech motorsport                    geoff full paul morris   122
+6   dnf     a        peter jackson racing                glenn seton gregg hansford   146
+7   dnf     a         mobil 1 racing team  peter brock andrew miedecke tomas mezera   133
+8   dnf     a                   bob jones                       bob jones ed lamont   122
+9   dnf     a          holden racing team                  neil crompton brad jones   103
+10  dnf     a         mobil 1 racing team                 larry perkins peter brock   103
+11  dnf     c           bob holden motors                  bob holden dennis rogers   103
+12  dnf     a          holden racing team                     win percy allan grice   101
+13   nc     c           bob holden motors               mike conway calvin gardiner    97
+14  dnf     a                peter hudson         peter hudson ian carrig ian clark    56

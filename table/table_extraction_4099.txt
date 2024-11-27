@@ -1,0 +1,8 @@
+                                          name  martyred  place  beatified  canonised
+0  laurent - marie - joseph imbert / st imbert      1839  korea       1925       1984
+1        jacques - honorã chastan / st chastan      1839  korea       1925       1984
+2        philip minh van doan / st philip minh      1853  annam       1900       1988
+3           peter quy cong doan / st peter quy      1859  annam       1909       1988
+4                paul loc le van / st paul loc      1859  annam       1909       1988
+5          john hoan trinh doan / st john hoan      1861  annam       1909       1988
+6        joseph luu van nguyen / st joseph luu      1861  annam       1909       1988

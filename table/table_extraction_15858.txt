@@ -1,0 +1,9 @@
+   rank  lane                        name    nationality     time
+0     1     4         federica pellegrini          italy  1:57.23
+1     2     2               camelia potec        romania  1:57.71
+2     3     5          caitlin mcclatchey  great britain  1:57.73
+3     4     7  ophélie - cyrielle étienne         france  1:58.00
+4     5     6             allison schmitt  united states  1:58.01
+5     6     8               aurore mongel         france  1:58.08
+6     7     3                ágnes mutina        hungary  1:58.15
+7     8     1            josefin lillhage         sweden  1:59.29

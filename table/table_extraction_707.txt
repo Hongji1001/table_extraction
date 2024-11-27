@@ -1,0 +1,9 @@
+    district           incumbent       party  first elected        result                                       candidates
+0  alabama 1      frank w boykin  democratic           1935  re - elected                     frank w boykin (d) unopposed
+1  alabama 2      george m grant  democratic           1938  re - elected                     george m grant (d) unopposed
+2  alabama 3    henry b steagall  democratic           1914  re - elected                   henry b steagall (d) unopposed
+3  alabama 4           sam hobbs  democratic           1934  re - elected          sam hobbs (d) 88.2% c w mckay (r) 11.8%
+4  alabama 5         joe starnes  democratic           1934  re - elected     joe starnes (d) 99.7% frank j payne (i) 0.3%
+5  alabama 6         pete jarman  democratic           1936  re - elected                        pete jarman (d) unopposed
+6  alabama 7  william b bankhead  democratic           1916  re - elected  william b bankhead (d) 71.3% e m reed (r) 28.7%
+7  alabama 8       john sparkman  democratic           1936  re - elected                      john sparkman (d) unopposed

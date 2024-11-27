@@ -1,0 +1,33 @@
+    rank                       gymnast difficulty score  routine score  total
+0      1        henrik stehlik ( ger )                -           28.1   69.1
+1      1        henrik stehlik ( ger )             15.6           41.0   69.1
+2      2          yuri nikitin ( ukr )                -           27.6   69.0
+3      2          yuri nikitin ( ukr )             16.2           41.4   69.0
+4      3     alexander rusakov ( rus )                -           28.1   69.0
+5      3     alexander rusakov ( rus )             16.2           40.9   69.0
+6      4  alexander moskalenko ( rus )                -           28.3   68.9
+7      4  alexander moskalenko ( rus )             16.0           40.6   68.9
+8      5     dimitri polyarush ( blr )                -           27.5   67.8
+9      5     dimitri polyarush ( blr )             15.6           40.3   67.8
+10     6          david martin ( fra )                -           26.7   67.4
+11     6          david martin ( fra )             15.8           40.7   67.4
+12     7            gary smith ( gbr )                -           27.2   67.2
+13     7            gary smith ( gbr )             15.8           40.0   67.2
+14     8           nuno merino ( por )                -           26.7   66.9
+15     8           nuno merino ( por )             16.2           40.2   66.9
+16     9        ludovic martin ( sui )                -           27.2   66.8
+17     9        ludovic martin ( sui )             15.8           39.6   66.8
+18    10        mu yong - feng ( chn )                -           26.3   65.2
+19    10        mu yong - feng ( chn )             15.4           38.9   65.2
+20    11       mathieu turgeon ( can )                -           26.6   63.4
+21    11       mathieu turgeon ( can )             16.2           36.8   63.4
+22    12   michail pelivanidis ( gre )                -           25.9   62.6
+23    12   michail pelivanidis ( gre )             14.9           36.7   62.6
+24    13        flavio cannone ( ita )                -           27.3   57.6
+25    13        flavio cannone ( ita )             11.3           30.3   57.6
+26    14         nikolai kazak ( blr )                -           28.0   52.8
+27    14         nikolai kazak ( blr )             11.3           24.8   52.8
+28    15      alan villafuerte ( ned )                -           27.0   44.9
+29    15      alan villafuerte ( ned )              8.4           17.9   44.9
+30    16          peter jensen ( den )                -           26.5   32.7
+31    16          peter jensen ( den )              3.5            6.2   32.7

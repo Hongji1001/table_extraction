@@ -1,0 +1,9 @@
+     nation  t score  a score  e score   total
+0    greece      8.1     7.95    8.400  24.450
+1  bulgaria      7.9     7.90    7.800  23.600
+2   belarus      7.5     8.30    8.200  23.500
+3     italy      8.0     7.50    7.875  23.375
+4   ukraine      7.8     7.70    7.975  22.975
+5     china      7.9     6.65    8.125  22.675
+6    russia      7.7     7.85    6.625  21.475
+7    poland      6.8     7.15    7.725  21.175

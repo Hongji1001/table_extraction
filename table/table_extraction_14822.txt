@@ -1,0 +1,11 @@
+   round  pick  overall             name          position         college
+0      1     9        9  reggie williams     wide receiver      washington
+1      2     7       39      daryl smith        linebacker    georgia tech
+2      2    23       55       greg jones          fullback   florida state
+3      3    23       86    jorge cordova        linebacker          nevada
+4      4    22      118   anthony maddox  defensive tackle     delta state
+5      4    24      120   ernest wilford     wide receiver   virginia tech
+6      5     5      137      josh scobee            kicker  louisiana tech
+7      5    18      150   chris thompson        cornerback  nicholls state
+8      5    27      159       sean bubin  offensive tackle        illinois
+9      7    48      249     bobby mccray     defensive end         florida

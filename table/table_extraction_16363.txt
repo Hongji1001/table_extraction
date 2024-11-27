@@ -1,0 +1,10 @@
+                      elector   place of birth              cardinalatial title             elevated       elevator
+0               paolo scolari             rome             bishop of palestrina  september 21 , 1179  alexander iii
+1          thibaud , osbcluny           france       bishop of ostia e velletri                 1184     lucius iii
+2        laborante de panormo         pontormo  priest of s maria in trastevere       september 1173  alexander iii
+3  melior le maitre , osbvall             pisa    priest of ss giovanni e paolo      march 16 , 1185     lucius iii
+4      giacinto bobone orsini             rome    deacon of s maria in cosmedin   december 22 , 1144      lucius ii
+5            graziano da pisa             pisa     deacon of ss cosma e damiano       march 4 , 1178  alexander iii
+6          ottaviano di paoli             rome      deacon of ss sergio e bacco   december 18 , 1182     lucius iii
+7                pietro diana         piacenza    deacon of s nicola in carcere      march 16 , 1185     lucius iii
+8             radulf nigellus  probably france   deacon of s giorgio in velabro      march 16 , 1185     lucius iii

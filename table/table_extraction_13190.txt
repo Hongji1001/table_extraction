@@ -1,0 +1,8 @@
+   round  pick                   player    nationality            college
+0      2    37             jeff wilkins  united states     illinois state
+1      3    59            dan henderson  united states     arkansas state
+2      4    81  matt hicks (basketball)  united states  northern illinois
+3      5   103               scott sims  united states           missouri
+4      6   125            bruce buckley  united states     north carolina
+5      7   145         richard robinson  united states         new mexico
+6      8   164           jerome gladney  united states            arizona

@@ -1,0 +1,32 @@
+                song title                        artist  year          genre          single / pack name  release date family friendly additional rock band 3 features
+0            fortunate son  creedence clearwater revival  1969  southern rock                      single  nov20 , 2007             yes                            none
+1            juke box hero                     foreigner  1981   classic rock                      single  nov20 , 2007             yes                            none
+2              bang a gong                         t rex  1971           glam                      single  nov20 , 2007              no                            none
+3               my sharona                     the knack  1979     pop - rock                      single  nov20 , 2007              no               pro guitar / bass
+4              cherry bomb                  the runaways  1976           punk                      single  nov20 , 2007              no                            none
+5        joker & the thief                    wolfmother  2005           rock                      single  nov20 , 2007             yes                            none
+6       ride the lightning                     metallica  1984          metal                metallica 01  nov20 , 2007              no                            none
+7                blackened                     metallica  1988          metal                metallica 01  nov20 , 2007              no                            none
+8     .and justice for all                     metallica  1988          metal                metallica 01  nov20 , 2007              no               pro guitar / bass
+9              3 's & 7 's       queens of the stone age  2007    alternative  queens of the stone age 01  nov20 , 2007              no                            none
+10           little sister       queens of the stone age  2005    alternative  queens of the stone age 01  nov20 , 2007              no                            none
+11      sick , sick , sick       queens of the stone age  2007    alternative  queens of the stone age 01  nov20 , 2007              no                            none
+12  can't stand losing you                    the police  1978     pop - rock               the police 01  nov20 , 2007              no                            none
+13        synchronicity ii                    the police  1983     pop - rock               the police 01  nov20 , 2007              no                            none
+14                 roxanne                    the police  1978     pop - rock               the police 01  nov20 , 2007              no                            none
+15                  heroes                   david bowie  1977           glam              david bowie 01  nov27 , 2007             yes                            none
+16        moonage daydream                   david bowie  1972           glam              david bowie 01  nov27 , 2007              no                            none
+17             queen bitch                   david bowie  1971           glam              david bowie 01  nov27 , 2007              no                            none
+18                     nib                 black sabbath  1970          metal            black sabbath 01   dec4 , 2007              no                            none
+19              sweet leaf                 black sabbath  1971          metal            black sabbath 01   dec4 , 2007              no                            none
+20                war pigs                 black sabbath  1970          metal            black sabbath 01   dec4 , 2007              no                            none
+21     ever fallen in love                     buzzcocks  1978           punk                     punk 01  dec11 , 2007             yes                            none
+22        i fought the law                     the clash  1977           punk                     punk 01  dec11 , 2007             yes                            none
+23          rockaway beach                       ramones  1977           punk                     punk 01  dec11 , 2007             yes                            none
+24            my iron lung                     radiohead  1994    alternative                      single  dec18 , 2007              no                            none
+25         brass in pocket                the pretenders  1980     pop - rock                      single  dec18 , 2007             yes                            none
+26             buddy holly                        weezer  1994    alternative                      single  dec18 , 2007             yes                            none
+27                  attack            30 seconds to mars  2005            emo                      single  dec25 , 2007              no                            none
+28                the kill            30 seconds to mars  2005            emo                      single  dec25 , 2007             yes                            none
+29     dirty little secret        all - american rejects  2005            emo                      single  dec25 , 2007             yes                            none
+30              move along        all - american rejects  2005            emo                      single  dec25 , 2007             yes                            none

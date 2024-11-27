@@ -1,0 +1,14 @@
+    date country            place                               building       size
+0   1970      nl       ridderkerk                             singelkerk  iiip / 32
+1   1979      nl  katwijk aan zee                            nieuwe kerk   ivp / 80
+2   1989      fr            paris                église saint - eustache   vp / 101
+3   1992      ch           geneva                          victoria hall   ivp / 71
+4   1993      gb           london  royal academy of music , duke 's hall   iip / 24
+5   1994     usa    new york city            church of the holy apostles  iiip / 32
+6   1995      se        stockholm                kungliga musikhögskolan  iiip / 25
+7   1995      nl        rotterdam                         maranatha kerk  iiip / 25
+8   1997      de           berlin                   st franziskus kirche  iiip / 51
+9   2000      se        stockholm                         katarina kyrka  iiip / 62
+10  2000      nl        the hague            residence of ben van oosten  iiip / 16
+11  2000      fi           mänttä                                 church  iiip / 30
+12  2006      dk       copenhagen                copenhagen concert hall   ivp / 91

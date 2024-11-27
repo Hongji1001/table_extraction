@@ -1,0 +1,7 @@
+   year                      title          genre     label  year inducted
+0  1963        blowin' in the wind  folk (single)  columbia           1994
+1  1965       like a rolling stone  rock (single)  columbia           1998
+2  1966           blonde on blonde   rock (album)  columbia           1999
+3  1965          mr tambourine man   rock (track)  columbia           2002
+4  1965       highway 61 revisited   rock (album)  columbia           2002
+5  1965  bringing it all back home   rock (album)  columbia           2006

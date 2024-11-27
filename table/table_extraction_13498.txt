@@ -1,0 +1,8 @@
+          player        country year (s) won  total to par
+0     andy north  united states  1978 , 1985    148    + 8
+1  johnny miller  united states         1973    148    + 8
+2     hale irwin  united states  1974 , 1979    150   + 10
+3   larry nelson  united states         1983    151   + 11
+4    lee trevino  united states  1968 , 1971    151   + 11
+5   hubert green  united states         1977    152   + 12
+6  fuzzy zoeller  united states         1984    152   + 12

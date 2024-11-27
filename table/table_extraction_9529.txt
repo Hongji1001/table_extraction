@@ -1,0 +1,31 @@
+    year                          event                       skip                         third                         second                       lead
+0   1972               women 's juniors              judy jamieson                  debbie grant                     lynn britt               denise allan
+1   1972                british consols               eldon coombe                 keith forgues                    jim patrick              barry provost
+2   1979                 men 's masters                   ted root                   ralph smith                     bob martin            elwyn macdonald
+3   1985            intermediate men 's                russ taylor                bruce lonsbery                        al reed              jack casserly
+4   1990                 men 's masters                   ken hart                     roy james                     cec morris                  rae brown
+5   1993                 silver tankard    brad shinn ian macaulay    john theriault bill gamble      dave korim richard groulx  geoff colley barry conrad
+6   1993                      challenge                terry clark                 jack casserly                   wayne lennon               ian macaulay
+7   1995                   men 's colts               ken campbell                 john galligan               james sutherland              steve o'brien
+8   1997                 men 's masters               rod matheson                     jack ross                   bob mckenzie              gord cummings
+9   1997                   senior mixed           paul engelbrecht               bonnie matheson                   rod matheson         darlene engelrecht
+10  1997                 men 's juniors                john morris                  craig savill                  matt st louis                 mark homan
+11  1998               women 's juniors                 jenn hanna            amanda vanderspank                julie colquhoun            stephanie hanna
+12  1998                 men 's juniors                john morris                  craig savill                    andy ormsby                brent laing
+13  1999                women 's trophy             laurie shields                 barb wheatley               andrea leganchuk               sandra ribey
+14  1999                 men 's juniors                john morris                  craig savill                    jason young                brent laing
+15  2000                   senior mixed                reg plaster               donna lamoureux                  randy garland            dianne sullivan
+16  2002                women 's trophy               eveline shaw                laurie shields               andrea leganchuk                 sue kollar
+17  2002               women 's tankard  eveline shaw joyce potter  laurie shields muriel potter  margaret pross janelle sadler   sue kollar faye linseman
+18  2003                   senior mixed              randy garland                  eveline shaw                     roger shaw             margaret pross
+19  2003                senior women 's               joyce potter                 muriel potter                 janelle sadler              faye linseman
+20  2005                 men 's masters               rod matheson                  eldon coombe                      ron brown            georges bourgon
+21  2005     scott tournament of hearts                 jenn hanna              pascale letendre                     dawn askin            stephanie hanna
+22  2009               women 's juniors               rachel homan                   emma miskew               alison kreviazuk             lynn kreviazuk
+23  2010               women 's juniors               rachel homan                   emma miskew                  laura crocker             lynn kreviazuk
+24  2011                 men 's juniors                mathew camm                  scott howard                  david mathers            andrew hamilton
+25  2011  scotties tournament of hearts               rachel homan                   emma miskew               alison kreviazuk                lisa weagle
+26  2011                 men 's masters                layne noble                  rick bachand                  randy garland                  cal hegge
+27  2012                 men 's seniors                brian lewis                  jeff mccrady                     steve doty            graham sinclair
+28  2012           men 's grand masters               rod matheson                  eldon coombe                    jamie angus               john lockett
+29  2013  scotties tournament of hearts               rachel homan                   emma miskew               alison kreviazuk                lisa weagle

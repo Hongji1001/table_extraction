@@ -1,0 +1,7 @@
+           player        country               year (s) won total to par
+0       ernie els   south africa                1994 , 1997   148    + 8
+1   fuzzy zoeller  united states                       1984   151   + 11
+2  curtis strange  united states                1988 , 1989   152   + 12
+3   jack nicklaus  united states  1962 , 1967 , 1972 , 1980   153   + 13
+4     steve jones  united states                       1996   154   + 14
+5      hale irwin  united states         1974 , 1979 , 1990    wd     wd

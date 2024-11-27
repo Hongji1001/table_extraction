@@ -1,0 +1,31 @@
+    dish      callsign                 network resolution city of license official website
+0    NaN          xefe          televisa local     analog    nuevo laredo              NaN
+1    8.0          kgns                     nbc   hd 1080i          laredo      pro8newscom
+2   15.0    kgns - dt2                  the cw    sd 480i          laredo      yourcwtvcom
+3   16.0    kgns - dt3               telemundo    sd 480i          laredo     telemundocom
+4    NaN          klrn                     pbs     analog     san antonio          klrnorg
+5    NaN  k10qk - d cp               carismatv    sd 480i          laredo      feypodercom
+6    NaN          xhbr  canal de las estrellas   hd 1080i    nuevo laredo      televisacom
+7   12.0          ksat                     abc    hd 720p     san antonio          ksatcom
+8   13.0          kvtv                     cbs   hd 1080i          laredo           cbscom
+9   13.0          kvtv                     cbs    sd 480i          laredo           cbscom
+10   NaN          knex                 testing   hd 1080i          laredo              NaN
+11   NaN          klmv                     bvb    sd 480i          laredo        buenavnet
+12   NaN    klmv - ld2            infomercials    sd 480i          laredo              NaN
+13   NaN    klmv - ld3             vida vision    sd 480i          laredo        buenavnet
+14   NaN    klmv - ld4         televida laredo    sd 480i          laredo        buenavnet
+15   NaN         xhlna               azteca 13   hd 1080i    nuevo laredo      tvaztecacom
+16   NaN  xhlna - tdt2             proyecto 40   hd 1080i    nuevo laredo   proyecto40.com
+17  27.0          kldo               univision   hd 1080i          laredo        kldotvcom
+18   NaN    kldo - dt2                    latv    sd 480i          laredo        ketftvcom
+19   NaN    kldo - dt3                    dark    sd 480i          laredo              NaN
+20   NaN          ketf                  unimás    sd 480i          laredo        ketftvcom
+21  39.0    ketf - cd2             fox / mynet    hd 720p          laredo   myfoxlaredocom
+22   NaN         xhlat                azteca 7   hd 1080i    nuevo laredo      tvaztecacom
+23  39.0          kxof                     fox    hd 720p          laredo   mylaredofoxcom
+24   NaN    kxof - cd2                mundofox    sd 480i          laredo      mundofoxcom
+25   NaN     k40nu - d     maranatha church tv    sd 480i          laredo              NaN
+26   NaN         xhnat        multimedios plus    sd 480i    nuevo laredo    multimediostv
+27   NaN  xhnat - tdt2        smpte color bars    sd 480i    nuevo laredo    multimediostv
+28   NaN  xhnat - tdt3        smpte color bars    sd 480i    nuevo laredo    multimediostv
+29   NaN         xhlar       televisa regional    sd 480i    nuevo laredo      televisacom

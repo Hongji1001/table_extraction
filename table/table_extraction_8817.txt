@@ -1,0 +1,13 @@
+              player  height position  year born       current club
+0      sandi čebular    1.94    guard       1986         unattached
+1       jaka lakovič    1.86    guard       1978   axa fc barcelona
+2   aleksandar ćapin    1.86    guard       1982   whirlpool varese
+3       goran dragić    1.88    guard       1986       tau cerámica
+4   rasho nesterovič    2.14   center       1976    toronto raptors
+5      matjaž smodiš    2.05  forward       1979        cska moscow
+6        uroš slokar    2.09   center       1983  triumph lyubertsy
+7      jaka klobučar    1.94    guard       1987     geoplin slovan
+8     goran jagodnik    2.02  forward       1974           hemofarm
+9       domen lorbek    1.96    guard       1985    mmt estudiantes
+10     gašper vidmar    2.08   center       1987   fenerbahçe ülker
+11     erazem lorbek    2.09   center       1984   lottomatica roma

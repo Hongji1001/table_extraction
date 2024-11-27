@@ -1,0 +1,18 @@
+                driver                       team  laps time / retired  grid  points
+0           will power             team australia    73    1:45:58.568     7      31
+1            neel jani                 pkv racing    73        + 2.972     9      28
+2        justin wilson                    rsports    73        + 3.480     2      25
+3       simon pagenaud             team australia    73        + 5.643     4      23
+4      bruno junqueira          dale coyne racing    73       + 20.738     5      21
+5      robert doornbos           minardi team usa    72        + 1 lap    12      19
+6         ryan dalziel  pacific coast motorsports    72        + 1 lap    11      17
+7        alex tagliani                    rsports    71       + 2 laps     6      15
+8   sãbastien bourdais           n / h / l racing    67        contact     1      16
+9         oriol servia            forsythe racing    56        contact     3      11
+10        graham rahal           n / h / l racing    52        contact    15      10
+11          dan clarke           minardi team usa    43        contact    13       9
+12          jan heylen            conquest racing     1        contact     8       8
+13          paul tracy            forsythe racing     0        contact    10       7
+14    tristan gommendy                 pkv racing     0        contact    14       6
+15     katherine legge          dale coyne racing     0        contact    16       5
+16          alex figge  pacific coast motorsports     0        contact    17       4

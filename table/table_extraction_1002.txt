@@ -1,0 +1,23 @@
+   country / territory  area (km square)  population  pop density ( / km square)  gdp millions of usd (2009)  gdp per capita usd (2009 - 2011)              capital
+0       american samoa               199       55519                         326                         537                              7874            pago pago
+1            australia           7617930    23154782                           3                     1515468                             41500             canberra
+2               brunei              5765      407000                          70                       14700                             36700  bandar seri begawan
+3             cambodia            181035    14805000                          82                       10900                               800           phnom penh
+4                china           9671018  1339530000                         138                     7203784                              6076              beijing
+5            hong kong              1104     7055071                        6390                      210730                             30000            hong kong
+6            indonesia           1904569   237556363                         126                      514900                              2200              jakarta
+7                japan            377944   127470000                         337                     5870357                             39700                tokyo
+8          north korea            120540    23906000                         198                       27820                              1200            pyongyang
+9          south korea            100140    50062000                         500                      800300                             20000                seoul
+10                laos            236800     6320000                          27                        5721                               900            vientiane
+11               macau                29      541200                       18662                       36428                             39800                macau
+12            malaysia            329847    28318000                          86                      191399                              7525         kuala lumpur
+13            mongolia           1564116     2736800                           2                        4212                              1500           ulan bator
+14               burma            676578    50496000                          74                       26820                               500            naypyidaw
+15         new zealand            268021     4357437                          16                      109600                             25500           wellington
+16    papua new guinea            462840     6732000                          15                        8200                              1200         port moresby
+17         philippines            299764    91983000                         307                      158700                              1700               manila
+18           singapore               710     5183700                        7023                      177133                             35500    city of singapore
+19              taiwan             36191    23119772                         639                      466054                             20328               taipei
+20            thailand            513120    67764000                         132                      263510                              3900              bangkok
+21       timor - leste             14874     1171000                          76                         599                               500                 dili

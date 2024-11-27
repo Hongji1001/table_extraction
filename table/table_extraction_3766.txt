@@ -1,0 +1,9 @@
+                       category             player                          team  games played     totals  average
+0               points per game         gary david               powerade tigers            14        301   21.500
+1             rebounds per game      rudy hatfield        barangay ginebra kings            20        242   12.100
+2              assists per game         chris ross                 meralco bolts            16        100    6.250
+3               steals per game         chris ross                 meralco bolts            16         38    2.380
+4               blocks per game       nonoy baclao                 air21 express            15         35    2.500
+5         field goal percentage           ali peek  talk 'n text tropang texters            19  105 - 161    0.652
+6  3 - pt field goal percentage  dondon hontiveros            san miguel beermen            17    33 - 72    0.458
+7         free throw percentage     tony dela cruz                   alaska aces            14    22 - 25    0.880

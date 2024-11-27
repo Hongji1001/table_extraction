@@ -1,0 +1,7 @@
+          date              city      opponent results type of game
+0   february 4   tunis , tunisia       tunisia     5:0     friendly
+1        may 9  munich , germany  west germany     1:0     friendly
+2       may 13   warsaw , poland        poland     2:2     friendly
+3       may 26          belgrade       hungary     1:1     friendly
+4   october 21            zagreb         spain     0:0     1974 wcq
+5  december 19   athens , greece        greece     4:2     1974 wcq

@@ -1,0 +1,21 @@
+                  colliery      location           date  year  death toll           cause
+0           dinas colliery         dinas      1 january  1844          12   gas explosion
+1          cymmer colliery        cymmer        15 july  1856         112   gas explosion
+2        ferndale no 1 pit  blaenllechau     8 november  1867         178   gas explosion
+3        ferndale no 1 pit  blaenllechau        10 june  1869          53   gas explosion
+4          pentre colliery        pentre    24 february  1871          38   gas explosion
+5        tynewydd colliery         porth       11 april  1877           5        flooding
+6    dinas middle colliery         dinas     13 january  1879          63   gas explosion
+7           naval colliery     penygraig    10 december  1880         101   gas explosion
+8           gelli colliery         gelli      21 august  1883           5   gas explosion
+9           naval colliery     penygraig     27 january  1884          14   gas explosion
+10         maerdy colliery        maerdy  2324 december  1885          81   gas explosion
+11       national colliery     wattstown    18 february  1887          39   gas explosion
+12     tylorstown colliery    tylorstown     27 january  1896          57   gas explosion
+13       national colliery     wattstown        11 july  1905         120   gas explosion
+14   cambrian colliery no1  clydach vale       10 march  1905          34   gas explosion
+15          naval colliery     penygraig      27 august  1909           6       cage fall
+16      glamorgan colliery     llwynypia     25 january  1932          11        firedamp
+17   blaenclydach colliery  clydach vale    25 november  1941           7  runaway trolly
+18  lewis merthyr colliery      trehafod    22 november  1956           9   gas explosion
+19       cambrian colliery  clydach vale         17 may  1965          31   gas explosion

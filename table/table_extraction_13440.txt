@@ -1,0 +1,28 @@
+   callsign                                      area served band          freq currently     purpose
+0       4at                                         atherton   am          4at (national)  commercial
+1       4ay                                 ayr / townsville   am                 see 4rr  commercial
+2      4bcb                                       blackwater   fm                  silent   community
+3       4bk                                         brisbane   am                    4rph  commercial
+4       4ca                                           cairns   am                     4el  commercial
+5       4cd                                        gladstone   am                     4cc  commercial
+6       4eb                                         brisbane   am      rete italia (hpon)   community
+7      4eee                                          emerald   fm                  silent   community
+8      4 gg                                       gold coast   am        4bi ( brisbane )  commercial
+9     4 ggg                                       gold coast   fm                   4 gld  commercial
+10      4io                                         brisbane   am                 see 4ip  commercial
+11      4ip                               ipswich / brisbane   am                    4tab  commercial
+12     4 mb                                      maryborough   am                     4fc  commercial
+13     4 mi                                        mount isa   am                  silent    national
+14     4 mk                                           mackay   am                     4aa  commercial
+15      4na                                          nambour   am                 see 4ss  commercial
+16      4qa                                           mackay   am                  silent    national
+17     4qfm                                          ipswich   fm                    4bne  commercial
+18      4qg                                         brisbane   am                     4rn    national
+19      4rr                                       townsville   am                    4tab  commercial
+20     4rrr                                             roma   fm                  silent   community
+21     4sda                                          nambour   fm                    4sfm   community
+22      4so                                        southport   am                  silent    national
+23      4ss                                          nambour   am                  silent  commercial
+24     4sun  remote commercial radio service north east zone   fm                    4rbl  commercial
+25      4to                                       townsville   am  retransmission of 4too  commercial
+26     4tof                                       cunnamulla   fm   retransmission of 4rr   community

@@ -1,0 +1,8 @@
+             election              1st member               1st party              2nd member               2nd party
+0                1832        lord john lennox                    whig      the earl of surrey                    whig
+1                1841       the earl of march            conservative         charles wyndham            conservative
+2                1847       the earl of march            conservative           richard prime            conservative
+3  1854 by - election       the earl of march            conservative           henry wyndham            conservative
+4  1860 by - election        walter barttelot            conservative           henry wyndham            conservative
+5  1869 by - election        walter barttelot            conservative       the earl of march            conservative
+6                1885  constituency abolished  constituency abolished  constituency abolished  constituency abolished

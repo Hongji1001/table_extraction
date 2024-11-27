@@ -1,0 +1,20 @@
+             player                  club  league  play - offs  fa cup  fa trophy  total
+0       paul barnes      doncaster rovers      25            1       2          0     28
+1      kirk jackson           yeovil town      24            0       1          1     27
+2    gregg blundell      doncaster rovers      20            0       0          2     22
+3      junior agogo                barnet      20            0       0          0     20
+4      wayne curtis             morecambe      18            0       0          0     18
+5      dino maamria     stevenage borough      17            0       1          0     18
+6       daryl clare          chester city      17            0       0          0     17
+7        mark stein  dagenham & redbridge      16            3       0          2     21
+8   christian moore         burton albion      16            0       2          0     18
+9        steve west  dagenham & redbridge      16            0       0          1     17
+10      david brown        telford united      16            0       0          1     17
+11     neil grayson   forest green rovers      15            0       0          5     20
+12      mark quayle          chester city      15            0       1          0     16
+13   warren patmore                woking      14            0       0          2     16
+14       paul moore        telford united      14            0       0          1     15
+15   kayode odejayi   forest green rovers      13            0       1          2     16
+16         lee elam             morecambe      13            0       1          1     15
+17       kevin gall           yeovil town      13            0       0          1     14
+18     steve guinan       hereford united      13            0       0          0     13

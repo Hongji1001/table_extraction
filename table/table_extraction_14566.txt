@@ -1,0 +1,7 @@
+  initial - syllable open / semi - open unstressed vowels  17th c    american     british  australian                                       examples
+0                                                   a / ə       ɐ           ə           ə           ə          papyrus , placebo , saliva , basilica
+1                                                   e / ɨ       e       ɪ , ə       ɪ , ə       ɪ , ə                           december , thesaurus
+2                                                   æ / ɨ       e       ɪ , ə       ɪ , ə       ɪ , ə               mæcenas , pæninsula , phænomenon
+3                                              i / aɪ , ɨ  ɛi , ɪ  ai , ɪ , ə  aɪ , ɪ , ə  ɑe , ɪ , ə         criteria , tribunal , minutiæ , cicada
+4                                              y / aɪ , ɨ  ɛi , ɪ  ai , ɪ , ə  aɪ , ɪ , ə  ɑe , ɪ , ə  lyceum , psychosis , synopsis , chrysanthemum
+5                                                   o / ɵ       o  ɞu , ɞ , ə      əʊ , ə      əʉ , ə     november , rotunda , colossus , proscenium

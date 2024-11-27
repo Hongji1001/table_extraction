@@ -1,0 +1,7 @@
+     pos             player                 team  height  weight
+0  g / f      desmond mason  seattle supersonics   6 - 5     222
+1  g / f  deshawn stevenson            utah jazz   6 - 5     218
+2      g        baron davis    charlotte hornets   6 - 3     212
+3  f / c     stromile swift  vancouver grizzlies  6 - 10     220
+4      f    jonathan bender       indiana pacers   7 - 0     230
+5  g / f     corey maggette          la clippers   6 - 6     225

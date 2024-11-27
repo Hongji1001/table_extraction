@@ -1,0 +1,20 @@
+    rank                   nation  gold  silver  bronze  total
+0      1            ukraine (ukr)     2       2       0      4
+1      2            belarus (blr)     2       1       1      4
+2      3            hungary (hun)     2       0       0      2
+3      4            ireland (irl)     1       0       2      3
+4      5           bulgaria (bul)     1       0       0      1
+5      5             france (fra)     1       0       0      1
+6      5             sweden (swe)     0       0       0      1
+7      5             russia (rus)     1       0       0      1
+8      9  great britain (gbr) eng     0       2       2      4
+9     10         azerbaijan (aze)     0       1       1      2
+10    10             france (fra)     0       1       1      2
+11    10            moldova (mda)     0       1       1      2
+12    10             poland (pol)     0       1       1      2
+13    14            croatia (cro)     0       1       0      1
+14    15            germany (ger)     0       0       3      3
+15    16             turkey (tur)     0       0       2      2
+16    16          lithuania (ltu)     0       0       2      2
+17    16            armenia (arm)     0       0       1      1
+18    16            finland (fin)     0       0       1      1

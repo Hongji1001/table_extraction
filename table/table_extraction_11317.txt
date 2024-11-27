@@ -1,0 +1,6 @@
+  animal proto - austronesian proto - malayo - polynesian proto - oceanic proto - polynesian
+0    dog                  asu                         asu               -                  -
+1   bird                qayam               qayam , manuk           manuk               manu
+2  snake                sular               hular , nipay           mwata               ŋata
+3  louse                 kucu                        kutu            kutu               kutu
+4   fish                sikan                       hikan            ikan                ika

@@ -1,0 +1,19 @@
+    year           top fuel      funny car         pro stock pro stock motorcycle
+0   2013       antron brown    johnny gray     allen johnson      hector arana jr
+1   2012       morgan lucas   robert hight      mike edwards        eddie krawiec
+2   2011        del worsham      mike neff        jason line        eddie krawiec
+3   2010    tony schumacher  tim wilkerson        jason line        eddie krawiec
+4   2009        larry dixon  bob tasca iii        jason line      hector arana sr
+5   2008    tony schumacher  tony pedregon      jeg coughlin         matt guidera
+6   2007    tony schumacher      ron capps     greg anderson        karen stoffer
+7   2006      david grubnic      ron capps       tom martino       angelle sampey
+8   2005       doug kalitta  whit bazemore        jason line        steve johnson
+9   2004    tony schumacher    del worsham     greg anderson         andrew hines
+10  2003  brandon bernstein   gary densham      kurt johnson       angelle sampey
+11  2002        larry dixon  tony pedregon  darrell alderman         craig treble
+12  2001        larry dixon     john force      jeg coughlin           matt hines
+13  2000       doug kalitta  jerry toliver    warren johnson        david schultz
+14  1999          mike dunn     john force    warren johnson       angelle sampey
+15  1998    kenny bernstein  cruz pedregon    warren johnson           matt hines
+16  1997          joe amato     al hoffman         jim yates        david schultz
+17  1996     blaine johnson     john force         jim yates         dave schultz

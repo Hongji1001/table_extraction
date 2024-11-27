@@ -1,0 +1,10 @@
+                     club             sport   began play                league                   venue
+0     rochester red wings          baseball         1899  international league          frontier field
+1     rochester americans        ice hockey         1956                   ahl        blue cross arena
+2   rochester knighthawks   indoor lacrosse         1995                   nll        blue cross arena
+3        rochester rhinos            soccer         1996               usl pro       sahlen 's stadium
+4      rochester rattlers  outdoor lacrosse  2001 (2011)                   mll       sahlen 's stadium
+5   rochester razorsharks        basketball         2005                   pbl        blue cross arena
+6  western new york flash            soccer         2011                  nwsl       sahlen 's stadium
+7       rochester lancers     indoor soccer         2011                  misl        blue cross arena
+8        roc city thunder   indoor football         2013                   aif  rit gordon field house

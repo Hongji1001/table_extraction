@@ -1,0 +1,15 @@
+    position                           team  points  played  drawn  lost  against difference
+0          1                    corinthians      44      26      4     2       33         61
+1          2          são paulo da floresta      40      26     10     1       27         47
+2          3           palestra itália - sp      40      26      6     3       27         58
+3          4                         santos      40      26      4     4       38         42
+4          5                     portuguesa      30      26      4     9       56         11
+5          6                        guarani      29      26      3    10       52         14
+6          7  sc internacional de são paulo      25      26      5    11       43          2
+7          8              atlético santista      22      26      4    13       65       - 12
+8          9                       juventus      21      26      1    15       61       - 22
+9         10                          sírio      21      26      3    14       60          5
+10        11                     cs américa      16      26      2    17       73       - 40
+11        12                  ypiranga - sp      11      26      3    19      100       - 71
+12        13                        germnia      11      26      1    20       79       - 35
+13        14                   aa são bento      11      26      3    19       94       - 60

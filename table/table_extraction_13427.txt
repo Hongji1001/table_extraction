@@ -1,0 +1,22 @@
+            date         place                       race winners                          gp winner   source
+0       29 march     castelnau    daniël willemsen / dagwin sabbe       jan hendrickx / tim smeuninx   result
+1       29 march     castelnau       jan hendrickx / tim smeuninx       jan hendrickx / tim smeuninx   result
+2          3 may        wohlen  daniël willemsen / sven verbrugge  daniël willemsen / sven verbrugge   result
+3         17 may        gdańsk  daniël willemsen / sven verbrugge  daniël willemsen / sven verbrugge   result
+4         24 may    chernivtsi  daniël willemsen / sven verbrugge  daniël willemsen / sven verbrugge   result
+5         7 june    varsseveld  daniël willemsen / sven verbrugge  daniël willemsen / sven verbrugge   result
+6        12 july          genk   marco happich / martin betschart   marco happich / martin betschart   result
+7        12 july          genk     janis daiders / lauris daiders   marco happich / martin betschart   result
+8        19 july  s'bessenbach     janis daiders / lauris daiders  joris hendrickx / kaspars liepins   result
+9        19 july  s'bessenbach  joris hendrickx / kaspars liepins  joris hendrickx / kaspars liepins   result
+10       26 july      slagelse       jan hendrickx / tim smeuninx  henrik söderqvist / tobias sylwan   result
+11       26 july      slagelse  henrik söderqvist / tobias sylwan  henrik söderqvist / tobias sylwan   result
+12      9 august        kegums       jan hendrickx / tim smeuninx       jan hendrickx / tim smeuninx   result
+13     16 august         penza  daniël willemsen / sven verbrugge  daniël willemsen / sven verbrugge   result
+14     23 august       kiviõli       jan hendrickx / tim smeuninx     janis daiders / lauris daiders   result
+15     23 august       kiviõli     janis daiders / lauris daiders     janis daiders / lauris daiders   result
+16   6 september  saint - jean       jan hendrickx / tim smeuninx     janis daiders / lauris daiders   result
+17   6 september  saint - jean  daniël willemsen / sven verbrugge     janis daiders / lauris daiders   result
+18  13 september    rudersberg  joris hendrickx / kaspars liepins  joris hendrickx / kaspars liepins   result
+19  13 september    rudersberg         stuart brown / luke peters  joris hendrickx / kaspars liepins   result
+20  27 september         jauer                            belgium                            belgium  belgium

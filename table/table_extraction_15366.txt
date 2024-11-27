@@ -1,0 +1,18 @@
+    year                       award                                           category                                   nominated work     result
+0   1993                  tony award  best performance by a featured actor in a musical                                 the who 's tommy  nominated
+1   1993          drama league award                          distinguished performance                                 the who 's tommy  nominated
+2   1993  outer critics circle award                     outstanding actor in a musical                                 the who 's tommy  nominated
+3   1993         theatre world award                                theatre world award                                 the who 's tommy        won
+4   2004                  tony award  best performance by a featured actor in a musical                                        assassins        won
+5   2004  outer critics circle award            outstanding featured actor in a musical                                        assassins        won
+6   2006                  tony award   best performance by a leading actor in a musical  sweeney todd : the demon barber of fleet street  nominated
+7   2006            drama desk award                     outstanding actor in a musical  sweeney todd : the demon barber of fleet street  nominated
+8   2006          drama league award                          distinguished performance  sweeney todd : the demon barber of fleet street  nominated
+9   2006  outer critics circle award                     outstanding actor in a musical  sweeney todd : the demon barber of fleet street  nominated
+10  2007          drama league award                          distinguished performance                                        king lear  nominated
+11  2007                  tony award   best performance by a leading actor in a musical                                        lovemusik  nominated
+12  2007            drama desk award                     outstanding actor in a musical                                        lovemusik  nominated
+13  2007          drama league award                          distinguished performance                                        lovemusik  nominated
+14  2007  outer critics circle award                     outstanding actor in a musical                                        lovemusik  nominated
+15  2012                  tony award  best performance by a featured actor in a musical                                            evita  nominated
+16  2012            drama desk award            outstanding featured actor in a musical                                            evita  nominated

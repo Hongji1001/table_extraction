@@ -1,0 +1,19 @@
+                       interval name  size (steps)  size (cents) just ratio  just (cents)    error                                              audio
+0                      perfect fifth             9           720        3:2        701.96  + 18.04  play category : articles with haudio microformats
+1                   septimal tritone             7           560        7:5        582.51    22.51  play category : articles with haudio microformats
+2                   11:8 wide fourth             7           560       11:8        551.32   + 8.68  play category : articles with haudio microformats
+3                  15:11 wide fourth             7           560      15:11        536.95  + 23.05  play category : articles with haudio microformats
+4                     perfect fourth             6           480        4:3        498.04    18.04  play category : articles with haudio microformats
+5               septimal major third             5           400        9:7        435.08    35.08  play category : articles with haudio microformats
+6              undecimal major third             5           400      14:11        417.51    17.51  play category : articles with haudio microformats
+7                        major third             5           400        5:4        386.31  + 13.69  play category : articles with haudio microformats
+8                        minor third             4           320        6:5        315.64   + 4.36  play category : articles with haudio microformats
+9               septimal minor third             3           240        7:6        266.87    26.87  play category : articles with haudio microformats
+10               septimal whole tone             3           240        8:7        231.17   + 8.83  play category : articles with haudio microformats
+11                        major tone             3           240        9:8        203.91  + 36.09  play category : articles with haudio microformats
+12                        minor tone             2           160       10:9        182.40    22.40  play category : articles with haudio microformats
+13  greater undecimal neutral second             2           160      11:10        165.00     5.00  play category : articles with haudio microformats
+14   lesser undecimal neutral second             2           160      12:11        150.63   + 9.36  play category : articles with haudio microformats
+15            just diatonic semitone             1            80      16:15        111.73    31.73  play category : articles with haudio microformats
+16       septimal chromatic semitone             1            80      21:20         84.46     4.47  play category : articles with haudio microformats
+17           just chromatic semitone             1            80      25:24         70.67   + 9.33  play category : articles with haudio microformats

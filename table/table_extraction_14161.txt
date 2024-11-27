@@ -1,0 +1,14 @@
+    year       network play - by - play         color commentator (s)   pregame host
+0   2009          espn   jp dellacamera                   john harkes      rob stone
+1   2009  goltv canada   jp dellacamera                   john harkes      rob stone
+2   2008           abc   jp dellacamera                   john harkes      rob stone
+3   2008           cbc       nigel reed                   jason devos  brenda irving
+4   2007           abc     dave o'brien  eric wynalda and julie foudy      rob stone
+5   2007          bold     dave o'brien  eric wynalda and julie foudy      rob stone
+6   2006           abc     dave o'brien  eric wynalda and bruce arena      rob stone
+7   2005           abc   jp dellacamera                  eric wynalda      rob stone
+8   2004           abc   jp dellacamera                  eric wynalda      rob stone
+9   2003           abc   jp dellacamera                marcelo balboa      rob stone
+10  2002           abc   jp dellacamera                     ty keough      rob stone
+11  2001           abc     jack edwards                     ty keough      rob stone
+12  2000           abc     jack edwards                     ty keough      rob stone

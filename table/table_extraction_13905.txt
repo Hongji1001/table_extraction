@@ -1,0 +1,14 @@
+                   club  played  drawn  lost  points for  points against  tries for  tries against  try bonus  losing bonus  points
+0                  club  played  drawn  lost  points for  points against  tries for  tries against  try bonus  losing bonus  points
+1           oakdale rfc      22      2     0         614             226         88             23         13             0      97
+2         blaenavon rfc      22      1     5         444             271         61             33          5             2      73
+3         brynithel rfc      22      3     4         398             292         41             24          4             1      71
+4          caldicot rfc      22      0     8         500             330         69             44          8             3      67
+5               usk rfc      22      2     8         484             431         71             58         11             1      64
+6         hartridge rfc      22      1    11         424             345         52             45          5             5      52
+7            bettws rfc      22      3    11         476             438         59             53          6             7      51
+8   rtb (ebbw vale) rfc      22      3    12         317             371         38             50          5             4      43
+9           ynysddu rfc      22      1    14         315             376         35             44          3             9      42
+10      llanhilleth rfc      22      3    13         357             475         42             61          3             4      37
+11          trinant rfc      22      1    15         261             487         29             65          1             4      31
+12   pontllanfraith rfc      22      0    21         160             708         17            102          2             1       7

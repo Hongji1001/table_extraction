@@ -1,0 +1,11 @@
+   nat               name         type transfer window transfer fee
+0  ger        oliver kahn   career end          summer        n / a
+1  ger       bernd dreher   career end          summer        n / a
+2  fra       willy sagnol   career end          summer        n / a
+3  ger     marcell jansen     transfer          summer          8 m
+4  par   julio dos santos     transfer          summer         free
+5  ger    jan schlaudraff     transfer          summer          2 m
+6  ger      sandro wagner     transfer          summer         free
+7  ger  georg niedermeier   loaned out          winter        0.1 m
+8  ger         toni kroos   loaned out          winter         free
+9  usa     landon donovan  loan return          winter        n / a

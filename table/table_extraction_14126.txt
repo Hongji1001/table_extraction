@@ -1,0 +1,15 @@
+    nat        name               moving to                  type transfer window transfer fee source
+0   crc       gómez      deportivo saprissa           loan return          summer            -      -
+1   cyp   neophytou             aek larnaca       end of contract          summer         free      -
+2   cyp     sampson            ael limassol       end of contract          summer         free      -
+3   arg      solari                    unam              transfer          summer         200k      -
+4   cyp   okkarides        apollon limassol       end of contract          summer         free      -
+5   cyp  kythreotis               asil lysi       end of contract          summer         free      -
+6   per     barreto  universidad san martín        mutual consent          summer         free      -
+7   bra    evilasio     pelita bandung raya  contract termination          winter         free      -
+8   cyp        elia          ethnikos achna                  loan          winter         free      -
+9   bra      rubens               villa rio           loan return          winter            -      -
+10  bra     tavares                 maribor        mutual consent          winter         free      -
+11  gre     sapanis                 ionikos        mutual consent          winter         free      -
+12  bra     emerson               madureira        mutual consent          winter         free      -
+13  por   fernandes        metalurh donetsk              transfer          winter         200k      -

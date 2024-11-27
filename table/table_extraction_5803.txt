@@ -1,0 +1,6 @@
+               competition current position / round final position / round   first match   last match
+0  scottish premier league                        -                    2nd      4 august       22 may
+1    uefa champions league                        -            group stage       31 july  12 december
+2                 uefa cup                        -           runners - up   13 february       14 may
+3      scottish league cup                        -                winners  24 september     16 march
+4             scottish cup                        -                winners    13 january       24 may

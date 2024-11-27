@@ -1,0 +1,7 @@
+  original nfl team         player pos          college     conf
+0     buffalo bills    bill laskey  lb         michigan  big ten
+1    denver broncos  john bramlett  lb          memphis      ind
+2    denver broncos    miller farr  cb    wichita state    n / a
+3    denver broncos  nemiah wilson   s  grambling state     swac
+4     new york jets     jim hudson   s            texas      swc
+5     new york jets   george sauer  wr            texas      swc

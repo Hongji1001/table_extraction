@@ -1,0 +1,9 @@
+                opposing team  against            date                                   venue       status
+0           western australia       12  10 / 05 / 1975             perry lakes stadium , perth   tour match
+1                      sydney       14  13 / 05 / 1975          sydney cricket ground , sydney   tour match
+2             new south wales       24  17 / 05 / 1975           sydney sports ground , sydney   tour match
+3  new south wales country xv       14  20 / 05 / 1975                                goulburn   tour match
+4                   australia       16  24 / 05 / 1975          sydney cricket ground , sydney   first test
+5                  queensland        3  27 / 05 / 1975                    ballymore , brisbane   tour match
+6                   australia       30  31 / 05 / 1975                    ballymore , brisbane  second test
+7          queensland country        6  03 / 06 / 1975  townsville sports reserve , townsville   tour match

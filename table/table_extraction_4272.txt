@@ -1,0 +1,7 @@
+             couple           score       dance                                            music       result
+0  john & charlotte  27 (9 , 9 , 9)     foxtrot                let there be love - nat king cole         safe
+1  john & charlotte  27 (9 , 9 , 9)  paso doble           españa cañí -mexicana aleque la - band         safe
+2      kelly & alec  22 (8 , 7 , 7)     foxtrot                     don't know why - norah jones     bottom 2
+3      kelly & alec  25 (9 , 8 , 8)  paso doble                           bamboleo - gipsy kings     bottom 2
+4      joey & ashly  20 (8 , 6 , 6)     foxtrot  big spender - shirley bassey from sweet charity  third place
+5      joey & ashly  25 (9 , 8 , 8)  paso doble                      eye of the tiger - survivor  third place

@@ -1,0 +1,15 @@
+    pick             player    nationality                            wnba team school / club team
+0      1     candace parker  united states                   los angeles sparks          tennessee
+1      2      sylvia fowles  united states                          chicago sky                lsu
+2      3    candice wiggins  united states                       minnesota lynx           stanford
+3      4  alexis hornbuckle  united states  detroit shock (from atl , via sea )          tennessee
+4      5       matee ajavon  united states                       houston comets            rutgers
+5      6  crystal langhorne  united states                   washington mystics           maryland
+6      7     essence carson  united states                     new york liberty            rutgers
+7      8       tamera young  united states            atlanta dream (from sea )      james madison
+8      9         amber holt  united states                      connecticut sun   middle tennessee
+9     10       laura harper  united states                  sacramento monarchs           maryland
+10    11     tasha humphrey  united states             detroit shock (from sa )            georgia
+11    12      ketia swanier  united states          connecticut sun (from ind )        connecticut
+12    13     latoya pringle  united states                      phoenix mercury     north carolina
+13    14     erlana larkins  united states         new york liberty (from det )     north carolina

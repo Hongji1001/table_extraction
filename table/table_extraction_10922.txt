@@ -1,0 +1,23 @@
+      surname     first                dob bats throws position
+0    atherton   timothy        7 june 1989    r      r      rhp
+1        auty   timothy   21 december 1985    r      r       of
+2     bennett   matthew    19 october 1981    l      l      lhp
+3         cox   timothy        8 july 1986    r      l      lhp
+4   d™antonio     trent     14 august 1985    l      r  utility
+5      dening  mitchell     17 august 1988    l      r       of
+6      eacott    jarrad      2 august 1988    l      l      lhp
+7      ferris    andrew   12 december 1982    r      r      rhp
+8   fingleson     gavin      5 august 1976    s      r       if
+9        hill      josh      27 march 1983    r      r      rhp
+10    grattan      todd   7 september 1986    r      r      rhp
+11     harris   vaughan       10 june 1981    r      r      rhp
+12    kingman   brendan        22 may 1973    r      r       if
+13   lysaught   michael  30 september 1985    r      r  utility
+14       maat   patrick  15 september 1987    r      r        c
+15    oeltjen     trent   28 february 1983    l      l       of
+16   oxspring     chris        13 may 1987    l      r      rhp
+17     pender   shannon       21 june 1986    r      r       if
+18     rosser     david   14 december 1969    r      r      rhp
+19    southam      joel   26 february 1981    s      r       if
+20     thomas   bradley    12 october 1977    r      l      lhp
+21   williams   matthew   28 february 1987    r      r      rhp

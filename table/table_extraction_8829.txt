@@ -1,0 +1,13 @@
+           date country         name                 award   notes
+0   13 aug 2007     eng  g s roberts      team of the week  source
+1   20 aug 2007     eng     woodards      team of the week  source
+2   10 sep 2007     ger         bopp      team of the week  source
+3   24 sep 2007     eng     williams      team of the week  source
+4    1 oct 2007     eng        jones      team of the week  source
+5   22 oct 2007     eng         lowe      team of the week  source
+6    5 nov 2007     eng        moore      team of the week  source
+7   19 nov 2007     eng     woodards  team of the week (2)  source
+8   10 dec 2007     eng     woodards  team of the week (3)  source
+9   28 jan 2008     eng     williams  team of the week (2)  source
+10   3 mar 2008     eng     williams  team of the week (3)  source
+11  17 mar 2008     eng     o'connor      team of the week  source

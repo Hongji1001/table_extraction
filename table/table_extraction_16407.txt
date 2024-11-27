@@ -1,0 +1,14 @@
+     medal                                        name              games          sport                                    event
+0     gold                             barney henricus        1938 sydney         boxing                    featherweight (57 kg)
+1     gold                                duncan white      1950 auckland      athletics                 men 's 440 yards hurdles
+2     gold  pushpamali ramanayake malee wickremasinghe      1994 victoria       shooting               women 's air rifle - pairs
+3     gold                          chinthana vidanage     2006 melbourne  weightlifting                             men 's 62 kg
+4   silver                                     k edwin      1950 auckland         boxing                                flyweight
+5   silver                               albert perera      1950 auckland         boxing                             bantamweight
+6   silver   dodangoda chandrasiri lakshman rajasinghe      1994 victoria       shooting  men 's small bore rifle , prone - pairs
+7   silver                        malee wickremasinghe      1994 victoria       shooting                       women 's air rifle
+8   silver                          sriyani kulawansha  1998 kuala lumpur      athletics                   women 's 100 m hurdles
+9   silver                          chinthana vidanage         2010 delhi  weightlifting                             men 's 69 kg
+10  bronze                            alex obeyesekera      1950 auckland         boxing                             welterweight
+11  bronze                         sugath thilakaratne  1998 kuala lumpur      athletics                             men 's 400 m
+12  bronze                               sudesh peiris         2010 deilh  weightlifting                             men 's 62 kg

@@ -1,0 +1,19 @@
+                    title series                    director production number    release date reissue
+0       odor - able kitty     lt                 chuck jones           br 1230  1945 - 01 - 06     yes
+1         herr meets hare     mm                friz freleng            7 - 13  1945 - 01 - 13      no
+2           draftee daffy     lt                bob clampett            1 - 15  1945 - 01 - 27      no
+3       unruly hare , the     mm               frank tashlin            4 - 14  1945 - 02 - 10      no
+4        trap happy porky     lt                 chuck jones  9 - 15 , br 1186  1945 - 02 - 24     yes
+5      life with feathers     mm                friz freleng           br 1231  1945 - 03 - 24     yes
+6     behind the meatball     lt  frank tashlin (uncredited)           13 - 14  1945 - 04 - 07      no
+7            hare trigger     mm                friz freleng            9 - 14  1945 - 05 - 05      no
+8        ain't that ducky     lt                friz freleng           br 1313  1945 - 05 - 19     yes
+9      a gruesome twosome     mm                bob clampett            3 - 14  1945 - 06 - 09      no
+10       tale of two mice     lt               frank tashlin  7 - 15 , br 1309  1945 - 06 - 30     yes
+11            wagon heels     mm                bob clampett            6 - 14  1945 - 07 - 28      no
+12       hare conditioned     lt                 chuck jones            5 - 14  1945 - 08 - 11      no
+13         fresh airedale     mm                 chuck jones           br 1259  1945 - 08 - 25     yes
+14        bashful buzzard     lt                bob clampett  4 - 14 , br 1310  1945 - 09 - 05     yes
+15  peck up your troubles     mm                friz freleng           br 1233  1945 - 10 - 20     yes
+16             hare tonic     lt                 chuck jones        l - 8 - 14  1945 - 11 - 10      no
+17           nasty quacks     mm               frank tashlin           11 - 15  1945 - 12 - 01      no

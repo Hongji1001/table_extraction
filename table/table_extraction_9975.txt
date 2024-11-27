@@ -1,0 +1,6 @@
+  call sign frequency mhz     city of license  erp w class fcc info
+0    w230av       93.9 fm   gadsden , alabama     10     d      fcc
+1    w269ax      101.7 fm  anniston , alabama     10     d      fcc
+2    w273ae      102.5 fm    albany , georgia     55     d      fcc
+3    w282ae      104.3 fm     macon , georgia     27     d      fcc
+4    w290ag      105.9 fm   griffin , georgia     27     d      fcc

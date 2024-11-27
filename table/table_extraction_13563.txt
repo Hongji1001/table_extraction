@@ -1,0 +1,8 @@
+          player        country        year (s) won  total to par finish
+0     lou graham  united states                1975    279      1      2
+1  jack nicklaus  united states  1962 , 1967 , 1972    285    + 5    t10
+2    gary player   south africa                1965    285    + 5    t10
+3  arnold palmer  united states                1960    289    + 7    t19
+4    lee trevino  united states         1968 , 1971    290   + 10    t27
+5  johnny miller  united states                1973    290   + 10    t27
+6     hale irwin  united states                1974    293   + 13    t41

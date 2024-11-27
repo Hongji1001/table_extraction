@@ -1,0 +1,11 @@
+  result     record                 opponent    method          date  round       notes
+0    win  1 - 0 - 0  tony swamp rat santaigo  knockout   1980 dec 31      1  kickboxing
+1    win  2 - 0 - 0  tony swamp rat santaigo  knockout          1981      1  kickboxing
+2    win  3 - 0 - 0  tony swamp rat santaigo  knockout          1981      1  kickboxing
+3    win  4 - 0 - 0  tony swamp rat santiago  knockout          1981      1  kickboxing
+4    win  5 - 0 - 0        alberto rodriguez  knockout          1982      1  kickboxing
+5    win  6 - 0 - 0            manny morales  knockout          1987      2  kickboxing
+6    win  7 - 0 - 0          sherman bergman  knockout    1989 may 7      2  kickboxing
+7   loss  7 - 1 - 0          sherman bergman  knockout          1990      1  kickboxing
+8   loss  7 - 2 - 0          sherman bergman  knockout   20 may 1990      1  kickboxing
+9   loss  7 - 3 - 0          sherman bergman  knockout  15 july 1990      1  kickboxing

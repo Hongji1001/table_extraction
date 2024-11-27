@@ -1,0 +1,13 @@
+   place                 player        country          score to par
+0      1          peter thomson      australia  70 + 69 = 139      1
+1      2              ben hogan  united states  72 + 68 = 140      e
+2     t3           jerry barber  united states  72 + 69 = 141    + 1
+3     t3              wes ellis  united states  71 + 70 = 141    + 1
+4     t3              ed furgol  united states  71 + 70 = 141    + 1
+5     t3        cary middlecoff  united states  71 + 70 = 141    + 1
+6     t7           julius boros  united states  71 + 71 = 142    + 2
+7     t7              ted kroll  united states  72 + 70 = 142    + 2
+8     t7          arnold palmer  united states  72 + 70 = 142    + 2
+9    t10              fred haas  united states  72 + 71 = 143    + 3
+10   t10          billy maxwell  united states  72 + 71 = 143    + 3
+11   t10  frank taylor , jr (a)  united states  72 + 71 = 143    + 3

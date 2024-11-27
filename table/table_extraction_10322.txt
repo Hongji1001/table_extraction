@@ -1,0 +1,7 @@
+   year   location      gold       silver       bronze
+0  1982  new delhi     india        japan  philippines
+1  1986      seoul     japan  south korea        india
+2  1998    bangkok  thailand        japan        india
+3  2002      busan     japan  south korea        india
+4  2006       doha     qatar        japan        india
+5  2010  guangzhou     japan     thailand        china

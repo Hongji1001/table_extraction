@@ -1,0 +1,15 @@
+             team 1          agg              team 2 1st leg 2nd leg
+0          linfield        1 - 3       dinamo zagreb   0 - 2   1 - 1
+1          valletta        0 - 3  artmedia petržalka   0 - 2   0 - 1
+2    dinamo tbilisi        3 - 1         nsí runavík   3 - 0   0 - 1
+3   fc santa coloma        2 - 7              kaunas   1 - 4   1 - 3
+4            murata        0 - 9        ifk göteborg   0 - 5   0 - 4
+5          llanelli        1 - 4           ventspils   1 - 0   0 - 4
+6        anorthosis        3 - 0      pyunik yerevan   1 - 0   2 - 0
+7        inter baku  1 - 1 ( a )          rabotnički   0 - 0   1 - 1
+8    tampere united        3 - 2           budućnost   2 - 1   1 - 1
+9     f91 dudelange        0 - 3             domžale   0 - 1   0 - 2
+10    dinamo tirana        1 - 4             modriča   0 - 2   1 - 2
+11           aktobe        1 - 4    sheriff tiraspol   1 - 0   0 - 4
+12  drogheda united        3 - 1             levadia   2 - 1   1 - 0
+13     bate borisov        3 - 0               valur   2 - 0   1 - 0

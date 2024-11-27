@@ -1,0 +1,29 @@
+    year                                         film director producer cinematographer
+0   1971                         business is business       no       no             yes
+1   1973                              turkish delight       no       no             yes
+2   1975                                keetje tippel       no       no             yes
+3   1981                              private lessons       no       no             yes
+4   1983                                         cujo       no       no             yes
+5   1983                               the fourth man       no       no             yes
+6   1983                          all the right moves       no       no             yes
+7   1984           bad manners (aka : growing pains )       no       no             yes
+8   1985                                flesh & blood       no       no             yes
+9   1986                              ruthless people       no       no             yes
+10  1987                             who 's that girl       no       no             yes
+11  1987                               leonard part 6       no       no             yes
+12  1988                                     die hard       no       no             yes
+13  1989                                   black rain       no       no             yes
+14  1989                  bert rigby , you 're a fool       no       no             yes
+15  1990                     the hunt for red october       no       no             yes
+16  1990                                   flatliners       no       no             yes
+17  1992                              lethal weapon 3       no       no             yes
+18  1992                               basic instinct       no       no             yes
+19  1994                                        speed      yes       no              no
+20  1996                                      twister      yes       no              no
+21  1997                      speed 2: cruise control      yes      yes              no
+22  1999                                 the haunting      yes       no              no
+23  2002                                  equilibrium       no      yes              no
+24  2002                              minority report       no      yes              no
+25  2003  lara croft tomb raider : the cradle of life      yes       no              no
+26  2012                        nema aviona za zagreb       no       no             yes
+27  2013                         five minutes to live      yes       no              no

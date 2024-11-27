@@ -1,0 +1,10 @@
+                      team                      city / area                           arena  founded  joined                head coach          captain
+0        basingstoke bison          basingstoke , hampshire     planet ice silverdome arena     1988    2009   doug sheppard ( p / c )     tony redmond
+1           bracknell bees            bracknell , berkshire  john nike leisuresport complex     1987    2005                gareth cox        rob lamey
+2         guildford flames               guildford , surrey              guildford spectrum     1992    2005      paul dixon ( p / c )  david longstaff
+3       manchester phoenix  manchester , greater manchester             altrincham ice dome     2003    2009                 tony hand   luke boothroyd
+4  milton keynes lightning  milton keynes , buckinghamshire        planet ice milton keynes     2002    2002      nick poole ( p / c )        adam carr
+5    peterborough phantoms    peterborough , cambridgeshire         planet ice peterborough     2002    2002              jon kynaston       jeff glowa
+6      sheffield steeldogs      sheffield , south yorkshire                    icesheffield     2010    2010   andre payette ( p / c )        greg wood
+7              slough jets               slough , berkshire                    absolute ice     1986    2005  slava koulikov ( p / c )    michael wales
+8         swindon wildcats              swindon , wiltshire                     link centre     1986    2005             ryan aldridge       aaron nell

@@ -1,0 +1,16 @@
+                               building        location height  floors                                          status
+0    richcraft - dow honda site tower i    little italy      -      48                                        proposed
+1   richcraft - dow honda site tower ii    little italy      -      48                                        proposed
+2                         claridge icon    little italy      -      45                                        approved
+3                 lebreton mews tower a   bayview yards      -      32                                        approved
+4       claridge - 1040 somerset street      hintonburg      -      39                                        proposed
+5                 lebreton mews tower b   bayview yards      -      29                                        approved
+6                           soho italia    little italy      -      36  approved 30 stories / height increase proposed
+7                           the rhombus  mechanicsville      -      32                                        approved
+8                             150 elgin        downtown      -      23                              under construction
+9                    claridge plaza iii      sandy hill      -      28                              under construction
+10                 265 laurier avenue w        downtown      -      19                                        proposed
+11                    claridge plaza iv      sandy hill      -      28                              under construction
+12                            tribeca i      centretown      -      27                              under construction
+13                           tribeca ii      centretown      -      27                              under construction
+14                         nepean tower      centretown      -      27                                        approved

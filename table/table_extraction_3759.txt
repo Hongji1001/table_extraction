@@ -1,0 +1,22 @@
+    no                driver                   entrant      constructor              chassis        engine
+0    4        ludwig fischer                   private  simca - gordini  simca - gordini t11    gordini l4
+1    6          louis rosier                   private    talbot - lago   talbot - lago t26c     talbot l6
+2    8         pierre levegh                   private    talbot - lago   talbot - lago t26c     talbot l6
+3   10          bruno sterzi                   private          ferrari        ferrari 166sc   ferrari v12
+4   12       giovanni bracco                   private          ferrari         ferrari 166c   ferrari v12
+5   14       peter whitehead          scuderia ferrari          ferrari          ferrari 125  ferrari v12s
+6   16       discoride lanza           scuderia dimiex         maserati         maserati 4cl  maserati l4s
+7   18    juan manuel fangio  automóvil club argentino         maserati   maserati 4clt / 48  maserati l4s
+8   20          nello pagani     scuderia enrico platé         maserati         maserati 4cl  maserati l4s
+9   22          louis chiron  automóvil club argentino  simca - gordini  simca - gordini t15    gordini l4
+10  24        raymond sommer          scuderia ferrari          ferrari          ferrari 125  ferrari v12s
+11  26     frankie sechehaye     scuderia enrico platé         maserati         maserati 4cl  maserati l4s
+12  28                b bira       scuderia ambrosiana         maserati   maserati 4clt / 48  maserati l4s
+13  30  toulo de graffenried              enrico platé         maserati   maserati 4clt / 48  maserati l4s
+14  32          piero carini                   private         maserati      maserati a6 gcs   maserati l6
+15  34      benedicto campos  automóvil club argentino         maserati   maserati 4clt / 48  maserati l4s
+16  36          fred ashmore       scuderia ambrosiana         maserati   maserati 4clt / 48  maserati l4s
+17  40        eugène chaboud           scuderia dimiex         maserati         maserati 4cl  maserati l4s
+18  42        felice bonetto          scuderia ferrari          ferrari         ferrari 166c   ferrari v12
+19  44   ferdinando righetti                   private          ferrari        ferrari 166sc   ferrari v12
+20  48       roberto vallone            scuderia lazio          ferrari    ferrari 166 inter   ferrari v12

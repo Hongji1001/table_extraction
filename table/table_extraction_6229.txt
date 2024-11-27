@@ -1,0 +1,11 @@
+                       race              circuit         date  pole position                           fastest lap winning driver           constructor tyre  report
+0      argentine grand prix         buenos aires   7 february  stirling moss                         stirling moss  bruce mclaren       cooper - climax    d  report
+1         monaco grand prix               monaco       29 may  stirling moss                         bruce mclaren  stirling moss        lotus - climax    d  report
+2          indianapolis 500         indianapolis       30 may    eddie sachs                          jim rathmann   jim rathmann  watson - offenhauser    f  report
+3          dutch grand prix            zandvoort       6 june  stirling moss                         stirling moss   jack brabham       cooper - climax    d  report
+4        belgian grand prix  spa - francorchamps      19 june   jack brabham  jack brabham innes ireland phil hill   jack brabham       cooper - climax    d  report
+5         french grand prix                reims       3 july   jack brabham                          jack brabham   jack brabham       cooper - climax    d  report
+6        british grand prix          silverstone      16 july   jack brabham                           graham hill   jack brabham       cooper - climax    d  report
+7     portuguese grand prix             boavista    14 august   john surtees                          john surtees   jack brabham       cooper - climax    d  report
+8        italian grand prix                monza  4 september      phil hill                             phil hill      phil hill               ferrari    d  report
+9  united states grand prix            riverside  20 november  stirling moss                          jack brabham  stirling moss        lotus - climax    d  report

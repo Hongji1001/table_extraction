@@ -1,0 +1,7 @@
+             station japanese  distance (km) rapid location
+0    tagawa - gotōji    田川後藤寺            0.0     ●   tagawa
+1              funao       船尾            3.4     ↑   tagawa
+2  chikuzen - shōnai     筑前庄内            7.1     ↑   iizuka
+3      shimo - kamoo      下鴨生            8.3     ↑     kama
+4         kami - mio      上三緒           10.2     ↑   iizuka
+5      shin - iizuka      新飯塚           13.3     ●   iizuka

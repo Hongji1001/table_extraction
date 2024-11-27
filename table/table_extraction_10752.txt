@@ -1,0 +1,11 @@
+            player      position  overall pick round  nfl draft            franchise
+0     ray mcdonald            rb            13   1st       1967  washington redskins
+1      mike iupati             g            17   1st       2010  san francisco 49ers
+2     jerry kramer        g / pk            39   4th       1958    green bay packers
+3     wayne walker       lb / pk            44   4th       1958        detroit lions
+4  carl kiilsgaard             t            61   5th       1950    chicago cardinals
+5    ryan phillips            lb            68   3rd       1997      new york giants
+6      jim prestel            dt            70   6th       1959     cleveland browns
+7       jim norton         s / p            75   7th       1960        detroit lions
+8       john yarno             c            87   4th       1977     seattle seahawks
+9    jeff robinson  de / te / ls            98   4th       1993       denver broncos

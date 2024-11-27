@@ -1,0 +1,11 @@
+    res record            opponent                         method                                      event                   location
+0   win  7 - 3  hiromitsu kanehara            decision (majority)                      hero 's 2005 in seoul        seoul , south korea
+1   win  6 - 3        yukiya naito           decision (unanimous)                                  hero 's 1  saitama , saitama , japan
+2  loss  5 - 3   kazuhiro nakamura            submission (armbar)                            pride bushido 3           yokohama , japan
+3   win  5 - 2      rodney glunder           decision (unanimous)                            pride bushido 1  saitama , saitama , japan
+4  loss  4 - 2         jeremy horn           decision (unanimous)                 2h2h 6 - simply the best 6    rotterdam , netherlands
+5   win  4 - 1   stanislav nuschik                   ko (punches)     m - 1 mfc - european championship 2002  saint petersburg , russia
+6   win  3 - 1       roman zentsov                             ko          m - 1 mfc - russia vs the world 2  saint petersburg , russia
+7   win  2 - 1         peter varga          submission (arm lock)          millenniumsports - veni vidi vici   veenendaal , netherlands
+8  loss  1 - 1    ramazan mezhidov  submission (rear naked choke)  iafc - pankration world championship 2000            moscow , russia
+9   win  1 - 0     spartak kochnev                  tko (strikes)  iafc - pankration world championship 2000            moscow , russia

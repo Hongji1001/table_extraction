@@ -1,0 +1,11 @@
+  rank        country  wins  winners  first title  last title
+0    1  united states    71       54         1910        2012
+1    2        england     8        6         1904        1981
+2   t3      australia     7        5         1933        2009
+3   t3         canada     7        4         1906        1954
+4    5       scotland     3        3         1905        1926
+5   t6   south africa     2        2         1947        1993
+6   t6       zimbabwe     2        1         1991        1994
+7   t8    new zealand     1        1         1968        1968
+8   t8           fiji     1        1         2004        2004
+9   t8         sweden     1        1         2010        2010

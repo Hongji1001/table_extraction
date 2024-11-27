@@ -1,0 +1,27 @@
+     res      record                  opponent                         method                                   event  round                location
+0   loss  9 - 17 - 1             choi mu - bae           decision (unanimous)              pancrase - changing tour 3      2           tokyo , japan
+1   loss  9 - 16 - 1            lee sang - soo                  tko (punches)                        deep - gladiator      1         okayama , japan
+2   loss  9 - 15 - 1              jessie gibbs        tko (knees and punches)                            m - 1 global      1           tokyo , japan
+3   loss  9 - 14 - 1           akhmet sultanov            submission (armbar)       m - 1 - challenge 2008 selections      1  st petersburg , russia
+4   loss  9 - 13 - 1         yasuhito namekawa            decision (majority)                        deep - 32 impact      2           tokyo , japan
+5    win  9 - 12 - 1             yuji sakuragi            decision (majority)                            deep - glove      2           tokyo , japan
+6   loss  8 - 12 - 1            jyunpei hamada               decision (split)                     mars 6 - rapid fire      2        yokohama , japan
+7   loss  8 - 11 - 1             elvis sinosic            submission (armbar)               x - plosion - x - plosion      1               australia
+8   loss  8 - 10 - 1          igor vovchanchyn                             ko                       pride - bushido 5      1           osaka , japan
+9    win   8 - 9 - 1                 jin o kim  submission (rear naked choke)                       pride - bushido 3      1        yokohama , japan
+10   win   7 - 9 - 1             hiroya takada            decision (majority)        pancrase - 2002 anniversary show      3        yokohama , japan
+11  loss   6 - 9 - 1          mikhail ilyukhin  submission (guillotine choke)                  pc - premium challenge      1           tokyo , japan
+12   win   6 - 8 - 1               mike thomas          submission (knee bar)                  tf - tropical fights 3      1                  tahiti
+13  loss   5 - 8 - 1            hirotaka yokoi           decision (unanimous)  rings - world title series grand final      3        yokohama , japan
+14  loss   5 - 7 - 1           kazuo takahashi                  tko (punches)                      pancrase - proof 7      1        yokohama , japan
+15   win   5 - 6 - 1             osami shibuya           decision (unanimous)        pancrase - 2001 anniversary show      3        kanagawa , japan
+16   win   4 - 6 - 1             jason delucia              tko (knee injury)        pancrase - 2001 anniversary show      1        kanagawa , japan
+17  loss   3 - 6 - 1  antônio rogério nogueira  technical submission (armbar)                       deep - 2nd impact      1        yokohama , japan
+18  draw   3 - 4 - 1             jason delucia                           draw                      pancrase - trans 7      1           tokyo , japan
+19   win       3 - 4             johnny huskey           submission (keylock)                      pancrase - trans 6      1           tokyo , japan
+20  loss       2 - 4          kenichi yamamoto           submission (kneebar)                                  ufc 23      1           tokyo , japan
+21   win       2 - 3            masutatsu yano                  tko (punches)                                  ufc 23      2           tokyo , japan
+22  loss       1 - 3                kohei sato                  tko (punches)                      shooto - renaxis 2      1           tokyo , japan
+23   win       1 - 2            daniel quonian                  tko (punches)                  shooto - reconquista 2      1           tokyo , japan
+24  loss       0 - 2             david paaluhi                  tko (punches)                     sb 2 - superbrawl 2      1  hawaii , united states
+25  loss       0 - 1             ryuta sakurai                       decision         lumax cup - tournament of j '96      2                   japan

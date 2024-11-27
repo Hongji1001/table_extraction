@@ -1,0 +1,11 @@
+                                           portfolio                    minister   took office       left office                  party
+0                          minister european affairs               andrea ronchi    8 may 2008  15 november 2010  the people of freedom
+1                          minister european affairs   anna maria bernini ( it )  27 july 2011  16 november 2011  the people of freedom
+2                        minister of federal reforms               umberto bossi    8 may 2008  16 november 2011              lega nord
+3  minister of public administration and innovations             renato brunetta    8 may 2008  16 november 2011  the people of freedom
+4             minister of legislative simplification           roberto calderoli    8 may 2008  16 november 2011              lega nord
+5                      minister for regional affairs              raffaele fitto    8 may 2008  16 november 2011  the people of freedom
+6               minister for platform accomplishment          gianfranco rotondi    8 may 2008  16 november 2011  the people of freedom
+7                    minister of equal opportunities               mara carfagna    8 may 2008  16 november 2011  the people of freedom
+8                         minister of youth policies              giorgia meloni    8 may 2008  16 november 2011  the people of freedom
+9                               minister for tourism  michela vittoria brambilla    8 may 2009  16 november 2011  the people of freedom

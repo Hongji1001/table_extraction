@@ -1,0 +1,16 @@
+                           name  tour  giro  vuelta  total
+0      jacques anquetil ( fra )     6     6       1     13
+1       bernard hinault ( fra )     7     3       2     12
+2           eddy merckx ( bel )     6     5       1     12
+3        felice gimondi ( ita )     2     9       1     12
+4       miguel induráin ( esp )     5     3       1      9
+5        laurent fignon ( fra )     3     2       1      6
+6         carlos sastre ( esp )     2     1       3      6
+7         tony rominger ( sui )     1     1       4      6
+8      alberto contador ( esp )     2     1       2      5
+9           cadel evans ( aus )     3     1       1      5
+10        denis menchov ( rus )     2     1       2      5
+11      vincenzo nibali ( ita )     1     3       1      5
+12   jose manuel fuente ( esp )     1     1       2      4
+13    joaquim rodríguez ( esp )     1     1       2      4
+14  herman van springel ( bel )     1     1       1      3

@@ -1,0 +1,20 @@
+    year                       award                                           category                                           nominee     result
+0   2010                  tony award                                best original score                                      andrew lippa  nominated
+1   2010                  tony award  best performance by a featured actor in a musical                                  kevin chamberlin  nominated
+2   2010            drama desk award                                outstanding musical                               outstanding musical  nominated
+3   2010            drama desk award                     outstanding actor in a musical                                       nathan lane  nominated
+4   2010            drama desk award            outstanding featured actor in a musical                                  kevin chamberlin  nominated
+5   2010            drama desk award          outstanding featured actress in a musical                                  carolee carmello  nominated
+6   2010            drama desk award                                  outstanding music                                      andrew lippa  nominated
+7   2010            drama desk award                                 outstanding lyrics                                      andrew lippa  nominated
+8   2010            drama desk award                             outstanding set design  phelim mcdermott , julian crouch and basil twist        won
+9   2010            drama desk award                        outstanding lighting design                                      natasha katz  nominated
+10  2010          drama league award              distinguished production of a musical             distinguished production of a musical  nominated
+11  2010          drama league award       distinguished achievement in musical theatre                                       nathan lane        won
+12  2010          drama league award                          distinguished performance                                       nathan lane  nominated
+13  2010          drama league award                          distinguished performance                                     bebe neuwirth        won
+14  2010  outer critics circle award                     outstanding actor in a musical                                       nathan lane  nominated
+15  2010  outer critics circle award                   outstanding actress in a musical                                     bebe neuwirth  nominated
+16  2010  outer critics circle award            outstanding featured actor in a musical                                  kevin chamberlin  nominated
+17  2010  outer critics circle award          outstanding featured actress in a musical                                  carolee carmello  nominated
+18  2010  outer critics circle award           outstanding set design (play or musical)                phelim mcdermott and julian crouch        won

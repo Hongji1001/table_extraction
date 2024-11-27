@@ -1,0 +1,29 @@
+    rank height                                   name    road number      type
+0      1  670 m                         cairnwell pass            a93      pass
+1      2  644 m                              the lecht           a939      pass
+2      3  625 m                         bealach na bã    unclassified      pass
+3      4  610 m                  cairn gorm ski centre   unclassified  dead end
+4      5  555 m                      lochan na lairige  unclasssified      pass
+5      6  550 m                               tom dubh           a939      pass
+6      7  530 m                    head of glen quaich   unclassified      pass
+7      8  480 m                             the strone           b976      pass
+8      9  475 m                          glen kyllachy   unclassified      pass
+9     10  466 m                             glengonnar           b797      pass
+10    11  461 m                           guffock hill   unclassified      pass
+11    12  460 m                     pass of drumochter             a9      pass
+12    13  452 m                           megget stone   unclassified      pass
+13    14  447 m                         cairn o' mount           b974      pass
+14    15  443 m                     north of trinafour   unclassified      pass
+15    16  438 m                west of bridge of brown           a939      pass
+16    17  434 m                           redstone rig   unclassified      pass
+17    18  433 m        shoulder of shalloch on minnoch   unclassified      pass
+18    19  419 m                                cabrach           a941      pass
+19  20 =  418 m                             carter bar            a68      pass
+20  20 =  418 m                   spittal of glenmuick   unclassified  dead end
+21    22  414 m                             loch daimh   unclassified  dead end
+22    23  412 m  flecket hill (near devil 's beeftub )           a701      pass
+23    24  406 m                         torfichen hill          b7007      pass
+24    25  405 m                          slochd summit             a9      pass
+25    26  400 m                           glen cochill           a826      pass
+26    27  393 m                     carn an t - suidhe           b862      pass
+27    28  390 m                              suie hill   unclassified      pass

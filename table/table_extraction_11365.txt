@@ -1,0 +1,6 @@
+             player    position  premier league  fa cup  league cup  uefa cup  total
+0  dimitar berbatov     forward              15       2           1         5     23
+1      robbie keane     forward              15       2           2         4     23
+2       darren bent     forward               6       0           0         2      8
+3  steed malbranque  midfielder               4       0           2         1      7
+4    jermaine jenas  midfielder               4       0           2         0      6

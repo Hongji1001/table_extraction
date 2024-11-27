@@ -1,0 +1,12 @@
+      date             course distance                              winner             race leader
+0   18 may     milan to udine        -              ernesto azzini ( ita )  ernesto azzini ( ita )
+1   20 may   udine to bologna        -  jean - baptiste dortignacq ( fra )   carlo galetti ( ita )
+2   22 may  bologna to teramo        -               carlo galetti ( ita )   carlo galetti ( ita )
+3   24 may   teramo to naples        -              pierino albini ( ita )   carlo galetti ( ita )
+4   26 may     naples to rome        -             eberardo pavesi ( ita )   carlo galetti ( ita )
+5   28 may   rome to florence        -                 luigi ganna ( ita )   carlo galetti ( ita )
+6   30 may  florence to genoa        -                 luigi ganna ( ita )   carlo galetti ( ita )
+7   1 june   genoa to mondovì        -               carlo galetti ( ita )   carlo galetti ( ita )
+8   2 june   mondovì to turin        -             eberardo pavesi ( ita )   carlo galetti ( ita )
+9   5 june     turin to milan        -                 luigi ganna ( ita )   carlo galetti ( ita )
+10   total              total        -                             km (mi)                 km (mi)

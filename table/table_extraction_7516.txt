@@ -1,0 +1,26 @@
+                 team      country  value (m) debt as %of value % change on year  revenue (m) operating income (m)
+0   manchester united      england       1453                84                6          310                   92
+1         real madrid        spain       1036                10                2          374                   83
+2             arsenal      england        915                53                9          246                   20
+3       bayern munich      germany        838                 0                9          262                   62
+4               milan        italy        824                 0             - 10          305                   46
+5            juventus        italy        567                17             - 18          321                   45
+6      internazionale        italy        555             n / a               10          264                   26
+7             chelsea      england        537                28                6          283                 - 37
+8           barcelona        spain        535                12               22          331                   12
+9             schalke      germany        471                53               45          157                   37
+10          liverpool      england        454                18               28          225                   37
+11               lyon       france        343             n / a               65          163                   10
+12   newcastle united      england        260                46             - 14          159                   11
+13  tottenham hotspur      england        243                 0               27          137                    9
+14               roma        italy        224                 0             - 15          162                   53
+15            hamburg      germany        221             n / a            n / a          130                   31
+16    manchester city      england        208                83              - 6          114                    9
+17  borussia dortmund      germany        199               126               61          114                    1
+18               ajax  netherlands        196                 0               13           95                    9
+19             celtic     scotland        185                14               18          106                  - 8
+20            everton      england        165                32               34          107                 - 15
+21          marseille       france        157             n / a            n / a          105                    6
+22    west ham united      england        156                27            n / a          111                    6
+23            rangers     scotland        147                 7               32          113                   12
+24        aston villa      england        140                16               16           91                 - 21

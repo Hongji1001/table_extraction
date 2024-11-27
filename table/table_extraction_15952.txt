@@ -1,0 +1,9 @@
+   position                  gymnast  a score  b score   total
+0         1       yang yilin ( chn )      7.7    8.950  16.650
+1         2  ksenia semenova ( rus )      7.4    9.075  16.475
+2         3  anastasia koval ( ukr )      7.3    9.025  16.325
+3         4  steliana nistor ( rou )      7.3    8.675  15.975
+4         5    nastia liukin ( usa )      7.7    8.250  15.950
+5         6         he kexin ( chn )      7.5    8.225  15.725
+6         7     dariya zgoba ( ukr )      6.9    8.875  15.675
+7         8     beth tweddle ( gbr )      7.6    8.050  15.650

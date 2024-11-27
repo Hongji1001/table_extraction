@@ -1,0 +1,6 @@
+           player  attempts  net yards  yards per attempt  touchdowns
+0     mel anthony       145        702                4.8           9
+1  bob timberlake       156        631                4.0           9
+2       carl ward       101        515                5.1           4
+3    jim detwiler        75        298                4.0           1
+4     dave fisher        48        205                4.3           2

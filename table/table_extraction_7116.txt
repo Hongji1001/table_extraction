@@ -1,0 +1,7 @@
+            component            integrated  allied - related    allied - unrelated                            holding
+0   business strategy                   one              many                  many                               many
+1           customers                  same            shared           some shared                               many
+2      corporate role  resource allocations  define protocols      define protocols  financial roll - ups and analysis
+3       human capital                common       some shared           some shared                        independent
+4          it systems                common            common  few , interconnected                          different
+5  enabling processes           centralized       centralized      some centralized                      decentralized

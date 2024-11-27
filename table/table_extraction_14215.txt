@@ -1,0 +1,13 @@
+                    team           manager       home city                         stadium  capacity
+0                cibalia     davor mladina        vinkovci             stadion hnk cibalia      9920
+1                čakovec  ilija lončarević         čakovec             stadion src mladost      8000
+2          dinamo zagreb      marijan vlak          zagreb                stadion maksimir     37168
+3           hajduk split    petar nadoveza           split       gradski stadion u poljudu     35000
+4   hrvatski dragovoljac    milivoj bračun          zagreb      stadion nšc stjepan spajić      5000
+5               marsonia   stjepan deverić  slavonski brod         gradski stadion uz savu     10000
+6                 osijek      stanko mršić          osijek             stadion gradski vrt     19500
+7                 rijeka      nenad gračan          rijeka             stadion na kantridi     10275
+8          slaven belupo    mladen frančić      koprivnica    gradski stadion u koprivnici      4000
+9                šibenik      milo nižetić         šibenik               stadion šubićevac      8000
+10               varteks    ivan katalinić        varaždin              stadion nk varteks     10800
+11             nk zagreb    branko karačić          zagreb  stadion u kranjčevićevoj ulici      8850

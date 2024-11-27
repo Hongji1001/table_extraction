@@ -1,0 +1,11 @@
+                 date                       bowl result  points for  points against
+0  november 26 , 1937  doll and toy charity game      l           0               7
+1   december 3 , 1938                    unnamed      w          20               0
+2  november 20 , 1948                burley bowl      l           2               7
+3  november 26 , 1949               pythian bowl      w          21               7
+4  november 18 , 1950                burley bowl      l           6              26
+5  november 25 , 1950               pythian bowl      l          26              28
+6  november 25 , 1954                burley bowl      w          27              13
+7  december 11 , 1954                  elks bowl      l          13              20
+8  november 19 , 1955                burley bowl      l           0               7
+9               total                          9     36         115             115

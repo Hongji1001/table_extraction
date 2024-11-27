@@ -1,0 +1,29 @@
+                        team            truck (s)                                 driver (s)                                 primary sponsor (s)          owner (s)         crew chief
+0     brad keselowski racing         ford f - 150                              ross chastain                           melon 1 / cooper standard    brad keselowski      chad kendrick
+1     brad keselowski racing         ford f - 150                                ryan blaney                                     cooper standard    brad keselowski      doug randolph
+2       chris fontaine , inc  chevrolet silverado                                mike harmon                                   beaver bail bonds     chris fontaine       kevin ingram
+3             hillman racing  chevrolet silverado                                 jeff agnew                                     friends of coal       mike hillman        doug weddle
+4                 jjc racing             ram 1500                           jennifer jo cobb                        koma unwind relaxation drink   jennifer jo cobb        dan kolanda
+5     kyle busch motorsports        toyota tundra                               joey coulter                        gunbrokercom / darrell gwynn         kyle busch       harold holly
+6     kyle busch motorsports        toyota tundra  kyle busch / erik jones chad hackenbracht  toyota care / toyota tastee apple / ingersoll rand         kyle busch         ryan fugle
+7     kyle busch motorsports        toyota tundra                   darrell wallace , jr (r)                            camping world / good sam         kyle busch       jerry baxter
+8        norm benning racing  chevrolet silverado                               norm benning                          stone mountain guns & gold       norm benning        gary ritter
+9            nts motorsports  chevrolet silverado                          ron hornaday , jr                        smokey mountain herbal snuff        joe denette         bruce cook
+10           nts motorsports  chevrolet silverado                       brennan newberry (r)                                           qore - 24       bob newberry       eddie pardue
+11          red horse racing        toyota tundra                           john wes townley                                            zaxby 's        tom deloach          mike beam
+12          red horse racing        toyota tundra                             timothy peters                                          parts plus        tom deloach       butch hylton
+13          red horse racing        toyota tundra                        germã¡n quiroga (r)                                           otter box        tom deloach       dan stillman
+14  richard childress racing  chevrolet silverado                                  ty dillon                          tracker boats / arctic cat  richard childress    marcus richmond
+15  richard childress racing  chevrolet silverado                            brendan gaughan                    south point hotel , casino & spa  richard childress       shane wilson
+16                rss racing  chevrolet silverado                                  ryan sieg                                     pull - a - part           pam sieg     kevin starland
+17                rss racing  chevrolet silverado                                chris jones                                               n / a           pam sieg        tony wilson
+18  sharp - gallagher racing  chevrolet silverado                                max gresham                                made in usa / amwins        eddie sharp    chris showalter
+19   ss - green light racing        toyota tundra                                caleb roark                                front row tailgating          ken smith  daniel szymkowiak
+20   ss - green light racing        toyota tundra                           matt kurzejewski                                       silver sevens       bobby dotter         cal boprey
+21               t3r2 racing         ford f - 150                                bryan silas                                 bell trucks america       chris baluch      gary cogswell
+22          thorsport racing        toyota tundra                               matt crafton                                             menards     rhonda thorson        carl joiner
+23          thorsport racing        toyota tundra                              johnny sauter                      carolina nut co / curb records          mike curb      dennis conner
+24           turn one racing  chevrolet silverado                           dakoda armstrong                                            winfield     vickie compton        doug george
+25  turner scott motorsports  chevrolet silverado                             jeb burton (r)                                arrowhead cigarettes   harry scott , jr  mike hillman , jr
+26  turner scott motorsports  chevrolet silverado                             james buescher                                               rheem       steve turner    michael shelton
+27  turner scott motorsports  chevrolet silverado                              miguel paludo                        duroline / accudoc solutions       steve turner       jeff hensley

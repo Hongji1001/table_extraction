@@ -1,0 +1,7 @@
+   round  pick  overall            name          position        college
+0      1    26       26      devin bush            safety  florida state
+1      2     9       41    ronald davis        cornerback      tennessee
+2      3    13       77  lorenzo styles        linebacker     ohio state
+3      5    11      145   roell preston     wide receiver    mississippi
+4      6    10      181     travis hall     defensive end            byu
+5      7    37      245   john burrough  defensive tackle        wyoming

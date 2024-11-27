@@ -1,0 +1,8 @@
+                     series                  monday      tuesday    wednesday     thursday                  friday                 saturday                   sunday
+0   celebrity big brother 8  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+1            big brother 12  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+2   celebrity big brother 9  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+3            big brother 13  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+4  celebrity big brother 10  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+5  celebrity big brother 11  emma willis jamie east  emma willis  emma willis  emma willis  emma willis jamie east  alice levine jamie east  alice levine jamie east
+6            big brother 14    aj odudu rylan clark  emma willis  emma willis  emma willis    aj odudu rylan clark        aj odudu iain lee              rylan clark

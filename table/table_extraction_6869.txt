@@ -1,0 +1,7 @@
+             team         seasons regular season  tournament  total
+0      iowa state  1997 - present              0           3      3
+1        missouri     1997 - 2012              0           1      1
+2        nebraska     1997 - 2011              x           1      1
+3        oklahoma  1997 - present              0           2      2
+4  oklahoma state  1997 - present              2          11     13
+5   west virginia  2013 - present              0           0      0

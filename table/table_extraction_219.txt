@@ -1,0 +1,7 @@
+            player  no    nationality         position         years for jazz  school / club team
+0      ira terrell  34  united states          forward              1978 - 79  southern methodist
+1  brooks thompson  22  united states            guard                   1996      oklahoma state
+2     bob thornton  33  united states          forward              1991 - 92  saddleback college
+3   jamaal tinsley   6  united states      point guard         2011 - present          iowa state
+4     andy toolson   5  united states  guard - forward  1990 - 91 , 1995 - 96                 byu
+5   kelly tripucka   4  united states   shooting guard              1986 - 88          notre dame

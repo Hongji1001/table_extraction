@@ -1,0 +1,15 @@
+     further cities  county , oblast or state   country distance  direction
+0              wien                      wien   austria        -       west
+1        bratislava                bratislava  slovakia        -       west
+2              győr     győr - moson - sopron   hungary        -       west
+3   banská bystrica           banská bystrica  slovakia        -      north
+4            košice                    košice  slovakia        -  northeast
+5           miskolc  borsod - abaúj - zemplén   hungary        -       east
+6          uzhhorod               zakarpattia   ukraine        -       east
+7         satu mare                 satu mare   romania        -       east
+8          debrecen             hajdú - bihar   hungary        -       east
+9            oradea                     bihor   romania        -       east
+10             arad                      arad   romania        -  southeast
+11           szeged                  csongrád   hungary        -      south
+12         belgrade                  belgrade    serbia        -      south
+13             pécs                   baranya   hungary        -  southwest

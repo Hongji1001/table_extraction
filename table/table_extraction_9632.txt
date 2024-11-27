@@ -1,0 +1,11 @@
+   rank                     name     headquarters                       primary industry  market value ( usd million)
+0     1                microsoft    united states                      software industry                       271854
+1     2         general electric    united states                           conglomerate                       258871
+2     3              exxon mobil    united states                            oil and gas                       172213
+3     4        royal dutch shell  the netherlands                            oil and gas                       164157
+4     5                    merck    united states                            health care                       154753
+5     6                   pfizer    united states                            health care                       148074
+6     7        intel corporation    united states                      computer hardware                       144060
+7     8  the coca - cola company    united states                               beverage                       142164
+8     9               wal - mart    united states                                 retail                       123062
+9    10                      ibm    united states  software industry , computer hardware                       121184

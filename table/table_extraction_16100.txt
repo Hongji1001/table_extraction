@@ -1,0 +1,6 @@
+   part number     pins  body width / mm  body length / mm  lead pitch / mm
+0       tsop28       28              8.1              11.8             0.55
+1  tsop28 / 32  28 / 32              8.0              18.4             0.50
+2       tsop40       40             10.0              18.4             0.50
+3       tsop48       48             12.0              18.4             0.50
+4       tsop56       56             14.0              18.4             0.50

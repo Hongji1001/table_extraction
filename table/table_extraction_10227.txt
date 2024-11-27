@@ -1,0 +1,6 @@
+              name   type  year built            where built                 initial owners
+0    mountain buck   side        1857               portland              ruckle & olmstead
+1         hassaloe  stern        1858  cascades , washington                  bradford bros
+2      carrie ladd  stern        1858            oregon city  jacob kamm & john c ainsworth
+3  julia (barclay)  stern        1858           port blakely     oregon steam navigation co
+4            wasco  stern        1858          port blakeley     oregon steam navigation co

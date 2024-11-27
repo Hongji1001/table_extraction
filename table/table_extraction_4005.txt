@@ -1,0 +1,7 @@
+   year    team / chassis                 engine tyres  points
+0  1984   alfa romeo 184t  alfa romeo 890t v8 tc     g      11
+1  1984   alfa romeo 184t  alfa romeo 890t v8 tc     g      11
+2  1984   alfa romeo 184t  alfa romeo 890t v8 tc     g      11
+3  1985  alfa romeo 184tb  alfa romeo 890t v8 tc     g       0
+4  1985  alfa romeo 184tb  alfa romeo 890t v8 tc     g       0
+5  1985  alfa romeo 184tb  alfa romeo 890t v8 tc     g       0

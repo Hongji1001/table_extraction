@@ -1,0 +1,41 @@
+    rank                          centre                         country  rating  change
+0     41              isle of man ( cd )              isle of man ( cd )     638       7
+1     42                       abu dhabi            united arab emirates     637      12
+2     43                      wellington                     new zealand     636      10
+3     44                        istanbul                          turkey     633       7
+4     45                       amsterdam                     netherlands     629      26
+5     46                    buenos aires                       argentina     628       5
+6     47                          riyadh                    saudi arabia     627      29
+7     48  british virgin islands ( bot )  british virgin islands ( bot )     626      14
+8     49                      copenhagen                         denmark     625      18
+9     50                          taipei                          taiwan     619      34
+10    51                           milan                           italy     618      34
+11    52                         bahrain                         bahrain     610       3
+12    53                           malta                           malta     608      13
+13    54                          madrid                           spain     607      28
+14    55                         jakarta                       indonesia     606      14
+15    56                          dublin                         ireland     605      22
+16    57                        helsinki                         finland     604      30
+17    58                         bangkok                        thailand     600      19
+18    59                         beijing                           china     598      24
+19    60                        brussels                         belgium     597      44
+20    61                    johannesburg                    south africa     592      18
+21    62                       edinburgh                  united kingdom     590      42
+22    63                     panama city                          panama     589       8
+23    64                          manila                     philippines     587       1
+24    65                         glasgow                  united kingdom     586      50
+25    66                     mexico city                          mexico     584      44
+26    67                     the bahamas                     the bahamas     583       4
+27    68                       mauritius                       mauritius     581       9
+28    69                          moscow                          russia     580      26
+29    70               gibraltar ( bot )               gibraltar ( bot )     572      43
+30    71                          warsaw                          poland     571      37
+31    72                          mumbai                           india     570      35
+32    73                          prague                  czech republic     565      46
+33    74                          cyprus                          cyprus     536      40
+34    75                          lisbon                        portugal     535      17
+35    76                saint petersburg                          russia     522      63
+36    77                        budapest                         hungary     515      26
+37    78                         tallinn                         estonia     495      94
+38    79                       reykjavik                         iceland     479      67
+39    80                          athens                          greece     469       4

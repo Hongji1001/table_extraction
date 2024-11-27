@@ -1,0 +1,16 @@
+    rank                            nation  gold  silver  bronze  total
+0      1                            canada     1       1       2      4
+1      2                           lebanon     1       1       0      2
+2      3                          bulgaria     1       0       1      2
+3      4                             benin     1       0       0      1
+4      4                            quebec     1       0       0      1
+5      4                        cape verde     1       0       0      1
+6      4                       ivory coast     1       0       0      1
+7      8                           vietnam     0       2       0      2
+8      9          central african republic     0       1       0      1
+9      9       french community of belgium     0       1       0      1
+10     9                             niger     0       1       0      1
+11     9  democratic republic of the congo     0       1       0      1
+12     9             republic of the congo     0       1       0      1
+13    14                          cameroon     0       0       1      1
+14    14                        madagascar     0       0       1      1

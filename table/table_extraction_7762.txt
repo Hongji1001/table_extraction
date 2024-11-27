@@ -1,0 +1,12 @@
+     auckland gold coast sydney melbourne   adelaide      perth
+0   cancelled        yes    yes       yes  cancelled  cancelled
+1         yes        yes    yes       yes        yes        yes
+2          no        yes    yes       yes        yes  cancelled
+3          no        yes    yes       yes        yes        yes
+4          no        yes    yes       yes         no         no
+5   cancelled        yes    yes       yes        yes        yes
+6         yes        yes    yes       yes        yes         no
+7         yes         no     no        no         no         no
+8          no         no     no        no        yes        yes
+9          no         no     no       yes         no         no
+10         no         no    yes        no         no         no

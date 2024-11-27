@@ -1,0 +1,11 @@
+   rank        nation  gold  silver  bronze  total
+0     1  south africa    25      15      12     52
+1     2      zimbabwe     7       6       2     15
+2     3       algeria     4       6       6     16
+3     4         kenya     3       2       3      8
+4     5       tunisia     1       5       7     13
+5     6         egypt     0       4       6     10
+6     7       nigeria     0       1       0      1
+7     7       namibia     0       1       0      1
+8     9       senegal     0       0       3      3
+9    10        zambia     0       0       1      1

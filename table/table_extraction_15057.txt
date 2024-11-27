@@ -1,0 +1,6 @@
+       statistic                            name  total           school        opponent                        stage
+0    most points                      kevin alas     43           letran         ssc - r              2012 semifinals
+1  most rebounds     calvin abueva calvin abueva  23 21  ssc - r ssc - r  sanbeda letran  2009 finals 2012 semifinals
+2   most assists  michael gonzales jayson castro     10      ssc - r pcu       csb uphds      2002 finals 2004 finals
+3    most steals                        rj jazul      8           letran             jru              2008 semifinals
+4    most blocks            mark andaya sam ekwe    7 6   letran sanbeda         pcu pcu  2004 semifinals 2006 finals

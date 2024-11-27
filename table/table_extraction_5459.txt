@@ -1,0 +1,33 @@
+                  council                           2003 result notional control (based on 2003 results)                                2007 result  details
+0           aberdeen city         no overall control (ld + con)                                      noc              no overall control (ld + snp)  details
+1           aberdeenshire         no overall control (ld + ind)                                      noc              no overall control (ld + con)  details
+2                   angus                                   snp                                      noc  no overall control (ind + con + ld + lab)  details
+3         argyll and bute                           independent                              independent             no overall control (ind + snp)  details
+4        clackmannanshire                                labour                                      noc          no overall control (lab minority)  details
+5   dumfries and galloway             no overall control (lab )                                      noc              no overall control (con + ld)  details
+6             dundee city   no overall control (lab + ld + con)                                      noc        no overall control (lab + ld + con)  details
+7           east ayrshire                                labour                                   labour          no overall control (snp minority)  details
+8     east dunbartonshire              no overall control (ld )                                      noc             no overall control (lab + con)  details
+9            east lothian                                labour                                      noc              no overall control (snp + ld)  details
+10      east renfrewshire         no overall control (lab + ld)                                      noc  no overall control (lab + ld + ind + con)  details
+11      city of edinburgh                   labour (noc : lab )                                      noc              no overall control (ld + snp)  details
+12                falkirk  no overall control (snp + ind + con)                                      noc       no overall control (lab + ind + con)  details
+13                   fife             no overall control (lab )                                      noc              no overall control (ld + snp)  details
+14           glasgow city                                labour                                   labour                                     labour  details
+15               highland                           independent                              independent             no overall control (ind + snp)  details
+16             inverclyde                     liberal democrats                                      noc          no overall control (lab minority)  details
+17             midlothian                                labour                                      noc          no overall control (lab minority)  details
+18                  moray                           independent                              independent             no overall control (ind + con)  details
+19   na h - eileanan siar                           independent                              independent                                independent  details
+20         north ayrshire                                labour                                   labour          no overall control (lab minority)  details
+21      north lanarkshire                                labour                                   labour                                     labour  details
+22                 orkney                           independent                              independent                                independent  details
+23      perth and kinross   no overall control (snp + ld + ind)                                      noc              no overall control (snp + ld)  details
+24           renfrewshire                                labour                                      noc              no overall control (snp + ld)  details
+25       scottish borders        no overall control (ind + con)                                      noc        no overall control (ind + con + ld)  details
+26               shetland                           independent                              independent                                independent  details
+27         south ayrshire             no overall control (con )                                      noc          no overall control (con minority)  details
+28      south lanarkshire                                labour                                   labour          no overall control (lab minority)  details
+29               stirling                   labour (noc : lab )                                      noc          no overall control (lab minority)  details
+30    west dunbartonshire                                labour                                   labour             no overall control (snp + ind)  details
+31           west lothian                                labour                                      noc             no overall control (snp + ind)  details

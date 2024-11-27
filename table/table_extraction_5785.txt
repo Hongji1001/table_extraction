@@ -1,0 +1,14 @@
+                     driver             constructor  laps time / retired  grid
+0               nino farina              alfa romeo    36      2:45:46.2     2
+1            alberto ascari                 ferrari    36       + 2:51.0     4
+2           luigi villoresi                 ferrari    36       + 4:21.9     3
+3              louis rosier  talbot - lago - talbot    34       + 2 laps     7
+4   yves giraud - cabantous  talbot - lago - talbot    34       + 2 laps     8
+5             andré pilette  talbot - lago - talbot    33       + 3 laps    12
+6              johnny claes  talbot - lago - talbot    33       + 3 laps    11
+7             pierre levegh  talbot - lago - talbot    32       + 4 laps    13
+8        juan manuel fangio              alfa romeo    32       + 4 laps     1
+9              louis chiron  talbot - lago - talbot    28         engine     9
+10          consalvo sanesi              alfa romeo    11       radiator     6
+11            piero taruffi                 ferrari     8   transmission     5
+12       philippe étancelin  talbot - lago - talbot     0   transmission    10

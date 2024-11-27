@@ -1,0 +1,8 @@
+   round  pick  overall               name position             college
+0      2    18       48  stephen alexander       te            oklahoma
+1      3     8       69         skip hicks       rb                ucla
+2      4    21      113       shawn barber       lb            richmond
+3      5    17      140       mark fischer        c              purdue
+4      6    17      170         pat palmer       wr  northwestern state
+5      7     2      191      david terrell       cb     texas - el paso
+6      7    17      206     antwaune ponds       lb            syracuse

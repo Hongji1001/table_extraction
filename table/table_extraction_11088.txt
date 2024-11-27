@@ -1,0 +1,13 @@
+    position                           team  points  played  drawn  lost  against difference
+0          1                     paulistano      39      22      1     2       14         84
+1          2           palestra itália - sp      38      22      0     3       23         58
+2          3                    corinthians      38      22      2     2       22         57
+3          4                   aa são bento      25      22      3     8       41          1
+4          5                  ypiranga - sp      22      22      4     9       58       - 23
+5          6                   minas gerais      21      22      5     9       41        - 2
+6          7                          sírio      20      22      2    11       55       - 15
+7          8         mackenzie - portuguesa      17      22      3    12       48       - 23
+8          9               aa das palmeiras      14      22      4    13       40        - 7
+9         10                         santos      13      22      3    14       61       - 35
+10        11  sc internacional de são paulo       8      22      2    16       83       - 47
+11        12                        germnia       7      22      3    17       67       - 48

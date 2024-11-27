@@ -1,0 +1,36 @@
+    rank                   athlete        country  height  points  adjusted points
+0      1              paavo yrjölä        finland    1.87     916              687
+1      1             james stewart  united states    1.87     916              687
+2      1             helge jansson         sweden    1.87     916              687
+3      4               ken doherty  united states    1.80     818              627
+4      4           wilhelm ladewig        germany    1.80     818              627
+5      6          akilles järvinen        finland    1.75     748              585
+6      6          albert andersson         sweden    1.75     748              585
+7      6               tatsuo toki          japan    1.75     748              585
+8      6              johan meimer        estonia    1.75     748              585
+9      6          barney berlinger  united states    1.75     748              585
+10     6         yonetaro nagazawa          japan    1.75     748              585
+11     6              gunnar hagen         norway    1.75     748              585
+12    13             tom churchill  united states    1.70     678              544
+13    13             ludwig vesely        austria    1.70     678              544
+14    13            henry lindblad         sweden    1.70     678              544
+15    13             martti tolamo        finland    1.70     678              544
+16    13             antoni cejzik         poland    1.70     678              544
+17    13             branko kallay     yugoslavia    1.70     678              544
+18    13               gérard noël        belgium    1.70     678              544
+19    13           con o'callaghan        ireland    1.70     678              544
+20    13          johannes viljoen   south africa    1.70     678              544
+21    13         gunnar fredriksen         norway    1.70     678              544
+22    23                hugo barth        germany    1.65     608              504
+23    23          hermann lemperle        germany    1.65     608              504
+24    23          stelios benardis         greece    1.65     608              504
+25    23             mátyás farkas        hungary    1.65     608              504
+26    23               adolf meier    switzerland    1.65     608              504
+27    28               erwin huber        germany    1.60     538              464
+28    28          gheorghe csegezi        romania    1.60     538              464
+29    28               howard ford  great britain    1.60     538              464
+30    28                 ion haidu        romania    1.60     538              464
+31    28  george weightman - smith   south africa    1.60     538              464
+32    33             sven lundgren         sweden    1.50     398              389
+33    33            gaston étienne        belgium    1.50     398              389
+34    33     rené joannes - powell        belgium    1.50     398              389

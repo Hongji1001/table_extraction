@@ -1,0 +1,12 @@
+    rank               nation  gold  silver  bronze  total
+0      1    netherlands (ned)     2       1       1      4
+1      2        germany (ger)     1       2       5      8
+2      3         france (fra)     1       2       1      4
+3      4  great britain (gbr)     1       1       0      2
+4      5         poland (pol)     1       0       1      2
+5      6        austria (aut)     1       0       0      1
+6      6        hungary (hun)     1       0       0      1
+7      6     luxembourg (lux)     1       0       0      1
+8      9    switzerland (sui)     0       2       0      2
+9     10        denmark (den)     0       1       2      3
+10    11          italy (ita)     0       1       0      1

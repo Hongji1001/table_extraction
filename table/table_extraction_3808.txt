@@ -1,0 +1,23 @@
+    series                              title                 directed by         written by    original air date  production code
+0        1                              pilot  jack bender & james hayman       barbara hall  september 26 , 2003              100
+1        2              the fire and the wood                james hayman        hart hanson     october 3 , 2003              101
+2        3                         touch move                  josh brand       barbara hall    october 10 , 2003              102
+3        4                           the boat               kevin dowling     randy anderson    october 17 , 2003              103
+4        5                        just say no                 steve gomer       tom garrigus    october 24 , 2003              104
+5        6                     bringeth it on              david petrarca        joy gregory    october 31 , 2003              105
+6        7              death be not whatever                 peter levin       barbara hall    november 7 , 2003              106
+7        8            the devil made me do it                james hayman        hart hanson   november 14 , 2003              107
+8        9                            st joan             martha mitchell     randy anderson   november 21 , 2003              108
+9       10                    drive , he said             ron lagomarsino       tom garrigus    december 5 , 2003              109
+10      11          the uncertainty principle                helen shaver        joy gregory   december 12 , 2003              110
+11      12                               jump            timothy busfield        hart hanson     january 9 , 2004              111
+12      13                         recreation                elodie keene       barbara hall    january 16 , 2004              112
+13      14                     state of grace                 steve gomer     joshua ravetch    february 6 , 2004              113
+14      15                night without stars               kevin dowling         david grae   february 13 , 2004              115
+15      16                       double dutch                alan myerson       tom garrigus   february 20 , 2004              116
+16      17                         no bad guy                james hayman      sibyl gardner   february 27 , 2004              114
+17      18  requiem for a third grade ashtray               kevin dowling        joy gregory      march 12 , 2004              117
+18      19                        do the math                  rob morrow  antoinette stella       april 2 , 2004              118
+19      20                          anonymous                 steve gomer         david grae      april 30 , 2004              119
+20      21         vanity , thy name is human                jerry levine     robert girardi         may 7 , 2004              120
+21      22                           the gift             martha mitchell     stephen nathan        may 14 , 2004              121

@@ -1,0 +1,23 @@
+                  driver           constructor  laps time / retired  grid
+0        fernando alonso    mclaren - mercedes    60    2:06:26.358     2
+1           felipe massa               ferrari    60        + 8.155     3
+2            mark webber    red bull - renault    60     + 1:05.674     6
+3         alexander wurz     williams - toyota    60     + 1:05.937    12
+4        david coulthard    red bull - renault    60     + 1:13.656    20
+5          nick heidfeld            bmw sauber    60     + 1:20.298     4
+6          robert kubica            bmw sauber    60     + 1:22.415     5
+7      heikki kovalainen               renault    59        + 1 lap     7
+8         lewis hamilton    mclaren - mercedes    59        + 1 lap    10
+9   giancarlo fisichella               renault    59        + 1 lap    13
+10    rubens barrichello                 honda    59        + 1 lap    14
+11      anthony davidson   super aguri - honda    59        + 1 lap    15
+12          jarno trulli                toyota    59        + 1 lap     8
+13        kimi räikkönen               ferrari    34     hydraulics     1
+14           takuma sato   super aguri - honda    19     hydraulics    16
+15       ralf schumacher                toyota    18      collision     9
+16     markus winkelhock      spyker - ferrari    13     hydraulics    22
+17         jenson button                 honda     2       spun off    17
+18          adrian sutil      spyker - ferrari     2       spun off    21
+19          nico rosberg     williams - toyota     2       spun off    11
+20           scott speed  toro rosso - ferrari     2       spun off    18
+21     vitantonio liuzzi  toro rosso - ferrari     2       spun off    19

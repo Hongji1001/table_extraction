@@ -1,0 +1,9 @@
+                          school    mascot  enrollment ihsaa class ihsaa football class
+0      fort wayne bishop dwenger    saints        1013         aaa                 aaaa
+1        fort wayne bishop luers   knights         544          aa                   aa
+2  fort wayne concordia lutheran    cadets         645         aaa                  aaa
+3          fort wayne north side  redskins        1756        aaaa                aaaaa
+4            fort wayne northrop    bruins        2277        aaaa                aaaaa
+5     fort wayne r nelson snider  panthers        2035        aaaa                aaaaa
+6          fort wayne south side   archers        1596        aaaa                aaaaa
+7               fort wayne wayne  generals        1582        aaaa                aaaaa

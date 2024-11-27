@@ -1,0 +1,8 @@
+              name        novelty          status                              authors   location
+0    chubutisaurus  gen et sp nov           valid                            del corro  argentina
+1    homalocephale  gen et sp nov           valid                 maryańska & osmólska   mongolia
+2        labocania  gen et sp nov           valid                               molnar     mexico
+3  lufengocephalus  gen et sp nov  junior synonym  elzanowski & yang (aka c - c young)      china
+4     prenocephale  gen et sp nov           valid                 maryańska & osmólska   mongolia
+5    stokesosaurus  gen et sp nov           valid                               madsen        usa
+6      tylocephale  gen et sp nov           valid                 maryańska & osmólska   mongolia

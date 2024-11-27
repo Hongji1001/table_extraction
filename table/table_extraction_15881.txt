@@ -1,0 +1,9 @@
+   pick                        team            player          position          college
+0     1  kansas city (from oakland)     buck buchanan  defensive tackle  grambling state
+1     2                   san diego      walt sweeney             guard         syracuse
+2     3                    new york     jerry stovall                 -              lsu
+3     4                     buffalo      dave behrman                 -   michigan state
+4     5                      denver  kermit alexander                 -             ucla
+5     6                     houston     danny brabham                 -         arkansas
+6     7                      boston        art graham                 -   boston college
+7     8                 kansas city          ed budde             guard   michigan state

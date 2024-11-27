@@ -1,0 +1,13 @@
+             player                                competition             team         opponent  year      score
+0           langley             victorian football association          carlton  north melbourne  1895  2.2 - 1.9
+1         jim thoms  south australian national football league     west torrens   north adelaide  1945    33 - 32
+2    darrel baldock                  north west football union   east devonport        devonport  1955    58 - 55
+3        kerry good                               night series  north melbourne      collingwood  1980    57 - 54
+4     mick cleeland          picola & district football league            waaia          blighty  1990  114 - 113
+5   simphiwe mbhalo      australian football international cup     south africa          ireland  2008    33 - 32
+6      ashley baker                   ballarat football league   ballarat swans           darley  2008    85 - 80
+7      jarrad grant                  victorian football league     williamstown           coburg  2009  119 - 116
+8        adam prior            west australian football league       east perth        claremont  2012    91 - 90
+9       david rodan  south australian national football league          norwood    west adelaide  2012    37 - 36
+10       haydn kiel      north east australian football league        southport          redland  2012    69 - 66
+11    jack riewoldt            nab cup (afl pre - season game)         richmond         hawthorn  2013    85 - 84

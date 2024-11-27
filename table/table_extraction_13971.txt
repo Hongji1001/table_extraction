@@ -1,0 +1,21 @@
+   result                              race distance  weight        winner or 2nd pos'n
+0       -              ajc denham court hcp       6f    7.20            killarney   1st
+1       -            rrc three year old hcp       7f    7.13  firbolg / king crow   1st
+2       -     rrc three & four year old hcp       7f    7.60               ticino   1st
+3       -          ajc warwick stakes (wfa)       8f    7.60             limerick   1st
+4     2nd     tatts chelmsford stakes (wfa)       9f    7.60             mollison   1st
+5     won              rrc rosehill guineas       9f    8.50              lorason   2nd
+6     won                         ajc derby      12f    8.10            carradale   2nd
+7     won            ajc craven plate (wfa)      10f    7.80             mollison   2nd
+8     won                         vrc derby      12f    8.10            carradale   2nd
+9     3rd                 vrc melbourne cup      2 m    7.60           nightmarch   1st
+10    3rd       vatc st george stakes (wfa)       9f    8.10              amounis   1st
+11    won               vrc st leger stakes      14f    8.10           sir ribble   2nd
+12    won       vrc governor 's plate (wfa)      12f    7.13              lineage   2nd
+13    won           vrc king 's plate (wfa)      2 m    7.11          second wind   2nd
+14    won  ajc chipping norton stakes (wfa)      10f    8.10              amounis   2nd
+15    won                      ajc st leger      14f    8.10           sir ribble   2nd
+16    won       ajc cumberland stakes (wfa)      14f    8.10               donald   2nd
+17    won                   ajc plate (wfa)    2 ¼ m    7.13           nightmarch   2nd
+18    won           sajc elder stakes (wfa)       9f    8.40             fruition   2nd
+19    won                  sajc king 's cup      12f    9.50               nadean   2nd

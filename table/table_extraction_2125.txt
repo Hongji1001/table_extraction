@@ -1,0 +1,9 @@
+   pick               cfl team            player position             college
+0     1     calgary stampeders      steve morley       ol       saint mary 's
+1     2     calgary stampeders       joe mcgrath       ot               miami
+2     3  hamilton tiger - cats    julian radlein       rb    british columbia
+3     4       edmonton eskimos  emmanuel casseus       lb            michigan
+4     5     calgary stampeders        wes lysack       db            manitoba
+5     6               bc lions     paris jackson       wr                utah
+6     7     calgary stampeders      marc calixte       lb  tennessee (martin)
+7     8       edmonton eskimos     randy spencer       dt         weber state

@@ -1,0 +1,19 @@
+                          club                      city                       stadium  capacity                    200708 season
+0                    ac cesena                    cesena           stadio dino manuzzi     23860                  22nd in serie b
+1                 us cremonese                   cremona          stadio giovanni zini     22000              2nd in serie c1 / a
+2            calcio lecco 1912                     lecco      stadio rigamonti - ceppi      4977             16th in serie c1 / a
+3                   ac legnano                   legnano          stadio giovanni mari      6600              7th in serie c1 / a
+4                 ac lumezzane                 lumezzane         nuovo stadio comunale      4150  serie c2 / a play - off winners
+5        ac monza brianza 1912                     monza               stadio brianteo     18568              8th in serie c1 / a
+6                novara calcio                    novara           stadio silvio piola      8810              9th in serie c1 / a
+7                calcio padova                     padua                stadio euganeo     32336              6th in serie c1 / a
+8           us pergocrema 1932                     crema       stadio giuseppe voltini      3490           serie c2 / a champions
+9   calcio portogruaro summaga               portogruaro  stadio pier giovanni mecchia      3335  serie c2 / b play - off winners
+10                  pro patria             busto arsizio          stadio carlo speroni      3990             14th in serie c1 / a
+11                ac pro sesto        sesto san giovanni                  stadio breda      4500             11th in serie c1 / a
+12              ravenna calcio                   ravenna          stadio bruno benelli     12020                  20th in serie b
+13            ac reggiana 1919             reggio emilia                 stadio giglio     29546           serie c2 / b champions
+14    ss sambenedettese calcio  san benedetto del tronto    stadio riviera delle palme     22000             12th in serie c1 / b
+15                   spal 1907                   ferrara            stadio paolo mazza     19000              4th in serie c2 / b
+16                 ssc venezia                    venice        stadio pierluigi penzo     10500             12th in serie c1 / a
+17            hellas verona fc                    verona  stadio marcantonio bentegodi     39211             17th in serie c1 / a

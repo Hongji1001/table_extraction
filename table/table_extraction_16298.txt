@@ -1,0 +1,9 @@
+                   team 1        agg         team 2   1st leg  2nd leg
+0  eiffeltowers den bosch  166 - 130        kk amak   94 - 66  72 - 64
+1              hkk široki  155 - 164   sumykhimprom   73 - 73  82 - 91
+2                 csk vss  149 - 136      kk zagreb   80 - 60  69 - 76
+3            db skyliners  127 - 125  antalya bb bk   60 - 60  67 - 65
+4         hyères - toulon  170 - 154    csu asesoft  103 - 77  67 - 77
+5             ewe baskets  150 - 120       kk borac   76 - 46  74 - 74
+6            liege basket  154 - 137       ja vichy   74 - 67  80 - 70
+7         banvit bandırma  165 - 189            ael  93 - 100  72 - 89

@@ -1,0 +1,43 @@
+                    city                           country iata  icao                                      airport
+0                 bangui          central african republic  bgf  feff          bangui m'poko international airport
+1                beijing                             china  pek  zbaa        beijing capital international airport
+2               benguela                            angola  bug  fnbg                             benguela airport
+3                 berlin                           germany  sxf  eddb                    berlin schönefeld airport
+4            brazzaville             republic of the congo  bzv  fcbb                          maya - maya airport
+5                cabinda                            angola  cab  fnca                              cabinda airport
+6              cape town                      south africa  cpt  fact              cape town international airport
+7              catumbela                            angola  cbt  fnct                            catumbela airport
+8                 douala                          cameroon  dla  fkkd                 douala international airport
+9                  dubai              united arab emirates  dxb  omdb                  dubai international airport
+10                 dundo                            angola  due  fndu                                dundo airport
+11                harare                          zimbabwe  hre  fvha                 harare international airport
+12                havana                              cuba  hav  muha             josé martí international airport
+13                huambo                            angola  nov  fnhu                       albano machado airport
+14          johannesburg                      south africa  jnb  fajs               or tambo international airport
+15              kinshasa  democratic republic of the congo  fih  fzaa                              n'djili airport
+16                 kuito                            angola  svp  fnku                                kuito airport
+17                lisbon                          portugal  lis  lppt                       lisbon portela airport
+18                luanda                            angola  lad  fnlu                  quatro de fevereiro airport
+19               lubango                            angola  sdd  fnub                              lubango airport
+20                 luena                            angola  luo  fnue                                luena airport
+21                lusaka                            zambia  lun  flls                 lusaka international airport
+22               malanje                            angola  meg  fnma                              malanje airport
+23                maputo                        mozambique  mpm  fqma                 maputo international airport
+24          mbanza congo                            angola  ssy  fnbc                         mbanza congo airport
+25              menongue                            angola  spp  fnme                             menongue airport
+26                moscow                            russia  svo  uuee           sheremetyevo international airport
+27                namibe                            angola  msz  fnmo                               namibe airport
+28                negage                            angola  gxg  fnng                               negage airport
+29               ondjiva                            angola  ngv  fngi                      ondjiva pereira airport
+30                 paris                            france  cdg  lfpg                    charles de gaulle airport
+31  pointe noire airport             republic of the congo  pnr  fcpp                         pointe noire airport
+32                 porto                          portugal  opo  lppr             francisco de sá carneiro airport
+33                 praia                        cape verde  rai  gvnp                  praia international airport
+34        rio de janeiro                            brazil  gig  sbgl                 galeão international airport
+35                  rome                             italy  fco  lirf        leonardo da vinci - fiumicino airport
+36                   sal                        cape verde  sid  gvac         amílcar cabral international airport
+37             são paulo                            brazil  gru  sbgr  são paulo - guarulhos international airport
+38               saurimo                            angola  vhc  fnsa                              saurimo airport
+39                  soyo                            angola  sza  fnso                                 soyo airport
+40              são tomé             são tomé and príncipe  tms  fpst               são tomé international airport
+41              windhoek                           namibia  wdh  fywh  windhoek hosea kutako international airport

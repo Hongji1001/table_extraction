@@ -1,0 +1,36 @@
+    nat                        name          since  goals  ends  transfer fee
+0   sco              allan mcgregor           1998      0  2010  youth system
+1   sco                 alan hutton           2000      4  2012  youth system
+2   sco                  david weir  2007 (winter)      3  2008          free
+3   bel               thomas buffel  2005 (winter)     16  2009         2.3 m
+4   bih                  saša papac           2006      0  2009        0.45 m
+5   sco  barry ferguson ( captain )  2005 (winter)     59  2010         4.5 m
+6   alg              brahim hemdani           2005      2  2009          free
+7   sco               kevin thomson  2007 (winter)      1  2011           2 m
+8   sco                   kris boyd  2005 (winter)     71  2010         0.4 m
+9   esp                  nacho novo           2004     54  2010        0.45 m
+10  sco                charlie adam           2003     18  2012  youth system
+11  eng                  ugo ehiogu  2007 (winter)      1  2008          free
+12  nir                steven davis  2008 (winter)      1  2008          loan
+13  sen                   amdy faye           2007      0  2008          loan
+14  sco                    alan gow           2007      0  2010          free
+15  sco                graeme smith           2007      0  2010          free
+16  sco                 chris burke           2000     14  2009  youth system
+17  sco                  ian murray           2005      0  2008          free
+18  sco             steven naismith           2008      5  2012         1.9 m
+19  fra   jean - claude darcheville           2007     15  2009          free
+20  usa            damarcus beasley           2007      5  2010         0.7 m
+21  sco              kirk broadfoot           2007      1  2010          free
+22  sco                andy webster           2008      1  2011         0.4 m
+23  svk                  filip šebo           2006      2  2010         1.8 m
+24  sco            christian dailly  2008 (winter)      2  2008          free
+25  esp              carlos cuéllar           2007      5  2011        2.37 m
+26  nir                 roy carroll           2007      0  2008          free
+27  sco              neil alexander  2008 (winter)      0  2011          free
+28  sco                steven smith           2002      1  2010  youth system
+29  sco               lee mcculloch           2007      7  2011        2.25 m
+30  sco            steven whittaker           2007      5  2012           2 m
+31  gab               daniel cousin           2007     12  2010         1.1 m
+32  sco                 paul emslie           2005      0  2010  youth system
+33  rsa                 dean furman           2006      0  2008          free
+34  sco                  john fleck           2007      0  2011  youth system

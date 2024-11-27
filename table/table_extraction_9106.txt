@@ -1,0 +1,13 @@
+    round  pick  overall                name          position               college
+0       1    22       22         andre rison     wide receiver        michigan state
+1       3    16       72     mitchell benson  defensive tackle                   tcu
+2       4    15       99       pat tomberlin             guard         florida state
+3       6    16      155    quintus mcdonald        linebacker            penn state
+4       7    15      182      ivy joe hunter      running back              kentucky
+5       7    18      185  charles washington    defensive back               cameron
+6       8    17      212         kurt larson        linebacker        michigan state
+7       9    16      239     william mackall     wide receiver    tennessee - martin
+8      10    15      266        jim thompson  offensive tackle                auburn
+9      11    17      296       wayne johnson       quarterback               georgia
+10     12     7      314      william dubose      running back  south carolina state
+11     12    16      323        steve taylor       quarterback              nebraska

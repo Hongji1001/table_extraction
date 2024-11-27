@@ -1,0 +1,19 @@
+                        peak  height (m)  prom (m)    class                 parent
+0                  whernside         736       408  marilyn             cross fell
+1               ingleborough         724       428  marilyn             cross fell
+2            great whernside         704       288  marilyn              whernside
+3               buckden pike         702       207  marilyn        great whernside
+4            pen - y - ghent         694       306  marilyn              whernside
+5                 great coum         687       221  marilyn              whernside
+6                plover hill         680        59   hewitt        pen - y - ghent
+7      great knoutberry hill         672       254  marilyn        great whernside
+8             dodd fell hill         668       230  marilyn  great knoutberry hill
+9             fountains fell         668       243  marilyn        pen - y - ghent
+10  fountains fell south top         662        15  nuttall         fountains fell
+11                simon fell         650        35   hewitt           ingleborough
+12        yockenthwaite moor         643        86   hewitt         dodd fell hill
+13                green hill         628        24  nuttall             great coum
+14                 gragareth         627        30   hewitt             great coum
+15            darnbrook fell         624        40   hewitt         fountains fell
+16               drumaldrace         614        66   hewitt         dodd fell hill
+17                birks fell         610       158  marilyn        pen - y - ghent

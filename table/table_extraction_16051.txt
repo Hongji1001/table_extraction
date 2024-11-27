@@ -1,0 +1,8 @@
+   pick                 player country of origin                        pba team               college
+0     9          joseph valdez       philippines                presto ice cream               adamson
+1    10          roberto jabar       philippines                      pepsi cola  san jose - recoletos
+2    11         bonel balingit       philippines            swift mighty meaties               visayas
+3    12        joselito guanio       philippines  purefoods tender juicy hotdogs          up - diliman
+4    13  julian rabbi tomacruz       philippines              san miguel beermen           santo tomas
+5    14        romulo orillosa       philippines                  shell rimula x               adamson
+6    15       ronald cahanding       philippines                  alaska milkmen               adamson

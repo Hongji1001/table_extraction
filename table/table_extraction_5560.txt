@@ -1,0 +1,44 @@
+               driver  car       make  points  laps  winnings
+0       kevin harvick   29  chevrolet     185   312    228486
+1        tony stewart   20  chevrolet     175   312    211536
+2        matt kenseth   17       ford     170   312    168116
+3        carl edwards   99       ford     160   312    126685
+4        clint bowyer    7  chevrolet     160   312    122325
+5         kasey kahne    9      dodge     150   312    124189
+6      jimmie johnson   48  chevrolet     146   312    127111
+7       bobby labonte   43      dodge     142   312    117661
+8         jeff burton   31  chevrolet     138   312    108870
+9         jeff gordon   24  chevrolet     134   312    124111
+10        mark martin    6       ford     135   311     98425
+11    sterling marlin   14  chevrolet     127   311     90883
+12      brian vickers   25  chevrolet     124   311     80275
+13     jamie mcmurray   26       ford     121   311    112750
+14        greg biffle   16       ford     128   311    102350
+15       ken schrader   21       ford     115   311     95389
+16        tony raines   96  chevrolet     112   311     65075
+17         jeff green   66  chevrolet     109   311     91808
+18       dale jarrett   88       ford     106   311     99325
+19        casey mears   42      dodge     103   311    103983
+20      travis kvapil   32  chevrolet     100   311     80958
+21    martin truex jr    1  chevrolet      97   311     86233
+22  dale earnhardt jr    8  chevrolet      94   310    102291
+23         kurt busch    2      dodge      91   310    103833
+24      kenny wallace  178  chevrolet      88   310     63075
+25    jeremy mayfield   19      dodge      85   310     95841
+26        dave blaney   22      dodge      87   309     75172
+27           jj yeley   18  chevrolet      84   309     99975
+28      david stremme   40      dodge      76   308     73175
+29       scott wimmer    4  chevrolet      73   307     65525
+30         kyle petty   45      dodge      70   305     72400
+31      brent sherman   49      dodge      67   305     61750
+32    stanton barrett   95  chevrolet      64   301     62575
+33       denny hamlin   11  chevrolet      61   289     61500
+34       joe nemechek    1  chevrolet      58   283     87720
+35         kyle busch    5  chevrolet      60   259     84425
+36     elliott sadler   38       ford      57   247     89008
+37        scott riggs   10      dodge      49   229     60975
+38        ryan newman   12      dodge      46   221    106258
+39      reed sorenson   41      dodge      43   206     68700
+40       robby gordon    7  chevrolet      40   116     60560
+41    michael waltrip   55      dodge      37    98     60435
+42        brandon ash  102      dodge      39    98     60635

@@ -1,0 +1,27 @@
+                  driver        constructor  laps    time / retired  grid
+0            jochen mass     mclaren - ford    29           42:53.7    11
+1             jacky ickx       lotus - ford    29             + 1.1    16
+2       carlos reutemann     brabham - ford    28           + 1 lap    15
+3   jean - pierre jarier      shadow - ford    28           + 1 lap    10
+4     vittorio brambilla       march - ford    28           + 1 lap     5
+5         lella lombardi       march - ford    27          + 2 laps    24
+6             tony brise    williams - ford    27          + 2 laps    18
+7            john watson     surtees - ford    26          + 3 laps     6
+8         clay regazzoni            ferrari    25    not classified     2
+9         rolf stommelen        hill - ford    25         collision     9
+10           carlos pace     brabham - ford    25         collision    14
+11             tom pryce      shadow - ford    23          accident     8
+12       ronnie peterson       lotus - ford    23        suspension    12
+13      roelof wunderink      ensign - ford    20      transmission    19
+14     franã§ois migault        hill - ford    18    not classified    22
+15        mario andretti    parnelli - ford    16        suspension     4
+16             bob evans                brm     7       fuel system    23
+17            james hunt     hesketh - ford     6          accident     3
+18        jody scheckter     tyrrell - ford     3            engine    13
+19          mark donohue      penske - ford     3         collision    17
+20            alan jones     hesketh - ford     3         collision    20
+21     patrick depailler     tyrrell - ford     1  collision damage     7
+22     wilson fittipaldi  fittipaldi - ford     1          withdrew    21
+23       arturo merzario    williams - ford     1          withdrew    25
+24            niki lauda            ferrari     0         collision     1
+25    emerson fittipaldi     mclaren - ford     0       non starter    26

@@ -1,0 +1,23 @@
+                             driver                constructor  laps time / retired  grid
+0                    alberto ascari                    ferrari    36      3:03:46.3     1
+1                       nino farina                    ferrari    36       + 1:55.2     2
+2                     robert manzon                    gordini    36       + 4:28.4     4
+3                     mike hawthorn           cooper - bristol    35        + 1 lap     6
+4                       paul frã¨re                 hwm - alta    34       + 2 laps     8
+5                        alan brown           cooper - bristol    34       + 2 laps     9
+6                charles de tornaco                    ferrari    33       + 3 laps    13
+7                      johnny claes                    gordini    33       + 3 laps    19
+8                      eric brandon           cooper - bristol    33       + 3 laps    12
+9                            b bira  simca - gordini - gordini    32       + 4 laps    18
+10                    lance macklin                 hwm - alta    32       + 4 laps    14
+11                    roger laurent                 hwm - alta    32       + 4 laps    20
+12                     arthur legat                    veritas    31       + 5 laps    21
+13                   robert o'brien  simca - gordini - gordini    30       + 6 laps    22
+14                        tony gaze                 hwm - alta    30       + 6 laps    16
+15  robin montgomerie - charrington          aston butterworth    17         engine    15
+16                    piero taruffi                    ferrari    13       accident     3
+17                       jean behra                    gordini    13       accident     5
+18                      ken wharton    frazer - nash - bristol    10       spun off     7
+19                     louis rosier                    ferrari     6   transmission    17
+20                    peter collins                 hwm - alta     3      halfshaft    11
+21                    stirling moss              era - bristol     0         engine    10

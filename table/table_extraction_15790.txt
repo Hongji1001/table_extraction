@@ -1,0 +1,6 @@
+      township    county  pop (2010)  land ( sqmi )  water (sqmi)   latitude     longitude      geo id  ansi code
+0  yellowstone  mckenzie         417         40.198         2.136  47.895843  - 103.997037  3805387820    1759523
+1         york    benson          27         36.028         0.273  48.324845   - 99.533482  3800587900    2397901
+2     yorktown    dickey          50         35.804         0.000  46.153339   - 98.316833  3802187940    1036768
+3        young    dickey          35         34.347         0.074  46.230278   - 98.834821  3802187980    1036780
+4    ypsilanti  stutsman         128         36.026         0.000  46.761455   - 98.502295  3809388060    1036451

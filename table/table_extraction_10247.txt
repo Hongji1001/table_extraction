@@ -1,0 +1,49 @@
+      date                                            tournament        location                 winner        score  1st prize
+0    jan 7                      glen campbell - los angeles open      california        rod funseth (2)   276 ( - 8)      27000
+1   jan 14                                          phoenix open         arizona    bruce crampton (10)  268 ( - 12)      30000
+2   jan 21                               dean martin tucson open         arizona    bruce crampton (11)  277 ( - 11)      30000
+3   jan 28                         bing crosby national pro - am      california     jack nicklaus (46)   282 ( - 6)      36000
+4    feb 4                                         hawaiian open          hawaii        john schlee (1)  273 ( - 15)      40000
+5   feb 11                               bob hope desert classic      california     arnold palmer (62)  343 ( - 17)      32000
+6   feb 18           andy williams - san diego open invitational      california        bob dickson (2)  278 ( - 10)      34000
+7   feb 25  jackie gleason inverrary - national airlines classic         florida       lee trevino (16)   279 ( - 9)      52000
+8    mar 4                                   florida citrus open         florida          bud allin (2)  265 ( - 23)      30000
+9   mar 11                                  doral - eastern open         florida       lee trevino (17)  276 ( - 12)      30000
+10  mar 18                             greater jacksonville open         florida        jim colbert (3)   279 ( - 9)      26000
+11  mar 25                              greater new orleans open       louisiana     jack nicklaus (47)   280 ( - 8)      25000
+12   apr 2                               greater greensboro open  north carolina  chi chi rodriguez (7)  267 ( - 17)      42000
+13   apr 8                                    masters tournament         georgia        tommy aaron (3)   283 ( - 5)      30000
+14  apr 15                                         monsanto open         florida     homero blancas (4)  277 ( - 11)      30000
+15  apr 22                                      tallahassee open         florida       hubert green (2)  277 ( - 11)      15000
+16  apr 22                               tournament of champions      california     jack nicklaus (48)  276 ( - 12)      40000
+17  apr 29                             byron nelson golf classic           texas      lanny wadkins (2)   277 ( - 3)      30000
+18   may 6                                          houston open           texas    bruce crampton (12)  277 ( - 11)      41000
+19  may 13                          colonial national invitation           texas       tom weiskopf (6)   276 ( - 4)      30000
+20  may 20                          danny thomas memphis classic       tennessee         dave hill (10)   283 ( - 5)      35000
+21  may 27                                       atlanta classic         georgia     jack nicklaus (49)  272 ( - 16)      30000
+22   jun 3                                           kemper open  north carolina       tom weiskopf (7)  271 ( - 17)      40000
+23  jun 10                       ivb - philadelphia golf classic    pennsylvania       tom weiskopf (8)  274 ( - 14)      30045
+24  jun 17                                               us open    pennsylvania      johnny miller (3)   279 ( - 5)      35000
+25  jun 24                                 american golf classic            ohio    bruce crampton (13)   273 ( - 7)      32000
+26   jul 1                                          western open        illinois      billy casper (49)  272 ( - 12)      35000
+27   jul 8                                greater milwaukee open       wisconsin      dave stockton (6)  276 ( - 12)      26000
+28  jul 14                                          british open        scotland       tom weiskopf (9)  276 ( - 12)      14300
+29  jul 15                   shrine - robinson open golf classic        illinois        deane beman (4)  271 ( - 13)      25000
+30  jul 22            st louis children 's hospital golf classic        missouri      gene littler (25)  268 ( - 12)      42000
+31  jul 29                                         canadian open          canada      tom weiskopf (10)  278 ( - 10)      35000
+32   aug 5                                   westchester classic        new york      bobby nichols (9)  272 ( - 16)      50000
+33  aug 12                                      pga championship            ohio     jack nicklaus (50)   277 ( - 7)      45000
+34  aug 19                                           usi classic   massachusetts      lanny wadkins (3)   279 ( - 9)      40000
+35  aug 26                                  liggett & myers open  north carolina        bert greene (1)   278 ( - 6)      20000
+36  aug 26               us professional match play championship  north carolina     john schroeder (1)         2 up      40000
+37   sep 3                sammy davis jr - greater hartford open     connecticut      billy casper (50)  264 ( - 20)      40000
+38   sep 9                                         southern open         georgia       gary player (18)  270 ( - 10)      20030
+39  sep 16                            sea pines heritage classic  south carolina         hale irwin (2)  272 ( - 12)      30000
+40  sep 23                                               bc open        new york       hubert green (3)  266 ( - 18)      20000
+41  sep 30                                      quad cities open            iowa          sam adams (1)  268 ( - 16)      20000
+42   oct 7                                ohio kings island open            ohio     jack nicklaus (51)  271 ( - 13)      25000
+43  oct 21                kaiser international open invitational      california           ed sneed (1)  275 ( - 13)      30092
+44  oct 28                                   sahara invitational          nevada      john mahaffey (1)  271 ( - 13)      27000
+45   nov 4                                san antonio texas open           texas       ben crenshaw (1)  270 ( - 14)      25000
+46  nov 17                          world open golf championship  north carolina      miller barber (8)   570 ( + 2)     100000
+47   dec 1                        walt disney world golf classic         florida     jack nicklaus (52)  275 ( - 13)      30000

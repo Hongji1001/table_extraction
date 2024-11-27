@@ -1,0 +1,8 @@
+         school          team division record overall record                          season outcome
+0       milford    buccaneers           5 - 1         10 - 2           won div ii state championship
+1        laurel      bulldogs           5 - 1          9 - 3  loss in div ii state championship game
+2  indian river       indians           4 - 2          7 - 4  loss in first round of div ii playoffs
+3        delmar      wildcats           4 - 2          8 - 2                 failed to make playoffs
+4       seaford     blue jays           2 - 4          2 - 8                 failed to make playoffs
+5   lake forest      spartans           1 - 5          3 - 7                 failed to make playoffs
+6    woodbridge  blue raiders           0 - 6         0 - 10                 failed to make playoffs

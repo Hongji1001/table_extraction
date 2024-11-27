@@ -1,0 +1,13 @@
+                   name height weight    spike                 2008 club
+0         evgeni ivanov      m      -  cm (in)        jastrzębski węgiel
+1      hristo tsvetanov      m      -  cm (in)  budvanska rivijera budva
+2         andrey zhekov      m      -  cm (in)              patron patra
+3        boyan yordanov      m      -  cm (in)                olympiacos
+4    krasimir gaydarski      m      -  cm (in)                olympiacos
+5        matey kaziyski      m      -  cm (in)           trentino volley
+6      vladimir nikolov      m      -  cm (in)           trentino volley
+7       teodor salparov      m      -  cm (in)                cska sofia
+8      kostadin stoykov      m      -  cm (in)                   vc nova
+9        todor aleksiev      m      -  cm (in)            levski siconco
+10  plamen konstantinov      m      -  cm (in)                   iraklis
+11          ivan tassev      m      -  cm (in)                cska sofia

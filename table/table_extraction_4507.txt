@@ -1,0 +1,24 @@
+    year           gold          silver          bronze                                  venue
+0   1991   soviet union          canada   united states                     sapporo / yokohama
+1   1992         canada          russia           japan                                  tokyo
+2   1993         russia   united states          canada                               yokohama
+3   1994         canada   united states          russia                            mexico city
+4   1995         russia          canada   united states                               yokohama
+5   1996         canada   united states         finland  nelson / castlegar , british columbia
+6   1997         canada  czech republic        slovakia    jihlava / žďár nad sázavou / znojmo
+7   1998         canada  czech republic        slovakia                             bratislava
+8   1999         canada   united states  czech republic       havlíčkův brod / třebíč / znojmo
+9   2000         canada   united states  czech republic                               kežmarok
+10  2001         canada  czech republic          russia       kolín / mladá boleslav / nymburk
+11  2002         canada  czech republic          russia                     břeclav / piešťany
+12  2003  united states          russia  czech republic                     břeclav / piešťany
+13  2004         canada  czech republic          sweden           břeclav / hodonín / piešťany
+14  2005         canada  czech republic         finland                     břeclav / piešťany
+15  2006         canada   united states          russia                     břeclav / piešťany
+16  2007         sweden         finland          russia                     hodonín / piešťany
+17  2008         canada          russia          sweden                     hodonín / piešťany
+18  2009         canada          russia          sweden           břeclav / hodonín / piešťany
+19  2010         canada   united states          sweden                     břeclav / piešťany
+20  2011         canada          sweden          russia                     břeclav / piešťany
+21  2012         canada         finland          sweden                     břeclav / piešťany
+22  2013         canada   united states  czech republic                     břeclav / piešťany

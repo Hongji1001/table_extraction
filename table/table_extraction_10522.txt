@@ -1,0 +1,12 @@
+           team copa libertadores 1996 supercopa sudamericana 1996 copa conmebol 1996 recopa sudamericana 1996
+0      botafogo            round of 16             did not qualify    did not qualify                    n / a
+1    bragantino        did not qualify             did not qualify      quarterfinals                    n / a
+2   corinthians          quarterfinals             did not qualify    did not qualify                    n / a
+3      cruzeiro        did not qualify                 runner - up    did not qualify                    n / a
+4      flamengo        did not qualify               quarterfinals    did not qualify                    n / a
+5    fluminense        did not qualify             did not qualify        round of 16                    n / a
+6        grêmio             semifinals                 round of 16    did not qualify                champions
+7     palmeiras        did not qualify             did not qualify        round of 16                    n / a
+8        santos        did not qualify                  semifinals    did not qualify                    n / a
+9     são paulo        did not qualify                 round of 16    did not qualify                    n / a
+10        vasco        did not qualify             did not qualify         semifinals                    n / a

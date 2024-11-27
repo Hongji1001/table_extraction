@@ -1,0 +1,6 @@
+       gatchaman    eagle riders rank bird uniform           weapon        mecha japanese voice actor voice actor (eagle riders)
+0     ken washio   hunter harris   g1        eagle  razor boomerang     airplane         katsuji mori            richard cansino
+1    joe asakura        joe thax   g2       condor           pistol     race car          isao sasaki             bryan cranston
+2            jun    kelly jennar   g3         swan          yo - yo   motorcycle      kazuko sugiyama       heidi noelle lenhart
+3         jinpei    mickey dugan   g4      swallow             bolo   dune buggy          yoku shioya              mona marshall
+4  ryu nakanishi  ollie keeawani   g5          owl           pistol  god phoenix      shingo kanemoto               paul schrier

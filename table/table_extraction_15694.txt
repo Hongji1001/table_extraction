@@ -1,0 +1,18 @@
+                       name  egyptian premier league  egypt cup  caf champions league  total
+0             sherif ashraf                        6          0                     0      6
+1         mahmoud fathallah                        5          0                     0      5
+2              junior agogo                        3          0                     1      4
+3           abdel halim ali                        3          0                     0      3
+4                 hani said                        3          0                     0      3
+5                 shikabala                        3          0                     0      3
+6               gamal hamza                        1          0                     2      3
+7               ahmed magdy                        2          0                     0      2
+8            mostafa gaafar                        2          0                     0      2
+9                alaa kamal                        1          0                     0      1
+10            mahmoud samir                        1          0                     0      1
+11  ricardo alves fernandes                        1          0                     0      1
+12             sabry raheel                        1          0                     0      1
+13            wisam el abdy                        1          0                     0      1
+14           amr el - safty                        0          0                     1      1
+15                own goals                        1          0                     0      1
+16                   totals                       34          0                     4     38

@@ -1,0 +1,9 @@
+                              institution         location  founded                affiliation       nickname
+0           lewis university (division 2)  romeoville , il     1932   private / roman catholic         flyers
+1  loyola university chicago (division 2)     chicago , il     1870         private / catholic       ramblers
+2                    marquette university   milwaukee , wi     1881   private / roman catholic  golden eagles
+3            northern illinois university      dekalb , il     1895                     public        huskies
+4                 northwestern university    evanston , il     1851        private / methodist       wildcats
+5           robert morris chicago - black     chicago , il     1965  private / non - sectarian         eagles
+6           robert morris chicago - white     chicago , il     1965  private / non - sectarian         eagles
+7                         wheaton college     wheaton , il     1860       private / protestant        thunder

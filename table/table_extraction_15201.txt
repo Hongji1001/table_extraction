@@ -1,0 +1,9 @@
+   year           nominated work                        award (s)                      category     result
+0  1995  díky za každé nové ráno  febiofest - czech critics award                     best film        won
+1  1995  díky za každé nové ráno                      czech lions                     best film        won
+2  1995         halina pawlowská                      czech lions               best screenplay        won
+3  1995       franciszek pieczka                      czech lions    best actor in leading role  nominated
+4  1995           ivana chýlková                      czech lions  best actress in leading role        won
+5  1995         barbora hrzánová                      czech lions       best supporting actress  nominated
+6  1995          milan šteindler                      czech lions                 best director        won
+7  1995          milan šteindler    moscow iff - silver st george                 best director        won

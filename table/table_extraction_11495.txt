@@ -1,0 +1,16 @@
+    final rank  ranking round rank          nation  ranking score  round of 16
+0            1                   1     south korea           1984          NaN
+1            2                  11         germany           1893        245.0
+2            3                  12          poland           1889        233.0
+3            4                   2          turkey           1963        240.0
+4            5                   4         ukraine           1941        246.0
+5            6                   3           china           1953        222.0
+6            7                   9          sweden           1896        239.0
+7            8                   7      kazakhstan           1909        235.0
+8            9                   6           italy           1919        236.0
+9           10                   5          russia           1935        229.0
+10          11                  15    south africa           1806        228.0
+11          12                   8  chinese taipei           1906        227.0
+12          13                  10   united states           1895        226.0
+13          14                  14           japan           1827        217.0
+14          15                  13       indonesia           1854        208.0

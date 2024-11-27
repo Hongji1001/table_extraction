@@ -1,0 +1,11 @@
+                     program frequency mhz  erp kw polarisation antenna diagram around (nd) / directional (d)
+0                     rmf fm       93 , 00      60   horizontal                                            nd
+1             94 , 5 roxy fm       94 , 50  0 , 50   horizontal                                             d
+2                  eska rock       95 , 50       1   horizontal                                             d
+3    polskie radio program i       97 , 90      60   horizontal                                            nd
+4             radio rezonans       99 , 10  0 , 30   horizontal                                             d
+5  polskie radio program iii       99 , 70      60   horizontal                                            nd
+6     polskie radio katowice      102 , 20      60   horizontal                                            nd
+7               radio maryja      103 , 70       3   horizontal                                             d
+8   polskie radio program ii      105 , 60      60   horizontal                                            nd
+9                   radio em      107 , 60      60   horizontal                                            nd

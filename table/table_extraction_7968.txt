@@ -1,0 +1,21 @@
+       supplier basic shape keys (x modes) wrist pad thumb stick   backlit
+0      wolfking        flat             55        no          no       yes
+1      wolfking        flat   49 + 104 + 8        no          no       yes
+2      wolfking        flat        49 + 40        no          no       yes
+3   steelseries        flat             41        no          no       yes
+4   steelseries        flat  34 + 104 + 11        no          no       yes
+5   steelseries        flat   27 + 79 + 17       yes          no  yes / no
+6       ergodex        flat           25 +        no          no        no
+7      sharkoon        flat             62        no          no        no
+8   cyber snipa        flat             39       yes          no       yes
+9      revoltec        flat             45       yes          no        no
+10  thermaltake        flat             44       yes          no        no
+11       belkin      curved        14 (x3)       yes         yes  no / yes
+12       saitek      curved        21 (x3)       yes         yes       yes
+13       genius      curved        11 (x3)       yes         yes       yes
+14     terratec      curved         6 (x4)       yes          no        no
+15        idizm      curved             25       yes          no        no
+16    microsoft      curved    6 (x 3) + 4       yes          no        no
+17     logitech      curved        25 (x3)       yes         yes       yes
+18        razer      curved             16       yes         yes       yes
+19        razer      curved             20       yes         yes       yes

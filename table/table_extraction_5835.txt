@@ -1,0 +1,16 @@
+              driver        constructor  laps  time / retired  grid
+0       jack brabham    brabham - repco    80       2:13:21.3     2
+1        denny hulme    brabham - repco    80          + 49.5     6
+2     jackie stewart                brm    79         + 1 lap    10
+3         jo siffert  cooper - maserati    77        + 3 laps    11
+4        chris irwin                brm    76          engine     9
+5   pedro rodrã­guez  cooper - maserati    76        + 4 laps    13
+6         guy ligier  cooper - maserati    68  not classified    15
+7         chris amon            ferrari    47        throttle     7
+8         dan gurney    eagle - weslake    40       fuel leak     3
+9       jochen rindt  cooper - maserati    33          engine     8
+10     bruce mclaren    eagle - weslake    26        ignition     5
+11         jim clark       lotus - ford    23    differential     4
+12      bob anderson   brabham - climax    16        ignition    14
+13       graham hill       lotus - ford    13    differential     1
+14       mike spence                brm     9       halfshaft    12

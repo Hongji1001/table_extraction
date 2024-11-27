@@ -1,0 +1,21 @@
+    rank                                     title               studio                 director      gross
+0      1                et the extra - terrestrial            universal         steven spielberg  435110554
+1      2                                   tootsie             columbia           sydney pollack  177200000
+2      3                an officer and a gentleman  paramount / lorimar          taylor hackford  129795554
+3      4                                 rocky iii       united artists       sylvester stallone  125049125
+4      5                                  porky 's     20th century fox                bob clark  109492484
+5      6          star trek ii : the wrath of khan            paramount           nicholas meyer   79912963
+6      7                                    48 hrs            paramount              walter hill   78868508
+7      8                               poltergeist                  mgm              tobe hooper   76606280
+8      9       the best little whorehouse in texas      universal / rko            colin higgins   69701637
+9     10                                     annie    columbia / rastar              john huston   57059003
+10    11                               the verdict     20th century fox             sidney lumet   53977250
+11    12                                    gandhi             columbia     richard attenborough   52767889
+12    13                               first blood      orion / carolco             ted kotcheff   47212904
+13    14                                   the toy             columbia           richard donner   47118057
+14    15                                   firefox          warner bros           clint eastwood   46708276
+15    16                          the dark crystal            universal  jim henson and frank oz   40577001
+16    17                       conan the barbarian            universal              john milius   39565475
+17    18                the sword and the sorcerer              group 1              albert pyun   39103425
+18    19                              best friends          warner bros           norman jewison   36821203
+19    20  richard pryor : live on the sunset strip             columbia               joe layton   36299720

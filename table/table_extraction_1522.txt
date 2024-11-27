@@ -1,0 +1,13 @@
+   class          part 1          part 2              part 3            part 4           verb meaning
+0      1         dreiban           draif              dribun           dribans               to drive
+1     2a          liugan            laug               lugun            lugans  to lie (tell untruth)
+2     2b           lūkan            lauk               lukun            lukans     to close , to shut
+3     3a          bindan            band              bundun           bundans                to bind
+4     3b  hilpan wairþan       halp warþ      hulpun waurþun  hulpans waurþans      to help to become
+5      4    qiman bairan         qam bar         qēmun bērun    qumans baurans        to come to bear
+6      5    lisan saiƕan         las saƕ         lēsun sēƕun    lisans saiƕans       to gather to see
+7      6            alan              ōl                ōlun             alans    to grow , to mature
+8     7a          haitan         haihait           haihaitun           haitans                to call
+9     7b         hlaupan        haihlaup          haihlaupun          hlaupans                to leap
+10    7c    haldan fāhan  haihald faifāh  haihaldun faifāhun    haldans fāhans       to hold to catch
+11    7d     lētan saian    lailōt saisō    lailōtun saisōun     lētans saians        to allow to sow

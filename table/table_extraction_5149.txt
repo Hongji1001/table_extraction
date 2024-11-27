@@ -1,0 +1,6 @@
+          date competition                venue result    score           goals
+0   8 / 2 / 03         cup          wilderspool      w  38 - 12    deacon 7 / 7
+1   2 / 3 / 03         cup  south leeds stadium      w   82 - 0  deacon 11 / 15
+2  15 / 3 / 03         cup       halton stadium      w  38 - 28    deacon 7 / 7
+3  13 / 4 / 03         cup     mcalpine stadium      w  36 - 22    deacon 6 / 6
+4  26 / 4 / 03         cup   millennium stadium      w  22 - 20    deacon 5 / 5

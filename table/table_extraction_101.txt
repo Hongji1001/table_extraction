@@ -1,0 +1,8 @@
+   pick                                cfl team          player position        college
+0    18                   hamilton tiger - cats     shawn mayne       de    connecticut
+1    19                   winnipeg blue bombers  arjei franklin       wr        windsor
+2    20                saskatchewan roughriders     chris cowan       ol  saint mary 's
+3    21          edmonton eskimos (via calgary)   dwayne mundle       lb  west virginia
+4    22  saskatchewan roughriders (via toronto)  tristan clovis       lb       mcmaster
+5    23          winnipeg blue bombers (via bc)  dominic picard       ol          laval
+6    24                      montreal alouettes    jeff perrett       ot          tulsa

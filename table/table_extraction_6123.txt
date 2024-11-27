@@ -1,0 +1,9 @@
+       tournament              winner        runner - up              score       third place
+0    delray beach  mark philippoussis   aaron krickstein      6 - 3 , 6 - 2              none
+1          zurich  mark philippoussis         tim henman  6 - 3 , 7 - 6 (3)  goran ivanišević
+2          bogotá  mark philippoussis        carlos moyá  7 - 5 , 6 - 7 (3)     thomas muster
+3       são paulo         carlos moyá     thomas enqvist  7 - 6 (0) , 6 - 3    flávio saretta
+4  knokke - heist         carlos moyá   richard krajicek      6 - 3 , 6 - 2        guy forget
+5         chengdu         carlos moyá  younes el aynaoui  6 - 2 , 7 - 6 (6)      pete sampras
+6        santiago         carlos moyá   mariano zabaleta      6 - 3 , 6 - 4      marcelo ríos
+7          london          tim henman     thomas enqvist  6 - 3 , 7 - 6 (2)              none

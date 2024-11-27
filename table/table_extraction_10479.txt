@@ -1,0 +1,12 @@
+                 paul mccartney                  stuart         mcintosh whitten         linda mccartney
+0                          bass         electric guitar  electric guitar   drums              tambourine
+1                          bass         electric guitar  electric guitar   drums               keyboards
+2                          bass         acoustic guitar  electric guitar   drums               keyboards
+3                         piano                    bass  electric guitar   drums       keyboards or drum
+4                         piano                    bass  electric guitar   drums               keyboards
+5               electric guitar                    bass  electric guitar   drums               keyboards
+6               acoustic guitar                    bass  electric guitar   drums               keyboards
+7               acoustic guitar                    none             none    none                    none
+8                         piano                    bass  electric guitar   drums  tambourine / keyboards
+9                          none                    bass  electric guitar   drums               keyboards
+10  keyboards / electric guitar  bass / electric guitar  electric guitar   drums               keyboards

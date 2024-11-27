@@ -1,0 +1,8 @@
+           date opponent  score                   loss     record                    arena
+0  september 13    kings  5 - 4  levasseur (0 - 1 - 0)  0 - 1 - 0             honda center
+1  september 15    kings  3 - 2  labarbera (0 - 1 - 0)  1 - 1 - 0           staples center
+2  september 16  coyotes  2 - 1     hiller (1 - 0 - 1)  1 - 1 - 1             honda center
+3  september 17  canucks  3 - 2  macintyre (0 - 0 - 1)  2 - 1 - 1     general motors place
+4  september 19   sharks  1 - 0     hiller (1 - 1 - 1)  2 - 2 - 1             honda center
+5  september 21   sharks  3 - 1  bryzgalov (1 - 1 - 0)  2 - 3 - 1  hp pavilion at san jose
+6  september 23  canucks  5 - 0    sanford (1 - 1 - 0)  3 - 3 - 1             honda center

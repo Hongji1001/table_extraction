@@ -1,0 +1,7 @@
+           tournament   2009   2010   2011   2012
+0     australian open      a      a      a      a
+1         french open      a      a      a      a
+2           wimbledon     2r      a     1r     1r
+3             us open      a      a      a      a
+4          win - loss  1 - 1  0 - 0  0 - 1  0 - 1
+5  year - end ranking    362    328    267   1176

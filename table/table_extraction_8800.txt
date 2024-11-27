@@ -1,0 +1,19 @@
+    year                    competition                    venue   position   event
+0   2000     world junior championships        santiago de chile        3rd   800 m
+1   2001  european junior championships         grosseto , italy        1st   800 m
+2   2002     world junior championships       kingston , jamaica        2nd   800 m
+3   2003     european u23 championships       bydgoszcz , poland        2nd   800 m
+4   2003            world championships           paris , france  10th (sf)   800 m
+5   2004                  olympic games          athens , greece  19th (sf)   800 m
+6   2005     european u23 championships         erfurt , germany        5th   800 m
+7   2005            world championships       helsinki , finland  12th (sf)   800 m
+8   2006         european championships      gothenburg , sweden  10th (sf)   800 m
+9   2007            world championships            osaka , japan   7th (sf)   800 m
+10  2007          world athletics final      stuttgart , germany        4th   800 m
+11  2008                  olympic games          beijing , china  11th (sf)   800 m
+12  2008          world athletics final      stuttgart , germany        5th   800 m
+13  2009            world championships         berlin , germany  17th (sf)   800 m
+14  2010         european championships        barcelona , spain        4th   800 m
+15  2011            world championships      daegu , south korea  20th (sf)   800 m
+16  2012         european championships       helsinki , finland        6th   800 m
+17  2012                  olympic games  london , united kingdom        8th  1500 m

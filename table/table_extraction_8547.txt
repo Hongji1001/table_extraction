@@ -1,0 +1,36 @@
+                   island               location  area ( ha )  population  height (m)
+0                   balta            north isles           80           0          44
+1                   bigga             yell sound           78           0          34
+2                 bressay        east of lerwick         2805         368         226
+3            brother isle             yell sound           40           0          25
+4                  bruray           out skerries           55          24          53
+5              east burra      scalloway islands          515          76          81
+6               fair isle                outlier          768          68         217
+7                  fetlar            north isles         4078          61         158
+8                   foula                outlier         1265          38         418
+9                hascosay  colgrave sound , yell          275           0          30
+10               hildasay      scalloway islands          108           0          32
+11                 housay           out skerries          163          50          53
+12                  lamba             yell sound           43           0          35
+13  linga near muckle roe         swarbacks minn           70           0          69
+14                  linga  bluemull sound , yell           45           0          26
+15               mainland               mainland        96879       18765         450
+16                  mousa       east of mainland          180           0          55
+17             muckle roe         swarbacks minn         1773         130         267
+18                   noss                bressay          343           0         181
+19                   oxna      scalloway islands           68           0          38
+20                   papa      scalloway islands           59           0          32
+21            papa little         swarbacks minn          226           0          82
+22             papa stour          st magnus bay          828          15          87
+23               samphrey             yell sound           66           0          29
+24            south havra      scalloway islands           59           0          42
+25                trondra      scalloway islands          275         135          60
+26                   unst            north isles        12068         632         284
+27     uyea , northmavine         north mainland           45           0          70
+28            uyea , unst            north isles          205           0          50
+29                  vaila            gruting voe          327           2          95
+30               vementry         swarbacks minn          370           0          90
+31             west burra      scalloway islands          743         776          65
+32             west linga                whalsay          125           0          52
+33                whalsay                whalsay         1970        1061         119
+34                   yell            north isles        21211         966         210

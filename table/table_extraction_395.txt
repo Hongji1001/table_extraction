@@ -1,0 +1,27 @@
+    no in series  no in season                                            title     directed by                                     written by    original air date  production code
+0             33             1                           wings over hooterville  richard l bare                 jay sommers and dick chevillat  september 14 , 1966               33
+1             34             2                         water , water everywhere  richard l bare                 jay sommers and dick chevillat  september 21 , 1966               35
+2             37             5                                the ugly duckling  richard l bare                 jay sommers and dick chevillat    october 19 , 1966               34
+3             38             6                one of our assemblymen is missing  richard l bare                 jay sommers and dick chevillat    october 26 , 1966               38
+4             39             7                                the good old days  richard l bare                 jay sommers and dick chevillat    november 2 , 1966               39
+5             40             8              eb discovers the birds and the bees  richard l bare                 jay sommers and dick chevillat    november 9 , 1966               40
+6             41             9                            the hooterville image  richard l bare                 jay sommers and dick chevillat   november 16 , 1966               41
+7             42            10                      you ought to be in pictures  richard l bare                 jay sommers and dick chevillat   november 23 , 1966               42
+8             43            11                      a home isn't built in a day  richard l bare  dick chevillat & elon packard and jay sommers   november 30 , 1966               43
+9             44            12                            a square is not round  richard l bare                                 elroy schwartz   december 14 , 1966               44
+10            45            13                     an old - fashioned christmas  richard l bare                 jay sommers and buddy atkinson   december 21 , 1966               46
+11            46            14                    never trust a little old lady  richard l bare   jay sommers & dick chevillat and al schwartz   december 28 , 1966               48
+12            47            15                                      school days  richard l bare                 jay sommers and dick chevillat     january 4 , 1967               49
+13            48            16                                        his honor  richard l bare                 dick chevillat and al schwartz    january 11 , 1967               47
+14            49            17                 it 's so peaceful in the country  richard l bare                 david braverman and bob marcus    january 18 , 1967               45
+15            50            18                             exodus to bleedswell  richard l bare                 jay sommers and dick chevillat    january 25 , 1967               50
+16            51            19                         it 's human to be humane  richard l bare                        sam locke and joel rapp    february 1 , 1967               51
+17            52            20             never take your wife to a convention  richard l bare                 jay sommers and dick chevillat    february 8 , 1967               52
+18            53            21                                 the computer age  richard l bare                 jay sommers and dick chevillat   february 15 , 1967               54
+19            54            22  never start talking unless your voice comes out  richard l bare                 jay sommers and dick chevillat   february 22 , 1967               53
+20            55            23                          the beverly hillbillies  richard l bare                 jay sommers and dick chevillat       march 1 , 1967               55
+21            56            24                         lisa 's vegetable garden  richard l bare                   jay sommers & dick chevillat       march 8 , 1967               56
+22            58            26                          getting even with haney  richard l bare                 jay sommers and dick chevillat      march 22 , 1967               59
+23            59            27                               kimball gets fired  richard l bare                 jay sommers and dick chevillat      march 29 , 1967               60
+24            60            28                            the vulgar ring story  richard l bare                 jay sommers and dick chevillat      april 12 , 1967               58
+25            61            29                                      who 's lisa  richard l bare                 jay sommers and dick chevillat      april 19 , 1967               61

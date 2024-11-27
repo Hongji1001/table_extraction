@@ -1,0 +1,32 @@
+                                name                                listed                        location       county                           type
+0                beaver creek bridge                        1997 - 02 - 27                          finley       steele            pratt through truss
+1                   caledonia bridge                        1997 - 02 - 27                       caledonia       traill            pratt through truss
+2                 cedar creek bridge                        1997 - 02 - 27                          haynes        adams            pratt through truss
+3          colton 's crossing bridge                        1997 - 02 - 27                          lisbon       ransom            pratt through truss
+4                     crystal bridge                        1997 - 05 - 30                         crystal      pembina       concrete t - beam bridge
+5               eastwood park bridge                        1975 - 04 - 21                           minot         ward                cantilever type
+6                     elliott bridge                        1997 - 02 - 27                          towner      mchenry            pratt through truss
+7               fairview lift bridge                        1997 - 03 - 14                      cartwright     mckenzie           railroad lift bridge
+8                  grace city bridge                        1997 - 02 - 27                      grace city       foster            pratt through truss
+9   great northern railway underpass                        1997 - 02 - 27                         stanley    mountrail    concrete deck girder bridge
+10   knife river bridge near stanton                        2001 - 04 - 25                         stanton       mercer            pratt through truss
+11                     lisbon bridge                        1997 - 02 - 27                          lisbon       ransom   steel cantilever bean bridge
+12      midland continental overpass                        1997 - 02 - 27                       jamestown     stutsman   steel cantilever beam bridge
+13                     midway bridge                        1997 - 02 - 27                       johnstown  grand forks         warren bedstead bridge
+14                    nesheim bridge                        1997 - 02 - 27                         mcville       nelson            pratt through truss
+15               new rockford bridge                        1997 - 03 - 13  new rockford closed to traffic         eddy    warren through truss bridge
+16                  northwood bridge                        1997 - 02 - 27                       northwood  grand forks               pratt pony truss
+17                     norway bridge                        1997 - 02 - 27                        mayville       traill               pratt pony truss
+18                  ost valle bridge                        1997 - 02 - 27                        thompson  grand forks            pratt through truss
+19                    romness bridge                        1997 - 02 - 27                     cooperstown       griggs            pratt through truss
+20            sorlie memorial bridge                        1999 - 07 - 19                     grand forks  grand forks    parker through truss bridge
+21                     viking bridge                        1997 - 02 - 27                        portland       traill            pratt through truss
+22              west antelope bridge                        1997 - 02 - 27                           flora       benson        pratt pony truss bridge
+23                  west park bridge                        1997 - 02 - 27                     valley city       barnes     concrete false arch bridge
+24                  westgaard bridge                        1997 - 02 - 27                        voltaire      mchenry       pratt pony through truss
+25                  blanchard bridge  1997 - 02 - 27 removed 2009 - 3 - 25                       blanchard       traill            pratt through truss
+26                goose river bridge  1997 - 02 - 27 removed 2009 - 3 - 25                       hillsboro       traill            pratt through truss
+27           liberty memorial bridge  1997 - 03 - 11 removed 2009 - 3 - 25                        bismarck     burleigh  warren - turner through truss
+28             porter elliott bridge  1997 - 02 - 27 removed 2009 - 3 - 25                       hillsboro       traill           warren through truss
+29              portland park bridge                removed 2004 - 09 - 23                        portland       traill           steel through girder
+30               rainbow arch bridge                removed 2004 - 09 - 23                     valley city       barnes             marsh rainbow arch

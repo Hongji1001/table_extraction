@@ -1,0 +1,29 @@
+         date   opponent       score                loss attendance   record
+0    august 1    dodgers       9 - 6    thompson (2 - 2)      48071  49 - 40
+1    august 2    dodgers      10 - 7        ritz (9 - 6)      48063  49 - 41
+2    august 3    dodgers       9 - 4   martínez (11 - 7)      48024  50 - 41
+3    august 4     padres     14 - 12     berumen (2 - 3)      48125  51 - 41
+4    august 5     padres       7 - 3       ashby (7 - 6)      48043  52 - 41
+5    august 6     padres      16 - 8    thompson (2 - 3)      48157  52 - 42
+6    august 8    marlins  5 - 4 (13)      bailey (3 - 5)      31220  52 - 43
+7    august 9    marlins       2 - 1        ritz (9 - 7)      31805  52 - 44
+8   august 10    marlins       3 - 2        reed (2 - 2)      28009  52 - 45
+9   august 11     braves       5 - 3     reynoso (4 - 4)      47408  52 - 46
+10  august 12     braves      16 - 4     mercker (6 - 7)      48777  53 - 46
+11  august 13     braves       3 - 2      holmes (5 - 1)      43279  53 - 47
+12  august 14       reds       4 - 0        ritz (9 - 8)      23945  53 - 48
+13  august 15       reds      11 - 3       rekar (3 - 1)      24506  53 - 49
+14  august 16       reds       6 - 4     smiley (11 - 2)      25024  54 - 49
+15  august 17       cubs      12 - 5    navarro (10 - 5)      48071  55 - 49
+16  august 18       cubs      26 - 7  saberhagen (6 - 6)      48082  55 - 50
+17  august 19       cubs       6 - 5        ritz (9 - 9)     48020t  55 - 51
+18  august 20       cubs       4 - 2     wendell (2 - 1)      50087  56 - 51
+19  august 22    pirates      10 - 1     reynoso (5 - 5)      48083  56 - 52
+20  august 23    pirates       9 - 5     neagle (11 - 6)      48027  57 - 52
+21  august 24    pirates       8 - 6     wagner (2 - 12)      48041  58 - 52
+22  august 25  cardinals       8 - 3       rekar (3 - 2)      48012  58 - 53
+23  august 26  cardinals       5 - 4      ruffin (0 - 1)      48127  58 - 54
+24  august 27  cardinals      10 - 5     reynoso (5 - 6)      48043  58 - 55
+25  august 28    pirates       6 - 3      powell (0 - 2)       8242  59 - 55
+26  august 29    pirates       4 - 0       ritz (9 - 10)       7634  59 - 56
+27  august 30    pirates       6 - 0      ericks (3 - 7)       8120  60 - 56

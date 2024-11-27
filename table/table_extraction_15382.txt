@@ -1,0 +1,13 @@
+                          shooter         event              rank points             score points                    total
+0      georgios achilleos ( cyp )      wcf 2007       defending champion       defending champion       defending champion
+1         vincent hancock ( usa )    og beijing    olympic gold medalist    olympic gold medalist    olympic gold medalist
+2            tore brovold ( nor )    og beijing  olympic silver medalist  olympic silver medalist  olympic silver medalist
+3          anthony terras ( fra )    og beijing  olympic bronze medalist  olympic bronze medalist  olympic bronze medalist
+4   ariel mauricio flores ( mex )  wc kerrville                       15                       12                       27
+5               qu ridong ( chn )    wc beijing                       15                       10                       25
+6          andrea benelli ( ita )   wc belgrade                       10                       13                       23
+7     konstantin tsuranov ( rus )    wc beijing                       10                       10                       20
+8              jan sychra ( cze )   wc belgrade                        5                       13                       18
+9         valerio luchini ( ita )  wc kerrville                        8                       10                       18
+10          leos hlavacek ( cze )       wc suhl                        5                       11                       16
+11     abdullah alrashidi ( kuw )   wc belgrade                        3                       12                       15

@@ -1,0 +1,14 @@
+                   name    nationality position  appearances  starts  minutes  goals
+0         lori chalupny  united states       mf            1       1       90      0
+1        amanda cinalli  united states       fw            1       1       90      0
+2            niki cross  united states       df            1       0       30      0
+3        tina ellertson  united states       df            1       1       90      0
+4      kendall fletcher  united states       df            1       1       90      0
+5   stephanie logterman  united states       df            1       0       26      0
+6           kia mcneill  united states       df            1       1       64      0
+7      ashlee pistorius  united states       fw            1       0       19      0
+8             hope solo  united states       gk            1       1       90      0
+9      melissa tancredi         canada       fw            1       1       90      0
+10          sarah walsh      australia       fw            1       1       90      0
+11          elise weber  united states       df            1       1       90      0
+12       christie welsh  united states       fw            1       1       71      0

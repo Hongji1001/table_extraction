@@ -1,0 +1,10 @@
+   pick                  cfl team                   player position            college
+0     1     hamilton tiger - cats              wayne smith       ol  appalachian state
+1     2          ottawa renegades             ibrahim khan       ol       simon fraser
+2     3          ottawa renegades               david azzi       wr             ottawa
+3     4         toronto argonauts               mark moroz       ol        wake forest
+4     5                  bc lions                oj atogwe        s           stanford
+5     6  saskatchewan roughriders         ducamel augustin       fb          villanova
+6     7         toronto argonauts  jean - fredric tremblay       wr              laval
+7     8        montreal alouettes            alain kashama       dl           michigan
+8     9          edmonton eskimos       amarpreet sanghera       ol   british columbia

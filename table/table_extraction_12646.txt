@@ -1,0 +1,14 @@
+    round  pick          player          position                  college
+0       1    16     jim ritcher             guard     north carolina state
+1       2    29      joe cribbs      running back                   auburn
+2       2    37    gene bradley       quarterback           arkansas state
+3       3    67    mark brammer         tight end           michigan state
+4       3    71  john schmeding             guard           boston college
+5       4    93    ervin parker        linebacker        south carolina st
+6       5   119     jeff pyburn    defensive back                  georgia
+7       5   129       keith lee    defensive back              colorado st
+8       8   202    todd krueger       quarterback        northern michigan
+9       9   231      kent davis    defensive back    southeast missouri st
+10     10   259      greg cater            punter  tennessee - chattanooga
+11     11   286      joe gordon  defensive tackle             grambling st
+12     12   316    roger lapham         tight end                    maine

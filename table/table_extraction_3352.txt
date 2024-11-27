@@ -1,0 +1,21 @@
+       common name                genus & species ncbi accession number  length (aa)  % identity to c7orf38  % similarity to c7orf38
+0            chimp                pan troglodytes        xp_001139775.1          573                     99                       99
+1   monkey macaque            macaca fascicularis            bae01234.1          573                     96                       98
+2            horse                 equus caballus        xp_001915370.1          573                     81                       84
+3              pig                     sus scrofa          xp_001929194         1323                     39                       61
+4              cow                     bos taurus           xp_875656.2         1320                     38                       61
+5            mouse                   mus musculus            cam15594.1         1157                     37                       60
+6     domestic dog         canis lupus familiaris            abf22701.1          609                     37                       60
+7              rat                  rattus rattus        np_001102151.1         1249                     37                       59
+8          opossum          monodelphis domestica        xp_001372983.1          608                     37                       59
+9          chicken                  gallus gallus           xp_424913.2          641                     37                       58
+10            frog  xenopus (silurana) tropicalis            abf20551.1          656                     37                       56
+11      zebra fish                    danio rerio        xp_001340213.1          609                     37                       56
+12       pea aphid            acyrthosiphon pisum        xp_001943527.1          659                     36                       54
+13          beatle            tribolium castaneum            abf20545.1          599                     35                       55
+14      sea squirt             ciona intestinalis        xp_002119512.1          524                     34                       52
+15           hydra           hydra magnipapillata        xp_002165429.1          572                     29                       52
+16     puffer fish         tetraodon nigroviridis            caf95678.1          539                     28                       47
+17        mosquito              anopheles gambiae           xp_558399.5          591                     28                       47
+18      sea urchin  strongylocentrotus purpuratus            abf20546.1          625                     27                       47
+19     grass plant                sorghum bicolor        xp_002439156.1          524                     25                       40

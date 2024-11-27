@@ -1,0 +1,8 @@
+  call sign  frequency mhz          city of license  erp w class fcc info
+0    w228by           93.5     allapattah , florida    120     d      fcc
+1    w298ak          107.5    fort pierce , florida     27     d      fcc
+2    w280du          103.9     greenacres , florida     10     d      fcc
+3    w263bb          100.5     okeechobee , florida     50     d      fcc
+4   w294 am          106.7      tradition , florida    170     d      fcc
+5    w227bt           93.3  port st lucie , florida     13     d      fcc
+6    w244bd           96.7         stuart , florida    800     d      fcc

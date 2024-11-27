@@ -1,0 +1,8 @@
+                         name       city years as tallest  metres  feet  floors
+0                   the shard     london   2011 - present     306  1004      87
+1           commerzbank tower  frankfurt      1997 - 2011     259   850      56
+2                   messeturm  frankfurt      1990 - 1997     257   843      55
+3           tour montparnasse      paris      1972 - 1990     210   689      59
+4  tour du midi / zuidertoren   brussels      1966 - 1972     150   492      38
+5               pirelli tower      milan      1958 - 1966     127   417      32
+6                 torre breda      milan      1957 - 1958     117   384      30

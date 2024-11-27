@@ -1,0 +1,28 @@
+       gzip     bzip2  lha / lzh  stuffit stuffit x  iso / cd image
+0       yes       yes         no       no        no              no
+1       yes       yes         no       no        no         unknown
+2        no        no         no       no        no              no
+3       yes       yes        yes  unknown   unknown         unknown
+4       yes       yes         no       no        no              no
+5        no        no         no       no        no              no
+6       yes       yes         no       no        no             yes
+7        no        no         no       no        no              no
+8       yes       yes        yes  unknown   unknown              no
+9       yes        no        yes       no        no         unknown
+10  unknown   unknown    unknown  unknown   unknown         unknown
+11      yes       yes         no       no        no              no
+12      yes       yes         no       no        no              no
+13       no        no         no       no        no              no
+14      yes       yes        yes       no        no              no
+15       no        no         no       no        no         unknown
+16      yes       yes         no       no        no              no
+17      yes       yes         no       no        no         unknown
+18      yes       yes         no       no        no              no
+19      yes       yes        yes      yes       yes         unknown
+20      yes       yes        yes       no        no         unknown
+21      yes       yes        yes       no        no             yes
+22       no        no         no       no        no              no
+23       no        no        yes       no        no              no
+24      yes       yes        yes  unknown   unknown         unknown
+25      yes       yes        yes       no        no              no
+26       gz  bz / bz2  lha / lzh      sit      sitx  iso / cd image

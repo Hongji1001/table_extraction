@@ -1,0 +1,11 @@
+             player                       nationality          position       from       school / country
+0      devin ebanks                     united states           forward       2010          west virginia
+1     james edwards                     united states  forward / center  1977 1992             washington
+2       johnny egan                     united states             guard       1968             providence
+3      ray ellefson                     united states            center       1948         west texas a&m
+4         boo ellis                     united states           forward       1958     niagara university
+5       leroy ellis                     united states  forward / center  1962 1971  st john 's university
+6          bo erias                     united states           forward       1957     niagara university
+7    keith erickson                     united states   guard / forward       1968                   ucla
+8     maurice evans                     united states             guard       2006                  texas
+9  christian eyenga  democratic republic of the congo           forward       2012               dr congo

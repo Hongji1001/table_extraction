@@ -1,0 +1,13 @@
+    year  class            team  points  wins
+0   1979  350cc          yamaha       3     0
+1   1980  250cc          yamaha       4     0
+2   1982  250cc          yamaha       4     0
+3   1982  500cc          suzuki       0     0
+4   1983  250cc          yamaha      14     0
+5   1984  500cc           honda      14     0
+6   1985  250cc  romer - juchem      29     0
+7   1986  250cc      hb - honda      10     0
+8   1987  250cc      hb - honda     108     1
+9   1988  250cc      hb - honda     158     0
+10  1989  250cc      hb - honda     190     2
+11  1990  250cc      hb - honda      52     0

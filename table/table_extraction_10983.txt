@@ -1,0 +1,13 @@
+                                           company           type         principal activities incorporated in group 's equity shareholding
+0                  malaysia airlines cargo sdn bhd     subsidiary                        cargo        malaysia                         100%
+1                      ge engine services malaysia  joint venture              engine overhaul        malaysia                          30%
+2                                 maswings sdn bhd     subsidiary                      airline        malaysia                         100%
+3                                  firefly sdn bhd     subsidiary                      airline        malaysia                         100%
+4                     mas aerotechnologies sdn bhd     subsidiary                          mro        malaysia                         100%
+5                      mas golden holidays sdn bhd     subsidiary                tour operator        malaysia                         100%
+6          malaysian aerospace engineering sdn bhd     subsidiary                  engineering        malaysia                         100%
+7                              mas academy sdn bhd     subsidiary                flight school        malaysia                         100%
+8   abacus distribution systems (malaysia) sdn bhd     subsidiary  computer reservation system        malaysia                          80%
+9                  taj madras air catering limited      associate                     catering           india                          20%
+10                  mas catering (sarawak) sdn bhd     subsidiary                     catering        malaysia                          60%
+11                                   lsg sky chefs      associate              holding company        malaysia                          30%

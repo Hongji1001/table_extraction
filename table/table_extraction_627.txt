@@ -1,0 +1,6 @@
+           district       incumbent       party  first elected        result                    candidates
+0   massachusetts 1    silvio conte  republican           1958  re - elected    silvio conte (r) unopposed
+1   massachusetts 2   edward boland  democratic           1952  re - elected   edward boland (d) unopposed
+2   massachusetts 3  philip philbin  democratic           1942  re - elected  philip philbin (d) unopposed
+3   massachusetts 8     tip o'neill  democratic           1952  re - elected     tip o'neill (d) unopposed
+4  massachusetts 11   james a burke  democratic           1958  re - elected   james a burke (d) unopposed

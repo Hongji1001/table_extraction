@@ -1,0 +1,24 @@
+    year         track              125 cc             250 cc  report
+0   1990    anderstorp          hans spaan      carlos cardús  report
+1   1989    anderstorp       àlex crivillé          sito pons  report
+2   1988    anderstorp      jorge martínez          sito pons  report
+3   1987    anderstorp      fausto gresini         anton mang  report
+4   1986    anderstorp      fausto gresini      carlos lavado  report
+5   1985    anderstorp      august auinger         anton mang  report
+6   1984    anderstorp      fausto gresini     manfred herweh  report
+7   year         track              125 cc             250 cc  report
+8   1983    anderstorp    bruno kneubühler   christian sarron  report
+9   1982    anderstorp      iván palazzese    roland freymond  report
+10  1981    anderstorp       ricardo tormo         anton mang  report
+11  1979     karlskoga  pier paolo bianchi     graziano rossi  report
+12  1978     karlskoga  pier paolo bianchi     gregg hansford  report
+13  1977    anderstorp         angel nieto         mick grant  report
+14  1976    anderstorp  pier paolo bianchi  takazumi katayama  report
+15  1975    anderstorp        paolo pileri       walter villa  report
+16  1974    anderstorp      kent andersson  takazumi katayama  report
+17  1973    anderstorp       börje jansson       dieter braun  report
+18  1972    anderstorp         angel nieto          rod gould  report
+19  1971    anderstorp        barry sheene          rod gould  report
+20  1961  kristianstad        luigi taveri      mike hailwood  report
+21  1959  kristianstad   tarquinio provini       gary hocking  report
+22  1958      hedemora    alberto gandossi       horst fügner  report

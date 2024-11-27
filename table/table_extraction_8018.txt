@@ -1,0 +1,10 @@
+   year  class       team  points  rank  wins
+0  1949  125cc    mondial      27   1st     2
+1  1949  500cc     gilera      28   2nd     2
+2  1950  500cc     gilera      12   4th     0
+3  1951  125cc    mondial       3  10th     0
+4  1951  500cc     gilera      10   5th     0
+5  1952  500cc     gilera      12   8th     0
+6  1953  500cc     gilera       2  15th     0
+7  1954  500cc  mv agusta       4  13th     0
+8  1955  500cc  mv agusta       2  20th     0

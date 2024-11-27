@@ -1,0 +1,18 @@
+             wind farm                    scheduled  capacity (mw)  turbines                type          location
+0              codling                      unknown         1100.0       220             unknown    county wicklow
+1          carrowleagh                         2012           36.8        16  enercon e - 70 2.3       county cork
+2         dublin array                         2015          364.0       145             unknown     county dublin
+3             glenmore                  2009 summer           30.0        10          vestas v90      county clare
+4             glenough                  2010 winter           32.5        13    nordex n80 / n90  county tipperary
+5            gortahile                  2010 autumn           20.0         8          nordex n90      county laois
+6         grouse lodge                  2011 summer           20.0         8          nordex n90  county tipperary
+7           moneypoint                      unknown           22.5         9             unknown      county clare
+8         mount callan                      unknown           90.0        30                3 mw      county clare
+9                oriel                         2013          330.0        55             unknown      county louth
+10         skerd rocks                      unknown          100.0        20                5 mw     county galway
+11              shragh  planning submitted oct 2011          135.0        45  enercon e82 3.0 mw      county clare
+12         garracummer                         2012           42.5        17   nordex n90 2.5 mw  county tipperary
+13        knockacummer                         2013           87.5        35   nordex n90 2.5 mw       county cork
+14           monaincha                         2013           36.0        15  nordex n117 2.4 mw  county tipperary
+15         gibbet hill                         2013           15.0         6   nordex n90 2.5 mw    county wexford
+16  glenough extension                         2013            2.5         1   nordex n90 2.5 mw  county tipperary

@@ -1,0 +1,13 @@
+                player       career  goals  caps  average
+0    andriy shevchenko  1995 - 2012     48   111    0.432
+1        serhiy rebrov  1992 - 2006     15    75    0.200
+2    andriy yarmolenko       2009 -     13    36    0.361
+3          oleh husyev       2003 -     13    88    0.148
+4     serhiy nazarenko       2003 -     12    56    0.214
+5     yevhen seleznyov       2008 -      9    40    0.225
+6       andriy vorobey  2000 - 2008      9    68    0.132
+7         andriy husin  1993 - 2006      9    71    0.127
+8    tymerlan huseynov  1993 - 1997      8    14    0.571
+9   yevhen konoplyanka       2010 -      8    33    0.242
+10     artem milevskiy       2006 -      8    50    0.160
+11      andriy voronin  2002 - 2012      8    74    0.108

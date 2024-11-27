@@ -1,0 +1,16 @@
+                  region public network own / community generator solar panel other source  none
+0   arica and parinacota          98.2%                      0.8%        0.1%         0.5%  0.5%
+1               tarapacá          98.5%                      0.9%        0.0%         0.1%  0.4%
+2            antofagasta          98.3%                      0.6%        0.0%         0.1%  0.9%
+3                atacama          98.0%                      0.9%        0.3%         0.1%  0.7%
+4               coquimbo          98.7%                      0.1%        0.5%         0.1%  0.5%
+5             valparaíso          99.1%                      0.0%        0.0%         0.7%  0.1%
+6               santiago          99.9%                      0.0%        0.0%         0.1%  0.0%
+7              o'higgins          99.4%                      0.1%        0.0%         0.2%  0.3%
+8                  maule          99.3%                      0.1%        0.0%         0.1%  0.5%
+9                 biobío          99.3%                      0.1%        0.0%         0.3%  0.4%
+10             araucanía          98.2%                      0.2%        0.0%         0.4%  1.2%
+11              los ríos          99.1%                      0.1%        0.0%         0.1%  0.7%
+12             los lagos          97.6%                      1.3%        0.0%         0.4%  0.6%
+13                 aisén          98.5%                      0.4%        0.1%         0.2%  0.8%
+14            magallanes          99.5%                      0.3%        0.0%         0.1%  0.1%

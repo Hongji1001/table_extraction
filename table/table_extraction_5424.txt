@@ -1,0 +1,7 @@
+             type of sign        shape     border background colour text / symbol
+0                 warning   triangular        red            yellow         black
+1             prohibition     circular        red            yellow         black
+2  mandatory instructions     circular      white              blue         white
+3           supplementary  rectangular  white red       blue yellow   white black
+4  directions , sometimes  rectangular      black            yellow         black
+5             information  rectangular      white              blue         white

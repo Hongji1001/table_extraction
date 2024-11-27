@@ -1,0 +1,8 @@
+                           office    democratic ticket      republican ticket american labor ticket    socialist ticket
+0                        governor     herbert h lehman     william f bleakley      herbert h lehman     harry w laidler
+1             lieutenant governor       m william bray      ralph k robertson                (none)       herman j hahn
+2                     comptroller    morris s tremaine             john a may                (none)    coleman b cheney
+3                attorney general  john j bennett , jr       nathan d perlman                (none)        edward marks
+4   judge of the court of appeals      harlan w rippey           james p hill                (none)   darwin j meserole
+5  us representative - at - large    matthew j merritt  anthony j contiguglia                (none)  frank r crosswaith
+6  us representative - at - large       caroline o'day        natalie f couch                (none)  edna mitchell blue

@@ -1,0 +1,24 @@
+            sport                              event             nation gold silver bronze total
+0        swimming            women 's 50 m freestyle       brazil (bra)  ↓ 1      ↔    ↑ 1     ↔
+1        swimming            women 's 50 m freestyle    venezuela (ven)  ↑ 1    ↓ 1      ↔     ↔
+2        swimming            women 's 50 m freestyle  puerto rico (pur)    ↔    ↑ 1    ↓ 1     ↔
+3        swimming           women 's 100 m freestyle       brazil (bra)  ↓ 1    ↑ 1    ↓ 1   ↓ 1
+4        swimming           women 's 100 m freestyle    venezuela (ven)  ↑ 1    ↓ 1      ↔     ↔
+5        swimming           women 's 100 m freestyle  puerto rico (pur)    ↔      ↔    ↑ 1   ↑ 1
+6        swimming         women 's 4x100 m freestyle       brazil (bra)    ↔    ↓ 1      ↔   ↓ 1
+7        swimming         women 's 4x100 m freestyle       canada (can)    ↔    ↑ 1    ↓ 1     ↔
+8        swimming         women 's 4x100 m freestyle    venezuela (ven)    ↔      ↔    ↑ 1   ↑ 1
+9        swimming      women 's 4x100 m medley relay       brazil (bra)    ↔      ↔    ↓ 1   ↓ 1
+10       swimming      women 's 4x100 m medley relay      bahamas (bah)    ↔      ↔    ↑ 1   ↑ 1
+11        cycling  men 's road individual time trial     colombia (col)    ↔    ↓ 1      ↔   ↓ 1
+12        cycling  men 's road individual time trial    argentina (arg)    ↔    ↑ 1    ↓ 1     ↔
+13        cycling  men 's road individual time trial       canada (can)    ↔      ↔    ↑ 1   ↑ 1
+14  weightlifting             men 's 105 kg category       brazil (bra)    ↔      ↔    ↓ 1   ↓ 1
+15  weightlifting             men 's 105 kg category    argentina (arg)    ↔      ↔    ↑ 1   ↑ 1
+16          total                              total    argentina (arg)    ↔    ↑ 1      ↔   ↑ 1
+17          total                              total      bahamas (bah)    ↔      ↔    ↑ 1   ↑ 1
+18          total                              total       brazil (bra)  ↓ 2      ↔    ↓ 2   ↓ 4
+19          total                              total       canada (can)    ↔    ↑ 1      ↔   ↑ 1
+20          total                              total     colombia (col)    ↔    ↓ 1      ↔   ↓ 1
+21          total                              total  puerto rico (pur)    ↔    ↑ 1      ↔   ↑ 1
+22          total                              total    venezuela (ven)  ↑ 2    ↓ 2    ↑ 1   ↑ 1

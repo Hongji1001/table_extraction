@@ -1,0 +1,35 @@
+                            team                               make                          driver                       sponsor          car owner
+0               arrington racing                  chrysler imperial                 buddy arrington              arrington racing    buddy arrington
+1                benfield racing                        buick regal                     joe ruttman                  levi garrett       ron benfield
+2                blue max racing                 pontiac grand prix                    tim richmond                 old milwaukee     raymond beadle
+3           bobby hawkins racing              chevrolet monte carlo                   david pearson              chattanooga chew      bobby hawkins
+4          bud moore engineering                   ford thunderbird                  dale earnhardt                wrangler jeans          bud moore
+5           cliff stewart racing                 pontiac grand prix                    geoff bodine                      gatorade      cliff stewart
+6             digard motorsports                        buick regal                   bobby allison               miller american       bill gardner
+7                donlavey racing                   ford thunderbird                     dick brooks          chameleon sunglasses     junie donlavey
+8               ellington racing              chevrolet monte carlo                      lake speed         uno / bull frog knits     hoss ellington
+9                   hagan racing              chevrolet monte carlo                   terry labonte                     budweiser        billy hagan
+10             hamby motorsports                 pontiac grand prix             sterling marlin (r)         hesco exhaust systems        roger hamby
+11         henderson motorsports  chevrolet monte carlo buick regal              ronnie hopkins (r)              food country usa  charlie henderson
+12                 hillin racing                        buick regal             bobby hillin jr (r)          trap rock industries    bobby hillin sr
+13                 hylton racing              chevrolet monte carlo  trevor boys (r) / james hylton               hylton - mccaig       james hylton
+14              jim stacy racing                        buick regal                 morgan shepherd           acm equipment sales          jim stacy
+15           johnny hayes racing  buick regal chevrolet monte carlo                   benny parsons            skoal / copenhagen       johnny hayes
+16   junior johnson & associates              chevrolet monte carlo                 darrell waltrip              pepsi challenger     junior johnson
+17                langley racing                   ford thunderbird                      tommy gale       sunny king ford & honda       elmo langley
+18                 mach 1 racing                        buick regal                      harry gant                  skoal bandit        hal needham
+19            marcis auto racing              chevrolet monte carlo                     dave marcis                      wh bolin        dave marcis
+20               mcduffie racing                 pontiac grand prix                     jd mcduffie               mcduffie racing        jd mcduffie
+21                  means racing              chevrolet monte carlo                     jimmy means               broadway motors        jimmy means
+22                melling racing                   ford thunderbird                    bill elliott             melling oil pumps      harry melling
+23  morgan - mcclure motorsports              chevrolet monte carlo                     mark martin  morgan - mcclure motorsports      larry mcclure
+24             petty enterprises                 pontiac grand prix                      kyle petty                    7 - eleven      richard petty
+25             petty enterprises                 pontiac grand prix                   richard petty                           stp      richard petty
+26           race hill farm team                        buick regal                    ron bouchard           race hill farm team         jack beebe
+27            rahmoc enterprises              chevrolet monte carlo                    neil bonnett                       hodgdon        bob rahilly
+28         ranier - lundy racing              chevrolet monte carlo                 cale yarborough                     hardee 's       harry ranier
+29      richard childress racing              chevrolet monte carlo                      ricky rudd             piedmont airlines  richard childress
+30        robert mcentyre racing  buick regal chevrolet monte carlo                     jody ridley       cumberland carpet mills    robert mcentyre
+31                 thomas racing                 pontiac grand prix                   ronnie thomas                mccord gaskets      ronnie thomas
+32                 ulrich racing                        buick regal                       dk ulrich                 ulrich racing          dk ulrich
+33          wood brothers racing                   ford thunderbird                     buddy baker                     valvoline          glen wood

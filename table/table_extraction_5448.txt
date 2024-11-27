@@ -1,0 +1,14 @@
+              name v t e pos height weight                    club
+0            denis šefik  gk      m      -  pvk budvanska rivijera
+1     andrija prlainović   d      m      -             vk partizan
+2            živko gocić  cf      m      -              olympiacos
+3         vanja udovičić  cb      m      -               pro recco
+4            dejan savić  cb      m      -            sintez kazan
+5       duško pijetlović  cf      m      -             vk partizan
+6           nikola rađen  cb      m      -             vk partizan
+7        filip filipović   d      m      -             vk partizan
+8       aleksandar ćirić   d      m      -  pvk budvanska rivijera
+9       aleksandar šapić   d      m      -     shturm 2002 chekhov
+10  vladimir vujasinović  cb      m      -             vk partizan
+11        branko peković  cf      m      -           dynamo moscow
+12         slobodan soro  gk      m      -             vk partizan

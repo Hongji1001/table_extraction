@@ -1,0 +1,6 @@
+           player                 club  games  goals  assists  points
+0    colin forbes       adler mannheim     11      4       10      14
+1    jame pollock  sinupret ice tigers     13      5        9      14
+2  david mcllwain          kãlner haie      9      4       10      14
+3   jason jaspers       adler mannheim     11      6        7      13
+4   brian swanson  sinupret ice tigers     13      4        7      11

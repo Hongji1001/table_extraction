@@ -1,0 +1,9 @@
+        name  innhabitants  area                mayor  party  municipal code language form
+0      askøy         24875   100      knut hanselmann    frp            1247       neutral
+1      fjell         21744   148             lars lie  høyre            1246       nynorsk
+2         os         16590   140       terje søviknes    frp            1243       nynorsk
+3       sund          6069   100      albrigt sangolt  høyre            1245       nynorsk
+4  austevoll          4503   117  helge andre njåstad    frp            1244       nynorsk
+5   øygarden          4235    66      olav martin vik     ll            1259       nynorsk
+6       fusa          3822   378      hans s vindenes     sp            1241       nynorsk
+7  samnanger          2362   269         marit a aase    krf            1242       nynorsk

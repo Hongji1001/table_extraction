@@ -1,0 +1,32 @@
+    sd  rk                       player  points  points defending  points won  new points                                            status
+0    1   1           caroline wozniacki    8035               280         900        8655                          semifinals lost to li na
+1    2   2               vera zvonareva    6785               280         900        7405                  semifinals lost to kim clijsters
+2    3   3                kim clijsters    6675               160        2000        8515                      champion , won against li na
+3    4   5               venus williams    4985               500         160        4645               third round lost to andrea petkovic
+4    5   6              samantha stosur    4982               280         160        4862                 third round lost to petra kvitová
+5    6   7          francesca schiavone    4835               280         500        5055          quarterfinals lost to caroline wozniacki
+6    7   8              jelena janković    4445               160         100        4385                   second round lost to peng shuai
+7    8  10            victoria azarenka    4155               500         280        3935                        fourth round lost to li na
+8    9  11                        li na    3950               900        1400        4450                       final lost to kim clijsters
+9   10  12                 shahar pe'er    3225               160         160        3225               third round lost to flavia pennetta
+10  11  13                justine henin    3215              1400         160        1975           third round lost to svetlana kuznetsova
+11  12  14          agnieszka radwańska    3000               160         500        3340               quarterfinals lost to kim clijsters
+12  13  15                nadia petrova    2702               500         160        2362            third round lost to ekaterina makarova
+13  14  16              maria sharapova    2661                 5         280        2936                 fourth round lost andrea petkovic
+14  15  17               marion bartoli    2655               160         100        2595              second round lost to vesna manasieva
+15  16  18     anastasia pavlyuchenkova    2585               100         160        2645                third round lost to iveta benešová
+16  17  19                aravane rezaï    2445               100           5        2350  first round lost to barbora záhlavová - strýcová
+17  18  20              maria kirilenko    2540               500         100        2140               second round lost to iveta benešová
+18  19  21                 ana ivanovic    2500               100           5        2405            first round lost to ekaterina makarova
+19  20  22                  kaia kanepi    2460               100         100        2460                 second round lost to julia görges
+20  21  23             yanina wickmayer    2370               280         100        2190         second round lost to anastasija sevastova
+21  22  24              flavia pennetta    2355               100         280        2535                fourth round lost to petra kvitová
+22  23  25          svetlana kuznetsova    2310               280         280        2310          fourth round lost to francesca schiavone
+23  24  26             alisa kleybanova    2420               160         100        2360                 second round lost to simona halep
+24  25  28                petra kvitová    2018               100         500        2418              quarterfinals lost to vera zvonareva
+25  26  29  maría josé martínez sánchez    2010               100         100        2010                 second round lost to alizé cornet
+26  27  30           alexandra dulgheru    2000                 5           5        2000                  first round lost to ayumi morita
+27  28  31           daniela hantuchová    1945               160           5        1790               first round lost to regina kulikova
+28  29  32           dominika cibulková    1905                 5         160        2060            third round lost to caroline wozniacki
+29  30  33              andrea petkovic    1890               100         500        2290                       quarterfinals lost to li na
+30  31  34               lucie šafářová    1780                 5         160        1935                third round lost to vera zvonareva

@@ -1,0 +1,15 @@
+               role d'oyly carte 1920 tour d'oyly carte 1930 tour d'oyly carte 1939 tour d'oyly carte 1945 tour d'oyly carte 1950 tour
+0        lieutenant       sydney granville         joseph griffin           leslie rands           leslie rands          donald harris
+1       col fairfax           derek oldham       charles goulding              john dean              john dean         leonard osborn
+2        sgt meryll       darrell fancourt       darrell fancourt       darrell fancourt       darrell fancourt       darrell fancourt
+3    leonard meryll    hugh enes blackmore              john dean         thomas hancock          herbert garry         thomas hancock
+4        jack point           henry lytton           henry lytton           martyn green       grahame clifford           martyn green
+5           wilfred          leo sheffield       sydney granville       sydney granville         richard walker         richard watson
+6        1st yeoman         james turnbull         herbert aitken         leonard osborn            rhys thomas       frederick sinden
+7        2nd yeoman            henry blain          richard eaton          hugh rowlands         hilton layland          eric thornton
+8       1st citizen           allen morris       c william morgan       c william morgan       c william morgan              roy roser
+9       2nd citizen           harry arnold         t penry hughes         richard walker             wynn dyson            peter pratt
+10            elsie           sylvia cecil        winifred lawson          helen roberts          helen roberts         muriel harding
+11           phoebe     catherine ferguson          marjorie eyre          marjorie eyre          marjorie eyre        joan gillingham
+12  dame carruthers           bertha lewis           bertha lewis        evelyn gardiner            ella halman            ella halman
+13             kate          elsie griffin          muriel davies         margery abbott      margaret mitchell        deidree thurlow

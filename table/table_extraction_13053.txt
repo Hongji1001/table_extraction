@@ -1,0 +1,20 @@
+    rank                           title                        studio                      director  worldwide gross
+0      1                         titanic  paramount / 20th century fox                 james cameron       1843201268
+1      2  the lost world : jurassic park                     universal              steven spielberg        618638999
+2      3                    men in black             columbia / amblin              barry sonnenfeld        589390539
+3      4             tomorrow never dies                united artists            roger spottiswoode        333011068
+4      5                   air force one                      columbia             wolfgang petersen        315156409
+5      6              as good as it gets              tristar / gracie                james l brooks        314178011
+6      7                       liar liar                     universal                   tom shadyac        302710615
+7      8       my best friend 's wedding                       tristar                      pj hogan        299288605
+8      9               the fifth element            columbia / gaumont                    luc besson        263900000
+9     10                  the full monty               fox searchlight                peter cattaneo        257850122
+10    11                        hercules                        disney  ron clements and john musker        252712101
+11    12                            bean           polygram / gramercy                     mel smith        251212670
+12    13                      face / off                     paramount                      john woo        245676146
+13    14                  batman & robin                   warner bros               joel schumacher        238207122
+14    15               good will hunting                       miramax                  gus van sant        225933435
+15    16                         con air                    touchstone                    simon west        224012234
+16    17                   dante 's peak             universal studios               roger donaldson        178127760
+17    18                         flubber                        disney                  les mayfield        177977226
+18    19            george of the jungle                        disney                   sam weisman        174463257

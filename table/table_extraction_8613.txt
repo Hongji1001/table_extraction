@@ -1,0 +1,30 @@
+    rank  population                   name                              former name municipality
+0     46          98               akunnaaq                                        -   qaasuitsup
+1     46          98           ikerasaarsuk                                        -   qaasuitsup
+2     46          98            narsarmijit  friedrichsthal frederiksdal herjolfsnes     kujalleq
+3     49          92                itilleq                                        -      qeqqata
+4     50          87         kitsissuarsuit                            hunde ejlande   qaasuitsup
+5     51          83                napasoq                                        -      qeqqata
+6     52          82            iginniarfik                                        -   qaasuitsup
+7     53          80              illorsuit                                        -   qaasuitsup
+8     53          80                isortoq                                        -   sermersooq
+9     55          78          eqalugaarsuit                                        -     kujalleq
+10    55          78            nuugaatsiaq                                        -   qaasuitsup
+11    57          78             kapisillit                                        -   sermersooq
+12    58          77                ikamiut                                        -   qaasuitsup
+13    59          59  savissivik havighivik                                        -   qaasuitsup
+14    60          57               ilimanaq                                claushavn   qaasuitsup
+15    60          57                naajaat                                        -   qaasuitsup
+16    60          57  siorapaluk hiurapaluk                                        -   qaasuitsup
+17    60          57               tasiusaq                                        -     kujalleq
+18    64          52              niaqornat                                        -   qaasuitsup
+19    65          47             qassiarsuk                               brattahlíð     kujalleq
+20    66          42          kangilinnguit                   grønnedal green valley   sermersooq
+21    67          40             ammassivik                                  sletten     kujalleq
+22    68          39               oqaatsut                                  rodebay   qaasuitsup
+23    69          37                saarloq                                        -     kujalleq
+24    70          34              kangerluk                                        -   qaasuitsup
+25    71          29               qeqertat                                        -   qaasuitsup
+26    72          27                igaliku                           garðar igaliko     kujalleq
+27    73          26             nutaarmiut                                        -   qaasuitsup
+28    74          22              qassimiut                                        -     kujalleq

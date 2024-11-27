@@ -1,0 +1,7 @@
+   year                        competition              venue position          event
+0  2000  world half marathon championships  veracruz , mexico     32nd  half marathon
+1  2000  world half marathon championships  veracruz , mexico      5th           team
+2  2001                    venice marathon     venice , italy      6th       marathon
+3  2002                     paris marathon     paris , france      3rd       marathon
+4  2007                world championships      osaka , japan     n /a       marathon
+5  2010             european championships  barcelona , spain      7th       marathon

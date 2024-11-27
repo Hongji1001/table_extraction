@@ -1,0 +1,9 @@
+   pick                  cfl team            player position           college
+0    41  saskatchewan roughriders  jocelyn frenette        g            ottawa
+1    42         toronto argonauts     matt mcknight        s          waterloo
+2    43     winnipeg blue bombers    darryl fabiani       db   western ontario
+3    44     hamilton tiger - cats        will grant       qb            acadia
+4    45          edmonton eskimos    william wright       db         bishop 's
+5    46        calgary stampeders   david d'onofrio       lb              york
+6    47        montreal alouettes         phil côté       qb            ottawa
+7    48                  bc lions     eric collings       ol  british columbia

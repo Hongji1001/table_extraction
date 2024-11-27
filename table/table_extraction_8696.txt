@@ -1,0 +1,10 @@
+   rank country / region  population  area (km 2 )  density (pop per km 2 )
+0     1       bangladesh   152518015        147570                     1034
+1     2     taiwan (roc)    22955395         36190                      634
+2     3      south korea    48456369         99538                      487
+3     4           rwanda    10718379         26338                      407
+4     5      netherlands    16760000         41526                      404
+5     6            india  1210193422       3185263                      380
+6     7          belgium    11007020         30528                      361
+7     8        sri lanka    20653000         65610                      345
+8     9            japan   127960000        377944                      339

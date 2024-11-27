@@ -1,0 +1,10 @@
+  represented           contestant  age height (in)  height (cm)       hometown
+0     caprivi       happie ntelamo   21         6'1          185  katima mulilo
+1      erongo    theodora amutjira   18         5'8          176     walvis bay
+2       karas          mari venter   23        5'10          179     swakopmund
+3     kavango  albertina shigwedha   26         5'9          177          rundu
+4      khomas       tanya schemmer   19         6'0          183       windhoek
+5   ohangwena          jayne david   24         5'5          166        eenhana
+6     omusati        susan van zyl   20        5'11          182       oshakati
+7    oshikoto          selma usiku   22         6'0          184       omuthiya
+8  swakopmund   daniella filipovic   25         5'7          172     swakopmund

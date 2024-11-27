@@ -1,0 +1,7 @@
+            model                 sensor resolution  angle  released latest software
+0       trackir 1            60k pixels (eg 300200)   33.0      2001     version 3.x
+1       trackir 2            60k pixels (eg 300200)   33.0      2003     version 3.x
+2       trackir 3                            355288   33.0      2004     version 4.x
+3  trackir 3: pro                            355288   33.0      2004     version 4.x
+4  trackir 4: pro  355288 (sub - sampled at 710288)   46.0      2005     version 4.x
+5       trackir 5                            640480   51.7      2009     version 5.x

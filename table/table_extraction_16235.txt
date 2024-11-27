@@ -1,0 +1,41 @@
+                         team  matches  wins  wins %  draws draws %  loses loses %  against
+0                    al - ain        2     1     50%      1     50%      0      0%        2
+1                  al - ansar        3     2     75%      1     25%      0      0%        0
+2                  al - arabi        2     0      0%      1     50%      1     50%        3
+3                al - gharafa        2     1     50%      0      0%      1     50%        5
+4                  al - hilal        6     3     50%      2  33.33%      1  16.66%        5
+5                al - ittihad        5     2     40%      1     20%      2     40%        6
+6                  al - nassr        1     0      0%      0      0%      1    100%        3
+7                 al - rayyan        1     1    100%      0      0%      0      0%        1
+8                al - salmiya        2     1     50%      0      0%      1     50%        2
+9                 al - shabab        2     1     50%      1     50%      0      0%        0
+10                al - shorta        1     0      0%      1    100%      0      0%        0
+11                al - talaba        1     1    100%      0      0%      0      0%        0
+12                 al - wahda        2     0      0%      1     50%      1     50%        2
+13                 al - wakra        2     2    100%      0      0%      0      0%        3
+14                al - zawraa        4     3     75%      1     25%      0      0%        2
+15                   bani yas        2     1     50%      1     50%      0      0%        2
+16                  bunyodkor        3     0      0%      1  33.33%      2  66.66%        4
+17              daewoo royals        0     0      0%      0      0%      0      0%        0
+18               dalian wanda        1     0      0%      0      0%      1    100%        2
+19                      fanja        2     1     50%      1     50%      0      0%        0
+20                     irtysh        3     2     75%      1     25%      0      0%        0
+21               jãbilo iwata        1     0      0%      0      0%      1    100%        2
+22           kopetdag asgabat        2     1     50%      1     50%      0      0%        0
+23       kowloon motor bus co        1     1    100%      0      0%      0      0%        0
+24                    maccabi        1     0      0%      1    100%      0      0%        0
+25                 mohammedan        1     0      0%      0      0%      1    100%        2
+26                   muharraq        2     1     50%      1     50%      0      0%        0
+27          navbahor namangan        1     0      0%      1    100%      0      0%        1
+28               nisa asgabat        1     1    100%      0      0%      0      0%        1
+29                     nissan        2     0      0%      1     50%      1     50%        2
+30         pakhtakor tashkent        1     0      0%      0      0%      1    100%        1
+31                   perak fa        1     1    100%      0      0%      0      0%        2
+32            pohang steelers        1     0      0%      0      0%      1    100%        3
+33  punjab medical college fc        2     2    100%      0      0%      0      0%        2
+34                saunders sc        1     1    100%      0      0%      0      0%        0
+35                    sharjah        1     1    100%      0      0%      0      0%        1
+36    suwon samsung bluewings        2     1     50%      0      0%      1     50%        2
+37                 toyo kogyo        1     0      0%      0      0%      1    100%        1
+38      yelimay semipalatinsk        2     1     50%      0      0%      1     50%        3
+39                      total       71    33  46.47%     19  26.76%     19  26.76%       67

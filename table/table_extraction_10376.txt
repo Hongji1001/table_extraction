@@ -1,0 +1,7 @@
+                   date    label            region             format      catalog
+0        31 august 1999  polydor  france , belgium  cd single - promo         9214
+1        31 august 1999  polydor  france , belgium     7 maxi - promo         0218
+2  early september 1999  polydor  france , belgium        vhs - promo            -
+3     28 september 1999  polydor  france , belgium          cd single  561 444 - 2
+4     28 september 1999  polydor  france , belgium             7 maxi  561 445 - 1
+5     28 september 1999  polydor  france , belgium            cd maxi  561 445 - 2

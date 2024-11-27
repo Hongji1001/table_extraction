@@ -1,0 +1,8 @@
+                                 riding candidate 's name gender                 residence            occupation  votes rank
+0                                avalon     scott andrews      m      conception bay south  municipal councillor  14866  1st
+1  bonavista-gander-grand falls-windsor       scott simms      m           bishop 's falls       parliamentarian  20089  1st
+2            humber-st barbe-baie verte       gerry byrne      m              corner brook       parliamentarian  17956  1st
+3                              labrador      todd russell      m  happy valley - goose bay       parliamentarian   5426  1st
+4             random-burin-st george 's        judy foote      f                st john 's       parliamentarian  12557  1st
+5                       st john 's east       walter noel      m                st john 's             economist   5211  2nd
+6          st john 's south-mount pearl     siobhán coady      f                st john 's    business executive  14920  1st

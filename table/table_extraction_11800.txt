@@ -1,0 +1,11 @@
+   rank                             cultural attraction                        type            location  visitors , 2007
+0     1                                       fløibanen                     railway              bergen          1131707
+1     2                 holmenkollbakken and ski museum            ski jumping hill                oslo           686857
+2     3                                         bryggen              heritage wharf              bergen           583510
+3     4             kristiansand zoo and amusement park              amusement park        kristiansand           532044
+4     5                                       tusenfryd              amusement park                  ås           501235
+5     6                                       flåm line                     railway                flåm           457545
+6     7                              hadeland glassverk                 glass works            jevnaker           431400
+7     8  fredrikstad fortress , old town of fredrikstad  heritage fortress and town         fredrikstad           372360
+8     9                              viking ship museum                      museum                oslo           314560
+9    10                        hunderfossen familiepark              amusement park  øyer / lillehammer           270500

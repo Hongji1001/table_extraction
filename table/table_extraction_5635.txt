@@ -1,0 +1,33 @@
+     region                                      host                                                  venue             city                 state
+0      east                       university of miami                                  knight sports complex     coral gables               florida
+1      east            bowling green state university                                         anderson arena    bowling green                  ohio
+2      east                     georgetown university                                    mcdonough gymnasium       washington  district of columbia
+3      east                     university of vermont                                            patrick gym       burlington               vermont
+4      east               western kentucky university                                        ea diddle arena    bowling green              kentucky
+5      east             pennsylvania state university                         recreation building (rec hall)  university park          pennsylvania
+6      east                     ohio state university                                          st john arena         columbus                  ohio
+7      east                    university of virginia               university hall (university of virginia)  charlottesville              virginia
+8   mideast                   northwestern university                                     welsh - ryan arena         evanston              illinois
+9   mideast                   old dominion university                     old dominion university fieldhouse          norfolk              virginia
+10  mideast                     university of alabama                                       coleman coliseum       tuscaloosa               alabama
+11  mideast                 university of connecticut                                harry a gampel pavilion           storrs           connecticut
+12  mideast                   old dominion university                     old dominion university fieldhouse          norfolk              virginia
+13  mideast              university of north carolina                                  carmichael auditorium      chapel hill        north carolina
+14  mideast                   university of tennessee                                thompson - boling arena        knoxville             tennessee
+15  mideast                         auburn university  memorial coliseum (beard - eaves - memorial coliseum)           auburn               alabama
+16  midwest                      university of kansas                                      allen field house         lawrence                kansas
+17  midwest                        clemson university                                    littlejohn coliseum          clemson        south carolina
+18  midwest                 missouri state university                                 hammons student center      springfield              missouri
+19  midwest                 louisiana tech university                                 thomas assembly center           ruston             louisiana
+20  midwest                     vanderbilt university                                     striplin gymnasium        nashville             tennessee
+21  midwest               stephen f austin university                             william r johnson coliseum      nacogdoches                 texas
+22  midwest                    university of maryland                                       cole field house     college park              maryland
+23  midwest                       university of texas                                     frank erwin center           austin                 texas
+24     west  university of california , santa barbara                         uc santa barbara events center    santa barbara            california
+25     west                     university of georgia                   georgia coliseum (stegeman coliseum)           athens               georgia
+26     west                  university of washington                                 hec edmundson pavilion          seattle            washington
+27     west                    university of nebraska                              bob devaney sports center          lincoln              nebraska
+28     west                       stanford university                                        maples pavilion         stanford            california
+29     west                     texas tech university                             lubbock municipal coliseum          lubbock                 texas
+30     west         university of southern california                      los angeles memorial sports arena      los angeles            california
+31     west                    university of colorado                 cu events center (coors events center)          boulder              colorado

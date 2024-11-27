@@ -1,0 +1,8 @@
+   round  overall         player          position              college
+0      1       32  logan mankins   offensive guard         fresno state
+1      3       84    ellis hobbs        cornerback           iowa state
+2      3      100    nick kaczur  offensive tackle               toledo
+3      4      133  james sanders            safety         fresno state
+4      5      170  ryan claridge        linebacker                 unlv
+5      7      230    matt cassel       quarterback  southern california
+6      7      255    andy stokes         tight end         william penn

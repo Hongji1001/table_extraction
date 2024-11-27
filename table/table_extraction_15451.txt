@@ -1,0 +1,8 @@
+   rank             player       from transfer fee ( millions)  year
+0     1             neymar  santos fc                     57.0  2013
+1     2      cesc fàbregas    arsenal       29 + 5 (variables)  2011
+2     3     alexis sánchez    udinese        26 + 11 (add ons)  2011
+3     4  javier mascherano  liverpool                     26.8  2010
+4     5          alex song    arsenal                     19.0  2012
+5     6         jordi alba   valencia                     14.0  2012
+6     7            adriano    sevilla                     13.5  2010

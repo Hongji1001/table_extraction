@@ -1,0 +1,10 @@
+     district             incumbent       party  first elected       results
+0  missouri 1  william lacy clay jr  democratic           2000  re - elected
+1  missouri 2             todd akin  republican           2000  re - elected
+2  missouri 3         russ carnahan  democratic           2004  re - elected
+3  missouri 4           ike skelton  democratic           1976  re - elected
+4  missouri 5       emanuel cleaver  democratic           2004  re - elected
+5  missouri 6            sam graves  republican           2000  re - elected
+6  missouri 7             roy blunt  republican           1996  re - elected
+7  missouri 8        jo ann emerson  republican           1996  re - elected
+8  missouri 9         kenny hulshof  republican           1996  re - elected

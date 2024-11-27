@@ -1,0 +1,25 @@
+     rank            nation  gold  silver  bronze  total
+0       1         australia    39      39      29    107
+1       2           england    38      38      32    108
+2       3            canada    26      23      33     82
+3       4          scotland     8       6      12     26
+4       5       new zealand     5       8      13     26
+5       6             india     5       8       3     16
+6       7           nigeria     5       0       8     13
+7       8             wales     4       4       1      9
+8       9             kenya     4       2       4     10
+9      10           bahamas     2       2       2      6
+10     11           jamaica     2       1       1      4
+11     12          tanzania     1       2       2      5
+12     13          malaysia     1       0       1      2
+13     14              fiji     1       0       0      1
+14     14         hong kong     1       0       1      2
+15     14          zimbabwe     1       0       0      1
+16     17  northern ireland     0       3       3      6
+17     18            uganda     0       3       0      3
+18     19            zambia     0       1       5      6
+19     20          guernsey     0       1       1      2
+20     21           bermuda     0       0       1      1
+21     21         singapore     0       0       1      1
+22     21         swaziland     0       0       1      1
+23  total             total   143     141     153    437

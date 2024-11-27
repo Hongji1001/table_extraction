@@ -1,0 +1,7 @@
+          ceremony                award                 category          nominee    outcome
+0  filmfare awards  6th filmfare awards               best movie       b r chopra  nominated
+1  filmfare awards  6th filmfare awards            best director       b r chopra  nominated
+2  filmfare awards  6th filmfare awards             best actress   vyjayanthimala        won
+3  filmfare awards  6th filmfare awards  best supporting actress    leela chitnis  nominated
+4  filmfare awards  6th filmfare awards               best story   mukhram sharma        won
+5  filmfare awards  6th filmfare awards            best lyricist  sahir ludhianvi  nominated

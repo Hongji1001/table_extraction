@@ -1,0 +1,22 @@
+                       race      length      class                            circuit                   date
+0       24 hours of daytona    24 hours        all     daytona international speedway  february 4 february 5
+1       12 hours of sebring    12 hours        all      sebring international raceway               march 18
+2      6 hours of talladega     6 hours        all            talladega superspeedway                april 2
+3        camel gt challenge           -        gtu                       road atlanta               april 16
+4        camel gt challenge           -  gtx / gto                       road atlanta               april 16
+5     monterey triple crown           -  gtx / gto                laguna seca raceway               april 30
+6     monterey triple crown  45 minutes        gtu                laguna seca raceway               april 30
+7        hallett grand prix      1 hour        gtu       hallett motor racing circuit                  may 7
+8        hallett grand prix           -  gtx / gto       hallett motor racing circuit                  may 7
+9           coca - cola 300           -  gtx / gto                     lime rock park                 may 29
+10          coca - cola 300           -        gtu                     lime rock park                 may 29
+11         pepsi grand prix           -        all     brainerd international raceway                june 18
+12          paul revere 250           -        all     daytona international speedway                 july 4
+13   sears point grand prix           -  gtx / gto  sears point international raceway                july 30
+14   sears point grand prix           -        gtu  sears point international raceway                july 30
+15     gi joe 's grand prix           -  gtx / gto     portland international raceway               august 6
+16     gi joe 's grand prix  45 minutes        gtu     portland international raceway               august 6
+17  camel gt mid - ohio 250           -        all       mid - ohio sports car course              august 27
+18    arthur montgomery 100           -        gtu                       road atlanta            september 4
+19    arthur montgomery 100           -  gtx / gto                       road atlanta            september 4
+20     camel gt daytona 250           -        all     daytona international speedway            november 26

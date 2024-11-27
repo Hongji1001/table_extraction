@@ -1,0 +1,13 @@
+    no                 title                      lyricist                      composer                    arrangement    sound engineer length
+0    1   law hakon '3er leek              walid el 3'azaly                  karim mohsen               karim abdelwahab  karim abdelwahab  04:15
+1    2             ain shams               mohammed goma'a                mohammed rahim                   amir mahrous      amir mahrous  04:26
+2    3      se7it 3ala sotha                  amir ta'eima              aziz el shafe'ey            wesam abdelmone'eim      hani mahrous  03:48
+3    4  etamen (feat 3aliaa)  tamer hosny - mohammed rahim  mohammed rahim - tamer hosny                          tamim      hani mahrous  05:15
+4    5            lawel mara          shaimaa' el sherbiny    tamer hosny - karim mohsen                    galal fahmy      amir mahrous  03:43
+5    7             aflt alby                ahmed metwally              mohammed el sawy               mohammed zakzouk      amir mahrous  04:32
+6    8        yana ya mafish                  amir ta'eima              mohammed el nady  mohammed shafik - karim osama      amir mahrous  04:27
+7    9        mestany el yom              walid el 3'azaly                  karim mohsen               karim abdelwahab      amir mahrous  04:29
+8   10            ya wa7shny                         tayam                  ali sha'aban                          tamim      hani mahrous  03:28
+9   11   bets3ab 3alia nafsy                   tamer hosny                   tamer hosny                           nour      amir mahrous  03:44
+10  12        kam wa7ed fina                   tamer hosny                   tamer hosny                  medhat khamis      hani mahrous  05:16
+11  13               te3rafy           mohammed abdelgaber                mohammed rahim                    esmat wagih  karim abdelwahab  03:57

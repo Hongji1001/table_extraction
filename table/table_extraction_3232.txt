@@ -1,0 +1,27 @@
+    rank                athlete        country  distance (metres)   points  adjusted points
+0      1           johan meimer        estonia              56.88  886.700              691
+1      2            ken doherty  united states              56.56  877.900              686
+2      3           paavo yrjölä        finland              55.70  854.250              673
+3      4       akilles järvinen        finland              55.58  850.950              672
+4      5         gaston étienne        belgium              54.85  830.875              661
+5      6             hugo barth        germany              52.73  772.575              629
+6      7          tom churchill  united states              50.93  723.075              602
+7      8         henry lindblad         sweden              49.61  686.775              583
+8      9       barney berlinger  united states              48.27  649.925              563
+9     10          james stewart  united states              48.07  644.425              560
+10    11          ludwig vesely        austria              47.44  627.100              551
+11    12        wilhelm ladewig        germany              46.10  590.250              531
+12    13            tatsuo toki          japan              45.83  582.825              527
+13    14       albert andersson         sweden              45.81  582.275              527
+14    15          martti tolamo        finland              45.79  581.725              527
+15    16          sven lundgren         sweden              45.71  579.525              525
+16    17            erwin huber        germany              45.42  571.550              521
+17    18       stelios benardis         greece              44.48  545.700              507
+18    19          branko kallay     yugoslavia              43.98  531.950              500
+19    20          antoni cejzik         poland              43.96  531.400              500
+20    21          mátyás farkas        hungary              43.13  508.575              488
+21    22          helge jansson         sweden              41.73  470.075              467
+22    23       hermann lemperle        germany              41.05  451.375              457
+23    24      yonetaro nakazawa          japan              40.33  431.575              447
+24    25            gérard noël        belgium              32.64  220.100              337
+25    26  rené joannes - powell        belgium              32.56  217.900              335

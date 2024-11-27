@@ -1,0 +1,12 @@
+   class   part 1 part 2   part 3    part 4                verb meaning
+0      1   rijden   reed    reden   gereden          to drive , to ride
+1     2a  vriezen  vroor   vroren  gevroren                   to freeze
+2     2b  sluiten  sloot   sloten  gesloten                    to close
+3     3a   binden   bond   bonden  gebonden            to bind , to tie
+4     3b   bergen   borg   borgen  geborgen  to protect , to store away
+5      4   stelen   stal   stalen  gestolen                    to steal
+6      5    geven    gaf    gaven   gegeven                     to give
+7      6   graven  groef  groeven  gegraven                      to dig
+8     7b    lopen   liep   liepen   gelopen            to walk , to run
+9     7c   vallen   viel   vielen  gevallen                     to fall
+10    7d   slapen  sliep  sliepen  geslapen                    to sleep

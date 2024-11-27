@@ -1,0 +1,12 @@
+                           school   suburb / town  years  founded  website
+0              vacy public school            vacy  k - 6     1859  website
+1         valentine public school       valentine  k - 6     1958  website
+2       valley view public school         wyoming  k - 6     1980  website
+3       vardys road public school     seven hills  k - 6     1960  website
+4          vaucluse public school        vaucluse  k - 6     1858  website
+5                   verona school  fairfield east  k - 6     1882  website
+6    villawood east public school       villawood  k - 6     1955  website
+7   villawood north public school  fairfield east  k - 6     1953  website
+8           vincentia high school       vincentia    712     1993  website
+9         vincentia public school       vincentia  k - 6     1992  website
+10         vineyard public school        vineyard  k - 6     1872  website

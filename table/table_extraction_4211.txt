@@ -1,0 +1,22 @@
+         year                     division                       league                       reg season                     playoffs                challenge cup
+0   1911 / 12                        n / a                        aafba                            n / a                        final                        n / a
+1   1912 / 13                        n / a                        aafba                              1st        champion (no playoff)                        n / a
+2   1913 / 14                        n / a                        aafba                              1st        champion (no playoff)                  third round
+3   1914 / 15                        n / a                        alafc                              1st        champion (no playoff)                     champion
+4   1915 / 16                        n / a                          alp                              2nd                   no playoff                     champion
+5   1916 / 17                        n / a                        n / a                            n / a                        n / a                        final
+6   1917 / 18                        n / a                        nafbl                              2nd                   no playoff                     champion
+7   1918 / 19                        n / a                        nafbl                              1st        champion (no playoff)                     champion
+8   1919 / 20                        n / a                        nafbl                              1st        champion (no playoff)                 quarterfinal
+9   1920 / 21                        n / a                        nafbl                              1st        champion (no playoff)                 second round
+10  1921 / 22  see philadelphia field club  see philadelphia field club      see philadelphia field club  see philadelphia field club  see philadelphia field club
+11  1922 / 23                            1                          asl                              2nd                   no playoff                  third round
+12  1923 / 24                            1                          asl                              2nd                   no playoff                   semifinals
+13  1924 / 25                            1                          asl                              2nd                   no playoff                did not enter
+14  1925 / 26                            1                          asl                              4th                   no playoff                     champion
+15  1926 / 27                            1                          asl                              1st        champion (no playoff)                   semifinals
+16  1927 / 28                            1                          asl  2nd (1st half) , 4th (2nd half)                   semifinals                  first round
+17  1928 / 29                            1                          asl           withdrew after 6 games                        n / a                        n / a
+18     192829                        n / a                          esl                              1st        champion (no playoff)                 quarterfinal
+19       1929                        n / a                          esl                              1st        champion (no playoff)                        n / a
+20       1930                            1                    acl (asl)                     7th (spring)                   no playoff                   semifinals

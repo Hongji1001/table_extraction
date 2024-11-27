@@ -1,0 +1,13 @@
+    year                team         chassis             engine  rank  points
+0   1982       wysard racing       march 82c  ford cosworth dfx    nc       0
+1   1983       wysard racing       march 82c  ford cosworth dfx  27th       4
+2   1983       wysard racing       march 83c  ford cosworth dfx  27th       4
+3   1983      provimi racing  march 82 / 83c  ford cosworth dfx  27th       4
+4   1984      provimi racing       march 84c  ford cosworth dfx  19th      26
+5   1985     tom hess racing       lola t900  ford cosworth dfx  40th       1
+6   1986         team menard       march 86c  ford cosworth dfx  23rd      11
+7   1986    curb motorsports       march 86c  ford cosworth dfx  23rd      11
+8   1987         pace racing       march 87c   buick v6 (t / c)  15th      27
+9   1987  raynor motorsports   lola t87 / 00  ford cosworth dfx  15th      27
+10  1988  raynor motorsports   lola t88 / 00  ford cosworth dfx   9th      53
+11  1989  raynor motorsports   lola t89 / 00            judd av  12th      25

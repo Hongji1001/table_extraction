@@ -1,0 +1,30 @@
+                      name    degree  degree year  award year                  award
+0           george akerlof       phd         1966        2001              economics
+1               sid altman        sb         1960        1989              chemistry
+2               kofi annan        sm         1972        2001                  peace
+3            robert aumann        sm         1952        2005              economics
+4        elias james corey  sb , phd  1948 , 1951        1990              chemistry
+5             eric cornell       phd         1990        2001                physics
+6            peter diamond       phd         1963        2010              economics
+7          richard feynman        sb         1939        1965                physics
+8            andrew z fire       phd         1983        2006  medicine / physiology
+9       murray gell - mann       phd         1951        1969                physics
+10       leland h hartwell       phd         1964        2001  medicine / physiology
+11        h robert horvitz        sb         1968        2002  medicine / physiology
+12         henry w kendall  sb , phd  1948 , 1951        1990                physics
+13          lawrence klein       phd         1944        1980              economics
+14            paul krugman       phd         1977        2009              economics
+15       robert b laughlin       phd         1979        1998                physics
+16         robert c merton       phd         1970        1997              economics
+17       robert s mulliken        sb         1917        1966              chemistry
+18          robert mundell       phd         1956        1999              economics
+19        charles pedersen        sm         1927        1987              chemistry
+20      william d phillips       phd         1976        1997                physics
+21          burton richter  sb , phd  1952 , 1956        1976                physics
+22              adam riess        sb         1992        2011                physics
+23  john robert schrieffer        sb         1953        1972                physics
+24        william shockley       phd         1936        1956                physics
+25          george f smoot  sb , phd  1966 , 1970        2006                physics
+26         joseph stiglitz       phd         1966        2001              economics
+27           carl e wieman        sb         1973        2001                physics
+28   robert burns woodward        sb         1936        1965              chemistry

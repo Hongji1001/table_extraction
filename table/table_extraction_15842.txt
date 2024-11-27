@@ -1,0 +1,9 @@
+   rank  lane                name    nationality   time
+0     1     6     hayden stoeckel      australia  52.97
+1     2     4        matt grevers  united states  52.99
+2     3     5       aaron peirsol  united states  53.56
+3     4     2      ashley delaney      australia  53.76
+4     5     1        markus rogan        austria  53.80
+5     6     3  gerhardus zandberg   south africa  53.98
+6     7     7    stanislav donets         russia  54.57
+7     8     8          guy barnea         israel  54.93

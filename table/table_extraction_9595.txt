@@ -1,0 +1,17 @@
+           county  per capita income  median household income  median family income  population  number of households
+0       nantucket              51456                    84979                 89236       10135                  3745
+1         norfolk              43685                    83733                106309      666426                255944
+2       middlesex              41453                    79691                100267     1491762                577349
+3      barnstable              36000                    60525                 76708      216639                 96775
+4   massachusetts              35051                    65981                 83371     6512227               2522409
+5           essex              34858                    65785                 83047      739505                284940
+6        plymouth              34285                    74698                 88110      492934                178996
+7           dukes              33228                    69760                 82659       16353                  5568
+8         suffolk              32034                    51638                 60342      713089                286437
+9       worcester              31470                    65772                 81342      794981                299089
+10      berkshire              29387                    48705                 64393      131221                 55793
+11      hampshire              29113                    60331                 82999      157630                 58921
+12        bristol              28682                    55813                 71416      547305                210536
+13       franklin              28313                    52246                 65713       71495                 30362
+14  united states              27915                    52762                 64293   306603772             114761359
+15        hampden              25363                    48866                 61800      462752                177954

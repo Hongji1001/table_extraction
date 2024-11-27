@@ -1,0 +1,20 @@
+                 rider manufacturer  laps time / retired  grid
+0      chris vermeulen       suzuki    28      50:58.713    12
+1       marco melandri        honda    28       + 12.599     9
+2         casey stoner       ducati    28       + 27.347     2
+3         dani pedrosa        honda    28       + 37.328    10
+4         alex hofmann       ducati    28       + 49.166    17
+5      valentino rossi       yamaha    28       + 53.563     4
+6         john hopkins       suzuki    28     + 1:01.073     5
+7      loris capirossi       ducati    28     + 1:21.241    15
+8        makoto tamada       yamaha    27        + 1 lap    16
+9     sylvain guintoli       yamaha    27        + 1 lap    11
+10         fonsi nieto     kawasaki    27        + 1 lap    19
+11       colin edwards       yamaha    25       + 3 laps     1
+12         alex barros       ducati    27       accident    13
+13  kenny roberts , jr       kr212v    26     retirement    18
+14        nicky hayden        honda    25       accident     7
+15       shinya nakano        honda    20       accident    20
+16     randy de puniet     kawasaki     8       accident     8
+17         toni elã­as        honda     7       accident     6
+18        carlos checa        honda     6       accident     3

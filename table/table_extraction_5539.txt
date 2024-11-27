@@ -1,0 +1,13 @@
+             school     mascot              location       league  enrollment
+0            carson   senators  carson city , nevada       sierra        2503
+1     damonte ranch   mustangs         reno , nevada       sierra        1253
+2           douglas     tigers       minden , nevada       sierra        1522
+3            galena  grizzlies         reno , nevada       sierra        1510
+4               hug      hawks         reno , nevada  high desert        1266
+5           manogue     miners         reno , nevada       sierra         650
+6           mcqueen    lancers         reno , nevada  high desert        1945
+7     north valleys   panthers         reno , nevada  high desert        2227
+8              reed    raiders       sparks , nevada  high desert        2464
+9              reno    huskies         reno , nevada  high desert        1896
+10  spanish springs    cougars       sparks , nevada  high desert        2186
+11          wooster      colts         reno , nevada       sierra        1519

@@ -1,0 +1,15 @@
+                            player      date of birth   batting style                         bowling style  first class team
+0          hansie cronje (captain)  25 september 1969  right hand bat                      right arm medium        free state
+1                 dale benkenstein        9 june 1974  right hand bat  right arm medium right arm off break   kwazulu - natal
+2                       nicky boje      20 march 1973   left hand bat                left arm orthodox spin        free state
+3   mark boucher (wicket - keeper)    3 december 1976  right hand bat                       wicket - keeper            border
+4                    derek crookes       5 march 1969  right hand bat                   right arm off break           gauteng
+5                  daryll cullinan       4 march 1967  right hand bat                   right arm off break           gauteng
+6                      alan dawson   27 november 1969  right hand bat               right arm fast - medium  western province
+7                   steve elworthy   23 february 1965  right hand bat               right arm fast - medium         northerns
+8                   jacques kallis    16 october 1975  right hand bat               right arm fast - medium  western province
+9                     gary kirsten   23 november 1967   left hand bat                   right arm off break  western province
+10                   makhaya ntini        6 july 1977  right hand bat                        right arm fast            border
+11                   shaun pollock       16 july 1973  right hand bat               right arm fast - medium   kwazulu - natal
+12                    jonty rhodes       27 july 1969  right hand bat                      right arm medium   kwazulu - natal
+13                      pat symcox      14 april 1960  right hand bat                   right arm off break   griqualand west

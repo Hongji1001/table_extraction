@@ -1,0 +1,13 @@
+           series           main presenter             co - presenter       comedian    uk co - presenter
+0      one (2002)          louise loughman                      n / a          n / a                n / a
+1      two (2003)  tara palmer - tomkinson        mark durden - smith          n / a                n / a
+2    three (2004)  tara palmer - tomkinson        mark durden - smith          n / a                n / a
+3     four (2004)      mark durden - smith                      n / a          n / a                n / a
+4     five (2005)  tara palmer - tomkinson                 matt brown          n / a                n / a
+5      six (2006)           kelly osbourne  steve wilson jeff brazier  brendon burns  mark durden - smith
+6    seven (2007)              emma willis                matt willis          n / a  mark durden - smith
+7    eight (2008)              emma willis                matt willis          n / a  mark durden - smith
+8     nine (2009)           caroline flack                  joe swash   russell kane                n / a
+9      ten (2010)           caroline flack                  joe swash   russell kane                n / a
+10  eleven (2011)           laura whitmore                  joe swash   russell kane                n / a
+11  twelve (2012)           laura whitmore                  joe swash    rob beckett                n / a

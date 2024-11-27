@@ -1,0 +1,21 @@
+                     driver             constructor  laps time / retired  grid
+0        jacques villeneuve      williams - renault    77    1:46:21.134     3
+1                damon hill      williams - renault    77        + 0.771     2
+2                jean alesi      benetton - renault    77     + 1:24.212     5
+3            mika hã¤kkinen      mclaren - mercedes    76        + 1 lap     7
+4             olivier panis  ligier - mugen - honda    76        + 1 lap    11
+5        rubens barrichello        jordan - peugeot    75       + 2 laps    13
+6             ukyo katayama        tyrrell - yamaha    74       + 3 laps    14
+7            ricardo rosset         footwork - hart    74       + 3 laps    18
+8        michael schumacher                 ferrari    70       throttle     1
+9          giovanni lavaggi          minardi - ford    69       spun off    20
+10           gerhard berger      benetton - renault    64         engine     6
+11  heinz - harald frentzen           sauber - ford    50     electrical    10
+12           johnny herbert           sauber - ford    35         engine     8
+13             eddie irvine                 ferrari    31        gearbox     4
+14               pedro lamy          minardi - ford    24     suspension    19
+15          david coulthard      mclaren - mercedes    23         engine     9
+16           jos verstappen         footwork - hart    10       spun off    17
+17           martin brundle        jordan - peugeot     5       spun off    12
+18              pedro diniz  ligier - mugen - honda     1      collision    15
+19                mika salo        tyrrell - yamaha     0      collision    16

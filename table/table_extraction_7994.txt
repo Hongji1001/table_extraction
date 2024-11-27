@@ -1,0 +1,14 @@
+    year                         team      class  laps  pos
+0   1972         team schnitzer motul      t 3.0    70  dnf
+1   1973              ford motorwerke      t 3.0     4  dnf
+2   1973              ford motorwerke      t 3.0   239  dnf
+3   1974         samson kremer racing         gt    65  dnf
+4   1976        porsche kremer racing        gr5   272  dnf
+5   1977             gelo racing team        gr5   269  dnf
+6   1979  gelo racing sportswear intl  gr5 + 2.5   201  dnf
+7   1980        scuderia lancia corse        gr5     6  dnf
+8   1981               martini racing        gr5   186  dnf
+9   1982               martini racing        gr6   152  dnf
+10  1983               martini racing          c   121  dnf
+11  1984               martini racing         c1   275  dnf
+12  1986              silk cut jaguar         c1    53  dnf

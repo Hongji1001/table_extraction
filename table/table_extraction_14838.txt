@@ -1,0 +1,22 @@
+   result   record              opponent                           method                 location
+0     win  11 - 10            noel cadet                  ko (right hook)    bratislava , slovakia
+1     win  10 - 10       igor mihaljevic             decision (unanimous)    dunaújváros , hungary
+2    loss   9 - 10          raul cătinaş             decision (unanimous)           arad , romania
+3    loss    9 - 9           björn bregy                     ko (punches)       budapest , hungary
+4    loss    9 - 8          duško basrak  extra round decision (majority)  prague , czech republic
+5     win    9 - 7           taner kutlu                               ko         corsica , france
+6    loss    8 - 7         łukasz jarosz                         decision       martigues , france
+7    loss    8 - 6         brecht wallis              ko (straight punch)      bucharest , romania
+8     win    8 - 5        adnan redžović           tko (three knockdowns)      bucharest , romania
+9     win    7 - 5       sebastian chira                               ko      bucharest , romania
+10   loss    6 - 5       nikos tsoukalas                         decision  beverwijk , netherlands
+11   loss    6 - 4  chris chrisopoulides                         decision   auckland , new zealand
+12   loss    6 - 3          jason suttie              decision (majority)   auckland , new zealand
+13   loss    6 - 2            matt samoa                               ko   gold coast , australia
+14   loss    6 - 1          jason suttie                         decision   auckland , new zealand
+15    win    6 - 0       hiriwa te rangi                              tko   auckland , new zealand
+16    win    5 - 0   ricardo van den bos                              tko   gold coast , australia
+17    win    4 - 0         mitch o'hello                              tko   auckland , new zealand
+18    win    3 - 0        charlie smiler                               ko   auckland , new zealand
+19    win    2 - 0           edwin marsh                               ko   auckland , new zealand
+20    win    1 - 0          darren berry                               ko   auckland , new zealand

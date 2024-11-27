@@ -1,0 +1,7 @@
+   call sign  frequency mhz         city of license                           erp w class fcc info
+0       kasv           88.7          borger , texas  10000 horizontal 3000 vertical    c3      fcc
+1       kpdr           90.3         wheeler , texas                           20000    c2      fcc
+2       kjdr           88.1       guymon , oklahoma                            1000     a      fcc
+3       kved           88.5          vernon , texas                            3000     a      fcc
+4       kwas           91.3  red river , new mexico                            2000    c3      fcc
+5  kijn - fm           92.3         farwell , texas                          100000    c1      fcc

@@ -1,0 +1,8 @@
+                          nomination             actors name                 film name                 director        country
+0       best actor in a leading role          piotr adamczyk  chopin : desire for love            jerzy antczak         poland
+1     best actress in a leading role           danuta stenka  chopin : desire for love            jerzy antczak         poland
+2     best actress in a leading role           alla sergiyko                shum vetra  sergey masloboyshchikov        ukraine
+3    best actor in a supporting role     levan uchaneishvili          27 stolen kisses          nana djordjadze  usa - georgia
+4  best actress in a supporting role        marina yakovleva                falling up     alexander strizhenov         russia
+5                         best debut  svetlana zelenkovskaya      anastasiya slutskaya              yuriy elhov        belarus
+6                         best debut            niko tavadze     po vintovoy lestnitse            merab tavadze        georgia

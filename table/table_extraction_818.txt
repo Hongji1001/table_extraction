@@ -1,0 +1,38 @@
+   year (ceremony) film title used in nomination                 original title              director             result
+0     1962: (35th)             the sad young men             los jóvenes viejos          rodolfo kuhn      not nominated
+1     1965: (38th)                pajarito gómez                 pajarito gómez          rodolfo kuhn      not nominated
+2     1974: (47th)                     the truce                      la tregua          sergio renán            nominee
+3     1975: (48th)    nazareno cruz and the wolf        nazareno cruz y el lobo        leonardo favio      not nominated
+4     1977: (50th)           what does fall mean               ¿qué es el otoño      david josé kohon      not nominated
+5     1979: (52nd)                    the island                        la isla       alejandro doria      not nominated
+6     1981: (54th)           the underground man         el hombre del subsuelo       nicolás sarquís      not nominated
+7     1982: (55th)       last days of the victim     últimos días de la víctima     adolfo aristarain      not nominated
+8     1984: (57th)                        camila                         camila   maría luisa bemberg            nominee
+9     1985: (58th)            the official story            la historia oficial           luis puenzo  won academy award
+10    1986: (59th)  tangos : the exile of gardel   tangos : el exilio de gardel      fernando solanas      not nominated
+11    1987: (60th)          man facing southeast      hombre mirando al sudeste        eliseo subiela      not nominated
+12    1988: (61st)                 verónico cruz               la deuda interna        miguel pereira      not nominated
+13    1989: (62nd)                the girlfriend                       la amiga     jeanine meerapfel      not nominated
+14    1990: (63rd)          i , the worst of all          yo , la peor de todas   maría luisa bemberg      not nominated
+15    1991: (64th)                     the tombs                     las tumbas          javier torre      not nominated
+16    1992: (65th)        dark side of the heart     el lado oscuro del corazón        eliseo subiela      not nominated
+17    1993: (66th)                        gatica               gatica , el mono        leonardo favio      not nominated
+18    1994: (67th)     a shadow you soon will be     una sombra ya pronto serás        héctor olivera      not nominated
+19    1995: (68th)                   wild horses              caballos salvajes       marcelo piñeyro      not nominated
+20    1996: (69th)    eva perón : the true story                      eva perón   juan carlos desanzo      not nominated
+21    1997: (70th)             ashes of paradise            cenizas del paraíso       marcelo piñeyro      not nominated
+22    1998: (71st)                         tango      tango , no me dejes nunca          carlos saura            nominee
+23    1999: (72nd)                     manuelita                      manuelita   manuel garcía ferré      not nominated
+24    2000: (73rd)               merry christmas                    felicidades          lucho bender      not nominated
+25    2001: (74th)              son of the bride            el hijo de la novia  juan josé campanella            nominee
+26    2002: (75th)                     kamchatka                      kamchatka       marcelo piñeyro      not nominated
+27    2003: (76th)                      valentín                       valentín     alejandro agresti      not nominated
+28    2004: (77th)                  lost embrace              el abrazo partido         daniel burman      not nominated
+29    2005: (78th)                      the aura                        el aura      fabián bielinsky      not nominated
+30    2006: (79th)                    family law             derecho de familia         daniel burman      not nominated
+31    2007: (80th)                           xxy                            xxy          lucía puenzo      not nominated
+32    2008: (81st)                   lion 's den                        leonera         pablo trapero      not nominated
+33    2009: (82nd)      the secret in their eyes         el secreto de sus ojos  juan josé campanella  won academy award
+34    2010: (83rd)                      carancho                       carancho         pablo trapero      not nominated
+35    2011: (84th)                       aballay  aballay , el hombre sin miedo       fernando spiner      not nominated
+36    2012: (85th)         clandestine childhood           infancia clandestina        benjamín ávila      not nominated

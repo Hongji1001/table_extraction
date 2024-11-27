@@ -1,0 +1,24 @@
+    stage               winner general classification points classification mountains classification intergiro classification      trofeo fast team
+0       1      mario cipollini        mario cipollini       mario cipollini              not awarded         dimitri konyshev                 saeco
+1       2      mario cipollini        mario cipollini       mario cipollini              not awarded         dimitri konyshev                 saeco
+2       3         pavel tonkov           pavel tonkov       mario cipollini             pavel tonkov         dimitri konyshev            mapei - gb
+3       4      mario cipollini           pavel tonkov       mario cipollini             pavel tonkov         dimitri konyshev            mapei - gb
+4       5         pavel tonkov           pavel tonkov       mario cipollini             pavel tonkov         dimitri konyshev                 saeco
+5       6  roberto sgambelluri           pavel tonkov       mario cipollini             pavel tonkov         dimitri konyshev                 saeco
+6       7          marcel wüst           pavel tonkov       mario cipollini             pavel tonkov         dimitri konyshev                 saeco
+7       8        mario manzoni           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+8       9     dimitri konyshev           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+9      10      mario cipollini           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+10     11   gabriele missaglia           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+11     12   giuseppe di grande           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+12     13      glenn magnusson           pavel tonkov       mario cipollini          mariano piccoli         dimitri konyshev           asics - cga
+13     14           ivan gotti             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev            team polti
+14     15   alessandro baronti             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev           asics - cga
+15     16   fabiano fontanelli             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev           asics - cga
+16     17         mirco gualdi             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev            team polti
+17     18        serhij hončar             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev            team polti
+18     19    josé luis rubiera             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev  kelme - costa blanca
+19     20  josé jaime gonzález             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev  kelme - costa blanca
+20     21         pavel tonkov             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev  kelme - costa blanca
+21     22      mario cipollini             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev  kelme - costa blanca
+22  final                final             ivan gotti       mario cipollini      josé jaime gonzález         dimitri konyshev  kelme - costa blanca

@@ -1,0 +1,11 @@
+                 aircraft          origin                  type      versions  in service
+0             agusta a109           italy      recce helicopter   a109eoa - 2          12
+1    agusta a129 mangusta           italy     attack helicopter           cbt          56
+2    bell uh - 1 iroquois   united states  transport helicopter        ab 205          42
+3                bell 212   united states  transport helicopter        ab 212          39
+4                bell 412   united states  transport helicopter        ab 412          31
+5                nhi nh90  european union  transport helicopter           tth          21
+6  boeing ch - 47 chinook   united states  transport helicopter      ch - 47c          14
+7  boeing ch - 47 chinook   united states  transport helicopter      ch - 47f           0
+8          dornier do 228         germany     utility transport  do 228 - 200           3
+9     piaggio p180 avanti           italy     utility transport        p180 m           3

@@ -1,0 +1,6 @@
+   round  pick            player       position    nationality school / club team
+0      1     1         greg oden         center  united states         ohio state
+1      2    37    josh mcroberts  power forward  united states               duke
+2      2    42     derrick byars  small forward  united states         vanderbilt
+3      2    52     taurean green    point guard  united states            florida
+4      2    53  demetris nichols  small forward  united states           syracuse

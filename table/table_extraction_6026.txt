@@ -1,0 +1,19 @@
+                 sport  year class           coach             record
+0      boys basketball  1993    3a      dave neier             28 - 3
+1      boys basketball  1994    3a      dave neier             31 - 1
+2      boys basketball  1998    3a      dave neier             31 - 1
+3      boys basketball  2006    3a      dave neier             30 - 1
+4      boys basketball  2009    3a      dave neier             28 - 2
+5   boys cross country  1999    2a    kurt russell  116 at state meet
+6   boys cross country  2000    2a    kurt russell   98 at state meet
+7            boys golf  1999    3a      doug light  638 at state meet
+8             football  1993    3a  dale gildehaus             14 - 0
+9           volleyball  1987    3a      mike tyree         29 - 2 - 1
+10          volleyball  1988    3a      mike tyree             31 - 1
+11          volleyball  1988    3a      mike tyree             33 - 0
+12          volleyball  1990    3a      mike tyree             31 - 6
+13          volleyball  1992    3a      mike tyree         30 - 5 - 3
+14          volleyball  1993    3a      mike tyree             33 - 3
+15          volleyball  1995    3a      mike tyree         27 - 6 - 2
+16          volleyball  2000    3a      mike tyree             30 - 7
+17          volleyball  2004    3a      mike tyree         34 - 4 - 3

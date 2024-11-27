@@ -1,0 +1,30 @@
+                               tie no                          home team                              score                          away team                         attendance
+0                                  21                          morecambe                              2 - 1                       grimsby town                               1713
+1                                  22                  huddersfield town                              3 - 4                          port vale                               6942
+2                                  23                      alfreton town                              4 - 2                          bury town                               1060
+3                                  24             kidderminster harriers                              1 - 0                   cambridge united                               1717
+4                                  25                     leicester city                              3 - 0                  stevenage borough                               7586
+5                                  26                 milton keynes dons                              1 - 2                      bradford city                               5542
+6                                  27                         darlington                              0 - 0                          droylsden                               2479
+7                              replay                          droylsden                              1 - 0                         darlington                               1672
+8                                  28                       chesterfield                              3 - 1                     mansfield town                               6612
+9                                  29                 afc telford united                              2 - 2                    southend united                               3631
+10                             replay                    southend united                              2 - 0                 afc telford united                               4415
+11                                 30                      curzon ashton                              3 - 2                        exeter city                               1259
+12                                 31                             histon                              1 - 0                       swindon town                               1541
+13                                 32                     kettering town                              1 - 1                       lincoln city                               3314
+14                             replay                       lincoln city                              1 - 2                     kettering town                               3953
+15                                 33                             barnet                              1 - 1                           rochdale                               1782
+16                             replay                           rochdale                              3 - 2                             barnet                               2339
+17                                 34                    hereford united                              0 - 0               dagenham & redbridge                               1825
+18                             replay               dagenham & redbridge                              2 - 1                    hereford united                               1409
+19                                 35                    cheltenham town                              2 - 2                    oldham athletic                               2585
+20                             replay                    oldham athletic                              0 - 1                    cheltenham town                               2552
+21                                 36                         luton town                              0 - 0                         altrincham                               3200
+22                             replay                         altrincham                              0 - 0                         luton town                               2397
+23  luton town won 4 - 2 on penalties  luton town won 4 - 2 on penalties  luton town won 4 - 2 on penalties  luton town won 4 - 2 on penalties  luton town won 4 - 2 on penalties
+24                                 37                    crewe alexandra                              1 - 0                   ebbsfleet united                               2593
+25                                 38                      eastwood town                              2 - 1                      brackley town                                960
+26                                 39                       leeds united                              1 - 1                   northampton town                               9531
+27                             replay                   northampton town                              2 - 5                       leeds united                               3960
+28                                 40                        harlow town                              0 - 2                  macclesfield town                               2149

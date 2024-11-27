@@ -1,0 +1,11 @@
+                  date         venue        score result            competition
+0       july 22 , 1977  kuala lumpur       1 goal  5 - 1       1977 merdeka cup
+1       july 26 , 1977  kuala lumpur       1 goal  4 - 0       1977 merdeka cup
+2       july 12 , 1978  kuala lumpur       1 goal  4 - 0       1978 merdeka cup
+3   december 10 , 1978       bangkok      2 goals  5 - 1       1978 asian games
+4   september 8 , 1979         seoul       1 goal  8 - 0  1979 president 's cup
+5  september 16 , 1979       incheon      3 goals  9 - 0  1979 president 's cup
+6     august 29 , 1980       gwangju       1 goal  5 - 0  1980 president 's cup
+7       june 10 , 1986        puebla  1 goal (og)  2 - 3    1986 fifa world cup
+8     october 3 , 1986         seoul       1 goal  4 - 0       1986 asian games
+9     october 5 , 1986         seoul       1 goal  2 - 0       1986 asian games

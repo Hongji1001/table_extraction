@@ -1,0 +1,22 @@
+            date             place                           race winners                              gp winner    source
+0        1 april        frauenfeld  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+1         19 may        chernivtsi       valentin giraud / nicolas musset         etienne bax / kaspars stupelis    result
+2         19 may        chernivtsi         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+3         26 may           schwedt         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+4         9 june          kramolín  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+5        16 june        varsseveld  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+6        23 june              genk       valentin giraud / nicolas musset   ben adriaenssen / ben van de bogaart    result
+7        23 june              genk  ben adriaenssen / ben van den bogaart   ben adriaenssen / ben van de bogaart    result
+8         7 july          iffendic         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+9        21 july  strassbessenbach         etienne bax / kaspars stupelis  ben adriaenssen / ben van den bogaart    result
+10       21 july  strassbessenbach  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+11      4 august           kiviõli         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+12     11 august            ķegums         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+13     18 august        roggenburg         etienne bax / kaspars stupelis  ben adriaenssen / ben van den bogaart    result
+14     18 august        roggenburg  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+15   8 september    dardon guegnon         etienne bax / kaspars stupelis  ben adriaenssen / ben van den bogaart    result
+16   8 september    dardon guegnon  ben adriaenssen / ben van den bogaart  ben adriaenssen / ben van den bogaart    result
+17  15 september        rudersberg  ben adriaenssen / ben van den bogaart       jan hendrickx / elvijs mucenieks    result
+18  15 september        rudersberg       jan hendrickx / elvijs mucenieks       jan hendrickx / elvijs mucenieks    result
+19  22 september            nismes         etienne bax / kaspars stupelis         etienne bax / kaspars stupelis    result
+20    13 october           cingoli                               not held                               not held  not held

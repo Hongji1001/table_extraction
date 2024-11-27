@@ -1,0 +1,14 @@
+                name  championship  fa cup  league cup  total
+0        dave kitson            19       0           0     19
+1      nicky forster             7       1           0      9
+2        lloyd owusu             6       0           0      6
+3      steve sidwell             5       0           0      5
+4   ívar ingimarsson             3       1           0      4
+5       james harper             3       0           0      3
+6     ibrahima sonko             3       0           0      3
+7       nicky shorey             3       0           0      3
+8        dean morgan             2       0           0      2
+9      les ferdinand             1       0           0      1
+10      shaun goater             0       0           1      1
+11       andy hughes             0       0           1      1
+12            totals            52       3           2     57

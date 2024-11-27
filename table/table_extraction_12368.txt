@@ -1,0 +1,10 @@
+   pick      cfl team            player position           college
+0    36      hamilton  benjie hutchison       dl  british columbia
+1    37      winnipeg    john baunemann        k          manitoba
+2    38      winnipeg         chad vath       lb          manitoba
+3    39       calgary     jodi bednarek       lb           calgary
+4    40      edmonton      adam kossack       ol  hastings college
+5    41      montreal     kelly ireland       ol     saint mary 's
+6    42  saskatchewan     james rapesse       lb      saskatchewan
+7    43      hamilton   robert yelenich       lb              york
+8    44       toronto     bill mitoulas       lb        notre dame

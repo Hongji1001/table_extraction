@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0        michael schumacher                 ferrari    53    1:29:53.435     1
+1             mika häkkinen      mclaren - mercedes    53        + 1.837     2
+2           david coulthard      mclaren - mercedes    53     + 1:09.914     3
+3        rubens barrichello                 ferrari    53     + 1:19.191     4
+4             jenson button          williams - bmw    53     + 1:25.694     5
+5        jacques villeneuve             bar - honda    52        + 1 lap     9
+6            johnny herbert       jaguar - cosworth    52        + 1 lap    10
+7              eddie irvine       jaguar - cosworth    52        + 1 lap     7
+8             ricardo zonta             bar - honda    52        + 1 lap    18
+9                 mika salo       sauber - petronas    52        + 1 lap    19
+10              pedro diniz       sauber - petronas    52        + 1 lap    20
+11         pedro de la rosa       arrows - supertec    52        + 1 lap    13
+12             jarno trulli  jordan - mugen - honda    52        + 1 lap    15
+13     giancarlo fisichella     benetton - playlife    52        + 1 lap    12
+14         gastón mazzacane     minardi - fondmetal    51       + 2 laps    22
+15                marc gené     minardi - fondmetal    46         engine    21
+16          ralf schumacher          williams - bmw    41       spun off     6
+17            nick heidfeld         prost - peugeot    41     suspension    16
+18           alexander wurz     benetton - playlife    37       spun off    11
+19  heinz - harald frentzen  jordan - mugen - honda    29     hydraulics     8
+20               jean alesi         prost - peugeot    19         engine    17
+21           jos verstappen       arrows - supertec     9     electrical    14

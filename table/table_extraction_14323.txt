@@ -1,0 +1,20 @@
+        nat          name       moving to                        type transfer window
+0       ita    ceccarelli           milan  co - ownership termination          summer
+1       ita     andreolli            roma  co - ownership termination          summer
+2       ita        cordaz         treviso  co - ownership termination          summer
+3       cmr  maa boumsong         treviso  co - ownership termination          summer
+4       nga       eliakwu       triestina  co - ownership termination          summer
+5       hon         suazo         benfica                        loan          summer
+6       por       maniche  atléticomadrid                    loan end          summer
+7   arg esp        solari     san lorenzo            contract expired          summer
+8       uru        recoba       panionios            contract expired          summer
+9       bra         césar         bologna                    released          summer
+10      hun        filkor        sassuolo                        loan          summer
+11      uru         ribas           dijon                    transfer          summer
+12      por          pelé           porto                       trade          summer
+13      fra       dacourt          fulham                        loan          winter
+14      por      quaresma         chelsea                        loan          winter
+15      ita       bonucci            pisa                        loan          winter
+16  bel mar      maaroufi         vicenza              co - ownership          winter
+17      ita       viviano         brescia                        loan          winter
+18      bra       adriano        flamengo                    released          winter

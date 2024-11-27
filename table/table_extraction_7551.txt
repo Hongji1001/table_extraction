@@ -1,0 +1,7 @@
+       director (s)        writer (s)                  recipient            date  award
+0   edward jeffreys   edward jeffreys               signal films  12 / 03 / 2008   4270
+1         rob curry  anthony fletcher     fifth column films ltd  12 / 03 / 2008   5975
+2  frazer churchill  frazer churchill                    2fc ltd  12 / 03 / 2008   6600
+3      jack herbert      jack herbert        redbag pictures ltd  12 / 03 / 2008   4975
+4     alex winckler     alex winckler     parkville pictures ltd  12 / 03 / 2008   5800
+5  justin trefgarne  justin trefgarne  trinamite productions ltd  12 / 03 / 2008   4955

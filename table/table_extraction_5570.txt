@@ -1,0 +1,38 @@
+          name      location elevationheight            delivery                  purpose         yield
+0        otero   nts area 3q               -   underground shaft  one - point safety test       38 tons
+1   bernalillo   nts area 3h               -   underground shaft  one - point safety test       15 tons
+2         eddy   nts area 7b               -             balloon      weapons development       83 tons
+3         luna  nts area 3 m               -   underground shaft  one - point safety test      1.5 tons
+4      mercury  nts area 12f               -  underground tunnel  one - point safety test       10 tons
+5     valencia   nts area 3r               -   underground shaft  one - point safety test        2 tons
+6         mars  nts area 12f               -  underground tunnel              safety test       13 tons
+7         mora  nts b area 7               -             balloon      weapons development    2 kilotons
+8      hidalgo   nts area 7b               -             balloon              safety test       77 tons
+9       colfax   nts area 3k               -   underground shaft  one - point safety test      5.5 tons
+10   tamalpais  nts area 12b               -  underground tunnel      weapons development       72 tons
+11        quay   nts area 7c               -               tower      weapons development       79 tons
+12         lea   nts area 7b               -             balloon      weapons development  1.4 kilotons
+13     neptune  nts area 12c               -  underground tunnel  one - point safety test      115 tons
+14    hamilton    nts area 5               -               tower      weapons development      1.2 tons
+15       logan  nts area 12e               -  underground tunnel      weapons development    5 kilotons
+16    dona ana   nts area 7b               -             balloon      weapons development       37 tons
+17       vesta   nts area 9e               0             surface  one - point safety test       24 tons
+18  rio arriba   nts area 3s               -  underground tunnel      weapons development       90 tons
+19    san juan   nts area 3p               -   underground shaft  one - point safety test             0
+20     socorro   nts area 3b               -             balloon      weapons development    6 kilotons
+21    wrangell    nts area 5               -             bslloon      weapons development      115 tons
+22      oberon   nts area 8a               -               tower  one - point safety test             0
+23    rushmore   nts area 9a               -             balloon      weapons development      188 tons
+24      catron   nts area 3t               -               tower  one - point safety test       21 tons
+25        juno   nts area 9f               0             surface  one - point safety test      1.7 tons
+26       ceres   nts area 3b               -  underground tunnel  one - point safety test      0.7 tons
+27     sanford    nts area 5               -             balloon      weapons development  4.9 kilotons
+28     de baca   nts area 7b               -             balloon      weapons development  2.2 kilotons
+29      chavez   nts area 3u               -               tower  one - point safety test      0.6 tons
+30       evans  nts area 12b               -  underground tunnel      weapons development       55 tons
+31      mazama    nts area 9               -               tower      weapons development             0
+32    humboldt   nts area 3v               -               tower      weapons development      7.8 tons
+33    santa fe   nts area 7b               -             balloon      weapons development  1.3 kilotons
+34    ganymede  nts area 9 g               0             surface  one - point safety test             0
+35      blanca  nts area 12e               -  underground tunnel      weapons development   22 kilotons
+36     titania   nts area 3c               -               tower  one - point safety test      0.2 tons

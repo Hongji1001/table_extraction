@@ -1,0 +1,9 @@
+   pick                            cfl team              player position            college
+0    26     edmonton eskimos (via hamilton)        andrew brown       lb  lafayette college
+1    27   calgary stampeders (via winnipeg)       riley clayton       ol           manitoba
+2    28  hamilton tiger - cats (via ottawa)    chris sutherland       ol       saskatchewan
+3    29            saskatchewan roughriders       peter hogarth       ol           mcmaster
+4    30                  calgary stampeders  gerald commissiong       rb           stanford
+5    31                   toronto argonauts        obed cãtoute       wr   central michigan
+6    32         montreal alouettes (via bc)        ivan birungi       wr             acadia
+7    33                  montreal alouettes        adrian davis       dl           marshall

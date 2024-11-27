@@ -1,0 +1,6 @@
+   year                        category                    film     result                                     lost to
+0  1996  outstanding supporting actress           jerry maguire  nominated  lauren bacall ( the mirror has two faces )
+1  2001             outstanding actress  bridget jones 's diary  nominated               halle berry ( monsters ball )
+2  2002                outstanding cast                 chicago        won                                           -
+3  2002             outstanding actress                 chicago        won                                           -
+4  2003  outstanding supporting actress           cold mountain        won                                           -

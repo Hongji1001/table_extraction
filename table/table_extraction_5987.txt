@@ -1,0 +1,21 @@
+                     driver         constructor  laps    time / retired  grid
+0        michael schumacher             ferrari    70       1:31:13.591     3
+1           ralf schumacher      williams - bmw    70           + 0.784     1
+2        juan pablo montoya      williams - bmw    70           + 1.355     2
+3           fernando alonso             renault    70           + 4.481     4
+4        rubens barrichello             ferrari    70        + 1:04.261     5
+5            kimi räikkönen  mclaren - mercedes    70        + 1:10.502    20
+6               mark webber   jaguar - cosworth    69           + 1 lap     6
+7             olivier panis              toyota    69           + 1 lap     7
+8            jos verstappen  minardi - cosworth    68          + 2 laps    15
+9          antônio pizzonia   jaguar - cosworth    64            brakes    13
+10       cristiano da matta              toyota    64        suspension     9
+11            justin wilson  minardi - cosworth    60           gearbox    18
+12            jenson button         bar - honda    51           gearbox    17
+13          david coulthard  mclaren - mercedes    47           gearbox    11
+14            nick heidfeld   sauber - petronas    47            engine    12
+15             jarno trulli             renault    22  collision damage     8
+16     giancarlo fisichella       jordan - ford    20           gearbox    16
+17             ralph firman       jordan - ford    20            engine    19
+18       jacques villeneuve         bar - honda    14            brakes    14
+19  heinz - harald frentzen   sauber - petronas     6       electronics    10

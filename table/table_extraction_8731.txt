@@ -1,0 +1,6 @@
+           player afl debut games goals kicks handballs disposals marks tackles
+0  nick batchelor         -     -     -     -         -         -     -       -
+1      todd grima         -     -     -     -         -         -     -       -
+2        sam hunt      2002     -     -     -         -         -     -       -
+3  tim sheringham         -     -     -     -         -         -     -       -
+4      will slade      2002     6     1    32        31        63    21       7

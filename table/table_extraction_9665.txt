@@ -1,0 +1,7 @@
+  call sign  frequency mhz         city of license  erp w class fcc info
+0    w221by           92.1        elgin , illinois     38     d      fcc
+1    w264bf          100.7    englewood , illinois      2     d      fcc
+2    w240bj           95.9   crown point , indiana     10     d      fcc
+3    w276bm          103.1  park forest , illinois     19     d      fcc
+4    w293al          106.5     rochester , indiana     80     d      fcc
+5    w223au           92.5    south bend , indiana     10     d      fcc

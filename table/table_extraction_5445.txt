@@ -1,0 +1,15 @@
+                             riding              candidate gender residence                     occupation  votes rank
+0                    brandon-souris        jean luc bouché      m   brandon            locomotive engineer   6055  2nd
+1   charleswood-st james-assiniboia          fiona shiells      f  winnipeg          ministerial assistant   7190  3rd
+2                         churchill            niki ashton      f  thompson                     researcher   8734  1st
+3      dauphin-swan river-marquette          ron strynadka      m    birtle                        retired   4914  2nd
+4                 elmwood-transcona            jim maloway      m  winnipeg              small businessman  14355  1st
+5                  kildonan-st paul             ross eadie      m  winnipeg     self employed / consultant  12093  2nd
+6                    portage-lisgar           mohamed alli      m  winnipeg  distribution centre associate   2353  4th
+7                        provencher          ross c martin      m   oakbank             design coordinator   4947  2nd
+8                    saint boniface       matt schaubroeck      m  winnipeg                        student   5502  3rd
+9                 selkirk-interlake       patricia cordner      f   selkirk                        retired   9506  2nd
+10                  winnipeg centre             pat martin      m  winnipeg                parliamentarian  12285  1st
+11                   winnipeg north  judy wasylycia - leis      f  winnipeg                parliamentarian  14097  1st
+12                   winnipeg south            sean robert      m  winnipeg      product consultant - mlcc   4673  3rd
+13            winnipeg south centre       rachel heinrichs      f  winnipeg                        student   5490  3rd

@@ -1,0 +1,8 @@
+                    title studio                 role    leading lady        director
+0        the oregon trail    rep    capt john delmont  ann rutherford  scott pembroke
+1    the lawless nineties    rep          john tipton  ann rutherford     joseph kane
+2       king of the pecos    rep        john clayborn    muriel evans     joseph kane
+3        the lonely trail    rep  captain john ashley  ann rutherford     joseph kane
+4  winds of the wasteland    rep           john blair  phyllis fraser   mack v wright
+5            sea spoilers    uni          bob randall        nan grey   frank strayer
+6                conflict    uni          pat glendon     jean rogers    david howard

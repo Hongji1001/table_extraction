@@ -1,0 +1,10 @@
+   year us hot 100 us r&b us rap                                         album
+0  1995          -      -      -   down south hustlers : bouncin' and swingin'
+1  1996          -      -      -                                          true
+2  1997         71     27     11                                 tru 2 da game
+3  1999          -     61      6                               da crime family
+4  1999          -     31      -                               da crime family
+5  2000         17      2      1                                    goodfellas
+6  2002          -      -      -  west coast bad boyz , vol 3: poppin' collars
+7  2002          -      -      -                                       ballers
+8  2008          -      -      -                               hip hop history

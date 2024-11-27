@@ -1,0 +1,19 @@
+                     team                head coach          team captain         kitmaker                   shirt sponsor
+0        alemannia aachen          jürgen seeberger    reiner plaßhenrich             jako                aachen münchener
+1         rot weiss ahlen          stefan emmerling        daniel thioune             jako                          reflex
+2             fc augsburg               jos luhukay           lars müller  do you football                          impuls
+3            msv duisburg            peter neururer           ivica grlić         uhlsport                          evonik
+4           fsv frankfurt                tomas oral       angelo barletta             jako                         hyundai
+5             sc freiburg                robin dutt        heiko butscher             jako                         duravit
+6    spvgg greuther fürth            benno möhlmann    daniel felgenhauer             jako  karstadt quelle versicherungen
+7           fc ingolstadt              horst köppel          stefan leitl             nike                            audi
+8    1. fc kaiserslautern  alois schwartz (interim)    axel bellinghausen            kappa      deutsche vermögensberatung
+9             tus koblenz              uwe rapolder        branimir bajić             nike                 rhein - zeitung
+10        1. fsv mainz 05             jørn andersen            dimo wache             nike                dbv - winterthur
+11        tsv 1860 munich              ewald lienen       daniel bierofka            erima                     trenkwalder
+12        1. fc nuremberg           michael oenning          andreas wolf           adidas                           areva
+13  rot - weiß oberhausen           jürgen luginger     benjamin reichert         uhlsport                           vatro
+14          vfl osnabrück    claus - dieter wollitz  thomas reichenberger             puma                       herforder
+15       fc hansa rostock         andreas zachhuber          martin retov           masita                          lübzer
+16            fc st pauli       holger stanislawski          fabio morena  do you football                        congstar
+17     sv wehen wiesbaden  sandro schwarz (interim)       alexander walke             nike                       victor 's

@@ -1,0 +1,40 @@
+               category              type           attribute bubbles cancelable
+0             clipboard               cut               oncut     yes        yes
+1             clipboard              copy              oncopy     yes        yes
+2             clipboard             paste             onpaste     yes        yes
+3             clipboard         beforecut         onbeforecut     yes        yes
+4             clipboard        beforecopy        onbeforecopy     yes        yes
+5             clipboard       beforepaste       onbeforepaste     yes        yes
+6          data binding       afterupdate       onafterupdate     yes         no
+7          data binding      beforeupdate      onbeforeupdate     yes        yes
+8          data binding        cellchange        oncellchange     yes         no
+9          data binding     dataavailable     ondataavailable     yes         no
+10         data binding    datasetchanged    ondatasetchanged     yes         no
+11         data binding   datasetcomplete   ondatasetcomplete     yes         no
+12         data binding       errorupdate       onerrorupdate     yes         no
+13         data binding          rowenter          onrowenter     yes         no
+14         data binding           rowexit           onrowexit      no        yes
+15         data binding        rowsdelete        onrowsdelete     yes         no
+16         data binding       rowinserted       onrowinserted     yes         no
+17                mouse       contextmenu       oncontextmenu     yes        yes
+18                mouse              drag              ondrag     yes        yes
+19                mouse         dragstart         ondragstart     yes        yes
+20                mouse         dragenter         ondragenter     yes        yes
+21                mouse          dragover          ondragover     yes        yes
+22                mouse         dragleave         ondragleave     yes        yes
+23                mouse           dragend           ondragend     yes        yes
+24                mouse              drop              ondrop     yes        yes
+25                mouse       selectstart       onselectstart     yes        yes
+26             keyboard              help              onhelp     yes        yes
+27  html frame / object      beforeunload      onbeforeunload      no        yes
+28  html frame / object              stop              onstop      no         no
+29            html form   beforeeditfocus   onbeforeeditfocus     yes        yes
+30              marquee             start             onstart      no         no
+31              marquee            finish            onfinish      no        yes
+32              marquee            bounce            onbounce      no        yes
+33        miscellaneous       beforeprint       onbeforeprint      no         no
+34        miscellaneous        afterprint        onafterprint      no         no
+35        miscellaneous    propertychange    onpropertychange      no         no
+36        miscellaneous      filterchange      onfilterchange      no         no
+37        miscellaneous  readystatechange  onreadystatechange      no         no
+38        miscellaneous       losecapture       onlosecapture      no         no

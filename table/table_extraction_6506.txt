@@ -1,0 +1,18 @@
+                      navy          name pennant  commissioned    home port
+0               royal navy        brecon     m29          1980  hms raleigh
+1               royal navy       ledbury     m30          1981   portsmouth
+2               royal navy    cattistock     m31          1982   portsmouth
+3               royal navy    cottesmore     m32          1983   portsmouth
+4               royal navy    brocklesby     m33          1982   portsmouth
+5               royal navy     middleton     m34          1984   portsmouth
+6               royal navy     dulverton     m35          1983   portsmouth
+7               royal navy      bicester     m36          1988   portsmouth
+8               royal navy  chiddingfold     m37          1984   portsmouth
+9               royal navy    atherstone     m38          1986   portsmouth
+10              royal navy      hurworth     m39          1985   portsmouth
+11              royal navy      berkeley     m40          1986   portsmouth
+12              royal navy         quorn     m41          1989   portsmouth
+13           hellenic navy        europa     m62          2001      salamis
+14           hellenic navy      kallisto     m63          2000      salamis
+15  lithuanian naval force       skalvis     m53          2011     klaipėda
+16  lithuanian naval force        kuršis     m51          2011     klaipėda

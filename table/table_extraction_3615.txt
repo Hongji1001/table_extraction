@@ -1,0 +1,6 @@
+            city state or territory           station call sign network  channel number                    programs aired
+0        chicago           illinois                   wbbm - tv     cbs               2  juke box jury sheriff of cochise
+1    los angeles         california  krca - tv (now knbc - tv )     nbc               4                        grand jury
+2  new york city           new york                   wabc - tv     abc               7                        us marshal
+3  new york city           new york                   wcbs - tv     cbs               2                 man without a gun
+4  new york city           new york                   wnbc - tv     nbc               4          grand jury the third man

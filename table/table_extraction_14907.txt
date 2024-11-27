@@ -1,0 +1,20 @@
+   season   class                     bike                       team  race  pole  flap
+0    1996   125cc            aprilia rs125       scuderia agv aprilia    15     1     2
+1    1997   125cc            aprilia rs125     nastro azzurro aprilia    15     4     7
+2    1998   250cc            aprilia rs250     nastro azzurro aprilia    14     0     3
+3    1999   250cc            aprilia rs250  aprilia grand prix racing    16     5     8
+4    2000   500cc             honda nsr500       nastro azzurro honda    16     0     5
+5    2001   500cc             honda nsr500       nastro azzurro honda    16     4    10
+6    2002  motogp             honda rc211v               repsol honda    16     7     9
+7    2003  motogp             honda rc211v               repsol honda    16     9    12
+8    2004  motogp          yamaha yzr - m1   gauloises fortuna yamaha    16     5     3
+9    2005  motogp          yamaha yzr - m1           gauloises yamaha    17     5     6
+10   2006  motogp          yamaha yzr - m1               camel yamaha    17     5     4
+11   2007  motogp          yamaha yzr - m1                fiat yamaha    18     4     3
+12   2008  motogp          yamaha yzr - m1                fiat yamaha    18     2     5
+13   2009  motogp          yamaha yzr - m1                fiat yamaha    17     7     6
+14   2010  motogp          yamaha yzr - m1                fiat yamaha    14     1     2
+15   2011  motogp  ducati desmosedici gp11               ducati corse    17     0     1
+16   2012  motogp  ducati desmosedici gp12               ducati corse    18     0     1
+17   2013  motogp          yamaha yzr - m1               yamaha - ymr    17     0     1
+18  total   total                    total                      total   293    59    88

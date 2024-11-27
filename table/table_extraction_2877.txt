@@ -1,0 +1,8 @@
+           school   nickname        location                colors    type membership tenure                                    notes
+0     black river    pirates        sullivan          black , gold  public       1964 - 1993  left for the mac , currently in the pac
+1          edison   chargers           milan         blue , orange  public       1968 - 1986                         left for the sbc
+2  berlin heights     tigers  berlin heights        orange , black  public       1960 - 1968      consolidated into edison hs in 1968
+3           milan    indians           milan                   red  public       1960 - 1968      consolidated into edison hs in 1968
+4       hillsdale    falcons    jeromesville  columbia blue , gold  public       1963 - 1970                        left for the wcal
+5      hayesville   panthers      hayesville        orange , black  public       spring 1963   consolidated into hillsdale hs in 1963
+6    jeromesville  blue jays    jeromesville          blue , white  public       spring 1963   consolidated into hillsdale hs in 1963

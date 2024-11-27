@@ -1,0 +1,36 @@
+         date   opponent       score                   loss   record
+0    august 1  athletics       4 - 3       morehead (0 - 1)  56 - 45
+1    august 1  athletics       8 - 3        sanford (4 - 4)  57 - 45
+2    august 2  athletics       8 - 6          wyatt (5 - 5)  57 - 46
+3    august 3  athletics       5 - 3        hunter (9 - 11)  58 - 46
+4    august 4      twins       3 - 0        brandon (4 - 9)  58 - 47
+5    august 5      twins       2 - 1         stange (7 - 7)  58 - 48
+6    august 6      twins   2 - 0 (5)       lonborg (15 - 5)  58 - 49
+7    august 7  athletics       5 - 3       morehead (1 - 2)  58 - 50
+8    august 8  athletics       7 - 5       stafford (0 - 1)  59 - 50
+9    august 9  athletics       5 - 1         nash (10 - 11)  60 - 50
+10  august 11     angels       1 - 0         stange (7 - 8)  60 - 51
+11  august 12     angels       2 - 1          bell (7 - 10)  60 - 52
+12  august 13     angels       3 - 2       lonborg (16 - 6)  60 - 53
+13  august 15     tigers       4 - 0        sparma (12 - 5)  61 - 53
+14  august 16     tigers       8 - 3       mclain (15 - 13)  62 - 53
+15  august 17     tigers  7 - 4 (10)           lyle (1 - 1)  62 - 54
+16  august 18     angels       3 - 2       hamilton (6 - 3)  63 - 54
+17  august 19     angels     12 - 11         coates (0 - 2)  64 - 54
+18  august 20     angels      12 - 2       brunet (11 - 15)  65 - 54
+19  august 20     angels       9 - 8          rojas (9 - 8)  66 - 54
+20  august 21   senators       6 - 5        knowles (5 - 7)  67 - 54
+21  august 22   senators       2 - 1         ortega (9 - 6)  68 - 54
+22  august 22   senators       5 - 3            cox (6 - 2)  69 - 54
+23  august 23   senators       3 - 2           lyle (1 - 2)  69 - 55
+24  august 24   senators       7 - 5           nold (0 - 2)  70 - 55
+25  august 25  white sox       7 - 1        peters (14 - 7)  71 - 55
+26  august 25  white sox       2 - 1          wyatt (7 - 6)  71 - 56
+27  august 26  white sox       6 - 2        horlen (14 - 5)  72 - 56
+28  august 27  white sox       4 - 3         klages (2 - 3)  73 - 56
+29  august 27  white sox  1 - 0 (11)       brandon (5 - 10)  73 - 57
+30  august 28    yankees       3 - 0         talbot (5 - 7)  74 - 57
+31  august 29    yankees       2 - 1  stottlemyre (13 - 11)  75 - 57
+32  august 29    yankees  4 - 3 (20)       brandon (5 - 11)  75 - 58
+33  august 30    yankees  2 - 1 (11)       downing (12 - 8)  76 - 58
+34  august 31  white sox       4 - 2         bell (10 - 11)  76 - 59

@@ -1,0 +1,36 @@
+               ship  date commissioned  gross tonnage propulsion material
+0           actaeon               1842            650     paddle     wood
+1              avon               1842           2069     paddle     wood
+2   city of glasgow               1842           1700     paddle     wood
+3             clyde               1842           1841     paddle     wood
+4               dee               1842           1849     paddle     wood
+5             forth               1842           1900     paddle     wood
+6              isis               1842           1900     paddle     wood
+7             larne               1842            300   schooner     wood
+8               lee               1842            250   schooner     wood
+9            liffey               1842            350   schooner     wood
+10           medina               1842           1800     paddle     wood
+11           medway               1842           1895     paddle     wood
+12           severn               1842           1886     paddle     wood
+13           solway               1842           1700     paddle     wood
+14              tay               1842           1858     paddle     wood
+15           teviot               1842           1744     paddle     wood
+16           thames               1842           1889     paddle     wood
+17            trent               1842           1856     paddle     wood
+18            tweed               1842           1800     paddle     wood
+19         reindeer               1845            600     paddle     wood
+20           conway               1846            895     paddle     wood
+21            eagle               1846            630     paddle     wood
+22    great western               1847           1775     paddle     wood
+23          derwent               1849            794     paddle     wood
+24              esk               1849            232      screw     wood
+25           amazon               1851           2256     paddle     wood
+26         demerara               1851           2318     paddle     wood
+27          oronico               1851           2901     paddle     wood
+28           prince               1851            446     paddle     iron
+29         la plata               1852           2826     paddle     wood
+30        magdalena               1852           2943     paddle     wood
+31           parana               1852           3070     paddle     wood
+32          camilla               1853            539     paddle     wood
+33           atrato               1853           3184     paddle     iron
+34         rmsrhone               1865           2738      screw     iron

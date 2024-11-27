@@ -1,0 +1,23 @@
+              player       no    nationality          position  years in toronto              school / club team
+0         mark baker        3  united states             guard         1998 - 99                      ohio state
+1       marcus banks        3  united states             guard         2009 - 10                            unlv
+2    leandro barbosa       20         brazil             guard       2010 - 2012    tilibra / copimax ( brazil )
+3    andrea bargnani        7          italy  forward - center       2006 - 2013      benetton treviso ( italy )
+4      andre barrett       12  united states       point guard              2006                      seton hall
+5       maceo baston   9 , 14  united states           forward  2003 , 2007 - 08                        michigan
+6      mengke bateer  14 , 42          china            center         2003 - 04         beijing ducks ( china )
+7       lonny baxter       35  united states           forward         2003 - 04                        maryland
+8     jerryd bayless        5  united states             guard       2010 - 2012                         arizona
+9    marco belinelli        0          italy             guard       2009 - 2010     fortitudo bologna ( italy )
+10   benoit benjamin        7  united states            center              1996                       creighton
+11  chauncey billups        3  united states             guard              1998                        colorado
+12      corie blount       44  united states  forward - center              2004                      cincinnati
+13     muggsy bogues       14  united states             guard       1999 - 2001                     wake forest
+14       matt bonner       16  united states           forward         2004 - 06                         florida
+15        chris bosh        4  united states  forward - center         2003 - 10                    georgia tech
+16   michael bradley   5 , 33  united states  forward - center         2001 - 04                       villanova
+17    primoå¾ brezec        1       slovenia            center              2008  kk union olimpija ( slovenia )
+18      damone brown       54  united states           forward         2002 - 03                        syracuse
+19         dee brown        7  united states             guard       1998 - 2000                    jacksonville
+20      rick brunson        9  united states             guard              2003                          temple
+21     rasual butler        9  united states   guard - forward         2011 - 12                        la salle

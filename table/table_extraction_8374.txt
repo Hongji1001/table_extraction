@@ -1,0 +1,6 @@
+                              player  overs figures           opponent         ground
+0  ben edmondson (western australia)    4.0  4 / 14    south australia  adelaide oval
+1     steven smith (new south wales)    3.3  4 / 15         queensland    anz stadium
+2             dirk nannes (victoria)    4.0  4 / 23  western australia    waca ground
+3     steven smith (new south wales)    3.3  3 / 18  western australia    anz stadium
+4    brett dorey (western australia)    4.0  3 / 19         queensland    waca ground

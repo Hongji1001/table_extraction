@@ -1,0 +1,13 @@
+               english galician ( official ) galician ( reintegrationist )           portuguese               spanish
+0         good morning     bo día / bos días                       bom dia  bom dia / bons dias           buenos días
+1    what is your name        como te chamas                como te chamas       como te chamas       ¿cómo te llamas
+2           i love you       quérote / ámote                      amo - te             amo - te    te quiero / te amo
+3            excuse me              desculpe                      desculpe             desculpe     perdón / disculpe
+4   thanks / thank you                grazas                      obrigado             obrigado               gracias
+5              welcome               benvido                    bem - vido          bem - vindo            bienvenido
+6              goodbye                 adeus                         adeus                adeus                 adiós
+7                  yes                    si                           sim                  sim                    sí
+8                   no                   non                           nom                  não                    no
+9                  dog                   can                           cam                  cão  perro (rarely , can)
+10         grandfather            avó / aˈbo                    avô / ɐˈvo           avô / ɐˈvo                abuelo
+11           newspaper    periódico / xornal                        jornal               jornal             periódico

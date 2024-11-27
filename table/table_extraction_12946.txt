@@ -1,0 +1,13 @@
+      name                      cyl     bore  capacity        power          weight
+0     9 ad           9 - cyl radial  mm (in)  l (cuin)  at 2000 rpm  weight kg (lb)
+1    9 adb           9 - cyl radial  mm (in)  l (cuin)  at 2200 rpm  weight kg (lb)
+2    9 adr           9 - cyl radial  mm (in)  l (cuin)  at 2700 rpm  weight kg (lb)
+3     7 ac           7 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+4     9 ac           9 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+5     9 nc           9 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+6    9 nct           9 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+7     9 ab           9 - cyl radial  mm (in)  l (cuin)  at 1700 rpm  weight kg (lb)
+8     9 na           9 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+9    9 nas           9 - cyl radial  mm (in)  l (cuin)  at 1800 rpm  weight kg (lb)
+10   18 ab  18 - cyl 2 - row radial  mm (in)  l (cuin)  at 1700 rpm  weight kg (lb)
+11  18 abs  18 - cyl 2 - row radial  mm (in)  l (cuin)  at 1700 rpm  weight kg (lb)

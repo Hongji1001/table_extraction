@@ -1,0 +1,38 @@
+    year           champion                                             venue                      location   score
+0   2013       frank bensel                  pga golf club , wanamaker course       port st lucie , florida     278
+1   2012         jake scott                  pga golf club , wanamaker course       port st lucie , florida     271
+2   2011       frank bensel                  pga golf club , wanamaker course       port st lucie , florida     283
+3   2010       frank bensel                  pga golf club , wanamaker course       port st lucie , florida     277
+4   2009         tim thelen                  pga golf club , wanamaker course       port st lucie , florida     265
+5   2008         kyle voska                  pga golf club , wanamaker course       port st lucie , florida     279
+6   2007        chris moody                  pga golf club , wanamaker course       port st lucie , florida     277
+7   2006        brad lardon                      pga golf club , ryder course       port st lucie , florida     274
+8   2005       kyle flinton                  pga golf club , wanamaker course       port st lucie , florida     282
+9   2004   kirk satterfield                  pga golf club , wanamaker course       port st lucie , florida     278
+10  2003       kyle flinton                        pga golf club , dye course       port st lucie , florida     270
+11  2002       kyle flinton                  pga golf club , wanamaker course       port st lucie , florida     271
+12  2001        frank dobbs                  pga golf club , wanamaker course       port st lucie , florida     281
+13  2000       alan schulte                      pga golf club , south course       port st lucie , florida     282
+14  1999  randall mccracken                  pga golf club , wanamaker course       port st lucie , florida     211
+15  1998          rick gehr                      pga golf club , ryder course       port st lucie , florida     280
+16  1997        jim schuman                      pga golf club , ryder course       port st lucie , florida  280 po
+17  1996        jim schuman                  pga golf club , wanamaker course       port st lucie , florida     276
+18  1995     bruce zabriski  pga national golf club , haig & champion courses  palm beach gardens , florida     282
+19  1994     wes short , jr           pga west , jack nicklaus private course        la quinta , california     283
+20  1993        steve brady           pga west , jack nicklaus private course        la quinta , california     284
+21  1992      bill loeffler           pga west , jack nicklaus private course        la quinta , california     283
+22  1991       kim thompson           pga west , jack nicklaus private course        la quinta , california     278
+23  1990      steve gotsche                              thorny lea golf club      brockton , massachusetts     205
+24  1989          mike west                              thorny lea golf club      brockton , massachusetts     210
+25  1988   webb heintzelman                              thorny lea golf club      brockton , massachusetts     205
+26  1987    darrell kestner                              thorny lea golf club      brockton , massachusetts  210 po
+27  1986    robert thompson                              thorny lea golf club      brockton , massachusetts     209
+28  1985       john fiedler                              thorny lea golf club      brockton , massachusetts     211
+29  1984          fred funk                              thorny lea golf club      brockton , massachusetts     206
+30  1983   victor tortorici                              thorny lea golf club      brockton , massachusetts     214
+31  1982    darrell kestner                              thorny lea golf club      brockton , massachusetts  213 po
+32  1981       ted o'rourke                              thorny lea golf club      brockton , massachusetts     210
+33  1980       john jackson                              thorny lea golf club      brockton , massachusetts     205
+34  1979      loren roberts                              thorny lea golf club      brockton , massachusetts     212
+35  1978      larry griffin                              thorny lea golf club      brockton , massachusetts     209
+36  1977          mike zack                              thorny lea golf club      brockton , massachusetts     209

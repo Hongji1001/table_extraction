@@ -1,0 +1,10 @@
+   year              tournament                  venue result   distance
+0  1975     world student games           rome , italy    5th  decathlon
+1  1976           olympic games      montreal , canada   16th  decathlon
+2  1979     world student games   mexico city , mexico    6th  decathlon
+3  1980           olympic games  moscow , soviet union    4th  decathlon
+4  1981     world student games    bucharest , romania    3rd  decathlon
+5  1982  european championships        athens , greece    5th  decathlon
+6  1983     world student games      edmonton , canada    3rd  decathlon
+7  1984           olympic games      los angeles , usa    9th  decathlon
+8  1988           olympic games    seoul , south korea   21st  decathlon

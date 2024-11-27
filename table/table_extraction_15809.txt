@@ -1,0 +1,11 @@
+   year  class                 team machine  points  rank  wins
+0  1986  500cc       rizla - suzuki   rg500     2.0  22nd     0
+1  1987  500cc       heron - suzuki  rgv500    11.0  16th     0
+2  1988  500cc         pepsi suzuki  rgv500   119.0   8th     2
+3  1989  500cc         pepsi suzuki  rgv500   162.5   4th     6
+4  1990  500cc  lucky strike suzuki  rgv500   188.0   2nd     5
+5  1991  500cc  lucky strike suzuki  rgv500   204.0   3rd     5
+6  1992  500cc  lucky strike suzuki  rgv500   199.0   4th     1
+7  1993  500cc  lucky strike suzuki  rgv500   248.0   1st     4
+8  1994  500cc  lucky strike suzuki  rgv500   169.0   4th     2
+9  1995  500cc  lucky strike suzuki  rgv500    34.0  15th     0

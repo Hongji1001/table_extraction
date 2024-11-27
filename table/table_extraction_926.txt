@@ -1,0 +1,23 @@
+    school year           class a      class aa        class aaa                 class aaaa               class aaaaa
+0     1988 - 89            plains   shallowater           bishop       port neches - groves                   mcallen
+1     1989 - 90            plains   shallowater           bishop                       azle           converse judson
+2     1990 - 91     sterling city   shallowater          bandera            carrizo springs                   lubbock
+3     1991 - 92        san isidro      stamford        ingleside            carrizo springs                   lubbock
+4     1992 - 93         westbrook        quanah  carrizo springs         longview pine tree                   mcallen
+5     1993 - 94              rule      stamford  carrizo springs         longview pine tree                   lubbock
+6     1994 - 95              rule      stamford       bridgeport         gregory - portland         sugar land elkins
+7     1995 - 96              rule      stamford       bridgeport         longview pine tree         sugar land elkins
+8     1996 - 97  henrietta midway        plains       bridgeport         longview pine tree  pharr - san juan - alamo
+9     1997 - 98              rule        plains       santa rosa                       azle                     klein
+10    1998 - 99       valley view      hamilton       santa rosa   pharr - san juan - alamo                     klein
+11  1999 - 2000       valley view      hamilton       bridgeport             fredericksburg                   mcallen
+12    2000 - 01          nazareth       elkhart       bridgeport   pharr - san juan - alamo                     klein
+13    2001 - 02          nazareth       elkhart       bridgeport         longview pine tree     san antonio southwest
+14    2002 - 03            plains       elkhart       bridgeport         longview pine tree     san antonio southwest
+15    2003 - 04  henrietta midway        argyle       bridgeport   pharr - san juan - alamo     san antonio southwest
+16    2004 - 05            plains        argyle       bridgeport         longview pine tree                   lubbock
+17    2005 - 06       garden city        argyle      bridge city         longview pine tree  pharr - san juan - alamo
+18    2006 - 07       garden city        salado      bridge city  mission veterans memorial                   lubbock
+19    2007 - 08        san isidro       elkhart      bridge city                  nederland                     klein
+20    2008 - 09           lindsay       elkhart           argyle         longview pine tree        fort bend clements
+21    2009 - 10         poolville  paris chisum           argyle  mission veterans memorial   galena park north shore

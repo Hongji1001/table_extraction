@@ -1,0 +1,15 @@
+    track                     title              translation                                      composer        recorded
+0       1               les bonbons              the candies                                  jacques brel  1964 - 01 - 07
+1       2                 les vieux               old people  jacques brel , jean corti , gérard jouannest  1963 - 04 - 10
+2       3                la parlote                  chatter               jacques brel , gérard jouannest  1963 - 04 - 02
+3       4          le dernier repas            the last meal                                  jacques brel  1964 - 01 - 08
+4       5                    titine                   titine                                  jacques brel  1964 - 03 - 07
+5       6                au suivant                     next                                  jacques brel  1964 - 01 - 09
+6       7                 les toros                the bulls  jacques brel , jean corti , gérard jouannest  1963 - 04 - 03
+7       8                la fanette                  fanette                                  jacques brel  1963 - 04 - 03
+8       9                  j'aimais                  i loved               jacques brel , gérard jouannest  1963 - 04 - 10
+9      10  les filles et les chiens   the girls and the dogs               jacques brel , gérard jouannest  1963 - 04 - 03
+10     11               les bigotes               the bigots                                  jacques brel  1963 - 04 - 10
+11     12              les fenêtres              the windows               jacques brel , gérard jouannest  1963 - 04 - 02
+12     13     quand maman reviendra      when mother returns                                  jacques brel  1963 - 04 - 02
+13     14         les amants de cur  the lovers of the heart                     jacques brel , rod mckuen  1964 - 03 - 07

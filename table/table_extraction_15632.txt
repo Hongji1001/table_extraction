@@ -1,0 +1,23 @@
+    draw    language                                  artist                                     song           english translation  place  points
+0      1     italian                 anna oxa & fausto leali                             avrei voluto             i would've wanted      9      56
+1      2      hebrew                          gili and galit               derekh hamelekh (דרך המלך)              the king 's road     12      50
+2      3     english  kiev connolly & the missing passengers                              the real me                             -     18      21
+3      4       dutch                        justine pelmelay                      blijf zoals je bent          stay the way you are     15      45
+4      5     turkish                                     pan                                bana bana                 to me , to me     21       5
+5      6       dutch                                ingeborg                             door de wind              through the wind     19      13
+6      7     english                             live report             why do i always get it wrong                             -      2     130
+7      8   norwegian                  britt synnøve johansen                           venners nærhet      the closeness of friends     17      30
+8      9  portuguese                                da vinci                             conquistador                     conqueror     16      39
+9     10     swedish                           tommy nilsson                                   en dag                       one day      4     110
+10    11      french                               park café                                 monsieur                        mister     20       8
+11    12      danish                             birthe kjær                        vi maler byen rød  we 're painting the town red      3     111
+12    13      german                         thomas forstner                             nur ein lied                   just a song      5      97
+13    14     finnish                         anneli saaristo                            la dolce vita                 the good life      7      76
+14    15      french                           nathalie pque                         j'ai volé la vie                  i stole life      8      60
+15    16     spanish                                    nina                         nacida para amar                  born to love      6      88
+16    17       greek      fani polymeri & yiannis savvidakis  apopse as vrethoume (απόψε ας βρεθούμε)           let 's meet tonight     11      51
+17    18     romansh                                  furbaz                          viver senza tei           to live without you     13      47
+18    19       greek                      mariana efstratiou  to dhiko su asteri (το δικό σου αστέρι)                 your own star      9      56
+19    20   icelandic                 daníel ágúst haraldsson                       það sem enginn sér              what no one sees     22       0
+20    21      german                          nino de angelo                                  flieger                        flyers     14      46
+21    22    croatian                                    riva                                  rock me                             -      1     137

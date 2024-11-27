@@ -1,0 +1,6 @@
+             date            home score      away  attendance
+0  4 october 2008            vida   1:3  marathón         811
+1  4 october 2008     real españa   3:2   motagua        5436
+2  5 october 2008  deportes savio   2:1  platense        2204
+3  5 october 2008   real juventud   3:1   hispano         535
+4  5 october 2008         olimpia   2:1  victoria        1107

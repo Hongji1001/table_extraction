@@ -1,0 +1,6 @@
+  chemical class   group formula    prefix          suffix                          example
+0     haloalkane    halo      rx    halo -    alkyl halide    chloroethane (ethyl chloride)
+1   fluoroalkane  fluoro      rf  fluoro -  alkyl fluoride  fluoromethane (methyl fluoride)
+2   chloroalkane  chloro     rcl  chloro -  alkyl chloride  chloromethane (methyl chloride)
+3    bromoalkane   bromo     rbr   bromo -   alkyl bromide    bromomethane (methyl bromide)
+4     iodoalkane    iodo      ri    iodo -    alkyl iodide      iodomethane (methyl iodide)

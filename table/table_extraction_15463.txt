@@ -1,0 +1,28 @@
+                driver                     entrant          constructor          time / retired  grid
+0         peter gethin               yardley - brm                  brm                 19:54.4     2
+1   emerson fittipaldi        gold leaf team lotus     lotus - cosworth                 + 0.2 s     3
+2       jackie stewart            elf team tyrrell   tyrrell - cosworth                 + 5.4 s     6
+3           jo siffert               yardley - brm                  brm                + 12.8 s     1
+4         tim schenken   motor racing developments   brabham - cosworth                + 15.6 s     7
+5         john surtees                team surtees   surtees - cosworth                + 16.0 s    10
+6      françois cevert            elf team tyrrell   tyrrell - cosworth                + 24.8 s    13
+7          graham hill   motor racing developments   brabham - cosworth                + 31.6 s    12
+8     carlos reutemann   motor racing developments   brabham - cosworth                + 33.4 s    11
+9       alan rollinson              alan rollinson  surtees - chevrolet                + 56.4 s    17
+10       frank gardner       motor racing research     lola - chevrolet                + 56.6 s    14
+11         mike walker               doug hardwick     lola - chevrolet                + 58.0 s    16
+12        gordon spice                gordon spice  mclaren - chevrolet              + 1:10.2 s    20
+13       teddy pilette             racing team vds  mclaren - chevrolet              + 1:11.4 s    22
+14       keith holland               keith holland  mclaren - chevrolet              + 1:12.2 s    19
+15     ronnie peterson                   stp march     march - cosworth              + 1:15.8 s     4
+16           ray allen                 team trojan  mclaren - chevrolet                 13 laps    21
+17          ian ashley              kaye griffiths     lola - chevrolet                 13 laps    24
+18       david prophet        david prophet racing  mclaren - chevrolet                 13 laps    25
+19         guy edwards              jt butterworth  mclaren - chevrolet                 12 laps    26
+20       jackie oliver  bruce mclaren motor racing   mclaren - cosworth                  brakes     9
+21       trevor taylor              malaya garages     leda - chevrolet             overheating    23
+22       howden ganley               yardley - brm                  brm                  engine     8
+23       mike hailwood                team surtees   surtees - cosworth  suspension (collision)     5
+24       fred saunders               fred saunders      crosslé - rover             engine fire    27
+25     henri pescarolo  frank williams racing cars     march - cosworth               collision    15
+26        reine wisell                  sid taylor  mclaren - chevrolet               collision    18

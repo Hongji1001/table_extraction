@@ -1,0 +1,10 @@
+     tournament     surface         week                                         winner                 finalist                             semifinalists
+0  indian wells        hard     march 13             palmer / o'brien 6 - 4 , 7 - 6 (5)        haarhuis / stolle  federer / hrbatý w ferreira / kafelnikov
+1   key biscane        hard     march 20           woodbridge / woodforde 6 - 3 , 6 - 4            damm / hrbatý      o'brien / palmer galbraith / macphie
+2   monte carlo        clay     april 17  w ferreira / kafelnikov 6 - 3 , 2 - 6 , 6 - 1        haarhuis / stolle         o'brien / palmer escudé / federer
+3          rome        clay        may 8            damm / hrbatý 6 - 4 , 4 - 6 , 6 - 3  w ferreira / kafelnikov        lapentti / ríos bertolini / brandi
+4       hamburg        clay       may 15   woodbridge / woodforde 6 - 7 (4) 6 - 4 6 - 3         arthurs / stolle           hewitt / rafter eagle / florent
+5       toronto        hard      july 31                lareau / nestor 6 - 3 7 - 6 (3)          eagle / florent        johnson / norval björkman / mirnyi
+6    cincinnati        hard     august 7         woodbridge / woodforde 7 - 6 (6) 6 - 4       e ferreira / leach              novák / rikl lareau / nestor
+7     stuttgart  carpet (i)   october 30             novák / rikl 3 - 6 , 6 - 3 , 6 - 4         johnson / norval    arthurs / zimonjić björkman / prinosil
+8         paris  carpet (i)  november 13                haarhuis / nestor 6 - 4 , 7 - 5           kulti / mirnyi         garcía / nargiso o'brien / palmer

@@ -1,0 +1,6 @@
+          goalkeeper  goals  matches  average              team
+0      josé bermúdez     18       33     0.55  cultural leonesa
+1     joel rodríguez     24       36     0.67           celta b
+2  igor etxebarrieta     21       30     0.70            lemona
+3     daniel giménez     34       38     0.89            zamora
+4    miguel escalona     34       34     1.00          guijuelo

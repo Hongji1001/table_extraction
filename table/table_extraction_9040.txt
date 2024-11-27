@@ -1,0 +1,21 @@
+   index                    name chinese name                  country                        status
+0     f1      yap wei chee tracy          叶惠慈  malaysia , kuala lumpur                    eliminated
+1     f2      pan hung hsi celia          潘虹熹          taipei , taiwan               2nd runner - up
+2     f3               zhou ying           周颖         china , shanghai                    eliminated
+3     f4   pan pei yun priscilla          潘姵澐                singapore                    eliminated
+4     f5      goh hwee li jeneen          吴惠丽                singapore                    eliminated
+5     f6         lin peiqi angel          林佩琪         china , shanghai                    eliminated
+6     f7            koh yah hwee          许雅慧                singapore      runner - up ms telegenic
+7     f8            lee mei leng          李美玲  malaysia , kuala lumpur                    eliminated
+8     f9     leow yin ning jvnne          廖尹宁                singapore                    eliminated
+9    f10        neo wei zhi iren          梁溦芝                singapore                    eliminated
+10    m1            chang hao yi          张昊艺          taipei , taiwan                    eliminated
+11    m2   chang kay yong marcus          张家荣                singapore                    eliminated
+12    m3   huan kuan chieh reeve          黄冠捷          taipei , taiwan                    eliminated
+13    m4       yeo wee lie jerry          杨伟烈                singapore  1st runner - up most popular
+14    m5      chen bangjun andie          陈邦鋆                singapore                      champion
+15    m6  tan chin jiang desmond          陈泂江                singapore                   runner - up
+16    m7          chang hao ying          张昊颖          taipei , taiwan                    eliminated
+17    m8   tan sia chong jackson          陈侠中                singapore    runner - up mr personality
+18    m9               lin kelun          林克伦                singapore                    eliminated
+19   m10  khor jia young raynard          许嘉洋        malaysia , penang                    eliminated

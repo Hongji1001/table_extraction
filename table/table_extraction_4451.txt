@@ -1,0 +1,15 @@
+    week                 date             opponent     result  attendance
+0      1  september 11 , 1966  washington redskins  w 38 - 14       48643
+1      2  september 18 , 1966    green bay packers  l 21 - 20       83943
+2      3  september 25 , 1966   st louis cardinals  l 34 - 28       74814
+3      4     october 2 , 1966      new york giants   w 28 - 7       62916
+4      5     october 8 , 1966  pittsburgh steelers  w 41 - 10       82687
+5      7    october 23 , 1966       dallas cowboys  w 30 - 21       84721
+6      8    october 30 , 1966      atlanta falcons  w 49 - 17       57235
+7      9    november 6 , 1966  pittsburgh steelers   l 16 - 6       39690
+8     10   november 13 , 1966  philadelphia eagles   w 27 - 7       77698
+9     11   november 20 , 1966  washington redskins   w 14 - 3       78466
+10    12   november 24 , 1966       dallas cowboys  l 26 - 14       75504
+11    13    december 4 , 1966      new york giants  w 49 - 40       61651
+12    14   december 11 , 1966  philadelphia eagles  l 33 - 21       58074
+13    15   december 17 , 1966   st louis cardinals  w 38 - 10       47721

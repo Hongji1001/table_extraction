@@ -1,0 +1,10 @@
+     portuguese name      english name subdivides in equivalence in varas metrical equivalence
+0              braça            fathom       2 varas                    2              2 , 2 m
+1              toesa             toise         6 pés                1 4⁄5             1 , 98 m
+2   passo geométrico  geometrical pace         5 pés                1 1⁄2             1 , 65 m
+3               vara              yard      5 palmos                    1              1 , 1 m
+4             côvado             cubit      3 palmos                3 / 5             0 , 66 m
+5                 pé              foot  12 polegadas               3 / 10             0 , 33 m
+6  palmo de craveira              span   8 polegadas                1 / 5             0 , 22 m
+7           polegada              inch     12 linhas               1 / 40            27 , 5 mm
+8              linha              line     12 pontos              1 / 480            2 , 29 mm

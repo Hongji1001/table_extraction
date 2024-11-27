@@ -1,0 +1,9 @@
+   round  pick            player nationality       college / junior / club team
+0      2    15         ken baird      canada         flin flon bombers ( wchl )
+1      3    29        rich leduc      canada   trois - riviã¨res ducs ( qmjhl )
+2      4    43  hartland monahan      canada  montreal junior canadiens ( oha )
+3      5    57      ray belanger      canada        shawinigan bruins ( qmjhl )
+4      6    71       gerry egers      canada           sudbury wolves ( nojhl )
+5      7    85        al simmons      canada             winnipeg jets ( wchl )
+6      8    99        angus beck      canada           charlottetown (junior a)
+7      8   104         rod lyons      canada                   halifax (junior)

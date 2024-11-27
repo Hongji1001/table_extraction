@@ -1,0 +1,24 @@
+                 english          three            four person   house  coconut     what    fire
+0   proto - austronesian           telu           sepat    cau   ʀumaq     niur  n - anu    apuy
+1                tagalog          tatlo            apat    tao   bahay    niyog      ano    apoy
+2                  bikol           tulo            apat   tawo  harong    niyog      ano  kalayo
+3                cebuano           tulo            upat   tawo   balay     lubi     unsa  kalayo
+4                  waray           tulo            upat   tawo   balay     lubi      ano  kalayo
+5            romblomanon           tuyo            upat   tawo   bayay    niyog      ano  kalayo
+6              bantoanon           tuyo            upat   tawo   bayay    nidog   ni - o  kayado
+7                  onhan          tatlo         ap - at   tawo   balay    niyog      ano  kalayo
+8             hiligaynon          tatlo            apat   tawo   balay     lubi      ano  kalayo
+9                 tausug             tu            upat    tau     bay    niyug      unu    kayu
+10           kinaray - a          tatlo            apat   taho   balay    niyog      ano  kalayo
+11               akeanon          tatlo            apat   tawo   baeay    niyog      ano  kaeayo
+12               maranao           t'lo            phat    taw   walay    neyog    tonaa    apoy
+13            pangasinan  talo , talora  apat , apatira    too   abong    niyog     anto    pool
+14               ilokano          tallo           uppat    tao   balay     niog     ania    apoy
+15                ivatan          tatdo            apat    tao   vahay    niyoy     ango    apoy
+16                   tao   tílo (tatlo)     apat (ápat)    tao   vahay    niyoy     ango    apoy
+17           kapampangan           atlû            ápat    táu    balé  ngúngut     nánu     api
+18                ibanag          tallu           appa'  tolay   balay     niuk     anni     afi
+19               gaddang          tallo           appat  tolay   balay     ayog  sanenay    afuy
+20                 tboli            tlu             fat    tau    gunu     lefo     tedu    ofih
+21             gorontalo         totolu          wopato   tawu    bele    sekat     wolo    tulu
+22     bolaang mongondow           tolu            opat  intau   baloi    cekut     onda   tulu'

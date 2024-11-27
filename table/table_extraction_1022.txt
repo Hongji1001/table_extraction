@@ -1,0 +1,10 @@
+               software       version                                   operating systems                developer      license
+0     beeone smod / hms           3.1                                             windows  hemi - synths explorers  proprietary
+1   brainwave generator           3.1                                             windows     noromaa solutions oy  proprietary
+2               gnaural  1.0.20100707                freebsd , linux , mac os x , windows                  gnaural          gpl
+3   brainigniter player           6.0                                             windows                 volition  proprietary
+4  neuro - programmer 3       3.0.9.0                                             windows         transparent corp  proprietary
+5      mind workstation       1.2.2.0                                             windows         transparent corp  proprietary
+6                sbagen         1.4.4  dos , freebsd , linux , mac os x , windows , wince                     uazu          gpl
+7      brainwave studio           1.5                                      mac os x , ios             rcs software  proprietary
+8               discord         3.2.1                                               linux              stan lysiak          gpl

@@ -1,0 +1,15 @@
+                  driver     constructor  laps  time / retired  grid
+0          didier pironi         ferrari    60     1:36:38.887     4
+1      gilles villeneuve         ferrari    60         + 0.366     3
+2       michele alboreto  tyrrell - ford    60      + 1:07.684     5
+3   jean - pierre jarier   osella - ford    59         + 1 lap     9
+4         eliseo salazar      ats - ford    57        + 3 laps    14
+5     manfred winkelhock      ats - ford    54    disqualified    12
+6               teo fabi  toleman - hart    52  not classified    10
+7            renã arnoux         renault    44           turbo     1
+8       bruno giacomelli      alfa romeo    24          engine     6
+9       riccardo paletti   osella - ford     7      suspension    13
+10           alain prost         renault     6          engine     2
+11     andrea de cesaris      alfa romeo     4      electrical     7
+12          brian henton  tyrrell - ford     0    transmission    11
+13         derek warwick  toleman - hart     0      electrical     8

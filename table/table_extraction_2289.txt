@@ -1,0 +1,14 @@
+                  team      outgoing manager manner of departure date of vacancy             replaced by date of appointment
+0               kowsar            reza ahadi              sacked            2009     mostafa ghanbarpour                2009
+1          shensa arak         castro felore              sacked        oct 2009             savio souza         20 oct 2009
+2               kowsar   mostafa ghanbarpour              sacked        nov 2009          ebrahim talebi            nov 2009
+3         shirin faraz         mahmoud fekri              sacked        dec 2009  estehghari / mortazavi            dec 2009
+4     payam mokhaberat       mehrdad shekari              sacked        dec 2009            jafar fatahi            dec 2009
+5            iranjavan        naser ebrahimi            abdicate        dec 2009     abdolrahim kharazmi            dec 2009
+6           sanat naft  bijan zolfagharnasab            abdicate      1 jan 2010         faraz kamalvand          1 jan 2010
+7     gostaresh foolad       hossein khatibi            abdicate     20 mar 2010           farhad kazemi         20 mar 2010
+8   nassaji mazandaran      nader dastneshan            abdicate     20 mar 2010           reza foruzani         24 mar 2010
+9        payam mashhad            ali hanteh            abdicate     12 mar 2010         davoud mahabadi         19 mar 2010
+10        sanati kaveh        ahmad khodadad            abdicate      5 mar 2010           hossein fekri          7 mar 2010
+11        mehrkam pars        behtash fariba            abdicate     15 mar 2010         javad zarincheh         17 mar 2010
+12         naft tehran     mehdi dinvarzadeh            abdicate     20 may 2010            morteza yeke         23 may 2010

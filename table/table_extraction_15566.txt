@@ -1,0 +1,10 @@
+  constituency number     name reserved for ( sc / st / none) district  number of electorates (2009)
+0                   9     ater                           none    bhind                        177334
+1                  10    bhind                           none    bhind                        197183
+2                  11    lahar                           none    bhind                        205839
+3                  12  mehgaon                           none    bhind                        210649
+4                  13    gohad                             sc    bhind                        166893
+5                  20    sewda                           none    datia                        130161
+6                  21  bhander                             sc    datia                        139600
+7                  22    datia                           none    datia                        143593
+8             total :  total :                        total :  total :                       1371252

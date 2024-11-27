@@ -1,0 +1,12 @@
+           name country    status           moving to transfer window transfer fee
+0     otsemobor     eng  transfer        norwich city          summer         free
+1         jones     eng  transfer   preston north end          summer       500000
+2        varney     eng  transfer   charlton athletic          summer      2500000
+3       vaughan     wal  transfer        realsociedad          summer       300000
+4         brown     eng      loan  kidsgrove athletic          winter         loan
+5   farquharson     eng      loan  northwich victoria          winter         loan
+6         lynch     eng      loan    stafford rangers          winter         loan
+7        daniel     eng      loan      grays athletic          winter         loan
+8       dugdale     eng      free           droylsden          winter         free
+9   farquharson     eng      loan       nantwich town          winter         loan
+10    tomlinson     eng      loan       burton albion          winter         loan

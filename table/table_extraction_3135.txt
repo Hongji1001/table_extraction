@@ -1,0 +1,16 @@
+                              branding   callsign  frequency power (kw)           location
+0           mor 103.1 baguio for life!  dzrr - fm  103.1 mhz      10 kw             baguio
+1             mor 95.5 laoag for life!  dwel - fm   95.5 mhz      10 kw              laoag
+2           mor 94.3 dagupan for life!  dwec - fm   94.3 mhz      10 kw            dagupan
+3   mor 99.9 puerto princesa for life!  dycu - fm   99.9 mhz       5 kw    puerto princesa
+4          mor 99.7 española for life!  dyea - fm   99.7 mhz       5 kw  sofronio española
+5              mor 93.5 naga for life!  dwac - fm   93.5 mhz      10 kw               naga
+6           mor 93.9 legazpi for life!  dwrd - fm   93.9 mhz      10 kw            legazpi
+7            mor 91.1 iloilo for life!  dymc - fm   91.1 mhz      10 kw             iloilo
+8          mor 101.5 bacolod for life!  dyoo - fm  101.5 mhz      10 kw            bacolod
+9              mor 97.1 cebu for life!  dyls - fm   97.1 mhz      20 kw               cebu
+10         mor 94.3 tacloban for life!  dytc - fm   94.3 mhz      10 kw           tacloban
+11        mor 98.7 zamboanga for life!  dxfh - fm   98.7 mhz      10 kw          zamboanga
+12   mor 91.9 cagayan de oro for life!  dxec - fm   91.9 mhz      10 kw     cagayan de oro
+13           mor 101.1 davao for life!  dxrr - fm  101.1 mhz      20 kw              davao
+14   mor 92.7 general santos for life!  dxbc - fm   92.7 mhz      10 kw     general santos

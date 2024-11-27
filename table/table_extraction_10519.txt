@@ -1,0 +1,9 @@
+    year               team  apps  tries  goals  points
+0   2004  castleford tigers     3      0      0       0
+1   2005  castleford tigers    29     24      0      96
+2   2006  castleford tigers    27      8      0      32
+3   2007  castleford tigers    20     19      0      76
+4   2008  castleford tigers    22     13      0      52
+5   2009  castleford tigers    30     19      0      76
+6   2010  castleford tigers    22     10      0      40
+7  total  castleford tigers   153     93      0     372

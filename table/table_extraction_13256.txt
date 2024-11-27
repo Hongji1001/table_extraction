@@ -1,0 +1,17 @@
+    round  pick  overall              name position               college
+0       1    12       12         jim smith       db                oregon
+1       2    11       38       tom roussel       lb  southern mississippi
+2       4    11       94      dennis crane       dt   southern california
+3       5     2      113      ken barefoot       te         virginia tech
+4       5     6      117        mike bragg        p              richmond
+5       6    11      149      willie banks        g          alcorn state
+6       7    11      176        bob brunet       rb       louisiana state
+7       8    11      203    brian magnuson       rb               montana
+8       9    11      230  frank liberatore       db               clemson
+9      11    11      284     tom garretson       db          northwestern
+10     12    11      311      dave weedman       dt    western washington
+11     13    11      338     mike st louis       ot      central missouri
+12     14    11      365       dave zivich       ot   cal - santa barbara
+13     15    11      392    coger coverson        g        texas southern
+14     16    11      419     willie turner       rb         jackson state
+15     17    11      446       frank bosch       dt              colorado

@@ -1,0 +1,19 @@
+              team       head coach         team captain                         venue  capacity kitmaker shirt sponsor        club chairman
+0       ankaragücü      hakan kutlu        murat erdoğan       ankara 19 mayıs stadium     19209    lotto      turkcell     cemal azmi aydın
+1       ankaraspor    aykut kocaman       hürriyet güçer         yenikent asaş stadium     19626     nike      turkcell          ruhi kurnaz
+2      antalyaspor   mehmet özdilek           uğur kavuk       antalya atatürk stadium     11137     nike        mardan   hasan y akıncıoğlu
+3         beşiktaş  mustafa denizli       matías delgado             bjk inönü stadium     32086    umbro    cola turka   yıldırım demirören
+4        bursaspor  ertuğrul sağlam         ömer erdoğan         bursa atatürk stadium     18587    kappa      turkcell       ibrahim yazıcı
+5      denizlispor     mesut bakkal     roman kratochvil       denizli atatürk stadium     15427   lescon      turkcell             ali ipek
+6    eskişehirspor    rıza çalımbay         emre toraman     eskişehir atatürk stadium     18880     nike           eti           halil ünal
+7       fenerbahçe    luis aragonés                 alex       şükrü saracoğlu stadium     53586   adidas          avea        aziz yıldırım
+8      galatasaray   bülent korkmaz          ayhan akman          ali sami yen stadium     22800   adidas          avea          adnan polat
+9    gaziantepspor    josé couceiro        bekir irtegün  gaziantep kamil ocak stadium     16981   lescon      turkcell  ibrahim halil kızıl
+10  gençlerbirliği     samet aybaba  abdel zaher el saka       ankara 19 mayıs stadium     19209    lotto      turkcell         ilhan cavcav
+11       hacettepe    erdoğan arıca            orhan şam       ankara 19 mayıs stadium     19209    lotto      turkcell       turgay kalemci
+12     istanbul bb    abdullah avcı            efe inanç       atatürk olympic stadium     76092   lescon        kalpen      göksel gümüşdağ
+13     kayserispor   tolunay kafkas         mehmet topuz           kadir has stadium 1     32864   adidas      turkcell          recep mamur
+14     kocaelispor      erhan altın    serdar topraktepe            ismet pasa stadium     12710    umbro       erciyas        serhan gürkan
+15       konyaspor     ünal karaman        ömer gündostu         konya atatürk stadium     21968    lotto      turkcell  mehmet ali kuntoğlu
+16       sivasspor     bülent uygun        mehmet yildiz         sivas 4 eylül stadium     14998   adidas      turkcell      mecnun otyakmaz
+17     trabzonspor      ersun yanal       hüseyin çimşir     hüseyin avni aker stadium     19649     nike          avea          sadri şener

@@ -1,0 +1,14 @@
+     res record        opponent                         method                                     event  round                            location
+0   loss  8 - 5    jake o'brien               decision (split)                                    ufc 94      3  las vegas , nevada , united states
+1   loss  8 - 4    shane carwin                     ko (punch)                                    ufc 84      1  las vegas , nevada , united states
+2    win  8 - 3      scott junk         submission (heel hook)                                    ufc 76      1          california , united states
+3    win  7 - 3  anthony perosh           decision (unanimous)                                    ufc 66      3              nevada , united states
+4   loss  6 - 3    cheick kongo                      ko (knee)                                    ufc 62      1              nevada , united states
+5    win  6 - 2     dan evensen          tko (corner stoppage)                        ifc : caged combat      2          california , united states
+6    win  5 - 2      tom howard  submission (rear naked choke)  valor fighting : showdown at cache creek      1          california , united states
+7   loss  4 - 2     soa palelei                            tko                    shooto australia : nhb      1                           australia
+8    win  4 - 1    vince lucero                            tko                    cfm : octogono extremo      1                              mexico
+9   loss  3 - 1  kensuke sasaki  submission (guillotine choke)                                     x - 1      1                    yokohama , japan
+10   win  3 - 0       jay white                  tko (strikes)                                     wec 4      3         connecticut , united states
+11   win  2 - 0     sam sotello  submission (rear naked choke)                     kotc 16: double cross      1          california , united states
+12   win  1 - 0   dennis taddio                  tko (punches)                                  shogun 1      1              hawaii , united states

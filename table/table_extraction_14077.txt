@@ -1,0 +1,46 @@
+     res       record           opponent                  method                                           event  round
+0   loss  30 - 14 - 1       justin salas        decision (split)                  ufc on fox : johnson vs moraga      3
+1   loss  30 - 13 - 1      tony ferguson   tko (corner stoppage)                                         ufc 135      1
+2    win  30 - 12 - 1        joe brammer    decision (unanimous)                                         ufc 114      3
+3   loss  29 - 12 - 1       ross pearson   tko (doctor stoppage)                                         ufc 105      2
+4    win  29 - 11 - 1       shane nelson    decision (unanimous)                                         ufc 101      3
+5   loss  28 - 11 - 1       shane nelson             tko (punch)                                          ufc 96      1
+6    win  28 - 10 - 1       jorge gurgel    decision (unanimous)                                          ufc 91      3
+7    win  27 - 10 - 1      steve claveau    decision (unanimous)                                    xtreme mma 5      3
+8    win  26 - 10 - 1        thiago minu    decision (unanimous)                                  uwc : invasion      3
+9   loss  25 - 10 - 1       ryan schultz    decision (unanimous)              ifl : 2007 team championship final      3
+10  loss   25 - 9 - 1      eddie alvarez            ko (punches)                     bodog fight : usa vs russia      1
+11   win   25 - 8 - 1      darrell smith     submission (armbar)               bodog fight : to the brink of war      2
+12  loss   25 - 8 - 1     spencer fisher   tko (doctor stoppage)                               ufc fight night 3      1
+13   win   24 - 7 - 1  michihiro omigawa          ko (head kick)                                 pride bushido 7      1
+14   win   23 - 7 - 1   andrew chappelle                decision                     hooknshoot : arnold classic      3
+15   win   22 - 7 - 1     maicon alarcao            tko (injury)                                  afc : brazil 1      1
+16   win   21 - 7 - 1        nuri shakir    decision (unanimous)                               hooknshoot : live      3
+17  loss   20 - 7 - 1         sam morgan     submission (armbar)         shooto usa - warrior spirit : evolution      1
+18   win   20 - 6 - 1       cedric marks     submission (armbar)                                 combate extremo      1
+19   win   19 - 6 - 1       nick gilardi                     tko                     ppka : ultimate fight night      2
+20  loss   18 - 6 - 1        chris lytle                      ko                      hooknshoot : boot camp 1.1      1
+21   win   18 - 5 - 1   alexandre barros                decision  hooknshoot : absolute fighting championships 1      3
+22  loss   17 - 5 - 1      robbie lawler    decision (unanimous)                                          ufc 37      3
+23   win   17 - 4 - 1        mike willus           tko (strikes)                            hooknshoot : kings 1      1
+24  loss   16 - 4 - 1       yves edwards                decision                           hooknshoot : showdown      3
+25   win   16 - 3 - 1      earl thompson     submission (armbar)                                 ufcf : war 2001      1
+26   win   15 - 3 - 1       steve berger                decision                            hooknshoot : triumph      3
+27   win   14 - 3 - 1     aaron stregles    submission (strikes)                               talon challenge 2  n / a
+28   win   13 - 3 - 1     jeremy bennett                      ko                      hooknshoot : double fury 1  n / a
+29   win   12 - 3 - 1     colin o'rourke     decision (majority)                           wef 8: goin' platinum      3
+30  loss   11 - 3 - 1    falaniko vitale                     tko                ritc 2: marching of the warriors      1
+31  loss   11 - 2 - 1       yves edwards                decision                         hooknshoot : texas heat      1
+32   win   11 - 1 - 1          joe merit     submission (armbar)                          lionheart invitational      1
+33  draw   10 - 1 - 1       cj fernandes                    draw             submission fighting championships 8      1
+34   win       10 - 1      billy johnson    submission (strikes)                           hooknshoot : breakout      1
+35   win        9 - 1        rob tallack                     tko                 kakidamisi 1: samurai challenge      1
+36   win        8 - 1       tony apponte    submission (strikes)                                extreme shootout      1
+37   win        7 - 1       james julian     submission (armbar)             submission fighting championships 6      1
+38   win        6 - 1      shane garrett    decision (unanimous)                            hooknshoot : horizon      1
+39   win        5 - 1   phil stroffolino    submission (strikes)                           hooknshoot : eruption      1
+40   win        4 - 1      brian boclair     submission (armbar)                              hooknshoot : quest      1
+41   win        3 - 1       chris mounce    submission (keylock)                         hooknshoot : n - vision  n / a
+42   win        2 - 1      billy johnson     submission (armbar)                              hooknshoot : elite      1
+43  loss        1 - 1      mario roberto    submission (kneebar)                hooknshoot : when worlds collide  n / a
+44   win        1 - 0     chris malgieri  submission (heel hook)                hooknshoot : when worlds collide  n / a

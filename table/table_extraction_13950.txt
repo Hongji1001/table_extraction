@@ -1,0 +1,17 @@
+    round  pick             player        position  school / club team
+0       1     1        bruce smith   defensive end       virginia tech
+1       1    14  derrick burroughs  defensive back             memphis
+2       2    29    mark traynowicz           guard            nebraska
+3       2    42      chris burkett   wide receiver       jackson state
+4       3    57        frank reich     quarterback            maryland
+5       3    63         hal garner      linebacker          utah state
+6       4    86         andre reed   wide receiver      kutztown state
+7       4   112    dale hellestrae          tackle  southern methodist
+8       5   130         jimmy teal   wide receiver           texas a&m
+9       6   141         mike hamby   defensive end          utah state
+10      7   169          ron pitts  defensive back                ucla
+11      8   197    jacque robinson        fullback          washington
+12      9   225        glenn jones  defensive back       norfolk state
+13     10   253       chris babyar           guard            illinois
+14     11   282    james seawright      linebacker      south carolina
+15     12   333      paul woodside          kicker       west virginia

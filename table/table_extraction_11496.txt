@@ -1,0 +1,49 @@
+    year           champion                       runner - up                third place               fourth place jack tompkins trophy (mvp)
+0   2012      michigan tech                  western michigan                   michigan             michigan state       pheonix copley , mtu
+1   2011           michigan                    michigan state             boston college              michigan tech           kevin clare , um
+2   2010           michigan                  colorado college             michigan state              michigan tech       luke glendening , um
+3   2009     michigan state  rensselaer polytechnic institute                   michigan              michigan tech        brett perlini , msu
+4   2008           michigan                    michigan state              michigan tech               north dakota       louie caporusso , um
+5   2007           michigan                     michigan tech                 providence             michigan state           billy sauer , um
+6   2006     michigan state                          michigan                    harvard              michigan tech           bryan lerg , msu
+7   2005   colorado college                    michigan state                   michigan              michigan tech            joey crabb , cc
+8   2004     michigan state                          michigan              new hampshire              michigan tech           jim slater , msu
+9   2003     boston college                    michigan state                   michigan              michigan tech            joe pearce , bc
+10  2002  boston university                          michigan             michigan state              michigan tech           sean fields , bu
+11  2001       north dakota                    michigan state                   michigan              michigan tech        tim skarperud , und
+12  2000     michigan state                     michigan tech             boston college                   michigan          ryan miller , msu
+13  1999     michigan state                          michigan              michigan tech        lake superior state        shawn horcoff , msu
+14  1998     michigan state                          michigan          northern michigan              michigan tech           mike gresl , msu
+15  1997     michigan state                          michigan              michigan tech                st lawrence          mike weaver , msu
+16  1996           michigan               lake superior state             michigan state              michigan tech      brendan morrison , um
+17  1995           michigan                    michigan state              michigan tech          northern michigan      brendan morrison , um
+18  1994           michigan                    michigan state              michigan tech                    cornell      brendan morrison , um
+19  1993           michigan                    michigan state              michigan tech                 notre dame          david oliver , um
+20  1992           michigan                 northern michigan             michigan state              michigan tech           cam stewart , um
+21  1991           michigan                     michigan tech             michigan state                    harvard         steve shields , um
+22  1990           michigan                             maine              michigan tech             michigan state         steve shields , um
+23  1989           michigan                    michigan state              michigan tech          northern michigan       warren sharples , um
+24  1988           michigan                      north dakota             michigan state              michigan tech            todd brost , um
+25  1987          wisconsin                    michigan state                   michigan              michigan tech         dean anderson , uw
+26  1986   western michigan                          michigan             michigan state              michigan tech            bill horn , wmu
+27  1985     michigan state  rensselaer polytechnic institute                   michigan              michigan tech          don mcsween , msu
+28  1984     michigan state                     michigan tech                   michigan              bowling green          bob essensa , msu
+29  1983     michigan state                     michigan tech          northern michigan                   michigan           dan mcfall , msu
+30  1982     michigan state                     michigan tech                   michigan                 notre dame          dale krentz , msu
+31  1981         notre dame                     michigan tech  michigan , michigan state  michigan , michigan state          dave laurion , nd
+32  1980      michigan tech                          michigan             michigan state                    harvard          paul fricker , um
+33  1979      michigan tech                          michigan                  wisconsin             michigan state          murray eaves , um
+34  1978      michigan tech                        ohio state          boston university                   michigan        john rockwell , mtu
+35  1977      michigan tech                          michigan        lake superior state           western michigan         dave joelson , mtu
+36  1976      michigan tech                          michigan                      brown              bowling green             greg hay , mtu
+37  1975           michigan                     michigan tech          boston university               pennsylvania          stu ostlund , mtu
+38  1974      michigan tech                          michigan                    harvard                       yale          robbie moore , um
+39  1973     michigan state                     michigan tech             boston college               pennsylvania             tom ross , msu
+40  1972            harvard                     michigan tech          boston university                   michigan           dave hynes , har
+41  1971      michigan tech                    michigan state                  dartmouth                 notre dame          ian williams , nd
+42  1970      michigan tech                          michigan                    colgate                      brown         mike usitalo , mtu
+43  1969      new hampshire                    michigan state              michigan tech                  princeton          larry smith , unh
+44  1968      michigan tech                         wisconsin             michigan state                   michigan            bill watt , msu
+45  1967       north dakota                     michigan tech             michigan state            western ontario       roger bamburak , und
+46  1966           michigan                    michigan state              michigan tech            western ontario       mel wakabayashi , um
+47  1965            toronto                     michigan tech          boston university           colorado college        henry monteith , ut

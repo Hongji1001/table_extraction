@@ -1,0 +1,13 @@
+           name height weight    spike 2008 club
+0    wang yimei      m      -  cm (in)  liaoning
+1      feng kun      m      -  cm (in)   beijing
+2      yang hao      m      -  cm (in)  liaoning
+3     liu yanan      m      -  cm (in)  liaoning
+4    wei qiuyue      m      -  cm (in)   tianjin
+5      xu yunli      m      -  cm (in)    fujian
+6   zhou suhong      m      -  cm (in)  zhejiang
+7   zhao ruirui      m      -  cm (in)      army
+8      xue ming      m      -  cm (in)   beijing
+9       li juan      m      -  cm (in)   tianjin
+10     zhang na      m      -  cm (in)   tianjin
+11    ma yunwen      m      -  cm (in)  shanghai

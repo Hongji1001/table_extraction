@@ -1,0 +1,27 @@
+                   season           1st place          2nd place          3rd place                  4th place
+0               1987 - 88       tracer milano   maccabi tel aviv        kk partizan                       aris
+1               1988 - 89  jugoplastika split   maccabi tel aviv               aris               fc barcelona
+2               1989 - 90  jugoplastika split       fc barcelona        limoges csp                       aris
+3               1990 - 91        pop 84 split       fc barcelona   maccabi tel aviv           scavolini pesaro
+4               1991 - 92         kk partizan  joventut badalona     philips milano                estudiantes
+5               1992 - 93         limoges csp   benetton treviso               paok                real madrid
+6               1993 - 94   joventut badalona         olympiacos      panathinaikos               fc barcelona
+7               1994 - 95         real madrid         olympiacos      panathinaikos                limoges csp
+8               1995 - 96       panathinaikos       fc barcelona        cska moscow                real madrid
+9               1996 - 97          olympiacos       fc barcelona  kk union olimpija  asvel lyon - villeurbanne
+10              1997 - 98      kinder bologna         aek athens   benetton treviso                kk partizan
+11              1998 - 99     žalgiris kaunas     kinder bologna         olympiacos         teamsystem bologna
+12              1999 - 00       panathinaikos   maccabi tel aviv        efes pilsen               fc barcelona
+13  suproleague 2000 - 01    maccabi tel aviv      panathinaikos        efes pilsen                cska moscow
+14   euroleague 2000 - 01      kinder bologna       tau cerámica         aek athens     paf wennington bologna
+15              2001 - 02       panathinaikos     kinder bologna   benetton treviso           maccabi tel aviv
+16              2002 - 03        fc barcelona   benetton treviso  montepaschi siena                cska moscow
+17              2003 - 04    maccabi tel aviv    skipper bologna        cska moscow          montepaschi siena
+18              2004 - 05    maccabi tel aviv       tau cerámica      panathinaikos                cska moscow
+19              2005 - 06         cska moscow   maccabi tel aviv       tau cerámica               fc barcelona
+20              2006 - 07       panathinaikos        cska moscow     unicaja málaga               tau cerámica
+21              2007 - 08         cska moscow   maccabi tel aviv  montepaschi siena               tau cerámica
+22              2008 - 09       panathinaikos        cska moscow       fc barcelona                 olympiacos
+23              2009 - 10        fc barcelona         olympiacos        cska moscow                kk partizan
+24              2010 - 11       panathinaikos   maccabi tel aviv  montepaschi siena                real madrid
+25              2011 - 12          olympiacos        cska moscow       fc barcelona              panathinaikos

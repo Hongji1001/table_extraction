@@ -1,0 +1,9 @@
+   rank  lane               athlete     nationality   time  react
+0     1     4        shawn crawford   united states  20.61  0.216
+1     2     6    marcin jędrusiński          poland  20.64  0.199
+2     3     7      stephan buckland       mauritius  20.98  0.229
+3     4     1           jiří vojtík  czech republic  21.05  0.165
+4     5     9         fanuel kenosi        botswana  21.09  0.211
+5     6     3           adam harris          guyana  21.36  0.163
+6     7     5  khalil al - hanahneh          jordan  21.55  0.184
+7     8     2         solomon bayoh    sierra leone  22.16  0.216

@@ -1,0 +1,9 @@
+          ship name  year     length     width  passengers  vessels   speed
+0          mytilene  1973  138 , 3 m  22 , 4 m       1.730      225      20
+1  european express  1974  159 , 5 m  21 , 5 m       1.000      350      23
+2        ionian sky  1974      164 m      24 m       1.090      600      22
+3         theofilos  1975  149 , 4 m  23 , 5 m       1.660      433      18
+4        taxiarchis  1976  135 , 8 m  20 , 6 m     591.000      392      18
+5        aqua jewel  2002      108 m  16 , 6 m       1.675      175  18 , 5
+6        aqua maria  1975  101 , 3 m      18 m     592.000      230      17
+7       aqua spirit  2000       75 m      15 m     400.000       60      17

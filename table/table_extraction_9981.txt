@@ -1,0 +1,25 @@
+    rank                   building           city height (m / ft)  floors     status
+0      1      esplanada city center      bucharest               -      70  cancelled
+1      2       mamaia north complex      constanța               -      42   proposed
+2      3            dorobanți tower      bucharest               -      50   proposed
+3      3      marina park constanța      constanța               -      39   approved
+4      4    tender financial center      timișoara               -      45   approved
+5      5     dmbovița center towers      bucharest               -      35  on - hold
+6      6   mamaia beach residential      constanța               -      34   approved
+7      7       timișoara high tower      timișoara               -      33   proposed
+8      8            constanța tower      constanța               -      35   approved
+9      8            star lido hotel      bucharest               -      35  cancelled
+10     9    kiseleff business plaza      bucharest               -      31   proposed
+11    10                carol tower      bucharest               -      35   proposed
+12    11                cefin tower      bucharest               -      36   proposed
+13    11  colosseum tower bucharest      bucharest               -      32   approved
+14    11   sky towers cluj - napoca  cluj - napoca               -      32   proposed
+15    12                  ana tower      bucharest               -      28   approved
+16    12              chitila tower      bucharest               -      30   proposed
+17    12                 kron tower         brașov               -      30   proposed
+18    12    olympic tower bucharest      bucharest               -      33   proposed
+19    12               sigma towers  cluj - napoca               -      35   approved
+20    12             skyturn brașov         brașov               -      30   approved
+21    13          petrom city tower      bucharest               -      27   proposed
+22    14                 tron tower      bucharest               -      25   proposed
+23    15          golden gate tower           iași               -      28   proposed

@@ -1,0 +1,9 @@
+            team 1               agg             team 2 1st leg        2nd leg
+0   internazionale             5 - 3         aek athens   3 - 1          2 - 2
+1         valencia             5 - 2           servette   3 - 0          2 - 2
+2    psv eindhoven             1 - 0       leeds united   0 - 0          1 - 0
+3          rangers             3 - 4          feyenoord   1 - 1          2 - 3
+4             lyon             2 - 5     slovan liberec   1 - 1          1 - 4
+5            lille       1 - 1 ( a )  borussia dortmund   1 - 1          0 - 0
+6  hapoel tel aviv             2 - 1              parma   0 - 0          2 - 1
+7          roda jc  1 - 1 (2 - 3 p )              milan   0 - 1  1 - 0 ( aet )

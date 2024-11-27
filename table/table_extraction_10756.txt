@@ -1,0 +1,25 @@
+                  title              genre c = 64  zx spectrum       others  year       format
+0     goodness gracious             arcade    c64        n / a        n / a  1983         tape
+1            kriegspiel           strategy  n / a        n / a    dragon 32  1983         tape
+2   space station zebra             arcade  n / a  zx spectrum        n / a  1983         tape
+3          up periscope           strategy  n / a        n / a    dragon 32  1983         tape
+4                  ankh             puzzle    c64        n / a        n / a  1984         tape
+5                 aztec             arcade    c64        n / a        n / a  1984         tape
+6     lords of midnight  graphic adventure    c64  zx spectrum  amstrad cpc  1984  tape , disk
+7              mr robot             arcade    c64        n / a        n / a  1984         tape
+8           my chess ii         board game    c64        n / a        n / a  1984  tape , disk
+9               psytron    tactical combat    c64  zx spectrum        n / a  1984         tape
+10           spellbound             arcade  n / a  zx spectrum        n / a  1984         tape
+11           spy vs spy             arcade    c64  zx spectrum  amstrad cpc  1984         tape
+12              bounces             arcade    c64  zx spectrum        n / a  1985         tape
+13  doomdark 's revenge  graphic adventure    c64  zx spectrum  amstrad cpc  1985         tape
+14          psi warrior             arcade    c64        n / a        n / a  1985         tape
+15           shadowfire    tactical combat    c64  zx spectrum  amstrad cpc  1985         tape
+16     shadowfire tuner        game editor    c64  zx spectrum        n / a  1985         tape
+17   sorderon 's shadow  graphic adventure  n / a  zx spectrum        n / a  1985         tape
+18      quake minus one                rts    c64        n / a        n / a  1985         tape
+19  superman : the game  arcade / strategy    c64        n / a        n / a  1985         tape
+20         enigma force    tactical combat    c64  zx spectrum        n / a  1986         tape
+21     dante 's inferno   arcade adventure    c64        n / a        n / a  1986         tape
+22            infodroid             arcade    c64        n / a        n / a  1986         tape
+23          romper room        educational    c64  zx spectrum        n / a  1986         tape

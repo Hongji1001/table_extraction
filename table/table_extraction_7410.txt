@@ -1,0 +1,40 @@
+   round            player position                     team             college
+0      -       johnny bach    g / f           boston celtics             fordham
+1      -        gene berce    g / f          new york knicks           marquette
+2      -     darrell brown        f        baltimore bullets      humboldt state
+3      -    jack burmaster        g         st louis bombers            illinois
+4      -       jake carter    f / c        baltimore bullets    east texas state
+5      -    jack coleman +    f / c  providence steamrollers          louisville
+6      -        bobby cook        g       fort wayne pistons           wisconsin
+7      -       hook dillon        f            chicago stags      north carolina
+8      -      arnie ferrin    g / f       minneapolis lakers                utah
+9      -      bill gabor +    g / f         rochester royals            syracuse
+10     -    harry gallatin    f / c          new york knicks  northeast missouri
+11     -      earl gardner        f       minneapolis lakers              depauw
+12     -        dee gibson    g / f       minneapolis lakers    western kentucky
+13     -       alex hannum    f / c        indianapolis jets                 usc
+14     -  marshall hawkins        f           boston celtics           tennessee
+15     -       joe holland        f        baltimore bullets            kentucky
+16     -     whitey kachan        g            chicago stags              depaul
+17     -     leo katkaveck        g      washington capitols            nc state
+18     -         tom kelly        g           boston celtics                 nyu
+19     -     andy kostecka        f        indianapolis jets          georgetown
+20     -         dan kraus        g        baltimore bullets          georgetown
+21     -   herb krautblatt        g        baltimore bullets               rider
+22     -        leo kubiak    g / f         rochester royals       bowling green
+23     -         ray lumpp        g        indianapolis jets                 nyu
+24     -        mel mcgaha        g          new york knicks            arkansas
+25     -   murray mitchell        c           boston celtics   sam houston state
+26     -        johnny orr        f       minneapolis lakers              beloit
+27     -       easy parham    g / f         st louis bombers      texas wesleyan
+28     -    jack parkinson        g      washington capitols            kentucky
+29     -       ed peterson        c          new york knicks             cornell
+30     -          roy pugh    f / c    philadelphia warriors                 smu
+31     -        tex ritter        g          new york knicks    eastern kentucky
+32     -     kenny rollins        g       fort wayne pistons            kentucky
+33     -      dick shrider        g          new york knicks                ohio
+34     -       odie spears        g            chicago stags    western kentucky
+35     -      brady walker    f / c  providence steamrollers                 byu
+36     -         dick wehr        f        indianapolis jets                rice
+37     -       murray wier        g       fort wayne pistons                iowa
+38     -       d c wilcutt        g         st louis bombers         saint louis

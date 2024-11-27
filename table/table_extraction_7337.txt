@@ -1,0 +1,22 @@
+                    name                    model                         park         country  opened
+0       tigre de sibérie           custom coaster                       le pal          france    1990
+1            crazy mouse         spinning coaster                hirakata park           japan    1998
+2            dizzy mouse         spinning coaster                wurstelprater         austria    1998
+3       spinning coaster         spinning coaster          yokohama cosmoworld           japan    1998
+4   wall 's twister ride         spinning coaster     west midland safari park  united kingdom    1998
+5             spin mouse         spinning coaster             mitsui greenland           japan    1998
+6            crazy mouse         spinning coaster                   steel pier   united states    1999
+7             ratón loco         spinning coaster  la feria chapultepec magico          mexico    1999
+8           exterminator         spinning coaster                    kennywood   united states    1999
+9          fantasy mouse         spinning coaster               fantasy island  united kingdom    2000
+10           crazy mouse         spinning coaster                brighton pier  united kingdom    2000
+11               twister         spinning coaster            lightwater valley  united kingdom    2001
+12            wild mouse         spinning coaster                  magic world           italy    2001
+13           flagermusen         spinning coaster             fårup sommerland         denmark    2001
+14           crazy mouse         spinning coaster               allou fun park          greece    2002
+15     papillons d'alice  junior spinning coaster       jardin d'acclimatation          france    2002
+16        primeval whirl         spinning coaster     disney 's animal kingdom   united states    2002
+17           magic mouse         spinning coaster           fantasia luna park          greece    2003
+18           crazy mouse         spinning coaster     steve vander vorst rides   united states    2003
+19           ragondingue         spinning coaster                    bagatelle          france    2006
+20           bukkerittet         spinning coaster                  kongeparken          norway    2008

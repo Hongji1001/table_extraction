@@ -1,0 +1,10 @@
+  ethnic group                                         main regions  population percentage of total population christians muslims  other
+0     tigrigna                         maekel region , debub region  3319680.00                            57%        53%     44%     1%
+1        tigre  gash - barka region , anseba region , maekel region  1630720.00                            28%         6%     90%     4%
+2         saho               northern red sea region , debub region   232960.00                             4%         7%     93%  n / a
+3       kunama                                  gash - barka region   174720.00                             3%        41%     23%    36%
+4         afar                              southern red sea region   174720.00                             3%         2%     98%  n / a
+5        bilen                                        anseba region   116480.00                             2%        48%     47%     5%
+6         nara                                  gash - barka region    58240.00                             1%        14%     85%     1%
+7         beja                  gash - barka region , anseba region    58240.00                             1%         1%     98%     1%
+8     rashaida                              northern red sea region       58.24                             1%      n / a     99%     na

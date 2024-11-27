@@ -1,0 +1,18 @@
+           year             team       number  bb + hbp ba (place)
+0          1984      seibu lions            5        11        209
+1          1985      seibu lions            5        39        275
+2          1986      seibu lions            5        44    296（13）
+3          1987      seibu lions            5         7        200
+4          1988      seibu lions            5        31    263（23）
+5          1989      seibu lions            5        39     304（7）
+6          1990      seibu lions            5        53    266（22）
+7          1991      seibu lions            5        51    271（14）
+8          1992      seibu lions            5        67    285（14）
+9          1993      seibu lions            5        57     319（1）
+10         1994      seibu lions            5        39     294（8）
+11         1995      seibu lions            5        49        238
+12         1996  yakult swallows            8        53     333（2）
+13         1997  yakult swallows            8        22        262
+14         1998  yakult swallows            8        12        304
+15         1999  yakult swallows            8         6        196
+16  carer total      carer total  carer total       580        282

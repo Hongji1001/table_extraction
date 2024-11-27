@@ -1,0 +1,22 @@
+                          name                    party                             tenure      head (s) of government                         ministerial title
+0       don stephen senanayake    united national party  24 september 1947 - 22 march 1952      don stephen senanayake  minister of external affairs and defence
+1            dudley senanayake    united national party    22 march 1952 - 12 october 1953           dudley senanayake  minister of external affairs and defence
+2              john kotelawala    united national party    12 october 1953 - 12 april 1956             john kotelawala  minister of external affairs and defence
+3         s w r d bandaranaike  sri lanka freedom party  12 april 1956 - 26 september 1959        s w r d bandaranaike  minister of external affairs and defence
+4       wijeyananda dahanayake  sri lanka freedom party  26 september 1959 - 20 march 1960      wijeyananda dahanayake  minister of external affairs and defence
+5            dudley senanayake    united national party       21 march 1960 - 21 july 1960           dudley senanayake  minister of external affairs and defence
+6        sirimavo bandaranaike  sri lanka freedom party       21 july 1960 - 25 march 1965       sirimavo bandaranaike  minister of external affairs and defence
+7            dudley senanayake    united national party        25 march 1965 - 29 may 1970           dudley senanayake  minister of external affairs and defence
+8        sirimavo bandaranaike  sri lanka freedom party         29 may 1970 - 23 july 1977       sirimavo bandaranaike  minister of external affairs and defence
+9   junius richard jayewardene    united national party     23 july 1977 - 4 february 1978  junius richard jayewardene  minister of external affairs and defence
+10   abdul cader shahul hameed    united national party             4 february 1978 - 1989  junius richard jayewardene               minister of foreign affairs
+11            ranjan wijeratne    united national party                        1989 - 1991        ranasinghe premadasa               minister of foreign affairs
+12               harold herath    united national party                        1991 - 1993        ranasinghe premadasa               minister of foreign affairs
+13   abdul cader shahul hameed    united national party                        1993 - 1994     dingiri banda wijetunga               minister of foreign affairs
+14         lakshman kadirgamar  sri lanka freedom party                        1994 - 2001       chandrika kumaratunga               minister of foreign affairs
+15            tyronne fernando    united national party                        2001 - 2004       chandrika kumaratunga               minister of foreign affairs
+16         lakshman kadirgamar  sri lanka freedom party                        2004 - 2005       chandrika kumaratunga               minister of foreign affairs
+17          anura bandaranaike  sri lanka freedom party                        2004 - 2005       chandrika kumaratunga               minister of foreign affairs
+18         mangala samaraweera  sri lanka freedom party                        2005 - 2007           mahinda rajapaksa               minister of foreign affairs
+19         rohitha bogollagama  sri lanka freedom party                  2007 - april 2010           mahinda rajapaksa               minister of foreign affairs
+20          prof gamini peiris  sri lanka freedom party            23 april 2010 - present           mahinda rajapaksa               minister of foreign affairs

@@ -1,0 +1,14 @@
+    no              driver                          entrant    constructor             chassis        engine
+0    2     luigi villoresi                 scuderia ferrari        ferrari         ferrari 125  ferrari v12s
+1    4      alberto ascari                 scuderia ferrari        ferrari         ferrari 125  ferrari v12s
+2    6     peter whitehead                          private        ferrari         ferrari 125  ferrari v12s
+3    8  juan manuel fangio         automóvil club argentino       maserati  maserati 4clt / 48  maserati l4s
+4   10    benedicto campos         automóvil club argentino       maserati  maserati 4clt / 48  maserati l4s
+5   12     giuseppe farina                              csi       maserati  maserati 4clt / 48  maserati l4s
+6   14        fred ashmore              scuderia ambrosiana       maserati  maserati 4clt / 48  maserati l4s
+7   16         reg parnell              scuderia ambrosiana       maserati  maserati 4clt / 48  maserati l4s
+8   18   geoffrey crossley                          private           alta             alta gp      alta l4s
+9   20  philippe étancelin  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c     talbot l6
+10  22       pierre levegh  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c     talbot l6
+11  24        louis rosier  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c     talbot l6
+12  26        guy mairesse  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c     talbot l6

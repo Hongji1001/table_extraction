@@ -1,0 +1,17 @@
+           competition  played  drawn  lost position
+0     super league iii      23      0    15      9th
+1      super league iv      30      0    25     13th
+2       super league v      28      1    15      7th
+3      super league vi      28      2     6      3rd
+4     super league vii      28      0    12      5th
+5    super league viii      28      3    12      7th
+6      super league ix      28      2    12      3rd
+7       super league x      28      2    11      5th
+8      super league xi      28      0     8      2nd
+9     super league xii      27      2    11      5th
+10   super league xiii      27      1    18     11th
+11    super league xiv      27      0    17     12th
+12     super league xv      27      0    11      6th
+13    super league xvi      27      1    13      8th
+14   super league xvii      27      2    10      6th
+15  super league xviii      27      2    12      6th

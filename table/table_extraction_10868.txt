@@ -1,0 +1,7 @@
+   season              driver                team tyre  points
+0    2004       donny crevels             weytech    h      86
+1    2005  jeroen bleekemolen  us carworld racing    h     262
+2    2006       sandor van es        collé racing    h     203
+3    2007     donald molenaar        collé racing    h     206
+4    2008     donald molenaar        collé racing    h     230
+5    2009     donald molenaar        collé racing    h     210

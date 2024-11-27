@@ -1,0 +1,10 @@
+   position                  driver / passenger     equipment  bike no  points
+0         1     daniël willemsen / reto grütter   zabel - vmc        1     531
+1         2  kristers sergis / kaspars stupelis     ktm - ayr        3     434
+2         3        jan hendrickx / tim smeuninx   zabel - vmc        2     421
+3         4   joris hendrickx / kaspars liepins     ktm - ayr        8     394
+4         5   marco happich / meinrad schelbert  zabel - mefo        7     317
+5         6   maris rupeiks / haralds kurpnieks     ktm - ayr        6     297
+6         7    vaclav rozehnal / marek rozehnal   zabel - vmc        5     273
+7         8      janis daiders / lauris daiders     ktm - ayr       10     269
+8         9        nicky pulinx / ondrej cermak   zabel - vmc       14     244

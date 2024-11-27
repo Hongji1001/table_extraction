@@ -1,0 +1,9 @@
+                school          location    mascot  enrollment ihsaa class ihsaa football class        county
+0           manchester  north manchester   squires         432          aa                   aa     85 wabash
+1           northfield            wabash  norsemen         389          aa                    a     85 wabash
+2          north miami            denver  warriors         349          aa                    a      52 miami
+3  rochester community         rochester    zebras         565          aa                   aa     25 fulton
+4            southwood            wabash   knights         413          aa                    a     85 wabash
+5    tippecanoe valley             akron   vikings         618         aaa                  aaa  43 kosciusko
+6               wabash            wabash  apachees         447          aa                   aa     85 wabash
+7               whitko     south whitley  wildcats         595         aaa                  aaa    92 whitley

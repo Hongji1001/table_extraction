@@ -1,0 +1,19 @@
+                player    nationality          position         years for jazz school / club team
+0          mack calvin  united states             guard              1979 - 80                usc
+1         antoine carr  united states  forward - center              1994 - 98      wichita state
+2        bobby cattage  united states           forward              1981 - 82             auburn
+3         tom chambers  united states           forward              1993 - 95               utah
+4      calbert cheaney  united states   guard - forward              2002 - 03            indiana
+5        pete chilcutt  united states  forward - center            1999 - 2000     north carolina
+6           keon clark  united states  forward - center              2003 - 04               unlv
+7          e c coleman  united states           forward              1974 - 77    houston baptist
+8       jarron collins  united states            center            2001 - 2009           stanford
+9            jeff cook  united states            center              1985 - 86        idaho state
+10        wayne cooper  united states  forward - center              1980 - 81        new orleans
+11       tyrone corbin  united states           forward              1991 - 94             depaul
+12          mel counts  united states  forward - center              1974 - 76       oregon state
+13         john crotty  united states             guard  1992 - 95 , 2000 - 02           virginia
+14       corey crowder  united states   guard - forward              1991 - 92  kentucky wesleyan
+15        pat cummings  united states            center              1990 - 91         cincinnati
+16  william cunningham  united states            center              1997 - 98             temple
+17          dell curry  united states             guard              1986 - 87      virginia tech

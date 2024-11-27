@@ -1,0 +1,6 @@
+  japanese   rōmaji            meaning chinese romanization source language
+0    マージャン    mājan            mahjong      麻將      májiàng        mandarin
+1    ウーロン茶  ūroncha         oolong tea     烏龍茶    wūlóngchá        mandarin
+2    チャーハン   chāhan         fried rice      炒飯      chǎofàn        mandarin
+3   チャーシュー   chāshū     barbecued pork      叉焼      cha siu       cantonese
+4    シューマイ   shūmai  a form of dim sum      焼賣     siu maai       cantonese

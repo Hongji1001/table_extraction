@@ -1,0 +1,40 @@
+               category                         type    attribute bubbles cancelable
+0                 mouse                        click      onclick     yes        yes
+1                 mouse                     dblclick   ondblclick     yes        yes
+2                 mouse                    mousedown  onmousedown     yes        yes
+3                 mouse                      mouseup    onmouseup     yes        yes
+4                 mouse                    mouseover  onmouseover     yes        yes
+5                 mouse                    mousemove  onmousemove     yes         no
+6                 mouse                     mouseout   onmouseout     yes        yes
+7                 mouse                    dragstart  ondragstart     yes        yes
+8                 mouse                         drag       ondrag     yes        yes
+9                 mouse                    dragenter  ondragenter     yes        yes
+10                mouse                    dragleave  ondragleave     yes         no
+11                mouse                     dragover   ondragover     yes        yes
+12                mouse                         drop       ondrop     yes        yes
+13                mouse                      dragend    ondragend     yes         no
+14             keyboard                      keydown    onkeydown     yes        yes
+15             keyboard                     keypress   onkeypress     yes        yes
+16             keyboard                        keyup      onkeyup     yes        yes
+17  html frame / object                         load       onload      no         no
+18  html frame / object                       unload     onunload      no         no
+19  html frame / object                        abort      onabort     yes         no
+20  html frame / object                        error      onerror     yes         no
+21  html frame / object                       resize     onresize     yes         no
+22  html frame / object                       scroll     onscroll     yes         no
+23            html form                       select     onselect     yes         no
+24            html form                       change     onchange     yes         no
+25            html form                       submit     onsubmit     yes        yes
+26            html form                        reset      onreset     yes         no
+27            html form                        focus      onfocus      no         no
+28            html form                         blur       onblur      no         no
+29       user interface                      focusin       (none)     yes         no
+30       user interface                     focusout       (none)     yes         no
+31       user interface                  domactivate       (none)     yes        yes
+32             mutation           domsubtreemodified       (none)     yes         no
+33             mutation              domnodeinserted       (none)     yes         no
+34             mutation               domnoderemoved       (none)     yes         no
+35             mutation   domnoderemovedfromdocument       (none)      no         no
+36             mutation  domnodeinsertedintodocument       (none)      no         no
+37             mutation              domattrmodified       (none)     yes         no
+38             mutation     domcharacterdatamodified       (none)     yes         no

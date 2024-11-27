@@ -1,0 +1,20 @@
+   district               incumbent       party  first elected                              result
+0    ohio 1      benjamin eggleston  republican           1864                        re - elected
+1    ohio 2      rutherford b hayes  republican           1864                        re - elected
+2    ohio 3        robert c schenck  republican           1862                        re - elected
+3    ohio 4        william lawrence  republican           1864                        re - elected
+4    ohio 5      francis c le blond  democratic           1862             retired democratic hold
+5    ohio 6         reader w clarke  republican           1864                        re - elected
+6    ohio 7     samuel shellabarger  republican           1864                        re - elected
+7    ohio 8  james randolph hubbell  republican           1864             retired republican hold
+8    ohio 9        ralph p buckland  republican           1864                        re - elected
+9   ohio 10          james m ashley  republican           1862                        re - elected
+10  ohio 11        hezekiah s bundy  republican           1864             retired republican hold
+11  ohio 12         william e finck  democratic           1862             retired democratic hold
+12  ohio 13         columbus delano  republican           1864  lost re - election democratic gain
+13  ohio 14           martin welker  republican           1864                        re - elected
+14  ohio 15         tobias a plants  republican           1864                        re - elected
+15  ohio 16            john bingham  republican           1864                        re - elected
+16  ohio 17        ephraim r eckley  republican           1862                        re - elected
+17  ohio 18        rufus p spalding  republican           1862                        re - elected
+18  ohio 19        james a garfield  republican           1862                        re - elected

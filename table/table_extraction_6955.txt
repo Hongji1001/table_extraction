@@ -1,0 +1,13 @@
+                               record                               date                             driver                               time                  speed / avg speed
+0            nascar sprint cup series           nascar sprint cup series           nascar sprint cup series           nascar sprint cup series           nascar sprint cup series
+1                          qualifying                september 14 , 2013                        joey logano                             28.509                                  -
+2                                race                     july 10 , 2010                    david reutimann                            2:45:34                                  -
+3            nascar nationwide series           nascar nationwide series           nascar nationwide series           nascar nationwide series           nascar nationwide series
+4                          qualifying                      july 8 , 2005                        ryan newman                             28.964                                  -
+5                                race                     july 10 , 2009                        joey logano                            2:02:10                                  -
+6   nascar camping world truck series  nascar camping world truck series  nascar camping world truck series  nascar camping world truck series  nascar camping world truck series
+7                          qualifying                     july 21 , 2012                      justin lofton                             31.007                                  -
+8                                race                   august 27 , 2010                         kyle busch                            1:44:31                                  -
+9                 izod indycar series                izod indycar series                izod indycar series                izod indycar series                izod indycar series
+10                         qualifying                 september 6 , 2003                       richie hearn                             24.521                                  -
+11                               race                september 10 , 2006                        dan wheldon                            1:33:37                                  -

@@ -1,0 +1,9 @@
+                   school        location          mascot  size ihsaa class       county  year joined  previous conference
+0  cambridge city lincoln  cambridge city   golden eagles   367          aa     89 wayne         1965    none (new school)
+1             centerville     centerville        bulldogs   530          aa     89 wayne         1962         east central
+2              hagerstown      hagerstown          tigers   401          aa     89 wayne         1966  mississinewa valley
+3            northeastern   fountain city         knights   379          aa     89 wayne         1974        mid - eastern
+4                     tri        straughn          titans   274           a     33 henry         1989       big blue river
+5    union city community      union city         indians   287           a  68 randolph         1962         east central
+6            union county         liberty        patriots   535          aa     81 union         1973    none (new school)
+7    winchester community      winchester  golden falcons   494          aa  68 randolph         1972  mississinewa valley

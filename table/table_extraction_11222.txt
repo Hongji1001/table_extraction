@@ -1,0 +1,37 @@
+                     player             position        date of birth (age)  caps              club / province
+0                dane coles               hooker   10 december 1986 (age27)    12      wellington / hurricanes
+1               andrew hore               hooker  13 september 1978 (age35)    82       taranaki / highlanders
+2             keven mealamu               hooker      20 march 1979 (age34)   108             auckland / blues
+3            wyatt crockett                 prop    24 january 1983 (age31)    21       canterbury / crusaders
+4          charlie faumuina                 prop   24 december 1986 (age27)    14             auckland / blues
+5                ben franks                 prop      27 march 1984 (age29)    30    hawke 's bay / hurricanes
+6               owen franks                 prop   23 december 1987 (age26)    51       canterbury / crusaders
+7   jeffery toomaga - allen                 prop   19 november 1990 (age23)     1      wellington / hurricanes
+8             tony woodcock                 prop    27 january 1981 (age33)   105  north harbour / highlanders
+9              dominic bird                 lock       9 april 1991 (age22)     1       canterbury / crusaders
+10         brodie retallick                 lock        31 may 1991 (age22)    21       bay of plenty / chiefs
+11              luke romano                 lock   16 february 1986 (age27)    15       canterbury / crusaders
+12            jeremy thrush                 lock      19 april 1985 (age28)     5      wellington / hurricanes
+13            sam whitelock                 lock    12 october 1988 (age25)    48       canterbury / crusaders
+14                 sam cane              flanker    13 january 1992 (age22)    14       bay of plenty / chiefs
+15             steve luatua              flanker      29 april 1991 (age22)     9             auckland / blues
+16       richie mccaw ( c )              flanker   31 december 1980 (age33)   121       canterbury / crusaders
+17              liam messam              flanker      25 march 1984 (age29)    26             waikato / chiefs
+18           luke whitelock              flanker    29 january 1991 (age23)     1       canterbury / crusaders
+19              kieran read             number 8    26 october 1985 (age28)    58       canterbury / crusaders
+20     tawera kerr - barlow          half - back     15 august 1990 (age23)    12             waikato / chiefs
+21              tj perenara          half - back    23 january 1992 (age22)     0      wellington / hurricanes
+22              aaron smith          half - back   21 november 1988 (age25)    23       manawatu / highlanders
+23          beauden barrett  first five - eighth        27 may 1991 (age22)    15        taranaki / hurricanes
+24               dan carter  first five - eighth       5 march 1982 (age31)    98       canterbury / crusaders
+25             aaron cruden  first five - eighth     8 january 1989 (age25)    26            manawatu / chiefs
+26               tom taylor  first five - eighth      11 march 1989 (age24)     3       canterbury / crusaders
+27              ryan crotty               centre  23 september 1988 (age25)     2       canterbury / crusaders
+28                ma'a nonu               centre        21 may 1982 (age31)    85     wellington / highlanders
+29            francis saili               centre   16 february 1991 (age22)     2        north harbour / blues
+30              frank halai                 wing       6 march 1988 (age25)     1     counties manukau / blues
+31                cory jane                 wing    8 february 1983 (age30)    43      wellington / hurricanes
+32             julian savea                 wing      7 august 1990 (age23)    18      wellington / hurricanes
+33                ben smith                 wing        1 june 1986 (age27)    23          otago / highlanders
+34              israel dagg             fullback        6 june 1988 (age25)    35     hawke 's bay / crusaders
+35           charles piutau             fullback    31 october 1991 (age22)     8             auckland / blues

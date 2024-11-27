@@ -1,0 +1,9 @@
+                institution              location    nickname  enrollment  established
+0      villanova university        villanova , pa    wildcats        6335         2006
+1         towson university           towson , md      tigers       21950         2013
+2        rutgers university    new brunswick , nj     knights       42327         2011
+3  slippery rock university    slippery rock , pa       pride        8500         2002
+4    university of virginia  charlottesville , va   cavaliers       12748         2000
+5        liberty university        lynchburg , va      flames       12400         2011
+6    university of maryland     college park , md   terrapins       22412         1997
+7                      navy        annapolis , md  midshipman        4400         2009

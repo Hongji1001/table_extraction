@@ -1,0 +1,14 @@
+         county  population unemployment rate  market income per capita poverty rate        status
+0      allegany       49927              5.8%                     16850        15.5%        - risk
+1        broome      200536              5.0%                     24199        12.8%  transitional
+2   cattaraugus       83955              5.5%                     21285        13.7%  transitional
+3    chautauqua      136409              4.9%                     19622        13.8%  transitional
+4       chemung       91070              5.1%                     22513        13.0%  transitional
+5      chenango       51401              5.5%                     20896        14.4%  transitional
+6      cortland       48599              5.7%                     21134        15.5%  transitional
+7      delaware       48055              4.9%                     21160        12.9%  transitional
+8        otsego       61676              4.9%                     21819        14.9%  transitional
+9     schoharie       31582              6.0%                     23145        11.4%  transitional
+10     schuyler       19224              5.4%                     21042        11.8%  transitional
+11      steuben       98726              5.6%                     28065        13.2%  transitional
+12        tioga       51784              4.8%                     24885         8.4%  transitional

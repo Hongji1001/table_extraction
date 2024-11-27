@@ -1,0 +1,16 @@
+                      bowler  over no         venue            date                                        wickets
+0                 shane bond        1        durban  2007 - 09 - 12   morris ouma bowled tanmay mishra caught oram
+1               chris martin        9        durban  2007 - 09 - 12                     thomas odoyo caught taylor
+2                 dewald nel        2        durban  2007 - 09 - 12                                           none
+3                 syed rasel        1  johannesburg  2007 - 09 - 13                      chris gayle caught kapali
+4              chaminda vaas        1  johannesburg  2007 - 09 - 14                                morris ouma lbw
+5               irfan pathan        9        durban  2007 - 09 - 14        kamran akmal run out younis khan bowled
+6              shaun pollock        1     cape town  2007 - 09 - 16                 luke wright caught de villiers
+7           dilhara fernando        6  johannesburg  2007 - 09 - 17                         mohammad hafeez bowled
+8              shahid afridi        9  johannesburg  2007 - 09 - 18                          andrew symonds bowled
+9                 syed rasel        2  johannesburg  2007 - 09 - 18                                           none
+10          dilhara fernando        4  johannesburg  2007 - 09 - 18  tamim iqbal caught malinga aftab ahmed bowled
+11            mark gillespie        4        durban  2007 - 09 - 19                 ab de villiers caught mccullum
+12          dilhara fernando        2     cape town  2007 - 09 - 20                                           none
+13  shanthakumaran sreesanth        4        durban  2007 - 09 - 22                                           none
+14  shanthakumaran sreesanth        2  johannesburg  2007 - 09 - 24                                           none

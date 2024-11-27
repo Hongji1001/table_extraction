@@ -1,0 +1,13 @@
+    pick                   round           player           position           school
+0      4                       1      paul gruber   offensive tackle        wisconsin
+1     53  2 (from san francisco)        lars tate       running back          georgia
+2     83   4 (from philadelphia)      robert goff      defensive end           auburn
+3     86    4 (from kansas city)      john bruhin              guard        tennessee
+4    107  4 (from san francisco)    monte robbins             punter         michigan
+5    113                       5   william howard       running back        tennessee
+6    163  6 (from san francisco)        shawn lee   defensive tackle    north alabama
+7    167                       7      kerry goode       running back          alabama
+8    198                       8  anthony simpson       running back    east carolina
+9    225                       9     reuben davis      defensive end   north carolina
+10   279                      11     frank pillow      wide receiver  tennessee state
+11   310                      12     victor jones  inside linebacker    virginia tech

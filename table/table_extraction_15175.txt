@@ -1,0 +1,18 @@
+   opposing teams  against            date                            venue                status
+0        scotland       20  03 / 02 / 2007              twickenham , london           six nations
+1           italy        7  10 / 02 / 2007              twickenham , london           six nations
+2         ireland       43  24 / 02 / 2007              croke park , dublin           six nations
+3          france       18  11 / 03 / 2007              twickenham , london           six nations
+4           wales       27  17 / 03 / 2007     millennium stadium , cardiff           six nations
+5    south africa       58  26 / 05 / 2007      vodacom park , bloemfontein            first test
+6    south africa       55  02 / 06 / 2007       loftus versfeld , pretoria           second test
+7           wales        5  04 / 08 / 2007              twickenham , london            test match
+8          france       21  11 / 08 / 2007              twickenham , london            first test
+9          france       22  18 / 08 / 2007      stade vélodrome , marseille           second test
+10            usa       10  08 / 09 / 2007    stade félix - bollaert , lens  2007 rugby world cup
+11   south africa       36  14 / 09 / 2007  stade de france , saint - denis  2007 rugby world cup
+12          samoa       22  22 / 09 / 2007   stade de la beaujoire , nantes  2007 rugby world cup
+13          tonga       20  28 / 09 / 2007         parc des princes , paris  2007 rugby world cup
+14      australia       10  06 / 10 / 2007      stade vélodrome , marseille  2007 rugby world cup
+15         france        9  13 / 10 / 2007  stade de france , saint - denis  2007 rugby world cup
+16   south africa       15  20 / 10 / 2007  stade de france , saint - denis  2007 rugby world cup

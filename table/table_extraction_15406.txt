@@ -1,0 +1,41 @@
+    year         championship                      event                     nation   result
+0   1976             olympics         mens double sculls              great britain   silver
+1   1977  world championships          mens double scull              great britain     gold
+2   1978  world championships          mens double scull              great britain   silver
+3   1980   moscow olypic game            mens four scull                      japan  boycott
+4   1984             olympics          men 's coxed four              great britain     gold
+5   1985   world championship        men 's coxless pair              great britain   silver
+6   1986  world championships            mens coxed pair              great britain     gold
+7   1987  world championships        men 's coxless pair              great britain     gold
+8   1987  world championships                 coxed pair              great britain   silver
+9   1988             olympics        men 's coxless pair              great britain     gold
+10  1988             olympics            mens coxed pair              great britain   bronze
+11  1989  world championships        men 's coxless pair              great britain   silver
+12  1989  world championships          men 's coxed four              great britain   bronze
+13  1990  world championships                 mens eight                     canada   silver
+14  1990  world championships            women 's single                     canada   silver
+15  1991  world championships                 mens eight                     canada   silver
+16  1991  world championships              womens single                     canada     gold
+17  1992             olympics               men 's eight                     canada     gold
+18  1992             olympics      women 's single scull  canada ( silken laumann )   bronze
+19  1993  world championships               men 's eight                        usa   bronze
+20  1994  world championships               men 's eight                        usa     gold
+21  1995  world championships               men 's eight                        usa   bronze
+22  1996             olympics               men 's eight                        usa      5th
+23  1996             olympics     women 's single sculls  canada ( silken laumann )   silver
+24  1997  world championships     women 's double sculls              great britain   silver
+25  1998  world championships     women 's double sculls              great britain     gold
+26  1998  world championships      women 's coxless pair              great britain   silver
+27  2000             olympics  women 's quadruple sculls              great britain   silver
+28  2002  world championships               men 's eight                     canada     gold
+29  2003  world championships               men 's eight                     canada     gold
+30  2003  world championships        men 's coxless four                     canada     gold
+31  2004             olympics        men 's coxless four                     canada   silver
+32  2006  world championships        men 's coxless pair                     canada   bronze
+33  2007  world championships               men 's eight                     canada     gold
+34  2008             olympics               men 's eight                     canada     gold
+35  2008             olympics        men 's coxless pair                     canada   silver
+36  2009  world championships               men 's eight                     canada   silver
+37  2011  world championships               men 's eight                     canada   bronze
+38  2011  world championships          men 's coxed pair                     canada   bronze
+39  2012             olympics               men 's eight                     canada   silver

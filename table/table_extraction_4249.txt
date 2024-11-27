@@ -1,0 +1,11 @@
+      season                 tier             division             position           top scorer
+0  1890 - 91                    i  football tournament                  4th                n / a
+1  1891 - 92                    i  football tournament                  4th                n / a
+2  1892 - 93                    i  football tournament                  3rd                n / a
+3  1893 - 94                    i  football tournament                  3rd                n / a
+4  1894 - 95                    i  football tournament                  3rd                n / a
+5  1895 - 96  did not participate  did not participate  did not participate  did not participate
+6  1896 - 97                    i  football tournament                  5th                n / a
+7  1897 - 98                    i  football tournament                  4th                n / a
+8  1898 - 99                    i  football tournament            2nd - 4th                n / a
+9  1899 - 00                    i  football tournament                  3rd                n / a

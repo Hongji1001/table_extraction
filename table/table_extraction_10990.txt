@@ -1,0 +1,22 @@
+            region                date                            label                                       format              catalog
+0           sweden                2002     playground music scandinavia                                     cd - rom                 none
+1      scandinavia                2001     playground music scandinavia                                    cd , maxi  magik muzik 801 - 2
+2      netherlands      june 22 , 2001                      magik muzik                                  cd , single  magik muzik 801 - 1
+3      netherlands                2001                      magik muzik                           vinyl , 12 , promo        bhmm 801 - 5p
+4      netherlands      june 22 , 2001                      magik muzik                                    cd , maxi  magik muzik 801 - 2
+5      netherlands                2001                      magik muzik                               2 x vinyl , 12  magik muzik 801 - 5
+6      netherlands  december 11 , 2006                      magik muzik  vinyl , 12 , limited edition , picture disc  magik muzik 835 - 6
+7    united states                2001                         nettwerk                       2 x vinyl , 12 , promo     0 6700 33122 1 9
+8    united states                2001                         nettwerk                                   vinyl , 12     0 6700 33123 1 8
+9   united kingdom                2001                           nebula                           vinyl , 12 , promo            nebdjx016
+10  united kingdom                2001                           nebula                           vinyl , 12 , promo             nebdj016
+11  united kingdom     april 30 , 2001                           nebula                                    cd , maxi             nebcd016
+12  united kingdom     april 30 , 2001                           nebula                                   vinyl , 12             nebtx016
+13  united kingdom     april 30 , 2001                           nebula                                   vinyl , 12              nebt016
+14  united kingdom                2004                  nebula classics                                   vinyl , 12               neb016
+15          france      january , 2005             independence records                    vinyl , 12 , picture disc            ir 0435 v
+16          france      january , 2005  universal licensing music (ulm)                    vinyl , 12 , picture disc          982 696 - 0
+17         germany   january 21 , 2002                             jive                                    cd , maxi       rtd 103.3865.3
+18         germany                2002            dos or die recordings                                   vinyl , 12              dos 185
+19         germany                2002            dos or die recordings                                   vinyl , 12              dos 195
+20         germany       december 2006                   kontor records  vinyl , 12 , limited edition , picture disc                 k579

@@ -1,0 +1,17 @@
+   place          player        country  score to par
+0      1   bobby nichols  united states     67    - 5
+1     t2    allen miller  united states     68    - 4
+2     t2   jack nicklaus  united states     68    - 4
+3     t4   arnold palmer  united states     69    - 3
+4     t4       j c snead  united states     69    - 3
+5     t4    tom weiskopf  united states     69    - 3
+6     t7    billy casper  united states     70    - 2
+7     t7      bob murphy  united states     70    - 2
+8     t7      tom watson  united states     70    - 2
+9    t10     tommy aaron  united states     71    - 1
+10   t10     jerry heard  united states     71    - 1
+11   t10    mac mclendon  united states     71    - 1
+12   t10  jerry pate (a)  united states     71    - 1
+13   t10       sam snead  united states     71    - 1
+14   t10     lee trevino  united states     71    - 1
+15   t10   larry ziegler  united states     71    - 1

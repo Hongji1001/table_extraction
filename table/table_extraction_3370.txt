@@ -1,0 +1,9 @@
+   pick          cfl team           player position            college
+0    19      winnipeg (4)     wayne powell       og             ottawa
+1    20      montreal (2)       andy smith       lb      mount allison
+2    21      edmonton (3)  paul hendershot       hb  waterloo lutheran
+3    22      bc lions (3)       pete raham       db            toronto
+4    23      hamilton (3)       paul mckay       hb            toronto
+5    24       calgary (4)      tom schultz       de             ottawa
+6    25       toronto (2)   john candiotto  de - pk          dalhousie
+7    26  saskatchewan (3)      bob mcculla       ot             ottawa

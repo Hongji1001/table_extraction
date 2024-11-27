@@ -1,0 +1,46 @@
+        division                                       brigade       regiment                 colonel        county
+0   1st division                                   1st brigade  47th regiment                     col    hot spring
+1   1st division                                   1st brigade  28th regiment                     col         clark
+2   1st division                                   1st brigade  38th regiment                     col          pike
+3   1st division                                   1st brigade   8th regiment                     col     hempstead
+4   1st division                                   1st brigade  40th regiment                     col     lafayette
+5   1st division                                   1st brigade  37th regiment                     col        sevier
+6   1st division                                   1st brigade  39th regiment                     col      ouachita
+7   1st division                                   1st brigade  57th regiment                     col    montgomery
+8   1st division  2nd brigade brigadier general richard c byrd  26th regiment   colonel charles fitch          yell
+9   1st division  2nd brigade brigadier general richard c byrd  18th regiment       colonel jj joiner        saline
+10  1st division  2nd brigade brigadier general richard c byrd  13th regiment      colonel td metrich       pulaski
+11  1st division  2nd brigade brigadier general richard c byrd  21st regiment         colonel mh blue         white
+12  1st division  2nd brigade brigadier general richard c byrd   4th regiment         colonel bh ball        conway
+13  1st division  2nd brigade brigadier general richard c byrd  15th regiment        colonel s moffit          pope
+14  1st division  2nd brigade brigadier general richard c byrd  36th regiment  colonel william turner         perry
+15  1st division                                   3rd brigade  10th regiment                     col       johnson
+16  1st division                                   3rd brigade  17th regiment                     col         scott
+17  1st division                                   3rd brigade   5th regiment                     col      crawford
+18  1st division                                   3rd brigade   7th regiment                     col      franklin
+19  1st division                                   4th brigade  20th regiment                     col    washington
+20  1st division                                   4th brigade   2nd regiment                     col        benton
+21  1st division                                   4th brigade  11th regiment                     col       madison
+22  1st division                                   4th brigade   3rd regiment                     col       carroll
+23  2nd division                                   5th brigade  19th regiment                     col    st francis
+24  2nd division                                   5th brigade  14th regiment                     col      poinsett
+25  2nd division                                   5th brigade  12th regiment                     col      phillips
+26  2nd division                                   5th brigade  30th regiment                     col    crittenden
+27  2nd division                                   5th brigade  48th regiment                     col   mississippi
+28  2nd division                                   5th brigade  35th regiment                     col        monroe
+29  2nd division                                   6th brigade  27th regiment                     col       bradley
+30  2nd division                                   6th brigade  24th regiment                     col     jefferson
+31  2nd division                                   6th brigade   1st regiment                     col      arkansas
+32  2nd division                                   6th brigade  23rd regiment                     col        chicot
+33  2nd division                                   6th brigade  29th regiment                     col         union
+34  2nd division                                   6th brigade   6th regiment                     col         desha
+35  2nd division                                   7th brigade  43rd regiment                     col        fulton
+36  2nd division                                   7th brigade  42nd regiment                     col         izard
+37  2nd division                                   7th brigade  22nd regiment                     col     van buren
+38  2nd division                                   7th brigade  31st regiment                     col        marion
+39  2nd division                                   7th brigade  45th regiment                     col        searcy
+40  2nd division                                   7th brigade  41st regiment                     col        newton
+41  2nd division                                   8th brigade   9th regiment                     col  independence
+42  2nd division                                   8th brigade  34th regiment                     col       jackson
+43  2nd division                                   8th brigade  25th regiment                     col      lawrence
+44  2nd division                                   8th brigade  16th regiment                     col      randolph

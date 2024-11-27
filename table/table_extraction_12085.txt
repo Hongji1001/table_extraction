@@ -1,0 +1,37 @@
+                  rider manufacturer  laps        time  grid
+0         nicolas terol      aprilia    16   29:51.350     6
+1         pol espargaro        derbi    16     + 1.708     1
+2          stefan bradl      aprilia    16     + 3.984     3
+3         scott redding      aprilia    16     + 4.277     9
+4        sandro cortese      aprilia    16     + 4.413    10
+5          marc marquez          ktm    16     + 4.454    13
+6          simone corsi      aprilia    16     + 6.261     7
+7         bradley smith      aprilia    16     + 7.782    11
+8          steve bonsey      aprilia    16    + 12.035    15
+9        mike di meglio        derbi    16    + 12.251     2
+10   dominique aegerter        derbi    16    + 15.465     8
+11           joan olivã        derbi    16    + 18.312    12
+12     raffaele de rosa          ktm    16    + 20.137    17
+13       gabor talmacsi      aprilia    16    + 24.651    16
+14           danny webb      aprilia    16    + 27.592     4
+15         jules cluzel       loncin    16    + 35.432    31
+16         robin lasser      aprilia    16    + 37.082    22
+17         sergio gadea      aprilia    16    + 38.549    23
+18     tomoyoshi koyama          ktm    16    + 38.571    18
+19        efren vazquez      aprilia    16    + 40.991    24
+20    hugo van den berg      aprilia    16  + 1:06.197    30
+21          pj jacobsen      aprilia    16  + 1:06.327    25
+22      bastien chesaux      aprilia    16  + 1:07.067    34
+23         jonas folger      aprilia    16  + 1:14.709    29
+24       robert muresan      aprilia    16  + 1:20.413    32
+25        alexis masbou       loncin    16  + 1:21.880    27
+26        davide stirpe          ktm    16  + 1:22.026    33
+27       cyril carrillo        honda    16  + 1:22.159    35
+28  kristian lee turner      aprilia    16  + 2:11.524    36
+29      lorenzo zanetti          ktm    13  retirement    28
+30       marco ravaioli      aprilia    10    accident    26
+31          pablo nieto          ktm     9  retirement    20
+32     michael ranseder      aprilia     7    accident    19
+33     takaaki nakagami      aprilia     6    accident    14
+34       andrea iannone      aprilia     5  retirement     5
+35         esteve rabat          ktm     2    accident    21

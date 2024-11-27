@@ -1,0 +1,12 @@
+                                       riding             candidate gender         residence                                   occupation  votes rank
+0                           cape breton-canso         mark macneill      m         inverness       government and business policy advisor   7660  3rd
+1                                central nova  mary louise lorefice      f        antigonish                             retired educator   7659  3rd
+2   cumberland-colchester-musquodoboit valley          karen olsson      f       north river                      stay - at - home mother   4874  2nd
+3                      dartmouth-cole harbour              brad pye      m       ottawa , on       senior political party program officer  12793  2nd
+4                                     halifax          megan leslie      f           halifax                       community legal worker  19252  1st
+5                                halifax west        tamara lorincz      f           halifax  director of nova scotia environment network  12201  2nd
+6                                 kings-hants        carol e harris      f         wolfville                         university professor   8291  3rd
+7                     sackville-eastern shore         peter stoffer      m  windsor junction                              parliamentarian  24279  1st
+8                  south shore-st margaret 's        gordon s earle      m   upper tantallon                       retired public servant  13456  2nd
+9                             sydney-victoria           wayne mckay      m            sydney                                      teacher   8559  2nd
+10                                  west nova         george barron      m        bear river                                    paramedic   7097  3rd

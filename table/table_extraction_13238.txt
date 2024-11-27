@@ -1,0 +1,21 @@
+    round  pick  overall               name position              college
+0       1    10       10  forest evashevski       rb             michigan
+1       3    10       25         fred davis       ot              alabama
+2       5    10       40         jim stuart       ot               oregon
+3       6    10       50          ed cifers        e            tennessee
+4       7    10       60         al krueger        e  southern california
+5       8    10       70       henry wilder       rb           iowa state
+6       9    10       80      bill grimmett        e                tulsa
+7      10    10       90       ed hickerson        g              alabama
+8      11    10      100        joe aguirre        e     st mary 's (cal)
+9      12    10      110         jack banta       hb  southern california
+10     13    10      120           roy conn       ot              arizona
+11     14    10      130     deward tornell       rb       san josé state
+12     15    10      140  morris buckingham        c       san josé state
+13     16    10      150            ken dow       fb         oregon state
+14     17    10      160         stan mcrae        e       michigan state
+15     18    10      170       joe osmanski       fb           holy cross
+16     19    10      180     earl fullilove       ot           georgetown
+17     20    10      190        ed hiestand        e           vanderbilt
+18     21     5      195          tom riggs       ot             illinois
+19     22     5      200         lee gentry       hb                tulsa

@@ -1,0 +1,15 @@
+    week                 date             opponent     result  attendance
+0      1  september 15 , 1963  washington redskins  w 37 - 14       57618
+1      2  september 22 , 1963       dallas cowboys  w 41 - 24       28710
+2      3  september 29 , 1963     los angeles rams   w 20 - 6       54713
+3      4     october 5 , 1963  pittsburgh steelers  w 35 - 23       84684
+4      5    october 13 , 1963      new york giants  w 35 - 24       62956
+5      6    october 20 , 1963  philadelphia eagles   w 37 - 7       75174
+6      7    october 27 , 1963      new york giants   l 33 - 6       84213
+7      8    november 3 , 1963  philadelphia eagles  w 23 - 17       60671
+8      9   november 10 , 1963  pittsburgh steelers    l 9 - 7       54497
+9     10   november 17 , 1963   st louis cardinals  l 20 - 14       75932
+10    11   november 24 , 1963       dallas cowboys  w 27 - 17       55096
+11    12    december 1 , 1963   st louis cardinals  w 24 - 10       32531
+12    13    december 8 , 1963        detroit lions  l 38 - 10       51382
+13    14   december 15 , 1963  washington redskins  w 27 - 20       40865

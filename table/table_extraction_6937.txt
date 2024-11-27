@@ -1,0 +1,11 @@
+           goalkeeper  goals  matches  average               team
+0      carlos sánchez     27       33     0.82       cd castellón
+1              jacobo     29       32     0.91        cd numancia
+2        asier riesgo     39       42     0.93      real sociedad
+3             roberto     39       41     0.95  sporting de gijón
+4        iñaki goitia     41       40     1.02          málaga cf
+5     pedro contreras     37       36     1.03           cádiz cf
+6  wilfredo caballero     41       38     1.08           elche cf
+7            bernardo     42       38     1.11   deportivo alavés
+8        javier varas     46       41     1.12   sevilla atlético
+9          juan pablo     33       29     1.14        cd tenerife

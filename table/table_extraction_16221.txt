@@ -1,0 +1,31 @@
+                       title series         director                            characters    release date reissue
+0          who 's kitten who     lt  robert mckimson    hippety , sylvester , sylvester jr  1952 - 01 - 05     yes
+1         operation : rabbit     lt  charles m jones                   bugs bunny , wile e  1952 - 01 - 19      no
+2             feed the kitty     mm  charles m jones                    marc and pussyfoot  1952 - 02 - 02     yes
+3               gift wrapped     lt        i freleng  sylvester , tweety , granny , hector  1952 - 02 - 16     yes
+4              foxy by proxy     mm        i freleng                            bugs bunny  1952 - 02 - 23      no
+5                  thumb fun     lt  robert mckimson                daffy duck , porky pig  1952 - 03 - 01     yes
+6           14 carrot rabbit     lt        i freleng             bugs bunny , yosemite sam  1952 - 03 - 15     yes
+7           little beau pepe     mm  charles m jones                       pepã , penelope  1952 - 03 - 29     yes
+8         kiddin' the kitten     mm  robert mckimson                             dodsworth  1952 - 04 - 05     yes
+9   water , water every hare     lt  charles m jones                 bugs bunny , gossamer  1952 - 04 - 19      no
+10    little red rodent hood     mm        i freleng                    sylvester , hector  1952 - 05 - 03      no
+11    sock - a - doodle - do     lt  robert mckimson                               foghorn  1952 - 05 - 10     yes
+12               beep , beep     mm  charles m jones                wile e and road runner  1952 - 05 - 24     yes
+13            the hasty hare     lt  charles m jones       bugs bunny , marvin the martian  1952 - 06 - 07      no
+14           ain't she tweet     lt        i freleng  sylvester , tweety , granny , hector  1952 - 06 - 21     yes
+15      the turn - tale wolf     mm  robert mckimson                          big bad wolf  1952 - 06 - 28      no
+16             cracked quack     mm        i freleng                daffy duck , porky pig  1952 - 07 - 05     yes
+17                 oily hare     mm  robert mckimson                            bugs bunny  1952 - 07 - 26      no
+18            hoppy go lucky     lt  robert mckimson                   hippety , sylvester  1952 - 08 - 09      no
+19       going! going! gosh!     mm  charles m jones                wile e and road runner  1952 - 08 - 23      no
+20   a bird in a guilty cage     lt        i freleng                    sylvester , tweety  1952 - 08 - 30     yes
+21             mouse warming     lt  charles m jones                       claude , hector  1952 - 09 - 08      no
+22          rabbit seasoning     mm  charles m jones  bugs bunny , daffy duck , elmer fudd  1952 - 09 - 20      no
+23   the egg - cited rooster     mm  robert mckimson                 foghorn , henery hawk  1952 - 10 - 04      no
+24              tree for two     mm        i freleng           spike & chester , sylvester  1952 - 10 - 18      no
+25         the super snooper     lt  robert mckimson                            daffy duck  1952 - 11 - 01      no
+26             rabbit 's kin     mm  robert mckimson                bugs bunny , pete puma  1952 - 11 - 15      no
+27          terrier stricken     mm  charles m jones                       claude , frisky  1952 - 11 - 29      no
+28             fool coverage     lt  robert mckimson                daffy duck , porky pig  1952 - 12 - 13     yes
+29                 hare lift     lt        i freleng             bugs bunny , yosemite sam  1952 - 12 - 20      no

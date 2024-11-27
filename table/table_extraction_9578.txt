@@ -1,0 +1,20 @@
+              name pennant number  ordered                     builder      commissioned
+0       redoutable           q136     1924        arsenal de cherbourg  24 february 1928
+1          vengeur           q137     1924        arsenal de cherbourg  1 september 1928
+2        archimède           q142     1925                  cnf , caen  6 september 1930
+3          fresnel           q143     1925     ac st nazaire - penhoet       8 june 1929
+4   henri poincaré           q140     1925          arsenal de lorient     10 april 1929
+5            monge           q144     1925  fc mediterranee , la seyne      25 june 1929
+6           pascal           q138     1925            arsenal de brest      19 july 1928
+7          pasteur           q139     1925            arsenal de brest      19 july 1928
+8         poncelet           q141     1925          arsenal de lorient     10 april 1929
+9          achille           q147     1926            arsenal de brest       28 may 1930
+10            ajax           q148     1926            arsenal de brest       28 may 1930
+11          actéon           q149     1926           ac loire , nantes     10 april 1929
+12         achéron           q150     1926           ac loire , nantes     6 august 1929
+13            argo           q151     1926        ac dubigeon , nantes     11 april 1929
+14          protée           q155     1927             fc med la seyne      31 july 1930
+15          pégase           q156     1927           ac loire , nantes      28 july 1930
+16          persée           q154     1927                         cnf       23 may 1931
+17          phénix           q157     1927                 ac dubigeon     12 april 1930
+18       prométhée           q153     1927        arsenal de cherbourg              1930

@@ -1,0 +1,11 @@
+   nat        name          moving to                  type transfer window                 transfer fee        source
+0  bra    edmílson         villarreal  contract termination          summer                         free  barcelonacat
+1  ita   zambrotta              milan              transfer          summer       9 m + 2 m in variables  barcelonacat
+2  mex  dos santos  tottenham hotspur              transfer          summer       6 m + 5 m in variables  barcelonacat
+3  fra      thuram            retired  contract termination          summer                         free  barcelonacat
+4  esp    ezquerro            osasuna  contract termination          summer                         free  barcelonacat
+5  por        deco            chelsea              transfer          summer                         10 m  barcelonacat
+6  bra  ronaldinho              milan              transfer          summer      21 m + 4 m in variables  barcelonacat
+7  bra    henrique   bayer leverkusen                  loan          summer                        n / a  barcelonacat
+8  esp     oleguer               ajax              transfer          summer  3 m + 2 , 25 m in variables  barcelonacat
+9  esp      crosas             celtic              transfer          summer   0.5 m + 0.8 m in variables  barcelonacat

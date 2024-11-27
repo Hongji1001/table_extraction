@@ -1,0 +1,10 @@
+                 class         type                                            names quantity made          manufacturer    date made
+0              pioneer   0 - 6 - 2t                                    pioneer sligo             2    avonside engine co         1877
+1              leitrim   0 - 6 - 4t  fermanagh leitrim lurganboy lissadell hazlewood             5  beyer , peacock & co  1882 - 1899
+2                 erne   4 - 4 - 0t                                             erne             1       hudswell clarke         1883
+3  faugh - a - ballagh  0 - 4 - 0st                              faugh - a - ballagh             1     hunslet engine co         1878
+4            waterford   0 - 6 - 0t                                        waterford             1     hunslet engine co         1893
+5            sir henry   0 - 6 - 4t                 sir henry enniskillen lough gill             3  beyer , peacock & co  1904 - 1917
+6              glencar    4 - 4 - 0                                blacklion glencar           (2)  beyer , peacock & co    1885 - 87
+7                sligo    0 - 6 - 0                            glencar a sligo sligo           (3)  beyer , peacock & co  1882 - 1890
+8                lough   0 - 6 - 4t                          lough melvin lough erne             2  beyer , peacock & co         1949

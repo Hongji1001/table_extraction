@@ -1,0 +1,18 @@
+    inegi code         municipality         municipal seat  area (km 2 )  population (2005)  population density ( / km 2 )  human development index (2000)
+0            1    amealco de bonfil                amealco        682.10              56457                           82.8                          0.6803
+1            2      pinal de amoles        pinal de amoles        705.37              25325                           35.9                          0.6659
+2            3          arroyo seco            arroyo seco        731.17              12493                           17.1                          0.7029
+3            4  cadereyta de montes              cadereyta       1131.00              57204                           50.6                          0.7074
+4            5                colón                  colón        807.15              51625                           64.0                          0.7036
+5            6          corregidora            el pueblito        245.80             104218                          424.0                          0.8535
+6            7      ezequiel montes        ezequiel montes        298.28              34729                          116.4                          0.7534
+7            8            huimilpan              huimilpan        388.40              32728                           84.3                          0.6824
+8            9      jalpan de serra                 jalpan       1185.10              22025                           18.6                          0.7178
+9           10   landa de matamoros     landa de matamoros        840.10              18905                           22.5                          0.6606
+10          11           el marqués              la cañada        787.40              79743                          101.3                          0.7295
+11          12       pedro escobedo         pedro escobedo        290.90              17007                           58.5                          0.7598
+12          13           peñamiller             peñamiller        694.90              56553                           81.4                          0.7023
+13          14            querétaro  santiago de querétaro        759.90             734139                          966.1                          0.8560
+14          15          san joaquín            san joaquín        499.00               7634                           15.3                          0.6593
+15          16     san juan del río       san juan del río        799.90             208462                          260.6                          0.8035
+16          17        tequisquiapan          tequisquiapan        343.60              54929                          159.9                          0.7827

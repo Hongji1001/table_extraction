@@ -1,0 +1,9 @@
+   pick                team           player        position                 college
+0    81      denver broncos       tom vaughn  defensive back              iowa state
+1    82      houston oilers  kent mccloughan      cornerback                nebraska
+2    83     oakland raiders       bill minor      linebacker                illinois
+3    84       new york jets         jim gray  defensive back                  toledo
+4    85  kansas city chiefs       al piraino          tackle               wisconsin
+5    86  san diego chargers      veran smith           guard              utah state
+6    87     boston patriots   john frechette          tackle          boston college
+7    88       buffalo bills     doug goodwin    running back  maryland eastern shore

@@ -1,0 +1,9 @@
+               name  starting chip count  wsop bracelets  wsop cashes  wsop earnings final place    prize
+0      jesse sylvia             43875000               0            2          36372         2nd  5295149
+1   andras koroknai             29375000               0            2          39371         6th  1640461
+2       greg merson             28725000               1            5        1253501         1st  8531853
+3    russell thomas             24800000               0            3         126796         4th  2850494
+4        steven gee             16860000               1            4         480822         9th   754798
+5  michael esposito             16260000               0            3          27311         7th  1257790
+6   robert salaburu             15155000               0            0              0         8th   971252
+7    jacob balsiger             13115000               0            1           3531         3rd  3797558

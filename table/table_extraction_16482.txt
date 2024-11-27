@@ -1,0 +1,9 @@
+              peak                                    country  elevation (m)  prominence (m)  col (m)
+0    mount stanley  democratic republic of the congo / uganda           5109            3951     1158
+1  mount karisimbi  rwanda / democratic republic of the congo           4507            3312     1195
+2          kinyeti                                south sudan           3187            2120     1067
+3        emogadong                                south sudan           2623            1730      893
+4           kabobo           democratic republic of the congo           2725            1604     1121
+5        mont mohi           democratic republic of the congo           3480            1592     1888
+6           wuhevi           democratic republic of the congo           3095            1570     1525
+7   mount muhabura                            rwanda / uganda           4127            1530     2597

@@ -1,0 +1,22 @@
+    year division            league          regular season                  playoffs         open cup
+0   1991    n / a              sisl         4th , southeast           did not qualify    did not enter
+1   1992    n / a             usisl         5th , southeast           did not qualify    did not enter
+2   1993    n / a             usisl         6th , southeast           did not qualify    did not enter
+3   1994        3             usisl          5th , midsouth     divisional semifinals    did not enter
+4   1995        4     usisl premier           3rd , eastern     divisional semifinals  did not qualify
+5   1996        4     usisl premier  4th , eastern northern           division finals  did not qualify
+6   1997        2  usisl a - league           2nd , central       division semifinals  did not qualify
+7   1998        2  usisl a - league           1st , central  conference quarterfinals   quarter finals
+8   1999        2    usl a - league           6th , central           did not qualify  did not qualify
+9   2000        2    usl a - league           5th , central           did not qualify        2nd round
+10  2001        2    usl a - league           4th , central                 1st round        2nd round
+11  2002        4           usl pdl         4th , mid south                 1st round  did not qualify
+12  2003        4           usl pdl         3rd , mid south           did not qualify  did not qualify
+13  2004        4           usl pdl         4th , mid south     conference semifinals  did not qualify
+14  2005        4           usl pdl         5th , mid south           did not qualify  did not qualify
+15  2006        4           usl pdl    5th , south atlantic           did not qualify  did not qualify
+16  2007        4           usl pdl         7th , southeast           did not qualify  did not qualify
+17  2008        4           usl pdl         7th , southeast           did not qualify  did not qualify
+18  2009        4           usl pdl         7th , southeast           did not qualify  did not qualify
+19  2010        4           usl pdl         7th , southeast           did not qualify  did not qualify
+20  2011        4           usl pdl         5th , southeast           did not qualify  did not qualify

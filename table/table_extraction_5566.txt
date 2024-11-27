@@ -1,0 +1,11 @@
+   rank                     name      location           country                         designer , year
+0     1              pine valley   pine valley     united states        george crump / harry colt , 1918
+1     2            cypress point  pebble beach     united states                alister mackenzie , 1918
+2     3  st andrews (old course)    st andrews          scotland                                  nature
+3     4         augusta national       augusta     united states  alister mackenzie / bobby jones , 1933
+4     5             pebble beach  pebble beach     united states     jack neville / douglas grant , 1919
+5     6         shinnecock hills   southampton     united states                    william flynn , 1931
+6     7        royal county down     newcastle  northern ireland                       tom morris , 1889
+7     8                muirfield       gullane          scotland   tom morris / harry colt , 1891 / 1925
+8     9                  oakmont       oakmont     united states                     henry fownes , 1903
+9    10            merion (east)       ardmore     united states                      hugh wilson , 1912

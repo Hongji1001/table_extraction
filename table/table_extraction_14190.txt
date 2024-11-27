@@ -1,0 +1,22 @@
+    rank              name               period  games  goals
+0      1     uri malmilian            1973 - 89    423    140
+1      2      hanan azulay            1974 - 89    369   0 41
+2      3       itzhak jano            1968 - 83    375  0 0 9
+3      4     yossi mizrahi            1972 - 88    371  0 0 0
+4      5    itzik kornfein            1995 - 07    366  0 0 0
+5      6         eli ohana  1980 - 87 1991 - 99    345    142
+6      6      yossi hakham            1965 - 80    345  0 0 1
+7      8     shaul mizrahi            1953 - 70    304   0 40
+8      9     eitan mizrahi            1989 - 03    299   0 12
+9     10        sami malka            1980 - 92    288   0 47
+10    11     udi rubowitch            1963 - 74    281   0 81
+11    12       meir kadosh            1984 - 95    279  0 0 0
+12    12  ya'akov schwartz            1983 - 94    279   0 35
+13    14      danny noyman  1971 - 80 1982 - 84    264   0 34
+14    15   shlomi avrahami            1960 - 73    260   0 20
+15    16     david amsalem  1995 - 98 2000 - 09    252   0 11
+16    17    serhiy tritjak          1992 - 2000    239  0 0 3
+17    18  aviram baruchyan            2002 - 12    237   0 36
+18    19      itzhak monsa            1958 - 68    235   0 51
+19    20       hai mizrahi            1954 - 65    229  0 0 1
+20    20    yossi avrahami            1974 - 84    229   0 18

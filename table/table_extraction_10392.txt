@@ -1,0 +1,31 @@
+    round  pick              player       position school / club team
+0       1     8        dick wildung         tackle          minnesota
+1       3    23            irv comp           back        benedictine
+2       5    38           roy mckay           back              texas
+3       6    48        nick susoeff            end   washington state
+4       7    58        ken snelling       fullback               ucla
+5       8    68     lester gatewood         center             baylor
+6       9    78          norm verry         tackle                usc
+7      10    88       solon barnett          guard             baylor
+8      11    98           bob forte           back           arkansas
+9      12   108           van davis            end            georgia
+10     13   118           tom brock         center         notre dame
+11     14   128          ralph tate           back     oklahoma state
+12     15   138         don carlson         tackle             denver
+13     16   148          mike welch           back          minnesota
+14     17   158          ron thomas          guard                usc
+15     18   168          jim powers         tackle    st mary 's (ca)
+16     19   178        hal prescott  wide receiver   hardin - simmons
+17     20   188       eddie forrest         center        santa clara
+18     21   198    lloyd wasserbach         tackle          wisconsin
+19     22   208        mark hoskins           back          wisconsin
+20     23   218        earl bennett          guard   hardin - simmons
+21     24   228      george zellick            end       oregon state
+22     25   238       gene bierhaus            end          minnesota
+23     26   248       george makris          guard          wisconsin
+24     27   258         pete susick           back         washington
+25     28   268           bud hasse            end       northwestern
+26     29   278      dick thornally         tackle          wisconsin
+27     30   288             bob ray           back          wisconsin
+28     31   293  brunel christensen         tackle         california
+29     32   298          ken roskie       fullback     south carolina

@@ -1,0 +1,10 @@
+                        play                         author                           company         base  country
+0                   antigone                after sophocles                      state ballet  mecklenburg  germany
+1  la passione delle troiane                after euripides          cantieri teatrali koreja        lecce    italy
+2       the libation bearers                      aeschylus                thessalian theatre  mecklenburg   greece
+3                      medea                      euripides  teatrul national 'marin sorescu'      craiova  romania
+4                    thebaid  after sophocles and euripides                   anerada theatre      nicosia   cyprus
+5                 the clouds                   aristophanes       cyprus theatre organisation      nicosia   cyprus
+6                    electra                      euripides                dance theatre roes       athens   greece
+7                   alcestis                      euripides        national theatre of greece       athens   greece
+8         iphigenia in aulis                      euripides                 herzliya ensamble     herzliya   israel

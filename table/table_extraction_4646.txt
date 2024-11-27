@@ -1,0 +1,17 @@
+    rank            player           country  weeks  order  majors
+0      1       tiger woods     united states    656      9      14
+1      2       greg norman         australia    331      3       2
+2      3        nick faldo           england     97      4       6
+3      4  seve ballesteros             spain     61      2       5
+4      5       luke donald           england     56     15       0
+5      6       ian woosnam             wales     50      5       1
+6      7        nick price          zimbabwe     44      7       3
+7      8      rory mcilroy  northern ireland     39     16       2
+8      9       vijay singh              fiji     32     12       3
+9     10      lee westwood           england     22     13       0
+10    11      fred couples     united states     16      6       1
+11    12       david duval     united states     15     11       1
+12    13         ernie els      south africa      9     10       4
+13    14     martin kaymer           germany      8     14       1
+14    15   bernhard langer      west germany      3      1       2
+15    16        tom lehman     united states      1      8       1

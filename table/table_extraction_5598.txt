@@ -1,0 +1,7 @@
+   year                                      category         character                             for the show     result
+0  2003     best actor in a lead role - female (jury)       prerna basu                    kasautii zindagii kay        won
+1  2004  best actor in a lead role - female (popular)       prerna basu                    kasautii zindagii kay  nominated
+2  2005  best actor in a lead role - female (popular)       prerna basu                    kasautii zindagii kay  nominated
+3  2006  best actor in a lead role - female (popular)       prerna basu                    kasautii zindagii kay  nominated
+4  2007  best actor in a lead role - female (popular)       prerna basu                    kasautii zindagii kay  nominated
+5  2012  best actor in a lead role - female (popular)  sweety ahluwalia  parvarrish - kuchh khattee kuchh meethi  nominated

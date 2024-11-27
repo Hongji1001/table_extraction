@@ -1,0 +1,7 @@
+   year                 chassis             engine tyres  points
+0  1995              forti fg01         ford ed v8     g       0
+1  1995              forti fg01         ford ed v8     g       0
+2  1995              forti fg01         ford ed v8     g       0
+3  1996  forti fg01b forti fg03  ford zetec - r v8     g       0
+4  1996  forti fg01b forti fg03  ford zetec - r v8     g       0
+5  1996  forti fg01b forti fg03  ford zetec - r v8     g       0

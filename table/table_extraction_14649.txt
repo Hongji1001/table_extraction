@@ -1,0 +1,23 @@
+    year manufacturer  start  finish           team
+0   1960    chevrolet     33      28        pearson
+1   1961      pontiac     30      21    tony lavati
+2   1962      pontiac      2       6            fox
+3   1963        dodge     50      48          owens
+4   1964        dodge      7      30          owens
+5   1966        dodge     12       3          owens
+6   1967        dodge     15      24          owens
+7   1968         ford      4       5   holman moody
+8   1969         ford      3       6   holman moody
+9   1970      mercury     31       2   holman moody
+10  1971      mercury      4       4   holman moody
+11  1973      mercury     20      33           wood
+12  1974      mercury      1      35           wood
+13  1975      mercury      2       4           wood
+14  1976      mercury      7       1           wood
+15  1977      mercury      5      21           wood
+16  1978      mercury      5      34           wood
+17  1979      mercury      9      37           wood
+18  1981    chevrolet      9      29   joel halpern
+19  1983    chevrolet     15       8  bobby hawkins
+20  1984    chevrolet     11       9  bobby hawkins
+21  1985    chevrolet      4      28      ellington

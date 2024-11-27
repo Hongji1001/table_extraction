@@ -1,0 +1,18 @@
+                 name           dates active           windspeeds            pressure             deaths
+0                 01f         december 1 - 2              unknown          hpa (inhg)               none
+1                 02f         december 3 - 7              unknown          hpa (inhg)               none
+2                 03f       december 10 - 11              unknown          hpa (inhg)               none
+3                 04f         january 4 - 14              unknown          hpa (inhg)               none
+4                 05f        january 11 - 14              unknown          hpa (inhg)               none
+5                 06f        january 19 - 23              unknown          hpa (inhg)               none
+6                 07f        january 23 - 25              unknown          hpa (inhg)               none
+7              hettie        january 24 - 31                 n /a          hpa (inhg)               none
+8                 09f         february 1 - 5   55 km / h (35 mph)          hpa (inhg)            unknown
+9               innis       february 13 - 18   75 km / h (45 mph)          hpa (inhg)                  1
+10               joni          march 10 - 14   95 km / h (60 mph)          hpa (inhg)            unknown
+11                ken          march 16 - 19   95 km / h (60 mph)          hpa (inhg)               none
+12             jasper          march 24 - 30  100 km / h (60 mph)          hpa (inhg)               none
+13                lin     march 31 - april 7  110 km / h (70 mph)          hpa (inhg)               none
+14                15f           april 7 - 10   35 km / h (25 mph)          hpa (inhg)               none
+15  season aggregates      season aggregates    season aggregates   season aggregates  season aggregates
+16          15systems  december 1 - april 10  110 km / h (70 mph)  975hpa (28.81inhg)               none

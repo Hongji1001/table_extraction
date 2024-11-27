@@ -1,0 +1,11 @@
+              team          stadium  capacity  highest  lowest  average
+0      ross county    victoria park      6700     3716    1511     2247
+1     raith rovers    stark 's park     10104     2357    1349     1759
+2       ayr united    somerset park     11998     1345     971     1137
+3   airdrie united   new broomfield     10171     1645     611      981
+4    queen 's park     hampden park     52500     1211     431      712
+5        peterhead          balmoor      4000      926     462      694
+6   alloa athletic  recreation park      3100     1053     441      602
+7      cowdenbeath     central park      4370     1953     244      519
+8     brechin city       glebe park      3960      669     345      489
+9  berwick rangers  shielfield park      4131      778     259      479

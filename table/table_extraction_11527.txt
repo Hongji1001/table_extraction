@@ -1,0 +1,6 @@
+  call sign frequency mhz city of license  erp w fcc info
+0    k206bp       89.1 fm    weslaco , tx    197      fcc
+1    k216fo       91.1 fm  guadalupe , az     11      fcc
+2   k248 am       97.5 fm    mcallen , tx    250      fcc
+3    w207bf       89.3 fm     goshen , in     22      fcc
+4    w208bf       89.5 fm    elkhart , in      9      fcc

@@ -1,0 +1,8 @@
+   stage       stage winner general classification points classification mountains classification malaysian rider classification               team classification
+0      1            li fuyu                li fuyu           anuar manan           hossein askari                     amir rusli  team stegcomputer - ckt - cogeas
+1      2        anuar manan                li fuyu           anuar manan           hossein askari                     amir rusli  team stegcomputer - ckt - cogeas
+2      3        anuar manan                li fuyu           anuar manan           hossein askari                     amir rusli  team stegcomputer - ckt - cogeas
+3      4  fredrik johansson         tonton susanto           anuar manan           hossein askari                 suhardi hassan                             japan
+4      5        anuar manan         tonton susanto           anuar manan           hossein askari                 suhardi hassan                             japan
+5      6     hossein askari         tonton susanto           anuar manan           hossein askari                 suhardi hassan         tabriz petrochemical team
+6      7    yusuke hatanaka         tonton susanto           anuar manan           hossein askari                 suhardi hassan         tabriz petrochemical team

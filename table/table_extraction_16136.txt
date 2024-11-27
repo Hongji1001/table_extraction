@@ -1,0 +1,21 @@
+                             author / editor / source year of publication  countries sampled world ranking (1)  ranking in latin america (2)
+0                            new economics foundation                2012                151                 1                             1
+1                                     yale university                2010                163                 3                             1
+2                               united nations (undp)           2007 - 08                108                 5                             4
+3                               united nations (undp)           2007 - 08                 71                 8                             3
+4                         economist intelligence unit                2010                167                24                             2
+5                         economist intelligence unit                2010                149                26                             2
+6                           reporters without borders                2010                178                29                             1
+7                                   legatum institute                2010                110                33                             3
+8                         economist intelligence unit                2007                111                35                             3
+9                                            newsweek                2010                100                35                             2
+10                        economist intelligence unit                2009                 82                40                             4
+11                         transparency international                2010                178                41                             3
+12                               world economic forum                2011                139                44                             2
+13                               world economic forum                2011                138                46                             3
+14  the heritage foundation / the wall street journal                2010                179                49                             7
+15                               world economic forum                2011                142                61                             5
+16                              united nations (undp)                2011                187                69                             7
+17                              united nations (undp)         2007 - 2008                126               100                             5
+18                                         world bank                2008                 19         n / a (6)                             3
+19                  inter - american development bank                2008                 24         n / a (7)                             1

@@ -1,0 +1,8 @@
+            player    nationality         position years in orlando school / club team
+0     jason lawson  united states           center      1997 - 1998          villanova
+1     courtney lee  united states  guard - forward      2008 - 2009   western kentucky
+2    rashard lewis  united states          forward      2007 - 2010     alief elsik hs
+3      todd lichti  united states  guard - forward      1993 - 1994           stanford
+4  deandre liggins  united states            guard      2011 - 2012           kentucky
+5       tyronn lue  united states            guard      2003 - 2004           nebraska
+6       tyronn lue  united states            guard             2009           nebraska

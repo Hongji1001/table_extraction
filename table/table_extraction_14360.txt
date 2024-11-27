@@ -1,0 +1,13 @@
+           sign domicile detriment exaltation     fall
+0         aries     mars     venus        sun   saturn
+1        taurus    venus      mars       moon     none
+2        gemini  mercury   jupiter       none     none
+3        cancer     moon    saturn    jupiter     mars
+4           leo      sun    saturn       none     none
+5         virgo  mercury   jupiter    mercury    venus
+6         libra    venus      mars     saturn      sun
+7       scorpio     mars     venus       none     moon
+8   sagittarius  jupiter   mercury       none     none
+9     capricorn   saturn      moon       mars  jupiter
+10     aquarius   saturn       sun       none     none
+11       pisces  jupiter   mercury      venus  mercury

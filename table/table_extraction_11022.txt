@@ -1,0 +1,16 @@
+    round  pick            player          position     school / club team
+0       1     9   stanley richard    defensive back                  texas
+1       2    36   george thornton  defensive tackle                alabama
+2       2    39     eric bieniemy      running back               colorado
+3       2    47        eric moten             guard         michigan state
+4       4    90    yancey thigpen     wide receiver  winston - salem state
+5       5   123       duane young         tight end         michigan state
+6       5   127      floyd fields    defensive back          arizona state
+7       6   150     jimmy laister  offensive tackle            oregon tech
+8       7   177       david jones         tight end         delaware state
+9       7   192    terry beauford             guard            florida a&m
+10      9   230        andy katoa        linebacker        southern oregon
+11     10   254      ronald poles      running back              tennessee
+12     10   257        mike heldt            center              tennessee
+13     11   290  joachim weinberg     wide receiver      johnson c smith u
+14     12   317     chris samuels      running back                  texas

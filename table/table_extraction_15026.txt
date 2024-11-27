@@ -1,0 +1,9 @@
+          player        country                    year (s) won  total to par
+0   larry nelson  united states                     1981 , 1987    146    + 6
+1  john mahaffey  united states                            1978    146    + 6
+2      john daly  united states                            1991    146    + 6
+3   paul azinger  united states                            1993    149    + 9
+4       bob tway  united states                            1986    149    + 9
+5   david graham      australia                            1979    149    + 9
+6  jack nicklaus  united states  1963 , 1971 , 1973 1975 , 1980    150   + 10
+7   hubert green  united states                            1985    150   + 10

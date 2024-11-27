@@ -1,0 +1,12 @@
+            region           date label            format        catalog
+0            world  july 8 , 2008   dgc  digital download            NaN
+1        argentina  july 8 , 2008   dgc                cd        1775441
+2        australia  july 8 , 2008   dgc                cd        1775441
+3           canada  july 8 , 2008   dgc                cd     b001150702
+4    united states  july 8 , 2008   dgc                cd  b0011507 - 02
+5    united states  july 8 , 2008   dgc                lp  b0011630 - 01
+6   united kingdom  july 8 , 2008   dgc                cd     b001150702
+7   united kingdom  july 8 , 2008    xl                cd        xlcd369
+8   united kingdom  july 8 , 2008    xl                lp       xllp 369
+9           europe  july 8 , 2008    xl                lp       xllp 369
+10          europe  july 8 , 2008    xl                cd        xlcd369

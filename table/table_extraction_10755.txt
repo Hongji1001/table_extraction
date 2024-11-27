@@ -1,0 +1,6 @@
+   rank   time                    athlete   nation              date                  location
+0     1  10.70        shelly - ann fraser  jamaica      29 june 2012        kingston , jamaica
+1     2  10.74              merlene ottey  jamaica  7 september 1996             milan , italy
+2     3  10.75             kerron stewart  jamaica      10 july 2009              rome , italy
+3     4  10.76  veronica campbell - brown  jamaica       31 may 2011  ostrava , czech republic
+4     5  10.82            sherone simpson  jamaica       24 may 2006        kingston , jamaica

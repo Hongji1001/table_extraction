@@ -1,0 +1,18 @@
+   callsign  area served frequency band         on - air id     purpose
+0      1art     canberra    0 92.7   fm            artsound   community
+1      1cbr     canberra     106.3   fm           mix 106.3  commercial
+2     1 cms     canberra    0 91.1   fm                 cms   community
+3      1rph     canberra      1125   am                1rph   community
+4      1sbs     canberra      1440   am           sbs radio    national
+5      1vfm  tuggeranong    0 89.5   fm           valley fm   community
+6      1way     canberra    0 91.9   fm             1way fm   community
+7      1xxr     canberra    0 98.3   fm                 2xx   community
+8    2abcfm     canberra     102.3   fm      abc classic fm    national
+9       2ca     canberra      1053   am                 2ca  commercial
+10      2cc     canberra      1206   am                 2cc  commercial
+11      2cn     canberra     0 666   am        abc canberra    national
+12     2jjj     canberra     101.5   fm            triple j    national
+13     2pnn     canberra     103.9   fm       abc newsradio    national
+14      2rn     canberra     0 846   am  abc radio national    national
+15     2roc     canberra     104.7   fm               104.7  commercial
+16   2sbsfm     canberra     105.5   fm           sbs radio    national

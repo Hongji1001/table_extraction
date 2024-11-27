@@ -1,0 +1,9 @@
+                  player             position                       school           hometown                                       mlb draft
+0           kaleb cowart  pitcher / infielder      cook county high school          adel , ga  1st round - 18th pick of 2010 draft ( angels )
+1          ethan bennett              catcher         farragut high school     knoxville , tn                              attended tennessee
+2            kris bryant            infielder          bonanza high school     las vegas , nv                              attended san diego
+3            dylan covey              pitcher        maranatha high school      pasadena , ca                              attended san diego
+4             kevin cron              catcher  mountain pointe high school       phoenix , az                          cron was only a junior
+5  delino deshields , jr           outfielder             woodward academy  college park , ga   1st round - 8th pick of 2010 draft ( astros )
+6          manny machado            infielder            brito high school         miami , fl  1st round - 3rd pick of 2010 draft ( orioles )
+7              josh sale           outfielder  bishop blanchet high school       seattle , wa    1st round - 17th pick of 2010 draft ( rays )

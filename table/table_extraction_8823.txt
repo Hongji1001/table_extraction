@@ -1,0 +1,13 @@
+                 player  height position  year born              current club
+0        miguel minhava  1 , 97    guard       1983           cb l'hospitalet
+1   mário gil fernandes  1 , 74    guard       1982              cb plasencia
+2          sérgio ramos  2 , 00  forward       1975                 drac inca
+3           paulo cunha  1 , 99  forward       1980                  fc porto
+4      francisco jordão  2 , 00   center       1979               1 de agosto
+5       filipe da silva  1 , 93    guard       1979   cb villa de los barrios
+6    joão betinho gomes  1 , 99  forward       1985            fc barreirense
+7          jorge coelho  2 , 00   center       1978               cb palencia
+8           paulo simão  1 , 98  forward       1976             cf belenenses
+9           elvis évora  2 , 05   center       1978        ovarense aerosoles
+10       miguel miranda  2 , 05   center       1978        ovarense aerosoles
+11          joão santos  2 , 03  forward       1979  grupo capitol valladolid

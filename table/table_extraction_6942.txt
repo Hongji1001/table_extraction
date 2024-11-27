@@ -1,0 +1,11 @@
+              goalkeeper  goals  matches  average                  team
+0          iker casillas     32       36     0.89           real madrid
+1          víctor valdés     35       35     1.00          fc barcelona
+2                   toño     31       30     1.03   racing de santander
+3   ricardo lópez felipe     38       36     1.06            ca osasuna
+4      miguel ángel moyà     34       29     1.17          rcd mallorca
+5  roberto abbondanzieri     42       34     1.24             getafe cf
+6          carlos kameni     38       29     1.31          rcd espanyol
+7           andrés palop     41       30     1.37            sevilla fc
+8     stefano sorrentino     60       38     1.58  recreativo de huelva
+9          césar sánchez     56       35     1.60              zaragoza

@@ -1,0 +1,26 @@
+                  driver                     team  laps time / retired  grid
+0       adrián fernández           patrick racing    59    2:01:14.605    17
+1            kenny bräck               team rahal    59     + 0.3 secs    12
+2           jimmy vasser      chip ganassi racing    59     + 4.0 secs     5
+3     cristiano da matta          ppi motorsports    59     + 4.8 secs    10
+4     patrick carpentier          forsythe racing    59     + 5.2 secs    11
+5      hélio castroneves              team penske    59    + 10.3 secs     8
+6   michel jourdain , jr      bettenhausen racing    59    + 11.0 secs    16
+7            tony kanaan           mo nunn racing    59    + 15.8 secs     7
+8           oriol servià          ppi motorsports    59    + 18.2 secs    14
+9      maurício gugelmin           pacwest racing    59    + 18.6 secs    18
+10         mark blundell           pacwest racing    59    + 18.7 secs    22
+11      luiz garcia , jr           arciero racing    58        + 1 lap    25
+12         tarso marques        dale coyne racing    57       + 2 laps    23
+13           alex barron        dale coyne racing    54     mechanical    19
+14  christian fittipaldi     newman - haas racing    51     off course    15
+15             max papis               team rahal    48        contact    15
+16            paul tracy               team green    47        contact     4
+17          jason bright  della penna motorsports    44        contact    24
+18        roberto moreno           patrick racing    43        contact    20
+19      michael andretti     newman - haas racing    38     mechanical     6
+20         shinji nakano            walker racing    38     mechanical    21
+21         alex tagliani          forsythe racing    36     mechanical    13
+22         gil de ferran              team penske     1        contact     2
+23    juan pablo montoya      chip ganassi racing     0        contact     1
+24      dario franchitti               team green     0        contact     3

@@ -1,0 +1,30 @@
+                           entrant            constructor   chassis                                           engine tyre                   driver           rounds
+0              danka arrows yamaha        arrows - yamaha       a18                             yamaha ox11a 3.0 v10    b               damon hill              all
+1              danka arrows yamaha        arrows - yamaha       a18                             yamaha ox11a 3.0 v10    b              pedro diniz              all
+2        rothmans williams renault     williams - renault      fw19                              renault rs9 3.0 v10    g       jacques villeneuve              all
+3        rothmans williams renault     williams - renault      fw19                              renault rs9 3.0 v10    g  heinz - harald frentzen              all
+4        scuderia ferrari marlboro                ferrari     f310b                          ferrari 046 / 2 3.0 v10    g       michael schumacher              all
+5        scuderia ferrari marlboro                ferrari     f310b                          ferrari 046 / 2 3.0 v10    g             eddie irvine              all
+6      mild seven benetton renault     benetton - renault      b197                              renault rs9 3.0 v10    g               jean alesi              all
+7      mild seven benetton renault     benetton - renault      b197                              renault rs9 3.0 v10    g           gerhard berger  1 - 6 , 10 - 17
+8      mild seven benetton renault     benetton - renault      b197                              renault rs9 3.0 v10    g           alexander wurz            7 - 9
+9            west mclaren mercedes     mclaren - mercedes  mp4 / 12  mercedes fo110e 3.0 v10 mercedes fo110f 3.0 v10    g            mika häkkinen              all
+10           west mclaren mercedes     mclaren - mercedes  mp4 / 12  mercedes fo110e 3.0 v10 mercedes fo110f 3.0 v10    g          david coulthard              all
+11  benson & hedges jordan peugeot       jordan - peugeot       197                              peugeot a14 3.0 v10    g          ralf schumacher              all
+12  benson & hedges jordan peugeot       jordan - peugeot       197                              peugeot a14 3.0 v10    g     giancarlo fisichella              all
+13         prost gauloises blondes  prost - mugen - honda      js45                 mugen - honda mf - 301hb 3.0 v10    b            olivier panis  1 - 7 , 15 - 17
+14         prost gauloises blondes  prost - mugen - honda      js45                 mugen - honda mf - 301hb 3.0 v10    b             jarno trulli           8 - 14
+15         prost gauloises blondes  prost - mugen - honda      js45                 mugen - honda mf - 301hb 3.0 v10    b            shinji nakano              all
+16        red bull sauber petronas      sauber - petronas       c16                        petronas spe - 01 3.0 v10    g           johnny herbert              all
+17        red bull sauber petronas      sauber - petronas       c16                        petronas spe - 01 3.0 v10    g            nicola larini            1 - 5
+18        red bull sauber petronas      sauber - petronas       c16                        petronas spe - 01 3.0 v10    g        gianni morbidelli  6 - 7 , 11 - 16
+19        red bull sauber petronas      sauber - petronas       c16                        petronas spe - 01 3.0 v10    g         norberto fontana      8 - 10 , 17
+20               piaa tyrrell ford         tyrrell - ford       025                  ford ed4 3.0 v8 ford ed5 3.0 v8    g           jos verstappen              all
+21               piaa tyrrell ford         tyrrell - ford       025                  ford ed4 3.0 v8 ford ed5 3.0 v8    g                mika salo              all
+22                    minardi team         minardi - hart      m197                              hart 830 av7 3.0 v8    b            ukyo katayama              all
+23                    minardi team         minardi - hart      m197                              hart 830 av7 3.0 v8    b             jarno trulli            1 - 7
+24                    minardi team         minardi - hart      m197                              hart 830 av7 3.0 v8    b            tarso marques           8 - 17
+25      hsbc malaysia stewart ford         stewart - ford      sf01                        ford vj zetec - r 3.0 v10    b       rubens barrichello              all
+26      hsbc malaysia stewart ford         stewart - ford      sf01                        ford vj zetec - r 3.0 v10    b            jan magnussen              all
+27         mastercard lola f1 team            lola - ford  t97 / 30                        ford eca zetec - r 3.0 v8    b         vincenzo sospiri                1
+28         mastercard lola f1 team            lola - ford  t97 / 30                        ford eca zetec - r 3.0 v8    b           ricardo rosset                1

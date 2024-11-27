@@ -1,0 +1,37 @@
+                         player                               nationality          position  from    school / country
+0                    ollie mack                             united states             guard  1979       east carolina
+1                   mark madsen                             united states           forward  2000            stanford
+2                   karl malone                             united states           forward  2003      louisiana tech
+3                   nick mantis                             united states             guard  1959        northwestern
+4                 slater martin                             united states             guard  1949               texas
+5   matthews , wes wes matthews                             united states             guard  1986           wisconsin
+6       didier ilunga dj mbenga  democratic republic of the congo belgium            center  2008  dr congo / belgium
+7                    bob mcadoo                             united states           forward  1981      north carolina
+8                   mel mccants                             united states           forward  1989              purdue
+9               willie mccarter                             united states             guard  1969               drake
+10               george mccloud                             united states   guard / forward  1997       florida state
+11                 jelani mccoy                             united states  forward / center  2001                ucla
+12                jim mcdaniels                             united states  forward / center  1975    western kentucky
+13                   mike mcgee                             united states   guard / forward  1981            michigan
+14                  bill mcgill                             united states  forward / center  1964                utah
+15                kevin mckenna                             united states   guard / forward  1981           creighton
+16    mckie , aaron aaron mckie                             united states             guard  2005              temple
+17                jim mcmillian                             united states           forward  1970            columbia
+18                mark mcnamara                             united states  forward / center  1988          california
+19                  bob mcneill                             united states             guard  1961     saint joseph 's
+20               josh mcroberts                             united states  forward / center  2011                duke
+21             slava medvedenko                                   ukraine           forward  2000             ukraine
+22                  jodie meeks                             united states             guard  2012            kentucky
+23                  cliff meely                             united states  forward / center  1975            colorado
+24                 chuck mencel                             united states             guard  1955           minnesota
+25      mihm , chris chris mihm                             united states            center  2004               texas
+26                 george mikan                             united states            center  1947              depaul
+27               vern mikkelsen                             united states           forward  1949             hamline
+28           anthony pig miller                             united states           forward  1994      michigan state
+29                    steve mix                             united states           forward  1982              toledo
+30                darius morris                             united states             guard  2011            michigan
+31                adam morrison                             united states           forward  2009             gonzaga
+32                erwin mueller                             united states  forward / center  1968       san francisco
+33                 allen murphy                             united states             guard  1976          louisville
+34                  troy murphy                             united states  forward / center  2011          notre dame
+35                 tracy murray                             united states           forward  2002                ucla

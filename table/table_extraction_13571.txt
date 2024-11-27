@@ -1,0 +1,11 @@
+  place          player        country  score to par
+0     1     gary player   south africa     67    - 4
+1    t2     lee trevino  united states     70    - 1
+2    t2     jim colbert  united states     70    - 1
+3    t2   raymond floyd  united states     70    - 1
+4    t5   jack nicklaus  united states     71      e
+5    t5   johnny miller  united states     71      e
+6    t5   arnold palmer  united states     71      e
+7    t5    gene littler  united states     71      e
+8    t5     bob charles    new zealand     71      e
+9    t5  ralph johnston  united states     71      e

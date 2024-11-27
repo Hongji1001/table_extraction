@@ -1,0 +1,37 @@
+    year                            title                     director                                          studio (s)                          notes
+0   2000            the road to el dorado       don paul bibo bergeron            dreamworks pictures dreamworks animation               with hans zimmer
+1   2000                      chicken run         peter lord nick park            dreamworks pictures dreamworks animation  with harry gregson - williams
+2   2001                    just visiting           jean - marie poirã                                  hollywood pictures                          n / a
+3   2001                            shrek  andrew adamson vicky jenson            dreamworks pictures dreamworks animation  with harry gregson - williams
+4   2001                        evolution                 ivan reitman                                 dreamworks pictures                          n / a
+5   2001                         rat race                 jerry zucker                                  paramount pictures                          n / a
+6   2001                         i am sam                jessie nelson                                     new line cinema                          n / a
+7   2002                          d - tox                jim gillespie                                  universal pictures                          n / a
+8   2002              the bourne identity                   doug liman                                  universal pictures                          n / a
+9   2002                         drumline            charles stone iii                                    20th century fox                          n / a
+10  2002     the adventures of pluto nash                ron underwood                                warner bros pictures                          n / a
+11  2002                 two weeks notice                marc lawrence                                warner bros pictures                          n / a
+12  2003                 stealing sinatra                ron underwood                                   showtime networks                television film
+13  2003                 agent cody banks                 harald zwart                             metro - goldwyn - mayer                          n / a
+14  2003                  the italian job                  f gary gray                                  paramount pictures                          n / a
+15  2003                            gigli                 martin brest                                   columbia pictures                          n / a
+16  2003                         paycheck                     john woo                                  paramount pictures                          n / a
+17  2004             the bourne supremacy              paul greengrass                                  universal pictures                          n / a
+18  2004                          mr 3000            charles stone iii                                 touchstone pictures                          n / a
+19  2004                            alfie                charles shyer                                  paramount pictures                          n / a
+20  2005                          be cool                  f gary gray                             metro - goldwyn - mayer                          n / a
+21  2005                           robots                  chris wedge                   20th century fox blue sky studios                          n / a
+22  2005                   mr & mrs smith                   doug liman                                    20th century fox                          n / a
+23  2006           ice age : the meltdown              carlos saldanha                   20th century fox blue sky studios                          n / a
+24  2006                        united 93              paul greengrass                                  universal pictures                          n / a
+25  2006         x - men : the last stand                 brett ratner                                    20th century fox                          n / a
+26  2006                       happy feet                george miller                   warner bros pictures animal logic                          n / a
+27  2007             the bourne ultimatum              paul greengrass                                  universal pictures                          n / a
+28  2007                  ps , i love you          richard lagravenese                                warner bros pictures                          n / a
+29  2008                           jumper                   doug liman                                    20th century fox                          n / a
+30  2008              horton hears a who!  jimmy hayward steve martino                   20th century fox blue sky studios                          n / a
+31  2008                      stop - loss              kimberly peirce                        paramount pictures mtv films                          n / a
+32  2008                    kung fu panda  john stevenson mark osborne             paramount pictures dreamworks animation               with hans zimmer
+33  2008                          hancock                   peter berg                                   columbia pictures                          n / a
+34  2008                             bolt  chris williams byron howard  walt disney pictures walt disney animation studios                          n / a
+35  2009  ice age : dawn of the dinosaurs              carlos saldanha                   20th century fox blue sky studios                          n / a

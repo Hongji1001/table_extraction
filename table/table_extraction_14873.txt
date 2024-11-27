@@ -1,0 +1,8 @@
+           player        country year (s) won  total to par finish
+0    paul azinger  united states         1993    278    - 2    t22
+1      nick price       zimbabwe  1992 , 1994    279    - 1    t29
+2     tiger woods  united states  1999 , 2000    279    - 1    t29
+3        bob tway  united states         1986    279    - 1    t29
+4  davis love iii  united states         1997    280      e    t37
+5      hal sutton  united states         1983    281    + 1    t44
+6     vijay singh           fiji         1998    282    + 2    t51

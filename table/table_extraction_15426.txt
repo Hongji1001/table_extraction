@@ -1,0 +1,7 @@
+                            name     employed                       position held                           honour         citation
+0  davis , phillip harris (phil)  1951 - 2000        mathematics & prefect master  medal of the order of australia  it 's an honour
+1        morgan , michael dennis  1981 - 2001   physical education ist viii coach  medal of the order of australia  it 's an honour
+2   swain , elizabeth anne (liz)  1973 - 1995    director of music & chapel choir  medal of the order of australia  it 's an honour
+3          swain , peter leonard  1970 - 1996                chaplain & archivist  medal of the order of australia  it 's an honour
+4         woosnam , clive thomas  1970 - 2005  senior boarding master & registrar  medal of the order of australia  it 's an honour
+5         zimmerman , roy alfred  1966 - 1996   master - in - charge wyvern house  medal of the order of australia  it 's an honour

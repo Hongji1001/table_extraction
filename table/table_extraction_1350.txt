@@ -1,0 +1,44 @@
+     municipality income class district  population (2010)  area (km square)
+0            agno    3rd class      1st              27508               170
+1         aguilar    3rd class      2nd              39529               195
+2          alcala    3rd class      5th              41077                46
+3            anda    3rd class      1st              37011                75
+4         asingan    2nd class      6th              56353                67
+5        balungao    4th class      6th              26678                73
+6            bani    2nd class      1st              45758               180
+7         basista    4th class      2nd              30385                24
+8        bautista    4th class      5th              30193                46
+9       bayambang    1st class      3rd             111521               144
+10      binalonan    1st class      5th              52832                48
+11       binmaley    1st class      2nd              78702               119
+12        bolinao    1st class      1st              74545               197
+13       bugallon    2nd class      2nd              64253               190
+14         burgos    4th class      1st              18315               131
+15       calasiao    1st class      3rd              91109                48
+16          dasol    3rd class      1st              26991               167
+17        infanta    3rd class      1st              23455               254
+18       labrador    4th class      2nd              21149                91
+19          laoac    4th class      5th              29456                41
+20       lingayen    1st class      2nd              98740                63
+21         mabini    3rd class      1st              24011               291
+22      malasiqui    1st class      3rd             123566               131
+23        manaoag    1st class      4th              64578                56
+24      mangaldan    1st class      4th              98905                48
+25     mangatarem    1st class      2nd              69969               318
+26       mapandan    3rd class      3rd              34439                30
+27      natividad    4th class      6th              22713               134
+28     pozorrubio    1st class      5th              66111               135
+29        rosales    1st class      6th              59687                66
+30     san fabian    1st class      4th              77899                81
+31    san jacinto    1st class      4th              37737                44
+32     san manuel    1st class      6th              46875               129
+33    san nicolas    3rd class      6th              34108               210
+34    san quintin    3rd class      6th              32626               116
+35  santa barbara    1st class      3rd              76637                61
+36    santa maria    4th class      6th              31091                70
+37    santo tomas    5th class      5th              14406                13
+38          sison    3rd class      5th              43979                82
+39           sual    1st class      1st              31216               130
+40          tayug    3rd class      6th              40018                51
+41        umingan    1st class      6th              67534               258
+42     urbiztondo    3rd class      2nd              47831                82

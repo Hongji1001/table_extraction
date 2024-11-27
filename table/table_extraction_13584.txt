@@ -1,0 +1,15 @@
+                          class            wheel arrangement                 manufacturer                    year made                quantity made           quantity preserved
+0   4 - 4 - 0 - oooo - american  4 - 4 - 0 - oooo - american  4 - 4 - 0 - oooo - american  4 - 4 - 0 - oooo - american  4 - 4 - 0 - oooo - american  4 - 4 - 0 - oooo - american
+1                             c                    4 - 4 - 0                      baldwin                  1886 - 1887                            6                            0
+2                         c - 1                    4 - 4 - 0                   new jersey                         1857                            1                            0
+3                         c - 1                    4 - 4 - 0                   new jersey                         1862                            1                            0
+4                             v                    4 - 4 - 0                   new jersey                         1855                            1                            0
+5                         c - 3                    4 - 4 - 0                 rhode island                         1884                            2                            0
+6                 c - 4 / c - 5                    4 - 4 - 0                      baldwin                  1886 - 1887                           44                            0
+7                     c - 5 - s                    4 - 4 - 0       mstp&sstem (rebuilder)        1928 - 1931 (rebuilt)                            9                            0
+8                        c - 20                    4 - 4 - 0                  schenectady                         1882                            2                            0
+9                        c - 21                    4 - 4 - 0                  schenectady                         1885                           12                            0
+10                       c - 22                    4 - 4 - 0                  schenectady                         1886                           11                            0
+11                       c - 23                    4 - 4 - 0                      baldwin                  1886 - 1887                           12                            0
+12                       c - 24                    4 - 4 - 0                       brooks               1902 (rebuilt)                            1                            0
+13                       c - 25                    4 - 4 - 0                  schenectady                         1887                            2                            0

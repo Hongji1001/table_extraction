@@ -1,0 +1,12 @@
+                  player  no    nationality         position years in orlando school / club team
+0             j j redick   7  united states            guard      2006 - 2013               duke
+1               don reid  52  united states          forward      2000 - 2002         georgetown
+2         jerry reynolds  35  united states  guard - forward      1989 - 1992    louisiana state
+3       jason richardson  23  united states            guard      2010 - 2012     michigan state
+4      jeremy richardson  32  united states          forward      2008 - 2009        delta state
+5     quentin richardson   5  united states          forward      2010 - 2012             depaul
+6        stanley roberts  53  united states           center      1991 - 1992    louisiana state
+7         james robinson  26  united states            guard      2000 - 2001            alabama
+8   wayne 'tree' rollins  30  united states           center      1993 - 1995            clemson
+9             sean rooks  45  united states           center             2004            arizona
+10          donald royal   5  united states          forward      1992 - 1996         notre dame

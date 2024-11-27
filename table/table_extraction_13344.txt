@@ -1,0 +1,11 @@
+                       official name           status  area km 2  population census ranking
+0                         edmundston             city     106.92       16032    254 of 5008
+1                      saint - andré  rural community     140.68        2479   1146 of 5008
+2                    saint - léonard             town       5.20        1343   1723 of 5008
+3     sainte - anne - de - madawaska          village       9.21        1002   2068 of 5008
+4                              clair          village      10.46         857   2276 of 5008
+5                    rivière - verte          village       7.00         744   2476 of 5008
+6                        lac - baker          village      37.12         719   2531 of 5008
+7                        baker brook          village      12.40         585   2805 of 5008
+8  saint - françois - de - madawaska          village       6.34         533   2915 of 5008
+9                    saint - hilaire          village       5.67         145   4187 of 5008

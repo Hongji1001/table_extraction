@@ -1,0 +1,17 @@
+                    driver      constructor  laps time / retired  grid
+0              graham hill     lotus - ford    80      2:00:32.3     1
+1          richard attwood              brm    80          + 2.2     6
+2           lucien bianchi     cooper - brm    76       + 4 laps    14
+3      ludovico scarfiotti     cooper - brm    76       + 4 laps    15
+4              denny hulme   mclaren - ford    73       + 7 laps    10
+5             john surtees            honda    16        gearbox     4
+6         pedro rodrã­guez              brm    16       accident     9
+7               jo siffert     lotus - ford    17   differential     3
+8   jean - pierre beltoise            matra    11       accident     8
+9            piers courage              brm    11        chassis    11
+10              dan gurney  eagle - weslake     9         engine    16
+11            jochen rindt  brabham - repco     8       accident     5
+12            jack brabham  brabham - repco     7     suspension    12
+13   johnny servoz - gavin     matra - ford     3      halfshaft     2
+14           bruce mclaren   mclaren - ford     0       accident     7
+15           jackie oliver     lotus - ford     0       accident    13

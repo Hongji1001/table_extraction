@@ -1,0 +1,28 @@
+    rank         country  disposable usd 2011 disposable usd growth compulsory deduction  gross usd 2011
+0      1   united states                42050                   242                22.8%           54450
+1      2         ireland                41170                   531                18.9%           50764
+2      3      luxembourg                37997                - 1477                28.1%           52847
+3      4     switzerland                35471                  - 57                29.4%           50242
+4      5       australia                34952                   835                22.3%           44983
+5      6  united kingdom                33513                - 1272                25.1%           44743
+6      7          canada                32662                 - 648                22.7%           42253
+7      8          norway                32620                   913                29.3%           46153
+8      9     south korea                31051                  1341                12.3%           35406
+9     10     netherlands                29269                 - 544                37.8%           47056
+10    11         austria                29008                 - 177                33.4%           43555
+11    12          sweden                28301                   480                25.0%           37734
+12    13         denmark                27974                 - 335                38.6%           45560
+13    14           japan                27763                   724                21.0%           35143
+14    15          france                27452                    93                28.0%           38128
+15    16           spain                26856                 - 466                21.9%           34387
+16    17         finland                25747                   146                29.8%           36676
+17    18         belgium                25642                    25                42.2%           44364
+18    19          israel                24225                   147                18.9%           28804
+19    20         germany                24174                   379                39.9%           40223
+20    21           italy                23194                 - 562                30.8%           33517
+21    22          greece                21352                - 2039                18.8%           26295
+22    23        portugal                17170                - 2044                24.5%           22742
+23    24  czech republic                15115                 - 191                23.0%           19630
+24    25        slovakia                14701                 - 328                22.9%           19068
+25    26          poland                14390                   116                28.3%           20069
+26    27         estonia                13737                 - 444                20.7%           17323

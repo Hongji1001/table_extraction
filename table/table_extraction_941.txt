@@ -1,0 +1,17 @@
+    pick               nfl team           player          position             college
+0     12  green bay packers nfl       rich moore  defensive tackle           villanova
+1     38  green bay packers nfl     dave bradley            tackle          penn state
+2     64  green bay packers nfl      john spilis     wide receiver   northern illinois
+3     90  green bay packers nfl   perry williams      running back              purdue
+4    116  green bay packers nfl      bill hayhoe  defensive tackle                 usc
+5    142  green bay packers nfl      ken vinyard       placekicker          texas tech
+6    168  green bay packers nfl  larry agajanian  defensive tackle                ucla
+7    194  green bay packers nfl     doug gosnell  defensive tackle          utah state
+8    220  green bay packers nfl     dave hampton      running back             wyoming
+9    246  green bay packers nfl     bruce nelson            tackle  north dakota state
+10   272  green bay packers nfl      leon harden    defensive back                utep
+11   298  green bay packers nfl      tom buckman         tight end           texas a&m
+12   324  green bay packers nfl    craig koinzan        linebacker               doane
+13   350  green bay packers nfl     rich voltzke      running back  minnesota - duluth
+14   376  green bay packers nfl     dan eckstein    defensive back        presbyterian
+15   402  green bay packers nfl      dick hewins     wide receiver               drake

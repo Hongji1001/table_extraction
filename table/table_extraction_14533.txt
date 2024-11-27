@@ -1,0 +1,8 @@
+   year award ceremony                                          category                         nominee     result
+0  1966     tony award                                      best musical                    best musical        won
+1  1966     tony award  best performance by a leading actor in a musical                   richard kiley        won
+2  1966     tony award                       best direction of a musical                    albert marre        won
+3  1966     tony award                               best original score      mitch leigh and joe darion        won
+4  1966     tony award                                 best choreography                       jack cole  nominated
+5  1966     tony award                                best scenic design                      howard bay        won
+6  1966     tony award                               best costume design  howard bay and patton campbell  nominated

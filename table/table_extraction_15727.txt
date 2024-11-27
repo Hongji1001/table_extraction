@@ -1,0 +1,9 @@
+   rank  lane            athlete          nationality   time  react
+0     1     7      andrew steele        great britain  44.94  0.248
+1     2     5         renny quow  trinidad and tobago  45.13  0.266
+2     3     6    michael mathieu              bahamas  45.17  0.193
+3     4     8  michael blackwood              jamaica  45.56  0.204
+4     5     2  tyler christopher               canada  45.67  0.172
+5     6     3       joel phillip              grenada  46.30  0.198
+6     7     9     félix martinez          puerto rico  46.46  0.347
+7     8     4   daniel dąbrowski               poland  47.83  0.260

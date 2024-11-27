@@ -1,0 +1,14 @@
+                       club  played  drawn  lost  try bp  losing bp
+0                      club  played  drawn  lost  try bp  losing bp
+1             ebbw vale rfc      22      0     3      16          3
+2               bargoed rfc      22      0     4      10          4
+3             newbridge rfc      22      0     4       8          3
+4          gilfach goch rfc      22      0     7       9          4
+5                beddau rfc      22      0    10       5          2
+6             blackwood rfc      22      0    13       4          5
+7              treorchy rfc      22      1    12       2          5
+8   glamorgan wanderers rfc      22      0    14       2          5
+9               merthyr rfc      22      0    14       5          2
+10               rumney rfc      22      2    13       4          3
+11         mountain ash rfc      22      1    15       3          3
+12             tredegar rfc      22      0    21       1          4

@@ -1,0 +1,48 @@
+               player                       test debut  year                     cross - code debut          date       position
+0     dally messenger        2nd ru test v new zealand  1907              rl test all golds v wales    1 jan 1908         centre
+1         denis lutge  inaugural ru test v new zealand  1903        inaugural rl test v new zealand    9 may 1908        forward
+2   doug mclean , snr      2nd ru test v british lions  1904        inaugural rl test v new zealand    9 may 1908         winger
+3          micky dore            ru test v new zealand  1905        inaugural rl test v new zealand    9 may 1908    half - back
+4     johnny rosewell        1st ru test v new zealand  1907        inaugural rl test v new zealand    9 may 1908        forward
+5       robert graves        1st ru test v new zealand  1907        inaugural rl test v new zealand    9 may 1908        forward
+6     bill hardcastle      4th ru test v british lions  1899              2nd rl test v new zealand   30 may 1908        forward
+7       george watson        1st ru test v new zealand  1907              2nd rl test v new zealand   30 may 1908         winger
+8         alex burdon  inaugural ru test v new zealand  1903            1st rl test v great britain   12 dec 1908        forward
+9           pat walsh      1st ru test v british lions  1904            1st rl test v great britain   12 dec 1908        forward
+10    arthur anlezark            ru test v new zealand  1905            3rd rl test v great britain   10 feb 1909    half - back
+11    charles russell        1st ru test v new zealand  1907            1st rl test v great britain  18 june 1910         winger
+12      chris mckivat        1st ru test v new zealand  1907            1st rl test v great britain  18 june 1910    half - back
+13       john barnett        1st ru test v new zealand  1907            1st rl test v great britain  18 june 1910        forward
+14          bob craig    olympic final v great britain  1908            1st rl test v great britain  18 june 1910        forward
+15        jack hickey    olympic final v great britain  1908            1st rl test v great britain  18 june 1910         centre
+16      patrick mccue        1st ru test v new zealand  1907            1st rl test v great britain   18 nov 1911        forward
+17       herb gilbert        1st ru test v new zealand  1910            1st rl test v great britain   18 nov 1911         centre
+18        peter burge        1st ru test v new zealand  1907                    kangaroo tour match          1911        forward
+19  charles mcmurtrie    olympic final v great britain  1908                    kangaroo tour match          1911        forward
+20         bob stuart        2nd ru test v new zealand  1910                    kangaroo tour match          1911        forward
+21    claud o'donnell        1st ru test v new zealand  1913              1st rl test v new zealand   23 aug 1919         hooker
+22   clarrie prentice        1st ru test v new zealand  1914              1st rl test v new zealand   23 aug 1919         hooker
+23    doug mclean jnr       1st ru test v south africa  1933              1st rl test v new zealand    7 aug 1937         winger
+24       trevor allan       ru test aust v new zealand  1949                     rl test other nats          1950           back
+25        ken kearney        1st ru test v new zealand  1947            3rd rl test v great britain   13 dec 1952         hooker
+26         rex mossop        1st ru test v new zealand  1949            1st rl test v great britain  14 june 1958        forward
+27     arthur summons              1st ru test v wales  1958              1st rl test v new zealand   1 july 1961    half - back
+28     michael cleary                 ru test v france  1961            1st rl test v great britain   9 june 1962         winger
+29          jim lisle               1st ru test v fiji  1961            3rd rl test v great britain  14 july 1962  five - eighth
+30      dick thornett                 ru test v france  1961             1st rl test v south africa  20 july 1963        forward
+31         kevin ryan                ru test v england  1958                   2nd rl test v france   4 july 1964        forward
+32          bob honan        1st ru test v new zealand  1964              1st rl test v new zealand   1 june 1969           back
+33     phil hawthorne        3rd ru test v new zealand  1962            1st rl test v great britain   6 june 1970  five - eighth
+34         john brass      2nd ru test v british lions  1966            1st rl test v great britain   6 june 1970         centre
+35     stephen knight       2nd ru test v south africa  1969                   rlwc v great britain   29 oct 1972         winger
+36   geoff richardson       1st ru test v south africa  1971            1st rl test v great britain  15 june 1974  five - eighth
+37          ray price        1st ru test v new zealand  1974              1st rl test v new zealand  24 june 1978        forward
+38   michael o'connor          1st ru test v argentina  1979              1st rl test v new zealand   6 july 1986         centre
+39       ricky stuart           wallaby argentina tour  1987            1st rl test v great britain   27 oct 1990    half - back
+40      scott gourley               ru test v scotland  1988                      1st rl test v png    6 oct 1991        forward
+41      andrew walker                    rl test v png  1996              1st ru test v new zealand  25 july 2000           back
+42     wendell sailor      1st rl test v great britain  1994                   1st ru test v france  22 june 2002         winger
+43         mat rogers        1st rl test v new zealand  1998                   1st ru test v france  22 june 2002           back
+44        lote tuqiri        1st rl test v new zealand  2001                  1st ru test v ireland   7 june 2003         winger
+45        timana tahu          rl test v great britain  2002              1st ru test v new zealand  26 june 2008         centre
+46       israel folau            rl test v new zealand  2007  1st ru test v british and irish lions  22 june 2013         winger

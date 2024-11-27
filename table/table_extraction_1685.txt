@@ -1,0 +1,23 @@
+    voting order         country          spokespersons        commentator              broadcaster
+0              1      luxembourg                    tbc    jacques navadic        télé - luxembourg
+1              2     netherlands             pim jacobs  ageeth scherphuis                      nts
+2              3          norway  sverre christophersen         odd grythe                      nrk
+3              4         denmark                    tbc                tbc                    dr tv
+4              5         finland             poppe berg        aarno walli         suomen televisio
+5              6         austria       ernst grissemann    emil kollpacher                      orf
+6              7          france          claude darget    robert beauvais      première chaîne rtf
+7              8  united kingdom          michael aspel       david jacobs                   bbc tv
+8              8  united kingdom          michael aspel          tom sloan      bbc light programme
+9              9         germany               lia wöhr   hermann rockmann  ard deutsches fernsehen
+10            10          monaco                    tbc    robert beauvais         télé monte carlo
+11            11        portugal  maria manuela furtado     gomes ferreira                      rtp
+12            12           italy       rosanna vaudetti    renato tagliani      programma nazionale
+13            13      yugoslavia                    tbc     miloje orlović       televizija beograd
+14            13      yugoslavia                    tbc    gordana bonetti        televizija zagreb
+15            13      yugoslavia                    tbc       tomaž terček     televizija ljubljana
+16            14     switzerland       alexandre burger     theodor haller                   tv drs
+17            14     switzerland       alexandre burger      georges hardy                      tsr
+18            14     switzerland       alexandre burger   giovanni bertini                      tsi
+19            15         belgium            andré hagon     paule herreman                      rtb
+20            15         belgium            andré hagon     herman verelst                      brt
+21            16           spain                    tbc     federico gallo                      tve

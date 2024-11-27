@@ -1,0 +1,17 @@
+   state       type                   name     title royal house    from
+0    cai  sovereign                     wu   marquis          ji  863 bc
+1    cai  sovereign                     yi   marquis          ji  837 bc
+2    cao  sovereign                     yi     count           -  864 bc
+3    cao  sovereign                    you     count           -  835 bc
+4   chen  sovereign                    you      duke           -  854 bc
+5   chen  sovereign                     li      duke           -  831 bc
+6    chu  sovereign             xiong yong  viscount          mi  846 bc
+7    chu  sovereign  xiong yan the younger  viscount          mi  837 bc
+8    jin  sovereign                     xi   marquis          ji  840 bc
+9     lu  sovereign                   shen      duke          ji  854 bc
+10    qi  sovereign                     wu      duke       jiang  850 bc
+11   qin  sovereign              qin zhong     ruler        ying  845 bc
+12  song  sovereign                     xi      duke           -  858 bc
+13  song  sovereign                    hui      duke           -  830 bc
+14   wey  sovereign                     li   marquis           -  855 bc
+15   yan  sovereign                    hui   marquis           -  864 bc

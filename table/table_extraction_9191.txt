@@ -1,0 +1,11 @@
+   draw              artist                     song  points place
+0     1             teresia        kom ner på jorden      25   8th
+1     2        jan johansen             ingemansland     107   4th
+2     3                date       om du förlåter mig      57   6th
+3     4       rosanna jönis    om du var här hos mig      13  10th
+4     5            barbados         allt som jag ser     192   2nd
+5     6       sanna nielsen              igår , idag     172   3rd
+6     7  annie kratz - gutå                 vända om      29   6th
+7     8             friends  lyssna till ditt hjärta     237   1st
+8     9              popson           jag känner dig      23   9th
+9    10     ellinor franzén        om du stannar här      91   5th

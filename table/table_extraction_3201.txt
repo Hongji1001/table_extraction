@@ -1,0 +1,36 @@
+                                   name / name of act  age (s)             genre                             act             hometown  semifinal (week)  position reached
+0                                     jovit baldivino       16           singing                          singer             batangas                 1            winner
+1                                    velasco brothers  various           dancing               breakdancing crew               manila                 3      second place
+2                                baguio metamorphosis  various           dancing  hiphop and belly dancing group          baguio city                 6       third place
+3                                      ingrid payaket       21           singing                          singer          baguio city                 6  grand - finalist
+4                                           ezra band  various             music                   acoustic band        davao del sur                 4    grand finalist
+5                                       ruther urquia       31     ventriloquism                   ventriloquist       las piñas city                 1    grand finalist
+6                               alakim (allan de paz)       29             magic                        magician          quezon city                 2    grand finalist
+7                                 keith clark delleva       14             music          electric guitar player           pasay city                 3    grand finalist
+8                                     sherwin baguion       20           singing                          singer      lanao del norte                 4    grand finalist
+9                                     luntayao family  various           singing                   singing group    negros occidental                 5    grand finalist
+10                                 maria jeline oliva       13             music                       violinist            naga city                 5    grand finalist
+11                                      markki stroem       20           singing                          singer          quezon city                 2    grand finalist
+12                         imusicapella chamber choir  various             music                       showchoir               cavite                 6   semi - finalist
+13                              carl malone montecido       11           singing                          singer         bacolod city                 6   semi - finalist
+14                                        hello world  various           dancing                      dance crew           davao city                 6   semi - finalist
+15                                     josephine aton       32           singing                          singer            cebu city                 6   semi - finalist
+16                                     powerpuff corn  various           singing                    acoustic duo          baguio city                 5   semi - finalist
+17                                    experience kidz  various           dancing                      dance crew  general santos city                 5   semi - finalist
+18                               harold jomar gesulga       17             music                       beatboxer  general santos city                 5   semi - finalist
+19                                     jzan vern tero       12           singing                          singer            cebu city                 5   semi - finalist
+20                              geraldine fame flores       19           singing                    opera singer       parañaque city                 4   semi - finalist
+21                      big mouth aka bm (joel amper)       32  singing / comedy       singer with animal sounds               manila                 4   semi - finalist
+22                                  goldies & goodies  48 - 69           dancing                     dance group            cebu city                 4   semi - finalist
+23                                   reiniel tulabing       11           singing                          singer       cainta , rizal                 4   semi - finalist
+24                                     rolando ng iii        7           singing                          singer       cagayan de oro                 3   semi - finalist
+25                                     alexis carpena       21           dancing                isolation dancer               laguna                 3   semi - finalist
+26                         manolito manoling saldivar       51           singing                    opera singer       dumaguete city                 3   semi - finalist
+27                                     reggie ramirez       33           singing       double - character singer           davao city                 3   semi - finalist
+28                                      kapidamu band  10 - 16             music                            band               quezon                 2   semi - finalist
+29                                    florante inutan       41             music                 human saxophone           davao city                 2   semi - finalist
+30                          garrett devan bolden , jr       18           singing                          singer        olongapo city                 2   semi - finalist
+31                     mae lozada & anselmo estillore  various           dancing            ballroom dancing duo            cebu city                 2   semi - finalist
+32                                  rolando permangil       35           singing                          singer           davao city                 1   semi - finalist
+33  baguio siblings (jhistine glyde & filemon baguio)  various           dancing            ballroom dancing duo            cebu city                 1   semi - finalist
+34                                          snap boyz  various           dancing                      dance crew                 cebu                 1   semi - finalist

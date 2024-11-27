@@ -1,0 +1,16 @@
+    n degree  television service         country language content         dar hdtv ppv       package / option
+0        700           sky radio           italy  italian   music         4:3   no  no           sky famiglia
+1        701           sky music           italy  italian   music         4:3   no  no           sky famiglia
+2        703    music box italia           italy  italian   music  4:3 / 16:9   no  no           sky famiglia
+3        704            mtv hits           italy  italian   music        16:9   no  no           sky famiglia
+4        705         mtv classic           italy  italian   music         4:3   no  no           sky famiglia
+5        706           mtv rocks  united kingdom  english   music        16:9   no  no           sky famiglia
+6        707           mtv dance  united kingdom  english   music        16:9   no  no           sky famiglia
+7        708           mtv music           italy  italian   music        16:9   no  no             no ( ftv )
+8        710         mtv live hd          poland  english   music        16:9  yes  no  sky famiglia + sky hd
+9        713  radio capital tivù           italy  italian   music         4:3   no  no             no ( ftv )
+10       714            mydeejay           italy  italian   music        16:9   no  no           sky famiglia
+11       716         match music           italy  italian   music  4:3 / 16:9   no  no           sky famiglia
+12       718             rock tv           italy  italian   music  4:3 / 16:9   no  no           sky famiglia
+13       720          hip hop tv           italy  italian   music         4:3   no  no           sky famiglia
+14       728            classica           italy  italian   music         4:3   no  no                 option

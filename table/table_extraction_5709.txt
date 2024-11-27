@@ -1,0 +1,11 @@
+   number                    artist                      album  1st week sales  1st week position
+0       1                kanye west                 graduation          957000                  1
+1       2                   50 cent                     curtis          697000                  2
+2       3                        ti                  ti vs tip          468000                  1
+3       4                   jay - z          american gangster          426000                  1
+4       5                  fabolous  from nothin' to somethin'          159000                  2
+5       6                    common            finding forever          158000                  1
+6       7               lupe fiasco                   the cool          143000                 14
+7       8                young buck             buck the world          141000                  3
+8       9                 timbaland                shock value          138000                  1
+9      10  bone thugs - n - harmony         strength & loyalty          119000                  2

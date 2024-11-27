@@ -1,0 +1,20 @@
+                  driver                            team  laps time / retired  grid  points
+0             paul tracy                  team player 's    90    1:56:01.792     2      21
+1       adrian fernández                fernández racing    90     + 4.5 secs     7      16
+2        bruno junqueira            newman / haas racing    90    + 13.7 secs     4      14
+3           jimmy vasser  american spirit team johansson    90    + 21.0 secs    14      12
+4        mario domínguez              herdez competition    90    + 22.2 secs    11      10
+5     patrick carpentier                  team player 's    90    + 22.7 secs     6       8
+6     ryan hunter - reay  american spirit team johansson    90    + 25.7 secs    12       6
+7         darren manning                   walker racing    90    + 33.4 secs    10       5
+8        mario haberfeld       mi - jack conquest racing    90    + 48.6 secs    15       4
+9          alex tagliani             rocketsports racing    89        + 1 lap     3       3
+10        tiago monteiro     fittipaldi - dingman racing    88       + 2 laps    16       2
+11          oriol servià                  patrick racing    87     mechanical     8       1
+12       patrick lemarié                       pk racing    87        + 3 lap    13       0
+13        joël camathias               dale coyne racing    84       + 6 laps    18       0
+14  michel jourdain , jr                      team rahal    83     mechanical     1       2
+15    sébastien bourdais            newman / haas racing    70     mechanical     5       0
+16        roberto moreno              herdez competition    36        contact     9       0
+17         rodolfo lavín                   walker racing    35        contact    17       0
+18            alex yoong               dale coyne racing    32        contact    19       0

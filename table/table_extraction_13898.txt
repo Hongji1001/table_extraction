@@ -1,0 +1,24 @@
+    position                  team  played  drawn  lost  goals for  goals against goal difference  points 1
+0          1         boston united      44     11     6         82             35            + 47        65
+1          2    northwich victoria      44     11     6         85             43            + 42        65
+2          3          matlock town      44     11     7        108             57            + 51        63
+3          4           bangor city      44     11    11         87             52            + 35        55
+4          5           scarborough      44     12    11         77             66            + 11        53
+5          6            goole town      44      6    15         64             50            + 14        52
+6          7        lancaster city      44      9    14         71             58            + 13        51
+7          8      gateshead united      44     12    14         80             64            + 16        48
+8          9               mossley      44     14    13         74             59            + 15        48
+9         10            altrincham      44      9    16         60             53             + 7        47
+10        11      stafford rangers      44     14    14         60             55             + 5        46
+11        12               runcorn      44     14    15         58             50             + 8        44
+12        13          worksop town      44     12    16         50             58               8        44
+13        14        wigan athletic      44     15    15         62             54             + 8        43
+14        15             morecambe      44     11    20         59             75              16        37
+15        16  gainsborough trinity      44     10    21         58             74              16        36
+16        17         great harwood      44     14    19         63             84              21        36
+17        18                buxton      44     13    20         48             63              15        35
+18        19     macclesfield town      44     15    21         41             68              27        31
+19        20     frickley athletic      44      8    25         53             93              40        30
+20        21                barrow      44      6    27         56             87              31        28
+21        22       south liverpool      44      8    26         51            104              53        28
+22        23           netherfield      44      8    27         47             92              45        26

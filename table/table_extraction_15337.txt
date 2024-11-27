@@ -1,0 +1,13 @@
+    year recorded                                    title             genre     label  year inducted
+0   year recorded                                    title             genre     label  year inducted
+1            1929                           st louis blues     jazz (single)      okeh           2008
+2            1928                             weather bird     jazz (single)      okeh           2008
+3            1930  blue yodel no9 (standing on the corner)  country (single)    victor           2007
+4            1932                                all of me     jazz (single)  columbia           2005
+5            1958                           porgy and bess      jazz (album)     verve           2001
+6            1964                             hello dolly!      pop (single)      kapp           2001
+7            1926                           heebie jeebies     jazz (single)      okeh           1999
+8            1967                   what a wonderful world     jazz (single)       abc           1999
+9            1955                           mack the knife     jazz (single)  columbia           1997
+10           1925                           st louis blues     jazz (single)  columbia           1993
+11           1928                           west end blues     jazz (single)      okeh           1974

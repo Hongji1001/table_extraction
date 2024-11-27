@@ -1,0 +1,6 @@
+             film               director (s)                recipient         date  award
+0     hallo panda  ben blaine , chris blaine  charlie productions ltd  5 / 4 / /06  25000
+1            soft                simon ellis                  bub ltd  22 / 3 / 06  25000
+2  dog 's mercury              martin radich           warp films ltd   4 / 5 / 06  25000
+3       honeymoon              miranda bowen           2 am films ltd  15 / 3 / 06  25000
+4  after the rain              gaelle dennis         passion pictures   14 / 6 / 6  25000

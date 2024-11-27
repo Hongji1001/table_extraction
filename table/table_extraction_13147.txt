@@ -1,0 +1,21 @@
+                        club             city                            stadium  capacity         2007 - 08 season
+0                atalanta bc          bergamo     stadio atleti azzurri d'italia     26393           9th in serie a
+1            bologna fc 1909          bologna             stadio renato dall'ara     39444           2nd in serie b
+2            cagliari calcio         cagliari                   stadio sant'elia     23486          14th in serie a
+3             calcio catania          catania            stadio angelo massimino     23420          17th in serie a
+4            ac chievoverona           verona       stadio marcantonio bentegodi     39211        serie b champions
+5             acf fiorentina         florence  stadio artemio franchi , florence     47282           4th in serie a
+6                  genoa cfc            genoa              stadio luigi ferraris     36685          10th in serie a
+7   fc internazionale milano            milan             stadio giuseppe meazza     80074        serie a champions
+8                juventus fc            turin          stadio olimpico di torino     27500           3rd in serie a
+9                   ss lazio             rome                    stadio olimpico     72700          12th in serie a
+10                  us lecce            lecce                stadio via del mare     33876  serie b playoff winners
+11                  ac milan            milan             stadio giuseppe meazza     80074           5th in serie a
+12                ssc napoli           naples                   stadio san paolo     60240           8th in serie a
+13       us città di palermo          palermo               stadio renzo barbera     37242          11th in serie a
+14            reggina calcio  reggio calabria             stadio oreste granillo     27454          16th in serie a
+15                   as roma             rome                    stadio olimpico     72700           2nd in serie a
+16              uc sampdoria            genoa              stadio luigi ferraris     36685           6th in serie a
+17                  ac siena            siena     stadio artemio franchi , siena     15373          13th in serie a
+18                 torino fc            turin          stadio olimpico di torino     27500          15th in serie a
+19            udinese calcio            udine                      stadio friuli     41652           7th in serie a

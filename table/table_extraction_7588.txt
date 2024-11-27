@@ -1,0 +1,10 @@
+   year             entrant        chassis                 engine  points
+0  1957  ecurie maarsbergen  porsche 550rs       porsche flat - 4       0
+1  1958  ecurie maarsbergen    porsche rsk       porsche flat - 4       0
+2  1959  ecurie maarsbergen    porsche rsk       porsche flat - 4       0
+3  1959    scuderia ugolini  maserati 250f  maserati straight - 6       0
+4  1960  ecurie maarsbergen     cooper t51    climax straight - 4       0
+5  1961  ecurie maarsbergen    porsche 718       porsche flat - 4       0
+6  1962  ecurie maarsbergen    porsche 718       porsche flat - 4       2
+7  1963  ecurie maarsbergen    porsche 718       porsche flat - 4       2
+8  1964  ecurie maarsbergen    porsche 718       porsche flat - 4       0

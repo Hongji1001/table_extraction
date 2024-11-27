@@ -1,0 +1,8 @@
+      season  tier league  pos       postseason dutch cup              european competitions
+0  2004 - 05     1    dbl    3         champion         -          europe league 3 : last 16
+1  2005 - 06     1    dbl    2     semifinalist    winner           uleb cup 2 : group stage
+2  2006 - 07     1    dbl    6     semifinalist         -            eurocup 3 : group stage
+3  2007 - 08     1    dbl    1         champion  finalist                                  -
+4  2008 - 09     1    dbl    1         champion  finalist  eurochallenge 3 : quarterfinalist
+5  2009 - 10     1    dbl    7  quarterfinalist  finalist      eurochallenge 3 : group stage
+6  2010 - 11     1    dbl    8  quarterfinalist         -                                  -

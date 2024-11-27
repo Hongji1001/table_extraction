@@ -1,0 +1,8 @@
+   pick                                            cfl team               player position           college
+0    32  winnipeg blue bombers (via edmonton via winnipeg )           carl volny       rb  central michigan
+1    33               hamilton tiger - cats (via edmonton )  patrick jean - mary       lb            howard
+2    34                        calgary stampeders (via bc )          matt walter       rb           calgary
+3    35                                   toronto argonauts    gregory alexandre       dl          montrãal
+4    36                               hamilton tiger - cats     tyrell francisco       te       weber state
+5    37                             bc lions (via calgary )         yannick sage       ol        sherbrooke
+6    38               toronto argonauts (via saskatchewan )  julian feoli gudino       wr             laval

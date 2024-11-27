@@ -1,0 +1,8 @@
+   runs  match                 stadium         city / country  year
+0  runs  match                 stadium         city / country  year
+1   148      5           iqbal stadium  faisalabad , pakistan  2006
+2   110     38    sardar patel stadium      ahmedabad , india  2009
+3   100     40       brabourne stadium         mumbai , india  2009
+4   132     42            eden gardens        kolkata , india  2010
+5   144     63            eden gardens        kolkata , india  2011
+6   224     74  ma chidambaram stadium        chennai , india  2013

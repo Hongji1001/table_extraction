@@ -1,0 +1,17 @@
+    week                 date              opponent     result  attendance
+0      1   september 1 , 1991        dallas cowboys  l 26 - 14       78860
+1      2   september 8 , 1991  new england patriots   w 20 - 0       35377
+2      3  september 15 , 1991    cincinnati bengals  w 14 - 13       78269
+3      4  september 22 , 1991       new york giants  l 10 - 13       75891
+4      5     october 6 , 1991         new york jets  l 17 - 14       71042
+5      6    october 13 , 1991   washington redskins  l 42 - 17       54715
+6      7    october 20 , 1991    san diego chargers  w 30 - 24       48440
+7      8    october 27 , 1991   pittsburgh steelers  w 17 - 14       78285
+8      9    november 3 , 1991    cincinnati bengals  l 23 - 21       55077
+9     10   november 10 , 1991   philadelphia eagles  l 32 - 30       72086
+10    11   november 17 , 1991        houston oilers  l 28 - 24       58155
+11    12   november 24 , 1991    kansas city chiefs  w 20 - 15       63991
+12    13    december 1 , 1991    indianapolis colts   w 31 - 0       57539
+13    14    december 8 , 1991        denver broncos   l 17 - 7       73539
+14    15   december 15 , 1991        houston oilers  l 17 - 14       55680
+15    16   december 22 , 1991   pittsburgh steelers  l 17 - 10       47070

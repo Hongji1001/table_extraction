@@ -1,0 +1,7 @@
+        district                    incumbent       party  first elected        result                                 candidates
+0  mississippi 1                john e rankin  democratic           1920  re - elected                john e rankin (d) unopposed
+1  mississippi 2                   wall doxey  democratic           1928  re - elected                   wall doxey (d) unopposed
+2  mississippi 3  william madison whittington  democratic           1924  re - elected  william madison whittington (d) unopposed
+3  mississippi 4                 aaron l ford  democratic           1934  re - elected                 aaron l ford (d) unopposed
+4  mississippi 5               ross a collins  democratic           1936  re - elected               ross a collins (d) unopposed
+5  mississippi 6             william m colmer  democratic           1932  re - elected             william m colmer (d) unopposed

@@ -1,0 +1,28 @@
+          poll source  sample size  margin of error                date         democrat     republican
+0          quinnipiac         1697              2.4  mar 19 - 24 , 2008  hillary clinton    john mccain
+1          quinnipiac         1697              2.4  mar 19 - 24 , 2008     barack obama    john mccain
+2   rasmussen reports          500              4.5     march 11 , 2008     barack obama    john mccain
+3   rasmussen reports          500              4.5     march 11 , 2008  hillary clinton    john mccain
+4   rasmussen reports          500              4.5   november 7 , 2007  hillary clinton  rudy giuliani
+5   rasmussen reports          500              4.5   november 7 , 2007  hillary clinton    john mccain
+6   rasmussen reports          500              4.5   november 7 , 2007  hillary clinton    mitt romney
+7   rasmussen reports          500              4.5   november 7 , 2007  hillary clinton  fred thompson
+8          quinnipiac         1029              3.1    nov 1 - 5 , 2007  hillary clinton  rudy giuliani
+9          quinnipiac         1029              3.1    nov 1 - 5 , 2007  hillary clinton    john mccain
+10         quinnipiac         1029              3.1    nov 1 - 5 , 2007  hillary clinton    mitt romney
+11         quinnipiac         1029              3.1    nov 1 - 5 , 2007  hillary clinton  fred thompson
+12         quinnipiac         1029              3.1    nov 1 - 5 , 2007     john edwards  rudy giuliani
+13         quinnipiac         1029              3.1    nov 1 - 5 , 2007     barack obama  rudy giuliani
+14         quinnipiac         1391              2.6   oct 9 - 15 , 2007  hillary clinton  rudy giuliani
+15         quinnipiac         1427              2.6    may 2 - 7 , 2007  hillary clinton  rudy giuliani
+16         quinnipiac         1427              2.6    may 2 - 7 , 2007  hillary clinton    john mccain
+17         quinnipiac         1427              2.6    may 2 - 7 , 2007  hillary clinton  fred thompson
+18         quinnipiac         1427              2.6    may 2 - 7 , 2007     barack obama  rudy giuliani
+19         quinnipiac         1427              2.6    may 2 - 7 , 2007     barack obama    john mccain
+20         quinnipiac         1427              2.6    may 2 - 7 , 2007     barack obama  fred thompson
+21         quinnipiac         1087              3.0   feb 9 - 12 , 2007  hillary clinton  rudy giuliani
+22         quinnipiac         1087              3.0   feb 9 - 12 , 2007  hillary clinton    john mccain
+23         quinnipiac         1087              3.0   feb 9 - 12 , 2007  hillary clinton    mitt romney
+24         quinnipiac         1087              3.0   feb 9 - 12 , 2007       chris dodd    john mccain
+25         quinnipiac         1087              3.0   feb 9 - 12 , 2007     john edwards    john mccain
+26         quinnipiac         1087              3.0   feb 9 - 12 , 2007     barack obama    john mccain

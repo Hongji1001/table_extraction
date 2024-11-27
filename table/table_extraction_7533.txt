@@ -1,0 +1,26 @@
+                               name   years gender             area authority  decile  roll
+0                  fairhaven school   1 - 6   coed          te puke     state       5   389
+1                     kaimai school   1 - 8   coed           kaimai     state       7    81
+2                  katikati college  7 - 13   coed         katikati     state       6   873
+3           katikati primary school   1 - 6   coed         katikati     state       5   518
+4                     maketu school   1 - 6   coed           maketu     state       2    65
+5               matahui road school   1 - 8   coed         katikati   private       9    73
+6             omokoroa point school   1 - 8   coed         omokoroa     state       9   199
+7                   omokoroa school   1 - 8   coed         omokoroa     state      10   256
+8                      oropi school   1 - 8   coed            oropi     state       9   166
+9                 otamarakau school   1 - 8   coed          te puke     state       5    57
+10                 paengaroa school   1 - 6   coed        paengaroa     state       4   169
+11                    pahoia school   1 - 6   coed           pahoia     state       8   225
+12                 pongakawa school   1 - 8   coed          te puke     state       5   280
+13                  pukehina school   1 - 8   coed         pukehina     state       3    27
+14              pyes pa road school   1 - 8   coed          pyes pa     state       9   168
+15                  rangiuru school   1 - 8   coed          te puke     state       6    60
+16  te kura o te moutere o matakana   1 - 8   coed  matakana island     state       3    38
+17              te puke high school  9 - 13   coed          te puke     state       5   920
+18             te puke intermediate   7 - 8   coed          te puke     state       4   329
+19           te puke primary school   1 - 6   coed          te puke     state       3   297
+20                   te puna school   1 - 8   coed          te puna     state       8   215
+21                  te ranga school   1 - 8   coed          te puke     state       5    99
+22                  tkkm o te matai   1 - 8   coed          te puke     state       2    52
+23               waihi beach school   1 - 6   coed      waihi beach     state       6   250
+24               whakamarama school   1 - 8   coed      whakamarama     state       8    44

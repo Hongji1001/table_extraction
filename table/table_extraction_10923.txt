@@ -1,0 +1,23 @@
+          surname    first               dob bats throws  position
+0         balgera    clint     5 august 1975    l      r        of
+1            dale  lachlan      22 june 1983    r      r       inf
+2            dale  brandon  10 november 1980    r      r        of
+3   de san miguel    allan   1 february 1988    r      r         c
+4           floyd   daniel   17 january 1983    r      r        of
+5          goadby    chris        2 may 1985    r      r         p
+6          graham    mitch  17 february 1986    r      r  inf / of
+7        hendriks     liam  10 february 1989    r      r         p
+8          hughes     luke     2 august 1984    r      r       inf
+9           kelly     mark     18 april 1984    s      r         p
+10       kennelly  matthew     21 april 1989    r      r    c / 1b
+11       kennelly      tim   5 december 1986    r      r  of / inf
+12           kyle   andrew      1 march 1981    s      r       inf
+13           lamb  cameron       20 may 1989    r      r         p
+14     mitchinson    scott  28 december 1984    r      r         p
+15         murphy   travis  15 november 1984    r      r         p
+16         needle      ben       8 july 1977    r      r       inf
+17        peacock    dylan     29 april 1986    r      r         p
+18       risinger      ben  25 november 1977    r      r   1b / of
+19         thomas  brendon  28 february 1979    r      l         p
+20          white     dean  12 february 1983    r      r   p / inf
+21           wise  brendan   9 february 1986    r      r         p

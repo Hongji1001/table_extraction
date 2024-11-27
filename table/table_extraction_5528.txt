@@ -1,0 +1,29 @@
+                           film                         song  year      music director         language
+0               aayutha ezhuthu                 yakkai thiri  2004          a r rahman            tamil
+1                          yuva                        fanaa  2004          a r rahman            hindi
+2                   pudhupettai          poo pesum poo pesum  2005  yuvan shankar raja            tamil
+3           sillunu oru kaadhal        jillendru oru kaadhal  2006          a r rahman            tamil
+4             sivaji : the boss                        style  2007          a r rahman            tamil
+5                        thotta                     anbe vaa  2008       srikanth deva            tamil
+6          jaane tu ya jaane na            pappu can't dance  2008          a r rahman            hindi
+7                        saroja                      my life  2008  yuvan shankar raja          english
+8           slumdog millionaire                gangsta blues  2008          a r rahman  english & hindi
+9           slumdog millionaire                       jai ho  2008          a r rahman  spanish & hindi
+10                    delhi - 6                    dilli - 6  2009          a r rahman            hindi
+11                    delhi - 6                     rehna tu  2009          a r rahman            hindi
+12       snoop dogg millionaire       snoop dogg millionaire  2009      chase & status  english & hindi
+13                     muthirai                july madathil  2009  yuvan shankar raja            tamil
+14  theeradha vilaiyattu pillai  theeradha vilaiyattu pillai  2009  yuvan shankar raja            tamil
+15                       paiyaa                  thuli thuli  2010  yuvan shankar raja            tamil
+16                       paiyaa              en kadhal solla  2010  yuvan shankar raja            tamil
+17                     raavanan                    keda kari  2010          a r rahman            tamil
+18                         puli                   power star  2010          a r rahman           telugu
+19             naan mahaan alla                  iragai pole  2010  yuvan shankar raja            tamil
+20                     enthiran             boom boom roboda  2010          a r rahman            tamil
+21                          goa                          goa  2010  yuvan shankar raja            tamil
+22                          goa               goa (club mix)  2010  yuvan shankar raja            tamil
+23                     billa ii       yedho yedho oru maikam  2012  yuvan shankar raja            tamil
+24                        kadal                magudi magudi  2012          a r rahman            tamil
+25            non - film single  llamalo amor (call it love)  2013               jhawk          spanish
+26                     biriyani                     biriyani  2013  yuvan shankar raja            tamil
+27                     arrambam       hare rama hare krishna  2013  yuvan shankar raja            tamil

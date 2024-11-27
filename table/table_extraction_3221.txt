@@ -1,0 +1,49 @@
+    district          incumbent       party      elected                                 status                                     2010 candidates
+0          1       buddy carter  republican         2009                           re - elected      buddy carter (r) 70.33% carry smith (d) 29.68%
+1          3       jeff chapman  republican         2004              retired , republican hold  william ligon (r) 71.03% griffin lotson (d) 28.97%
+2          4          jack hill  republican         1990                           re - elected                             jack hill (r) unopposed
+3          5      curt thompson  democratic         2004                           re - elected      curt thompson (d) 64.66% garry guan (r) 35.34%
+4          6        doug stoner  democratic         2004                           re - elected      doug stoner (d) 56.51% beth pollard (r) 43.49%
+5          7       greg goggans  republican         2004                           re - elected                          greg goggans (r) unopposed
+6          8         tim golden  democratic         1998                           re - elected                            tim golden (d) unopposed
+7          9        don balfour  republican         1992                           re - elected      don balfour 64.46% (r) rashid malik (d) 35.54%
+8         10      emanuel jones  democratic         2004                           re - elected                         emanuel jones (d) unopposed
+9         11       john bulloch  republican         2002                           re - elected                          john bulloch (r) unopposed
+10        12     freddie p sims  democratic         2008                           re - elected                        freddie p sims (d) unopposed
+11        13      john d crosby  republican         2008                           re - elected                           john crosby (r) unopposed
+12        14       george hooks  democratic         1990                           re - elected                          george hooks (d) unopposed
+13        15        ed harbison  democratic         1992                           re - elected                           ed harbison (d) unopposed
+14        16      ronnie chance  republican         2004                           re - elected                         ronnie chance (r) unopposed
+15        17       john douglas  republican         2004              retired , republican hold     rick jeffares 64.06% (r) jim nichols (d) 35.95%
+16        18       cecil staton  republican         2004                           re - elected                          cecil staton (r) unopposed
+17        19    tommie williams  republican         1998                           re - elected                       tommie williams (r) unopposed
+18        20      ross tolleson  republican         2002                           re - elected                         ross tolleson (r) unopposed
+19        21        chip rogers  republican         2004                           re - elected  chip rogers (r) 80.04% patrick thompson (d) 19.96%
+20        22       hardie davis  democratic         2010                           re - elected                          hardie davis (d) unopposed
+21        23          jb powell  democratic         2004            retired , republican pickup         jesse stone (r) 93.51 diane evans (i) 6.49%
+22        24       bill jackson  republican         2007                           re - elected                          bill jackson (r) unopposed
+23        26       robert brown  democratic         1991                           re - elected                          robert brown (d) unopposed
+24        27        jack murphy  republican         2006                           re - elected                           jack murphy (r) unopposed
+25        28     mitch seabaugh  republican         2000                           re - elected                        mitch seabaugh (r) unopposed
+26        30       bill hamrick  republican         2000                           re - elected        bill hamrick (r) 67.91% pat rhudy (d) 32.09%
+27        32        judson hill  republican         2004                           re - elected                           judson hill (r) unopposed
+28        33     steve thompson  democratic         1990                           re - elected  steve thompson (d) 58.71% craig prewett (r) 41.29%
+29        35     donzella james  democratic  1993 / 2009                                running                        donzella james (d) unopposed
+30        36  nan grogan orrock  democratic         2006                           re - elected                            nan orrock (d) unopposed
+31        37       john j wiles  republican         2004  defeated in primary , republican hold                       lindsey tippins (r) unopposed
+32        38      horacena tate  democratic         1998                           re - elected     horacena tate (d) 64.06% beth beskin (r) 35.94%
+33        39       vincent fort  democratic         1996                           re - elected                          vincent fort (d) unopposed
+34        40          dan weber  republican         2004              retired , republican hold       fran millar (r) 65.33% eric christ (d) 34.67%
+35        41       steve henson  democratic  1990 / 2002                           re - elected     steve henson (d) 57.51% alex johnson (r) 42.49%
+36        42       jason carter  democratic         2010                           re - elected                          jason carter (d) unopposed
+37        45     renee unterman  republican         2002                           re - elected                        renee unterman (r) unopposed
+38        46    william cowsert  republican         2006                           re - elected                       william cowsert (r) unopposed
+39        47      ralph hudgens  republican         2002              retired , republican hold          frank ginn (r) 65.33% tim riley (d) 34.67%
+40        48       david shafer  republican         2002                           re - elected                          david shafer (r) unopposed
+41        49       butch miller  republican         2010                           re - elected                          butch miller (r) unopposed
+42        50    jim butterworth  republican         2008                           re - elected                       jim butterworth (r) unopposed
+43        51       chip pearson  republican         2004              retired , republican hold       steve gooch (r) 81.92% joseph mann (d) 18.08%
+44        52      preston smith  republican         2002              retired , republican hold  barry loudermilk (r) 75.06% mike burton (d) 24.94%
+45        53        jeff mullis  republican         2000                           re - elected                           jeff mullis (r) unopposed
+46        54         don thomas  republican         1996              retired , republican hold                        charlie bethel (r) unopposed
+47        55      gloria butler  democratic         1998                           re - elected                         gloria butler (d) unopposed

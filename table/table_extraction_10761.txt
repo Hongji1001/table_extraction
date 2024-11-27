@@ -1,0 +1,14 @@
+            name v t e pos height weight                    club
+0        zdravko radić  gk      m      -       vk primorac kotor
+1      draško brguljan   d      m      -       vk primorac kotor
+2   vjekoslav pasković   d      m      -       vk primorac kotor
+3      nikola vukčević  cf      m      -              pvk jadran
+4       nikola janović   d      m      -        posillipo naples
+5          milan tičić  cb      m      -  pvk budvanska rivijera
+6       mlađan janović   d      m      -       vk primorac kotor
+7     veljko uskoković   d      m      -  pvk budvanska rivijera
+8    aleksandar ivović  cb      m      -              pvk jadran
+9       boris zloković  cf      m      -        posillipo naples
+10   vladimir gojković   d      m      -              pvk jadran
+11       predrag jokić  cb      m      -               pro recco
+12    miloš šćepanović  gk      m      -              pvk jadran

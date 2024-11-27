@@ -1,0 +1,10 @@
+  state       type   name    title royal house
+0   cai  sovereign     li  marquis          ji
+1   cai  sovereign     wu  marquis          ji
+2   cao  sovereign   xiao    count           -
+3   cao  sovereign     yi    count           -
+4    lu  sovereign   xian     duke          ji
+5    qi  sovereign     ai     duke       jiang
+6   qin  sovereign  feizi    ruler        ying
+7   wey  sovereign   qing  marquis           -
+8   yan  sovereign    hui  marquis           -

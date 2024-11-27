@@ -1,0 +1,16 @@
+    episode  original airdate      timeslot (approx)  viewers (millions)  nightly rank
+0         1       18 may 2008  sunday 6:30 - 7:30 pm               1.351             5
+1         2       25 may 2008  sunday 6:30 - 7:30 pm               1.481             4
+2         3       1 june 2008  sunday 6:30 - 7:30 pm               1.514             4
+3         4       8 june 2008  sunday 6:30 - 7:30 pm               1.364             4
+4         5      15 june 2008  sunday 6:30 - 7:30 pm               1.515             3
+5         6      22 june 2008  sunday 6:30 - 7:30 pm               1.506             4
+6         7      29 june 2008  sunday 6:30 - 7:30 pm               1.512             4
+7         8       6 july 2008  sunday 6:30 - 7:30 pm               1.578             2
+8         9      13 july 2008  sunday 6:30 - 7:30 pm               1.680             2
+9        10      20 july 2008  sunday 6:30 - 7:30 pm               1.432             3
+10       11      27 july 2008  sunday 6:30 - 7:30 pm               1.547             4
+11       12    31 august 2008  sunday 6:30 - 7:30 pm               1.462             4
+12       13  7 september 2008  sunday 6:30 - 7:30 pm               1.349             4
+13       14  10 november 2008  monday 7:30 - 9:00 pm               1.677             1
+14       15  17 november 2008  monday 7:30 - 8:30 pm               1.324             4

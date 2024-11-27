@@ -1,0 +1,11 @@
+   year                    award                           category                                     nominated     result
+0  2008  tv adicto golden awards                  female revelation                                 maite perroni        won
+1  2008  tv adicto golden awards                    male revelation                                  william levy        won
+2  2008  tv adicto golden awards                        best couple                maite perroni and william levy        won
+3  2009         tvynovelas award        best telenovela of the year                           nathalie lartilleux  nominated
+4  2009         tvynovelas award            best young lead actress                                 maite perroni        won
+5  2009         tvynovelas award                 best first actress                                   helena rojo        won
+6  2009         tvynovelas award  best original story or adaptation                                  delia fiallo  nominated
+7  2009         tvynovelas award                     best direction  víctor manuel fouilloux and víctor rodríguez  nominated
+8  2009         premios juventud                     what a hottie!                                  william levy        won
+9  2009         premios juventud                  girl of my dreams                                 maite perroni        won

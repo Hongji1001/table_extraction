@@ -1,0 +1,7 @@
+                 name              circuit     date            winning drivers winning constructor  report
+0  italian grand prix                monza   24 may           giuseppe campari          alfa romeo  report
+1  italian grand prix                monza   24 may             tazio nuvolari          alfa romeo  report
+2   french grand prix            montlhéry  21 june               louis chiron             bugatti  report
+3   french grand prix            montlhéry  21 june              achille varzi             bugatti  report
+4  belgian grand prix  spa - francorchamps  12 july  william grover - williams             bugatti  report
+5  belgian grand prix  spa - francorchamps  12 july            caberto conelli             bugatti  report

@@ -1,0 +1,18 @@
+                player  no    nationality          position years in toronto school / club team
+0         john wallace  44  united states           forward        1997 - 99           syracuse
+1          sonny weems  24  united states             guard      2009 - 2011           arkansas
+2     donald whiteside  12  united states             guard        1996 - 97  northern illinois
+3     dwayne whitfield  23  united states           forward        1995 - 96      jackson state
+4       aaron williams  34  united states  forward - center        2004 - 05      xavier (ohio)
+5       alvin williams  20  united states             guard      1998 - 2006          villanova
+6        eric williams  17  united states           forward        2004 - 06         providence
+7        herb williams  32  united states  forward - center             1996         ohio state
+8      jerome williams  13  united states           forward        2001 - 03         georgetown
+9     micheal williams  14  united states             guard        1998 - 99             baylor
+10       walt williams  42  united states   guard - forward        1996 - 98           maryland
+11  corliss williamson  35  united states           forward        2000 - 01           arkansas
+12        kevin willis  42  united states            center      1998 - 2001     michigan state
+13         loren woods   3  united states            center        2004 - 06            arizona
+14    haywoode workman   3  united states             guard             2000       oral roberts
+15      antoine wright  21  united states   guard - forward        2009 - 10          texas a&m
+16       julian wright  14  united states     small forward      2010 - 2011             kansas

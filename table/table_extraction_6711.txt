@@ -1,0 +1,14 @@
+             player  rec  yards   avg  td 's  long
+0     chris jackson  145   1915  13.2     47    46
+1     troy bergeron  132   1736  13.2     41    49
+2         derek lee   83    886  10.7     20    45
+3   andy mccullough   60    434   7.2      3    21
+4       carl morris   14    145  10.4      5    40
+5      matt huebner    5     62  12.4      1    20
+6        fitu tu'ua    4     39   9.8      1    23
+7     bruce mcclure    3     23   7.7      1    11
+8   jarrick hillery    1     22  22.0      0    22
+9      john ritcher    2     20  10.0      2    17
+10      shane grice    1      7   7.0      0     7
+11      marcus keys    1      6   6.0      0     6
+12      james clark    2      5   2.5      0     4

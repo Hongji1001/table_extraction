@@ -1,0 +1,11 @@
+   year          english title                 original title                        country          director (s)
+0  1990         the nasty girl       das schreckliche mädchen                        germany     michael verhoeven
+1  1991          europa europe                  europa europa                        germany     agnieszka holland
+2  1992  raise the red lantern  da hong deng long gao gao gua     china / hong kong / taiwan           zhang yimou
+3  1993  farewell my concubine                 ba wang bie ji                      hong kong            chen kaige
+4  1994    three colours : red         trois couleurs : rouge  france / poland / switzerland  krzysztof kieslowski
+5  1995             wild reeds           les roseaux sauvages                         france         andré téchiné
+6  1996      the white balloon                badkonake sefid                           iran          jafar panahi
+7  1997                ponette                        ponette                         france       jacques doillon
+8  1998        the celebration                         festen                        denmark     thomas vinterberg
+9  1999    all about my mother            todo sobre mi madre                          spain       pedro almodóvar

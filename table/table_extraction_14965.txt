@@ -1,0 +1,6 @@
+       opposing team  against            date                            venue       status      report
+0             canada       10  02 / 06 / 2001     fletcher 's fields , markham   first test  bbc report
+1   british columbia       19  05 / 06 / 2001  thunderbird stadium , vancouver   tour match  bbc report
+2             canada       20  09 / 06 / 2001       swangard stadium , burnaby  second test  bbc report
+3  united states 'a'       21  12 / 06 / 2001                      los angeles   tour match  bbc report
+4      united states       19  16 / 06 / 2001       balboa stadium , san diego   test match  bbc report

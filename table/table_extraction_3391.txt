@@ -1,0 +1,28 @@
+    pick                               nfl team            player position                      pro team                 college
+0     57                   tampa bay buccaneers        alex clark       db          new orleans breakers                     lsu
+1     58                         houston oilers       lynn madsen       dt           new jersey generals              washington
+2     59                        new york giants      kirby warren       rb           los angeles express                 pacific
+3     60                    philadelphia eagles     thomas carter       lb              oakland invaders         san diego state
+4     61                     kansas city chiefs       garcia lane       cb            philadelphia stars              ohio state
+5     62                     san diego chargers  clarence collins       wr           new jersey generals          illinois state
+6     63                        atlanta falcons  dennis woodberry       db          birmingham stallions       southern arkansas
+7     64                          new york jets       turner gill       qb        montreal concordes cfl                nebraska
+8     65                     cincinnati bengals      tom kilkenny       lb                 chicago blitz                  temple
+9     66                     indianapolis colts       byron smith       dt  saskatchewan roughriders cfl              california
+10    67                      minnesota vikings      david howard       lb           los angeles express        long beach state
+11    68                          buffalo bills        don corbin       ot            pittsburgh maulers                kentucky
+12    69                     new orleans saints     steve dearden       lb             memphis showboats              vanderbilt
+13    70                   new england patriots      walter lewis       qb             memphis showboats                 alabama
+14    71  cleveland browns (from chicago bears)         doug west       lb            jacksonville bulls                    ucla
+15    72                      green bay packers     john sullivan       db              oakland invaders              california
+16    73                     st louis cardinals       tim riordan       qb            philadelphia stars                  temple
+17    74                          detroit lions       doug hollie       de            pittsburgh maulers                     smu
+18    75                       los angeles rams         jim byrne       nt            philadelphia stars    wisconsin - lacrosse
+19    76                       seattle seahawks      frank seurer       qb           los angeles express                  kansas
+20    77                       cleveland browns         john bond       qb  saskatchewan roughriders cfl       mississippi state
+21    78                         denver broncos      reggie smith       ot             tampa bay bandits                  kansas
+22    79                    pittsburgh steelers        phil boren       ot          birmingham stallions                arkansas
+23    80                    san francisco 49ers     mark schellen       rb          new orleans breakers                nebraska
+24    81                         dallas cowboys         jeff spek       te           new jersey generals         san diego state
+25    82                         miami dolphins        duan hanks       wr            philadelphia stars        stephen f austin
+26    83                    washington redskins   clarence verdin       wr              houston gamblers  southwestern louisiana

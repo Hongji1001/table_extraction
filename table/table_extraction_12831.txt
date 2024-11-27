@@ -1,0 +1,17 @@
+    week                 date              opponent     result  attendance
+0      2  september 10 , 2000      cleveland browns   l 24 - 7       64006
+1      3  september 17 , 2000  jacksonville jaguars   l 13 - 0       45653
+2      4  september 24 , 2000      baltimore ravens   l 37 - 0       68481
+3      5     october 1 , 2000        miami dolphins  l 31 - 16       61535
+4      6     october 8 , 2000      tennessee titans  l 23 - 14       63406
+5      7    october 15 , 2000   pittsburgh steelers   l 15 - 0       54328
+6      8    october 22 , 2000        denver broncos  w 31 - 21       61603
+7      9    october 29 , 2000      cleveland browns   w 12 - 3       73118
+8     10    november 5 , 2000      baltimore ravens   l 27 - 7       54759
+9     11   november 12 , 2000        dallas cowboys   l 23 - 6       62170
+10    12   november 19 , 2000  new england patriots  l 16 - 13       60292
+11    13   november 26 , 2000   pittsburgh steelers  l 48 - 28       63925
+12    14    december 3 , 2000     arizona cardinals  w 24 - 13       50289
+13    15   december 10 , 2000      tennessee titans   l 35 - 3       68498
+14    16   december 17 , 2000  jacksonville jaguars  w 17 - 14       50469
+15    17   december 24 , 2000   philadelphia eagles   l 16 - 7       64902

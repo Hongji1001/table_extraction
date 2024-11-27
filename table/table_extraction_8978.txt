@@ -1,0 +1,8 @@
+   year          venue           winner    runner - up            third
+0  2004  wolverhampton      daniel king   james wright   edward kennett
+1  2005  wolverhampton   william lawson  lewis bridger  jack hargreaves
+2  2006  wolverhampton    lewis bridger  tai woffinden       ben barker
+3  2007  wolverhampton    tai woffinden  lewis bridger       joe haines
+4  2008     scunthorpe    tai woffinden      josh auty      jerran hart
+5  2009     scunthorpe      jerran hart   kyle howarth      kyle newman
+6  2010       somerset  brendan johnson     joe jacobs     kyle howarth

@@ -1,0 +1,6 @@
+                          name      circuit          date    winning driver winning constructor  report
+0                   cuban race       havana   12 february   victor demogeot             darracq  report
+1                 targa florio      madonie         6 may  alessandro cagno               itala  report
+2         circuit des ardennes     bastogne     13 august      arthur duray         de dietrich  report
+3  vanderbilt elimination race  long island  22 september         joe tracy          locomobile  report
+4               vanderbilt cup  long island     6 october      louis wagner             darracq  report

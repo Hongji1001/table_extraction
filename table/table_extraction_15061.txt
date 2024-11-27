@@ -1,0 +1,12 @@
+   place            player        country  score to par
+0      1  seve ballesteros          spain     66    - 4
+1     t2         chip beck  united states     67    - 3
+2     t2      martin gates        england     67    - 3
+3     t2     santiago luna          spain     67    - 3
+4     t5        nick faldo        england     68    - 2
+5     t5     gary hallberg  united states     68    - 2
+6     t5      mike harwood      australia     68    - 2
+7     t5        barry lane        england     68    - 2
+8     t5      mark mouland          wales     68    - 2
+9     t5         mike reid  united states     68    - 2
+10    t5  costantino rocca          italy     68    - 2

@@ -1,0 +1,12 @@
+                            place   code  area (km 2 )  population most spoken language
+0             abantungwa / kholwa  51401        245.25       57273                 zulu
+1                         colenso  51402          4.90        4476                 zulu
+2                        ezakheni  51404         39.00       59943                 zulu
+3                   kliprivier nu  51406          2.80         381                 zulu
+4                      kliprivier  51405        107.21       27696                 zulu
+5                       ladysmith  51407         91.97       41425                 zulu
+6                          mchunu  51408         34.42        2301                 zulu
+7                         mthembu  51409         80.70        6920                 zulu
+8                         mvelani  51410          2.43       11898                 zulu
+9                        nkankezi  51411          4.86         824                 zulu
+10  remainder of the municipality  51403       2350.72       12316                 zulu

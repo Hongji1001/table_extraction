@@ -1,0 +1,33 @@
+    nat                   name          since  goals         ends  transfer fee
+0   esp   iker casillas ( vc )           1999      0         2017  youth system
+1   esp           jordi codina           2007      0         2010  youth system
+2   pol            jerzy dudek           2007      0         2009          free
+3   ita        fabio cannavaro           2006      2         2009          10 m
+4   por                   pepe           2007      0         2012          30 m
+5   ger    christoph metzelder           2007      0         2010          free
+6   esp           sergio ramos           2005     22         2013          27 m
+7   esp  míchel salgado ( vc )           1999      5         2009          11 m
+8   esp          miguel torres           2007      0         2012  youth system
+9   arg         gabriel heinze           2007      3         2011          12 m
+10  bra                marcelo  2007 (winter)      4         2012         6.5 m
+11  fra         lassana diarra  2009 (winter)      0         2013          20 m
+12  arg          fernando gago  2007 (winter)      1         2012          20 m
+13  mli       mahamadou diarra           2006      4         2011          26 m
+14  esp            javi garcía           2004      0         2012           4 m
+15  esp        rubén de la red           2004      3         2011         4.7 m
+16  esp            guti ( vc )           1995     77         2010  youth system
+17  esp            dani parejo  2009 (winter)      0         2011  youth system
+18  ned        wesley sneijder           2007     11         2012          27 m
+19  ned   rafael van der vaart           2008      5         2013          13 m
+20  ned        royston drenthe           2007      4         2012          13 m
+21  fra         julien faubert  2009 (winter)      0         2009          loan
+22  ned           arjen robben           2007     13         2012          36 m
+23  arg        gonzalo higuaín  2007 (winter)     35         2013          13 m
+24  esp       raúl ( captain )           1994    316         2011  youth system
+25  arg         javier saviola           2007      7         2011          free
+26  ned    ruud van nistelrooy           2006     63         2010          15 m
+27  ned  klaas - jan huntelaar  2009 (winter)      8         2013          20 m
+28  esp          alberto bueno           2008      1  undisclosed  youth system
+29  esp         miquel palanca           2008      0  undisclosed  youth system
+30  uru       gary kagelmacher           2008      0  undisclosed  youth system
+31  esp           marcos tébar           2008      0  undisclosed  youth system

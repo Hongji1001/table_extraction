@@ -1,0 +1,9 @@
+         country  launches  successes  failures  partial failures
+0         europe         6          6         0                 0
+1          india         3          1         2                 0
+2         israel         1          1         0                 0
+3          japan         2          2         0                 0
+4          china        15         15         0                 0
+5   russia / cis        31         30         1                 0
+6    south korea         1          0         1                 0
+7  united states        15         15         0                 0

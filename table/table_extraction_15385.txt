@@ -1,0 +1,25 @@
+    province , community                      contestant height                 hometown    geographical regions
+0                   azua         niurbi encarnación ynoa    5'7          padre las casas  el valle de enriquillo
+1               barahona           esther tejeda cardona    5'9   santa cruz de barahona  el valle de enriquillo
+2    com dom lto america               lussy mejía durán    5'9                   madrid                exterior
+3          com dom miami           llena bencosme vargas    5'8                    miami                exterior
+4     com dom nueva york        viviana batista holandez    5'7              long island                exterior
+5   com dom rhode island       elizabeth espinal heredia    5'9          east providence                exterior
+6      distrito nacional  lucia carolina collado sánchez    6'0             vílla duarte                   ozama
+7               el seibo              sally garcía meran    5'8                   miches                 higüamo
+8          independencia          alma ynes ruiz hidalgo    6'1                  duvergé  el valle de enriquillo
+9          la altagracia        seily reyna then tavares    5'8                   bávaro                 higüamo
+10             la romana              elecia mateo abreu    5'9                 guaymate                 higüamo
+11        monseñor nouel        katherine ceballos miros   5'10            piedra blanca          cibao oriental
+12            pedernales  susie germania alfonseca matos   5'11     san miguel de oviedo  el valle de enriquillo
+13          puerto plata                    carol fuente    6'0                   imbert        cibao occidental
+14               salcedo            andrea suarez lazaro   5'11             jamao afuera          cibao oriental
+15                samaná          carolyn aquino fantino    5'7  santa bárbara de samaná          cibao oriental
+16       sánchez ramírez           alejandra marte abreu    5'8              quita sueño          cibao oriental
+17         san cristóbal   ada aimee de la cruz gonzález   5'11            san cristóbal                   ozama
+18      san josé de ocoa                lila león zamora    5'8               la ciénaga                   ozama
+19  san pedro de macorís               emma lazaro taino   5'10                 consuelo                 higüamo
+20              santiago         smaylin almonte reynosa   5'11                navarrete        cibao occidental
+21    santiago rodríguez    arlette mabel rodríguez ruiz    6'0  san ignacio de sabaneta        cibao occidental
+22         santo domingo     yisney lina lagrange méndez   5'11              pedro brand                   ozama
+23              valverde         evelyn rodríguez grillo    6'0                   maizal        cibao occidental

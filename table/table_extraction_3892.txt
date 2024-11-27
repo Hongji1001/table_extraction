@@ -1,0 +1,14 @@
+    Unnamed: 0                 name          position  height  weight       year                              former school             hometown
+0            1      ron anderson jr           forward   6 - 8     255  rs junior             kansas state / mccallie school  upper marlboro , md
+1            3       lavonte dority             guard   6 - 1     195   freshman                                 foreman hs         chicago , il
+2            5       jawanza poland             guard   6 - 4     200  sophomore               hutchinson cc / wichita east         wichita , ks
+3           10       anthony crater             guard   6 - 1     170     junior   ohio state university / brewster academy           flint , mi
+4           11      shedrick haynes             guard   6 - 0     180     junior             lackawanna college / booker hs        sarasota , fl
+5           13         jordan heath             guard   6 - 0     185   freshman                                 tampa prep         detroit , mi
+6           22        shaun noriega             guard   6 - 4     195  sophomore                              north port hs      north port , fl
+7           23         mike burwell             guard   6 - 6     210  sophomore  south kent school / cardinal mccarrick hs  east brunswick , nj
+8           24   augustus gilchrist  forward / center  6 - 10     245     junior   maryland / progressive christian academy         clinton , md
+9           25       alberto damour           forward   6 - 5     225     senior                               poinciana hs       poinciana , fl
+10          31        jarrid famous  forward / center  6 - 11     240     senior      westchester cc / blessed sacrament hs           bronx , ny
+11          32  toarlyn fitzpatrick           forward   6 - 8     230  sophomore                                    king hs           tampa , fl
+12          34       hugh robertson             guard   6 - 6     202     junior              tallahassee cc / northeast hs           macon , ga

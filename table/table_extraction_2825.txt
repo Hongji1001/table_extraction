@@ -1,0 +1,6 @@
+  name of village name in syriac  number of believers  number of priests  number of churches
+0          salmas           ܣܠܡܣ                  500                  3                   2
+1        khosrowa        ܟܘܣܪܒܐܕ                 3700                  7                   3
+2         patavur          ܦܬܒܘܪ                 2800                  4                   2
+3         gawilan          ܓܘܝܠܢ                 1000                  3                   1
+4             ula           ܐܘܠܐ                  400                  2                   1

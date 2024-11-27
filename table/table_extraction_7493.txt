@@ -1,0 +1,7 @@
+  call sign  frequency mhz           city of license  erp w fcc info
+0    w211bf           90.1  big stone gap , virginia    8.0      fcc
+1    w212bp           90.3      clintwood , virginia    1.0      fcc
+2    w211be           90.1        lebanon , virginia    8.5      fcc
+3    w219cj           91.7         norton , virginia   50.0      fcc
+4    w217bf           91.3          pound , virginia    1.0      fcc
+5    w215bj           90.9     saint paul , virginia    1.0      fcc

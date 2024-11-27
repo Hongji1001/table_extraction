@@ -1,0 +1,24 @@
+                                  driver             constructor  laps time / retired  grid
+0       luigi fagioli juan manuel fangio              alfa romeo    77      3:22:11.0     7
+1   josé froilán gonzález alberto ascari                 ferrari    77         + 58.2     6
+2                        luigi villoresi                 ferrari    74       + 3 laps     4
+3                            reg parnell                 ferrari    73       + 4 laps     9
+4                            nino farina              alfa romeo    73       + 4 laps     2
+5                           louis chiron  talbot - lago - talbot    71       + 6 laps     8
+6                yves giraud - cabantous  talbot - lago - talbot    71       + 6 laps    11
+7                         eugène chaboud  talbot - lago - talbot    69       + 8 laps    14
+8                           guy mairesse  talbot - lago - talbot    66      + 11 laps    19
+9                        consalvo sanesi              alfa romeo    58      + 19 laps     5
+10      juan manuel fangio luigi fagioli              alfa romeo    55      + 22 laps     1
+11                          johnny claes  talbot - lago - talbot    54       accident    12
+12                          louis rosier  talbot - lago - talbot    43   transmission    13
+13                    philippe étancelin  talbot - lago - talbot    37         engine    10
+14                          aldo gordini         simca - gordini    27         engine    17
+15                          harry schell                maserati    23    overheating    22
+16                   maurice trintignant         simca - gordini    11         engine    18
+17                        alberto ascari                 ferrari    10        gearbox     3
+18                           andré simon         simca - gordini     7         engine    21
+19                         robert manzon         simca - gordini     3         engine    23
+20                        onofre marimón       maserati - milano     2         engine    15
+21                  toulo de graffenried                maserati     1   transmission    16
+22                       peter whitehead                 ferrari     1         engine    20

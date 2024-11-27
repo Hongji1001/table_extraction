@@ -1,0 +1,8 @@
+   pick                  cfl team           player position            college
+0    35     hamilton tiger - cats  michael roberts       cb         ohio state
+1    36     winnipeg blue bombers    david stevens       rb       saskatchewan
+2    37  saskatchewan roughriders  jesse alexander       lb    wilfrid laurier
+3    38        calgary stampeders  derek armstrong       ol  st francis xavier
+4    39         toronto argonauts     brian ramsay       ol         new mexico
+5    40                  bc lions   mike lindstrom       sb   british columbia
+6    41        montreal alouettes      joel wright       db    wilfrid laurier

@@ -1,0 +1,12 @@
+    year  class     team  points  rank  wins
+0   1969  125cc    maico       4  40th     0
+1   1969  250cc   yamaha      45   5th     0
+2   1970  125cc    maico      62   3rd     0
+3   1970  250cc   yamaha      34   5th     0
+4   1971  125cc    maico      64   3rd     0
+5   1971  250cc   yamaha       9  21st     0
+6   1972   50cc  jamathi      10  12th     0
+7   1972  125cc    maico      78   4th     2
+8   1972  250cc   yamaha      36   8th     1
+9   1973  125cc    maico      64   4th     1
+10  1973  250cc   yamaha      12  18th     0

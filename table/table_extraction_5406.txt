@@ -1,0 +1,7 @@
+   rank                                          nation  gold  silver  bronze  total
+0     1                                           italy    29      28      28     85
+1     2                                         austria    19      21      21     61
+2     3                             russia (since 1994)     7       7       2     16
+3     4                                          poland     0       0       4      4
+4     5  commonwealth of independent states (1992 only)     1       0       0      1
+5     6                        soviet union (1979 - 90)     0       0       1      1

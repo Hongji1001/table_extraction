@@ -1,0 +1,6 @@
+       dvd name  episodes region 1            region 2     region 4
+0    season one        24    n / a     april 26 , 2010  sept , 2010
+1    season two        18    n / a  september 6 , 2010        n / a
+2  season three        18    n / a               n / a        n / a
+3   season four        18    n / a               n / a        n / a
+4   season five        18    n / a               n / a        n / a

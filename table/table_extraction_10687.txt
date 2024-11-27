@@ -1,0 +1,15 @@
+    week                 date             opponent     result  attendance
+0      1  september 16 , 1962       dallas cowboys  t 35 - 35       15730
+1      2  september 23 , 1962     cleveland browns  w 17 - 16       57491
+2      3  september 30 , 1962   st louis cardinals  w 24 - 14       37419
+3      4     october 7 , 1962     los angeles rams  w 20 - 14       18104
+4      5    october 14 , 1962   st louis cardinals  t 17 - 17       38264
+5      6    october 21 , 1962  philadelphia eagles  w 27 - 21       60671
+6      7    october 28 , 1962      new york giants  l 49 - 34       62844
+7      8    november 4 , 1962       dallas cowboys  l 38 - 10       49888
+8      9   november 11 , 1962     cleveland browns   w 17 - 9       48169
+9     10   november 18 , 1962  pittsburgh steelers  l 23 - 21       21231
+10    11   november 25 , 1962      new york giants  l 42 - 24       49219
+11    12    december 2 , 1962  philadelphia eagles  l 37 - 14       32229
+12    13    december 8 , 1962      baltimore colts  l 34 - 21       56964
+13    14   december 16 , 1962  pittsburgh steelers  l 27 - 24       34508

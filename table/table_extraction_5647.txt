@@ -1,0 +1,13 @@
+    rank                                  name          nation  placings  total
+0      1         karol kennedy / peter kennedy   united states      15.0  96.07
+1      2           jennifer nicks / john nicks  united kingdom      28.5  92.70
+2      3           marianne nagy / lászló nagy         hungary      32.0  92.25
+3      4      elianne steineman / andré calamé     switzerland      44.5  90.00
+4      5     suzanne gheldorf / jacques rénard         belgium      48.5  89.43
+5      6            elly stärck / harry gareis         austria      61.0  88.08
+6      7      marlene smith / donald gilchrist          canada      63.0  87.07
+7      8     joan waterhouse / gordon holloway  united kingdom      62.0  88.31
+8      9  liliane de becker / edmund verbustel         belgium      64.0  88.42
+9     10   irene maguire / walter muehlbronner   united states      82.0  84.26
+10    11              sybil cooke / bob hudson  united kingdom      93.5  83.47
+11    12        denise favart / jacques favart          france     108.0  77.73

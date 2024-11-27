@@ -1,0 +1,16 @@
+    rank                name  nationality                     team  points
+0      1     davide rebellin        italy             gerolsteiner     157
+1      2  alejandro valverde        spain         caisse d'epargne     107
+2      3      danilo di luca        italy                 liquigas     100
+3      4        óscar freire        spain                 rabobank      82
+4      5       stuart ogrady    australia                 team csc      79
+5      6   stefan schumacher      germany             gerolsteiner      75
+6      7       fränk schleck   luxembourg                 team csc      63
+7      8      juan josé cobo        spain   saunier duval - prodir      62
+8      9    alberto contador        spain        discovery channel      58
+9     10          tom boonen      belgium  quick step - innergetic      57
+10    11       thomas dekker  netherlands                 rabobank      55
+11    12      andreas klöden      germany                   astana      53
+12    13    vladimir karpets       russia         caisse d'epargne      52
+13    14   alessandro ballan        italy        lampre - fondital      50
+14    15    matthias kessler      germany                   astana      50

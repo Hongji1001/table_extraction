@@ -1,0 +1,12 @@
+                               race name       circuit         date      winning driver       constructor  report
+0   x gran premio ciudad de buenos aires       mendoza   5 february  juan manuel fangio  lancia - ferrari  report
+1                       iv glover trophy      goodwood      2 april       stirling moss          maserati  report
+2             vi gran premio di siracusa      syracuse     15 april  juan manuel fangio  lancia - ferrari  report
+3                    xi barc aintree 200       aintree     21 april       stirling moss          maserati  report
+4          vii brdc international trophy   silverstone        5 may       stirling moss           vanwall  report
+5               ix gran premio di napoli     posillipo        6 may       robert manzon           gordini  report
+6                          i aintree 100       aintree      24 june        horace gould          maserati  report
+7                       i vanwall trophy    snetterton      22 july       roy salvadori          maserati  report
+8                  iv grand prix de caen          caen    26 august        harry schell          maserati  report
+9                       ii sussex trophy      goodwood  8 september       roy salvadori   cooper - climax  report
+10                i brscc formula 1 race  brands hatch   14 october  archie scott brown  connaught - alta  report

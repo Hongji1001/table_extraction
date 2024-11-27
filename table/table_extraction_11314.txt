@@ -1,0 +1,13 @@
+                   name height weight    spike           2012 club
+0        annerys vargas      m      -  cm (in)  criollas de caguas
+1      lisvel elisa eve      m      -  cm (in)  mirador volleyball
+2   brenda castillo (l)      m      -  cm (in)       san cristóbal
+3         niverka marte      m      -  cm (in)  deportivo nacional
+4         cándida arias      m      -  cm (in)       san cristóbal
+5         sidarka núñez      m      -  cm (in)        club malanga
+6   milagros cabral (c)      m      -  cm (in)       los cachorros
+7       karla echenique      m      -  cm (in)  deportivo nacional
+8          cindy rondón      m      -  cm (in)  mirador volleyball
+9       prisilla rivera      m      -  cm (in)           san pedro
+10          gina mambrú      m      -  cm (in)       los cachorros
+11  bethania de la cruz      m      -  cm (in)  deportivo nacional

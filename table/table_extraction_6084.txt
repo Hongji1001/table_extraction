@@ -1,0 +1,42 @@
+                                 tie no                            home team                                score                            away team                           attendance
+0                                     5                           liversedge                                4 - 3                glasshoughton welfare                                  160
+1                                    13                       sunderland rca                                0 - 3                           crook town                                   32
+2                                    15                           selby town                                1 - 0                pontefract collieries                                  123
+3                                    25                      bishop auckland                                1 - 2           chester - le - street town                                  123
+4                                    29                  atherton collieries                                5 - 0                      rossington main                                  150
+5                                    44            brierley hill & withymoor                                4 - 0                          castle vale                                   79
+6                                    45                           stapenhill                                1 - 2                  loughborough dynamo                                  103
+7                                    48                            new mills                                5 - 1                      pegasus juniors                                  222
+8                                    49                          dudley town                                0 - 5                             glapwell                                   71
+9                                    50                          arnold town                                1 - 1                         shifnal town                                  176
+10  shifnal town won 6 - 5 on penalties  shifnal town won 6 - 5 on penalties  shifnal town won 6 - 5 on penalties  shifnal town won 6 - 5 on penalties  shifnal town won 6 - 5 on penalties
+11                                   53                      coventry sphinx                                2 - 2                             teversal                                  112
+12      teversal won 6 - 5 on penalties      teversal won 6 - 5 on penalties      teversal won 6 - 5 on penalties      teversal won 6 - 5 on penalties      teversal won 6 - 5 on penalties
+13                                   58                       oldbury united                                1 - 0                        norton united                                   71
+14                                   62                           alvechurch                                6 - 0                     cadbury athletic                                   89
+15                                   64                       newcastle town                                1 - 2                              barwell                                  136
+16                                   65                            leek csob                                0 - '                          tipton town                                   69
+17                                   66               wellington (herefords)                                3 - 2                       coleshill town                                  113
+18                                   75                         debenham l c                                2 - 0           felixstowe & walton united                                  189
+19                                   82                          london apsa                                4 - 3               sporting bengal united                                   71
+20                                   83                   wootton blue cross                                4 - 3                  saffron walden town                                   67
+21                                   86                      desborough town                                2 - 3                           fc clacton                                  100
+22                                   87             broxbourne borough v & e                                2 - 1                   biggleswade united                                   89
+23                                   96                  wellingborough town                                2 - 0                        halstead town                                  148
+24                                   99                       stanway rovers                                2 - 1                        bedfont green                                   55
+25                                  100                          cockfosters                                3 - 2                       southend manor                                   88
+26                                  101                  sawbridgeworth town                                2 - 4                       tiptree united                                   81
+27                                  104                              wembley                                3 - 0                     haringey borough                                   57
+28                                  115                            deal town                                4 - 2                     raynes park vale                                   98
+29                                  119                       faversham town                                3 - 0                              lancing                                  104
+30                                  120                              bookham                                1 - 2                            lordswood                                  121
+31                                  121                  east grinstead town                                0 - 3                            herne bay                                  118
+32                                  126                        hailsham town                                2 - 0                               pagham                                   76
+33                                  127                        chertsey town                                3 - 0                                 wick                                  138
+34                                  134                            carterton                                0 - 3                         fareham town                                   54
+35                                  135                 wootton bassett town                                2 - 1                       highworth town                                  156
+36                                  140                           shrivenham                                1 - 2                           kidlington                                  162
+37                                  151                        milton united                                0 - 1                        bicester town                                  135
+38                                  152                           calne town                                0 - 3                      hungerford town                                   92
+39                                  158                        radstock town                                0 - 2                       shepton mallet                                   56
+40                                  162                          shaftesbury                                0 - 3                    liskeard athletic                                  119

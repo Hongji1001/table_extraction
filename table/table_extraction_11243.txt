@@ -1,0 +1,8 @@
+                   airlines iata icao      callsign  commenced operations
+0      jetstar asia airways   3k  jsa  jetstar asia                  2004
+1                     scoot   tz  sco       scooter                  2012
+2                   silkair   mi  slk       silkair                  1976
+3        singapore airlines   sq  sia     singapore                  1947
+4  singapore airlines cargo   sq  sqc     singcargo                  2001
+5                  tigerair   tr  tgw        go cat                  2003
+6                   valuair   vf  vlu       valuair                  2004

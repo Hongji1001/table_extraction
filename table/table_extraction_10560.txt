@@ -1,0 +1,11 @@
+   round  pick           player position school / club team
+0      1    18       joe flacco       qb           delaware
+1      2    55         ray rice       rb            rutgers
+2      3    71   tavares gooden       lb         miami (fl)
+3      3    86    tom zbikowski       ss         notre dame
+4      3    99    oniel cousins       og               utep
+5      4   106     marcus smith       wr         new mexico
+6      4   133       david hale       ot        weber state
+7      6   206  haruki nakamura       fs              cincy
+8      7   215    justin harper       wr                 vt
+9      7   240    allen patrick       rb                 ou

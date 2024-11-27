@@ -1,0 +1,29 @@
+        nat                  name          since  goals  ends  transfer fee
+0       dnk  christiansen ( vc1 )           2005      0  2012   undisclosed
+1       cze               pospech  2008 (winter)      5  2011      dkk 14 m
+2       dnk      n jensen ( vc2 )  2007 (winter)     10  2009          free
+3       dnk            nørregaard           2006     31  2010          free
+4       dnk   laursen ( captain )  2008 (winter)      0  2011   undisclosed
+5       dnk                 würtz           2007      0  2012       dkk 7 m
+6       bra                ailton  2007 (winter)     29  2011      dkk 22 m
+7       dnk         kvist ( vc3 )           2004     10  2012  youth system
+8       dnk            nordstrand           2007     32  2012      dkk 15 m
+9   dnk grl              grønkjær           2006     14  2010      dkk 15 m
+10      bra                santin           2008     16  2013      dkk 15 m
+11      swe               larsson           2008      0  2013      dkk 15 m
+12      can            hutchinson  2006 (winter)     26  2010       dkk 8 m
+13      sen                n'doye  2009 (winter)      5  2013      dkk 15 m
+14      swe             antonsson           2007      2  2011   undisclosed
+15      dnk            kristensen           2008      1  2012   undisclosed
+16      swe                 wendt           2006      2  2010       dkk 6 m
+17      bra                junior  2008 (winter)     15  2010   undisclosed
+18      dnk              vingaard  2009 (winter)      3  2012       dkk 8 m
+19      swe                wiland  2009 (winter)      0  2014       dkk 8 m
+20      cze                sionko           2007     12  2011          free
+21      dnk                 zanka           2007      3  2012   undisclosed
+22      dnk                hansen           2006      0  2008  youth system
+23      dnk              neestrup           2007      0  2009  youth system
+24      dnk               laudrup           2007      0  2009  youth system
+25      dnk              d jensen           2008      0  2011  youth system
+26      dnk           albrechtsen           2008      0  2010  youth system
+27      aus                   coe  2007 (winter)      0  2009   undisclosed

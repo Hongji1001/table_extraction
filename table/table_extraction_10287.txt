@@ -1,0 +1,10 @@
+      wrestler :  times :               date :                           place :  successful defenses :
+0    white lotus        1        may 19 , 2007              egg harbor city , nj                      0
+1  diego demarco        1     august 11 , 2007              egg harbor city , nj                      1
+2    judas young        1     january 5 , 2008              egg harbor city , nj                      3
+3      ryan wing        1       june 21 , 2008          egg harbor township , nj                      0
+4            rv1        1       july 26 , 2008              egg harbor city , nj                      3
+5        ryu lee        1    january 24 , 2009                    hammonton , nj                      0
+6   razor rivera        1   february 28 , 2009                     barnegat , nj                      0
+7        ryu lee        2      march 21 , 2009          egg harbor township , nj                      3
+8     josh adams        1  september 25 , 2009  egg harbor township , new jersey                      2

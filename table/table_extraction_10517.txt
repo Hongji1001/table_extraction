@@ -1,0 +1,16 @@
+              city        country iata  icao                                          airport
+0     antananarivo     madagascar  tnr  fmmi                                    ivato airport
+1          bangkok       thailand  bkk  vtbs                             suvarnabhumi airport
+2          chennai          india  maa  vomm                    chennai international airport
+3         dzaoudzi        mayotte  dza  fmcz          dzaoudzi pamandzi international airport
+4     johannesburg   south africa  jnb  faor                                 or tambo airport
+5             mahé     seychelles  sez  fsia                 seychelles international airport
+6           moroni        comoros  hah  fmch        prince said ibrahim international airport
+7          nosy be     madagascar  nos  fmnn                                  fascene airport
+8           noumea  new caledonia  nou  nwww                la tontouta international airport
+9            paris         france  cdg  lfpg                paris - charles de gaulle airport
+10      port louis      mauritius  mru  fimp  sir seewoosagur ramgoolam international airport
+11     saint denis        réunion  run  fmee                            roland garros airport
+12  saint - pierre        réunion  zse  fmep                              pierrefonds airport
+13          sydney      australia  syd  yssy                                   sydney airport
+14       toamasina     madagascar  tmm  fmmt                                toamasina airport

@@ -1,0 +1,7 @@
+         home team home team score        away team away team score              venue  crowd          date
+0      collingwood      12.13 (85)         richmond      13.14 (92)      victoria park  32280  15 june 1957
+1         st kilda       3.12 (30)         essendon       9.21 (75)      junction oval  33500  15 june 1957
+2  north melbourne       7.14 (56)          carlton       8.15 (63)  arden street oval  28000  15 june 1957
+3        footscray      12.15 (87)  south melbourne       8.12 (60)       western oval  28450  17 june 1957
+4        melbourne     23.16 (154)          geelong      14.10 (94)                mcg  48001  17 june 1957
+5         hawthorn     15.14 (104)          fitzroy       7.14 (56)    glenferrie oval  23000  17 june 1957

@@ -1,0 +1,9 @@
+          date             home team      score              away team                            venue  box score report
+0  17 december      gold coast blaze    91 - 88       wollongong hawks     gold coast convention centre  box score      -
+1  17 december        cairns taipans    63 - 69       melbourne tigers         cairns convention centre  box score      -
+2  18 december  new zealand breakers   114 - 70          sydney spirit        north shore events centre  box score      -
+3  20 december        adelaide 36ers  107 - 104       gold coast blaze           distinctive homes dome  box score      -
+4  20 december      melbourne tigers  128 - 101       wollongong hawks  state netball and hockey centre  box score      -
+5  20 december        perth wildcats   94 - 118   new zealand breakers                challenge stadium  box score      -
+6  20 december         south dragons    88 - 84  townsville crocodiles                    hisense arena  box score      -
+7  21 december         sydney spirit   101 - 90  townsville crocodiles              state sports centre  box score      -

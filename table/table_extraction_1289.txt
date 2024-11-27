@@ -1,0 +1,8 @@
+                antibody          brand name  approval date       type                              target                               approved treatment (s)
+0            alemtuzumab             campath           2001  humanized                                cd52                         chronic lymphocytic leukemia
+1            bevacizumab             avastin           2004  humanized  vascular endothelial growth factor                                    colorectal cancer
+2    brentuximab vedotin            adcetris           2011   chimeric                                cd30  hodgkin lymphoma , anaplastic large - cell lymphoma
+3              cetuximab             erbitux           2004   chimeric    epidermal growth factor receptor                                    colorectal cancer
+4  gemtuzumab ozogamicin            mylotarg           2000  humanized                                cd33     acute myelogenous leukemia (with calicheamicin )
+5            panitumumab            vectibix           2006      human    epidermal growth factor receptor                                    colorectal cancer
+6              rituximab  rituxan , mabthera           1997   chimeric                                cd20                               non - hodgkin lymphoma

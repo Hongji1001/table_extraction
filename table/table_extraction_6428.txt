@@ -1,0 +1,10 @@
+                  player    nationality          position years for jazz school / club team
+0  aleksandar radojeviä‡         serbia            center      2004 - 05     barton college
+1          rick roberson  united states           forward      1974 - 75         cincinnati
+2           fred roberts  united states           forward      1984 - 86                byu
+3         truck robinson  united states     power forward      1977 - 79    tennessee state
+4         bill robinzine  united states     power forward      1981 - 82             depaul
+5             scott roth  united states           forward      1987 - 89          wisconsin
+6           delaney rudd  united states             guard      1989 - 92        wake forest
+7         michael ruffin  united states  forward - center      2003 - 04              tulsa
+8          bryon russell  united states     small forward      1993 - 02   long beach state

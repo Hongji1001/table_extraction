@@ -1,0 +1,8 @@
+   stage              winner general classification mountains classification sprint classification  team classification
+0      1        thor hushovd           thor hushovd                 no award              no award     cervélo testteam
+1      2      matti breschel     alejandro valverde            lloyd mondory       samuel dumoulin     cervélo testteam
+2      3  alejandro valverde     alejandro valverde             xavier tondó       samuel dumoulin  euskaltel - euskadi
+3      4      julián sánchez     alejandro valverde             xavier tondó       samuel dumoulin               astana
+4      5      nikolay trusov     alejandro valverde             xavier tondó       samuel dumoulin               astana
+5      6        thor hushovd     alejandro valverde           julián sánchez       samuel dumoulin               astana
+6      7      greg henderson     alejandro valverde           julián sánchez       samuel dumoulin               astana

@@ -1,0 +1,12 @@
+    pick        nfl team          player          position          college
+0     46  denver broncos  andre townsend     defensive end      mississippi
+1     78  denver broncos      tony lilly    defensive back          florida
+2     89  denver broncos   randy robbins    defensive back          arizona
+3    159  denver broncos     aaron smith        linebacker       utah state
+4    186  denver broncos    clarence kay         tight end          georgia
+5    207  denver broncos    winford hood            tackle          georgia
+6    218  denver broncos   scott garnett  defensive tackle       washington
+7    245  denver broncos    chris brewer      running back          arizona
+8    272  denver broncos     bobby micho         tight end            texas
+9    299  denver broncos       gene lang      running back  louisiana state
+10   326  denver broncos   murray jarman     wide receiver          clemson

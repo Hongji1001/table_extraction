@@ -1,0 +1,15 @@
+                     driver                          entrant    constructor                  chassis          engine tyre
+0           luigi villoresi                 scuderia ferrari        ferrari              ferrari 125    ferrari v12s    p
+1            alberto ascari                 scuderia ferrari        ferrari              ferrari 275     ferrari v12    p
+2            raymond sommer                          private  talbot - lago       talbot - lago t26c       talbot l6    d
+3               nino farina                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo l8s    p
+4        juan manuel fangio                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo l8s    p
+5             luigi fagioli                    sa alfa romeo     alfa romeo           alfa romeo 158  alfa romeo l8s    p
+6              louis rosier  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c - da       talbot l6    d
+7        philippe étancelin  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c - da       talbot l6    d
+8   yves giraud - cabantous  automobiles talbot - darracq sa  talbot - lago  talbot - lago t26c - da       talbot l6    d
+9            eugène chaboud                   ecurie lutetia  talbot - lago       talbot - lago t26c       talbot l6    d
+10            pierre levegh                          private  talbot - lago       talbot - lago t26c       talbot l6    d
+11             johnny claes                     ecurie belge  talbot - lago       talbot - lago t26c       talbot l6    d
+12        geoffrey crossley                          private           alta                  alta gp        alta l4s    d
+13              toni branca                          private       maserati             maserati 4cl    maserati l4s    p

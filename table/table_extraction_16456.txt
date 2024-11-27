@@ -1,0 +1,15 @@
+     rank          nation  gold  silver  bronze  total
+0       1          russia     4       1       3      8
+1       2           china     3       5       3     11
+2       3         ukraine     2       5       3     10
+3       4  czech republic     2       4       0      6
+4       5          france     2       0       0      2
+5       5          poland     2       0       0      2
+6       7   united states     1       0       2      3
+7       8         hungary     1       0       1      2
+8       9      kazakhstan     1       0       0      0
+9      10         germany     0       2       0      2
+10     11         finland     0       1       3      4
+11     12          sweden     0       0       2      2
+12     13        slovakia     0       0       1      1
+13  total           total    18      18      18     54

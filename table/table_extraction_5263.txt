@@ -1,0 +1,17 @@
+                  stadium  capacity            city                club  opening
+0            timsah arena     43877           bursa           bursaspor     2014
+1          vodafone arena     42400        istanbul            beşiktaş     2015
+2       new konya stadium     42051           konya           konyaspor     2014
+3     new trabzon stadium     41513         trabzon         trabzonspor     2016
+4   new eskişehir stadium     34930       eskişehir       eskişehirspor     2015
+5          stadyum samsun     34658          samsun          samsunspor     2016
+6   new gaziantep stadium     33200       gaziantep       gaziantepspor     2016
+7     new antalya stadium     33000         antalya         antalyaspor     2016
+8     new sakarya stadium     28710       adapazarı         sakaryaspor     2016
+9           malatya arena     25000         malatya         malatyaspor     2015
+10      new sivas stadium     25000           sivas           sivasspor     2015
+11   afyonkarahisar stadi     15000  afyonkarahisar  afyonkarahisarspor     2014
+12       başakşehir stadi     14500        istanbul         istanbul bb     2014
+13    ay - yıldız stadium     25000         karabük         karabükspor     2014
+14    new sakarya stadium     25000         sakarya         sakaryaspor     2015
+15   new turgutlu stadium     12000        turgutlu        turgutluspor     2014

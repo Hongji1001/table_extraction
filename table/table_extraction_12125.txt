@@ -1,0 +1,11 @@
+   score                               batsmen           against        location  year
+0    374       matthew elliott and steve james            sussex      colwyn bay  2000
+1    252        matthew maynard and david hemp  northamptonshire  sophia gardens  2002
+2    313         emrys davies and willie jones             essex       brentwood  1948
+3    425          adrian dale and viv richards         middlesex  sophia gardens  1993
+4    264  maurice robinson and stan montgomery         hampshire     bournemouth  1949
+5    240          jim allenby and mark wallace            surrey   the brit oval  2009
+6    211          tony cottey and ottis gibson    leicestershire         swansea  1996
+7    202              dai davies and joe hills            sussex      eastbourne  1928
+8    203            joe hills and johnnie clay    worcestershire         swansea  1929
+9    143        terry davies and simon daniels   gloucestershire         swansea  1982

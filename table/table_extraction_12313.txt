@@ -1,0 +1,23 @@
+     res          record            opponent                         method                              event  round  time                            location
+0    win  18 - 2 - 1 (1)         erick silva                     ko (punch)  ufc fight night : maia vs shields      2  3:01        barueri , são paulo , brazil
+1    win  17 - 2 - 1 (1)   siyar bahadurzada           decision (unanimous)    ufc on fuel tv : silva vs stann      3  5:00                     saitama , japan
+2    win  16 - 2 - 1 (1)        paulo thiago           decision (unanimous)    ufc on fuel tv : franklin vs le      3  5:00                 cotai strip , macau
+3   loss  15 - 2 - 1 (1)         demian maia                   tko (injury)                            ufc 148      1  0:47  las vegas , nevada , united states
+4    win  15 - 1 - 1 (1)        sean pierson           decision (unanimous)                            ufc 141      3  5:00  las vegas , nevada , united states
+5   loss  14 - 1 - 1 (1)       carlos condit     ko (flying knee & punches)                            ufc 132      1  2:58  las vegas , nevada , united states
+6    win  14 - 0 - 1 (1)           nate diaz           decision (unanimous)                            ufc 125      3  5:00  las vegas , nevada , united states
+7    win  13 - 0 - 1 (1)       amir sadollah           decision (unanimous)                            ufc 114      3  5:00  las vegas , nevada , united states
+8    win  12 - 0 - 1 (1)            tj grant           decision (unanimous)                            ufc 100      3  5:00  las vegas , nevada , united states
+9     nc  11 - 0 - 1 (1)       karo parisyan                nc (overturned)                             ufc 94      3  5:00  las vegas , nevada , united states
+10   win      11 - 0 - 1          matt brown               decision (split)                             ufc 88      3  5:00   atlanta , georgia , united states
+11   win      10 - 0 - 1           jason tan                   tko (elbows)                             ufc 84      3  0:25  las vegas , nevada , united states
+12  draw       9 - 0 - 1   hidehiko hasegawa                           draw                 deep : 32nd impact      3  5:00                       tokyo , japan
+13   win           9 - 0   hidehiko hasegawa          ko (slam and punches)                 deep : 31st impact      3  4:57                       tokyo , japan
+14   win           8 - 0    yukiharu maejima                   ko (punches)              deep : cma festival 2      1  0:11                       tokyo , japan
+15   win           7 - 0      hidenobu koike                     ko (punch)                 deep : 28th impact      2  4:33                       tokyo , japan
+16   win           6 - 0            jun ando                  tko (punches)                 deep : 27th impact      2  0:44                       tokyo , japan
+17   win           5 - 0       kousei kubota                      ko (knee)                 deep : 26th impact      1  2:46                       tokyo , japan
+18   win           4 - 0   tomoyoshi iwamiya           decision (unanimous)                 deep : 25th impact      2  5:00                       tokyo , japan
+19   win           3 - 0  mitsunori tanimura  submission (rear naked choke)                deep : cma festival      1  4:28                       tokyo , japan
+20   win           2 - 0   hyung - kwang kim           decision (unanimous)     spirit mc 5: 2004 gp unlimited      3  5:00                 seoul , south korea
+21   win           1 - 0     young - ahm noh           decision (unanimous)     spirit mc 3: i will be back!!!      3  5:00                 seoul , south korea

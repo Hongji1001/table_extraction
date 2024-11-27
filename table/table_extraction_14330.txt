@@ -1,0 +1,11 @@
+   nat         name        moving to            type transfer window  transfer fee               source
+0  swe      allbäck       örgryte is  contract ended          summer          free                oisse
+1  dnk  silberbauer          utrecht  contract ended          summer          free       fc - utrechtnl
+2  dnk        qvist  lyngby boldklub  contract ended          summer          free  lyngby - boldklubdk
+3  dnk    gravgaard           nantes        transfer          summer  dkk 29000000               fcnafr
+4  dnk      bertolt      sønderjyske        transfer          summer   dkk 1000000       soenderjyskedk
+5  dnk       hansen          bk frem  contract ended          winter          free             bkfremdk
+6  dnk      laudrup       herfølge b        transfer          winter   undisclosed                 hbdk
+7  dnk        würtz          vejle b            loan          winter         n / a   vejle - boldklubdk
+8  bra       júnior     nordsjælland            loan          winter         n / a                fcndk
+9  aus          coe       örgryte is            loan          winter         n / a                oisse

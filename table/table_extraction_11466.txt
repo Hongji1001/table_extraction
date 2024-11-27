@@ -1,0 +1,11 @@
+   season                    overall                     slalom               giant slalom                    super g                   downhill                   combined
+0    2004                        112                          -                          -                         51                          -                          -
+1    2005                         37                          -                         27                         18                         49                          -
+2    2006                         22                          -                         18                         37                         15                          -
+3    2007                         33                          -                         50                         15                         23                          -
+4    2008                         38                          -                          -                         35                         13                          -
+5    2009                          9                          -                         40                          2                          5                         50
+6    2010                         28                          -                          -                         13                         23                          -
+7    2011  injured , did not compete  injured , did not compete  injured , did not compete  injured , did not compete  injured , did not compete  injured , did not compete
+8    2012                         75                          -                         28                          -                          -                          -
+9    2013                         37                          -                         17                         28                         30                          -

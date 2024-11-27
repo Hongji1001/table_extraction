@@ -1,0 +1,23 @@
+    no in series  no in season                      title                     directed by                  written by   original air date  production code
+0             78             1        blood ties (part 1)                     alan taylor                anya epstein   october 17 , 1997              601
+1             79             2        blood ties (part 2)                      nick gomez                 david simon   october 24 , 1997              602
+2             80             3        blood ties (part 3)                 mark pellington  david simon & anya epstein   october 31 , 1997              603
+3             81             4                     subway                     gary fleder             james yoshimura   december 5 , 1997              604
+4             82             5           baby , it 's you                       ed sherin              jorge zamacona  november 14 , 1997              605
+5             83             6                   birthday                  alison maclean                julie martin   november 7 , 1997              606
+6             84             7                saigon rose                      nick gomez              eric overmeyer  november 21 , 1997              607
+7             85             8              all is bright                     matt reeves              rafael alvarez  december 12 , 1997              608
+8             86             9               closet cases  leslie libman & larry williams            christopher kyle    january 2 , 1998              609
+9             87            10         sins of the father                     mary harron       darryl lemont wharton    january 9 , 1998              610
+10            88            11     shaggy dog , city goat                      kyle secor              eric overmeyer   january 16 , 1998              611
+11            89            12  something sacred (part 1)                        uli edel                anya epstein   january 30 , 1998              612
+12            90            13  something sacred (part 2)                        uli edel                 david simon   january 30 , 1998              613
+13            91            14      lies and other truths                      nick gomez                   noel behn      march 6 , 1998              614
+14            92            15          pit bull sessions                  barbara kopple              sean whitesell     march 13 , 1998              615
+15            93            16                      mercy                     alan taylor              eric overmeyer     march 20 , 1998              616
+16            94            17                  abduction                    kenneth fink                julie martin     march 27 , 1998              617
+17            95            18           full court press                   clark johnson           phillip b epstein      april 3 , 1998              618
+18            96            19    strangled , not stirred                      jay tobias              linda mcgibney     april 10 , 1998              619
+19            97            20                    secrets                      ed bianchi                yaphet kotto     april 17 , 1998              620
+20            98            21           finnegan 's wake                   steve buscemi                 david mills     april 24 , 1998              621
+21            99            22     fallen heroes (part 1)                 kathryn bigelow                lois johnson        may 1 , 1998              622

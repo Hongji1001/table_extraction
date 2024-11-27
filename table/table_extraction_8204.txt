@@ -1,0 +1,24 @@
+        romanized name name in hangul name in hanja  gender  birth year
+0     bae hyeong - gyu            배형규           裵亨圭    male        1965
+1     shim seong - min            심성민           沈聖珉    male        1978
+2      kim gyeong - ja            김경자           金慶子  female        1970
+3          kim ji - na            김지나           金智娜  female        1975
+4    ryu gyeong - shik            류경식           柳慶植    male        1952
+5        ko sei - hoon            고세훈           高世勳    male        1980
+6      lyu jeong - hwa            유정화           柳貞和  female        1968
+7     lee seon - yeong            이선영           李善英  female        1970
+8       lee ji - yeong            이지영           李智英  female        1970
+9       han ji - yeong            한지영           韓智英  female        1973
+10     lee jeong - ran            이정란           李貞蘭  female        1974
+11      lim hyeon - ju            임현주           林賢珠  female        1975
+12       cha hye - jin            차혜진           車惠珍  female        1976
+13        an hye - jin            안혜진           安惠珍  female        1976
+14    seo myeong - hwa            서명화           徐明和  female        1978
+15       lee ju - yeon            이주연           李週妍  female        1980
+16      je chang - hee            제창희           諸昌熙    male        1969
+17   song byeong - woo            송병우           宋炳宇    male        1974
+18   seo gyeong - seok            서경석           徐京石    male        1980
+19    kim yoon - yeong            김윤영           金允英  female        1972
+20     pak hye - yeong            박혜영           朴惠英  female        1972
+21     lee seong - eun            이성은           李成恩  female        1983
+22  lee yeong - gyeong            이영경           李英慶  female        1985

@@ -1,0 +1,34 @@
+                    rider manufacturer  laps time / retired  grid
+0          gábor talmácsi      aprilia    19      42:50.831     2
+1        tomoyoshi koyama          ktm    19        + 6.753     6
+2           héctor faubel      aprilia    19        + 7.793     1
+3              joan olivé      aprilia    19        + 8.180     8
+4            sergio gadea      aprilia    19        + 8.947    11
+5             lukáš pešek        derbi    19        + 9.935     7
+6            simone corsi      aprilia    19       + 10.132     5
+7           mattia pasini      aprilia    19       + 10.335    10
+8           bradley smith        honda    19       + 23.426    15
+9           alexis masbou        honda    19       + 24.808    12
+10          nicolás terol        derbi    19       + 24.909    13
+11            pablo nieto      aprilia    19       + 26.194     9
+12           stefan bradl      aprilia    19       + 29.490    19
+13         mike di meglio        honda    19       + 29.775    18
+14           esteve rabat        honda    19       + 31.011    17
+15         stefano bianco      aprilia    19       + 35.455    24
+16     randy krummenacher          ktm    19       + 35.829    23
+17         andrea iannone      aprilia    19       + 54.666    21
+18        lorenzo zanetti      aprilia    19       + 56.956    26
+19        simone grotzkyj      aprilia    19       + 57.356    30
+20      roberto tamburini      aprilia    19     + 1:05.426    20
+21             danny webb        honda    19     + 1:08.541    25
+22         robert muresan        derbi    19     + 1:08.549    31
+23           joey litjens        honda    19     + 1:19.477    27
+24         cyril carrillo        honda    19     + 1:22.382    29
+25          stevie bonsey          ktm    19     + 1:30.374    28
+26  ferruccio lamborghini      aprilia    19     + 1:33.736    33
+27       raffaele de rosa      aprilia    19     + 1:41.013    14
+28          dino lombardi        honda    18     retirement    32
+29         sandro cortese      aprilia    18     retirement     3
+30          pol espargaró      aprilia    15       accident     4
+31     dominique aegerter      aprilia     5     retirement    22
+32       michael ranseder        derbi     0       accident    16

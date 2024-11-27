@@ -1,0 +1,9 @@
+   year                    competition                      venue position          event
+0  1983            mediterranean games            latakia , syria      1st  4x400 m relay
+1  1986         european championships        stuttgart , germany      4th  4x400 m relay
+2  1988  european indoor championships         budapest , hungary      5th          400 m
+3  1989  european indoor championships    the hague , netherlands      6th          400 m
+4  1990         european championships         split , yugoslavia      4th  4x400 m relay
+5  1991     world indoor championships            seville , spain      3rd  4x400 m relay
+6  1991             summer universiade  sheffield , great britain      3rd  4x400 m relay
+7  1993            mediterranean games          narbonne , france      3rd  4x400 m relay

@@ -1,0 +1,23 @@
+          players sh / c       height weight                date of birth                                             club
+0   shengrong xia      l            m      -   november 24 , 1994 (age19)  harbin ice hockey team / harbin ice hockey team
+1    jiachang bao      r            m      -     january 5 , 1993 (age21)       harbin ice hockey / harbin ice hockey team
+2          nan fu      l   m (ft 0in)      -   february 16 , 1982 (age31)                      china dragon / china dragon
+3     longtan liu      l   m (ft 0in)      -   february 14 , 1986 (age27)                      china dragon / china dragon
+4       tengyi fu      l            m      -   december 21 , 1986 (age27)  harbin ice hockey team / harbin ice hockey team
+5   tianxiang xia      l  m (ft 10in)      -  september 11 , 1993 (age20)  harbin ice hockey team / harbin ice hockey team
+6   chongwei wang      r            m      -   december 10 , 1988 (age25)                      china dragon / china dragon
+7        jin chen      l            m      -      august 9 , 1992 (age21)                      china dragon / china dragon
+8        chao wen      r            m      -     august 16 , 1992 (age21)  harbin ice hockey team / harbin ice hockey team
+9       xinlei li      l            m      -   december 11 , 1989 (age24)  harbin ice hockey team / harbin ice hockey team
+10      tianyu hu      l   m (ft 8in)      -   february 19 , 1991 (age22)                      china dragon / china dragon
+11       qing liu      r            m      -   february 25 , 1996 (age17)                      china dragon / china dragon
+12     zhengyu li      r  m (ft 10in)      -     august 29 , 1989 (age24)                      china dragon / china dragon
+13      hao zhang      l            m      -       july 20 , 1989 (age24)  harbin ice hockey team / harbin ice hockey team
+14        peng ji      l   m (ft 1in)      -     january 1 , 1996 (age18)  harbin ice hockey team / harbin ice hockey team
+15    tianyi guan      l            m      -   february 15 , 1991 (age22)  harbin ice hockey team / harbin ice hockey team
+16      ling chen      l            m      -       june 17 , 1989 (age24)                      china dragon / china dragon
+17    mingxi yang      l            m      -     january 4 , 1991 (age23)                      china dragon / china dragon
+18    cheng zhang      l            m      -   december 29 , 1994 (age19)                      china dragon / china dragon
+19    jiabing liu      l  m (ft 11in)      -     august 16 , 1987 (age26)                                jiamusi / jiamusi
+20         ye fei      l            m      -        june 3 , 1989 (age24)                           harbin ice hockey team
+21     zhiwei liu      l            m      -     august 25 , 1988 (age25)  harbin ice hockey team / harbin ice hockey team

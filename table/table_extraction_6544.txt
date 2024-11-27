@@ -1,0 +1,21 @@
+    series  season                           title   directed by original air date  production code
+0      173       1  payneful resolution resolution   tyler perry   march 30 , 2011              701
+1      174       2                  growing paynes   tyler perry   march 30 , 2011              702
+2      175       3                payne protection   tyler perry    april 6 , 2011              703
+3      176       4                  payneful visit   tyler perry    april 6 , 2011              704
+4      178       6                       epic fail     chip hurd   april 13 , 2011              706
+5      179       7           praying for attention   tyler perry   april 20 , 2011              707
+6      180       8                       shout out    kim fields   april 20 , 2011              708
+7      181       9               love thy neighbor     chip hurd   april 27 , 2011              709
+8      182      10                     dream girls   tyler perry   april 27 , 2011              710
+9      183      11            a payneful night out   tyler perry      may 4 , 2011              711
+10     184      12             payneful assistance   tyler perry      may 4 , 2011              712
+11     185      13                house of awkward     chip hurd     may 11 , 2011              713
+12     186      14                 pledging paynes     chip hurd     may 11 , 2011              714
+13     187      15                     brain payne     chip hurd     may 11 , 2011              715
+14     188      16                   foster paynes    kim fields     may 18 , 2011              716
+15     189      17                 talented paynes  roger m bobb     may 18 , 2011              717
+16     190      18            going , going , gone    kim fields     may 25 , 2011              718
+17     191      19               mother 's day out  roger m bobb     june 1 , 2011              719
+18     192      20          so hard to say goodbye   tyler perry     june 8 , 2011              720
+19     193      21                 payneful rescue   tyler perry    june 15 , 2011              721

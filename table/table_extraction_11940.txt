@@ -1,0 +1,13 @@
+                                name           subdivisions  area (km square)  population (1 july 2005 est)  population density (per km square)        capital
+0                antigua and barbuda               parishes               440                         85632                              195.00     st john 's
+1                antigua and barbuda                barbuda               161                          1370                                9.65     codrington
+2                antigua and barbuda                redonda                 2                             0                                0.00          n / a
+3                           barbados               parishes               431                        284589                              660.00     bridgetown
+4                           dominica               parishes               754                         72660                               96.30         roseau
+5                            grenada               parishes               344                        110000                              319.80     st georges
+6              saint kitts and nevis               parishes               261                         42696                              163.50     basseterre
+7              saint kitts and nevis                  nevis                93                         12106                              130.10    charlestown
+8                        saint lucia               quarters               616                        173765                              282.00       castries
+9   saint vincent and the grenadines               parishes               389                        120000                              308.40      kingstown
+10               trinidad and tobago  regional corporations              5131                       1299953                              253.30  port of spain
+11               trinidad and tobago                 tobago               300                         54000                              180.00    scarborough

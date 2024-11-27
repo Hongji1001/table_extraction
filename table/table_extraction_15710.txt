@@ -1,0 +1,11 @@
+   province  inhabitants  established                  president             party  election
+0    arezzo       348327         1826              roberto vasai  democratic party      2009
+1  florence       991862         1848            andrea barducci  democratic party      2009
+2  grosseto       227063         1766            leonardo marras  democratic party      2009
+3   livorno       341453         1861            giorgio kutufã   democratic party      2009
+4     lucca       392182         1849           stefano baccelli  democratic party      2011
+5     massa       203642         1859             osvaldo angeli  democratic party      2008
+6      pisa       414154         1849             andrea pieroni  democratic party      2009
+7   pistoia       292108         1927           federica fratoni  democratic party      2009
+8     prato       248174         1992  lambarto nazzareno gestri  democratic party      2009
+9     siena       270333         1849             simone bezzini  democratic party      2009

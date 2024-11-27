@@ -1,0 +1,25 @@
+    english country name              arabic romanised country name         arabic country name english capital name arabic romanised capital name arabic capital name
+0                algeria                               al - jazā'ir                     الجزائر              algiers                  al - jazā'ir             الجزائر
+1                bahrain                               al - baḥrayn                     البحرين               manama                   al - manāma             المنامة
+2                   chad                                       tšād                        تشاد            n'djamena                      nijāmīnā             نجامينا
+3                comoros                           juzur al - qamar                   جزر القمر               moroni                        mūrūnī              موروني
+4               djibouti                                     jībūtī                      جيبوتي             djibouti                        jībūtī              جيبوتي
+5                  egypt                                       miṣr                         مصر                cairo                   al - qāhira             القاهرة
+6                eritrea                                   iritriyā                      إرتريا               asmara                        asmarā               أسمرا
+7                   iraq                                 al - ʿirāq                      العراق              baghdad                        baġdād               بغداد
+8                 jordan                               al - 'urdunn                      الأردن                amman                        ʿammān               عمّان
+9                 kuwait                                al - kuwayt                      الكويت               kuwait                   al - kuwayt              الكويت
+10               lebanon                                     lubnān                       لبنان               beirut                        bayrūt               بيروت
+11                 libya                                     lībiyā                       ليبيا              tripoli                     ṭarābulus              طرابلس
+12            mauritania                                 mūrītāniyā                   موريتانيا           nouakchott                      nawākšūṭ             نواكشوط
+13               morocco                                al - maġrib                      المغرب                rabat                    ar - rabāṭ              الرباط
+14                  oman                                      ʿumān                        عمان               muscat                        masqaṭ                مسقط
+15             palestine                                   filasṭīn                      فلسطين             ramallah                      rāmallāh            رام الله
+16                 qatar                                      qaṭar                         قطر                 doha                    ad - dawha              الدوحة
+17          saudi arabia                             as - suʿūdiyya                    السعودية               riyadh                    ar - riyāḍ              الرياض
+18               somalia                                 aṣ - ṣūmāl                     الصومال            mogadishu                      maqadīšū              مقديشو
+19                 sudan                                 as - sūdān                     السودان             khartoum                  al - kharṭūm             الخرطوم
+20                 syria                                      sūryā                       سوريا             damascus             dimašq / aš - šām        الشام / دمشق
+21               tunisia                                      tūnis                        تونس                tunis                         tūnis                تونس
+22  united arab emirates  al - imārāt al - ʿarabiyya al - muttaḥida  الإمارات العربيّة المتّحدة          abu - dhabi                    abū - ẓabī              أبوظبي
+23        western sahara                  as - ṣaḥrā' al - ġarbīyya             الصحراء الغربية             el aaiún                    al - ʿayūn              العيون

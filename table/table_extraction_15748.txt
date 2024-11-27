@@ -1,0 +1,16 @@
+                     name     nationality 1.85 1.93  height
+0           tia hellebaut         belgium    o    o    2.05
+1           blanka vlašić         croatia    o    o    2.05
+2         anna chicherova          russia    o    o    2.03
+3       yelena slesarenko          russia    o   xo    2.01
+4            vita palamar         ukraine    o    o    1.99
+5          chaunte howard   united states    o   xo    1.99
+6        ariane friedrich         germany    o    o    1.96
+7             ruth beitia           spain    o    o    1.96
+8              emma green          sweden    o    o    1.96
+9           marina aitova      kazakhstan    o    o    1.93
+10  antonietta di martino           italy    o    o    1.93
+11           iva straková  czech republic    o  xxo    1.93
+12          vita styopina         ukraine    o  xxo    1.93
+13      svetlana shkolina          russia    o  xxo    1.93
+14         romana dubnová  czech republic    o  x -    1.89

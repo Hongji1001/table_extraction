@@ -1,0 +1,6 @@
+           region              date            label        format      catalog
+0   united states         july 1959  checker records            lp    lp - 1436
+1  united kingdom              1959   london records            lp  ha - m 2230
+2   united states  august 27 , 1966  checker records  stereo - pak    21 - 382a
+3   united states              1967  checker records            lp    lp - 3006
+4   united states              1984    chess records            lp    ch - 9196

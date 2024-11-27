@@ -1,0 +1,13 @@
+            date                   city        opponent results         type of game
+0         may 16               belgrade    east germany     3:1             friendly
+1         may 31          arica , chile            ussr     0:2           wc round 1
+2         june 2          arica , chile         uruguay     3:1           wc round 1
+3         june 7          arica , chile        colombia     5:0           wc round 1
+4        june 10       santiago , chile    west germany     1:0           wc round 2
+5        june 13  vinja del mar , chile  czechoslovakia     1:3           wc round 2
+6        june 16       santiago , chile           chile     0:1           wc round 2
+7   september 16      leipzig , germany    east germany     2:2             friendly
+8   september 19               belgrade        ethiopia     5:2             friendly
+9   september 30                 zagreb    west germany     2:3             friendly
+10    october 14     budapest , hungary         hungary     1:0             friendly
+11    november 4               belgrade         belgium     3:2  euro '64 qualifying

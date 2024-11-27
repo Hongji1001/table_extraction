@@ -1,0 +1,7 @@
+  eliminated        wrestler  entered eliminated by   time
+0          1     big daddy v        3       batista  09:07
+1          2           khali        4    undertaker  12:38
+2          3             mvp        6        finlay  22:31
+3          4          finlay        5    undertaker  24:11
+4          5         batista        2    undertaker  29:28
+5     winner  the undertaker        1         n / a  n / a

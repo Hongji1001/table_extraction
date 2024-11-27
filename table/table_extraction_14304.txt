@@ -1,0 +1,11 @@
+           date                            venue  score competition     report
+0     20 august      ullevaal stadium , oslo (a)  0 - 0    friendly  bbc sport
+1   6 september       hampden park , glasgow (h)  3 - 1       ecqg5  bbc sport
+2  10 september  westfalenstadion , dortmund (a)  1 - 2       ecqg5  bbc sport
+3    11 october       hampden park , glasgow (h)  1 - 0       ecqg5  bbc sport
+4   15 november       hampden park , glasgow (h)  1 - 0       ecqpo  bbc sport
+5   19 november  amsterdam arena , amsterdam (a)  0 - 6       ecqpo  bbc sport
+6      31 march       hampden park , glasgow (h)  1 - 2    friendly  bbc sport
+7      28 april  parken stadium , copenhagen (a)  0 - 1    friendly  bbc sport
+8        27 may     a le coq arena , tallinn (a)  1 - 0    friendly  bbc sport
+9        30 may      easter road , edinburgh (h)  4 - 1    friendly  bbc sport

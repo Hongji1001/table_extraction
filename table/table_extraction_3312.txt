@@ -1,0 +1,26 @@
+   electoral district  registered voters  seats in congress  candidates per party  participating parties  total candidates
+0            amazonas             179331                  2                     3                     17                47
+1              ancash             611881                  5                     5                     21                99
+2            apurímac             195954                  2                     3                     21                55
+3            arequipa             770535                  5                     5                     21               101
+4            ayacucho             306662                  3                     3                     20                58
+5           cajamarca             721239                  5                     5                     23               109
+6              callao             541730                  4                     4                     24                92
+7               cusco             643629                  5                     5                     22                98
+8        huancavelica             203844                  2                     3                     15                39
+9             huánuco             354416                  3                     3                     22                65
+10                ica             451197                  4                     5                     22                88
+11              junín             701190                  5                     5                     22                99
+12        la libertad             942656                  7                     7                     22               145
+13         lambayeque             676735                  5                     5                     22               101
+14               lima            6063109                 35                    35                     24               738
+15             loreto             416419                  3                     3                     22                60
+16      madre de dios              47742                  1                     3                     14                35
+17           moquegua              99962                  2                     3                     18                44
+18              pasco             135670                  2                     3                     17                51
+19              piura             914912                  6                     6                     23               136
+20               puno             674865                  5                     5                     23               106
+21         san martín             357124                  3                     3                     17                47
+22              tacna             172427                  2                     3                     18                57
+23             tumbes             110335                  2                     3                     19                57
+24            ucayali             201342                  2                     3                     22                60

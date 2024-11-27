@@ -1,0 +1,7 @@
+       district         incumbent       party  first elected                   result
+0  california 1    barclay henley  democratic           1882  retired democratic hold
+1  california 2   james a louttit  republican           1884  retired democratic gain
+2  california 3    joseph mckenna  republican           1884             re - elected
+3  california 4  william w morrow  republican           1884             re - elected
+4  california 5  charles n felton  republican           1884             re - elected
+5  california 6     henry markham  republican           1884  retired republican hold

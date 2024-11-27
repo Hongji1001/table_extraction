@@ -1,0 +1,6 @@
+          country             builder          location        ship                   class / type
+0  united kingdom     samuda brothers   poplar , london       orion     belleisle - class ironclad
+1  united kingdom   john elder and co  govan , scotland     arizona                 passenger ship
+2         germany       schichauwerft            danzig   gneisenau  three masted full rigged ship
+3  united kingdom    chatham dockyard    chatham , kent   agamemnon          ajax - class ironclad
+4  united kingdom  sheerness dockyard         sheerness  kingfisher                          sloop

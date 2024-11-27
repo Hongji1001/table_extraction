@@ -1,0 +1,8 @@
+   house name              house mascot house colour  year opened  house leader
+0     hillary                      yeti        green         1980      mrs wong
+1        kupe                      kiwi       yellow         1981    mr goodyer
+2  rutherford                  elephant          red         1982  mr morrisson
+3   mansfield  'dog' from footrot flats       purple         1984   mr davidson
+4   te kanawa                   taniwha         blue         1987     mr norris
+5      batten                 buzzy bee        white         1998      ms dorey
+6       snell             black panther        black         2001  mr mackenzie

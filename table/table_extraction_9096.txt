@@ -1,0 +1,31 @@
+     res      record           opponent                              method                                event  round   time                                 location
+0   loss  20 - 9 - 1        renan barão  tko (spinning back kick & punches)                              ufc 165      2   0:35               toronto , ontario , canada
+1    win  20 - 8 - 1       brad pickett                    decision (split)                              ufc 155      3   5:00       las vegas , nevada , united states
+2    win  19 - 8 - 1    scott jorgensen                        ko (punches)        ufc on fx : johnson vs mccall      2   4:10        sunrise , florida , united states
+3   loss  18 - 8 - 1   joseph benavidez                decision (unanimous)            ufc live : hardy vs lytle      3   5:00    milwaukee , wisconsin , united states
+4   loss  18 - 7 - 1       urijah faber                decision (unanimous)                              ufc 128      3   5:00      newark , new jersey , united states
+5    win  18 - 6 - 1          ken stone                           ko (slam)                               wec 53      1   2:11       glendale , arizona , united states
+6    win  17 - 6 - 1     will campuzano              ko (punch to the body)                               wec 49      2   4:44              edmonton , alberta , canada
+7    win  16 - 6 - 1        george roop                decision (unanimous)                               wec 46      3   5:00  sacramento , california , united states
+8    win  15 - 6 - 1        manny tapia                decision (unanimous)                               wec 43      3   5:00      san antonio , texas , united states
+9   loss  14 - 6 - 1         rani yahya     submission (rear - naked choke)                               wec 40      1   1:07       chicago , illinois , united states
+10   win  14 - 5 - 1        wade choate                submission (strikes)                       c3: domination      1   2:29        hammond , indiana , united states
+11   win  13 - 5 - 1        jason tabor                        ko (punches)             total fight challenge 11      2   4:42        hammond , indiana , united states
+12  loss  12 - 5 - 1        chase beebe                decision (unanimous)                               wec 26      5   5:00       las vegas , nevada , united states
+13   win  12 - 4 - 1          dan swift                decision (unanimous)              total fight challenge 7      2   5:00        hammond , indiana , united states
+14   win  11 - 4 - 1   antonio banuelos          ko (head kick and punches)                               wec 20      1   2:36     lemoore , california , united states
+15   win  10 - 4 - 1        kurt deeron                                 tko                   duneland classic 3      2   2:26        portage , indiana , united states
+16   win   9 - 4 - 1         tim norman     submission (rear - naked choke)              total fight challenge 5      1   2:40        hammond , indiana , united states
+17   win   8 - 4 - 1        justin hamm                                 tko  ecf : beatdown at the fairgrounds 5      2   4:55   indianapolis , indiana , united states
+18   win   7 - 4 - 1  christian nielson                            decision     courage fighting championships 4  n / a  n / a       lincoln , illinois , united states
+19   win   6 - 4 - 1        john hosman       submission (rear naked choke)                     ihc 9: purgatory      1   3:18        hammond , indiana , united states
+20   win   5 - 4 - 1      steve hallock                       tko (punches)              total fight challenge 4      2   4:40        hammond , indiana , united states
+21   win   4 - 4 - 1      chad washburn                  submission (choke)                   duneland classic 2      2  n / a        portage , indiana , united states
+22  loss   3 - 4 - 1    brandon carlson                        tko (injury)             xkk : xtreme cage combat  n / a  n / a      curtiss , wisconsin , united states
+23  loss   3 - 3 - 1       jim bruketta       submission (rear naked choke)       total martial arts challenge 2      1  n / a        hammond , indiana , united states
+24   win   3 - 2 - 1      tim panicucci                       tko (punches)        freestyle combat challenge 14      1   4:56       racine , wisconsin , united states
+25   win   2 - 2 - 1     omar choudhury                           ko (knee)        freestyle combat challenge 13      2   2:25       racine , wisconsin , united states
+26  loss   1 - 2 - 1     stonnie dennis              submission (heel hook)              hooknshoot : hooknshoot      1   1:53     evansville , indiana , united states
+27  loss   1 - 1 - 1   mustafa hussaini                 submission (armbar)                 extreme challenge 51      2   1:21    st charles , illinois , united states
+28  draw   1 - 0 - 1   mustafa hussaini                                draw            shooto : midwest fighting      2   5:00        hammond , indiana , united states
+29   win       1 - 0      joel cleverly                          submission                     maximum combat 6      1   3:10     fort wayne , indiana , united states

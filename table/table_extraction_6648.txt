@@ -1,0 +1,12 @@
+              player        position                                school                hometown              college
+0      eddie goldman  defensive line  friendship collegiate charter school         washington , dc        florida state
+1     caleb gulledge  defensive line                prattville high school    prattville , alabama              alabama
+2   robert nkemdiche  defensive line                   grayson high school    loganville , georgia          mississippi
+3     benetton fonua      linebacker                    kahuku high school         kahuku , hawaii            hawai ê i
+4    demarkus lathan      linebacker                  longview high school        longview , texas       tarleton state
+5       justin lyles      linebacker                   phoebus high school      hampton , virginia         concord (wv)
+6   antonio morrison      linebacker               bolingbrook high school  bolingbrook , illinois              florida
+7      jabari ruffin      linebacker                    downey high school     downey , california  southern california
+8       ronald darby  defensive back                   potomac high school    oxon hill , maryland        florida state
+9        yuri wright  defensive back     don bosco preparatory high school     ramsey , new jersey             colorado
+10      sal martinez  defensive back                  edinburg high school        edinburg , texas           undeclared

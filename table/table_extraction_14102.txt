@@ -1,0 +1,11 @@
+   rank                      city                                           airport  passengers                         carriers
+0     1              atlanta , ga  hartsfield - jackson atlanta international (atl)      139460         delta , delta connection
+1     2            charlotte , nc          charlotte / douglass international (clt)       79290               us airways express
+2     3              chicago , il                chicago o'hare international (ord)       73350  united express , american eagle
+3     4              detroit , mi           detroit metropolitan wayne county (dtw)       64410                 delta connection
+4     5  dallas / fort worth , tx           dallas / fort worth international (dfw)       36360                   american eagle
+5     6              orlando , fl               orlando sanford international (sfb)       30350                        allegiant
+6     7          punta gorda , fl                                 punta gorda (pgd)       19710                        allegiant
+7     8        st petersburg , fl                  st petersburg / clearwater (pie)       17760                        allegiant
+8     9      fort lauderdale , fl   fort lauderdale - hollywood international (fll)       13800                        allegiant
+9    10              orlando , fl                       orlando international (mco)       13160                        allegiant

@@ -1,0 +1,17 @@
+               team 1    agg              team 2 1st leg        2nd leg
+0          anorthosis  3 - 1          olympiacos   3 - 0          0 - 1
+1   vitória guimarães  1 - 2               basel   0 - 0          1 - 2
+2    shakhtar donetsk  5 - 1       dinamo zagreb   2 - 0          3 - 1
+3          schalke 04  1 - 4     atlético madrid   1 - 0          0 - 4
+4          aalborg bk  4 - 0              kaunas   2 - 0          2 - 0
+5           barcelona  4 - 1        wisła kraków   4 - 0          0 - 1
+6        levski sofia  1 - 2        bate borisov   0 - 1          1 - 1
+7      standard liège  0 - 1           liverpool   0 - 0  0 - 1 ( aet )
+8            partizan  3 - 4          fenerbahçe   2 - 2          1 - 2
+9              twente  0 - 6             arsenal   0 - 2          0 - 4
+10     spartak moscow  2 - 8         dynamo kyiv   1 - 4          1 - 4
+11           juventus  5 - 1  artmedia petržalka   4 - 0          1 - 1
+12              brann  1 - 3           marseille   0 - 1          1 - 2
+13         fiorentina  2 - 0       slavia prague   2 - 0          0 - 0
+14        galatasaray  2 - 3    steaua bucureşti   2 - 2          0 - 1
+15      sparta prague  1 - 3       panathinaikos   1 - 2          0 - 1

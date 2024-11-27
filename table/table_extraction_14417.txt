@@ -1,0 +1,6 @@
+  classification % of all john kerry john edwards dennis kucinich
+0           male      47%        65%          18%              5%
+1         female      53%        65%          20%              3%
+2       democrat      75%        70%          18%              3%
+3     republican       4%        33%          24%              3%
+4    independent      21%        53%          23%              6%

@@ -1,0 +1,13 @@
+                       skip               third                second                lead         city
+0               kelly scott    jeanna schraeder          sasha carter   jacquie armstrong      kelowna
+1           sherry anderson          kim hodson         heather walsh        donna gignac      delisle
+2             amber holland       kim schneider       tammy schneider      heather seeley       regina
+3           sherry middaugh        kirsten wall             kim moore       andra harmark    coldwater
+4   marie - france larouche      nancy bélanger           annie lemay     joëlle sabourin  quebec city
+5           michelle englot         deanna doig        roberta materi       cindy simmons       regina
+6            heather rankin         lisa eyamie      heather moulding     kyla maclachlan      calgary
+7              rachel homan         emma miskew      alison kreviazuk      lynn kreviazuk       ottawa
+8         krista mccarville         tara george  kari maclean - kraft       lorraine lang  thunder bay
+9                cathy king       kaitlyn lawes        raylene rocque          tracy bush     edmonton
+10              eve belisle     brenda nicholls        martine comeau     julie rainville     montreal
+11          crystal webster  lori olson - johns      samantha preston  stephanie malekoff      calgary

@@ -1,0 +1,6 @@
+   rank          player        country  earnings  wins
+0     1     tiger woods  united states  33103852    34
+1     2  phil mickelson  united states  22149969    21
+2     3  davis love iii  united states  20050850    14
+3     4     vijay singh           fiji  18281015    11
+4     5      nick price       zimbabwe  16648337    18

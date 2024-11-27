@@ -1,0 +1,7 @@
+        player  touchdowns  extra points  field goals  points
+0       heston           2             0            0      10
+1       carter           2             0            0      10
+2     norcross           1             0            0       5
+3  tom hammond           0             2            0       2
+4       curtis           0             1            0       1
+5        total           5             3            0      28

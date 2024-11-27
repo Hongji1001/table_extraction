@@ -1,0 +1,11 @@
+   round  pick         player position    nationality                   team           college
+0      3    24     jim tucker        f  united states     syracuse nationals          duquesne
+1      3    26    don anielak        f  united states        new york knicks          sw state
+2      4    29    phil martin        g  united states        milwaukee hawks            toledo
+3      4    30  chuck noble +        g  united states  philadelphia warriors        louisville
+4      4    34  art spoelstra        c  united states       rochester royals  western kentucky
+5      5    43       bo erias        f  united states       rochester royals           niagara
+6      6    47     bob carney        g  united states        milwaukee hawks           bradley
+7      8    67     don bielke        c  united states     fort wayne pistons        valparaiso
+8      9    80  dick garmaker    g / f  united states     minneapolis lakers         minnesota
+9     11    95     jim paxson    g / f  united states       rochester royals            dayton

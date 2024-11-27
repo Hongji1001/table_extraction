@@ -1,0 +1,19 @@
+    rank             country  miss united continent  virreina  1st ru  2nd ru  3rd ru  4th ru  semifinalists  total
+0      1  dominican republic                      2         1       0       0       0       0              2      5
+1      2             ecuador                      2         0       2       0       0       0              1      5
+2      3              mexico                      1         1       2       0       0       0              1      5
+3      4              brazil                      1         1       1       0       0       0              3      6
+4      5            colombia                      1         0       0       0       0       0              3      4
+5      6                peru                      1         0       0       0       0       0              2      3
+6      7           venezuela                      0         1       1       0       0       0              4      6
+7      8              panama                      0         1       0       0       0       1              2      4
+8      9         puerto rico                      0         1       0       0       0       0              1      2
+9     10             uruguay                      0         1       0       0       1       0              0      2
+10    11               india                      0         1       0       0       0       0              0      1
+11    12               chile                      0         0       1       0       0       0              1      2
+12    13           argentina                      0         0       1       0       0       0              0      1
+13    14             belgium                      0         0       0       1       0       0              0      1
+14    15              canada                      0         0       0       0       0       0              1      1
+15    15            honduras                      0         0       0       0       0       0              1      1
+16    15          costa rica                      0         0       0       0       0       0              1      1
+17    15            paraguay                      0         0       0       0       0       0              1      1

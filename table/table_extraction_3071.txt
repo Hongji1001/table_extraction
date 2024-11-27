@@ -1,0 +1,8 @@
+             player  touchdowns  extra points  field goals  points
+0    dave allerdice           3            15            7      51
+1     joe magidsohn           4             0            0      20
+2   george m lawton           3             0            0      15
+3  stanley borleske           2             0            0      10
+4   stanfield wells           2             0            0      10
+5  james joy miller           1             0            0       5
+6   william wasmund           1             0            0       5

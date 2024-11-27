@@ -1,0 +1,6 @@
+     district              incumbent       party  first elected        result                           candidates
+0  arkansas 1     ezekiel c gathings  democratic           1938  re - elected     ezekiel c gathings (d) unopposed
+1  arkansas 2           wilbur mills  democratic           1938  re - elected           wilbur mills (d) unopposed
+2  arkansas 4  william fadjo cravens  democratic           1939  re - elected  william fadjo cravens (d) unopposed
+3  arkansas 5          david d terry  democratic           1933  re - elected          david d terry (d) unopposed
+4  arkansas 6      william f norrell  democratic           1938  re - elected      william f norrell (d) unopposed

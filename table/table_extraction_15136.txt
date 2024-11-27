@@ -1,0 +1,13 @@
+   place                player        country          score to par
+0      1        bobby clampett  united states  67 + 66 = 133   - 11
+1      2            nick price       zimbabwe  69 + 69 = 138    - 6
+2     t2       bernhard langer   west germany  70 + 69 = 139    - 5
+3     t2             des smyth        ireland  70 + 69 = 139    - 5
+4     t5            sandy lyle       scotland  74 + 66 = 140    - 4
+5     t5            tom watson  united states  69 + 71 = 140    - 4
+6     t7             ken brown       scotland  70 = 71 = 141    - 3
+7     t7      peter oosterhuis        england  74 + 67 = 141    - 3
+8      9           tom purtzer  united states  76 + 66 = 142    - 2
+9    t10  josé maria cañizares          spain  71 + 72 = 143    - 1
+10   t10          david graham      australia  73 + 70 = 143    - 1
+11   t10           bill rogers  united states  73 + 70 = 143    - 1

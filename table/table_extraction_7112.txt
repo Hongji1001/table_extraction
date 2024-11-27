@@ -1,0 +1,12 @@
+                  stadium  games        city                         state  capacity                             best crowd
+0         telstra stadium      7      sydney               new south wales     83500  82957 (final : australia vs england )
+1          aussie stadium      5      sydney               new south wales     41159             37137 ( scotland vs fiji )
+2   central coast stadium      3     gosford               new south wales     20119       19653 ( japan vs united states )
+3             win stadium      2  wollongong               new south wales     18484      17833 ( france vs united states )
+4         suncorp stadium      9    brisbane                    queensland     52500         48778 ( australia vs romania )
+5   dairy farmers stadium      3  townsville                    queensland     24843              21309 ( france vs japan )
+6            telstra dome      7   melbourne                      victoria     53371         54206 ( australia vs ireland )
+7            subiaco oval      5       perth             western australia     42922      38834 ( south africa vs england )
+8        canberra stadium      4    canberra  australian capital territory     24647               22641 ( italy vs wales )
+9         adelaide oval '      2    adelaide               south australia     33597         33000 ( australia vs namibia )
+10              york park      1  launceston                      tasmania     19891           15457 ( namibia vs romania )

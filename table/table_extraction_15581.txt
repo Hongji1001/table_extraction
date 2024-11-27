@@ -1,0 +1,21 @@
+                name position league apps  league goals fa cup apps  fa cup goals  league cup apps  league cup goals total apps  total goals
+0       terry austin       fw           3             0           0             0                1                 0          4            0
+1      malcolm brown       df          46             9           4             1                6                 1         56           11
+2        david burke       df          44             1           4             0                5                 0         53            1
+3      david cowling       mf          41             7           4             0                5                 1         56            8
+4          brian cox       gk          45             0           4             0                6                 0         55            0
+5        maurice cox       mf       3 (1)             1           0             0                1                 0      4 (1)            1
+6        steve doyle       mf      41 (1)             2           4             0                5                 0     50 (1)            2
+7      roy greenwood       df           4             0       0 (1)             0                2                 0      6 (1)            0
+8       keith hanvey       df          43             4           3             0                5                 0         51            4
+9      timothy hotte       fw       1 (1)             0           0             0                0                 0      1 (1)            0
+10     mick laverick       mf           2             0           0             0                0                 0          2            0
+11       mark lillis       mf          46            20           4             0                6                 0         56           20
+12       keith mason       gk           1             0           0             0                0                 0          1            0
+13        daral pugh       mf      9 (18)             2       0 (1)             0                0                 0     9 (19)            2
+14     colin russell       fw          41            16           4             0                4                 1         49           17
+15     brian stanton       mf      40 (4)            13           4             2                6                 2     50 (4)           17
+16  kevin stonehouse       fw           5             0           0             0                0                 0          5            0
+17       dave sutton       df          41             2           4             0                6                 0         51            2
+18   peter valentine       df           5             0           1             0                2                 0          8            0
+19       phil wilson       mf          45             6           4             0                6                 0         55            6

@@ -1,0 +1,8 @@
+   pick                  cfl team            player position          college
+0    33  saskatchewan roughriders  mike di battista       wr           ottawa
+1    34         toronto argonauts      andre talbot       wr  wilfrid laurier
+2    35     winnipeg blue bombers      howie dryden       db         manitoba
+3    36     hamilton tiger - cats     mike waszczuk       lb    slippery rock
+4    37          edmonton eskimos   guillaume petit       dl          alberta
+5    38        calgary stampeders    jeffrey simmer       lb           regina
+6    39         toronto argonauts   jermaine romans       db           acadia

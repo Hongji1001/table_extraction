@@ -1,0 +1,17 @@
+                                           name             nickname        location               home ground (s)            coach           captain
+0      bayswater - morley district cricket club                bears       bayswater             hillcrest reserve     craig kirkby     simon allison
+1             claremont - nedlands cricket club               tigers        nedlands  cresswell park melvista oval       tim cusack       jim allenby
+2               fremantle district cricket club                 freo       fremantle               stevens reserve    joe piromalli        chris wood
+3                         gosnells cricket club                hawks  southern river              sutherlands park  russell de lain     anthony caddy
+4              joondalup districts cricket club  northern centurions           iluka          iluka sports complex        ric olsen     michael swart
+5                         melville cricket club                storm     alfred cove                 tompkins park    brad thompson       drew porter
+6              midland - guildford cricket club                swans       caversham               lilac hill park    bruce yardley       chris pivac
+7            mount lawley district cricket club                hawks        dianella                 breckler park     graeme allen      shane rakich
+8                            perth cricket club               demons        carlisle                 fletcher park      steve mayne   christiaan moir
+9   rockingham - mandurah district cricket club             mariners  secret harbour      lark hill sports complex      wayne clark        aaron heal
+10                     scarborough cricket club                gulls     scarborough                   abbett park       mark coles   michael johnson
+11                     south perth cricket club            sky blues     south perth               richardson park      kim hagdorn     marshall hood
+12               subiaco - floreat cricket club                lions         floreat                  floreat oval     brett bowker      alex malcolm
+13                      university cricket club             students         crawley                    james oval      will stibbs       josh mangan
+14               wanneroo district cricket club                 roos         madeley              kingsway reserve        andy oram  robert fairchild
+15              willetton district cricket club              dragons       willetton             burrendah reserve    aaron harwood       kris elliot

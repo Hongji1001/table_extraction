@@ -1,0 +1,18 @@
+    year                      entrant        chassis             engine   points
+0   1970         scuderia ferrari spa   ferrari 312b  ferrari flat - 12       33
+1   1971         scuderia ferrari spa   ferrari 312b  ferrari flat - 12       13
+2   1971         scuderia ferrari spa  ferrari 312b2  ferrari flat - 12       13
+3   1972         scuderia ferrari spa  ferrari 312b2  ferrari flat - 12       15
+4   1973                 marlboro brm      brm p160d            brm v12        2
+5   1973                 marlboro brm      brm p160e            brm v12        2
+6   1974         scuderia ferrari spa  ferrari 312b3  ferrari flat - 12       52
+7   1975         scuderia ferrari spa  ferrari 312b3  ferrari flat - 12       25
+8   1975         scuderia ferrari spa   ferrari 312t  ferrari flat - 12       25
+9   1976         scuderia ferrari spa   ferrari 312t  ferrari flat - 12       31
+10  1976         scuderia ferrari spa  ferrari 312t2  ferrari flat - 12       31
+11  1977           team tissot ensign    ensign n177        cosworth v8        5
+12  1978           shadow racing team     shadow dn8        cosworth v8        4
+13  1978           shadow racing team     shadow dn9        cosworth v8        4
+14  1979  albilad - saudi racing team  williams fw06        cosworth v8  29 (32)
+15  1979  albilad - saudi racing team  williams fw07        cosworth v8  29 (32)
+16  1980          unipart racing team    ensign n180        cosworth v8        0

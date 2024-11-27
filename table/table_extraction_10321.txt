@@ -1,0 +1,7 @@
+   year   location         gold       silver          bronze
+0  1986      seoul  south korea        japan           india
+1  1994  hiroshima        japan  south korea  chinese taipei
+2  1998    bangkok  south korea     malaysia        thailand
+3  2002      busan  south korea        japan           china
+4  2006       doha  south korea     malaysia           japan
+5  2010  guangzhou  south korea        china        malaysia

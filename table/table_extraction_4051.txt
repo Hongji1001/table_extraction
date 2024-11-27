@@ -1,0 +1,15 @@
+    rank                    name                 team  goals  appearances
+0      1        pavel pogrebnyak  zenit st petersburg     10           13
+1      1               luca toni        bayern munich     10           11
+2      3         stefan kießling     bayer leverkusen      7           12
+3      4             adrian mutu           fiorentina      6           10
+4      4          henrik larsson          helsingborg      6            8
+5      4        razak omotoyossi          helsingborg      6            8
+6      7           sergio agüero      atlético madrid      5            7
+7      7        dimitar berbatov    tottenham hotspur      5            8
+8      7      fernando cavenaghi             bordeaux      5            7
+9      7          miroslav klose        bayern munich      5           12
+10     7             roland linz                braga      5            8
+11     7  dimitrios papadopoulos        panathinaikos      5            7
+12     7          lukas podolski        bayern munich      5           12
+13     7       jon dahl tomasson           villarreal      5            8

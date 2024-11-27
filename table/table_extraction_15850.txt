@@ -1,0 +1,9 @@
+   rank  lane               name     nationality     time
+0     1     5    takeshi matsuda           japan  1:54.02
+1     2     3  nikolay skvortsov          russia  1:54.31
+2     3     4        lászló cseh         hungary  1:54.35
+3     4     2     moss burmester     new zealand  1:55.26
+4     5     6        gil stovall   united states  1:55.36
+5     6     7        dinko jukić         austria  1:55.65
+6     7     1      sergiy advena         ukraine  1:56.64
+7     8     8    hsu chi - chieh  chinese taipei  1:57.48

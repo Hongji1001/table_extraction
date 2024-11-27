@@ -1,0 +1,32 @@
+         season            bayernliga                        landesliga süd             landesliga mitte                landesliga nord
+0     1980 - 81          tsv trebgast                 tsv schwaben augsburg                tsv straubing                     vfb coburg
+1     1981 - 82   sc fürstenfeldbruck                      spvgg kaufbeuren               spvgg landshut                 ft schweinfurt
+2     1982 - 83          fc memmingen                          tsv aindling                    fc amberg                sv heidingsfeld
+3     1983 - 84           tsv ampfing                     wacker burghausen            fsv bad windsheim                sv heidingsfeld
+4     1984 - 85        mtv ingolstadt                            tsv eching              spvgg plattling                vfb helmbrechts
+5     1985 - 86       sv heidingsfeld                     fc wacker münchen            fsv bad windsheim                vfb helmbrechts
+6     1986 - 87          fc memmingen                        mtv ingolstadt            fsv bad windsheim                vfb helmbrechts
+7     1987 - 88   ssv jahn regensburg                 tsv schwaben augsburg                   fc miltach                vfb helmbrechts
+8     1988 - 89           tsv ampfing                          fc memmingen                  spvgg fürth                 sv memmelsdorf
+9     1989 - 90       spvgg starnberg                             sv lohhof                    fc passau                djk schweinfurt
+10    1990 - 91        spvgg bayreuth                       fc gundelfingen           1. fc nuremberg ii                  vfl frohnlach
+11    1991 - 92  sv türk gücü münchen                       fc gundelfingen               spvgg landshut                sv heidingsfeld
+12    1992 - 93            tsv eching                       fc gundelfingen                 bsc erlangen                  fc bayern hof
+13    1993 - 94   ssv jahn regensburg     fc enikon augsburg mtv ingolstadt       fc amberg spvgg weiden  sv heidingsfeld vfl frohnlach
+14    1994 - 95    fc enikon augsburg                            tsv eching                 spvgg weiden              alemannia haibach
+15    1995 - 96       vfb helmbrechts                          tsv aindling             tsv 04 schwabach              alemannia haibach
+16    1996 - 97        spvgg bayreuth                         tsv landsberg          ssv jahn regensburg                 fv würzburg 04
+17    1997 - 98          fc memmingen                  sv türk gücü münchen           1. fc nuremberg ii                 fv würzburg 04
+18    1998 - 99         fc bayern hof                          tsv bobingen                spvgg ansbach                   djk waldberg
+19  1999 - 2000        spvgg landshut                        mtv ingolstadt           1. fc bad kötzting                 spvgg bayreuth
+20    2000 - 01            fc kempten                 spvgg unterhaching ii          fc linde schwandorf                tsv großbardorf
+21    2001 - 02        fv würzburg 04                 tsv schwaben augsburg               spvgg landshut                  vfl frohnlach
+22    2002 - 03       sg quelle fürth                            sv gendorf                    fc passau               tsv grossbardorf
+23    2003 - 04             fc passau                    bcf wolfratshausen              sg quelle fürth                  1. fc bamberg
+24    2004 - 05         spvgg ansbach                            fc kempten                 asv neumarkt                  fc bayern hof
+25    2005 - 06            fc kempten                       tsg thannhausen        freier tus regensburg        1. fc eintracht bamberg
+26    2006 - 07       tsv großbardorf                       tsg thannhausen       sv schalding - heining              alemannia haibach
+27    2007 - 08     fc schweinfurt 05  fc ingolstadt 04 ii tsv rain am lech  sv seligenporten djk vilzig    kickers würzburg sv friesen
+28    2008 - 09      sv seligenporten                             fc affing               spvgg landshut                     1. fc sand
+29    2009 - 10         spvgg ansbach                         vfb eichstätt         tsv neustadt / aisch              fc schweinfurt 05
+30    2010 - 11      spvgg bayern hof                        tsv gersthofen       ssv jahn regensburg ii                  spvgg selbitz

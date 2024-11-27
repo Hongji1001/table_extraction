@@ -1,0 +1,8 @@
+   year                      event        venue              driver result
+0  1975  brdc international trophy  silverstone   wilson fittipaldi    ret
+1  1978  brdc international trophy  silverstone  emerson fittipaldi      2
+2  1979   gran premio dino ferrari        imola        alex ribeiro    ret
+3  1980         spanish grand prix       jarama  emerson fittipaldi      5
+4  1980         spanish grand prix       jarama        keke rosberg    ret
+5  1981   south african grand prix      kyalami        keke rosberg      4
+6  1981   south african grand prix      kyalami         chico serra      9

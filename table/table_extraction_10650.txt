@@ -1,0 +1,9 @@
+   round  pick  overall               name          position               college
+0      1    21       21         matt jones     wide receiver              arkansas
+1      2    20       52      khalif barnes  offensive tackle            washington
+2      3    23       87       scott starks        cornerback             wisconsin
+3      4    26      127      alvin pearman      running back              virginia
+4      5    21      157  gerald sensabaugh            safety        north carolina
+5      6    11      185         chad owens     wide receiver                hawaii
+6      6    20      194         pat thomas        linebacker  north carolina state
+7      7    23      237     chris roberson        cornerback      eastern michigan

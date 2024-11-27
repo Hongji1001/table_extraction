@@ -1,0 +1,35 @@
+     pinnacle height  year     structure type                              main use country                           town
+0                  -  1969         guyed mast                vhf - uhf transmission      us          hemingford , nebraska
+1                  -  1992         guyed mast                vhf - uhf transmission      us              liverpool , texas
+2                  -  2001         guyed mast                vhf - uhf transmission      us        dillon , south carolina
+3                  -  1990         guyed mast                vhf - uhf transmission      us                bertram , texas
+4                  -  2002         guyed mast                vhf - uhf transmission      us           collinsville , texas
+5   - (orig 609.6 m)  1971         guyed mast                vhf - uhf transmission      us            fordland , missouri
+6                  -  1981         guyed mast                vhf - uhf transmission      us      winnabow , north carolina
+7                  -  2001         guyed mast                vhf - uhf transmission      us          robertsdale , alabama
+8                  -  1985         guyed mast                vhf - uhf transmission      us        dallas , north carolina
+9                  -  1977         guyed mast                vhf - uhf transmission      us                grady , alabama
+10                 -  1986         guyed mast                vhf - uhf transmission      us           columbia , louisiana
+11                 -  1988         guyed mast                vhf - uhf transmission      us              splendora , texas
+12                 -  1974         guyed mast                vhf - uhf transmission      us             walker city , iowa
+13                 -  1981         guyed mast                vhf - uhf transmission      us                   eddy , texas
+14                 -  1998         guyed mast                vhf - uhf transmission      us              greenwood , texas
+15                 -  1999         guyed mast                vhf - uhf transmission      us        rio grande city , texas
+16                 -  2004         guyed mast                vhf - uhf transmission      us     randleman , north carolina
+17                 -  1988         guyed mast                vhf - uhf transmission      us              coweta , oklahoma
+18                 -  2004         guyed mast                vhf - uhf transmission      us          robertsdale , alabama
+19                 -  1998  offshore platform                          oil drilling      us  garden banks , gulf of mexico
+20                 -  1978         guyed mast                vhf - uhf transmission      us            bethlehem , florida
+21                 -  1985         guyed mast                vhf - uhf transmission      us            redfield , arkansas
+22                 -  2002         guyed mast                vhf - uhf transmission      us    greensboro , north carolina
+23                 -  2000         guyed mast                vhf - uhf transmission      us               shepherd , texas
+24                 -  1986         guyed mast                vhf - uhf transmission      us         spanish fort , alabama
+25                 -  2000         guyed mast                vhf - uhf transmission      us          saint cloud , florida
+26                 -  1980         guyed mast                vhf - uhf transmission      us    gray court , south carolina
+27                 -  1965         guyed mast                vhf - uhf transmission      us               genoa , nebraska
+28                 -  1993         guyed mast                vhf - uhf transmission      us            princeton , florida
+29                 -  1985         guyed mast                vhf - uhf transmission      us              gretna , nebraska
+30                 -  1965         guyed mast                vhf - uhf transmission      us           roswell , new mexico
+31                 -  1984         guyed mast                vhf - uhf transmission      us               oneta , oklahoma
+32                 -  2003         guyed mast                vhf - uhf transmission      us         shreveport , louisiana
+33                 -  1976     concrete tower  observation , vhf - uhf transmission  canada              toronto , ontario

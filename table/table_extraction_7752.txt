@@ -1,0 +1,24 @@
+               name country          status transfer window transfer fee
+0    roberto carlos     bra  contract ended          summer         free
+1          helguera     esp  contract ended          summer         free
+2             pavón     esp  contract ended          summer         free
+3           beckham     eng  contract ended          summer         free
+4             mejía     esp  contract ended          summer         free
+5         miñambres     esp         retired          summer         free
+6           cicinho     bra     transferred          summer          9 m
+7          woodgate     eng     transferred          summer          7 m
+8             lópez     esp     transferred          summer          7 m
+9           émerson     bra     transferred          summer          5 m
+10            diogo     ury     transferred          summer        4.5 m
+11        de la red     esp     transferred          summer         loan
+12            bravo     esp     transferred          summer        2.3 m
+13      javi garcía     esp     transferred          summer  undisclosed
+14            rayco     esp     transferred          summer  undisclosed
+15  miguel palencia     esp     transferred          summer  undisclosed
+16            reyes     esp      loan ended          summer            -
+17          cassano     ita      loaned out          summer            -
+18           garcía     ury      loaned out          summer            -
+19         gonzález     esp      loaned out          summer            -
+20             agus     esp      loaned out          summer            -
+21          granero     esp      loaned out          summer            -
+22         gonzález     esp      loaned out          winter            -

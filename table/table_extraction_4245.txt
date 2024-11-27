@@ -1,0 +1,19 @@
+                               network origin of programming   language    genre  service
+0                              asianet                 india  malayalam  general  starhub
+1                        channel india                 india      hindi    music  starhub
+2                            channel i            bangladesh    bengali  general  starhub
+3                               colors                 india      hindi  general  starhub
+4                              set max                 india      hindi   movies  starhub
+5   sony entertainment television asia                 india      hindi  general  starhub
+6                         star cricket                 india    english  cricket  starhub
+7                      star cricket hd                 india    english  cricket  starhub
+8                            star gold                 india      hindi   movies  starhub
+9                            star plus                 india      hindi  general  starhub
+10                           sun music                 india      tamil    music  starhub
+11                              sun tv                 india      tamil  general  starhub
+12                         ten cricket                 india    english  cricket  starhub
+13                         vannathirai             singapore      tamil   movies  starhub
+14                               vijay                 india      tamil  general  starhub
+15                          zee cinema                 india      hindi   movies  starhub
+16                            zee news                 india      hindi     news  starhub
+17                              zee tv                 india      hindi  general  starhub

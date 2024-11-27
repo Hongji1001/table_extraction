@@ -1,0 +1,6 @@
+           nation  gold  silver  bronze  total
+0         belgium     2       2       1      5
+1     switzerland     1       0       0      1
+2           italy     0       1       0      1
+3         denmark     0       0       1      1
+4  czech republic     0       0       1      1

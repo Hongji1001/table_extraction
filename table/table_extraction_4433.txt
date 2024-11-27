@@ -1,0 +1,12 @@
+    round  overall            player       position                school / club team
+0       1       27     charles white   running back                               usc
+1       2       54  cleveland crosby  defensive end                         wisconsin
+2       3       72        cliff odom     linebacker  university of texas at arlington
+3       4       99         ron crews    nose tackle                              unlv
+4       4      109     paul mcdonald    quarterback                               usc
+5       5      116      elvis franks  defensive end                      morgan state
+6       8      209     jeff copeland     linebacker                        texas tech
+7       9      236       roy de walt   running back  university of texas at arlington
+8      10      263       kevin fidel         center                   san diego state
+9      11      294      roland sales   running back                          arkansas
+10     12      321    marcus jackson  defensive end                            purdue

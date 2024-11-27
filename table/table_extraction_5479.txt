@@ -1,0 +1,11 @@
+          region                date                    label    format       catalog
+0         europe   october 11 , 2004      sony bmg , columbia        cd  col 518748 9
+1         europe   october 11 , 2004      sony bmg , columbia  cd / dvd  col 518748 7
+2  united states   october 12 , 2004                     epic        cd       5187482
+3  united states   october 12 , 2004                     epic  cd / dvd       5187487
+4         canada   october 12 , 2004      sony bmg , columbia        cd       5187482
+5         canada   october 12 , 2004      sony bmg , columbia  cd / dvd       5187487
+6      australia   october 15 , 2004          sony bmg , epic        cd       5187482
+7      australia   october 15 , 2004          sony bmg , epic  cd / dvd       5187487
+8    south korea  november 16 , 2004      sony bmg , columbia        cd    cpk - 3337
+9          japan  december 22 , 2004  sony music japan , epic        cd       5187482

@@ -1,0 +1,8 @@
+        name      model      max fs  tested fs                                    short description  publication                     method  output  status
+0  madgraph5  any model  1 / 2 - >n     2 - >8  complete , massive , helicity , color , decay chain  what is mg5  ha (automatic generation)  output      pd
+1      grace  sm / mssm      2 - >n     2 - >6                complete , massive , helicity , color  manual v2.0                         ha  output      pd
+2    comphep      model      max fs  tested fs                                    short description  publication                     method  output  status
+3    calchep      model      max fs  tested fs                                    short description  publication                     method  output  status
+4     sherpa  sm / mssm      2 - >n     2 - >8                                              massive  publication                    ha / ds  output      pd
+5     geneva      model      max fs  tested fs                                    short description  publication                     method  output  status
+6      helac      model      max fs  tested fs                                    short description  publication                     method  output  status

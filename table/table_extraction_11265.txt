@@ -1,0 +1,6 @@
+               team  tries for  tries against try diff  points for  points against points diff
+0         leicester         14              3       11         114              43          71
+1          llanelli          9              9        0          97              81          16
+2          leinster          9             12      - 3          86             109        - 23
+3               pau         19             10        9         137             103          34
+4  scottish borders          7             24     - 17          80             178        - 98

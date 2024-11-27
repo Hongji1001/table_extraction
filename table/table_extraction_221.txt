@@ -1,0 +1,6 @@
+            player          no    nationality position           years for jazz school / club team
+0       mark eaton          53  united states   center                1982 - 94               ucla
+1      jerry eaves          31  united states    guard                1982 - 84         louisville
+2     blue edwards          30  united states    guard    1989 - 92 , 1994 - 95      east carolina
+3    howard eisley  10 (and 6)  united states    guard  1995 - 2000 , 2004 - 05     boston college
+4  francisco elson          16    netherlands   center                2010 - 11         california

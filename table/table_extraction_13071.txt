@@ -1,0 +1,16 @@
+                   name gp - gs  gain  loss  long avg / g
+0      edwards , antwan  10 - 6   516    76    47    44.0
+1         babb , justin  10 - 0   162    15    24    14.7
+2        may , reginald   5 - 2   102     3    16    19.8
+3     williams , reggie  10 - 0   105    17    24     8.8
+4         beard , jamie  10 - 8    93    12    39     8.1
+5        mccrary , greg   7 - 3   183   133    25     7.1
+6   kilcrease , jacorey   7 - 5   116    68    20     6.9
+7       cochran , vince   9 - 0    11     9    11     0.2
+8        rhines , chris   9 - 1    28    28    18     0.0
+9    hollinger , deleon  10 - 7     0     1     0   - 0.1
+10                 team   4 - 0     0     1     0   - 0.2
+11    webster , brandon   2 - 0     0    11     0   - 5.5
+12     johnson , jeremy  10 - 0     0    43     0   - 4.3
+13                total      10  1316   417    47    89.9
+14            opponents      10  2254   220    80   203.4

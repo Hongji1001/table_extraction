@@ -1,0 +1,9 @@
+                       track           city       state opened (closing date if defunct)   surface      length
+0  altamont motorsports park          tracy  california                      1966 - 2008   asphalt  miles (km)
+1         evergreen speedway         monroe  washington                             1954   asphalt  miles (km)
+2           holland speedway        holland    new york                             1960  concrete  miles (km)
+3     indianapolis speedrome   indianapolis     indiana                             1945   asphalt  miles (km)
+4     little valley speedway  little valley    new york     1932 - 2011 (figure 8 track)      clay  miles (km)
+5         manzanita speedway        phoenix     arizona                      1951 - 2010   asphalt  miles (km)
+6          riverhead raceway      riverhead    new york                             1951   asphalt  miles (km)
+7           slinger speedway        slinger   wisconsin                             1974   asphalt  miles (km)

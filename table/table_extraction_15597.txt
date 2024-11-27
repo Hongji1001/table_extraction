@@ -1,0 +1,9 @@
+  constituency number        name reserved for ( sc / st / none)    district  number of electorates (2009)
+0                 122   junnardeo                             st  chhindwara                        166102
+1                 123    amarwara                             st  chhindwara                        176552
+2                 124      churai                           none  chhindwara                        150531
+3                 125     saunsar                           none  chhindwara                        153395
+4                 126  chhindwara                           none  chhindwara                        188788
+5                 127     parasia                             sc  chhindwara                        163299
+6                 128   pandhurna                             st  chhindwara                        152658
+7             total :     total :                        total :     total :                       1151325

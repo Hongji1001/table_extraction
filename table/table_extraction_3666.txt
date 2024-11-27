@@ -1,0 +1,9 @@
+   pick                  cfl team             player position            college
+0     1         toronto argonauts          chad folk       ol               utah
+1     2  saskatchewan roughriders    ben fairbrother       ol            calgary
+2     3          edmonton eskimos       ian franklin       cb        weber state
+3     4     hamilton tiger - cats        tim prinsen       og       north dakota
+4     5        calgary stampeders         doug brown       dl       simon fraser
+5     6        montreal alouettes  steve charbonneau       dl      new hampshire
+6     7                   calgary      jason clemett       lb       simon fraser
+7     8                  edmonton      mark farraway       dl  st francis xavier

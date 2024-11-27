@@ -1,0 +1,38 @@
+                rider manufacturer  laps time / retired  grid
+0   lucio cecchinello      aprilia    24      42:09.029     4
+1     manuel poggiali       gilera    24        + 0.076     1
+2        dani pedrosa        honda    24        + 0.604     3
+3      arnaud vincent      aprilia    24        + 0.865     5
+4         masao azuma        honda    24        + 0.943     2
+5         pablo nieto      aprilia    24        + 1.618     7
+6      stefano bianco      aprilia    24        + 3.769    19
+7         mika kallio        honda    24        + 8.680    20
+8    andrea dovizioso        honda    24        + 8.915    11
+9         gino borsoi      aprilia    24        + 9.534     8
+10      steve jenkner      aprilia    24       + 11.749    16
+11    mirko giansanti        honda    24       + 20.252    13
+12      max sabbatani      aprilia    24       + 32.082    21
+13       klaus nöhles        honda    24       + 35.206    26
+14     héctor barberá      aprilia    24       + 49.526    25
+15   andrea ballerini        honda    24     + 1:02.359    23
+16    michel fabrizio       gilera    24     + 1:07.571    28
+17        chaz davies      aprilia    24     + 1:10.303    22
+18      jorge lorenzo        derbi    24     + 1:10.998    29
+19     grégory lefort      aprilia    24     + 1:11.479    31
+20    mattia angeloni       gilera    24     + 1:36.333    32
+21          imre tóth        honda    24     + 1:41.034    35
+22        jimmy petit        honda    24     + 1:42.517    33
+23    grégory leblanc        honda    24        + 1 lap    37
+24      yoann tiberio        honda    24        + 1 lap    36
+25    alex de angelis      aprilia    11       accident     6
+26     jaroslav huleš      aprilia    11       accident    15
+27       simone sanna      aprilia    10       accident    12
+28         joan olivé        honda    10       accident    14
+29     alex baldolini      aprilia    10       accident    30
+30    ángel rodríguez      aprilia     8       accident     9
+31         youichi ui        derbi     8       accident    10
+32     gábor talmácsi      italjet     5       accident    18
+33        noboru ueda        honda     5       accident    17
+34   stefano perugini      italjet     4     retirement    27
+35         jakub smrž        honda     0     retirement    24
+36  vincent braillard        honda     0       accident    34

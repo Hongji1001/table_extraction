@@ -1,0 +1,12 @@
+    rank                         name height m ( ft )  floors  year
+0      1       édifice marie - guyart               -      33  1972
+1      2   complexe jules dallaire ii               -      28  2013
+2      3             place hauteville               -      34  1974
+3      4      hôtel loews le concorde               -      31  1974
+4      5          hôtel hilton québec               -      28  1974
+5      6                édifice price               -      18  1930
+6      7         place de la capitale               -      21  1974
+7      8        le samuel - holland i               -      24  1981
+8      9             chteau frontenac               -      18  1893
+9     10           édifice d'youville               -      21  1969
+10    11  complexe jules - dallaire i               -      17  2010

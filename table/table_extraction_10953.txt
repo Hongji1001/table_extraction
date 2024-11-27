@@ -1,0 +1,10 @@
+        nation                skip              third                second               lead              alternate
+0      austria        alois kreidl    stefan salinger   hubert grã¼ndhammer    florian lintner            max ehammer
+1      belarus      yauhen puchkou       dmitry yarko        ihar mishaniov    dmitry kirillov        yauheni fedchun
+2      england         andrew reed        james dixon         thomas jaeggi       andrew dixon         john m l brown
+3      estonia          erkki lill         harri lill         jaanus lindre      indrek ernits       tanel telliskivi
+4      finland     kalle kiiskinen     jani sullanmaa            teemu salo      jari rouvinen         juha pekaristo
+5    lithuania    andrius jurkonis  arturas smaliukas  piotras gerasimovici  dalius grakavinas     vygantas zalieckas
+6  netherlands          rob vilain       brian doucet         miles maclure      erik dijkstra  laurens van der windt
+7       poland  krzysztof kowalski     wojciech woyda   przemyslaw stachura     bartosz klimas         tomasz korolko
+8       russia      andrey drozdov   alexey stukalsky        artem bolduzev      alexey kamnev          roman kutuzov

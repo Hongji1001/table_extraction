@@ -1,0 +1,17 @@
+    year                            tournament                                 venue result  event
+0   2005        european amateur championships                     tãnsberg , norway    1st  60 kg
+1   2006        european amateur championships                       warsaw , poland    1st  60 kg
+2   2006            world amateur championship                     new delhi , india    1st  60 kg
+3   2007        european amateur championships                       vejle , denmark    1st  60 kg
+4   2008  european union amateur championships                   liverpool , england    1st  60 kg
+5   2008            world amateur championship  ningbo , people 's republic of china    1st  60 kg
+6   2009  european union amateur championships                 pazardzhik , bulgaria    1st  60 kg
+7   2009         russian multi - nations event                st petersburg , russia    1st  60 kg
+8   2009        european amateur championships                    mykolaiv , ukraine    1st  60 kg
+9   2010  european union amateur championships                   keszthely , hungary    1st  60 kg
+10  2010            world amateur championship                              barbados    1st  60 kg
+11  2011  european union amateur championships                     katowice , poland    1st  60 kg
+12  2011        european amateur championships               rotterdam , netherlands    1st  60 kg
+13  2012            world amateur championship                   qinhuangdao , china    1st  60 kg
+14  2012                         olympic games               london , united kingdom    1st  60 kg
+15  2013  european union amateur championships                   keszthely , hungary    1st  60 kg

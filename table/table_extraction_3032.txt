@@ -1,0 +1,11 @@
+      settlement cyrillic name other names     type  population (2011) largest ethnic group (2002) dominant religion (2002)
+0       novi sad                  нови сад     city             250439                       serbs    orthodox christianity
+1          futog                     футог     town              18641                       serbs    orthodox christianity
+2          begeč                     бегеч  village               3325                       serbs    orthodox christianity
+3       budisava                  будисава  village               3656                       serbs    orthodox christianity
+4          čenej                     ченеј  village               2125                       serbs    orthodox christianity
+5            kać                       каћ  village              11740                       serbs    orthodox christianity
+6          kisač    кисач (slovak : kysáč)  village               5091                     slovaks            protestantism
+7         kovilj                     ковиљ  village               5414                       serbs    orthodox christianity
+8        rumenka                   руменка  village               6495                       serbs    orthodox christianity
+9  stepanovićevo             степановићево  village               2021                       serbs    orthodox christianity

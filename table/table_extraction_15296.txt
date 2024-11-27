@@ -1,0 +1,8 @@
+                   name      circuit          date    winning driver winning constructor  report
+0         garda circuit  salã square        22 may   eugenio silvani             bugatti  report
+1          targa florio      madonie        29 may    giulio masetti                fiat  report
+2   coppa della cascine     florence        6 june               deo           chiribiri  report
+3       mugello circuit      mugello       24 july  giuseppe campari          alfa romeo  report
+4          coppa florio      brescia   4 september        jules goux              ballot  report
+5  gentlemen grand prix      brescia  11 september    giulio masetti            mercedes  report
+6       coppa montenero    montenero  25 september     corrado lotti             ansaldo  report

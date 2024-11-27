@@ -1,0 +1,29 @@
+                        type         released                                             cc license sources available open source movie commercial reuse
+0                documentary             2002                                              by 2.5 au         on demand               yes              yes
+1                short films         7 / 2003                                       by - nc - nd 1.0                no                no               no
+2        short film (german)         9 / 2003                                       by - nc - sa 1.0                no                no               no
+3               full feature        04 / 2004                                       by - nc - nd 1.0                no                no               no
+4          documentary style             2004                                       by - nc - sa 2.0         on demand         partially               no
+5               full feature             2005                                       by - nc - nd 3.0                no                no               no
+6             animated short        04 / 2006                                                 by 2.5               yes               yes              yes
+7               full feature        07 / 2006                                       by - nc - sa 2.5               yes         partially               no
+8               full feature             2006                                       by - nc - nd 2.5                no                no               no
+9              remix project             2006                                       by - nc - sa 3.0               yes               yes               no
+10  contemporary art project             2007                                          public domain               yes               yes              yes
+11              full feature             2007                                       by - nc - nd 3.0                no                no               no
+12            animated short        08 / 2008                                                 by 3.0               yes               yes              yes
+13              feature film             2008                                       by - nc - sa 3.0               yes               yes               no
+14              full feature   9 october 2008                                            by - nc 3.0                no                no               no
+15              feature film        12 / 2008                                                 by 3.0                no                no              yes
+16              full feature         3 / 2009                                                cc0 1.0               yes                no              yes
+17                short film     3 / 1 / 2009  by - nc - sa 3.0 (final) , by - sa 3.0 (source files)               yes               yes               no
+18              full feature         5 / 2009                                       by - nc - nd 3.0                no                no               no
+19              feature film        11 / 2009                                                 by 3.0                no                no              yes
+20              feature film             2009                                       by - nc - sa 3.0                no                no               no
+21              full feature        01 / 2010                                            by - sa 3.0               yes               yes              yes
+22              feature film        06 / 2010                                                 by 3.0                no                no              yes
+23              feature film        09 / 2010                               by - nc - sa 2.5 swedish                no                no               no
+24            animated short     10 / 10 / 10                                       by - nc - sa 3.0       by - sa 3.0               yes               no
+25               documentary  30th april 2011                                           by - nc - sa                no                no               no
+26               documentary    9th june 2011                                           by - nc - nd                no                no               no
+27              feature film             2012                                                 by 3.0                no                no              yes

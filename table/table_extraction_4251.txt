@@ -1,0 +1,14 @@
+             station         municipality          county former railroad  closed
+0             ampere          east orange      essex , nj      lackawanna    1991
+1          arlington              kearney     hudson , nj            erie    2002
+2      benson street           glen ridge      essex , nj            erie    2002
+3   fairmount avenue           hackensack     bergen , nj            erie    1983
+4           finderne             finderne   somerset , nj  jersey central    2006
+5        great notch          great notch    passaic , nj            erie    2010
+6       grove street          east orange      essex , nj      lackawanna    1991
+7        harmon cove             secaucus     hudson , nj            erie    2003
+8           harrison             harrison     hudson , nj      lackawanna    1984
+9       north newark               newark      essex , nj      lackawanna    1984
+10      north rahway               rahway  fairfield , nj    pennsylvania    1993
+11  roseville avenue               newark      essex , nj      lackawanna    1984
+12       rowe street  bloomfield township      essex , nj            erie    2002

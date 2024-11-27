@@ -1,0 +1,6 @@
+  television service country language        content hdtv   package / option
+0         sky inside   italy  italian  presentazione   no         no ( fta )
+1         sky inside   italy  italian  presentazione   no         no ( fta )
+2         sky inside   italy  italian  presentazione   no         no ( fta )
+3           sky test   italy  italian     monoscopio   no  qualsiasi ( fta )
+4         sky assist   italy  italian     assistenza   no          qualsiasi

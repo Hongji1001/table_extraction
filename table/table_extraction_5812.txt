@@ -1,0 +1,25 @@
+                     driver      constructor  laps time / retired  grid
+0        juan manuel fangio         maserati    22      3:30:38.3     1
+1             mike hawthorn          ferrari    22     + 3.6 secs     2
+2             peter collins          ferrari    22    + 35.6 secs     4
+3               luigi musso          ferrari    22       + 3:37.6     8
+4             stirling moss          vanwall    22       + 4:37.2     7
+5                jean behra         maserati    22       + 4:38.5     3
+6              harry schell         maserati    22       + 6:47.5     6
+7            masten gregory         maserati    21        + 1 lap    10
+8               tony brooks          vanwall    21        + 1 lap     5
+9         giorgio scarlatti         maserati    21        + 1 lap    13
+10            bruce halford         maserati    21        + 1 lap    16
+11              edgar barth          porsche    21        + 1 lap    12
+12             brian naylor  cooper - climax    20       + 2 laps    17
+13  carel godin de beaufort          porsche    20       + 2 laps    20
+14               tony marsh  cooper - climax    17       + 5 laps    22
+15            hans herrmann         maserati    14        chassis    11
+16         umberto maglioli          porsche    13         engine    15
+17            roy salvadori  cooper - climax    11     suspension    14
+18               paco godia         maserati    11       steering    21
+19     stuart lewis - evans          vanwall    10        gearbox     9
+20             jack brabham  cooper - climax     6   transmission    18
+21             paul england  cooper - climax     4    distributor    23
+22              dick gibson  cooper - climax     3       steering    24
+23             horace gould         maserati     2           axle    19

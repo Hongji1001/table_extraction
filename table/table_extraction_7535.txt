@@ -1,0 +1,48 @@
+                                      name   years gender              area         authority decile
+0                           aorangi school   1 - 6   coed   western heights             state      2
+1                        broadlands school   1 - 6   coed           reporoa             state      9
+2                          chapman college  1 - 15   coed       mangakakahi           private  n / a
+3                         glenholme school   1 - 6   coed           rotorua             state      3
+4                          horohoro school   1 - 8   coed          horohoro             state      3
+5                        john paul college  7 - 13   coed           rotorua  state integrated      7
+6                           kaharoa school   1 - 8   coed  rotorua district             state      9
+7                  kaingaroa forest school   1 - 8   coed  kaingaroa forest             state      1
+8                      kaitao intermediate   7 - 8   coed   western heights             state      2
+9                      kawaha point school   1 - 6   coed      kawaha point             state      4
+10            kea street specialist school       -   coed    selwyn heights             state      2
+11               lake rerewhakaaitu school   1 - 8   coed     rerewhakaaitu             state      6
+12                      lake rotoma school   1 - 8   coed           rotorua             state      4
+13                  lynmore primary school   1 - 6   coed           lynmore             state      9
+14                          malfroy school   1 - 6   coed           rotorua             state      3
+15                           mamaku school   1 - 8   coed            mamaku             state      3
+16                             mihi school   1 - 6   coed           reporoa             state      7
+17                     mokoia intermediate   7 - 8   coed            owhata             state      5
+18                          ngakuru school   1 - 8   coed           rotorua             state      9
+19                       ngongotaha school   1 - 6   coed        ngongotaha             state      3
+20                      otonga road school   1 - 6   coed           rotorua             state      9
+21                           owhata school   1 - 6   coed            owhata             state      3
+22                         reporoa college  7 - 13   coed           reporoa             state      6
+23                          reporoa school   1 - 6   coed           reporoa             state      8
+24                         rotokawa school   1 - 6   coed           rotorua             state      5
+25               rotorua boys' high school  9 - 13   boys           rotorua             state      4
+26              rotorua girls' high school  9 - 13  girls           rotorua             state      4
+27                    rotorua intermediate   7 - 8   coed           rotorua             state      4
+28               rotorua lakes high school  9 - 13   coed           te ngae             state      5
+29  rotorua seventh - day adventist school   1 - 8   coed         glenholme  state integrated      3
+30                          rotorua school   1 - 8   coed           rotorua             state      2
+31        rotorua school for young parents       -      -   rotorua central             state      1
+32                           selwyn school   1 - 6   coed           rotorua             state      2
+33              st mary 's catholic school   1 - 6   coed           rotorua  state integrated      5
+34           st michael 's catholic school   1 - 6   coed   western heights  state integrated      3
+35                   sunset primary school   1 - 6   coed            sunset             state      1
+36              te kura o te whakarewarewa   1 - 8   coed     whakarewarewa             state      2
+37                   tkkm o hurungaterangi   1 - 8   coed           ngapuna             state      1
+38                          tkkm o rotoiti   1 - 8   coed  rotorua district             state      2
+39                          tkkm o ruamata  1 - 13   coed          rotokawa             state      2
+40                         tkkm o te koutu  1 - 13   coed           rotorua             state      3
+41                   upper atiamuri school   1 - 8   coed          atiamuri             state      5
+42                   waikite valley school   1 - 8   coed    waikite valley             state     10
+43                        westbrook school   1 - 6   coed           rotorua             state      4
+44             western heights high school  9 - 13   coed           rotorua             state      4
+45                  western heights school   1 - 6   coed   western heights             state      2
+46                     whangamarino school   1 - 8   coed  rotorua district             state      3

@@ -1,0 +1,21 @@
+                           name  labour  conservative political party  electorate      constituency
+0                      budshead       2             1      no overall        9697         devonport
+1                       compton       0             3    conservative        9270            sutton
+2                     devonport       3             0          labour        9880         devonport
+3                         drake       0             2    conservative        6362            sutton
+4             efford and lipson       3             0          labour        9716            sutton
+5                   eggbuckland       0             3    conservative       10050         devonport
+6                           ham       3             0          labour        9870         devonport
+7                   honicknowle       3             0          labour       10306         devonport
+8                     moor view       3             0          labour        9592         devonport
+9                      peverell       0             3    conservative        9853            sutton
+10         plympton chaddlewood       0             2    conservative        6156  south west devon
+11                plympton erle       0             2    conservative        6989  south west devon
+12             plympton st mary       0             3    conservative        9740  south west devon
+13           plymstock dunstone       0             3    conservative        9973  south west devon
+14            plymstock radford       0             3    conservative        9335  south west devon
+15                   st budeaux       3             0          labour        9673         devonport
+16  st peter and the waterfront       3             0          labour        9715            sutton
+17                     southway       0             3    conservative        9493         devonport
+18                        stoke       1             2      no overall        9691            sutton
+19       sutton and mount gould       3             0          labour        9595            sutton

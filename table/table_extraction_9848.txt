@@ -1,0 +1,13 @@
+    game  february             opponent  score        record  points
+0     52         3  chicago black hawks  6 - 0  30 - 10 - 12      72
+1     53         5  toronto maple leafs  7 - 5  31 - 10 - 12      74
+2     54         7       atlanta flames  7 - 4  32 - 10 - 12      76
+3     55        10  washington capitals  9 - 2  33 - 10 - 12      78
+4     56        12   new york islanders  1 - 2  33 - 11 - 12      78
+5     57        14       st louis blues  6 - 4  34 - 11 - 12      80
+6     58        17     new york rangers  7 - 1  35 - 11 - 12      82
+7     59        19   montreal canadiens  2 - 5  35 - 12 - 12      82
+8     60        20       buffalo sabres  4 - 2  36 - 12 - 12      84
+9     61        24       buffalo sabres  0 - 2  36 - 13 - 12      84
+10    62        26       st louis blues  5 - 1  37 - 13 - 12      86
+11    63        27     colorado rockies  4 - 3  38 - 13 - 12      88

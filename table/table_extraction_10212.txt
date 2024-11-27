@@ -1,0 +1,11 @@
+   round  pick           player          position school / club team
+0      1    15  eddie lee ivery      running back       georgia tech
+1      2    44     steve atkins      running back           maryland
+2      3    71  charles johnson  defensive tackle           maryland
+3      6   153     dave simmons        linebacker     north carolina
+4      7   184       rich wingo        linebacker            alabama
+5      8   193      ron cassidy     wide receiver         utah state
+6      9   235    john thompson         tight end         utah state
+7     10   264    frank lockett     wide receiver           nebraska
+8     11   290     mark thorson    defensive back             ottawa
+9     12   318       bill moats            punter       south dakota

@@ -1,0 +1,42 @@
+    date       category                              team             rider 1                 rider 2
+0   2004            men            focus / rocky mountain      mannie heymans              karl platt
+1   2004         ladies                     yellow jacket      hanlie booyens             sharon laws
+2   2004          mixed                hai - bike / scott       kirsten rösel             robert eder
+3   2004        masters                   bowmans - giant          frank soll          duncan english
+4   2005            men                             giant      roel paulissen          bart brentjens
+5   2005         ladies           fiat / bianchi / adidas           zoe frost   hannele steyn - kotze
+6   2005          mixed                    team microsoft           nic white             anke erlank
+7   2005        masters                 getaway / mongoos   friedrich coleske              doug brown
+8   2006            men                       specialized    christoph sauser            silvio bundi
+9   2006         ladies           adidas - fiat - rotwild        sabine grona    kerstin brachtendorf
+10  2006          mixed                          radyscom    dolores maechler            severin rupp
+11  2006        masters  absa business banking services i   linus van onselen          geddan ruddock
+12  2007            men                        team bulls          karl platt             stefan sahm
+13  2007         ladies                           duravit         anke erlank     yolandè de villiers
+14  2007          mixed                    imc / mongoose      yolande speedy             paul cordes
+15  2007        masters                         cycle lab       andrew mclean            damian booth
+16  2008            men             cannondale vredestein      roel paulissen          jakob fuglsang
+17  2008         ladies                    rocky mountain       pia sundstedt            alison sydor
+18  2008          mixed  joybike guided by vmt and maloja        ivonne kraft       nico pfitzenmaier
+19  2008        masters                      absa masters          doug brown            barti bucher
+20  2009            men                             bulls          karl platt             stefan sahm
+21  2009         ladies                       absa ladies         sharon laws          hanlie booyens
+22  2009          mixed                   adidas big tree   nico pfitzenmaier            alison sydor
+23  2009        masters                      absa masters          doug brown            bärti bucher
+24  2010            men                           bulls 1          karl platt             stefan sahm
+25  2010         ladies                    rothaus - cube  kristine noergaard  anna - sofie noergaard
+26  2010          mixed              mtn business quebeka      yolande speedy             paul cordes
+27  2010        masters                    cyclelab toyta         shan wilson           andrew mclean
+28  2011            men       36one - songo - specialized    christoph sauser           burry stander
+29  2011         ladies                               usn        sally bigham    karien van jaarsveld
+30  2011          mixed                      wheeler bixs        barti bucher             esther süss
+31  2011        masters                              juwi     carsten bresser              udo boelts
+32  2012            men       36one - songo - specialized    christoph sauser           burry stander
+33  2012         ladies                       wheels4life        sally bigham             esther süss
+34  2012          mixed                       contego 28e      erik kleinhans        ariane kleinhans
+35  2012        masters              world bicycle relief      bart brentjens             jan weevers
+36  2013            men             burry stander - songo    christoph sauser        jaroslav kulhavy
+37  2013         ladies                           energas      yolande speedy    catherine williamson
+38  2013          mixed                           re : cm      erik kleinhans        ariane kleinhans
+39  2013        masters                            bridge   nico pfitzenmaier          abraao azevedo
+40  2013  grand masters                         songoinfo        bärti bucher           heinz zoerweg

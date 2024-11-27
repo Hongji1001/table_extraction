@@ -1,0 +1,13 @@
+    appearances                               team  wins  losses  winning percentage   season (s)
+0             2               sacramento rivercats     2       0                 1.0  2007 , 2008
+1             2                  columbus clippers     2       0                 1.0  2010 , 2011
+2             2                       durham bulls     1       1               500.0  2009 , 2013
+3             2                omaha storm chasers     1       1               500.0  2011 , 2013
+4             1                 tucson sidewinders     1       0                 1.0         2006
+5             1                          reno aces     1       0                 1.0         2012
+6             1                    toledo mud hens     0       1                 0.0         2006
+7             1                    richmond braves     0       1                 0.0         2007
+8             1  scranton / wilkes - barre yankees     0       1                 0.0         2008
+9             1                   memphis redbirds     0       1                 0.0         2009
+10            1                    tacoma rainiers     0       1                 0.0         2010
+11            1                  pawtucket red sox     0       1                 0.0         2012

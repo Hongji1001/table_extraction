@@ -1,0 +1,23 @@
+                  driver           constructor  laps time / retired  grid
+0         kimi räikkönen               ferrari    59    1:21:43.074     2
+1        fernando alonso    mclaren - mercedes    59        + 2.459     3
+2         lewis hamilton    mclaren - mercedes    59       + 39.373     1
+3          robert kubica            bmw sauber    59       + 53.319     5
+4           felipe massa               ferrari    59       + 54.063     4
+5          nick heidfeld            bmw sauber    59       + 56.336     9
+6      heikki kovalainen               renault    58        + 1 lap     7
+7   giancarlo fisichella               renault    58        + 1 lap     8
+8     rubens barrichello                 honda    58        + 1 lap    14
+9          jenson button                 honda    58        + 1 lap    18
+10       david coulthard    red bull - renault    58        + 1 lap    12
+11          nico rosberg     williams - toyota    58        + 1 lap    17
+12        alexander wurz     williams - toyota    58        + 1 lap    13
+13           takuma sato   super aguri - honda    57       + 2 laps    21
+14     christijan albers      spyker - ferrari    57       + 2 laps    22
+15     vitantonio liuzzi  toro rosso - ferrari    53        gearbox    16
+16          jarno trulli                toyota    43       handling    10
+17      anthony davidson   super aguri - honda    35     mechanical    19
+18           scott speed  toro rosso - ferrari    29      collision    15
+19       ralf schumacher                toyota    22          wheel     6
+20          adrian sutil      spyker - ferrari    16         engine    20
+21           mark webber    red bull - renault     8     hydraulics    11

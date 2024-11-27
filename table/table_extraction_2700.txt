@@ -1,0 +1,16 @@
+               name  number              pos  height  weight       year                hometown                              high school
+0      d'andre bell      13  guard / forward   6 - 6     222     senior             los angeles            palisades charter high school
+1       derek craig      33            guard   6 - 4     196  sophomore          spring , texas                klein collins high school
+2    derrick favors      14          forward  6 - 10     246   freshman                 atlanta                south atlanta high school
+3      nick foreman       4            guard   6 - 3     208  sopohmore        bellaire , texas                     bellaire high school
+4    kammeon holsey      24          forward   6 - 8     209   freshman        sparta , georgia              hancock central high school
+5        gani lawal      31          forward   6 - 9     234     junior      norcross , georgia                     norcross high school
+6     daniel miller       5           center  6 - 11     252   freshman    loganville , georgia             loganville christian academy
+7    maurice miller       3            guard   6 - 2     189     junior     memphis , tennessee              raleigh - egypt high school
+8      brian oliver      11          forward   6 - 6     220   freshman  glassboro , new jersey                 william penn high school
+9   zachery peacock      35          forward   6 - 8     235     senior             miami , fla                miami norland high school
+10   glen rice , jr      41            guard   6 - 5     195   freshman      marietta , georgia  george walton comprehensive high school
+11     brad sheehan      34           center   7 - 0     235     junior       latham , new york                       shaker high school
+12         sam shew      44          forward   6 - 5     190     junior       decatur , georgia            decatur high school (georgia)
+13    iman shumpert       1            guard   6 - 5     209  sophomore     oak park , illinois    oak park and river forest high school
+14     lance storrs      10            guard   6 - 5     221     junior       decatur , georgia                     columbia high school

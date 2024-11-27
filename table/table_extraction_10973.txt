@@ -1,0 +1,13 @@
+              name                 species specific intra - molecular structure comparative                                  link
+0   diana - microt                    human , mouse                          no         yes                             webserver
+1         microtar                               no                          no          no                            sourcecode
+2         mitarget                               no                          no          no                             webserver
+3           mirror                               no                          no          no                             webserver
+4           pictar                    8 vertebrates                          no         yes                           predictions
+5             pita                               no                         yes          no  executable , webserver , predictions
+6            rna22                               no                          no          no                    predictions custom
+7        rnahybrid                               no                          no          no                sourcecode , webserver
+8          sylamer                               no                          no          no                  sourcecode webserver
+9            taref                              yes                          no          no                   server / sourcecode
+10       p - taref                              yes                          no          no                   server / standalone
+11      targetscan  vertebrates , flies , nematodes        evaluated indirectly         yes                sourcecode , webserver

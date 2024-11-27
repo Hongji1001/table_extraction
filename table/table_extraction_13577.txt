@@ -1,0 +1,18 @@
+   place               player        country  score to par
+0      1        labron harris  united states     67    - 3
+1     t2           bob goalby  united states     68    - 2
+2     t2         doug sanders  united states     68    - 2
+3     t2    lanny wadkins (a)  united states     68    - 2
+4     t5          jim colbert  united states     69    - 1
+5     t5        jack nicklaus  united states     69    - 1
+6     t5        bobby nichols  united states     69    - 1
+7     t8           gay brewer  united states     70      e
+8     t8        charles coody  united states     70      e
+9     t8        dale douglass  united states     70      e
+10    t8       ralph johnston  united states     70      e
+11    t8        johnny miller  united states     70      e
+12    t8  chi - chi rodríguez  united states     70      e
+13    t8          john schlee  united states     70      e
+14    t8     leonard thompson  united states     70      e
+15    t8          lee trevino  united states     70      e
+16    t8         tom weiskopf  united states     70      e

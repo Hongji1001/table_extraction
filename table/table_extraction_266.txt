@@ -1,0 +1,6 @@
+            player              position                             school           hometown                                         mlb draft
+0     byron buxton  pitcher / outfielder         appling county high school        baxley , ga  1st round - 2nd pick of the 2012 draft ( twins )
+1   gavin cecchini             infielder                  barbe high school  lake charles , la  1st round - 12th pick of the 2012 draft ( mets )
+2  james kaprelian               pitcher                beckman high school        irvine , ca                                     attended ucla
+3     rob kaminsky               pitcher  saint joseph regional high school      montvale , nj                        kaminsky was only a junior
+4   taylor hawkins             infielder            carl albert high school  midwest city , ok                                 attended oklahoma

@@ -1,0 +1,9 @@
+                        name         frequency language          city              website
+0  el diario de nuevo laredo             daily  spanish  nuevo laredo            diarionet
+1                  el mañana             daily  spanish  nuevo laredo        elmananacommx
+2                    laredos           monthly  english        laredo       laredosnewscom
+3       laredo morning times             daily  english        laredo         lmtonlinecom
+4                 laredo sun  online newspaper  english        laredo          laredosunus
+5                      lider             daily  spanish  nuevo laredo  liderinformativocom
+6               primera hora             daily  spanish  nuevo laredo       primerahoracom
+7                última hora             daily  spanish  nuevo laredo        ultimahoracom

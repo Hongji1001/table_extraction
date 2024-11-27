@@ -1,0 +1,9 @@
+             school         location              mascot  size ihsaa class ihsaa football class        county
+0           concord     elkhart , in           minutemen  1449        aaaa                 aaaa    20 elkhart
+1  elkhart memorial     elkhart , in    crimson chargers  1829        aaaa                aaaaa    20 elkhart
+2            goshen      goshen , in            redskins  1771        aaaa                aaaaa    20 elkhart
+3        northridge  middlebury , in             raiders  1279        aaaa                 aaaa    20 elkhart
+4         northwood    nappanee , in            panthers   891         aaa                 aaaa    20 elkhart
+5          plymouth    plymouth , in  rockies / pilgrims  1066         aaa                 aaaa   50 marshall
+6  warsaw community      warsaw , in              tigers  2077        aaaa                aaaaa  43 kosciusko
+7           wawasee    syracuse , in            warriors   981         aaa                 aaaa  43 kosciusko

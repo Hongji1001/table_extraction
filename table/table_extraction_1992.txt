@@ -1,0 +1,18 @@
+   year (ceremony) film title used in nomination                spanish title                director         result
+0     1990: (63rd)        the moon in the mirror         la luna en el espejo          silvio caiozzi  not nominated
+1     1991: (64th)                  the frontier                  la frontera         ricardo larraín  not nominated
+2     1993: (66th)              johnny 100 pesos             johnny 100 pesos  gustavo graef - marino  not nominated
+3     1994: (67th)                       amnesia                      amnesia      gonzalo justiniano  not nominated
+4     2000: (73rd)                    coronation                   coronación          silvio caiozzi  not nominated
+5     2001: (74th)               a cab for three               taxi para tres         orlando lubbert  not nominated
+6     2002: (75th)   ogu and mampato in rapa nui    ogu y mampato en rapa nui         alejandro rojas  not nominated
+7     2003: (76th)                los debutantes               los debutantes       andres waissbluth  not nominated
+8     2004: (77th)                       machuca                      machuca             andrés wood  not nominated
+9     2005: (78th)                          play                         play         alicia scherson  not nominated
+10    2006: (79th)                        in bed                   en la cama             matías bize  not nominated
+11    2007: (80th)                 padre nuestro                padre nuestro       rodrigo sepúlveda  not nominated
+12    2008: (81st)                   tony manero                  tony manero           pablo larrain  not nominated
+13    2009: (82nd)            dawson , island 10             dawson , isla 10           miguel littín  not nominated
+14    2010: (83rd)              the life of fish         la vida de los peces             matías bize  not nominated
+15    2011: (84th)        violeta went to heaven  violeta se fue a los cielos             andrés wood  not nominated
+16    2012: (85th)                            no                           no           pablo larraín        nominee

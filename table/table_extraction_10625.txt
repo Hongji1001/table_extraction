@@ -1,0 +1,12 @@
+                 name faith     type  intake  dcsf number  ofsted number
+0             boxmoor     -  primary      30         2041         117107
+1            chaulden     -  infants      50         2193         117202
+2            chaulden     -   junior      60         2185         117198
+3         gade valley     -      jmi      30         2274         117249
+4         galley hill     -  primary      45         3990         135224
+5          heath lane     -  nursery      80         1009         117070
+6             micklem     -  primary      30         2243         117231
+7         pixies hill     -  primary      30         2293         117256
+8   st cuthbert mayne    rc   junior      60         3386         117468
+9          st rose 's    rc  infants      60         3409         117484
+10         south hill     -  primary      30         2047         117110

@@ -1,0 +1,18 @@
+    round  pick  overall              name position                  college
+0       1     7        7       pat richter       te                wisconsin
+1       2     8       22    lonnie sanders       cb           michigan state
+2       3     7       35        ron snidow       de                   oregon
+3       6     8       78  charley nickoson       ot                     ohio
+4       7     7       91      dave francis       fb               ohio state
+5       9     7      119         billy joe       rb                villanova
+6      10     8      134        rod foster        g               ohio state
+7      11     7      147       allen schau        e         western michigan
+8      12     8      162      bob caldwell        c             georgia tech
+9      13     7      175      john greiner        e                   purdue
+10     14     8      190     tom winingder       rb             georgia tech
+11     15     7      203      harry butsko       lb                 maryland
+12     16     8      218        dave adams        g                 arkansas
+13     17     7      231        ron whaley       db  tennessee - chattanooga
+14     18     8      246      drew roberts        e     cal state - humboldt
+15     19     7      259        jim turner        k               utah state
+16     20     8      274       joe baughan       ot                   auburn

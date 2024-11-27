@@ -1,0 +1,14 @@
+                 name pos height weight                 2012 club
+0       iñaki aguilar  gk      m      -               cn sabadell
+1   mario josé garcía   d      m      -                real canoe
+2        david martín   d      m      -  cn atlètic - barceloneta
+3     balázs szirányi  cf      m      -                real canoe
+4    guillermo molina  cf      m      -                 pro recco
+5       marc minguell  cf      m      -                 posillipo
+6      blai mallarach  cf      m      -              havk mladost
+7      albert español   d      m      -  cn atlètic - barceloneta
+8       xavier vallès  cf      m      -  cn atlètic - barceloneta
+9      felipe perrone   d      m      -                 pro recco
+10         iván pérez  cf      m      -               cn sabadell
+11      xavier garcía  cf      m      -        vk primorje rijeka
+12       daniel lópez  gk      m      -  cn atlètic - barceloneta

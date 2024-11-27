@@ -1,0 +1,6 @@
+            school       nickname          location                     colors  join date
+0  canton mckinley       bulldogs            canton                red , black       2003
+1          glenoak  golden eagles            canton  forest green , vegas gold       1975
+2           hoover        vikings      north canton             black , orange       1968
+3          jackson    polar bears  jackson township              purple , gold       1964
+4             lake   blue streaks         uniontown         blue , red , white       1987

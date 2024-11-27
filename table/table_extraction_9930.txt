@@ -1,0 +1,11 @@
+              player  touchdowns  extra points  field goals  points
+0  albert herrnstein           7             0            0      35
+1     james lawrence           0            19            0      19
+2        herb graver           3             0            0      15
+3        paul dickey           3             0            0      15
+4      curtis redden           2             0            0      10
+5       william cole           2             0            0      10
+6         paul jones           1             0            0       5
+7     charles carter           1             0            0       5
+8       ross kidston           1             0            0       5
+9              total          20            19            0     119

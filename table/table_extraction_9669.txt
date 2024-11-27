@@ -1,0 +1,9 @@
+                                 event                             gold                  silver                             bronze                4th place
+0          flyweight ( - 51 kilograms)       luis martinez zapata spain  james clinton scotland  frantisek majdloch czechoslovakia         i bendai hungary
+1       bantamweight ( - 54 kilograms)            laszlo bogacs hungary     bertil ahlin sweden            peter sanderson england          duayer scotland
+2      featherweight ( - 58 kilograms)              kurt kreuger sweden   peter maguire ireland              jules van dyk belgium          j feher hungary
+3        lightweight ( - 62 kilograms)           joseph vissers belgium      roger baour france                  svend wad denmark         e frich scotland
+4       welterweight ( - 67 kilograms)                john ryan england    charles humez france              giuseppe facchi italy   eddie cantwell ireland
+5       middleweight ( - 73 kilograms)     aimé - joseph escudie france      wally thom england        julius torma czechoslovakia      shubert netherlands
+6  light heavyweight ( - 80 kilograms)  hennie quentemeijer netherlands      léon nowiaz france              vital l'hoste belgium           cwaist england
+7        heavyweight ( + 80 kilograms)           gerry o'colman ireland  george scriven england              giulio bastiani italy  livanski czechoslovakia

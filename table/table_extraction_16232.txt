@@ -1,0 +1,11 @@
+   points             name                club  tries  drop
+0     239     glen jackson            saracens      1     4
+1     212      butch james          bath rugby      2     0
+2     190  charlie hodgson         sale sharks      5     4
+3     156    stephen myler  northampton saints      0     2
+4     146      peter hewat        london irish      3     1
+5     146   danny cipriani        london wasps      1     1
+6     127       nick evans          harlequins      2     1
+7     126       toby flood    leicester tigers      4     0
+8     125     olly barkley    gloucester rugby      1     0
+9     112          tom may   newcastle falcons      5     1

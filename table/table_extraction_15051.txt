@@ -1,0 +1,6 @@
+       race title                            circuit                city / state         date             winner
+0         mallala           mallala motor sport park  adelaide , south australia     1718 may       luke youlden
+1  phillip island  phillip island grand prix circuit   phillip island , victoria  14 - 15 jun     darren hossack
+2   eastern creek              eastern creek raceway    sydney , new south wales  12 - 13 jul     darren hossack
+3       oran park                  oran park raceway    sydney , new south wales  30 - 31 aug  tony ricciardello
+4         sandown                    sandown raceway        melbourne , victoria  29 - 30 nov  tony ricciardello

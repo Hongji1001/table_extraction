@@ -1,0 +1,10 @@
+                                      school             team name                 town      county  school enrollment (200810)           football
+0                        de kalb high school                tigers              de kalb    buchanan                         118                  y
+1  jefferson conception junction high school         (lady) eagles  conception junction     nodaway                          50                  n
+2                         osborn high school  wildcats / lady cats               osborn     de kalb                          40                  n
+3                   north andrew high school             cardinals            rosendale      andrew                         105                  y
+4              northeast nodaway high school              bluejays            ravenwood     nodaway                          73                  n
+5           southwest livingston high school              wildcats               ludlow  livingston                          65  y (football only)
+6                  south nodaway high school             longhorns              barnard     nodaway                          71                  y
+7                  stewartsville high school             cardinals        stewartsville     de kalb                          88                  y
+8                     union star high school               trojans           union star     de kalb                          47                  y

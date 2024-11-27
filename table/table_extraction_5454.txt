@@ -1,0 +1,10 @@
+   pick                  cfl team              player position           college
+0    36        calgary stampeders        david hewson       db          manitoba
+1    37          ottawa renegades        adrian baird       de            ottawa
+2    38     winnipeg blue bombers   martin lapostolle       dl           indiana
+3    39  saskatchewan roughriders  dustin cherniawski       db  british columbia
+4    40          edmonton eskimos      robert leblanc       sb            mcgill
+5    41     hamilton tiger - cats        iain fleming       sb          queen 's
+6    42        montreal alouettes        curt hundeby       ol      saskatchewan
+7    43                  bc lions        nuvraj bassi       dt            oregon
+8    44         toronto argonauts      bryan crawford       rb          queen 's

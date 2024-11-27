@@ -1,0 +1,9 @@
+           player    nationality          position years in toronto school / club team
+0    antonio lang  united states   guard - forward      1999 - 2000               duke
+1   voshon lenard  united states             guard        2002 - 03          minnesota
+2    martin lewis  united states   guard - forward        1996 - 97     butler cc (ks)
+3     brad lohaus  united states  forward - center             1996               iowa
+4        art long  united states  forward - center        2002 - 03         cincinnati
+5       john long  united states             guard        1996 - 97            detroit
+6      kyle lowry  united states             guard   2012 - present          villanova
+7  john lucas iii  united states             guard      2012 - 2013     oklahoma state

@@ -1,0 +1,18 @@
+       start month            end month                            cover                   spine                            indicia                         masthead  number of issues
+0         oct - 50             aug - 58           galaxy science fiction  galaxy science fiction             galaxy science fiction           galaxy science fiction                94
+1         sep - 58             oct - 62                  galaxy magazine         galaxy magazine                    galaxy magazine                  galaxy magazine                27
+2         dec - 62             dec - 65                           galaxy                  galaxy                    galaxy magazine                  galaxy magazine                19
+3         feb - 66             sep - 68                           galaxy                  galaxy                    galaxy magazine                  galaxy magazine                18
+4         oct - 68             oct - 69  galaxy science fiction magazine                  galaxy                    galaxy magazine                  galaxy magazine                12
+5         nov - 69             jan - 72  galaxy science fiction magazine                  galaxy                    galaxy magazine  galaxy science fiction magazine                20
+6         mar - 72             mar - 72                  galaxy magazine                  galaxy                    galaxy magazine  galaxy science fiction magazine                 1
+7   may / jun - 72             jan - 73                  galaxy magazine  galaxy science fiction                    galaxy magazine           galaxy science fiction                 5
+8   mar / apr - 73       mar / apr - 73                           galaxy                  galaxy                    galaxy magazine  galaxy science fiction magazine                 1
+9   may / jun - 73             nov - 73                           galaxy                  galaxy                             galaxy           galaxy science fiction                 5
+10        dec - 73             dec - 73           galaxy science fiction                  galaxy                             galaxy  galaxy science fiction magazine                 1
+11        jan - 74             jan - 75                           galaxy                  galaxy                             galaxy  galaxy science fiction magazine                13
+12        feb - 75             jan - 76                           galaxy                  galaxy  galaxy incorporating worlds of if  galaxy science fiction magazine                 9
+13        feb - 76             oct - 77           galaxy science fiction  galaxy science fiction  galaxy incorporating worlds of if           galaxy science fiction                16
+14        nov - 77  dec - 77 / jan - 78                           galaxy                  galaxy  galaxy incorporating worlds of if                           galaxy                 2
+15        feb - 78             oct - 79           galaxy science fiction  galaxy science fiction  galaxy incorporating worlds of if           galaxy science fiction                10
+16     summer - 80          summer - 80                           galaxy                  galaxy                             galaxy                           galaxy                 1

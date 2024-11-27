@@ -1,0 +1,9 @@
+   pick                                          cfl team            player position         college
+0     9           saskatchewan roughriders (via hamilton)       david mckoy       wr          guelph
+1    10                                  edmonton eskimos        jason nedd       db           akron
+2    11                             winnipeg blue bombers        corey mace       dt         wyoming
+3    12          hamilton tiger - cats (via saskatchewan)     jordan rempel       ol    saskatchewan
+4    13  hamilton tiger - cats (via edmonton via toronto)         eric ince       ol      st mary 's
+5    14                                calgary stampeders  kevin challenger       wr  boston college
+6    15                                montreal alouettes     darryl conrad        t        manitoba
+7    16                                          bc lions         josh bean       lb     boise state

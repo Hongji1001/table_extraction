@@ -1,0 +1,26 @@
+           district           incumbent       party  first elected                        result
+0    pennsylvania 1   thomas b florence  democratic           1848       retired democratic hold
+1    pennsylvania 2     edward j morris   people 's           1856  re - elected republican gain
+2    pennsylvania 3       john p verree   people 's           1858  re - elected republican gain
+3    pennsylvania 4    william millward   people 's           1858       retired republican gain
+4    pennsylvania 5           john wood   people 's           1858       retired republican gain
+5    pennsylvania 6        john hickman  democratic           1856  re - elected republican gain
+6    pennsylvania 7       thomas corwin  republican           1858                  re - elected
+7    pennsylvania 8     jacob k mckenty  democratic           1860       retired democratic hold
+8    pennsylvania 9    thaddeus stevens   people 's           1858  re - elected republican gain
+9   pennsylvania 10    john w killinger   people 's           1858  re - elected republican gain
+10  pennsylvania 11    james h campbell   people 's           1858  re - elected republican gain
+11  pennsylvania 12   george w scranton   people 's           1858  re - elected republican gain
+12  pennsylvania 13   william h dimmick  democratic           1856       retired democratic hold
+13  pennsylvania 14      galusha a grow   people 's           1850  re - elected republican gain
+14  pennsylvania 15    james tracy hale   people 's           1858  re - elected republican gain
+15  pennsylvania 16   benjamin f junkin   people 's           1858      defeated democratic gain
+16  pennsylvania 17    edward mcpherson   people 's           1858  re - elected republican gain
+17  pennsylvania 18      samuel s blair   people 's           1858  re - elected republican gain
+18  pennsylvania 19         john covode   people 's           1854  re - elected republican gain
+19  pennsylvania 20  william montgomery  democratic           1856       retired democratic hold
+20  pennsylvania 21    james k moorhead   people 's           1858  re - elected republican gain
+21  pennsylvania 22     robert mcknight   people 's           1858  re - elected republican gain
+22  pennsylvania 23     william stewart   people 's           1856       retired republican gain
+23  pennsylvania 24         chapin hall   people 's           1858       retired republican gain
+24  pennsylvania 25      elijah babbitt   people 's           1858  re - elected republican gain

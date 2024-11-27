@@ -1,0 +1,31 @@
+                          name  type entered service water depth           location                    customer
+0                cajun express  semi            2001           -             brazil                   petrobras
+1           deepwater champion  ship            2011           -     gulf of mexico                  exxonmobil
+2          deepwater discovery  ship            2000           -             brazil                       devon
+3         deepwater expedition  ship            1999           -           malaysia              petronas / bhp
+4           deepwater frontier  ship            1999           -              india                    reliance
+5            deepwater horizon  semi            2001           -     gulf of mexico                          bp
+6         deepwater millennium  ship            1999           -         mozambique                    anadarko
+7           deepwater nautilus  semi            2000           -     gulf of mexico                       shell
+8         deepwater pathfinder  ship            1998           -     gulf of mexico                         eni
+9      development driller iii  semi            2009           -     gulf of mexico                          bp
+10     dhirubhai deepwater kg1  ship            2009           -              india                    reliance
+11     dhirubhai deepwater kg2  ship            2010           -              india                    reliance
+12         discoverer americas  ship            2009           -     gulf of mexico                     statoil
+13     discoverer clear leader  ship            2009           -     gulf of mexico                     chevron
+14        discoverer deep seas  ship            2001           -     gulf of mexico                     chevron
+15       discoverer enterprise  ship            1999           -     gulf of mexico                          bp
+16            discoverer india  ship            2010           -     gulf of mexico                     chevron
+17      discoverer inspiration  ship            2010           -     gulf of mexico                     chevron
+18           discoverer luanda  ship            2011           -             angola                          bp
+19           discoverer spirit  ship            2000           -     gulf of mexico                    anadarko
+20                gsf cr luigs  ship            2000           -     gulf of mexico                bhp billiton
+21   gsf development driller i  semi            2004           -     gulf of mexico                bhp billiton
+22  gsf development driller ii  semi            2004           -     gulf of mexico                          bp
+23                gsf explorer  ship     1972 / 1998           -          indonesia   marathon - led consortium
+24               gsf jack ryan  ship            2000           -            nigeria                       total
+25             petrobras 10000  ship            2009           -             brazil                   petrobras
+26                sedco energy  semi            2001           -              ghana                      tullow
+27               sedco express  semi            2001           -  mediterranean sea                noble energy
+28          transocean barents  semi            2009           -             norway  det norske oljeselskap asa
+29      transocean spitsbergen  semi            2009           -             norway                 statoil asa

@@ -1,0 +1,11 @@
+   pick     round         player          position          college
+0    41   round 2  kenneth davis      running back  texas christian
+1    72   round 3   robbie bosco       quarterback    brigham young
+2    84   round 4     tim harris     defensive end    memphis state
+3    98   round 4     dan knight            tackle  san diego state
+4   125   round 5     matt koart  defensive tackle              usc
+5   145   round 6   burnell dent        linebacker           tulane
+6   183   round 7       ed berry    defensive back       utah state
+7   210   round 8  micheal cline  defensive tackle   arkansas state
+8   236   round 9    brent moore  defensive tackle              usc
+9   263  round 10     gary spann        linebacker  texas christian

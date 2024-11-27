@@ -1,0 +1,12 @@
+   letters              organization        nickname   founding date                     founding university        type
+0      αιο        alpha iota omicron             aio  1998 - 10 - 16                  university of michigan  fraternity
+1      βχθ          beta chi theta 2  beta chi / bct  1999 - 06 - 02  university of california , los angeles  fraternity
+2      βκγ          beta kappa gamma             bkg  1999 - 05 - 06           university of texas at austin  fraternity
+3      δσι          delta sigma iota             dsi  2000 - 08 - 15           pennsylvania state university  fraternity
+4      δεψ         delta epsilon psi   depsi / depsi  1998 - 10 - 01           university of texas at austin  fraternity
+5      δθψ           delta theta psi           dtpsi  2002 - 01 - 14                  university of michigan    sorority
+6      δκδ       delta kappa delta 1             dkd  2000 - 08 - 15                    texas a&m university    sorority
+7     δeσι  delta epsilon sigma iota            desi  1997 - 12 - 12            university at buffalo , suny  fraternity
+8      δφω           delta phi omega             dpo  1998 - 12 - 06                   university of houston    sorority
+9      ινδ             iota nu delta             ind  1994 - 02 - 07                   binghamton university  fraternity
+10     κφγ           kappa phi gamma           kphig  1998 - 11 - 08           university of texas at austin    sorority

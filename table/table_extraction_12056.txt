@@ -1,0 +1,14 @@
+                name  height          position       year             home town
+0     erlana larkins   6 - 1           forward     junior    riviera beach , fl
+1     trinity bursey  5 - 10           forward   freshman          sanford , nc
+2        alex miller   5 - 6             guard     junior           durham , nc
+3        ivory latta   5 - 6             guard     senior       mcconnells , sc
+4    heather claytor   5 - 8             guard  sophomore         grottoes , va
+5   christina dewitt   6 - 2           forward  sophomore     little river , sc
+6     camille little   6 - 2   forward / guard     senior  winston - salem , nc
+7     iman mcfarland   6 - 3           forward  sophomore     temple hills , md
+8      meghan austin   5 - 7             guard     junior        lynchburg , va
+9     latoya pringle   6 - 3  forward / center     junior     fayetteville , nc
+10  rashanda mccants   6 - 1           forward  sophomore        asheville , nc
+11      martina wood   6 - 2  forward / center  sophomore        charlotte , nc
+12   jessica breland   6 - 3           forward   freshman          kelford , nc

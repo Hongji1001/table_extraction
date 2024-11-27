@@ -1,0 +1,12 @@
+                player          position  round  pick             nfl club
+0       robert gallery            tackle      1     2      oakland raiders
+1        chad greenway        linebacker      1    17    minnesota vikings
+2          bob sanders       free safety      2    44   indianapolis colts
+3            matt roth     defensive end      2    46       miami dolphins
+4   jonathan babineaux  defensive tackle      2    59      atlanta falcons
+5         nate kaeding            kicker      3    65   san diego chargers
+6          abdul hodge        linebacker      3    67    green bay packers
+7       sean considine     strong safety      4   102  philadelphia eagles
+8       scott chandler         tight end      4   129   san diego chargers
+9         jared clauss  defensive tackle      7   230     tennessee titans
+10         erik jensen         tight end      7   237        st louis rams

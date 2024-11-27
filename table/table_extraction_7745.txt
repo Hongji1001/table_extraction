@@ -1,0 +1,22 @@
+                          name   years gender          area   authority  decile
+0               chanel college  7 - 13   coed     masterton  integrated       5
+1          douglas park school   1 - 6   coed     masterton       state       4
+2             fernridge school   1 - 6   coed     fernridge       state       4
+3    hadlow preparatory school   1 - 8   coed     masterton  integrated       8
+4              lakeview school   1 - 8   coed     masterton       state       2
+5              makoura college  9 - 13   coed     masterton       state       2
+6       masterton intermediate   7 - 8   coed     masterton       state       5
+7     masterton primary school   1 - 6   coed      kuripuni       state       3
+8          mauriceville school   1 - 8   coed  mauriceville       state       5
+9                 opaki school   1 - 8   coed         opaki       state      10
+10           rathkeale college  9 - 13   boys         opaki  integrated       9
+11              solway college  7 - 13  girls     masterton  integrated       8
+12               solway school   1 - 6   coed     masterton       state       6
+13    st matthew 's collegiate  7 - 13  girls     masterton  integrated       9
+14        st patrick 's school   1 - 6   coed     masterton  integrated       5
+15                tinui school   1 - 8   coed         tinui       state       6
+16            tkkm o wairarapa  1 - 15   coed     masterton       state       2
+17            wainuioru school   1 - 8   coed     wainuioru       state       9
+18           wairarapa college  9 - 13   coed     masterton       state       6
+19  wairarapa teen parent unit  9 - 13      -     masterton       state       1
+20             whareama school   1 - 8   coed      whareama       state      10

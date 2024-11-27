@@ -1,0 +1,7 @@
+       continent                   structure height  year                 country
+0           asia                burj khalifa      -  2009    united arab emirates
+1         africa  omega transmitter chabrier      -  1976        rãunion (france)
+2  north america              kvly - tv mast      -  1963           united states
+3  south america          omega tower trelew      -  1971               argentina
+4         europe           warsaw radio mast      -  1974                  poland
+5        oceania   vlf transmitter lualualei      -  1972  united states (hawaii)

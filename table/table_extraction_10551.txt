@@ -1,0 +1,32 @@
+                  date                                       venue                    opponents  score  competition
+0   december 22 , 2006         tuanku abdul rahman stadium , paroi                      plus fc  2 - 1           pl
+1     january 2 , 2007                       klfa stadium , cheras                        sabah  1 - 0           pl
+2     january 5 , 2007  tan sri haji hassan yunus stadium , larkin                        johor  0 - 0           pl
+3     january 9 , 2007                       klfa stadium , cheras                       police  1 - 2           pl
+4    february 6 , 2007                       klfa stadium , cheras                     johor fc  1 - 2  fa cup rd 1
+5   february 10 , 2007                       klfa stadium , cheras                     johor fc  1 - 1   mc group a
+6   february 13 , 2007                       klfa stadium , cheras  shahzan muda - kuantan port  0 - 0           pl
+7   february 17 , 2007                           shah alam stadium                     selangor  1 - 2   mc group a
+8   february 24 , 2007                mbpj stadium , petaling jaya                         tmfc  1 - 2   mc group a
+9       march 3 , 2007                       klfa stadium , cheras                       perlis  2 - 2   mc group a
+10      march 6 , 2007                           shah alam stadium              upb fc - myteam  0 - 4           pl
+11      march 9 , 2007                mbpj stadium , petaling jaya                         pkns  0 - 2           pl
+12     march 17 , 2007  tan sri haji hassan yunus stadium , larkin                        johor  2 - 3   mc group a
+13     march 30 , 2007               darulaman stadium , alor star                   kuala muda  2 - 1           pl
+14      april 3 , 2007                       klfa stadium , cheras                     kelantan  1 - 2           pl
+15      april 6 , 2007          selayang municipal council stadium                 armed forces  0 - 0           pl
+16     april 10 , 2007                       klfa stadium , cheras                 armed forces  3 - 1           pl
+17     april 14 , 2007  tan sri haji hassan yunus stadium , larkin                     johor fc  3 - 1   mc group a
+18     april 17 , 2007                       klfa stadium , cheras                   kuala muda  3 - 1           pl
+19     april 21 , 2007                       klfa stadium , cheras                     selangor  3 - 1   mc group a
+20     april 24 , 2007               likas stadium , kota kinabalu                        sabah  0 - 2           pl
+21     april 28 , 2007                       klfa stadium , cheras                         tmfc  3 - 3   mc group a
+22        may 1 , 2007                       klfa stadium , cheras                        johor  2 - 1           pl
+23        may 5 , 2007                      utama stadium , kangar                       perlis  2 - 1   mc group a
+24       may 11 , 2007          selayang municipal council stadium                       police  1 - 2           pl
+25       may 18 , 2007                       klfa stadium , cheras              upb fc - myteam  2 - 2           pl
+26       may 22 , 2007               darulmakmur stadium , kuantan  shahzan muda - kuantan port  1 - 2           pl
+27       may 26 , 2007                       klfa stadium , cheras                        johor  1 - 1   mc group a
+28       june 1 , 2007                       klfa stadium , cheras                         pkns  2 - 3           pl
+29      june 12 , 2007          sultan muhd iv stadium , kota baru                     kelantan  1 - 1           pl
+30      june 26 , 2007                       klfa stadium , cheras                      plus fc  1 - 1           pl

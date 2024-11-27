@@ -1,0 +1,6 @@
+                             school              location  founded      affiliation     nickname
+0          james madison university     harrisonburg , va     1908           public        dukes
+1           old dominion university          norfolk , va     1930           public     monarchs
+2                radford university          radford , va     1910           public  highlanders
+3            university of virginia  charlottesville , va     1819  public flagship    cavaliers
+4  virginia commonwealth university         richmond , va     1838           public         rams

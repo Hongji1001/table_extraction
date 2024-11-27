@@ -1,0 +1,16 @@
+    week            opponent       result               stadium     record attendance
+0      1       new york jets  w : 38 - 14           fenway park  1 - 0 - 0      24120
+1      2  san diego chargers  l : 17 - 13        balboa stadium  1 - 1 - 0      26097
+2      3     oakland raiders  w : 20 - 14    frank youell field  2 - 1 - 0      17131
+3      4      denver broncos  l : 14 - 10     mile high stadium  2 - 2 - 0      18636
+4      5       new york jets  l : 31 - 24          polo grounds  2 - 3 - 0      16769
+5      6     oakland raiders  w : 20 - 14           fenway park  3 - 3 - 0      26494
+6      7      denver broncos  w : 40 - 21           fenway park  4 - 3 - 0      25418
+7      8       buffalo bills  l : 28 - 21  war memorial stadium  4 - 4 - 0      29243
+8      9      houston oilers   w : 45 - 3           fenway park  5 - 4 - 0      31185
+9     10  san diego chargers    l : 7 - 6           fenway park  5 - 5 - 0      28402
+10    11  kansas city chiefs  t : 24 - 24           fenway park  5 - 5 - 1      17200
+11    12            bye week     bye week              bye week   bye week   bye week
+12    13       buffalo bills   w : 17 - 7           fenway park  6 - 5 - 1      16981
+13    14      houston oilers  w : 46 - 28      jeppesen stadium  7 - 5 - 1      23462
+14    15  kansas city chiefs   l : 35 - 3     municipal stadium  7 - 6 - 1      12598

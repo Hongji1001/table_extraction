@@ -1,0 +1,23 @@
+         settlement                      cyrillic name other names     type population (2011) largest ethnic group (2002) dominant religion (2002)
+0      bačka topola             бачка топола (hungarian : topolya)     town             14573                  hungarians    catholic christianity
+1     bački sokolac                                  бачки соколац  village               480                       serbs    orthodox christianity
+2         bagremovo               багремово (hungarian : brazília)  village               151                  hungarians    catholic christianity
+3             bajša                      бајша (hungarian : bajsa)  village              2297                  hungarians    catholic christianity
+4           bogaraš                  богараш (hungarian : bogaras)  village                83                  hungarians    catholic christianity
+5   gornja rogatica                                 горња рогатица  village               409                       serbs    orthodox christianity
+6           gunaroš                  гунарош (hungarian : gunaras)  village              1264                  hungarians    catholic christianity
+7       karađorđevo                                    карађорђево  village               468                       serbs    orthodox christianity
+8            kavilo             кавило (hungarian : rákóczitelkep)  village               177                  hungarians    catholic christianity
+9           krivaja                                        криваја  village               653                       serbs    orthodox christianity
+10     mali beograd                                   мали београд  village               456                       serbs    orthodox christianity
+11         mićunovo                                       мићуново  village               469                       serbs    orthodox christianity
+12     novo orahovo        ново орахово (hungarian : zentagunaras)  village              1768                  hungarians    catholic christianity
+13        njegoševo                                       његошево  village               534                       serbs    orthodox christianity
+14        obornjača                                       оборњача  village       uninhabited         uninhabited in 2011      uninhabited in 2011
+15            pačir                     пачир (hungarian : pacsér)  village              2580                  hungarians            protestantism
+16         panonija                                       панонија  village               607                       serbs    orthodox christianity
+17           pobeda                   победа (hungarian : győztes)  village               271                  hungarians    catholic christianity
+18    srednji salaš                                   средњи салаш  village               104                       serbs    orthodox christianity
+19   stara moravica  стара моравица (hungarian : bácskossuthfalva)  village              5051                  hungarians            protestantism
+20        svetićevo                                      светићево  village               147                       serbs    orthodox christianity
+21       tomislavci                                     томиславци  village               541                       serbs    orthodox christianity

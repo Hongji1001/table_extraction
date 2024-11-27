@@ -1,0 +1,24 @@
+                  rider manufacturer  laps time / retired  grid
+0         mattia pasini      aprilia    20      40:16.202     5
+1        hector barbera      aprilia    20        + 0.557     2
+2           mika kallio          ktm    20        + 1.029     4
+3            alex debon      aprilia    20        + 1.418     1
+4        yuki takahashi        honda    20       + 12.944     7
+5       alvaro bautista      aprilia    20       + 14.480     3
+6         karel abraham      aprilia    20       + 16.721    11
+7     roberto locatelli       gilera    20       + 18.987     9
+8       aleix espargaro      aprilia    20       + 32.232     8
+9         hector faubel      aprilia    20       + 41.102    15
+10         julian simon          ktm    20       + 41.457    14
+11         fabrizio lai       gilera    20       + 41.694    13
+12  ratthapark wilairot        honda    20       + 43.192    19
+13      manuel poggiali       gilera    20       + 44.228    18
+14         thomas luthi      aprilia    20       + 48.760    10
+15       hiroshi aoyama          ktm    20     + 1:11.031    12
+16    doni tata pradita       yamaha    20     + 2:05.461    23
+17       alex baldolini      aprilia    14     retirement    17
+18          lukas pesek      aprilia    12     retirement    16
+19     marco simoncelli       gilera     7     retirement     6
+20            imre toth      aprilia     4     retirement    22
+21     manuel hernandez      aprilia     0     retirement    21
+22       eugene laverty      aprilia     0     retirement    20

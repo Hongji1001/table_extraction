@@ -1,0 +1,39 @@
+                         team       car (s)   -                                        driver (s)                              primary sponsor (s)           owner (s)           crew chief
+0                   bk racing  toyota camry  83                                   david reutimann                          burger king / dr pepper          ron devine         doug richert
+1                   bk racing  toyota camry  93                                     travis kvapil                          burger king / dr pepper          ron devine        dale ferguson
+2    earnhardt ganassi racing  chevrolet ss   1                                    jamie mcmurray                             mcdonald 's / cessna       felix sabates         kevin manion
+3    earnhardt ganassi racing  chevrolet ss  42                                juan pablo montoya                                           target        chip ganassi          chris heroy
+4             fas lane racing   ford fusion  32       ken schrader / terry labonte timmy hill (r)       federated auto parts / c&j energy oxywater      frank stoddard       frank stoddard
+5       front row motorsports   ford fusion  34                                       david ragan            detail doctor / taco bell / farm rich         bob jenkins              jay guy
+6       front row motorsports   ford fusion  35                                         josh wise  blockbustercom / mds transport / the pete store        jerry freeze        todd anderson
+7       front row motorsports   ford fusion  38                                   david gilliland       love 's travel stops / long john silver 's        brad jenkins           frank kerr
+8        furniture row racing  chevrolet ss  78                                        kurt busch                                    furniture row       barney visser         todd berrier
+9              germain racing   ford fusion  13                                       casey mears                                            geico    bob germain , jr        bootie barker
+10       hendrick motorsports  chevrolet ss   5                                       kasey kahne                 farmers insurance / quaker state      linda hendrick        kenny francis
+11       hendrick motorsports  chevrolet ss  24                                       jeff gordon                     drive to end hunger / axalta       rick hendrick       alan gustafson
+12       hendrick motorsports  chevrolet ss  48                                    jimmie johnson                           lowe 's / kobalt tools         jeff gordon           chad knaus
+13       hendrick motorsports  chevrolet ss  88                               dale earnhardt , jr               national guard / diet mountain dew       rick hendrick        steve letarte
+14           joe gibbs racing  toyota camry  11                                      denny hamlin                                            fedex           j d gibbs         darian grubb
+15           joe gibbs racing  toyota camry  18                                        kyle busch               mars brands / interstate batteries           joe gibbs          dave rogers
+16           joe gibbs racing  toyota camry  20                                      matt kenseth                           husky / dollar general           joe gibbs       jason ratcliff
+17       jtg daugherty racing  toyota camry  47                  bobby labonte / a j allmendinger               kingsford / clorox / bush 's beans     tad geschickter          brian burns
+18     michael waltrip racing  toyota camry  15                                      clint bowyer                                  5 - hour energy     robert kauffman         brian pattie
+19     michael waltrip racing  toyota camry  55  brian vickers / michael waltrip / elliott sadler                           aaron 's dream machine     michael waltrip         scott miller
+20     michael waltrip racing  toyota camry  56                                 martin truex , jr                                  napa auto parts     michael waltrip        chad johnston
+21          nemco motorsports  toyota camry  87                                      joe nemechek                                       royal teak     andrea nemechek      scott eggleston
+22              penske racing   ford fusion   2                                   brad keselowski                                      miller lite        roger penske           paul wolfe
+23              penske racing   ford fusion  22                                       joey logano                                 shell / pennzoil    walter czarnecki          todd gordon
+24             phoenix racing  chevrolet ss  51                      justin allgaier / ryan truex                                           brandt         james finch        nick harrison
+25   richard childress racing  chevrolet ss  27                                       paul menard                                          menards   richard childress        slugger labbe
+26   richard childress racing  chevrolet ss  29                                     kevin harvick                                budweiser / rheem   richard childress           gil martin
+27   richard childress racing  chevrolet ss  31                                       jeff burton                     caterpillar , inc / cheerios   richard childress         luke lambert
+28  richard petty motorsports   ford fusion   9                                    marcos ambrose                     stanley / dewalt power tools       richard petty  drew blickensderfer
+29  richard petty motorsports   ford fusion  43                                     aric almirola                                 smithfield foods       richard petty         todd parrott
+30        roush fenway racing   ford fusion  16                                       greg biffle                                      3 m / bondo          jack roush          matt puccia
+31        roush fenway racing   ford fusion  17                          ricky stenhouse , jr (r)                      best buy / valvoline / zest        john w henry         scott graves
+32        roush fenway racing   ford fusion  99                                      carl edwards                  fastenal / aflac / ups / subway          jack roush         jimmy fennig
+33      stewart - haas racing  chevrolet ss  10                                danica patrick (r)                                         go daddy           gene haas          tony gibson
+34      stewart - haas racing  chevrolet ss  14                       mark martin / austin dillon                         bass pro shops / mobil 1       margaret haas      steve addington
+35      stewart - haas racing  chevrolet ss  39                                       ryan newman                  quicken loans / haas automation        tony stewart         matt borland
+36                swan racing  toyota camry  30                                        cole whitt                                widow wax / lean1       brandon davis           steve lane
+37       tommy baldwin racing  chevrolet ss   7                                       dave blaney                       accell construction / sany  tommy baldwin , jr   tommy baldwin , jr

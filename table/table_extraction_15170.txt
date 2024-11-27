@@ -1,0 +1,12 @@
+   opposing teams  against            date                           venue       status
+0           wales       15  03 / 02 / 2001    millennium stadium , cardiff  six nations
+1           italy       23  17 / 02 / 2001             twickenham , london  six nations
+2        scotland        3  03 / 03 / 2001             twickenham , london  six nations
+3          france       19  07 / 04 / 2001             twickenham , london  six nations
+4          canada       10  02 / 06 / 2001    fletcher 's fields , markham   first test
+5          canada       20  09 / 06 / 2001      swangard stadium , burnaby  second test
+6             usa       19  16 / 06 / 2001  balboa stadium , san francisco   test match
+7         ireland       20  20 / 10 / 2001         lansdowne road , dublin  six nations
+8       australia       15  10 / 11 / 2001             twickenham , london   test match
+9         romania        0  17 / 11 / 2001             twickenham , london   test match
+10   south africa        9  24 / 11 / 2001             twickenham , london   test match

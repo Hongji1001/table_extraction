@@ -1,0 +1,11 @@
+   draw                      artist                       song  votes  place
+0     1              jaanika vilipo                i'm falling     49      5
+1     2  yvetta kadakas & ivo linna              computer love     14     10
+2     3                 maarja kivi                    a dream     38      7
+3     4  lea liitmaa & jaagup kreem             what if i fell     31      9
+4     5                 gerli padar      need a little nothing     60      3
+5     6      hatuna & riina riistop  this is (what luv can do)     32      8
+6     7               maarja tãµkke          i'll never forget     51      4
+7     8    nightlight duo & cowboys       another country song     65      2
+8     9                     sahlene                    runaway     85      1
+9    10               julia hillens                    u can't     39      6

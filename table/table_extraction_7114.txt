@@ -1,0 +1,9 @@
+         race title                         circuit                   city / state    date        winner                 team
+0        launceston          symmons plains raceway          launceston , tasmania   1 mar  dick johnson  dick johnson racing
+1            calder             calder park raceway           melbourne , victoria  15 mar   peter brock   holden dealer team
+2         oran park               oran park raceway       sydney , new south wales  22 mar  dick johnson  dick johnson racing
+3           sandown                 sandown raceway           melbourne , victoria  12 apr  dick johnson  dick johnson racing
+4             perth                   wanneroo park      perth , western australia  26 apr   peter brock   holden dealer team
+5          adelaide  adelaide international raceway     adelaide , south australia   3 may   peter brock   holden dealer team
+6  surfers paradise        surfers paradise raceway  surfers paradise , queensland  17 may  dick johnson  dick johnson racing
+7          lakeside  lakeside international raceway          brisbane , queensland  21 jun  dick johnson  dick johnson racing

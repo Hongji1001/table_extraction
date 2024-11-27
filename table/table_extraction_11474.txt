@@ -1,0 +1,30 @@
+                         player  squad no  appearances  tries  goals  f goals  points  contract ends
+0               steve bannister        30            3      1      0        0       4           2009
+1                  luke burgess        27            3      0      0        0       0           2007
+2                    tony clubb        19            3      0      0        0       0           2008
+3                     matt gafa        18           20      8      0        0      32           2008
+4                  jon grayshon        20           17      3      0        0      12           2008
+5             daniel heckenberg        10           14      2      0        0       8           2008
+6                    scott hill         6           18      5      0        0      20           2008
+7                   lee hopkins        12           22      3      0        0      12           2007
+8         zebastian lucky luisi        25            3      0      0        0       0           2007
+9                       joe mbu        29            7      0      0        0       0           2007
+10  louie mccarthy - scarsbrook        17           18      6      0        0      24           2007
+11                mark mclinden         1           23      6      0        0      24           2009
+12                  david mills        15           20      0      0        0       0           2007
+13                chris melling        16           19      6      0        0      24           2009
+14                    danny orr         7           23      3      0        0      12           2009
+15                   henry paul        23           16      2     23        0      54           2008
+16                  rob purdham        13           17      3     26        0      64           2009
+17                 chad randall         9           25      7      0        0      28           2009
+18               julien rinaldi        14           24      4      0        0      16           2008
+19               rikki sheriffe        28            5      2      0        0       8           2008
+20                   andy smith        24           12      5      0        0      20           2007
+21                 tyrone smith         4           24      5      0        0      20           2007
+22                   paul sykes         3           24     16     33        1     141           2009
+23                  karl temata         8           23      2      0        0       8           2008
+24                david tootill        21            0      0      0        0       0           2008
+25           richard villasanti        11            0      0      0        0       0           2008
+26                    joe walsh        26            4      0      0        0       0           2008
+27                    jon wells         2           22      6      0        0      24           2008
+28             michael worrincy        22           12      1      0        0       4           2008

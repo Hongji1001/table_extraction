@@ -1,0 +1,10 @@
+  frequency      call sign         branding                     format                              owner
+0    am 880           cklq         cklq 880                    country       riding mountain broadcasting
+1   fm 91.5      ciwm - fm              nci    first nations community          native communications inc
+2   fm 92.7      cbws - fm      cbc radio 2               public music  canadian broadcasting corporation
+3   fm 94.7      cklf - fm          star fm     hot adult contemporary       riding mountain broadcasting
+4   fm 96.1       ckx - fm           bob fm                 adult hits                         bell media
+5   fm 97.9      cbwv - fm    cbc radio one         news / information  canadian broadcasting corporation
+6   fm 99.5  cksb - 8 - fm  première chaîne  french news / information  canadian broadcasting corporation
+7  fm 101.1      ckxa - fm     101 the farm                    country                         bell media
+8  fm 106.5      cjjj - fm            cj106               campus radio      assiniboine community college

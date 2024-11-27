@@ -1,0 +1,9 @@
+          hampden fl  wins  byes  losses  draws  against
+0        warrnambool    15     0       2      1     1072
+1  terang - mortlake    13     0       5      0     1173
+2   south warrambool    11     0       6      1     1236
+3             cobden    11     0       7      0     1182
+4             koroit    10     0       7      1     1331
+5  north warrnambool     5     0      11      2     1758
+6         port fairy     2     0      15      1     1860
+7         camperdown     2     0      16      0     2039

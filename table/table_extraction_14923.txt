@@ -1,0 +1,11 @@
+              player        country                      year (s) won  total to par
+0         tom watson  united states  1975 , 1977 , 1980 , 1982 , 1983    155   + 13
+1         tom lehman  united states                              1996    156   + 14
+2         nick faldo        england                1987 , 1990 , 1992    157   + 15
+3       mark o'meara  united states                              1998    157   + 15
+4  mark calcavecchia  united states                              1989    159   + 17
+5        bob charles    new zealand                              1963    164   + 22
+6        gary player   south africa                1959 , 1968 , 1974    164   + 22
+7   seve ballesteros          spain                1979 , 1984 , 1988    166   + 24
+8         sandy lyle       scotland                              1985    166   + 24
+9       tony jacklin        england                              1969    167   + 25

@@ -1,0 +1,19 @@
+        nat             name             moving to             type transfer window transfer fee
+0       arg         pautasso               olimpia         released          summer         free
+1       ita          cirillo               levante         released          summer         free
+2       bra          manduca               benfica      loan return          summer            -
+3       gre       kampantais     arminia bielefeld  end of contract          summer         free
+4       gre  tziortziopoulos        omonia nicosia  end of contract          summer         free
+5       gre       kyriakidis               larissa         transfer          summer         300k
+6       bra          emerson                 apoel  end of contract          summer         free
+7       gre            moras               bologna  end of contract          summer         free
+8       gre          chiotis               kerkyra  end of contract          summer         free
+9       gre            lakis                  paok         released          summer         free
+10      ita       sorrentino            recreativo             loan          summer         340k
+11      gre           zorbas            panachaiki             loan          summer         free
+12      gre       komvolidis  iraklis thessaloniki         released          summer         free
+13  srb yug             ivić                  aris         released          summer         free
+14      gre       gentsoglou            panachaiki             loan          summer         free
+15      sen            diouf             ilisiakos             loan          winter         free
+16  fin yug          hetemaj     apollon kalamaria             loan          winter         free
+17      gre       gentsoglou             nea ionia             loan          winter         free

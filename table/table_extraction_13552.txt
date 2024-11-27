@@ -1,0 +1,11 @@
+   rank  year                  title              artist    sales
+0     1  1999             first love        hikaru utada  7650215
+1     2  1998  b'z the best pleasure                 b'z  5135922
+2     3  1997                 review                glay  4875980
+3     4  2001               distance        hikaru utada  4469135
+4     5  1998  b'z the best treasure                 b'z  4438742
+5     6  2001                 a best      ayumi hamasaki  4301353
+6     7  1996                  globe               globe  4136460
+7     8  2002             deep river        hikaru utada  3604588
+8     9  2000          delicious way          mai kuraki  3530420
+9    10  1998    time to destination  every little thing  3520330

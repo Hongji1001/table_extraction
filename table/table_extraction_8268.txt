@@ -1,0 +1,12 @@
+          counting method                    basis                         name directed / undirected induced / non - induced
+0                   exact        network - centric                      mfinder                  both                 induced
+1                   exact        network - centric                 esu (fanmod)                  both                 induced
+2                   exact        network - centric  kavosh (used in cytokavosh)                  both                 induced
+3                   exact        network - centric                    g - tries                  both                 induced
+4                   exact       subgraph - centric                fpf (mavisto)                  both                 induced
+5                   exact       subgraph - centric                   nemofinder            undirected                 induced
+6                   exact       subgraph - centric             grochow - kellis                  both                    both
+7                   exact       subgraph - centric                         moda                  both                    both
+8   estimation / sampling  color - coding approach     n alon et al™s algorithm            undirected           non - induced
+9   estimation / sampling         other approaches                      mfinder                  both                 induced
+10  estimation / sampling         other approaches                 esu (fanmod)                  both                 induced

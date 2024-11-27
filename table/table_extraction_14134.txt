@@ -1,0 +1,13 @@
+    nat           name             moving to                        type transfer window transfer fee        source
+0   gre        machlas               retired                  retirement          summer            -      contragr
+1   cyp       makrides      metalurh donetsk             end of contract          summer         free    kerkidanet
+2   ser        čorović          ael limassol                 loan return          summer            -             -
+3   cyp          louka          ael limassol             end of contract          summer         free    kerkidanet
+4   gre         kapsis            levadiakos             end of contract          summer         free             -
+5   cyp     daskalakis           aek larnaca             end of contract          summer         free      apoelnet
+6   bra      zé carlos              trofense        contract termination          summer         free  apoelfccomcy
+7   cyp        vourkou        doxa katokopia                        loan          summer         free             -
+8   cyp     panayiotou       digenis morphou                        loan          summer         free             -
+9   mkd     nikolovski            aep paphos              mutual consent          winter         free             -
+10  cyp  papathanasiou       ermis aradippou                        loan          winter         free             -
+11  por    paulo costa  anorthosis famagusta  mutual consent loan return          winter         free  apoelfccomcy

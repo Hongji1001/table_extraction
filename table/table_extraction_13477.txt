@@ -1,0 +1,6 @@
+       opposing team  against              date venue             round
+0       norwich city        1    7 january 1950     h         3rd round
+1       norwich city        0   12 january 1950     a  3rd round replay
+2       grimsby town        0   28 january 1950     h         4th round
+3  manchester united        3  11 february 1950     a         5th round
+4  manchester united        3  15 february 1950     h  5th round replay

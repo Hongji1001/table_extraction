@@ -1,0 +1,14 @@
+     rank             mine    county              operator capacity (thousands of metric tons)
+0       1          morenci  greenlee    freeport - mcmoran                                 390
+1       2              ray     pinal                asarco                                 170
+2       3           bagdad   yavapai    freeport - mcmoran                                 100
+3       4         sierrita      pima    freeport - mcmoran                                 100
+4       5  mission complex      pima                asarco                                  70
+5       6      silver bell      pima                asarco                                  22
+6       7            miami      gila    freeport - mcmoran                                  50
+7       8     pinto valley      gila            bhp copper                                   5
+8       9            miami      gila            bhp copper                                   5
+9   (tbd)           tohono     pinal  cyprus amax minerals                              closed
+10  (tbd)     mineral park    mohave     mercator minerals                                   6
+11  (tbd)           bisbee   cochise    freeport - mcmoran                              closed
+12  (tbd)          safford    graham    freeport - mcmoran              (opened december 2007)

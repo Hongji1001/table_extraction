@@ -1,0 +1,15 @@
+              player  wkts  runs   econ  ovrs
+0       stuart clark    12   177   6.32  28.0
+1          brett lee    11   236   6.90  34.1
+2     nathan bracken    11   180   6.24  28.5
+3   mitchell johnson    10   172   6.37  27.0
+4      ashley noffke     4    41   5.46   7.3
+5     michael clarke     3    86   9.55   9.0
+6         adam voges     2     5   2.50   2.0
+7         shaun tait     2    22   5.50   4.0
+8        james hopes     1    10   3.33   3.0
+9       david hussey     1    12   4.00   3.0
+10      shane watson     1    19   5.70   3.2
+11    ben hilfenhaus     1    28   7.00   4.0
+12    andrew symonds     1   180  10.69  16.5
+13        brad hodge     0    20  10.00   2.0

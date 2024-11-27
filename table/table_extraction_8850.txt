@@ -1,0 +1,21 @@
+           country   film title used in nomination          language            original title                           director
+0           brazil  john , the knife and the river        portuguese            a faca e o rio                     george sluizer
+1   czechoslovakia                days of betrayal             czech                 dny zrady                       otakar vávra
+2            egypt                        empire m            arabic            إمبراطورية ميم                      hussein kamal
+3          finland       the land of our ancesters           finnish     maa on syntinen laulu                     rauni mollberg
+4           france                   day for night            france        la nuit américaine                  françois truffaut
+5     east germany                       the third            german                der dritte                       egon günther
+6     west germany                  the pedestrian            german             der fußgänger                  maximilian schell
+7          hungary                     photography         hungarian                fotográfia                         pál zolnay
+8            india                        saudagar             hindi                    सौदागर                       sudhendu roy
+9           israel   the house on chelouche street            hebrew            בית ברחוב שלוש                      moshé mizrahi
+10           japan                     coup d'état          japanese                       戒厳令                 yoshishige yoshida
+11     south korea                    mute samyong            korean                비련의 벙어리 삼용                    byeon jang - ho
+12          mexico         reed : insurgent mexico           spanish  reed , méxico insurgente                         paul leduc
+13     netherlands                 turkish delight             dutch               turks fruit                     paul verhoeven
+14          poland                      copernicus            polish                  kopernik  ewa petelska and czesław petelski
+15         romania                        veronica          romanian                  veronica                   elisabeta bostan
+16           spain                  habla , mudita           spanish            habla , mudita            manuel gutiérrez aragón
+17     switzerland                    l'invitation            french              l'invitation                     claude goretta
+18    soviet union                      liberation           russian              освобождение                        yuri ozerov
+19      yugoslavia          the battle of sutjeska  serbo - croatian                  sutjeska                        stipe delić

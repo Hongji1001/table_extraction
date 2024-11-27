@@ -1,0 +1,22 @@
+    year            men 's singles     women 's singles                                men 's doubles                      women 's doubles                               mixed doubles
+0   1972         edgar michalowski        monika thiere                 siegfried betz franz beinvogl      monika thiere angela michalowski                  roland riese monika thiere
+1   1973         edgar michalowski        monika thiere                 siegfried betz franz beinvogl      monika thiere angela michalowski      erfried michalowsky angela michalowski
+2   1974          michael schnaase       monika cassens                 siegfried betz franz beinvogl       monika cassens astrit schreiber                    franz beinvogl anke betz
+3   1975         edgar michalowski       monika cassens                    gerd kattau joachim schulz     monika cassens angela michalowski            edgar michalowski monika cassens
+4   1976          michael schnaase       inge borgström                wolfgang bochow roland maywald     monika cassens angela michalowski          wolfgang bochow marieluise zizmann
+5   1977             willy nilsson       inge borgström                 michael wilks peter bullivant     monika cassens angela michalowski                     rob ridder marja ridder
+6   1978          michael schnaase       monika cassens                       eddy sutton alen connor     monika cassens angela michalowski  karl - heinz zwiebler eva - maria zwiebler
+7   1979            steen fladberg       kirsten larsen            steen fladberg jens peter nierhoff        sally leadbeater gillian clark           kenneth larsen charlotte pilgaard
+8   1980          michael kjeldsen   rikki von sörensen  jan hammergaard - hansen jens peter nierhoff        kathleen redhead gillian clark            edgar michalowski monika cassens
+9   1981             ulf johansson        diane simpson                   gerry asquith duncan bridge         diane simpson catharine troke            edgar michalowski monika cassens
+10  1982              steve butler      catharine troke                       steve butler nigel tier  svetlana belyasova petra michalowsky         anatoliy skripko svetlana belyasova
+11  1983               michal malý       monika cassens                    torben kjaer steffen lunde      monika cassens petra michalowsky          erfried michalowsky monika cassens
+12  1984             kim brodersen    charlotte hattens                   kim brodersen claus thomsen      tatyana litvinenko viktoria pron       erfried michalowsky petra michalowsky
+13  1985  poul - erik høyer larsen      grethe mogensen           poul - erik høyer larsen peter buch          grethe mogensen hanne adsbol                     peter buch hanne adsböl
+14  1986           andrey antropov  catharina andersson                      michal malý karel lakomý          lila galjamova elena rybkina               andrey antropov elena rybkina
+15  1987               michal malý    bozena siemieniec                     heinz fisher klaus fisher      monika cassens petra michalowsky                 thomas mundt monika cassens
+16  1988             klaus fischer        elena rybkina                   stephan kuhl robert neumann      monika cassens petra michalowsky               kai abraham petra michalowsky
+17  1989            tomasz mendrek        viktoria pron                    harald koch helmo goetschl      tatyana litvinenko viktoria pron              thomas mundt petra michalowsky
+18  1990  thomas stuer - lauridsen       camilla martin   thomas stuer - lauridsen christian jacobsen       trine johansson marlene thomsen          christian jacobsen marlene thomsen
+19  1991         robert liljequist         irina serova                    markus keck michael helber  andrea findhammer anne - katrin seid       vladislav druzchenko marina yakusheva
+20  1992            tomasz mendrek         irina serova                  steffan pandya anthony busch            tanja groves joanne davies                   hans fischer irina serova

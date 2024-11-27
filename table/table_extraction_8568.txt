@@ -1,0 +1,17 @@
+       date                                 company        business         country value ( usd )
+0   unknown  celerity energy partners san diego llc          energy   united states       unknown
+1      2009                     cogent energy , inc  green building   united states       unknown
+2   unknown             enoc securities corporation      securities   united states       unknown
+3   unknown                             enernoc ltd          energy          canada       unknown
+4   unknown                      enernoc uk limited          energy  united kingdom       unknown
+5   unknown                          mdenergy , llc          energy   united states       unknown
+6   unknown                   pinpoint power dr llc          energy   united states       unknown
+7   unknown            south river consulting , llc          energy   united states       unknown
+8   unknown            global energy partners , inc          energy   united states       unknown
+9      2011         m2 m communications corporation          energy   united states       unknown
+10  unknown               enernoc australia pty ltd          energy       australia       unknown
+11  unknown                      dmt energy pty ltd          energy       australia       unknown
+12  unknown        energy response holdings pty ltd          energy       australia       unknown
+13  unknown                         enernoc pty ltd          energy       australia       unknown
+14  unknown             enernoc new zealand limited          energy     new zealand       unknown
+15  unknown         high street corporation pty ltd          energy       australia       unknown

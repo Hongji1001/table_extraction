@@ -1,0 +1,22 @@
+    year                player    nationality        position                    team
+0   1993        michael jordan  united states  shooting guard           chicago bulls
+1   1994       charles barkley  united states   power forward            phoenix suns
+2   1995       hakeem olajuwon  united states          center         houston rockets
+3   1996   hakeem olajuwon (2)  united states          center         houston rockets
+4   1997    michael jordan (2)  united states  shooting guard           chicago bulls
+5   1998    michael jordan (3)  united states  shooting guard           chicago bulls
+6   1999    michael jordan (4)  united states  shooting guard           chicago bulls
+7   2000            tim duncan  united states   power forward       san antonio spurs
+8   2001      shaquille o'neal  united states          center      los angeles lakers
+9   2002  shaquille o'neal (2)  united states          center      los angeles lakers
+10  2003        tim duncan (2)  united states   power forward       san antonio spurs
+11  2004         kevin garnett  united states   power forward  minnesota timberwolves
+12  2005            steve nash         canada     point guard            phoenix suns
+13  2006           dwyane wade  united states  shooting guard              miami heat
+14  2007          lebron james  united states   small forward     cleveland cavaliers
+15  2008           kobe bryant  united states  shooting guard      los angeles lakers
+16  2009      lebron james (2)  united states   small forward     cleveland cavaliers
+17  2010       kobe bryant (2)  united states  shooting guard      los angeles lakers
+18  2011         dirk nowitzki        germany   power forward        dallas mavericks
+19  2012      lebron james (3)  united states   small forward              miami heat
+20  2013      lebron james (4)  united states   small forward              miami heat

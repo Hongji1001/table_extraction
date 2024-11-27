@@ -1,0 +1,9 @@
+   week         date         visiting team final score             host team                              stadium
+0    10  november 10       oakland raiders     24 - 17    san diego chargers                     qualcomm stadium
+1    11  november 17         new york jets     13 - 17        denver broncos  sports authority field at mile high
+2    12  november 24   san francisco 49ers      6 - 16      baltimore ravens                     m&t bank stadium
+3    13   december 1   philadelphia eagles     14 - 31      seattle seahawks                    centurylink field
+4    14   december 8      cleveland browns      3 - 14   pittsburgh steelers                          heinz field
+5    15  december 15  jacksonville jaguars     14 - 41       atlanta falcons                         georgia dome
+6    15  december 17        dallas cowboys     31 - 15  tampa bay buccaneers                raymond james stadium
+7    16  december 22        houston texans     16 - 19    indianapolis colts                    lucas oil stadium

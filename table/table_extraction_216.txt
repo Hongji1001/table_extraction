@@ -1,0 +1,11 @@
+             player  no    nationality          position years for jazz     school / club team
+0         stu lantz  22  united states             guard      1974 - 75               nebraska
+1       rusty larue   5  united states             guard      2001 - 02            wake forest
+2      eric leckner  45  united states  forward - center      1988 - 90                wyoming
+3           ron lee  18  united states             guard      1979 - 80                 oregon
+4       russell lee  11  united states   guard - forward      1974 - 75               marshall
+5        tim legler  18  united states             guard           1992               la salle
+6           jim les  25  united states             guard      1988 - 89                bradley
+7      quincy lewis  20  united states           forward    1999 - 2002              minnesota
+8  randy livingston   2  united states             guard      2004 - 05                    lsu
+9        raúl lópez  24          spain             guard    2003 - 2005  real madrid ( spain )

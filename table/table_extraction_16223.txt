@@ -1,0 +1,30 @@
+                               title series         director    release date reissue
+0                      bugs' bonnets     mm      chuck jones  1956 - 01 - 14      no
+1                  too hop to handle     lt  robert mckimson  1956 - 01 - 28      no
+2                        weasel stop     mm  robert mckimson  1956 - 02 - 11     yes
+3           the high and the flighty     mm  robert mckimson  1956 - 02 - 18     yes
+4                broom - stick bunny     lt      chuck jones  1956 - 02 - 25      no
+5                       rocket squad     mm      chuck jones  1956 - 03 - 10      no
+6                     tweet and sour     lt     friz freleng  1956 - 03 - 24      no
+7                       heaven scent     mm      chuck jones  1956 - 03 - 31      no
+8                       mixed master     lt  robert mckimson  1956 - 04 - 14      no
+9                   rabbitson crusoe     lt     friz freleng  1956 - 04 - 28      no
+10  gee whiz - z - z - z - z - z - z     lt  charles m jones  1956 - 05 - 05      no
+11              tree cornered tweety     mm     friz freleng  1956 - 05 - 19      no
+12               the unexpected pest     mm  robert mckimson  1956 - 06 - 02      no
+13             napoleon bunny - part     mm     friz freleng  1956 - 06 - 16      no
+14                    tugboat granny     mm     friz freleng  1956 - 06 - 23      no
+15                       stupor duck     lt  robert mckimson  1956 - 07 - 07      no
+16               barbary coast bunny     lt      chuck jones  1956 - 07 - 21      no
+17                 rocket - bye baby     mm      chuck jones  1956 - 08 - 04      no
+18                  half - fare hare     mm  robert mckimson  1956 - 08 - 18      no
+19                raw! raw! rooster!     lt  robert mckimson  1956 - 08 - 25     yes
+20            the slap - hoppy mouse     mm  robert mckimson  1956 - 09 - 01      no
+21                   a star is bored     lt     friz freleng  1956 - 09 - 15      no
+22                 deduce , you say!     lt      chuck jones  1956 - 09 - 29      no
+23                    yankee dood it     mm     friz freleng  1956 - 10 - 13     yes
+24                      wideo wabbit     mm  robert mckimson  1956 - 10 - 27      no
+25          there they go - go - go!     lt      chuck jones  1956 - 11 - 10      no
+26              two crows from tacos     mm     friz freleng  1956 - 11 - 24      no
+27               the honey - mousers     lt  robert mckimson  1956 - 12 - 08      no
+28                  to hare is human     mm      chuck jones  1956 - 12 - 15      no

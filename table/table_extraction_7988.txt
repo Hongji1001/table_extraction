@@ -1,0 +1,22 @@
+                          name                            species / authority    order           family  red list
+0   north atlantic right whale          eubalaena glacialis pls müller , 1776  cetacea       balaenidae         4
+1               bryde 's whale             balaenoptera edeni anderson , 1878  cetacea  balaenopteridae         0
+2                    fin whale        balaenoptera physalus (linnaeus , 1758)  cetacea  balaenopteridae         4
+3               humpback whale       megaptera novaeangliae (borowski , 1781)  cetacea  balaenopteridae         5
+4                  minke whale     balaenoptera acutorostrata lacépède , 1804  cetacea  balaenopteridae         6
+5                    sei whale            balaenoptera borealis lesson , 1828  cetacea  balaenopteridae         4
+6     atlantic spotted dolphin           stenella frontalis (g cuvier , 1829)  cetacea      delphinidae         0
+7           bottlenose dolphin            tursiops truncatus (montagu , 1821)  cetacea      delphinidae         0
+8               common dolphin              delphinus delphis linnaeus , 1758  cetacea      delphinidae         7
+9           false killer whale             pseudorca crassidens (owen , 1846)  cetacea      delphinidae         7
+10            risso 's dolphin              grampus griseus (g cuvier , 1812)  cetacea      delphinidae         0
+11                        orca                 orcinus orca (linnaeus , 1758)  cetacea      delphinidae         6
+12             spinner dolphin            stenella longirostris (gray , 1828)  cetacea      delphinidae         6
+13     rough - toothed dolphin  steno bredanensis (g cuvier in lesson , 1828)  cetacea      delphinidae         0
+14  short - finned pilot whale         globicephala macrorhynchus gray , 1846  cetacea      delphinidae         6
+15             striped dolphin           stenella coeruleoalba (meyen , 1833)  cetacea      delphinidae         6
+16           pygmy sperm whale            kogia breviceps (blainville , 1838)  cetacea         kogiidae         7
+17                 sperm whale         physeter macrocephalus linnaeus , 1758  cetacea     physeteridae         5
+18       gervais' beaked whale          mesoplodon europaeus (gervais , 1855)  cetacea        ziphiidae         0
+19      cuvier 's beaked whale            ziphius cavirostris g cuvier , 1823  cetacea        ziphiidae         0
+20        true 's beaked whale                   mesoplodon mirus true , 1913  cetacea        ziphiidae         0

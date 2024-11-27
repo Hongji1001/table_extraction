@@ -1,0 +1,17 @@
+    draw         language                artist                                   song         english translation  place  points
+0      1          spanish     conchita bautista                        estando contigo           when i'm with you      9       8
+1      2           french        colette deréal            allons , allons les enfants  come on , come on children     10       6
+2      3           german         jimmy makulis                              sehnsucht                     longing     15       1
+3      4          finnish        laila kinnunen                        valoa ikkunassa    the lights in the window     10       6
+4      5          serbian     ljiljana petrović  neke davne zvezde (неке давне звезде)          some ancient stars      8       9
+5      6            dutch      greetje kauffeld                            wat een dag                  what a day     10       6
+6      7          swedish           lill - babs                          april , april                           -     14       2
+7      8  german , french         lale andersen            einmal sehen wir uns wieder          we will meet again     13       3
+8      9           french    jean - paul mauric           printemps , avril carillonne        spring , april rings      4      13
+9     10           french      franca di rienzo                     nous aurons demain         we'll have tomorrow      3      16
+10    11            dutch             bob benny                september , gouden roos     september , golden rose     15       1
+11    12        norwegian       nora brockstedt                         sommer i palma             summer in palma      7      10
+12    13           danish       dario campeotto                              angelique                           -      5      12
+13    14           french  jean - claude pascal                      nous les amoureux               we the lovers      1      31
+14    15          english          the allisons                           are you sure                           -      2      24
+15    16          italian          betty curtis                               al di là                      beyond      5      12

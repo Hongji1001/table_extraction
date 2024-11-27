@@ -1,0 +1,7 @@
+                 player  touchdowns  extra points  field goals  points
+0        dave allerdice           2            14           10      64
+1           sam davison           7             0            1      39
+2       donald w greene           2             0            0      10
+3     william p edmunds           1             0            0       5
+4  maurice e crumpacker           1             0            0       5
+5        william j embs           1             0            0       5

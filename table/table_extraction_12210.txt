@@ -1,0 +1,6 @@
+   nat              name              moving from      type transfer window transfer fee
+0  esp      mikel arteta                barcelona  transfer          summer        5.8 m
+1  aus      kevin muscat  wolverhampton wanderers  transfer          summer         free
+2  sco   steven thompson            dundee united  transfer          winter        0.2 m
+3  fra  jerome bonnissel                 bordeaux  transfer          winter         free
+4  nor         dan eggen         deportivo alavés  transfer          winter         free

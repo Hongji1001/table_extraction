@@ -1,0 +1,16 @@
+               player    nationality          position         from      school / country
+0        edwin kachan  united states             guard         1948                depaul
+1          ed kalafat  united states  forward / center         1954             minnesota
+2        jason kapono  united states           forward         2011                  ucla
+3           coby karl  united states             guard         2007           boise state
+4       jerome kersey  united states           forward         1996              longwood
+5       randolph keys  united states   guard / forward         1994  southern mississippi
+6       earnie killum  united states             guard         1970               stetson
+7        frankie king  united states             guard         1995      western carolina
+8            jim king  united states             guard         1963                 tulsa
+9          joe kleine  united states            center         1996              arkansas
+10      travis knight  united states  forward / center  1996 , 1999           connecticut
+11          jim krebs  united states  forward / center         1957    southern methodist
+12  larry krystkowiak  united states  forward / center         1996               montana
+13      mitch kupchak  united states  forward / center         1981        north carolina
+14           cj kupec  united states  forward / center         1975              michigan

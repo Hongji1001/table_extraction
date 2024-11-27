@@ -1,0 +1,11 @@
+                        team             coach             home ground          location  founded
+0            adelaide cobras  kris trajanovski            weigall oval          plympton     1972
+1            adelaide comets      barney smith          santos stadium          mile end     1994
+2       adelaide hills hawks     doug paterson              hawks nest          woodside     1991
+3           adelaide olympic           unknown          thebarton oval         thebarton     1978
+4          cumberland united    nick pantsaras       aa bailey reserve  clarence gardens     1943
+5       enfield city falcons           unknown       rushworth reserve           enfield     1946
+6  noarlunga united bulldogs           unknown  wilfred taylor reserve         noarlunga     1963
+7     playford city patriots           unknown             ramsay park         elizabeth     1956
+8      port adelaide pirates        derek hall       john hart reserve     port adelaide     1903
+9       white city woodville    adrian santrac     frank mitchell park    woodville west     1949

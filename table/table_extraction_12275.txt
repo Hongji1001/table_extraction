@@ -1,0 +1,21 @@
+                   date     venue    score              result                        competition
+0         may 28 , 1997   daejeon  2 goals               4 - 0  1998 fifa world cup qualification
+1        june 14 , 1997     suwon   1 goal               3 - 0                     1997 korea cup
+2      august 24 , 1997     daegu   1 goal               4 - 1                     friendly match
+3    september 6 , 1997     seoul  3 goals               3 - 0  1998 fifa world cup qualification
+4   september 12 , 1997     seoul   1 goal               2 - 1  1998 fifa world cup qualification
+5     october 11 , 1997    almaty   1 goal               1 - 1  1998 fifa world cup qualification
+6     october 18 , 1997  tashkent  2 goals               5 - 1  1998 fifa world cup qualification
+7     january 27 , 1998   bangkok   1 goal               2 - 0                   1998 king 's cup
+8     january 29 , 1998   bangkok   1 goal               2 - 0                   1998 king 's cup
+9     january 31 , 1998   bangkok   1 goal  1 - 1 (5 - 4 pso )                   1998 king 's cup
+10    february 7 , 1998  auckland   1 goal               1 - 0                     friendly match
+11       march 7 , 1998     tokyo   1 goal               1 - 0                   1998 dynasty cup
+12      april 18 , 1998    skopje   1 goal               2 - 2                     friendly match
+13        may 27 , 1998     seoul   1 goal               2 - 2                     friendly match
+14    december 2 , 1998   bangkok  2 goals               2 - 3                   1998 asian games
+15    december 4 , 1998   bangkok  2 goals               4 - 0                   1998 asian games
+16    december 7 , 1998   bangkok  2 goals               2 - 0                   1998 asian games
+17   december 11 , 1998   bangkok   1 goal               1 - 0                   1998 asian games
+18  september 13 , 2001   daejeon   1 goal               2 - 2                     friendly match
+19   november 13 , 2001   gwangju   1 goal               1 - 1                     friendly match

@@ -1,0 +1,19 @@
+                      club  founded                   homeground            suburb seniors juniors
+0   beaudesert kingfishers     1962               rs willis park        beaudesert      no     yes
+1            bilambil jets     1923      bilambil sports complex          bilambil     yes     yes
+2           burleigh bears     1934                  pizzey park             miami     yes     yes
+3          coomera cutters     2012          coomera sports park           coomera      no     yes
+4           cudgen hornets     1950              ned byrne field        kingscliff     yes     yes
+5         currumbin eagles     1976  merv craig sporting complex  currumbin waters     yes     yes
+6       helensvale hornets     1991           robert dalley park        helensvale      no     yes
+7        jimboomba thunder     2003               jimboomba park         jimboomba      no     yes
+8      mudgeeraba redbacks     1992                   firth park        mudgeeraba      no     yes
+9          nerang roosters     1977                 glennon park            nerang     yes     yes
+10         ormeau shearers     1999                  ormeau oval            ormeau     yes     yes
+11         parkwood sharks     1976         musgrave sports park          parkwood     yes     yes
+12          robina raptors     2005              station reserve            robina      no     yes
+13    runaway bay seagulls     1979                 bycroft oval       runaway bay     yes     yes
+14        south tweed rlfc     2012            les burger fields       south tweed     yes     yes
+15        southport tigers     1931                    owen park         southport     yes     yes
+16          tugun seahawks     1978        betty diamond complex             tugun     yes     yes
+17     tweed coast raiders     1980            les burger fields          cabarita     yes     yes

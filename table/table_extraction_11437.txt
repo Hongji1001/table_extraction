@@ -1,0 +1,13 @@
+       date     centerfold model   interview subject      20 questions                                           pictorials
+0    1 - 06      athena lundberg          mark cuban   kate beckinsale                                        lisa guerrero
+1    2 - 06       cassandra lynn          al franken       hugh laurie                    adrianne curry , girls of tuscany
+2    3 - 06         monica leigh          kanye west   franz ferdinand                                           willa ford
+3    4 - 06  holley ann dorrough        keanu reeves    craig ferguson              candice michelle , cyber girls in print
+4    5 - 06         alison waite       ozzie guillãn    rebecca romijn  girls of the top 10 party schools , rachel sterling
+5    6 - 06   stephanie larimore       shepard smith         jason lee                pmoy - kara monaco , girls of myspace
+6    7 - 06  sara jean underwood   jerry bruckheimer        dana white                                          vida guerra
+7    8 - 06          nicole voss         denis leary       luke wilson                 girls of orange county , stacey dash
+8    9 - 06        janine habeck     michael d brown      eva longoria                   the girls next door , natalie reid
+9   10 - 06        jordan monroe            ludacris  johnny knoxville                girls of the big 12 , christine dolce
+10  11 - 06      sarah elizabeth  arianna huffington       tenacious d            mercedes mcnab , girls of hawaiian tropic
+11  12 - 06          kia drayton        dixie chicks  samuel l jackson                      cindy margolis , danielle lloyd

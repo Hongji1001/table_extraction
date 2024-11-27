@@ -1,0 +1,6 @@
+               tournament                    2009                    2010                    2011                    2012                    2013
+0  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments
+1         australian open                       a                       a                       a                      3r                      1r
+2             french open                      2r                       a                       a                      1r                       a
+3               wimbledon                      q1                       a                      1r                      2r                       a
+4                 us open                       a                       a                      3r                      1r                      2r

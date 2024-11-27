@@ -1,0 +1,12 @@
+   Unnamed: 0              week 1                week 2           week 3                    week 4          week 5
+0     january  alexandra penovich        josie goldberg   felicia taylor              diane deluna               -
+1    february       cassia walton             kaci lynn   amanda english  cassie and kat kellerman               -
+2       march        demi jessica         jenna jamison     dana dicillo             heidi wheeler  jenna michelle
+3       april         blair snell         sharae spears  chernise yvette                chelsea co               -
+4         may       heather bauer       britney arianna         jia lynn               kristi lynn               -
+5        june       crystal enloe      lexi lombardelli   katie anderson              tasha nicole  bryleigh rayne
+6        july         nikki ryann  brittany sylvanowicz      debbie beal             kristen smith               -
+7      august       anissa holmes   shannon bettencourt   alinna d penta           kristina jarvis               -
+8   september      stephanie emma      elizabeth taylor     rebecca lynn          stephanie strong   samantha dunn
+9     october      jennifer kohut           ashley lowe   jennifer lewis               jane taylor               -
+10   november        jayden tyler        lauren d'marie       ashley sey             lynn delarosa               -

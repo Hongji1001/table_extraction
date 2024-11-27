@@ -1,0 +1,12 @@
+   english name   thai name abbr             transcription                   sanskrit word zodiac sign
+0       january      มกราคม   มค  makarakhom , mokkarakhom            makara sea - monster   capricorn
+1      february  กุมภาพันธ์   กพ                kumphaphan    kumbha pitcher , water - pot    aquarius
+2         march      มีนาคม  มีค                  minakhom  mīna (a specific kind of) fish      pisces
+3         april      เมษายน  เมย                   mesayon                        meṣa ram       aries
+4           may     พฤษภาคม   พค           phruetsaphakhom                    vṛṣabha bull      taurus
+5          june    มิถุนายน  มิย                mithunayon                  mithuna a pair      gemini
+6          july     กรกฎาคม   กค              karakadakhom                    karkaṭa crab      cancer
+7        august     สิงหาคม   สค                singhakhom                      sinha lion         leo
+8     september     กันยายน   กย                  kanyayon                      kanyā girl       virgo
+9       october      ตุลาคม   ตค                  tulakhom                    tulā balance       libra
+10     november   พฤศจิกายน   พย          phruetsachikayon                vṛścika scorpion     scorpio

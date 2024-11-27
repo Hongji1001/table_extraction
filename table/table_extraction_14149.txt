@@ -1,0 +1,7 @@
+               tournament                    2002                    2004                    2005                    2006
+0  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments  grand slam tournaments
+1         australian open                       a                       a                       a                      1r
+2             french open                      1r                       a                      1r                       a
+3               wimbledon                       a                       a                       a                       a
+4                 us open                       a                       a                       a                       a
+5              win - loss                   0 - 1                   0 - 0                   0 - 1                   0 - 1

@@ -1,0 +1,12 @@
+      official name           status  area km 2  population census ranking
+0           moncton             city     141.17       69074     79 of 5008
+1            dieppe             city      51.17       23310    174 of 5008
+2   beaubassin east  rural community     291.04        6200    600 of 5008
+3           shediac             town      11.97        6053    610 of 5008
+4         sackville             town      74.32        5558    655 of 5008
+5        memramcook          village     185.71        4831    727 of 5008
+6        cap - pelã          village      23.78        2256   1229 of 5008
+7         salisbury          village      13.68        2208   1243 of 5008
+8       petitcodiac          village      17.22        1429   1658 of 5008
+9        dorchester          village       5.74        1167   1878 of 5008
+10       port elgin          village       2.61         418   3238 of 5008

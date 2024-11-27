@@ -1,0 +1,13 @@
+    round  overall            player          position    school / club team
+0       1       17  robert l jackson        linebacker             texas a&m
+1       2       46      tom skladany            punter            ohio state
+2       4      102      oliver davis    defensive back       tennessee state
+3       4      110       mickey sims  defensive tackle  south carolina state
+4       7      173      kenny randle     wide receiver                   smu
+5       7      184       blane smith        linebacker                purdue
+6       7      188  bob lingenfelter  offensive tackle              nebraska
+7       8      213    bill armstrong    defensive back           wake forest
+8       9      240       daryl brown    defensive back                 tufts
+9      10      269       tom burkett  offensive tackle        north carolina
+10     11      296      charles nash     wide receiver               arizona
+11     12      325       leo tierney            center          georgia tech

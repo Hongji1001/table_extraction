@@ -1,0 +1,12 @@
+           settlement             cyrillic name other names     type  population (2011) largest ethnic group (2002) dominant religion (2002)
+0                irig                                  ириг     town               4415                       serbs    orthodox christianity
+1            dobrodol  добродол (hungarian : dobradópuszta)  village                107                  hungarians    catholic christianity
+2             grgetek                               гргетек  village                 76                       serbs    orthodox christianity
+3               jazak                                 јазак  village                960                       serbs    orthodox christianity
+4   krušedol prnjavor                      крушедол прњавор  village                234                       serbs    orthodox christianity
+5       krušedol selo                         крушедол село  village                340                       serbs    orthodox christianity
+6         mala remeta                           мала ремета  village                130                       serbs    orthodox christianity
+7             neradin                               нерадин  village                475                       serbs    orthodox christianity
+8              rivica                                ривица  village                620                       serbs    orthodox christianity
+9            šatrinci       шатринци (hungarian : satrinca)  village                373                  hungarians    catholic christianity
+10      velika remeta                         велика ремета  village                 44                       serbs    orthodox christianity

@@ -1,0 +1,19 @@
+            team        city            stadium                  manager past season
+0     aboomoslem     mashhad              samen          parviz mazloomi         6th
+1          bargh      shiraz           hafezieh           mahmoud yavari        12th
+2      esteghlal      tehran              azadi            firouz karimi         4th
+3      esteghlal       ahvaz       takhti ahvaz             majid jalali         2nd
+4        malavan      anzali      takhti anzali      mohammad ahmadzadeh        14th
+5            mes      kerman     shahid bahonar           amir ghalenoei         9th
+6            pas     hamedan              ghods            vinko begovic       n / a
+7         paykan      tehran        iran khodro  ali asghar modir roosta         7th
+8          pegah       rasht      sardar jangal         nader dastneshan   qualifier
+9     persepolis      tehran              azadi            afshin ghotbi         3rd
+10      rah ahan      tehran           rah ahan          davoud mahabadi        16th
+11  saba battery      tehran  shahid derakhshan       yahya golmohammadi        13th
+12         saipa       karaj     enghelab karaj                 ali daei    champion
+13    sanat naft      abadan      takhti abadan              ahmad tousi   qualifier
+14       sepahan     esfahan       naghsh jahan            jorvan vieira         5th
+15        sepasi      shiraz           hafezieh         gholam peyrovani        10th
+16  shirin faraz  kermanshah   azadi kermanshah        shahram mehrpeyma   qualifier
+17      zob ahan     esfahan       foolad shahr     bijan zolfagharnasab         8th

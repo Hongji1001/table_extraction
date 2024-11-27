@@ -1,0 +1,12 @@
+                      round  clubs remaining  clubs involved winners from previous round new entries this round               leagues entering at this round
+0   extra preliminary round              762             406                        none                    406   levels 9 and 10 in football league pyramid
+1   second round qualifying              276             160                         116                     44            conference north conference south
+2    third round qualifying              196              80                          80                   none                                         none
+3   fourth round qualifying              156              64                          40                     24                          conference national
+4        first round proper              124              80                          32                     48      football league one football league two
+5       second round proper               84              40                          40                   none                                         none
+6        third round proper               64              64                          20                     44  premier league football league championship
+7       fourth round proper               32              32                          32                   none                                         none
+8        fifth round proper               16              16                          16                   none                                         none
+9        sixth round proper                8               8                           8                   none                                         none
+10            semi - finals                4               4                           4                   none                                         none

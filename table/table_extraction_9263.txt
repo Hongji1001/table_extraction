@@ -1,0 +1,9 @@
+                        name             frequency             language                   city            website
+0       laredo morning times                 daily              english                 laredo       lmtonlinecom
+1          laredo daily news  hourly (online news)  english and spanish                 laredo     laredodailycom
+2                    laredos               monthly              english                 laredo     laredosnewscom
+3           viva south texas  hourly (online news)              english   laredo & south texas  vivasouthtexascom
+4                  el mañana                 daily              spanish  nuevo laredo / laredo      elmananacommx
+5  el diario de nuevo laredo                 daily              spanish           nuevo laredo          diarionet
+6               primera hora                 daily              spanish           nuevo laredo     primerahoracom
+7                última hora                 daily              spanish           nuevo laredo      ultimahoracom

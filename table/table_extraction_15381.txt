@@ -1,0 +1,12 @@
+                        shooter         event              rank points             score points                    total
+0          walton eller ( usa )      wcf 2007       defending champion       defending champion       defending champion
+1   francesco d'aniello ( ita )    og beijing  olympic silver medalist  olympic silver medalist  olympic silver medalist
+2            hu binyuan ( chn )    og beijing  olympic bronze medalist  olympic bronze medalist  olympic bronze medalist
+3          ronjan sodhi ( ind )   wc belgrade                       15                       15                       30
+4        richard faulds ( gbr )       wc suhl                       15                       15                       30
+5          vasily mosin ( rus )    wc beijing                       15                       13                       28
+6          hãkan dahlby ( swe )  wc kerrville                       15                       12                       27
+7       roland gerebics ( hun )       wc suhl                        8                       12                       20
+8       jeffrey holguin ( usa )  wc kerrville                        8                       10                       18
+9         saif alshamsy ( uae )    wc beijing                        8                        8                       16
+10        hamad alafasi ( kuw )       wc suhl                        3                       12                       15

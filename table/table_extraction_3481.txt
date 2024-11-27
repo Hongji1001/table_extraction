@@ -1,0 +1,12 @@
+   Unnamed: 0                           quebec                            ontario                           atlantic                  canada west                         national
+0      week 1            max caron (concordia)              sam sabourin (queens)               season did not start       steve famulak (regina)            sam sabourin (queens)
+1      week 2          julien hamel (montreal)             craig butler (western)               jake thomas (acadia)           nathan kanya (ubc)               nathan kanya (ubc)
+2      week 3        frédérick plesius (laval)              adam fehler (toronto)  raye hartmann (st francis xavier)          tye noble (calgary)              tye noble (calgary)
+3      week 4    arnaud gascon - nadon (laval)          zander robinson (western)              tom labenski (acadia)      bruce anderson (regina)        zander robinson (western)
+4      week 5            justin conn (bishops)               john surla (western)          dan schutte (saint marys)    nico higgs (saskatchewan)            justin conn (bishops)
+5      week 6            samaël lavaud (laval)            sam sabourin (queen 's)        mark holden (saint mary 's)        no nominee (bye week)      mark holden (saint mary 's)
+6      week 7      felipe fonseca (sherbrooke)            joe cappiello (toronto)           jeff hecht (saint marys)    nico higgs (saskatchewan)        nico higgs (saskatchewan)
+7      week 8          julien hamel (montreal)      samuel aird (wilfrid laurier)           adrian saturley (acadia)  jean - marc jones (alberta)          julien hamel (montreal)
+8      week 9        dave boucher (sherbrooke)  stephen cormack (wilfrid laurier)     brian ridgeway (saint mary 's)    teague sherman (manitoba)        dave boucher (sherbrooke)
+9     week 10  maximilien ducap kamara (laval)       john surla (western ontario)         graeme richardson (acadia)    craig gerbrandt (alberta)  maximilien ducap kamara (laval)
+10    week 11        frédérick plesius (laval)     craig butler (western ontario)     brian ridgeway (saint mary 's)     linden gaydosh (calgary)   craig butler (western ontario)

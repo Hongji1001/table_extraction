@@ -1,0 +1,11 @@
+                 title                            label  year of release country of release        peaches :
+0        for your love                             date             1967                usa  francine barker
+1  let 's fall in love                             date             1967                usa  francine barker
+2       peaches & herb                              mca             1977                usa     linda greene
+3                2 hot                    mvp / polydor             1978                usa     linda greene
+4       twice the fire                    mvp / polydor             1979                usa     linda greene
+5   demasiado candente                    mvp / polydor             1979          argentina     linda greene
+6       worth the wait                    mvp / polydor             1980                usa     linda greene
+7     sayin' something                    mvp / polydor             1981                usa     linda greene
+8             remember  the entertainment co / columbia             1983                usa     linda greene
+9       colors of love                           imagen             2009                usa  meritxell negre

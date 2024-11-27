@@ -1,0 +1,13 @@
+    round                                       race name                            circuit           city / location          date
+0       1        2006 imperial capital bank atlantic race              streets of long beach   long beach , california       april 9
+1       2                              2006 fast trac 100                 streets of houston           houston , texas        may 13
+2       3                                  2006 monterrey                     fundidora park        monterrey , mexico        may 21
+3       4                        2006 trinity carpet 100k     portland international raceway         portland , oregon       june 18
+4       5  2006 gehl atlantic championship of cleveland 1  cleveland burke lakefront airport          cleveland , ohio       june 24
+5       6  2006 gehl atlantic championship of cleveland 2  cleveland burke lakefront airport          cleveland , ohio       june 25
+6       7                                    2006 toronto                   exhibition place         toronto , ontario        july 9
+7       8                                   2006 edmonton       edmonton city centre airport        edmonton , alberta       july 23
+8       9                                   2006 san josé                streets of san jose     san jose , california       july 30
+9      10                                     2006 denver                  streets of denver         denver , colorado     august 13
+10     11                                   2006 montréal          circuit gilles villeneuve         montreal , quebec     august 27
+11     12                   2006 gehl championship finale                       road america  elkhart lake , wisconsin  september 24

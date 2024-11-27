@@ -1,0 +1,25 @@
+    year                                        event                          award                   nominee     result
+0   1998                               academy awards             best sound editing         the fifth element  nominated
+1   1998             blockbuster entertainment awards        best actress - newcomer            milla jovovich  nominated
+2   1997  british academy of film and television arts    best special visual effects            mark a mangini        won
+3   1997                         cannes film festival          technical grand prize          thierry arbogast        won
+4   1998                                  césar award            best cinematography          thierry arbogast        won
+5   1998                                  césar award                  best director                luc besson        won
+6   1998                                  césar award         best production design                  dan weil        won
+7   1998                                  césar award            best costume design      jean - paul gaultier  nominated
+8   1998                                  césar award                   best editing             sylvie landra  nominated
+9   1998                                  césar award                      best film                luc besson  nominated
+10  1998                                  césar award  best music written for a film                eric serra  nominated
+11  1998                                  césar award                     best sound           daniel brisseau  nominated
+12  1997                         european film awards               film of the year            patrice ledoux  nominated
+13  1998                      golden raspberry awards       worst supporting actress            milla jovovich  nominated
+14  1998                      golden raspberry awards                 worst new star              chris tucker  nominated
+15  1998                           golden reel awards             best sound editing        sound editing team  nominated
+16  1998                                  hugo awards     best dramatic presentation         the fifth element  nominated
+17  1998                             mtv movie awards                     best fight  milla jovovich vs aliens  nominated
+18  1997                                 prix lumière                  best director                luc besson        won
+19  1998                              satellite award            best visual effects              mark stetson  nominated
+20  1998                                 saturn award      best science fiction film         the fifth element  nominated
+21  1998                                 saturn award                  best costumes      jean - paul gaultier  nominated
+22  1998                                 saturn award           best special effects      special effects team  nominated
+23  1998                                 saturn award        best supporting actress            milla jovovich  nominated

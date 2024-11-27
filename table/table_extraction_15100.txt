@@ -1,0 +1,19 @@
+   place             player        country  score to par
+0      1       rodger davis      australia     64    - 7
+1     t2          ken green  united states     67    - 4
+2     t2        lee trevino  united states     67    - 4
+3     t2           bob tway  united states     67    - 4
+4     t5       paul azinger  united states     68    - 3
+5     t5         nick faldo        england     68    - 3
+6     t5         larry mize  united states     68    - 3
+7     t5         nick price       zimbabwe     68    - 3
+8     t9          ken brown       scotland     69    - 2
+9     t9  mark calcavecchia  united states     69    - 2
+10    t9       david graham      australia     69    - 2
+11    t9           jay haas  united states     69    - 2
+12    t9    bernhard langer   west germany     69    - 2
+13    t9       graham marsh      australia     69    - 2
+14    t9      masashi ozaki          japan     69    - 2
+15    t9      craig stadler  united states     69    - 2
+16    t9      gerard taylor      australia     69    - 2
+17    t9         tom watson  united states     69    - 2

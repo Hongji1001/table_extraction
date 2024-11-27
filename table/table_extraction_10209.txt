@@ -1,0 +1,12 @@
+    round  pick             player        position school / club team
+0       1    22      ron hallstrom           guard               iowa
+1       3    71        del rodgers    running back               utah
+2       4    98       robert brown      linebacker      virginia tech
+3       5   126         mike meade    running back         penn state
+4       6   152  chet parlavecchio      linebacker         penn state
+5       7   183       joel whitley  defensive back               utep
+6       8   210        thomas boyd      linebacker            alabama
+7       9   237    charles riggins   defensive end  bethune - cookman
+8      10   264       eddie garcia     placekicker                smu
+9      11   294      john macauley          center           stanford
+10     12   321          phil epps   wide receiver                tcu

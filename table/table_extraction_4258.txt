@@ -1,0 +1,13 @@
+                sanctioning                     race name                          circuit           city / location          date
+0   joint cart / usac (crl)               datsun twin 200           ontario motor speedway      ontario , california      april 13
+1   joint cart / usac (crl)  indianapolis 500 - mile race      indianapolis motor speedway    indianapolis , indiana        may 26
+2   joint cart / usac (crl)    gould rex mays classic 150                   milwaukee mile    west allis , wisconsin        june 8
+3   joint cart / usac (crl)                true value 500                   pocono raceway  long pond , pennsylvania       june 22
+4   joint cart / usac (crl)             red roof inns 150     mid - ohio sports car course          lexington , ohio       july 13
+5                      cart                    norton 200  michigan international speedway       brooklyn , michigan       july 20
+6                      cart                  kent oil 150       watkins glen international   watkins glen , new york      august 3
+7                      cart         tony bettenhausen 200                   milwaukee mile    west allis , wisconsin     august 10
+8                      cart                california 500           ontario motor speedway      ontario , california     august 31
+9                      cart          gould grand prix 150  michigan international speedway       brooklyn , michigan  september 20
+10                     cart             i copa méxico 150     autódromo hermanos rodríguez      mexico city , mexico    october 26
+11                     cart          miller high life 150    phoenix international raceway        avondale , arizona    november 8

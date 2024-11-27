@@ -1,0 +1,15 @@
+                                protocol                                 creator                     license                      transport layer security bulletins to all contacts batch file sharing
+0                            gadu - gadu                              gg network                 proprietary                                           yes                        no                yes
+1                                    irc                        jarkko oikarinen               open standard  yes , depending on individual server support                        no                 no
+2              windows messenger service                               microsoft  proprietary (discontinued)                                            no                       yes                 no
+3   msnp ( windows live messenger , etc)                               microsoft                 proprietary                                            no                        no                yes
+4                             ( mumble )                         thorvald natvig               open standard                                           yes                        no                yes
+5                    oscar ( aim , icq )                                     aol                 proprietary                      yes (aim pro , aim lite)                        no                yes
+6         rvp ( windows messenger , etc)                               microsoft  proprietary (discontinued)                                            no                        no                 no
+7                           sip / simple                                    ietf               open standard                                           yes                       yes                yes
+8                          steam friends                       valve corporation                 proprietary                                   proprietary                       yes                 no
+9                                  skype                                   skype                 proprietary                                   proprietary                        no                yes
+10                                  toc2                                     aol  proprietary (discontinued)                                            no                        no            partial
+11         xmpp / jingle ( google talk )  jeremie miller , standardized via ietf               open standard                                           yes                       yes                yes
+12             ymsg ( yahoo! messenger )                                  yahoo!                 proprietary                                            no                       yes                yes
+13           zephyr notification service                                     mit               open standard                                            no                       yes                 no

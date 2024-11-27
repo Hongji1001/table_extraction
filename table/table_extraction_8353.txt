@@ -1,0 +1,10 @@
+                                    name   class           hometown  boarded                   position
+0                    andrews , mr thomas   first  belfast , ireland  belfast                shipbuilder
+1            campbell , mr william henry  second  belfast , ireland  belfast                     joiner
+2  chisholm , mr roderick robert crispin   first  belfast , ireland  belfast                draughtsman
+3         cunningham , mr alfred fleming  second  belfast , ireland  belfast                     fitter
+4          frost , mr anthony wood artie  second  belfast , ireland  belfast                     fitter
+5                   knight , mr robert j  second  belfast , ireland  belfast                     fitter
+6              parkes , mr francis frank  second  belfast , ireland  belfast                    plumber
+7          parr , mr william henry marsh   first  belfast , ireland  belfast                electrician
+8             watson , mr ennis hastings  second  belfast , ireland  belfast  electrician 's apprentice

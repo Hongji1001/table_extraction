@@ -1,0 +1,6 @@
+        operation     binary   binomial  fibonacci    pairing     brodal strict fibonacci heap
+0      find - min      θ (1)      θ (1)      θ (1)      θ (1)      θ (1)                 θ (1)
+1    delete - min  θ (log n)  θ (log n)  o (log n)  o (log n)  o (log n)             o (log n)
+2          insert  θ (log n)  o (log n)      θ (1)      θ (1)      θ (1)                 θ (1)
+3  decrease - key  θ (log n)  θ (log n)      θ (1)  o (log n)      θ (1)                 θ (1)
+4           merge      θ (n)  o (log n)      θ (1)      θ (1)      θ (1)                 θ (1)

@@ -1,0 +1,14 @@
+    game  january             opponent     score       record
+0     40        2     hartford whalers     5 - 4  21 - 14 - 5
+1     41        4  washington capitals  3 - 3 ot  21 - 14 - 6
+2     42        7   new york islanders     5 - 1  22 - 14 - 6
+3     43        9    new jersey devils     5 - 4  22 - 15 - 6
+4     44       14  pittsburgh penguins  4 - 4 ot  22 - 15 - 7
+5     45       15  pittsburgh penguins     6 - 4  23 - 15 - 7
+6     46       18   chicago blackhawks     6 - 4  24 - 15 - 7
+7     47       19       st louis blues     5 - 0  25 - 15 - 7
+8     48       21    vancouver canucks  5 - 4 ot  26 - 15 - 7
+9     49       23      edmonton oilers     3 - 2  27 - 15 - 7
+10    50       26       calgary flames     5 - 3  27 - 16 - 7
+11    51       28  toronto maple leafs  1 - 1 ot  27 - 16 - 8
+12    52       30   new york islanders     7 - 3  28 - 16 - 8

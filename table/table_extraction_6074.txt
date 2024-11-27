@@ -1,0 +1,21 @@
+    rank                                         name          nation  points  places
+0      1        natalia linichuk / gennadi karponosov    soviet union  207.86       9
+1      2            krisztina regőczy / andrás sallay         hungary  204.10      22
+2      3             irina moiseeva / andrei minenkov    soviet union  203.74      23
+3      4        liliana rehakova / stanislav drastich  czechoslovakia  196.94      36
+4      5              janet thompson / warren maxwell  united kingdom  194.00      51
+5      6                 lorna wighton / john dowding          canada  192.70      52
+6      7         susi handschmann / peter handschmann         austria  188.72      65
+7      8             jayne torvill / christopher dean  united kingdom  187.84      71
+8      9                  stacey smith / john summers   united states  185.70      81
+9     10          natalia bestemianova / andrei bukin    soviet union  184.06      87
+10    11                   carol fox / richard dalley   united states  180.30      98
+11    12        henriette fröschl / christian steiner    west germany  175.50     108
+12    13                  karen barber / nicky slater  united kingdom  169.74     121
+13    14                   anna pisanská / jiri musil  czechoslovakia  168.70     124
+14    15  patricia fletcher / michael de la penotiere          canada  165.24     134
+15    16               martine olivier / yves tarayre          france  161.44     145
+16    17                   jindra hola / karol foltan  czechoslovakia  157.64     157
+17    18              gabriella remport / sándor nagy         hungary  158.26     157
+18    19             yumiko kage / tadayuki takahashi           japan  153.30     175
+19    20                  claudia koch / peter schübl         austria  151.94     174

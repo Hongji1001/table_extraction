@@ -1,0 +1,18 @@
+                        player    position  league cup  scottish cup  uefa champions league  total
+0               scott mcdonald     forward           1             1                      1     19
+1             georgios samaras     forward           2             0                      0     17
+2            shunsuke nakamura  midfielder           1             0                      0      9
+3                  scott brown  midfielder           1             1                      0      7
+4                aiden mcgeady  midfielder           2             1                      1      7
+5   jan vennegoor of hesselink     forward           0             0                      0      6
+6                shaun maloney  midfielder           0             0                      1      5
+7             cillian sheridan     forward           0             0                      0      4
+8              stephen mcmanus    defender           0             0                      0      4
+9                glenn loovens    defender           1             0                      0      4
+10                paul hartley  midfielder           0             0                      0      3
+11               gary caldwell    defender           0             1                      0      3
+12                barry robson  midfielder           0             0                      1      2
+13                darren o'dea    defender           1             0                      0      2
+14                 koki mizuno    defender           0             0                      0      1
+15                 marc crosas    defender           0             0                      0      1
+16                  lee naylor    defender           0             0                      0      1

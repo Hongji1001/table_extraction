@@ -1,0 +1,9 @@
+               round  clubs remaining  clubs involved winners from previous round new entries this round
+0  preliminary round              129              34                        none                     34
+1        first round              112              96                          17                     79
+2       second round               64              64                          48                     16
+3        third round               32              32                          32                   none
+4       fourth round               16              16                          16                   none
+5     quarter finals                8               8                           8                   none
+6        semi finals                4               4                           4                   none
+7              final                2               2                           2                   none

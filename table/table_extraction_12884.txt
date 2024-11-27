@@ -1,0 +1,15 @@
+              club      location                 stadium  capacity            manager
+0          fc haka   valkeakoski          tehtaan kenttä      3516      olli huttunen
+1              hjk      helsinki         finnair stadium     10770     antti muurinen
+2         fc honka         espoo  tapiolan urheilupuisto      6000      mika lehkosuo
+3         fc inter         turku         veritas stadion     10000       job dragtsma
+4          ff jaro     jakobstad  jakobstads centralplan      5000   mika laurikainen
+5     fc kooteepee         kotka       arto tolsa areena      4780     tommi kautonen
+6             kups        kuopio           magnum areena      3500      kai nyyssönen
+7         fc lahti         lahti          lahden stadion     15000       ilkka mäkelä
+8    ifk mariehamn     mariehamn    wiklöf holding arena      1600       pekka lyyski
+9             mypa  anjalankoski               saviniemi      4067     janne lindberg
+10            rops     rovaniemi            keskuskenttä      4000  valeri bondarenko
+11  tampere united       tampere          ratina stadion     17000          ari hjelm
+12             tps         turku         veritas stadion     10000         john allen
+13             vps         vaasa      hietalahti stadium      4600    tomi kärkkäinen

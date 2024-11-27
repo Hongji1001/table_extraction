@@ -1,0 +1,10 @@
+   year                   team           chassis        engine  points
+0  1963       scuderia ferrari       ferrari 156    ferrari v6       1
+1  1964       scuderia ferrari       ferrari 156    ferrari v6       0
+2  1965       scuderia ferrari      ferrari 1512   ferrari v12       0
+3  1966       scuderia ferrari       ferrari 246    ferrari v6       9
+4  1966       scuderia ferrari  ferrari 312 / 66   ferrari v12       9
+5  1967       scuderia ferrari  ferrari 312 / 67   ferrari v12       1
+6  1967  anglo american racers        eagle t1 g   weslake v12       1
+7  1968     cooper car company        cooper t86  maserati v12       6
+8  1968     cooper car company       cooper t86b       brm v12       6

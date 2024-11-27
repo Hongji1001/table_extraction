@@ -1,0 +1,6 @@
+   inegi code        municipality municipal seat  population (2010)  area (km2)
+0           1            ensenada       ensenada             466814    52482.40
+1           2            mexicali       mexicali             956826    13700.00
+2           3              tecate         tecate             101079     3079.00
+3           4             tijuana        tijuana            1559683      879.20
+4           5  playas de rosarito       rosarito              90668      513.32

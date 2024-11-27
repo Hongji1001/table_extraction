@@ -1,0 +1,13 @@
+    week                 date             opponent     result  attendance
+0      1  september 30 , 1956  philadelphia eagles   w 27 - 7       54412
+1      2     october 7 , 1956  san francisco 49ers  l 33 - 30       54589
+2      3    october 14 , 1956        detroit lions  l 24 - 21       56281
+3      4    october 21 , 1956    green bay packers  l 42 - 17       24200
+4      5    october 28 , 1956        detroit lions   l 16 - 7       76758
+5      6    november 4 , 1956        chicago bears  l 35 - 24       69894
+6      7   november 11 , 1956  san francisco 49ers   w 30 - 6       69828
+7      8   november 18 , 1956        chicago bears  l 30 - 21       48102
+8      9   november 25 , 1956      baltimore colts  l 56 - 21       40321
+9     10    december 2 , 1956  pittsburgh steelers  l 30 - 13       20450
+10    11    december 9 , 1956      baltimore colts   w 31 - 7       51037
+11    12   december 16 , 1956    green bay packers  w 49 - 21       45209

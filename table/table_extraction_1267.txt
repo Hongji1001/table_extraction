@@ -1,0 +1,12 @@
+           locale                skip  w  l  pf  pa  ends won  ends lost  blank ends  stolen ends shot %
+0           china         wang bingyu  9  2  92  67        57         43           6           18    80%
+1          canada      jennifer jones  9  2  88  62        46         43          13            9    84%
+2     switzerland          mirjam ott  9  2  90  64        51         46           7           11    81%
+3           japan          moe meguro  7  4  75  66        49         45          17           13    77%
+4         denmark     angelina jensen  7  4  73  68        44         51          16            7    79%
+5          sweden    stina viktorsson  6  5  68  72        45         51          10            7    80%
+6   united states    debbie mccormick  6  5  71  74        51         52           6           13    78%
+7          russia  ludmila privivkova  4  7  67  74        45         48          11           12    78%
+8         germany       andrea schãpp  4  7  63  70        49         45          17           14    77%
+9        scotland          gail munro  3  8  59  77        43         48          17            8    77%
+10          italy       diana gaspari  2  9  60  77        45         47          14           10    74%

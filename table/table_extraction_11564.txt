@@ -1,0 +1,13 @@
+   city / state                   members                            team first round final round
+0         texas             dirk nowitzki                dallas mavericks        1:28        34.3
+1         texas              becky hammon        san antonio silver stars        1:28        34.3
+2         texas               kenny smith       houston rockets (retired)        1:28        34.3
+3   los angeles                 pau gasol              los angeles lakers        1:00        55.2
+4   los angeles  marie ferdinand - harris              los angeles sparks        1:00        55.2
+5   los angeles               brent barry  los angeles clippers (retired)        1:00        55.2
+6    sacramento              tyreke evans                sacramento kings        1:46           -
+7    sacramento             nicole powell             sacramento monarchs        1:46           -
+8    sacramento              chris webber      sacramento kings (retired)        1:46           -
+9       atlanta               joe johnson                   atlanta hawks        1:47           -
+10      atlanta          angel mccoughtry                   atlanta dream        1:47           -
+11      atlanta               steve smith         atlanta hawks (retired)        1:47           -

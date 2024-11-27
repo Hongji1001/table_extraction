@@ -1,0 +1,31 @@
+   kilometer no (rizal park - basis) kilometer no (layac - basis)                                               exit                    barangay  municipality
+0                                100                            1                layac junction / layac toll barrier                       layac   dinalupihan
+1                                100                            1                                         sctex exit                     palihan       hermosa
+2                                101                            2                 culis crossing exit / palihan exit             culis - palihan       hermosa
+3                                106                            7                         pag - asa exit / doña exit  doña - pag - asa - mulawin         orani
+4                     108 northbound                 9 northbound                                        imelda exit                      imelda         samal
+5                                109                           10                                          gugo exit                        gugo         samal
+6                                112                           13                              mabatang toll barrier                    mabatang        abucay
+7                     113 northbound                14 northbound                                      mabatang exit       mabatang - calaylayan        abucay
+8                                116                           17                                         gabon exit                laon - gabon        abucay
+9                                119                           20                          tuyo exit / fourlane exit                        tuyo  balanga city
+10                               120                           21                                      tenejero exit                    tenejero  balanga city
+11                               124                           25                                     ala - uli exit                   ala - uli         pilar
+12                               127                           28                    santo domingo exit / capot exit         general lim (capot)         orion
+13                               129                           30                         bilolo exit / sabatan exit            bilolo - sabatan         orion
+14                    131 northbound                32 northbound                                     daan pare exit                   daan pare         orion
+15                    133 southbound                34 southbound                              putting buhangin exit            putting buhangin         orion
+16                               135                           36                                    reformista exit                  reformista         limay
+17                               136                           37                        townsite exit / kitang exit                    townsite         limay
+18                    138 northbound                39 northbound                                       alangan exit          alangan - bo roxas         limay
+19                    141 southbound                42 southbound                               arsenal vicinal exit                       lamao         limay
+20                    142 northbound                43 northbound                                         lamao exit                       lamao         limay
+21                               144                           45                                         alion exit                 batangas ii     mariveles
+22                               149                           50       old cabcaben / cabcaben east / townsite exit         townsite - cabcaben     mariveles
+23                               152                           53  cabcaben west / new cabcaben / mountain view exit               mountain view     mariveles
+24                               156                           57         maap road / tarak ridge / alas - asin exit                 alas - asin     mariveles
+25                               158                           59                    fab gate exit / old zigzag road                 alas - asin     mariveles
+26                               159                           60                               sisiman toll barrier                     sisiman     mariveles
+27                               160                           61                                       sisiman exit                     sisiman     mariveles
+28                               162                           63                    fab exit / mindanao avenue exit                    fab area     mariveles
+29                               164                           65                                     poblacion exit                   poblacion     mariveles

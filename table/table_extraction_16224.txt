@@ -1,0 +1,26 @@
+                       title series         director    release date reissue
+0          three little bops     lt     friz freleng  1957 - 01 - 05      no
+1                  tweet zoo     mm     friz freleng  1957 - 01 - 12     yes
+2            scrambled aches     lt      chuck jones  1957 - 01 - 26      no
+3             ali baba bunny     mm      chuck jones  1957 - 02 - 09      no
+4               go fly a kit     lt      chuck jones  1957 - 02 - 23      no
+5   tweety and the beanstalk     mm     friz freleng  1957 - 03 - 16      no
+6           bedeviled rabbit     mm  robert mckimson  1957 - 04 - 13      no
+7               boyhood daze     mm      chuck jones  1957 - 04 - 20      no
+8       cheese it , the cat!     lt  robert mckimson  1957 - 05 - 04      no
+9                 fox terror     mm  robert mckimson  1957 - 05 - 11     yes
+10             piker 's peak     lt     friz freleng  1957 - 05 - 25      no
+11                steal wool     lt      chuck jones  1957 - 06 - 08      no
+12            boston quackie     lt  robert mckimson  1957 - 06 - 22      no
+13       what 's opera , doc     mm      chuck jones  1957 - 07 - 06      no
+14              tabasco road     lt  robert mckimson  1957 - 07 - 20     yes
+15           birds anonymous     mm     friz freleng  1957 - 08 - 10     yes
+16         ducking the devil     mm  robert mckimson  1957 - 08 - 17      no
+17           bugsy and mugsy     lt     friz freleng  1957 - 08 - 31      no
+18            zoom and bored     mm      chuck jones  1957 - 09 - 14      no
+19         greedy for tweety     lt     friz freleng  1957 - 09 - 28     yes
+20             touchã and go     mm      chuck jones  1957 - 10 - 12      no
+21             show biz bugs     lt     friz freleng   1957 - 11 - 2      no
+22    mouse - taken identity     mm  robert mckimson  1957 - 11 - 16      no
+23         gonzales' tamales     lt     friz freleng  1957 - 11 - 30      no
+24              rabbit romeo     mm  robert mckimson  1957 - 12 - 14      no

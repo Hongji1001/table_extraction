@@ -1,0 +1,25 @@
+                       ensemble  gold medals  silver medals  bronze medals  total medals
+0              amador valley hs            0              1              0             1
+1             ayala high school            4              2              1             7
+2              baldwinsville hs            2              0              0             2
+3                  claremont hs            1              1              0             2
+4              downers grove hs            0              0              1             1
+5                father ryan hs            0              1              0             1
+6                  fort mill hs            2              1              2             5
+7           franklin central hs            6              0              0             6
+8           gateway high school            2              1              1             4
+9                     goshen hs            0              2              1             3
+10  harrison central paragon hs            0              0              1             1
+11      james logan high school            1              1              0             2
+12              john overton hs            0              1              2             3
+13      king philip high school            0              1              0             1
+14                 mansfield hs            0              1              0             1
+15    mission viejo high school            0              1              0             1
+16             muscle shoals hs            1              1              2             4
+17          new philadelphia hs            0              1              0             1
+18                northglenn hs            0              0              1             1
+19                 rangeview hs            0              1              0             1
+20          roland hayes school            0              0              1             1
+21            tarpon springs hs            0              1              0             1
+22                  tunstall hs            0              3              4             7
+23          warsaw community hs            0              0              1             1

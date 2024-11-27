@@ -1,0 +1,9 @@
+  region  date                label format        catalog
+0     uk  1982        razor records     lp          raz 2
+1     us  1993    cleopatra records     cd  cleo 3315 - 2
+2     uk  1998  captain oi! records     cd    ahoy cd 088
+3     uk  2002  captain oi! records     cd    ahoy cd 195
+4     us  2002       taang! records     cd     taang! 139
+5     us  2004       taang! records     cd     taang! 171
+6     us  2006          sos records     cd      sosr 6048
+7     us  2008       taang! records     lp     taang! 171

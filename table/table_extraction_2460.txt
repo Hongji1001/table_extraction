@@ -1,0 +1,16 @@
+    rank                                metropolitan area   principal city  10000 + places densest incorporated place  density
+0      1                       new york metropolitan area    new york city              55                 guttenberg  56012.0
+1      2                         greater los angeles area      los angeles              27                    maywood  23887.2
+2      3                                  delaware valley     philadelphia               8                 millbourne  13749.1
+3      4                          miami metropolitan area            miami               7          north bay village  20267.1
+4      5                                   greater boston           boston               7                 somerville  18868.1
+5      6                                      chicagoland          chicago               7                 stone park  15378.2
+6      7                           san francisco bay area    san francisco               6              san francisco  17246.4
+7      8                     pittsburgh metropolitan area       pittsburgh               3          pennsbury village  12710.3
+8      9  louisville - jefferson county metropolitan area       louisville               1               poplar hills  17036.0
+9     10                     providence metropolitan area       providence               1              central falls  15652.0
+10    11                     washington metropolitan area  washington , dc               1              mount rainier  13038.5
+11    12                       dallasfort worth metroplex           dallas               1                mobile city  11911.3
+12    13        buffalo - niagara falls metropolitan area          buffalo               1                    kenmore  11437.2
+13    14                       portland metropolitan area         portland               1               johnson city  11061.5
+14    15                                    metro detroit          detroit               1                  hamtramck  10900.5

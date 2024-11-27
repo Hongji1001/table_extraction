@@ -1,0 +1,10 @@
+            player    position                         school          hometown                                          mlb draft
+0  matt harrington     pitcher           palmdale high school     palmdale , ca     1st round - 7th pick of 2000 draft ( rockies )
+1      scott heard     catcher    rancho bernardo high school    san diego , ca    1st round - 25th pick of 2000 draft ( rangers )
+2   rocco baldelli  outfielder  bishop hendricken high school      warwick , ri  1st round - 6th pick of 2000 draft ( devil rays )
+3   david espinosa   infielder      gulliver prep high school        miami , fl       1st round - 23rd pick of 2000 draft ( reds )
+4    mark phillips     pitcher            hanover high school      hanover , pa      1st round - 9th pick of 2000 draft ( padres )
+5       shaun boyd  outfielder              vista high school        vista , ca  1st round - 13th pick of 2000 draft ( cardinals )
+6    luis montanez   infielder         coral park high school        miami , fl        1st round - 3rd pick of 2000 draft ( cubs )
+7    david krynzel  outfielder       green valley high school    henderson , nv    1st round - 11th pick of 2000 draft ( brewers )
+8  adrian gonzalez   infielder           eastlake high school  chula vista , ca     1st round - 1st pick of 2000 draft ( marlins )

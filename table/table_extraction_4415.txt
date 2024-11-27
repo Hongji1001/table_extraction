@@ -1,0 +1,10 @@
+   round  overall             player          position school / club team
+0      1       22      hanford dixon    defensive back      southern miss
+1      4       92      mike robinson     defensive end            arizona
+2      5      134          steve cox            punter           arkansas
+3      6      160        ron simmons  defensive tackle      florida state
+4      7      187      eddie johnson        linebacker         louisville
+5      9      244  randy schleusener             guard           nebraska
+6     10      271        dean prater     defensive end     oklahoma state
+7     11      298       larry friday    defensive back  mississippi state
+8     12      325       kevin mcgill  offensive tackle             oregon

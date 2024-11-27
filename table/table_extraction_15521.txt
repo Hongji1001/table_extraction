@@ -1,0 +1,14 @@
+    pick           player                   team position                                       school
+0     31     chris george     kansas city royals        p                        klein hs (klein , tx)
+1     32      ben diggins     st louis cardinals        p  bradshaw mountain hs (prescott valley , az)
+2     33   brad wilkerson         montreal expos       of                        university of florida
+3     34     nate cornejo         detroit tigers        p              wellington hs (wellington , ks)
+4     35     aaron rowand      chicago white sox       of               cal state fullerton university
+5     36  raphael freeman       colorado rockies       of      dallas christian school (mesquite , tx)
+6     37     mike nannini         houston astros        p             green valley hs (henderson , nv)
+7     38      chris jones   san francisco giants        p        south mecklenburg hs (charlotte , nc)
+8     39     mamon tucker      baltimore orioles       of            stephen f austin hs (austin , tx)
+9     40  jeff winchester       colorado rockies        c         archbishop rummel hs (metairie , la)
+10    41       jeff urban   san francisco giants        p                        ball state university
+11    42      eric valent  philadelphia phillies       of                                         ucla
+12    43       mark prior       new york yankees        p               university hs (san diego , ca)

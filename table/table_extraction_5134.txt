@@ -1,0 +1,10 @@
+   pick                                      cfl team                player position          college
+0     9                         hamilton tiger - cats         jermaine reid       dl            akron
+1    10              toronto argonauts (via winnipeg)        leron mitchell       db  western ontario
+2    11           hamilton tiger - cats (via ottawa )       peter dyakowski       ol  louisiana state
+3    12                      saskatchewan roughriders            luca congi        k     simon fraser
+4    13                            calgary stampeders           jon cornish       rb           kansas
+5    14  toronto argonauts (via winnipeg via toronto)          aaron wagner       lb    brigham young
+6    15                                      bc lions  jon hameister - ries       ol            tulsa
+7    16                            montreal alouettes        etienne boulay       db    new hampshire
+8    17                              edmonton eskimos          jason nugent       db          rutgers

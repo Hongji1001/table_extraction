@@ -1,0 +1,38 @@
+    call sign frequency        city of license                                              licensee                                        format
+0        wadk   1540 am                newport                      astro tele - communications corp                                   news / talk
+1        wale    990 am             greenville                            cumbre communications corp                                        silent
+2        warv   1590 am                warwick                           blount communications , inc                                     religious
+3        wblq   1230 am               westerly  christopher diapola d / b / a diponti communications                               community radio
+4        wbru   95.5 fm             providence                      brown broadcasting service , inc                              alternative rock
+5        wcri   1180 am            hope valley                                    judson group , inc                                     classical
+6   wcri - fm   95.9 fm           block island                                    judson group , inc                                     classical
+7        wcvy   91.5 fm               coventry                  coventry rhode island public schools                                      eclectic
+8        wdom   91.3 fm             providence                                    providence college                                       variety
+9   wean - fm   99.7 fm  wakefield - peacedale                       radio license holding cbc , llc           news / talk (simulcasts wpro / 630)
+10       welh   88.1 fm             providence                                    the wheeler school                                  public radio
+11       whjj    920 am             providence                                        capstar tx llc                                   news / talk
+12       whjy   94.1 fm             providence                                        capstar tx llc                           album oriented rock
+13  wigv - lp   96.5 fm             providence                             casa de oracion getsemani                             spanish religious
+14       wjhd   90.7 fm             portsmouth                               portsmouth abbey school                                       variety
+15       wjmf   88.7 fm             smithfield                                     bryant university  classical (repeats wcrb / 99.5: lowell , ma)
+16       wkiv   88.1 fm               westerly                          educational media foundation                        contemporary christian
+17       wkkb  100.3 fm             middletown            davidson media station wkkb licensee , llc                              spanish tropical
+18       wlkw   1450 am           west warwick                             hall communications , inc                                        sports
+19       wmnp   99.3 fm           block island                      astro tele - communications corp                        contemporary hit radio
+20       wnri   1380 am             woonsocket                           bouchard broadcasting , inc                                   news / talk
+21       woon   1240 am             woonsocket                                     o - n radio , inc                                  full service
+22       wpmz   1110 am        east providence                     video mundo broadcasting co , llc                              spanish tropical
+23       wpro    630 am             providence                       radio license holding cbc , llc                                   news / talk
+24  wpro - fm   92.3 fm             providence                       radio license holding cbc , llc                        contemporary hit radio
+25       wprv    790 am             providence                       radio license holding cbc , llc                               talk / business
+26       wqri   88.3 fm                bristol                             roger williams university                                 aaa / variety
+27       wriu   90.3 fm               kingston                            university of rhode island                                       variety
+28  wrni - fm  102.7 fm      narragansett pier                             rhode island public radio                                  public radio
+29       wsjw    550 am              pawtucket                      starboard media foundation , inc                                     religious
+30       wstl   1220 am             providence                     new england christian media , inc                        contemporary christian
+31  wsub - lp   96.7 fm                ashaway             the buzz alternative radio foundation inc                              alternative rock
+32  wvei - fm  103.7 fm               westerly                     entercom providence license , llc                                        sports
+33       wwbb  101.5 fm             providence             clear channel broadcasting licenses , inc                                  classic hits
+34       wwkx  106.3 fm             woonsocket                       radio license holding cbc , llc               rhythmic contemporary hit radio
+35       wwli  105.1 fm             providence                       radio license holding cbc , llc                            adult contemporary
+36       wxev   91.1 fm               bradford                          horizon christian fellowship                                     religious

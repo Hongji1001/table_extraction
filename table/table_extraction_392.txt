@@ -1,0 +1,14 @@
+                            institution           location  founded                type  joined                     nickname                             colors
+0                     boston university        boston , ma     1839             private    1973                     terriers                    scarlet & white
+1             university of connecticut        storrs , ct     1881              public    1946                      huskies         national flag blue & white
+2                university of delaware        newark , de     1743  private and public    1986           fightin' blue hens                  royal blue & gold
+3             college of the holy cross     worcester , ma     1843             private    1971                    crusaders                     purple & white
+4              james madison university  harrisonburg , va     1908              public    1993                        dukes                      purple & gold
+5                   university of maine         orono , me     1865              public    1946                  black bears             dark blue & light blue
+6   university of massachusetts amherst       amherst , ma     1863              public    1946  aggies / redmen / minutemen                     maroon & white
+7           university of new hampshire        durham , nh     1866              public    1946                     wildcats                   unh blue & white
+8               northeastern university        boston , ma     1898             private    1993                      huskies                        black & red
+9            university of rhode island      kingston , ri     1892              public    1946                         rams  keaney blue , white , & navy blue
+10               university of richmond      richmond , va     1830             private    1986                      spiders                   ur blue & ur red
+11                university of vermont    burlington , vt     1791              public    1946                   catamounts                       green & gold
+12                 villanova university     villanova , pa     1842             private    1988                     wildcats                       blue & white

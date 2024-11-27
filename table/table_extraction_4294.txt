@@ -1,0 +1,24 @@
+                                        player    nationality          position         from            school / country
+0   radmanovic , vladimir vladimir radmanoviä‡         serbia           forward         2006  fr yugoslavia , now serbia
+1                                  kurt rambis  united states           forward  1981 , 1993                 santa clara
+2                                 theo ratliff  united states            center         2010                     wyoming
+3                                     hub reed  united states  forward / center         1963               oklahoma city
+4                                      jr reid  united states  forward / center         1999              north carolina
+5                                    glen rice  united states           forward         1999                    michigan
+6                               mitch richmond  united states             guard         2001                kansas state
+7                                 isaiah rider  united states             guard         2000                        unlv
+8                                    pat riley  united states             guard         1970                    kentucky
+9                                 david rivers  united states             guard         1988                  notre dame
+10                               rick roberson  united states  forward / center         1969                  cincinnati
+11                                fred roberts  united states           forward         1995                         byu
+12                                marv roberts  united states  forward / center         1976                  utah state
+13                              cliff robinson  united states           forward         1991                         usc
+14                              flynn robinson  united states             guard         1971                     wyoming
+15                             rumeal robinson        jamaica             guard         1996                    michigan
+16                                dave robisch  united states  forward / center         1977                      kansas
+17                                  john roche  united states             guard         1975              south carolina
+18                               dennis rodman  united states           forward         1999       southeastern oklahoma
+19                                  sean rooks  united states  forward / center         1996                     arizona
+20                                 kareem rush  united states             guard         2002                    missouri
+21                               bryon russell  united states   guard / forward         2003            long beach state
+22                              cazzie russell  united states   guard / forward         1974                    michigan

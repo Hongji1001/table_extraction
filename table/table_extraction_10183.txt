@@ -1,0 +1,38 @@
+                       team                    chassis                          engine      tires                 drivers                                sponsor
+0       target chip ganassi                reynard 97i                           honda  firestone            jimmy vasser                                 target
+1       target chip ganassi                reynard 97i                           honda  firestone            alex zanardi                                 target
+2       target chip ganassi                reynard 97i                           honda  firestone           arie luyendyk                                 target
+3      marlboro team penske        penske pc - 26 - 97  ilmor - mercedes - benz ic108d   goodyear           al unser , jr                               marlboro
+4      marlboro team penske        penske pc - 26 - 97  ilmor - mercedes - benz ic108d   goodyear              paul tracy                               marlboro
+5             walker racing                reynard 97i                           honda   goodyear           gil de ferran                    valvoline / cummins
+6      newman - haas racing                swift 007.i                         ford xb   goodyear        michael andretti                         texaco / kmart
+7      newman - haas racing                swift 007.i                         ford xd   goodyear    christian fittipaldi                      budweiser / kmart
+8      newman - haas racing                swift 007.i                         ford xd   goodyear          roberto moreno                      budweiser / kmart
+9                team rahal                reynard 97i                         ford xb   goodyear             bryan herta                                  shell
+10               team rahal                reynard 97i                         ford xd   goodyear             bobby rahal                            miller lite
+11             hogan racing                reynard 97i                 mercedes - benz  firestone    dario franchitti (r)                             no sponsor
+12             hogan racing                reynard 97i                 mercedes - benz  firestone            robby gordon                             no sponsor
+13      bettenhausen racing                reynard 97i                 mercedes - benz   goodyear  patrick carpentier (r)                                 alumax
+14      bettenhausen racing                reynard 97i                 mercedes - benz   goodyear          roberto moreno                                 alumax
+15                  pacwest                reynard 97i                 mercedes - benz  firestone       maurício gugelmin                              hollywood
+16                  pacwest                reynard 97i                 mercedes - benz  firestone           mark blundell                               motorola
+17    payton / coyne racing  lola t97 / 00 reynard 97i                         ford xd   goodyear    michel jourdain , jr                                 herdez
+18    payton / coyne racing              lola t97 / 00                         ford xd   goodyear          roberto moreno                           data control
+19    payton / coyne racing              lola t97 / 00                         ford xd   goodyear         paul jasper (r)                                   hype
+20    payton / coyne racing  lola t97 / 00 reynard 97i                         ford xd   goodyear        christian danner                                   hype
+21    payton / coyne racing  lola t97 / 00 reynard 97i                         ford xd   goodyear    charlie nearburg (r)                  nearburg explorations
+22    payton / coyne racing              lola t97 / 00                         ford xd   goodyear           dennis vitolo                    smith kline beecham
+23           patrick racing                reynard 97i                         ford xb  firestone            scott pruett                                 brahma
+24           patrick racing                reynard 97i                         ford xd  firestone             raul boesel                                 brahma
+25  della penna motorsports              lola t97 / 00                         ford xd   goodyear            richie hearn                   ralphs / food 4 less
+26   arciero - wells racing                reynard 97i                          toyota  firestone         hiro matsushita                     panasonic / duskin
+27   arciero - wells racing                reynard 97i                          toyota  firestone               max papis                                    mci
+28          team kool green                reynard 97i                           honda  firestone        parker johnstone                                   kool
+29       tasman motorsports              lola t97 / 00                           honda  firestone           andré ribeiro           lci international / marlboro
+30       tasman motorsports              lola t97 / 00                           honda  firestone        adrian fernández                  tecate / quaker state
+31      all american racing    reynard 96i reynard 97i                          toyota   goodyear   juan manuel fangio ii                                castrol
+32      all american racing    reynard 96i reynard 97i                          toyota   goodyear               p j jones                                castrol
+33             project indy              lola t97 / 00                         ford xd   goodyear           dennis vitolo  jag / marcelo group / hawaiian tropic
+34             project indy              lola t97 / 00                         ford xd   goodyear          arnd meier (r)  jag / marcelo group / hawaiian tropic
+35             davis racing                reynard 97i                         ford xd   goodyear      gualter salles (r)                               indusval
+36          forsythe racing    reynard 96i reynard 97i                 mercedes - benz  firestone              greg moore                     player 's / indeck

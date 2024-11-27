@@ -1,0 +1,10 @@
+   year                          award ceremony                                            category                            nominee     result
+0  2008                        la ovation award  best book / lyrics / music for an original musical  dolly parton and patricia resnick  nominated
+1  2008                        la ovation award                           lead actress in a musical                        megan hilty  nominated
+2  2008                        la ovation award                           lead actress in a musical                     allison janney  nominated
+3  2008                        la ovation award                  best scenic design - large theatre                         scott pask  nominated
+4  2008                        la ovation award                 best costume design - large theatre                  william ivey long  nominated
+5  2008                        la ovation award                best lighting design - large theatre  jules fisher and peggy eisenhauer  nominated
+6  2008                        la ovation award                   best sound design - large theatre                     john h shivers  nominated
+7  2008  los angeles drama critics circle award                                  best musical score                       dolly parton        won
+8  2008  los angeles drama critics circle award                                   best choreography                andy blankenbuehler        won

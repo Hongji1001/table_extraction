@@ -1,0 +1,14 @@
+   place                player        country  score to par
+0      1        bobby clampett  united states     67    - 5
+1     t2            nick price       zimbabwe     69    - 3
+2     t2            tom watson  united states     69    - 3
+3     t4             ken brown       scotland     70    - 2
+4     t4       bernhard langer   west germany     70    - 2
+5     t4             des smyth        ireland     70    - 2
+6     t7      seve ballesteros          spain     71    - 1
+7     t7  josé maria cañizares          spain     71    - 1
+8     t7         danny edwards  united states     71    - 1
+9     t7     masahiro kuramoto          japan     71    - 1
+10    t7         johnny miller  united states     71    - 1
+11    t7         arnold palmer  united states     71    - 1
+12    t7         craig stadler  united states     71    - 1

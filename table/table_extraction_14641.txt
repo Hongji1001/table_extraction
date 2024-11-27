@@ -1,0 +1,22 @@
+    draw    language                       artist                         song         english translation national final  place  points
+0      1     english             claudia faniello                   caravaggio                           -            2nd     13      53
+1      2      hebrew  bo'az ma'uda & oshrat papin                     parparim                 butterflies            3rd      8      90
+2      3     english               sergey lazarev                        flyer                           -            4th      7     119
+3      4     english                  rolf junior                   one on one                           -            4th     21       0
+4      5     english                     sandrine          i feel the same way                           -            2nd     10      64
+5      6  macedonian             risto samardziev                dojdi do mene                  come to me            3rd     19       7
+6      7     english                   man meadow               viva la musica           hail to the music            3rd      3     155
+7      8     finnish             mikael konttinen                      milloin                        when       unplaced     14      46
+8      9      german         carolin fortenbacher                hinterm ozean            beyond the ocean            2nd      6     129
+9     10     english                   kendra lou       until we 're satisfied                           -            4th     18      21
+10    11     english              kostas martakis           always and forever                           -            2nd      4     140
+11    12     serbian                beauty queens                        zavet                    a pledge            3rd      9      68
+12    13    croatian                emilija kokić                       andjeo                       angel            6th     15      31
+13    14     english              aiste pilvelyte                 troy on fire                           -            2nd     17      26
+14    15     english                   leona daly          not crazy after all                           -       unplaced     12      56
+15    16     english              the revelations                    it 's you                           -            3rd     16      29
+16    17  portuguese    lisboa não sejas francesa            porto de encontro             meeting harbour            9th     20       6
+17    18     english                sanna nielsen                   empty room                           -            2nd      1     269
+18    19     english            veronica akselsen  am i supposed to love again                           -            4th      5     139
+19    20     slovene                brigita šuler                       samara                           -            3rd     11      57
+20    21     spanish                        coral        todo está en tu mente  everything is in your mind            2nd      2     178

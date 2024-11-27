@@ -1,0 +1,11 @@
+  ranking nationality                 name        years  goals
+0       1       spain     jonathan soriano  2009 - 2012     29
+1       2       spain  thomas christiansen  1991 - 1996     28
+2       3       spain      gerard deulofeu  2011 - 2013     27
+3       4       spain     josep villarroya  1984 - 1987     24
+4       -       spain         óscar garcía  1991 - 1994     24
+5       -       spain               manolo  1983 - 1986     24
+6       7       spain     martín domínguez  1986 - 1988     22
+7       8       spain       lluís carreras  1991 - 1993     21
+8       9      brazil              rafinha  2011 - 2013     20
+9      10       spain        paco martinez  1974 - 1977     19

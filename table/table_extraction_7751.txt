@@ -1,0 +1,19 @@
+         name country         type        moving from transfer window  ends  transfer fee      source
+0      codina     esp     promoted       youth system          summer  2010  youth system  realmadrid
+1      torres     esp     promoted       youth system          summer  2012  youth system  realmadrid
+2        agus     esp     promoted       youth system          summer  2010  youth system  realmadrid
+3     granero     esp     promoted       youth system          summer  2011  youth system  realmadrid
+4   de la red     esp     promoted       youth system          summer  2011  youth system  realmadrid
+5      adrián     esp     promoted       youth system          summer  2011  youth system  realmadrid
+6     soldado     esp  loan return            osasuna          summer  2012         n / a  realmadrid
+7    baptista     bra  loan return            arsenal          summer  2010         n / a  realmadrid
+8      balboa     eqg  loan return    racingsantander          summer  2012         n / a  realmadrid
+9      robben     ned       signed            chelsea          summer  2012          36 m  realmadrid
+10       pepe     por       signed              porto          summer  2012          30 m  realmadrid
+11   sneijder     ned       signed               ajax          summer  2012          27 m  realmadrid
+12    drenthe     ned       signed          feyenoord          summer  2012          14 m  realmadrid
+13     heinze     arg       signed  manchester united          summer  2011          12 m  realmadrid
+14    saviola     arg       signed          barcelona          summer  2011          free  realmadrid
+15  metzelder     ger       signed  borussia dortmund          summer  2010          free  realmadrid
+16      dudek     pol       signed          liverpool          summer  2009          free  realmadrid
+17     adrián     esp  loan return      celta de vigo          winter  2011         n / a  realmadrid

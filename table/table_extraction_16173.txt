@@ -1,0 +1,44 @@
+                  actor                              character         soap opera                                    years  duration
+0        lesley saweard                      christine barford        the archers                                    1953-  61 years
+1       norman painting                            phil archer        the archers                              1950 - 2009  59 years
+2       patricia greene                            jill archer        the archers                                    1957-  57 years
+3          june spencer                          peggy woolley        the archers                      1951 - 1953 , 1962-  54 years
+4          angela piper                      jennifer aldridge        the archers                                    1963-  51 years
+5         arnold peters  len thomas david latimer jack woolley        the archers  1953 - 1966 , 1968 - 1973 , 1980 - 2011  49 years
+6         alan devereux                              sid perks        the archers                              1963 - 2010  47 years
+7            bob arnold                            tom forrest        the archers                              1951 - 1998  47 years
+8           colin skipp                            tony archer        the archers                                    1967-  47 years
+9              jack may                         nelson gabriel        the archers                              1951 - 1997  46 years
+10         judy bennett                   shula hebden - lloyd        the archers                                    1971-  43 years
+11         terry molloy                            mike tucker        the archers                                    1973-  41 years
+12        brian hewlett                            neil carter        the archers                                    1973-  41 years
+13   patricia gallimore                             pat archer        the archers                                    1974-  40 years
+14      pauline seville                            mrs perkins        the archers                              1951 - 1990  39 years
+15  charles collingwood                         brian aldridge        the archers                                    1975-  39 years
+16          george hart                          jethro larkin        the archers                              1951 - 1987  36 years
+17        chris gittins                         walter gabriel        the archers                              1953 - 1988  35 years
+18      trevor harrison                           eddie grundy        the archers                                    1979-  35 years
+19          sara coward                      caroline sterling        the archers                                    1979-  35 years
+20     timothy bentinck                           david archer        the archers                                    1982-  32 years
+21       graham roberts                         george barford        the archers                              1973 - 2004  31 years
+22       alison dowling                    elizabeth pargetter        the archers                                    1983-  31 years
+23        hedli niklaus                            kathy perks        the archers                                    1983-  31 years
+24     charlotte martin                           susan carter        the archers                                    1983-  31 years
+25    elizabeth marlowe                          lilian archer        the archers                              1961 - 1991  30 years
+26        gwen berryman                           doris archer        the archers                              1951 - 1980  29 years
+27        edward kelsey                             joe grundy        the archers                                    1985-  29 years
+28          carole boyd                            lynda snell        the archers                                    1986-  28 years
+29       graham blockey                           robert snell        the archers                                    1986-  28 years
+30     j anthony smythe                          henry barbour  one man 's family                              1932 - 1959  27 years
+31       virginia payne                             ma perkins         ma perkins                              1933 - 1960  27 years
+32       felicity finch                            ruth archer        the archers                                    1987-  27 years
+33        gwenda wilson                      aunt laura wilson        the archers                              1951 - 1977  26 years
+34       bernice berwin                          hazel barbour  one man 's family                              1932 - 1958  26 years
+35        mollie harris                        martha woodford        the archers                              1970 - 1995  25 years
+36     charles egelston                         shuffle shober         ma perkins                              1933 - 1958  25 years
+37       rosalind adams                         clarrie grundy        the archers                              1988 - 2012  24 years
+38          leslie dunn                           paul johnson        the archers                              1954 - 1978  24 years
+39        minetta ellen                          fanny barbour  one man 's family                              1932 - 1955  23 years
+40          graham seed                        nigel pargetter        the archers                1983 - 1986 , 1992 - 2011  22 years
+41        denis folwell                            jack archer        the archers                              1951 - 1972  21 years
+42          margot boyd                      marjorie antrobus        the archers                              1984 - 2004  20 years

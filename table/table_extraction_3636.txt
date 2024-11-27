@@ -1,0 +1,24 @@
+   catalogue number                                            artist                           release title format  release date
+0             dw001                                   the clear spots                           mountain rock     cd          2006
+1             dw002                                   the clear spots                      mansion in the sky     cd          2005
+2             dw003                                        adam bugaj                           wave of tears     cd          2005
+3             dw004                                          ajilvsga                         blood nocturnes     cd          2006
+4             dw005                                   the clear spots                     electricity for all     cd          2005
+5             dw006                                      heavy winged                       echoes of silence     cd          2006
+6             dw007                   niagara falls / the clear spots  plays spiral isles / smokehouse debris     cd          2006
+7             dw008                            alligator crystal moth               bones of the great divide     cd          2007
+8             dw009                                     evening fires                           evening fires     cd          2006
+9             dw010                                      flying sutra                   levitate and dissolve     cd          2007
+10            dw011                                      anvil salute       this is the voice of doom calling     cd          2007
+11            dw013                                        indoorpark                        the neutral mile     cd          2008
+12            dw014                              united bible studies                   airs of sun and stone     cd          2008
+13            dw015                              agitated radio pilot                        the rural arcane     cd          2008
+14            dw016                        the qoast / century plants                                   split     cd          2008
+15            dw017                                     evening fires                     blue mountain water     cd          2008
+16            dw018                               ashtray navigations                       sugar head record     cd          2009
+17            dw019                                         the goner                                      hh     cd          2009
+18            dw020                                     evening fires                      new worlds for old     cd          2009
+19            dw021                                      flying sutra               glowering and glowing red     cd          2009
+20            dw022  enfer borãal / thebricoleur / tuscarora borealis                       spiritual machine     cd          2009
+21            dw023                                     evening fires                        waves in the air     cd          2009
+22            dw024                                         the goner                   behold a new traveler     cd          2010

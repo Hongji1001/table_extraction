@@ -1,0 +1,33 @@
+                 player      position date of birth (age)  caps    club / province
+0            gary botha        hooker     12 october 1981     9         harlequins
+1   bismarck du plessis        hooker         22 may 1984     2             sharks
+2       john smit ( c )        hooker        3 april 1978    67  clermont auvergne
+3              bj botha          prop      4 january 1980    10             sharks
+4     jannie du plessis          prop    16 november 1982     2           cheetahs
+5           os du randt          prop    8 september 1972    72           cheetahs
+6     gurthro steenkamp          prop        12 june 1981    11              bulls
+7      cj van der linde          prop      27 august 1980    39           cheetahs
+8         bakkies botha          lock   22 september 1979    35              bulls
+9       victor matfield          lock         11 may 1977    58             toulon
+10        johann muller          lock      6 january 1980    16             sharks
+11  albert van den berg          lock     26 january 1974    46             sharks
+12        schalk burger       flanker       13 april 1983    31           stormers
+13           juan smith       flanker        30 july 1981    32           cheetahs
+14    wikus van heerden       flanker    28 february 1979     7              bulls
+15        danie rossouw      number 8          6 may 1978    24              bulls
+16       bobby skinstad      number 8         3 july 1976    38             sharks
+17      fourie du preez  scrum - half       24 march 1982    30              bulls
+18       ricky januarie  scrum - half     1 february 1982    18           stormers
+19         ruan pienaar  scrum - half       10 march 1984    12             sharks
+20          butch james    fly - half      8 january 1979    18               bath
+21      andrã pretorius    fly - half    29 december 1978    24              lions
+22     jean de villiers        centre    24 february 1981    31           stormers
+23         jaque fourie        centre        4 march 1983    29              lions
+24         wayne julies        centre     23 october 1978    10              bulls
+25       wynand olivier        centre        11 june 1983    17              bulls
+26       francois steyn        centre         14 may 1987     8             sharks
+27         bryan habana          wing        12 june 1983    27              bulls
+28       akona ndungane          wing    20 february 1981     8              bulls
+29         jp pietersen          wing        12 july 1986     6             sharks
+30      ashwin willemse          wing    8 september 1981    16           biarritz
+31     percy montgomery      fullback       15 march 1974    85             sharks

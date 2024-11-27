@@ -1,0 +1,11 @@
+   year                                competition           date                 location  score result
+0  1997      europe / africa zone group i - pool b       22 april             bari ( ita )  2 - 1    won
+1  1997      europe / africa zone group i - pool b       23 april             bari ( ita )  3 - 0    won
+2  1997      europe / africa zone group i - pool b       24 april             bari ( ita )  3 - 0    won
+3  1997  europe / africa zone group i - semifinals       25 april             bari ( ita )  3 - 0    won
+4  1997       europe / africa zone group i - final       26 april             bari ( ita )  2 - 1    won
+5  1997                 world group ii play - offs   12 - 13 july          jakarta ( ina )  5 - 0    won
+6  1998                             world group ii  18 - 19 april          foligno ( ita )  3 - 2    won
+7  1998                    world group play - offs   25 - 26 july           prague ( cze )  4 - 1    won
+8  1999                  world group , first round  17 - 18 april  reggio calabria ( ita )  3 - 2    won
+9  1999                   world group , semifinals   24 - 25 july           ancona ( ita )  1 - 4   lose

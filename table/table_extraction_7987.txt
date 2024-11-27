@@ -1,0 +1,24 @@
+                          name                                   species authority      order          family  red list
+0              american beaver                       castor canadensis kuhl , 1820  ia rodent      castoridae         7
+1   southeastern pocket gopher                    geomys pinetis rafinesque , 1817   rodentia       geomyidae         7
+2                     capybara         hydrochaeris hydrochaeris (linnaeus , 1766)   rodentia  hydrochaeridae         7
+3               oldfield mouse               peromyscus polionotus (wagner , 1843)   rodentia         muridae         7
+4                 cotton mouse             peromyscus gossypinus (le conte , 1850)   rodentia         muridae         7
+5        eastern harvest mouse  reithrodontomys humilis (audubon & bachman , 1941)   rodentia         muridae         7
+6              florida woodrat                      neotoma floridana (ord , 1818)   rodentia         muridae         7
+7                florida mouse                 podomys floridanus (chapman , 1889)   rodentia         muridae         5
+8                  meadow vole                microtus pennsylvanicus (ord , 1815)   rodentia         muridae         7
+9                 golden mouse                ochrotomys nuttalli (harlan , 183) 2   rodentia         muridae         7
+10           hispid cotton rat                  sigmodon hispidus say & ord , 1825   rodentia         muridae         7
+11                 house mouse                        mus musculus linnaeus , 1758   rodentia         muridae         7
+12              marsh rice rat                  oryzomys palustris (harlan , 1837)   rodentia         muridae         7
+13                   brown rat               rattus norvegicus (berkenhout , 1769)   rodentia         muridae         7
+14               woodland vole                microtus pinetorum (le conte , 1830)   rodentia         muridae         7
+15                   black rat                     rattus rattus (linnaeus , 1758)   rodentia         muridae         7
+16      round - tailed muskrat                         neofiber alleni true , 1884   rodentia         muridae         6
+17                       coypu                    myocastor coypus (molina , 1782)   rodentia   myocastoridae         7
+18            eastern chipmunk                   tamias striatus (linnaeus , 1758)   rodentia       sciuridae         7
+19       eastern gray squirrel                  sciurus carolinensis gmelin , 1788   rodentia       sciuridae         7
+20                fox squirrel                       sciurus niger linnaeus , 1758   rodentia       sciuridae         7
+21       mexican gray squirrel                 sciurus aureogaster f cuvier , 1829   rodentia       sciuridae         7
+22    southern flying squirrel                  glaucomys volans (linnaeus , 1758)   rodentia       sciuridae         7

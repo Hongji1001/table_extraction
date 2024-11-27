@@ -1,0 +1,18 @@
+                         branding callsign frequency power (kw)            location
+0                  sonshine radio     dzar   1026khz      50 kw        metro manila
+1            sonshine radio laoag     dwar    819khz       5 kw               laoag
+2          sonshine radio dagupan     dzrd    981khz       5 kw             dagupan
+3       sonshine radio tuguegarao     dzyt    765khz       5 kw          tuguegarao
+4           sonshine radio ilagan     dzyi    711khz       5 kw    ilagan , isabela
+5         sonshine radio santiago     dwsi    864khz       5 kw  santiago , isabela
+6       sonshine radio cabanatuan     dway   1332khz       5 kw          cabanatuan
+7        sonshine radio san pablo     dzsp    864khz       5 kw           san pablo
+8             sonshine radio cebu     dyar    765khz       5 kw                cebu
+9        sonshine radio zamboanga     dxyz    963khz       5 kw           zamboanga
+10           sonshine radio davao     dxrd    711khz      10 kw               davao
+11                  kingdom radio     dxaq   1404khz      15 kw       davao central
+12  sonshine radio cagayan de oro     dxcl   1098khz       5 kw      cagayan de oro
+13  sonshine radio general santos     dxre    837khz       5 kw      general santos
+14        sonshine radio cotabato     dxro    945khz       5 kw            cotabato
+15          sonshine radio butuan     dxrb    873khz       5 kw              butuan
+16          sonshine radio bislig     dxbl    801khz       1 kw              bislig

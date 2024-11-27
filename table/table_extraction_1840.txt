@@ -1,0 +1,29 @@
+                 country  total drivers  champions  championships  current march 20 , 2010                                    first driver (s)           last / current driver (s) march 20 , 2010
+0                bahrain              1          0              0                        0                       hamad al fardan ( 2008 - 09 )                       hamad al fardan ( 2008 - 09 )
+1                belgium              1          0              0                        0                          jérôme d'ambrosio ( 2008 )                     jérôme d'ambrosio ( 2008 - 09 )
+2               bulgaria              2          0              0                        0  vladimir arabadzhiev , plamen kralev ( 2009 - 10 )  vladimir arabadzhiev , plamen kralev ( 2009 - 10 )
+3                  china              1          0              0                        0                              ho - pin tung ( 2008 )                              ho - pin tung ( 2008 )
+4         czech republic              1          0              0                        1                            josef král ( 2009 - 10 )                                          josef král
+5                denmark              1          0              0                        0                         christian bakkerud ( 2008 )                         christian bakkerud ( 2008 )
+6                finland              1          0              0                        0                             mika mäki ( 2008 - 09 )                             mika mäki ( 2008 - 09 )
+7                germany              2          0              0                        0                       nico hülkenberg ( 2008 - 09 )                    christian vietoris ( 2009 - 10 )
+8                  india              2          0              0                        2            karun chandhok , armaan ebrahim ( 2008 )                        karun chandhok ( 2008 - 09 )
+9                 latvia              1          0              0                        0                       harald schlegelmilch ( 2008 )                       harald schlegelmilch ( 2008 )
+10              malaysia              2          0              0                        1                               fairuz fauzy ( 2008 )                                        fairuz fauzy
+11                mexico              2          0              0                        1                          sergio pérez ( 2008 - 09 )                                   esteban gutiérrez
+12                monaco              1          0              0                        1                            stefano coletti ( 2011 )                                     stefano coletti
+13           netherlands              3          0              0                        1                             yelmer buurman ( 2008 )                                 giedo van der garde
+14           new zealand              2          0              0                        0     earl bamber , chris van der drift ( 2008 - 09 )     earl bamber , chris van der drift ( 2008 - 09 )
+15                norway              1          0              0                        1                                pål varhaug ( 2011 )                                         pål varhaug
+16              pakistan              1          0              0                        0                                  adam khan ( 2008 )                                  adam khan ( 2008 )
+17              portugal              2          0              0                        0     álvaro parente , ricardo teixeira ( 2008 - 09 )                        álvaro parente ( 2009 - 10 )
+18               romania              1          0              0                        1                              michael herck ( 2008 )                                       michael herck
+19                russia              2          0              0                        1                              vitaly petrov ( 2008 )                                     mikhail aleshin
+20                serbia              1          0              0                        0                             miloš pavlović ( 2008 )                             miloš pavlović ( 2008 )
+21          south africa              1          0              0                        0                          adrian zaugg ( 2009 - 10 )                          adrian zaugg ( 2009 - 10 )
+22                sweden              1          0              0                        1                       marcus ericsson ( 2009 - 10 )                                     marcus ericsson
+23           switzerland              2          0              0                        1                            sébastien buemi ( 2008 )                                        fabio leimer
+24                taiwan              1          0              0                        0                   kevin nai chia chen ( 2008 - 09 )                   kevin nai chia chen ( 2008 - 09 )
+25                turkey              1          0              0                        0                              jason tahinci ( 2008 )                              jason tahinci ( 2008 )
+26  united arab emirates              1          0              0                        0                         andreas zuber ( 2008 - 09 )                         andreas zuber ( 2008 - 09 )
+27         united states              2          0              0                        0                       alexander rossi ( 2009 - 10 )     jake rosenzweig , alexander rossi ( 2009 - 10 )

@@ -1,0 +1,26 @@
+               name     region programming             type encryption
+0            tv edo  d1 skopje    regional  private channel      clear
+1            tv era  d1 skopje    regional  private channel      clear
+2            tv btr  d1 skopje    regional  private channel      clear
+3         tv shutel  d1 skopje    regional  private channel      clear
+4            tv mtm  d1 skopje    regional  private channel      clear
+5         tv skopje  d1 skopje    regional  private channel      clear
+6     tv tikveshija  d1 skopje    regional  private channel      clear
+7     ktv kavadarci   d1 veles    regional  private channel      clear
+8           sitel 2         d2    regional  private channel      clear
+9   tv zlaten kanal         d2    regional  private channel      clear
+10          tv star         d3    regional  private channel      clear
+11            tv d1         d3    regional  private channel      clear
+12          tv iris         d3    regional  private channel      clear
+13           tv vis         d4    regional  private channel      clear
+14         tv kobra         d4    regional  private channel      clear
+15           tv vtv         d4    regional  private channel      clear
+16          tv boem         d5    regional  private channel      clear
+17    tv vizhn - bm         d5    regional  private channel      clear
+18        tv uskana         d5    regional  private channel      clear
+19           tv ntv         d6    regional  private channel      clear
+20       tv kanal 3         d7    regional  private channel      clear
+21          tv koha         d8    regional  private channel      clear
+22        tv menada         d8    regional  private channel      clear
+23          tv kiss         d8    regional  private channel      clear
+24      tv chegrani         d8    regional  private channel      clear

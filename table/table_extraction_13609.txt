@@ -1,0 +1,12 @@
+    year australian open          french open       wimbledon                us open
+0   2003    andre agassi  juan carlos ferrero   roger federer           andy roddick
+1   2004   roger federer        gastón gaudio   roger federer          roger federer
+2   2005     marat safin         rafael nadal   roger federer          roger federer
+3   2006   roger federer         rafael nadal   roger federer          roger federer
+4   2007   roger federer         rafael nadal   roger federer          roger federer
+5   2008  novak djokovic         rafael nadal    rafael nadal          roger federer
+6   2009    rafael nadal        roger federer   roger federer  juan martín del potro
+7   2010   roger federer         rafael nadal    rafael nadal           rafael nadal
+8   2011  novak djokovic         rafael nadal  novak djokovic         novak djokovic
+9   2012  novak djokovic         rafael nadal   roger federer            andy murray
+10  2013  novak djokovic         rafael nadal     andy murray           rafael nadal

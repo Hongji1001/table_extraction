@@ -1,0 +1,18 @@
+           year designated grand prix                track                250 cc           350 cc                500 cc    report
+0          1948     ulster grand prix                clady          maurice cann    freddie frith     enrico lorenzetti    report
+1          1947      swiss grand prix           bremgarten       bruno francisci  fergus anderson         omobono tenni    report
+2   1946 - 1938              not held             not held              not held         not held              not held  not held
+3          1937      swiss grand prix           bremgarten         omobono tenni   jimmie guthrie        jimmie guthrie    report
+4          1936     german grand prix          sachsenring  henry tyrell - smith    freddie frith        jimmie guthrie    report
+5          1935     ulster grand prix                clady           arthur geiß      wal handley        jimmie guthrie    report
+6          1934              dutch tt                assen      walfried winkler   jimmie simpson          pol demeuter    report
+7          1933    swedish grand prix              saxtorp        charlie dodson   jimmie simpson          gunnar kalén    report
+8          1932    nations grand prix             littorio        riccardo brusi    louis jeannin         piero taruffi    report
+9          1931     french grand prix            montlhéry         graham walker       ernie nott            percy hunt    report
+10         1930    belgian grand prix  spa - francorchamps          syd crabtree       ernie nott  henry tyrell - smith    report
+11         1929    spanish grand prix           granollers         frank longman    leo davenport            percy hunt    report
+12         1928      swiss grand prix               meyrin           cecil ashby      wal handley           wal handley    report
+13         1927     german grand prix          nürburgring           cecil ashby   jimmie simpson         graham walker    report
+14         1926    belgian grand prix  spa - francorchamps           jock porter    frank longman        jimmie simpson    report
+15         1925    nations grand prix                monza           jock porter   tazio nuvolari         mario revelli    report
+16         1924    nations grand prix                monza     maurice van geert   jimmie simpson        guido mentasti    report

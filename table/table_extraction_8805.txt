@@ -1,0 +1,11 @@
+           goalkeeper  goals  matches  average                    team
+0        david cobeño     35       40     0.88          rayo vallecano
+1       claudio bravo     28       32     0.88           real sociedad
+2               chema     41       41     1.00                xerez cd
+3      carlos sánchez     34       34     1.00            cd castellón
+4   alberto cifuentes     34       33     1.03            ud salamanca
+5      juan calatayud     42       40     1.05             hércules cf
+6     eduardo navarro     39       36     1.08               sd huesca
+7  wilfredo caballero     40       36     1.11                elche cf
+8         rubén pérez     38       33     1.15  gimnàstic de tarragona
+9  roberto santamaría     45       39     1.15           ud las palmas

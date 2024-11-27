@@ -1,0 +1,7 @@
+   round                                pick              player position school / club team
+0      1                                   6     brendon labatte       ol             regina
+1      2                                  15    aaron hargreaves       wr       simon fraser
+2      3  24 (via edmonton via saskatchewan)    daryl stephenson       rb            windsor
+3      4                                  31       marc bestwick       db      saint mary 's
+4      5                                  39     don oramasionwu       dl           manitoba
+5      6                                  47  pierre - luc labbã       lb         sherbrooke

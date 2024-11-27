@@ -1,0 +1,11 @@
+              couple           score  style                                           music                  result
+0    marlee & fabian  21 (7 , 7 , 7)   jive                   you may be right - billy joel                    safe
+1       steve & anna  21 (7 , 7 , 7)  tango        jalousie-alfred hause 's tango orchestra              eliminated
+2  cristián & cheryl  25 (8 , 8 , 9)   jive                       don't stop me now - queen                    safe
+3     mario & karina  21 (7 , 6 , 8)  tango   el tango de roxanne- moulin rouge! soundtrack  last to be called safe
+4    shannon & derek  24 (8 , 8 , 8)   jive                      goody two shoes - adam ant                    safe
+5    adam & julianne  21 (7 , 7 , 7)  tango  i can't tell a waltz from a tango - alma cogan                    safe
+6     marissa & tony  19 (6 , 7 , 6)   jive                      girlfriend - avril lavigne                    safe
+7  priscilla & louis  26 (8 , 9 , 9)  tango                       el choclo - lalo schifrin                    safe
+8      jason & edyta  23 (8 , 7 , 8)   jive                     i got a woman - ray charles                    safe
+9      kristi & mark  27 (9 , 9 , 9)  tango                               rio - duran duran                    safe

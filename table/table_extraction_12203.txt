@@ -1,0 +1,11 @@
+                    event  year                      category                                  work    outcome
+0                   avmas  2005               supernova award                                     -    nominee
+1             aria awards  2005  breakthrough artist - single                            these kids    nominee
+2             aria awards  2005            best urban release  joel turner and the modern day poets    nominee
+3             aria awards  2005      best independent release  joel turner and the modern day poets    nominee
+4  aria no 1 chart awards  2005                             -                            these kids     winner
+5             apra awards  2006     most performed urban work                            these kids  nominated
+6             apra awards  2006     most performed urban work                             funk u up  nominated
+7             apra awards  2008        urban work of the year                        all night long  nominated
+8             apra awards  2008        urban work of the year                        city of dreams  nominated
+9             apra awards  2009        urban work of the year                        city of dreams  nominated

@@ -1,0 +1,7 @@
+            school         location    mascot  enrollment ihsaa class      county primary conference
+0  eastern hancock  charlottesville    royals         348           a  30 hancock      mid - hoosier
+1     indian creek        trafalgar    braves         598         aaa  41 johnson      mid - hoosier
+2      knightstown      knightstown  panthers         397           a    32 henry      mid - hoosier
+3            milan            milan   indians         417          aa   69 ripley  ohio river valley
+4    north decatur       greensburg  chargers         397          aa  16 decatur      mid - hoosier
+5    south decatur       greensburg   cougars         316           a  16 decatur      mid - hoosier

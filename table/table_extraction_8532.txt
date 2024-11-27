@@ -1,0 +1,8 @@
+   value khmer word form     ungegn  ala - lc      other
+0      6     ៦  ប្រាំមួយ  prăm muŏy  prṃ muay  pram muoy
+1      7     ៧  ប្រាំពីរ   prăm pir   prṃ bīr   pram pii
+2      8     ៨   ប្រាំបី   prăm bey    prṃ pī   pram bei
+3      9     ៩  ប្រាំបួន  prăm buŏn  prṃ puan  pram buon
+4     10    ១០       ដប់        dáb       ṭáp        dap
+5     11    ១១    ដប់មួយ   dáb muŏy  ṭáp muay   dap muoy
+6     20    ២០      ម្ភៃ      mphey     mbhai       mpei

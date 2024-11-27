@@ -1,0 +1,15 @@
+                               venue                     location  capacity                       owner                 environment  year built
+0            bank of america stadium             uptown charlotte     73778           carolina panthers    open air , natural grass        1996
+1            time warner cable arena             uptown charlotte     20200           city of charlotte                indoor arena        2005
+2   american legion memorial stadium        elizabeth , charlotte     16000     mecklenburg parks & rec    open air , natural grass        1936
+3                bojangles' coliseum   coliseum drive , charlotte      9605           city of charlotte                indoor arena        1955
+4           jerry richardson stadium  university city , charlotte     15314               unc charlotte  open air , artificial turf        2012
+5           charlotte motor speedway                 concord , nc  140000 +        speedway motorsports          open air , asphalt        1960
+6                dale f halton arena  university city , charlotte      9105               unc charlotte                indoor arena        1996
+7                  john m belk arena                davidson , nc      5223            davidson college                indoor arena        1989
+8                 transamerica field  university city , charlotte      4000               unc charlotte    open air , natural grass        1996
+9                 richardson stadium                davidson , nc      6000            davidson college  open air , artificial turf        1923
+10                irwin belk complex      biddleville , charlotte      4500  johnson c smith university    open air , natural grass        2003
+11                 winthrop coliseum               rock hill , sc      6100         winthrop university                indoor arena        1982
+12                   knights stadium               fort mill , sc     10002            york county , sc    open air , natural grass        1990
+13                  concord speedway                 midland , nc      8000            concord speedway          open air , asphalt        1956

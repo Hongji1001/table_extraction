@@ -1,0 +1,10 @@
+   round  pick  overall              name          position         college
+0      1    26       26       randy burke     wide receiver        kentucky
+1      2    25       53     mike ozdowski     defensive end        virginia
+2      6    24      163     calvin o'neal        linebacker        michigan
+3      7    26      193  blanchard carter  offensive tackle            unlv
+4      8    25      220         ken helms  offensive tackle         georgia
+5      9    24      247    glenn capriola      running back  boston college
+6     10    26      277         ron baker             guard  oklahoma state
+7     11    25      304        brian ruff        linebacker     the citadel
+8     12    24      331      bill deutsch      running back    north dakota

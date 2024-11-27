@@ -1,0 +1,28 @@
+    pick              nfl team            player          position             college
+0     29       baltimore colts    vernon maxwell        linebacker       arizona state
+1     30        houston oilers      harvey salem            tackle          california
+2     31        denver broncos       mark cooper            tackle          miami (fl)
+3     32      los angeles rams      henry ellard     wide receiver        fresno state
+4     33         chicago bears   mike richardson    defensive back       arizona state
+5     34    kansas city chiefs         dave lutz             guard        georgia tech
+6     35   philadelphia eagles       wes hopkins            safety  southern methodist
+7     36      los angeles rams      mike wilcher        linebacker      north carolina
+8     37       new york giants  leonard marshall     defensive end     louisiana state
+9     38    new orleans saints       steve korte            center            arkansas
+10    39         buffalo bills     darryl talley        linebacker       west virginia
+11    40         detroit lions     rich strenger            tackle            michigan
+12    41      cleveland browns         ron brown        cornerback       arizona state
+13    42        houston oilers      keith bostic    defensive back            michigan
+14    43       atlanta falcons       james britt    defensive back     louisiana state
+15    44    st louis cardinals       cedric mack        cornerback              baylor
+16    45  tampa bay buccaneers      randy grimes            center              baylor
+17    46   philadelphia eagles       jody schulz        linebacker       east carolina
+18    47  new england patriots    darryal wilson     wide receiver           tennessee
+19    48     green bay packers    dave drechsler             guard      north carolina
+20    49   san francisco 49ers       roger craig      running back            nebraska
+21    50        dallas cowboys       mike walter        linebacker              oregon
+22    51         new york jets     johnny hector      running back           texas a&m
+23    52   pittsburgh steelers      wayne capers     wide receiver              kansas
+24    53    cincinnati bengals        ray horton            safety          washington
+25    54   los angeles raiders       bill pickel  defensive tackle             rutgers
+26    55        miami dolphins      mike charles  defensive tackle            syracuse

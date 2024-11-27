@@ -1,0 +1,11 @@
+               name       career  apps  goals  average
+0  bernd hölzenbein  1967 - 1981   512    201     0.39
+1      bernd nickel  1967 - 1983   522    175     0.34
+2  jürgen grabowski  1965 - 1980   526    137     0.26
+3      alfred pfaff  1949 - 1961   324    111     0.34
+4       erwin stein  1959 - 1966   174    108     0.62
+5       tony yeboah  1990 - 1995   156     90     0.58
+6     richard kress  1953 - 1964   326     82     0.25
+7     willi huberts  1963 - 1970   246     80     0.33
+8    lothar schämer  1960 - 1973   338     73     0.22
+9     wolfgang solz  1959 - 1968   208     72     0.35

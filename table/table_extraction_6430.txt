@@ -1,0 +1,29 @@
+              player                   nationality          position              years for jazz     school / club team
+0         gus bailey                 united states   guard - forward                   1977 - 78                   utep
+1       thurl bailey                 united states     power forward     1983 - 92 , 1999 - 2000               nc state
+2        jim barnett                 united states   guard - forward                   1974 - 75                 oregon
+3        ron behagen                 united states  forward - center                   1975 - 77              minnesota
+4          raja bell  united states virgin islands   guard / forward  2003 - 05 , 2010 - present  florida international
+5       walt bellamy                 united states            center                   1974 - 75                indiana
+6        mel bennett                 united states           forward                   1980 - 81             pittsburgh
+7       david benoit                 united states           forward       1991 - 96 , 2000 - 01                alabama
+8        kent benson                 united states            center                   1986 - 87                indiana
+9        henry bibby                 united states       point guard                   1975 - 76                   ucla
+10        john block                 united states  forward - center                   1974 - 75         south carolina
+11       walter bond                 united states             guard                   1993 - 95              minnesota
+12         ron boone                 united states             guard                   1979 - 81            idaho state
+13     carlos boozer                 united states     power forward                      200410                   duke
+14  curtis borchardt                 united states           forward                   2003 - 05               stanford
+15       tom boswell                 united states  forward - center       1979 - 80 , 1983 - 84         south carolina
+16         fred boyd                 united states             guard                   1975 - 78           oregon state
+17        kenny boyd                 united states           forward                   1974 - 75                 boston
+18     ronnie brewer                 united states             guard                 2006 - 2010               arkansas
+19     allan bristow                 united states           forward                   1979 - 81          virginia tech
+20         dee brown                 united states             guard                 2006 - 2007               illinois
+21       devin brown                 united states   guard - forward                   2005 - 06                   utsa
+22        john brown                 united states           forward                   1979 - 80               missouri
+23        mike brown                 united states  forward - center                   1988 - 93      george washington
+24     raymond brown                 united states           forward                   1989 - 90                  idaho
+25        tony brown                 united states           forward                   1990 - 91               arkansas
+26        alec burks                 united states    shooting guard              2011 - present               colorado
+27      marty byrnes                 united states           forward                   1979 - 80               syracuse

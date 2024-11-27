@@ -1,0 +1,13 @@
+    year                        competition                     venue position        event
+0   2007  world cross country championships           mombasa , kenya     23rd  junior race
+1   2007          world youth championships  ostrava , czech republic      1st       3000 m
+2   2008         world junior championships        bydgoszcz , poland      1st       3000 m
+3   2008           commonwealth youth games              pune , india      1st       3000 m
+4   2009  world cross country championships            amman , jordan      2nd  junior race
+5   2009  world cross country championships            amman , jordan      2nd  junior team
+6   2009       african junior championships       bambous , mauritius      1st       3000 m
+7   2009       african junior championships       bambous , mauritius      2nd       5000 m
+8   2010  world cross country championships        bydgoszcz , poland      1st  junior race
+9   2010  world cross country championships        bydgoszcz , poland      1st  junior team
+10  2010         world junior championships          moncton , canada      1st       3000 m
+11  2010         world junior championships          moncton , canada      2nd       5000 m

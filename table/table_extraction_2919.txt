@@ -1,0 +1,15 @@
+                  name   - position  height  weight       year                 former school            hometown
+0       chris brickley  11    guard   6 - 4     175     senior       northeastern university     manchester , nh
+1       rakeem buckles   4  forward   6 - 8     200   freshman                          pace          miami , fl
+2        reginald delk  12    guard   6 - 4     175     senior  mississippi state university        jackson , tn
+3         george goode  22    guard   6 - 8     205  sophomore                 raytown south        raytown , mo
+4    terrence jennings  23  forward  6 - 10     225  sophomore               notre dame prep     sacramento , ca
+5      preston knowles   2    guard   6 - 1     170     junior           george rogers clark     winchester , ky
+6           kyle kuric  14    guard   6 - 4     175  sophomore                reitz memorial     evansville , in
+7           mike marra  33    guard   6 - 4     190   freshman          northfield mt hermon         esmond , ri
+8      samardo samuels  15  forward   6 - 8     240  sophomore                   st benedict  trelawny , jamaica
+9          peyton siva   3    guard  5 - 10     165   freshman                      franklin        seattle , wa
+10         jerry smith  34    guard   6 - 1     200     senior                          east      wauwatosa , wi
+11          edgar sosa  10    guard   6 - 1     200     senior                          rice          bronx , ny
+12     jared swopshire  21  forward   6 - 7     215  sophomore                   img academy       st louis , mo
+13  stephan van treese  44  forward   6 - 8     220   freshman                lawrence north   indianapolis , in

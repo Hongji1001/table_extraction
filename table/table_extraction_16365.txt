@@ -1,0 +1,11 @@
+                           place   code  area (km 2 )  population most spoken language
+0                      boipatong  70401          1.62       16867                sotho
+1                      bophelong  70402          5.97       37782                sotho
+2                         evaton  70404         35.20      143157                sotho
+3                    orange farm  70405          3.79       16720                 zulu
+4                       sebokeng  70406         32.80      222045                sotho
+5                    sharpeville  70407          5.04       41032                sotho
+6                       tshepiso  70408          5.26       22952                sotho
+7                 vanderbijlpark  70409        207.69       80205            afrikaans
+8                    vereeniging  70410        191.33       73283            afrikaans
+9  remainder of the municipality  70403        498.77        4378                sotho

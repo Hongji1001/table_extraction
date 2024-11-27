@@ -1,0 +1,7 @@
+                                                     name                                 investigation    route of administration in - vitro / in - vivo imaging / non - imaging
+0  in111 - dtpa ( diethylenetriaminepenta - acetic acid )  ventriculo - peritoneal shunt (laveen shunt)  intraperitoneal injection              in - vivo                 imaging
+1  in111 - dtpa ( diethylenetriaminepenta - acetic acid )                                cisternography          intra - cisternal              in - vivo                 imaging
+2                                     in111 - s leukocyte              infection / inflammation imaging                         iv              in - vivo                 imaging
+3                                      in111 - s platelet                              thrombus imaging                         iv              in - vivo                 imaging
+4                                   in111 - pentetreotide                 somatostatin receptor imaging                         iv              in - vivo                 imaging
+5                                      in111 - octreotide  somatostatin receptor imaging ( octreoscan )                         iv              in - vivo                 imaging

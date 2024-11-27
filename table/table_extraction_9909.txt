@@ -1,0 +1,11 @@
+                 team recopa 1994 supercopa 1994    conmebol 1994 copa libertadores 1995
+0       independiente   champions      champions            n / a                round 2
+1        boca juniors       n / a      runner up  did not qualify        did not qualify
+2     vélez sársfield   runner up          n / a            n / a                     qf
+3         river plate       n / a             qf            n / a                     sf
+4         san lorenzo       n / a          n / a               qf        did not qualify
+5         estudiantes       n / a             qf  did not qualify        did not qualify
+6             huracán       n / a          n / a        1st round        did not qualify
+7               lanús       n / a          n / a        1st round        did not qualify
+8  argentinos juniors       n / a      1st round  did not qualify        did not qualify
+9         racing club       n / a      1st round  did not qualify        did not qualify

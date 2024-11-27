@@ -1,0 +1,6 @@
+   year          home team           away team   winner    score
+0  2009   billings outlaws      rivercity rage  outlaws  71 - 62
+1  2010   billings outlaws   sioux falls storm  outlaws  43 - 34
+2  2011  sioux falls storm  tri - cities fever    storm  37 - 10
+3  2012  sioux falls storm  tri - cities fever    storm  59 - 32
+4  2013  sioux falls storm     nebraska danger    storm  43 - 40

@@ -1,0 +1,6 @@
+          player  games played  field goals  three pointers  free throws  rebounds  assists  blocks  steals  points
+0   kendall gill            29          211              23          136       143       96      16      63     581
+1  andy kaufmann            29           91              22           81        93       54       5      27     285
+2    steve bardo            29           99              28           55       178      137      14      37     281
+3   rodney jones            29           88               0           40       126        9      18      17     216
+4    ervin small            29           75               1           49       151       12       5      23     200

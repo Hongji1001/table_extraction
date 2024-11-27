@@ -1,0 +1,8 @@
+                     buffalo                          rochester                           syracuse                              utica                             albany
+0          oatka creek shale                  oatka creek shale            cardiff dark gray shale                    pecksport shale                     (mt marion fm)
+1          oatka creek shale                  oatka creek shale            cardiff dark gray shale      solsville shale and sandstone      solsville shale and sandstone
+2          oatka creek shale                  oatka creek shale            cardiff dark gray shale                  bridgewater shale                             otsego
+3          oatka creek shale                  oatka creek shale            chittenango black shale            chittenango black shale                              berne
+4    cherry valley limestone            cherry valley limestone            cherry valley limestone            cherry valley limestone     stony hollow shale & limestone
+5  (seneca mb) (onondaga fm)  union springs shale and limestone  union springs shale and limestone  union springs shale and limestone     stony hollow shale & limestone
+6  (seneca mb) (onondaga fm)                      (onondaga fm)                      (onondaga fm)  union springs shale and limestone  union springs shale and limestone

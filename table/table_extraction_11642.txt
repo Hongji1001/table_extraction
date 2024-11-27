@@ -1,0 +1,8 @@
+   year             award              category                   nominated work       result
+0  2008       mojo awards   breakthrough artist                       themselves          won
+1  2008     mercury prize         mercury prize    the age of the understatement  shortlisted
+2  2008          q awards          best new act                       themselves          won
+3  2009  2009 brit awards  british breakthrough                       themselves    nominated
+4  2009        nme awards     best british band                       themselves    nominated
+5  2009        nme awards            best track  'the age of the understatement'    nominated
+6  2009        nme awards            best video  'my mistakes were made for you'          won

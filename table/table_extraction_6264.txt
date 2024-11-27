@@ -1,0 +1,19 @@
+   release format         country              label       cat no  release date
+0           vinyl  west germany 1             ariola    25 900 ot          1978
+1           vinyl  west germany 1             ariola       340737          1978
+2        cassette    west germany             ariola     68 721 0          1978
+3           vinyl    east germany             ariola      200 202          1978
+4           vinyl           italy            polydor     2480 465          1978
+5        cassette           italy            polydor     3194 465          1978
+6           vinyl        france 1           eurodisc       913211          1978
+7        cassette          france           eurodisc       914211          1978
+8           vinyl           spain             ariola     25 900 i          1978
+9           vinyl  united kingdom             ariola    arlh 5006          1978
+10          vinyl           japan  columbia / ariola  yx - 7219 k          1978
+11          vinyl      yugoslavia                rtb         5926          1978
+12          vinyl   united states          chrysalis     chr 1184          1978
+13          vinyl       argentina                rca         4658          1978
+14          vinyl          canada               epic    pec 90496          1979
+15          vinyl       australia                rca    vpl 14076          1979
+16          vinyl    south africa             ariola     ard 2501          1979
+17             cd         germany       bmg - ariola      262 819          1992

@@ -1,0 +1,46 @@
+     n degree            television service country           language              content   dar hdtv ppv            package / option
+0   300 - 315             sky cinema active   italy            italian  locandine e trailer  16:9   no  no                  sky cinema
+1         301                  sky cinema 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+2         301               sky cinema 1 hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+3         302                sky cinema + 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+4         302             sky cinema + 1 hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+5         303               sky cinema + 24   italy  italian originale               cinema  16:9   no  no                  sky cinema
+6         303            sky cinema + 24 hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+7         304               sky cinema hits   italy  italian originale               cinema  16:9   no  no                  sky cinema
+8         304            sky cinema hits hd   italy  italian originale               cinema  16:9   no  no         sky cinema + sky hd
+9         306             sky cinema family   italy  italian originale               cinema  16:9   no  no                  sky cinema
+10        306          sky cinema family hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+11        308            sky cinema passion   italy  italian originale               cinema  16:9   no  no                  sky cinema
+12        308         sky cinema passion hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+13        310             sky cinema comedy   italy  italian originale               cinema  16:9   no  no                  sky cinema
+14        310          sky cinema comedy hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+15        312                sky cinema max   italy  italian originale               cinema  16:9   no  no                  sky cinema
+16        312             sky cinema max hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+17        313            sky cinema max + 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+18        313         sky cinema max + 1 hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+19        314               sky cinema cult   italy  italian originale               cinema  16:9   no  no                  sky cinema
+20        314            sky cinema cult hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+21        315           sky cinema classics   italy  italian originale               cinema  16:9   no  no                  sky cinema
+22        315        sky cinema classics hd   italy  italian originale               cinema  16:9  yes  no         sky cinema + sky hd
+23        321                        sky 3d   italy  italian originale             tematico  16:9  yes  no  tutti i pacchetti + sky hd
+24        331  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+25        331                  sky cinema 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+26        332  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+27        332                sky cinema + 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+28        333  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+29        333               sky cinema + 24   italy  italian originale               cinema  16:9   no  no                  sky cinema
+30        334  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+31        334               sky cinema hits   italy  italian originale               cinema  16:9   no  no                  sky cinema
+32        336  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+33        336             sky cinema family   italy  italian originale               cinema  16:9   no  no                  sky cinema
+34        338  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+35        338            sky cinema passion   italy  italian originale               cinema  16:9   no  no                  sky cinema
+36        340  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+37        340             sky cinema comedy   italy  italian originale               cinema  16:9   no  no                  sky cinema
+38        342  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+39        342                sky cinema max   italy  italian originale               cinema  16:9   no  no                  sky cinema
+40        343  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+41        343            sky cinema max + 1   italy  italian originale               cinema  16:9   no  no                  sky cinema
+42        344  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd
+43        344               sky cinema cult   italy  italian originale               cinema  16:9   no  no                  sky cinema
+44        345  cartello promozionale sky hd   italy            italian         promozionale   4:3   no  no     qualsiasi tranne sky hd

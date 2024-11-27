@@ -1,0 +1,22 @@
+                 player  no    nationality          position years in orlando     school / club team
+0   tariq abdul - wahad   9         france           forward      1999 - 2000         san josé state
+1         arron afflalo   4  united states             guard   2012 - present                   ucla
+2            mark acres  42  united states            center      1989 - 1992           oral roberts
+3        cory alexander   2  united states             guard      2000 - 2001               virginia
+4           malik allen  35  united states           forward      2010 - 2011              villanova
+5          rafer alston   1  united states             guard             2009           fresno state
+6          john amaechi  13        england  forward - center      1999 - 2001             penn state
+7         nick anderson  25  united states             guard      1989 - 1999               illinois
+8         ryan anderson  33  united states  forward - center      2009 - 2012             california
+9        michael ansley  45  united states           forward      1989 - 1991                alabama
+10     robert archibald  21       scotland  forward - center             2003               illinois
+11       gilbert arenas   1  united states             guard      2010 - 2011                arizona
+12         trevor ariza   1  united states           forward      2006 - 2007                   ucla
+13        b j armstrong   2  united states             guard      1998 - 1999                   iowa
+14    darrell armstrong  10  united states             guard      1994 - 2003     fayetteville state
+15        carlos arroyo  30    puerto rico             guard      2006 - 2008  florida international
+16        chucky atkins  31  united states             guard      1999 - 2000          south florida
+17        stacey augmon   2  united states           forward      2004 - 2006                   unlv
+18      james augustine  40  united states           forward      2006 - 2008               illinois
+19         isaac austin   8  united states            center      1998 - 1999          arizona state
+20        anthony avent   0  united states           forward      1993 - 1995             seton hall

@@ -1,0 +1,20 @@
+                  date                                 label         format country      catalog
+0       june 21 , 1965                              columbia             lp      us      cl 2372
+1       june 21 , 1965                              columbia             lp      us      cs 9172
+2     august 20 , 1965                                   cbs             lp      uk    bpg 62571
+3     august 20 , 1965                                   cbs             lp      uk   sbpg 62571
+4                 1970                              columbia             lp      us     465566 1
+5                 1974                               embassy             lp      uk    emb 31057
+6                 1974                         cbs / embassy             lp      uk      s 31503
+7                 1975                                   cbs             lp      uk      s 33645
+8                 1987                              columbia             cd      us      ck 9172
+9                 1989                                   cbs             cd  europe     465566 2
+10                1993                              columbia             cd      uk   col 468015
+11     april 30 , 1996                     columbia / legacy             cd      us     ck 64845
+12        may 6 , 1996                     columbia / legacy             cd      uk   col 483705
+13                1999                          simply vinyl             lp      uk    svlp 0032
+14                2003                                  sony             cd   japan    mhcp - 66
+15                2004                            sony / bmg             cd      uk   4837055003
+16   february 7 , 2006  columbia / mobile fidelity sound lab  sacd (hybrid)      us  udsacd 2014
+17  february 21 , 2006                              sundazed             lp      us      lp 5197
+18  february 10 , 2009                       sony / columbia             cd      us       743323

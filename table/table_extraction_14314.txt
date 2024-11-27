@@ -1,0 +1,11 @@
+                  team  played  draw  lost  goals scored  goals conceded  points
+0  atlético veragüense      16     6     1            29              15      33
+1        san francisco      16     4     3            34              21      31
+2                tauro      16     5     3            35              22      29
+3              alianza      16     4     6            25              26      22
+4          árabe unido      16     7     5            18              20      19
+5    atlético chiriquí      16     5     7            20              25      17
+6         el chorrillo      16     5     7            19              24      17
+7         sporting '89      16     6     7            17              26      15
+8         plaza amador      16     4    10            17              35      10
+9          colón river       0     0     0             0               0       0

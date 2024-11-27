@@ -1,0 +1,13 @@
+    year                 office           candidate  popular votes percentage
+0   1986    mn attorney general     derrick grimmer          16394      1.17%
+1   1990            mn governor  ross s culverhouse          17176      0.96%
+2   1990           mn treasurer   colleen bonniwell          84919      4.94%
+3   1994            mn governor      will shetterly          20785      1.20%
+4   1994  mn secretary of state    dale d wilkinson          54009      3.12%
+5   1994    mn attorney general     dean w amundson          69776      4.17%
+6   1994             mn auditor   steven c anderson          80811      4.79%
+7   1994           mn treasurer   colleen bonniwell          84486      5.20%
+8   1996          mn senator 62   steven c anderson           2032      6.63%
+9   1998            mn governor        chris wright           1727      0.10%
+10  1998  mn representative 59a    dale d wilkinson           1270      9.66%
+11  2010            mn governor        chris wright           7513       0.4%

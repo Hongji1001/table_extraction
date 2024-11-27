@@ -1,0 +1,16 @@
+    rank                                   name    city height  floors
+0      1                          kingdom tower  jeddah      -     186
+1      2                          diamond tower  jeddah      -      93
+2      3  capital market authority headquarters  riyadh      -      77
+3      4                          lamar tower 1  jeddah      -      87
+4      5                             burj rafal  riyadh      -      68
+5      6                kafd world trade centre  riyadh      -      67
+6      7                          lamar tower 2  jeddah      -      84
+7      8                        kempinski hotel  jeddah      -      69
+8      9                       the headquarters  jeddah      -      52
+9     10                             aqua tower  jeddah      -      59
+10    11                  gcc bank headquarters  riyadh      -      53
+11    12              abraj al bait maqam tower   mecca      -      57
+12    13              abraj al bait qibla tower   mecca      -      57
+13    14                       al majdoul tower  riyadh      -      54
+14    15     west tower at the hq business park  riyadh      -      54

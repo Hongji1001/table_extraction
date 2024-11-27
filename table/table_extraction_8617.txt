@@ -1,0 +1,7 @@
+     station city of license     channel  erp kw haat m ( ft )  facility id
+0  w07dn - d    wardensville   7 ( vhf )    0.30             -       167352
+1  w08ee - d     martinsburg   8 ( vhf )    0.30             -       167357
+2  w09ct - d         mathias   9 ( vhf )    0.24             -       167353
+3  w23dr - d          romney  23 ( uhf )   15.00             -       167358
+4  w30co - d        wheeling  30 ( uhf )    4.50             -       167354
+5  w41dk - d          keyser  41 ( uhf )    7.00             -       167356

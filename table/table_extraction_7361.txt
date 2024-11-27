@@ -1,0 +1,10 @@
+      race title                         circuit               city / state         date          winner                    team
+0         amaroo                     amaroo park   sydney , new south wales  21 - 23 feb     mark skaife    winfield team nissan
+1        sandown   sandown international raceway       melbourne , victoria    6 - 8 mar       john bowe     dick johnson racing
+2     launceston          symmons plains raceway      launceston , tasmania  13 - 15 mar     glenn seton      glenn seton racing
+3         winton            winton motor raceway         benalla , victoria    3 - 5 apr     mark skaife    winfield team nissan
+4       lakeside  lakeside international raceway      brisbane , queensland    1 - 3 may  tony longhurst  benson & hedges racing
+5  eastern creek           eastern creek raceway   sydney , new south wales    3 - 5 jun       john bowe     dick johnson racing
+6        mallala         mallala motorsport park  mallala , south australia  29 - 31 may     mark skaife    winfield team nissan
+7       wanneroo              barbagallo raceway  perth , western australia    5 - 7 jun       john bowe     dick johnson racing
+8      oran park               oran park raceway   sydney , new south wales  19 - 21 jun     mark skaife    winfield team nissan

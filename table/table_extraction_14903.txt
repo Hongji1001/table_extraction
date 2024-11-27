@@ -1,0 +1,21 @@
+      date                                   opponent      score result  record
+0   oct 31                         minneapolis lakers    94 - 97   loss   0 - 1
+1    nov 6                             boston celtics   84 - 107   loss   0 - 2
+2    nov 7                            milwaukee hawks    97 - 80    win   1 - 2
+3   nov 11                         fort wayne pistons    88 - 86    win   2 - 2
+4   nov 13                            milwaukee hawks    72 - 85   loss   2 - 3
+5   nov 14                         minneapolis lakers    92 - 99   loss   2 - 4
+6   nov 16   philadelphia warriors (at new york , ny)    86 - 85    win   3 - 4
+7   nov 18                         fort wayne pistons    91 - 82    win   4 - 4
+8   nov 20                           rochester royals    80 - 79    win   5 - 4
+9   nov 21                             boston celtics  110 - 104    win   6 - 4
+10  nov 25                            milwaukee hawks    91 - 85    win   7 - 4
+11  nov 27                            new york knicks    80 - 74    win   8 - 4
+12  nov 28                            new york knicks    79 - 77    win   9 - 4
+13   dec 1          new york knicks (at philadelphia)    86 - 88   loss   9 - 5
+14   dec 2                           rochester royals    82 - 78    win  10 - 5
+15   dec 4                      philadelphia warriors    73 - 79   loss  10 - 6
+16   dec 5                      philadelphia warriors    89 - 72    win  11 - 6
+17   dec 7  philadelphia warriors (at new haven , ct)    88 - 81    win  12 - 6
+18   dec 8                           rochester royals   78 - 105   loss  12 - 7
+19   dec 9                             boston celtics  120 - 107    win  13 - 7

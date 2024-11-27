@@ -1,0 +1,13 @@
+                     name height weight    spike                     2013 club
+0   senna ušić - jogunica      m      -  cm (in)              eczacıbaşı vitra
+1               ana grbac      m      -  cm (in)                    unattached
+2              mira topić      m      -  cm (in)                 schweriner sc
+3          bernarda ćutuk      m      -  cm (in)                    žok rijeka
+4              mia jerkov      m      -  cm (in)  bursa bb women 's volleyball
+5             ivana miloš      m      -  cm (in)                lokomotiv baku
+6       sanja popović (c)      m      -  cm (in)             wvc dynamo moscow
+7          samanta fabris      m      -  cm (in)     chieri torino volley club
+8          bernarda brčić      m      -  cm (in)                    žok rijeka
+9     martina malević (l)      m      -  cm (in)                  haok mladost
+10         jelena alajbeg      m      -  cm (in)                 voléro zürich
+11            maja poljak      m      -  cm (in)              eczacıbaşı vitra

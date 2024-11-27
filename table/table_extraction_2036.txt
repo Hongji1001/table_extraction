@@ -1,0 +1,17 @@
+      number  previous br no  taken into deptal stock  withdrawn                            disposal
+0         17           61059                     1963       1966                     scrapped (1966)
+1         18           61181                     1963       1965                     scrapped (1966)
+2         19           61204                     1963       1966                     scrapped (1966)
+3         20           61205                     1963       1965                     scrapped (1966)
+4         21           61233                     1963       1966                     scrapped (1966)
+5         22           61252                     1963       1964                     scrapped (1966)
+6         23           61300                     1963       1965                     scrapped (1966)
+7   24 (1st)           61323                     1963       1963                     scrapped (1964)
+8   24 (2nd)           61375                     1963       1966                     scrapped (1966)
+9         25           61272                     1965       1966                     scrapped (1966)
+10        26           61138                     1965       1967                     scrapped (1968)
+11        27           61105                     1965       1966                     scrapped (1966)
+12        28           61194                     1965       1966                     scrapped (1966)
+13        29           61264                     1965       1967  woodham brothers , later preserved
+14        30           61050                     1966       1968                     scrapped (1968)
+15  31 (2nd)           61051                     1966       1966                     scrapped (1966)

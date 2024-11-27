@@ -1,0 +1,8 @@
+   round  pick  overall            name        position        college
+0      1     1        1  peyton manning     quarterback      tennessee
+1      2     2       32   jerome pathon   wide receiver     washington
+2      3    10       71       e g green   wide receiver  florida state
+3      4     1       93  steve mckinney           guard      texas a&m
+4      5    12      135   antony jordan      linebacker     vanderbilt
+5      7     1      190    aaron taylor           guard       nebraska
+6      7    42      231    corey gaines  defensive back      tennessee

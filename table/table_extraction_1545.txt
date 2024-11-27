@@ -1,0 +1,21 @@
+    secr no  sr no  br no        builder  date delivered  date withdrawn
+0       760   1760  31760  beyer peacock            1914            1961
+1       761   1761  31761  beyer peacock            1914            1956
+2       762   1762  31762  beyer peacock            1914            1960
+3       763   1763  31763  beyer peacock            1914            1960
+4       764   1764  31764  beyer peacock            1914            1961
+5       765   1765  31765  beyer peacock            1914            1961
+6       766   1766  31766  beyer peacock            1914            1961
+7       767   1767  31767  beyer peacock            1914            1958
+8       768   1768  31768  beyer peacock            1914            1961
+9       769   1769  31769  beyer peacock            1914            1956
+10      770   1770  31770  beyer peacock            1914            1959
+11      771   1771  31771  beyer peacock            1914            1961
+12      772   1772  31772         borsig            1914            1959
+13      773   1773  31773         borsig            1914            1959
+14      774   1774  31774         borsig            1914            1958
+15      775   1775  31775         borsig            1914            1959
+16      776   1776  31776         borsig            1914            1961
+17      777   1777  31777         borsig            1914            1959
+18      778   1778  31778         borsig            1914            1959
+19      779   1779  31779         borsig            1914            1961

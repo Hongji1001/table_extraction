@@ -1,0 +1,13 @@
+    round  pick           player          position               college
+0       1    28     booker moore      running back            penn state
+1       2    49   chris williams    defensive back                   lsu
+2       2    49   byron franklin     wide receiver                auburn
+3       3    76      mike mosley     wide receiver             texas a&m
+4       3    84  robert geathers  defensive tackle  south carolina state
+5       5   135     calvin clark     defensive end                purdue
+6       6   161      robert holt     wide receiver                baylor
+7       7   188  steve doolittle        linebacker              colorado
+8       9   241     robb riddick      running back     millersville (pa)
+9      10   272     justin cross  offensive tackle      western colorado
+10     11   299   buster barnett         tight end         jackson state
+11     12   326      keith clark        linebacker         memphis state

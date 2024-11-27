@@ -1,0 +1,17 @@
+       season  tier      league          postseason     european competitions
+0   1997 - 98     2      2. bbl                   -                         -
+1   1998 - 99     2      2. bbl  promotion playoffs                         -
+2   1999 - 00     1  bundesliga     quarterfinalist                         -
+3   2000 - 01     1  bundesliga     quarterfinalist          played korac cup
+4   2001 - 02     1  bundesliga           relegated                         -
+5   2002 - 03     1  bundesliga                   -                         -
+6   2003 - 04     1  bundesliga                   -  fiba europe cup champion
+7   2004 - 05     3    oberliga            promoted                         -
+8   2005 - 06     2      2. bbl                   -                         -
+9   2006 - 07     2      2. bbl                   -                         -
+10  2007 - 08     2       pro a                   -                         -
+11  2008 - 09     2       pro a            promoted                         -
+12  2009 - 10     1  bundesliga                   -                         -
+13  2010 - 11     1  bundesliga           relegated                         -
+14  2011 - 12     2       pro a            promoted                         -
+15  2012 - 13     1  bundesliga                   -                         -

@@ -1,0 +1,8 @@
+  malayalam    മലയാളം    english      kannada     tamil      hindi
+0    njayar    ഞായര്‍     sunday    bhanuvara  nyaayiru    ravivar
+1   thinkal  തിങ്കള്‍     monday     somavara   thinkal     somvar
+2    chowva     ചൊവ്വ    tuesday  mangalavara   chevvai  mangalvar
+3    budhan    ബുധന്‍  wednesday    budhavara    budhan    budhvar
+4   vyazham    വ്യാഴം   thursday     guruvara   vyazhan    guruvar
+5     velli    വെള്ളി     friday   shukravara     velli   sukravar
+6     shani       ശനി   saturday    shanivara      sani   shanivar

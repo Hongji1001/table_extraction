@@ -1,0 +1,20 @@
+             date theatre , studio , or network                role                              dance partner           director
+0   june 3 , 1931                 new amsterdam             himself                  adele astaire tilly losch      hassard short
+1     nov 29 1932               ethel barrymore          guy holden                                claire luce     howard lindsay
+2      nov 2 1933                        palace          guy holden                                claire luce     felix edwardes
+3    dec 2 , 1933                           mgm             himself                              joan crawford   robert z leonard
+4   dec 20 , 1933                           rko          fred ayres              dolores del río ginger rogers  thornton freeland
+5    oct 3 , 1934                           rko          guy holden                              ginger rogers      mark sandrich
+6   feb 12 , 1935                           rko  huckleberry haines                              ginger rogers   william a seiter
+7     aug 12 1935                           nbc             himself                                          -                  -
+8   aug 16 , 1935                           rko       jerry travers                              ginger rogers      mark sandrich
+9   feb 19 , 1936                           rko          bake baker                              ginger rogers      mark sandrich
+10  aug 26 , 1936                           rko       lucky garnett                              ginger rogers     george stevens
+11   sept 15 1936                           nbc      himself (host)                                          -                  -
+12  apr 30 , 1937                           rko      peter p peters                              ginger rogers      mark sandrich
+13  nov 20 , 1937                           rko      jerry halliday  george burns & gracie allen joan fontaine     george stevens
+14  aug 30 , 1938                           rko          tony flagg                              ginger rogers      mark sandrich
+15    jan 15 1939                           nbc                   -                                          -                  -
+16  mar 31 , 1939                           rko       vernon castle                              ginger rogers          hc potter
+17  feb 14 , 1940                           mgm        johnny brett               eleanor powell george murphy      norman taurog
+18   dec 3 , 1940                     paramount       danny o'neill                           paulette goddard          hc potter

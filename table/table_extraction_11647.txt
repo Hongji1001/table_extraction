@@ -1,0 +1,24 @@
+              family baltimore group      envelopment             virion shape replication site
+0       adenoviridae         group i  non - enveloped              icosahedral          nucleus
+1      herpesviridae         group i        enveloped                  complex          nucleus
+2   papillomaviridae         group i  non - enveloped              icosahedral          nucleus
+3     polyomaviridae         group i  non - enveloped              icosahedral          nucleus
+4         poxviridae         group i        enveloped                  complex        cytoplasm
+5     hepadnaviridae       group vii        enveloped              icosahedral          nucleus
+6       parvoviridae        group ii  non - enveloped              icosahedral          nucleus
+7       astroviridae        group iv  non - enveloped              icosahedral        cytoplasm
+8      caliciviridae        group iv  non - enveloped              icosahedral        cytoplasm
+9     picornaviridae        group iv  non - enveloped              icosahedral        cytoplasm
+10     coronaviridae        group iv        enveloped                  helical        cytoplasm
+11      flaviviridae        group iv        enveloped              icosahedral        cytoplasm
+12       togaviridae        group iv        enveloped              icosahedral        cytoplasm
+13       hepeviridae        group iv        enveloped              icosahedral        cytoplasm
+14      retroviridae        group vi        enveloped              icosahedral          nucleus
+15  orthomyxoviridae         group v        enveloped                  helical          nucleus
+16      arenaviridae         group v        enveloped                  helical        cytoplasm
+17      bunyaviridae         group v        enveloped                  helical        cytoplasm
+18       filoviridae         group v        enveloped                  helical        cytoplasm
+19   paramyxoviridae         group v        enveloped                  helical        cytoplasm
+20     rhabdoviridae         group v        enveloped  helical , bullet shaped        cytoplasm
+21        unassigned         group v        enveloped                spherical          nucleus
+22        reoviridae       group iii  non - enveloped              icosahedral        cytoplasm

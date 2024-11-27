@@ -1,0 +1,14 @@
+    rank        nation  gold  silver  bronze  total
+0      1       algeria     9       2       5     16
+1      2       tunisia     4       6       6     16
+2      3         egypt     3       3       1      7
+3      4       senegal     1       2       4      7
+4      5        angola     1       0       0      1
+5      6  south africa     0       3       1      4
+6      7       nigeria     0       1       2      3
+7      8         niger     0       1       0      1
+8      9       morocco     0       0       7      7
+9   10 =  burkina faso     0       0       1      1
+10  10 =   ivory coast     0       0       1      1
+11  10 =         gabon     0       0       1      1
+12  10 =    madagascar     0       0       1      1

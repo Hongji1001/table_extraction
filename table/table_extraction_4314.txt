@@ -1,0 +1,7 @@
+   rank             player    county   tally  total  matches  average
+0     1      pádraig horan    offaly  5 - 17     32        4      8.0
+1     2  billy fitzpatrick  kilkenny  2 - 24     30        4      7.5
+2     3   tony o 'sullivan      cork  0 - 28     28        4      7.0
+3     4         p j molloy    galway  3 - 11     20        2     10.0
+4     5  christy heffernan  kilkenny   3 - 9     18        4      4.5
+5     5         pat horgan      cork  0 - 18     18        4      4.5

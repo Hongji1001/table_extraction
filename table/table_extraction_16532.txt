@@ -1,0 +1,9 @@
+                      school     location              mascot  enrollment ihsaa class       county
+0                boone grove   valparaiso              wolves         543          aa    64 porter
+1            hanover central   cedar lake            wildcats         580         aaa      45 lake
+2                     hebron       hebron               hawks         340          aa    64 porter
+3                      kouts        kouts  mustangs / fillies         257           a    64 porter
+4                   lacrosse     lacrosse              tigers         109           a   46 laporte
+5            morgan township   valparaiso           cherokees         220           a    64 porter
+6  south central union mills  union mills          satellites         297           a  46 la porte
+7        washington township   valparaiso            senators         264           a    64 porter

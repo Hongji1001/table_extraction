@@ -1,0 +1,6 @@
+    res record           opponent             method                                event  round  time                                 location
+0  loss  4 - 1      catia vitoria      tko (punches)                playboy fight night 4      3  3:59  new town , north dakota , united states
+1   win  4 - 0     masako yoshida      tko (punches)           eb - beatdown at 4 bears 5      3  2:35  new town , north dakota , united states
+2   win  3 - 0  michelle waterson      tko (punches)       apache gold : extreme beatdown      2  1:50        phoenix , arizona , united states
+3   win  2 - 0   stephanie palmer  tko (liver punch)  superfights mma - night of combat 2      1  0:53       las vegas , nevada , united states
+4   win  1 - 0   tammie schneider      tko (punches)       ifo - fireworks in the cage iv      2  2:05       las vegas , nevada , united states

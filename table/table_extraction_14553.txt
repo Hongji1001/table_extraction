@@ -1,0 +1,17 @@
+    dam constructed  year completed impounded body of water reservoir capacity dam wall height              dam type
+0     blowering dam            1968     blowering reservoir     ml ( 10 6cuft)               -   rockfill embankment
+1    deep creek dam            1961    deep creek reservoir     ml ( 10 6cuft)               -      concrete gravity
+2     eucumbene dam            1958          lake eucumbene     ml ( 10 6cuft)               -  earthfill embankment
+3         geehi dam            1966         geehi reservoir     ml ( 10 6cuft)               -   rockfill embankment
+4       guthega dam            1955       guthega reservoir     ml ( 10 6cuft)               -      concrete gravity
+5   happy jacks dam            1959     happy jacks pondage     ml ( 10 6cuft)               -      concrete gravity
+6   island bend dam            1965     island bend pondage     ml ( 10 6cuft)               -      concrete gravity
+7     jindabyne dam            1967          lake jindabyne     ml ( 10 6cuft)               -   rockfill embankment
+8       jounama dam            1968         jounama pondage     ml ( 10 6cuft)               -   rockfill embankment
+9     khancoban dam            1966     khancoban reservoir     ml ( 10 6cuft)               -  earthfill embankment
+10   murray two dam            1968      murray two pondage     ml ( 10 6cuft)               -         concrete arch
+11     talbingo dam            1970      talbingo reservoir     ml ( 10 6cuft)               -   rockfill embankment
+12   tantangara dam            1960    tantangara reservoir     ml ( 10 6cuft)               -      concrete gravity
+13        tooma dam            1961         tooma reservoir     ml ( 10 6cuft)               -   concrete embankment
+14   tumut pond dam            1959    tumut pond reservoir     ml ( 10 6cuft)               -         concrete arch
+15    tumut two dam            1961       tumut two pondage     ml ( 10 6cuft)               -      concrete gravity

@@ -1,0 +1,20 @@
+                    no1              no2                         no3                                     no5                                  no6                 final
+0   claudio claudisabel      marisa elsa            gisela valentino                             ruth marisa                    valentino claudio       winner (day 58)
+1   claudio claudisabel     claudio elsa              gisela gustavo                            vítor gisela                        vítor claudio  runner - up (day 58)
+2             elsa rita        lena elsa               gisela sylvie                            melão gisela                           ruth vítor  third place (day 58)
+3      elsa claudisabel      sylvie ruth                 sylvie axel                            melão gisela                           ruth vítor      evicted (day 50)
+4           sylvie rita      sylvie rita                 elsa sylvie                            vítor gisela                         marisa vítor      evicted (day 50)
+5          not in house     not in house                 elsa sylvie                            claudio ruth                     evicted (day 43)      evicted (day 43)
+6      lena claudisabel      lena sylvie                 ruth sylvie                          marisa claudio                     evicted (day 43)      evicted (day 43)
+7          lena claudio     lena claudio                claudio elsa                        evicted (day 36)                     evicted (day 36)      evicted (day 36)
+8      lena claudisabel        lena elsa                 gisela elsa                        evicted (day 36)                     evicted (day 36)      evicted (day 36)
+9          claudio axel  melão valentino                 vítor melão                        evicted (day 29)                     evicted (day 29)      evicted (day 29)
+10     elsa claudisabel       lena melão              gisela gustavo                        evicted (day 29)                     evicted (day 29)      evicted (day 29)
+11     elsa claudisabel        elsa lena             walked (day 19)                         walked (day 19)                      walked (day 19)       walked (day 19)
+12           rita melão       rita melão            evicted (day 15)                        evicted (day 15)                     evicted (day 15)      evicted (day 15)
+13       claudio sylvie  evicted (day 8)             evicted (day 8)                         evicted (day 8)                      evicted (day 8)       evicted (day 8)
+14                 none             none                        none                                    none                                 none                  none
+15  claudisabel claudio        elsa lena  elsa gisela gustavo sylvie  claudio gisela marisa melão ruth vítor  claudio marisa ruth valentino vítor        all housemates
+16          claudisabel             lena                 elsa sylvie                            gisela melão                    claudio valentino                marisa
+17          claudisabel             lena                 elsa sylvie                            gisela melão                    claudio valentino                  ruth
+18          claudisabel             lena                 elsa sylvie                            gisela melão                    claudio valentino                 vítor

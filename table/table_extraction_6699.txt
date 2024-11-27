@@ -1,0 +1,16 @@
+          class      wheels      date        builder  no built
+0            k1  2 - 6 - 4t      1925        ashford         1
+1            l1   4 - 4 - 0      1926  north british        15
+2   lord nelson   4 - 6 - 0  1926 - 9      eastleigh        16
+3             u   2 - 6 - 0      1928      eastleigh         7
+4             u   2 - 6 - 0      1928       brighton         6
+5             u   2 - 6 - 0      1928        ashford         7
+6             u   2 - 6 - 0      1928       brighton        10
+7             u   2 - 6 - 0      1931        ashford        20
+8            u1   2 - 6 - 0      1928        ashford         1
+9            u1   2 - 6 - 0      1931      eastleigh        20
+10            z  0 - 8 - 0t      1929       brighton         8
+11    v schools   4 - 4 - 0  1930 - 5      eastleigh        40
+12            w  2 - 6 - 4t      1932      eastleigh         6
+13            w  2 - 6 - 4t  1935 - 6        ashford        10
+14            q   0 - 6 - 0  1938 - 9      eastleigh        20

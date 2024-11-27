@@ -1,0 +1,11 @@
+         date enacted  normal total  ยง26 total  ont  que  ns  nb
+0       july 1 , 1867            72          78   24   24  12  12
+1      july 15 , 1870            74          80   24   24  12  12
+2      july 20 , 1871            77          83   24   24  12  12
+3       july 1 , 1873            77          83   24   24  10  10
+4  september 1 , 1905            85          91   24   24  10  10
+5       may 19 , 1915            96         104   24   24  10  10
+6     march 31 , 1949           102         110   24   24  10  10
+7      june 19 , 1975           104         112   24   24  10  10
+8      april 1 , 1999           105         113   24   24  10  10
+9                date  normal total  ยง26 total  ont  que  ns  nb

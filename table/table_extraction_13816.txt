@@ -1,0 +1,7 @@
+                 area                  population % muslim % hindu % buddhist % other
+0      kashmir valley      ~4 million (4 million)      95%      4%          -       -
+1               jammu      ~3 million (3 million)      30%     66%          -      4%
+2              ladakh      ~0.25 million (250000)      46%       -        50%      3%
+3        azad kashmir  ~2.6 million (2.6 million)     100%       -          -       -
+4  gilgit - baltistan      ~1 million (1 million)      99%       -          -       -
+5          aksai chin                           -        -       -          -       -

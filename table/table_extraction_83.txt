@@ -1,0 +1,6 @@
+   pick          nfl team              player            position               college
+0    21  cleveland browns   clifford charlton  outside linebacker               florida
+1    50  cleveland browns  michael dean perry    defensive tackle               clemson
+2    77  cleveland browns         van waiters  outside linebacker               indiana
+3   103  cleveland browns    anthony blaylock         corner back       winston - salem
+4   188  cleveland browns          thane gash      defensive back  east tennessee state

@@ -1,0 +1,13 @@
+   japanese title              romaji title tv station  episodes average ratings
+0         大奥～華の乱～       oooku ~hana no ran~    fuji tv        10           15.7%
+1         1リットルの涙    ichi rittoru no namida    fuji tv        11           15.3%
+2          危険なアネキ            kiken na aneki    fuji tv        10          18.78%
+3            鬼嫁日記             oniyome nikki    fuji tv        11          15.35%
+4        ブラザー☆ビート              brother☆beat        tbs        11           13.5%
+5      今夜ひとりのベッドで  konya hitori no beddo de        tbs        10            6.6%
+6            恋の時間              koi no jikan        tbs        10           10.3%
+7            着信アリ             chakushin ari   tv asahi        10           8.49%
+8            熟年離婚             jukunen rikon   tv asahi         9          19.18%
+9           あいのうた                 ai no uta        ntv        10            9.7%
+10    野ブタ。をプロデュース         nobuta wo produce        ntv        10          16.89%
+11          花より男子           hana yori dango        tbs         9           19.6%

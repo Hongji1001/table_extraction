@@ -1,0 +1,7 @@
+                 candidates  votes khuzestan  % of votes khuzestan  votes nationally  % of votes nationally
+0  akbar hashemi rafsanjani           319883                  20.5           6211937                  21.13
+1       mahmoud ahmadinejad           224427                  14.4           5711696                  19.43
+2            mehdi karroubi           539158                  34.5           5070114                  17.24
+3             mostafa moeen           148375                   9.5           4095827                  13.93
+4  mohammad bagher ghalibaf           148207                   9.5           4083951                  13.89
+5              ali larijani            58554                   3.7           1713810                   5.83

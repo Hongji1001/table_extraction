@@ -1,0 +1,9 @@
+        nat         name     moving from      type transfer window  ends transfer fee
+0       eng    mcmanaman       liverpool  transfer          summer  2003         free
+1       fra       anelka         arsenal  transfer          summer  2000     34000000
+2       bih       baljić      fenerbahçe  transfer          summer  2002     26000000
+3       esp     helguera        espanyol  transfer          summer  2007     15000000
+4       esp    m salgado   celta de vigo  transfer          summer  2009     12000000
+5  cameroon       geremi  gençlerbirliği  transfer          summer  2003      4200000
+6       arg      bizarri          racing  transfer          summer  2000      2000000
+7       bra  júlio césar      valladolid  transfer          summer  2000      2500000

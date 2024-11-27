@@ -1,0 +1,7 @@
+            school      location      mascot       county  enrollment 08 - 09 ihsaa class  year joined previous conference
+0          carroll         flora     cougars   08 carroll                 350          aa         1992             midwest
+1  clinton central  michigantown    bulldogs   12 clinton                 327          aa         1989           rangeline
+2  clinton prairie     frankfort     gophers   12 clinton                 296           a         1989           rangeline
+3        rossville     rossville     hornets   12 clinton                 328           a         1989             midwest
+4         sheridan      sheridan  blackhawks  29 hamilton                 382          aa         2012             hoosier
+5    tri - central   sharpsville     trojans    80 tipton                 320           a         1989           rangeline

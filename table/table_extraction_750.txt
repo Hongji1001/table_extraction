@@ -1,0 +1,12 @@
+    rank                 name    city          region  height (m)  height (ft)  floors  estimated completion
+0      1  leadenhall building  london  greater london         225          737      48                  2014
+1      2  52 - 54 lime street  london  greater london         190          623      38                  2017
+2      3      100 bishopsgate  london  greater london         172          564      40                  2015
+3      4        1 blackfriars  london  greater london         163          535      52                  2018
+4      5  20 fenchurch street  london  greater london         160          525      36                  2014
+5      6      baltimore tower  london  greater london         150          495      45                  2016
+6      7     providence tower  london  greater london         136          446      44                  2015
+7      8     one the elephant  london  greater london         133          436      37                  2016
+8      9   25 churchill place  london  greater london         130          427      23                  2014
+9     10    lots road tower 1  london  greater london         122          400      37                  2015
+10    11        lexicon tower  london  greater london         115          377      35                  2016

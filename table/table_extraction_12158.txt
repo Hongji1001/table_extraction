@@ -1,0 +1,22 @@
+          nat                   name                     moving to             type transfer window transfer fee
+0         ger    christian nerlinger                    free agent         transfer           n / a        n / a
+1         bra                emerson                    free agent         transfer           n / a        n / a
+2         por           nuno capucho                    free agent         transfer           n / a        n / a
+3         nor           henning berg                       retired  end of contract          summer        n / a
+4         ned           michael mols                       utrecht  end of contract          summer        n / a
+5         ned          frank de boer                     al rayyan  end of contract          summer        n / a
+6         ned         ronald de boer                     al rayyan  end of contract          summer        n / a
+7         sco           darryl duffy                       falkirk  end of contract          summer        n / a
+8         sco           billy gibson               partick thistle  end of contract          summer        n / a
+9         sco             andy dowie               partick thistle  end of contract          summer        n / a
+10        sco            peter leven                    kilmarnock  end of contract          summer        n / a
+11        sco            paul mchale                   cowdenbeath  end of contract          summer        n / a
+12        sco          steve maclean           sheffield wednesday         transfer          summer        0.125
+13        esp           mikel arteta                  realsociedad         transfer          summer        2.6 m
+14        sco            alex walker                         clyde             loan          summer        n / a
+15        sco           tom brighton             scunthorpe united             loan          summer        n / a
+16        fra  jean - alain boumsong              newcastle united         transfer          winter          8 m
+17        aus            craig moore       borussiamönchengladbach         transfer          winter         free
+18        ita           paolo vanoli                       vicenza         transfer          winter         free
+19  macedonia           bajram fetai  inverness caledonian thistle             loan          winter         loan
+20        sco         stephen hughes                leicester city         transfer          winter        0.1 m

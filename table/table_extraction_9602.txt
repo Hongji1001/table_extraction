@@ -1,0 +1,7 @@
+   channel    station video aspect psip short name                       programming
+0      5.1  kstp - tv  720p   16:9         kstpdt1  main kstp - tv programming / abc
+1      5.2  kstc - tv  720p   16:9         kstcdt2        main kstc - tv programming
+2      5.3  kstc - tv  480i   16:9         kstcdt3                           me - tv
+3      5.4  kstc - tv  480i   16:9         kstcdt4                        antenna tv
+4      5.5  kstc - tv  480i   16:9         kstpdt2                 live well network
+5      5.6  kstc - tv  480i   16:9         kstcdt6                           this tv

@@ -1,0 +1,17 @@
+   place           player        country  score to par
+0      1      gary player   south africa     70      e
+1     t2       lou graham  united states     71    + 1
+2     t2      mike reasor  united states     71    + 1
+3     t4      jim colbert  united states     72    + 2
+4     t4   bruce crampton      australia     72    + 2
+5     t4    raymond floyd  united states     72    + 2
+6     t4    bobby nichols  united states     72    + 2
+7     t4  barney thompson  united states     72    + 2
+8     t9    arnold palmer  united states     73    + 3
+9     t9       tom watson  united states     73    + 3
+10    t9       hale irwin  united states     73    + 3
+11    t9      rod funseth  united states     73    + 3
+12    t9      jerry heard  united states     73    + 3
+13    t9     david graham      australia     73    + 3
+14    t9       mark hayes  united states     73    + 3
+15    t9      john buczek  united states     73    + 3

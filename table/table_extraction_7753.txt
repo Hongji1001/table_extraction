@@ -1,0 +1,46 @@
+                     name     party           province  term expires             term of office
+0             mike arnold     labor        templestowe          1988                1982 - 1988
+1             bill baxter  national      north eastern          1985  1978 - 1984 , 1985 - 2006
+2           gracia baylor   liberal            boronia          1985                1979 - 1985
+3            mark birrell   liberal         east yarra          1985                1983 - 2002
+4             peter block   liberal         nunawading          1985                1973 - 1985
+5              clive bubb   liberal           ballarat          1985                1979 - 1985
+6            glyde butler     labor         thomastown          1985                1979 - 1985
+7           bill campbell   liberal         east yarra          1985                1964 - 1983
+8   hon bruce chamberlain   liberal            western          1988                1976 - 2002
+9        geoffrey connard   liberal        higinbotham          1988                1982 - 1996
+10          joan coxsedge     labor     melbourne west          1985                1979 - 1992
+11      hon digby crozier   liberal            western          1985                1973 - 1985
+12           judith dixon     labor            boronia          1988                1982 - 1988
+13            bernie dunn  national      north western          1988                1969 - 1988
+14            david evans  national      north eastern          1988                1976 - 1996
+15           jock granter   liberal  central highlands          1988                1964 - 1988
+16          fred grimwade   liberal  central highlands          1985                1967 - 1987
+17            james guest   liberal             monash          1988                1976 - 1996
+18            don hayward   liberal             monash          1985                1979 - 1985
+19          david henshaw     labor            geelong          1988                1982 - 1996
+20          caroline hogg     labor    melbourne north          1988                1982 - 1999
+21     hon vasey houghton   liberal        templestowe          1985                1967 - 1985
+22          hon alan hunt   liberal      south eastern          1985                1961 - 1992
+23             jim kennan     labor         thomastown          1988                1982 - 1988
+24          cyril kennedy     labor           waverley          1985                1979 - 1992
+25              eric kent     labor            chelsea          1985  1970 - 1976 , 1979 - 1985
+26            joan kirner     labor     melbourne west          1988                1982 - 1988
+27        hon rob knowles   liberal           ballarat          1988                1976 - 1999
+28         bill landeryou     labor       doutta galla          1988                1976 - 1992
+29          robert lawson   liberal        higinbotham          1985                1979 - 1992
+30              dick long   liberal          gippsland          1985                1973 - 1992
+31        laurie mcarthur     labor         nunawading          1988                1982 - 1988
+32          rod mackenzie     labor            geelong          1985                1979 - 1992
+33             brian mier     labor           waverley          1988                1982 - 1996
+34           barry murphy     labor          gippsland          1988                1982 - 1988
+35           barry pullen     labor          melbourne          1988                1982 - 1999
+36           john radford   liberal            bendigo          1985                1979 - 1985
+37             bruce reid   liberal            bendigo          1988                1976 - 1988
+38             mal sandon     labor            chelsea          1988                1982 - 1988
+39          giovanni sgro     labor    melbourne north          1985                1979 - 1992
+40      hon haddon storey   liberal         east yarra          1988                1971 - 1996
+41            evan walker     labor          melbourne          1985                1979 - 1992
+42               roy ward   liberal      south eastern          1988                1970 - 1988
+43            david white     labor       doutta galla          1985                1976 - 1996
+44             ken wright  national      north western          1985                1973 - 1992

@@ -1,0 +1,14 @@
+                       name  years gender          area         authority  decile  roll
+0           bayfield school  1 - 6   coed     herne bay             state      10   387
+1       freemans bay school  1 - 6   coed  freemans bay             state       6   428
+2          grey lynn school  1 - 6   coed     grey lynn             state       7   347
+3           kadimah college  1 - 8   coed        newton  state integrated      10   214
+4             marist school  1 - 8   coed     herne bay  state integrated       7   199
+5          newmarket school  1 - 6   coed     newmarket             state       8   295
+6     newton central school  1 - 6   coed     grey lynn             state       7   262
+7            parnell school  1 - 8   coed       parnell             state      10   498
+8     ponsonby intermediate  7 - 8   coed      ponsonby             state       9   534
+9   ponsonby primary school  1 - 6   coed     herne bay             state      10   353
+10     richmond road school  1 - 6   coed      ponsonby             state       8   147
+11      st joseph 's school  1 - 8   coed     grey lynn  state integrated       4    83
+12          westmere school  1 - 6   coed      westmere             state      10   637

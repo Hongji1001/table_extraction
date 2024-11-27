@@ -1,0 +1,12 @@
+                             name faith     type  intake  dcsf number  ofsted number
+0                         aldbury    ce  primary      10         3000         117382
+1                       bovingdon     -  primary      60         2003         131188
+2                       flamstead     -  primary      15         2031         117100
+3                   gaddesden row     -      jmi       8         2032         117101
+4                 great gaddesden    ce  primary      12         3335         117433
+5                   kings langley     -  primary      60         2338         117283
+6                little gaddesden    ce  primary      15         3352         117443
+7                    long marston    ce  primary      20         3373         117459
+8                        markyate     -  primary      30         2074         117127
+9   st bartholomew 's , wigginton    ce  primary      15         3380         117463
+10      st paul 's , chipperfield    ce  primary      30         3349         117441

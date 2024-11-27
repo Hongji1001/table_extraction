@@ -1,0 +1,14 @@
+                         school     location            mascot       county  year joined  year left                         conference joined
+0                     clay city    clay city              eels      11 clay         1964       2010                                sw indiana
+1                     montezuma    montezuma            aztecs     61 parke         1964       1986  none (consolidated into riverton parke )
+2                      rosedale     rosedale          hotshots     61 parke         1964       1986  none (consolidated into riverton parke )
+3                      shakamak   jasonville            lakers    28 greene         1964       2010                                sw indiana
+4                       stauton     staunton    yellow jackets      11 clay         1964       1984       none (consolidated into northview )
+5           terre haute schulte  terre haute      golden bears      84 vigo         1964       1971                           western indiana
+6             terre haute state  terre haute  little sycamores      84 vigo         1964       1978                      none (school closed)
+7                     van buren       carbon       blue devils      11 clay         1964       1984       none (consolidated into northview )
+8                union (dugger)       dugger          bulldogs  77 sullivan         1965       2010                                sw indiana
+9   north central (farmersburg)  farmersburg      thunderbirds  77 sullivan         1977       2010                                sw indiana
+10                     eminence     eminence              eels    55 morgan         1986       2010                              independents
+11                     sullivan     sullivan     golden arrows  77 sullivan         1986       1999                           western indiana
+12              linton stockton       linton            miners    28 greene         1991       2010                                sw indiana

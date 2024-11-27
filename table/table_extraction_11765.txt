@@ -1,0 +1,9 @@
+          stage        shooter   time  avg run  year
+0    five to go  max michel jr   8.97     2.24  2013
+1      showdown     kc eusebio   7.98     2.00  2012
+2  smoke & hope     kc eusebio   7.20     1.80  2012
+3  outer limits      bj norris  11.14     3.71  2008
+4   accelerator  max michel jr   8.70     2.18  2013
+5      pendulum     kc eusebio  10.65     2.66  2013
+6  speed option  max michel jr   9.09     2.27  2013
+7    roundabout  max michel jr   7.51     1.88  2013

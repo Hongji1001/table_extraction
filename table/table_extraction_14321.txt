@@ -1,0 +1,18 @@
+           name  country               loan club       started        ended  start source
+0        weston      eng              gillingham      1 august    27 august  leeds united
+1        kandol  cod zai                millwall      7 august   28 january    sky sports
+2       gardner  eng lux          farsley celtic  19 september   21 october  leeds united
+3        martin      sco                  barrow  24 september        2 may  leeds united
+4      westlake      eng         cheltenham town    23 october   24 january  leeds united
+5       johnson      eng  brighton & hove albion    27 october    5 january      seagulls
+6       trundle      eng            bristol city     9 january     11 march  leeds united
+7        naylor      eng            ipswich town    14 january   2 february  leeds united
+8   c dickinson      eng              stoke city    15 january  18 february  leeds united
+9       elliott      eng       macclesfield town    27 january  26 february     bbc sport
+10       kandol  cod zai       charlton athletic    30 january        3 may  leeds united
+11         webb      eng     newcastle blue star   27 february        2 may  leeds united
+12  l dickinson      eng            derby county      13 march       14 may  leeds united
+13      sweeney      sco            grimsby town      20 march        2 may  leeds united
+14      sheehan      ire         crewe alexandra      23 march        2 may  leeds united
+15        sodje  ngr eng                 reading      27 march       14 may  leeds united
+16     flahavan      eng          crystal palace      27 march       14 may  leeds united

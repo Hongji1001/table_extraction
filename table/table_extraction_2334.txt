@@ -1,0 +1,15 @@
+                name   -          position height  weight       year           home town              high school
+0   marvin alexander  22   guard - forward  6 - 4     190     junior        houston , tx                 worthing
+1       benny anders  32   guard - forward  6 - 5     188     junior        bernice , la                  bernice
+2      greg anderson  54  forward - center  6 - 9     220   freshman        houston , tx                 worthing
+3     stacey belcher  50           forward  6 - 6     210   freshman        houston , tx                    yates
+4      braxton clark  52           forward  6 - 8     230     junior  san francisco , ca     mission / de anza cc
+5       eric dickens  14             guard  6 - 1     170     junior        houston , tx                  madison
+6     alvin franklin  20             guard  6 - 2     185  sophomore      la marque , tx                la marque
+7        reid gettys  44   guard - forward  6 - 6     200     junior        houston , tx                 memorial
+8        derek giles  10             guard  6 - 3     175     senior         queens , ny                  bayside
+9    hakeem olajuwon  34            center  7 - 0     255     junior     lagos , nigeria  muslim teachers college
+10        gary orsak  30           forward  6 - 7     220     junior       alvin , texas                    alvin
+11    renaldo thomas  12             guard  6 - 4     200  sophomore           gary , in                roosevelt
+12      james weaver  24             guard  6 - 4     190   freshman      nederland , tx                nederland
+13    rickie winslow  40           forward  6 - 8     215   freshman        houston , tx                    yates

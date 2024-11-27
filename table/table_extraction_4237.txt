@@ -1,0 +1,23 @@
+    year                   competition                  venue position           notes
+0   2001  african junior championships     réduit , mauritius      1st  3000 m s'chase
+1   2002            commonwealth games   manchester , england      2nd  3000 m s'chase
+2   2002         african championships        radès , tunisia      4th  3000 m s'chase
+3   2003            all - africa games        abuja , nigeria      1st  3000 m s'chase
+4   2003           world championships         paris , france      2nd  3000 m s'chase
+5   2003         world athletics final   monte carlo , monaco      3rd  3000 m s'chase
+6   2004                 olympic games        athens , greece      1st  3000 m s'chase
+7   2004         world athletics final   monte carlo , monaco      2nd  3000 m s'chase
+8   2005           world championships     helsinki , finland      2nd  3000 m s'chase
+9   2005         world athletics final   monte carlo , monaco      2nd  3000 m s'chase
+10  2006            commonwealth games  melbourne , australia      1st  3000 m s'chase
+11  2006         world athletics final    stuttgart , germany      5th  3000 m s'chase
+12  2007            all - africa games      algiers , algeria      2nd  3000 m steeple
+13  2007           world championships          osaka , japan      2nd  3000 m s'chase
+14  2008                 olympic games        beijing , china      7th  3000 m s'chase
+15  2008         world athletics final    stuttgart , germany      2nd  3000 m s'chase
+16  2009           world championships       berlin , germany      1st  3000 m s'chase
+17  2009         world athletics final  thessaloniki , greece      1st  3000 m s'chase
+18  2010         african championships        nairobi , kenya      2nd  3000 m s'chase
+19  2011           world championships    daegu , south korea      1st  3000 m s'chase
+20  2012                 olympic games       london , england      1st  3000 m s'chase
+21  2013           world championships        moscow , russia      1st  3000 m s'chase

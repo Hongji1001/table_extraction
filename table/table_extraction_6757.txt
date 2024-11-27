@@ -1,0 +1,14 @@
+                    number & name             description                current status                                livery  date
+0   scottish tar distillers no 78      rectangular tanker  static display in the museum                                 black  1877
+1       oakbank oil company no 13              10t tanker  static display in the museum                                 black  1894
+2                          no a43         shell bp tanker  static display in the museum                                 black  1897
+3              naval store no 161              14t tanker  static display in the museum                                 black  1918
+4           briggs , dundee no 20              14t tanker                   operational                                 black  1918
+5                    briggs no 17              14t tanker                        stored                                 black  1927
+6                          no 206              20t tanker                        stored                            silver dcl  1930
+7                          no 241              20t tanker                        stored                            silver dcl  1940
+8                            no 4              20t tanker                        stored                          bp chemicals  1941
+9                           no 14  14t nitric acid tanker  static display in the museum                                  grey  1941
+10                         no 252              20t tanker                        stored            distiller 's co ltd silver  1951
+11                         no 261              20t tanker                        stored  british hydrocarbon chemicals silver  1956
+12                    no bpo67496          45t tta tanker                        stored                              bp green  1966

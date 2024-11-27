@@ -1,0 +1,23 @@
+                     driver             constructor  laps time / retired  grid
+0             mika häkkinen      mclaren - mercedes    71    1:28:15.818     1
+1           david coulthard      mclaren - mercedes    71       + 12.535     2
+2        rubens barrichello                 ferrari    71       + 30.795     3
+3        jacques villeneuve             bar - honda    70        + 1 lap     7
+4             jenson button          williams - bmw    70        + 1 lap    18
+5                 mika salo       sauber - petronas    70        + 1 lap     9
+6            johnny herbert       jaguar - cosworth    70        + 1 lap    16
+7                 marc gené     minardi - fondmetal    70        + 1 lap    20
+8               pedro diniz       sauber - petronas    70        + 1 lap    11
+9            alexander wurz     benetton - playlife    70        + 1 lap    14
+10            luciano burti       jaguar - cosworth    69       + 2 laps    21
+11         gastón mazzacane     minardi - fondmetal    68       + 3 laps    22
+12            ricardo zonta             bar - honda    58         engine     6
+13          ralf schumacher          williams - bmw    52         brakes    19
+14            nick heidfeld         prost - peugeot    41      collision    13
+15               jean alesi         prost - peugeot    41      collision    17
+16         pedro de la rosa       arrows - supertec    32        gearbox    12
+17           jos verstappen       arrows - supertec    14         engine    10
+18  heinz - harald frentzen  jordan - mugen - honda     4       oil leak    15
+19       michael schumacher                 ferrari     0      collision     4
+20             jarno trulli  jordan - mugen - honda     0      collision     5
+21     giancarlo fisichella     benetton - playlife     0      collision     8

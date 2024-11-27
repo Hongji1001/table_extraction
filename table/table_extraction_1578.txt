@@ -1,0 +1,15 @@
+                 season      the mole                      winner   runner - up       international destination
+0           1999 / 2000       deborah         petra (37.437 , - )         robin                       australia
+1                  2001          nico        sigrid (31.765 , - )        yvonne                        scotland
+2                  2002        george          john (42.300 , - )       jantien                        portugal
+3                  2003         elise           ron (35.550 , - )     chandrika                          canada
+4                  2005          yvon  marc - marie (23.000 , - )        lottie  australia , indonesia ( bali )
+5                  2006      milouska    frédérique (24.475 , - )      roderick                       argentina
+6                  2007          inge          paul (17.300 , - )  renate , eva                        thailand
+7                  2008        dennis           edo (20.375 , - )        regina                          mexico
+8   2008 junior edition          amin                       naomi          lara          netherlands ( zwolle )
+9                  2009           jon      viviënne (22.650 , - )        anniek         northern ireland jordan
+10                 2010           kim         frits (21.950 , - )         sanne                           japan
+11                 2011       patrick           art (19.540 , - )       soundos           el salvador nicaragua
+12                 2012  anne - marie      hadewych (12.601 , - )      liesbeth     iceland spain ( andalusia )
+13                 2013          kees       paulien (17.120 , - )      carolien                    south africa

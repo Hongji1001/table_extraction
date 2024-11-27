@@ -1,0 +1,13 @@
+                            shooter  prone  stand  kneel  qual
+0       sonja pfeilschifter ( ger )    199    195    196   590
+1               olga dovgun ( kaz )    200    196    193   589
+2           lioubov galkina ( rus )    199    193    194   586
+3                   yin wen ( chn )    197    195    194   586
+4             jamie beyerle ( usa )    198    188    194   580
+5           snježana pejčić ( cro )    197    193    190   580
+6          eglis yaima cruz ( cub )    199    186    193   578
+7              morgan hicks ( usa )    196    190    192   578
+8                     du li ( chn )    199    189    190   578
+9   thanyalak chotphibunsin ( tha )    197    185    194   576
+10        kristina vestveit ( nor )    195    189    191   575
+11           adela sykorova ( cze )    195    187    188   570

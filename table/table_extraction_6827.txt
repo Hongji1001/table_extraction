@@ -1,0 +1,32 @@
+               player      position date of birth (age)  caps       club / province
+0         aleki lutui        hooker         1 july 1978    21             worcester
+1     ephraim taukafa        hooker        26 june 1976    19                  lyon
+2     taufa'ao filise          prop         26 may 1977    14         cardiff blues
+3       sateki mata'u          prop     5 december 1979     1  chalon - sur - saône
+4           kisi pulu          prop     31 january 1978    15             perpignan
+5           toma toke          prop        20 june 1985     5          tau'uta reds
+6    soane tonga'uiha          prop     21 january 1982     3    northampton saints
+7        inoke afeaki          lock        12 july 1973    20              grenoble
+8     lisiate fa'aoso          lock       18 march 1983     6              manawatu
+9         paino hehea          lock     1 february 1979     6          racing métro
+10     emosi kauhenga          lock       27 april 1981     4          tau'uta reds
+11    nili latu ( c )       flanker    19 february 1982    12         green rockets
+12     maama molitika       flanker      26 august 1974    15         cardiff blues
+13      hale t - pole       flanker       30 april 1979     6               ospreys
+14       viliami vaki       flanker       27 april 1976    25             perpignan
+15      lotu filipine      number 8      27 august 1980     5              big blue
+16         finau maka      number 8        11 july 1977     4              toulouse
+17        soane havea  scrum - half      29 august 1981    16          tautahi gold
+18        enele taufa  scrum - half   24 september 1984     0          tau'uta reds
+19   sione tu'ipulotu  scrum - half    28 november 1978    23              yokogawa
+20        pierre hola    fly - half         9 june 1978    27      kobelco steelers
+21       suka hufanga        centre        18 june 1982    12                 brive
+22         epi taione        centre        2 march 1979    11                sharks
+23  hudson tonga'uiha        centre    16 november 1983    15      cergy - pontoise
+24      isileli tupou        centre     26 october 1984     6          tau'uta reds
+25       aisea havili          wing       11 march 1977    11             worcester
+26      ualosi kailea          wing     28 october 1978     0          tau'uta reds
+27         seti kiole          wing         7 june 1980     8             montauban
+28     tevita tu'ifua          wing     15 october 1975    11      counties manukau
+29        joseph vaka          wing    21 november 1980     4          tautahi gold
+30         vunga lilo      fullback    28 february 1983     3       cornish pirates

@@ -1,0 +1,17 @@
+                 name      locomotive type  wheel arr                       builder  year built                                 whistle                                       in traffic
+0       green goddess                steam  4 - 6 - 2             davey paxman & co        1925                             small chime                                              yes
+1      northern chief                steam  4 - 6 - 2             davey paxman & co        1925                                 bulleid                                              yes
+2       southern maid                steam  4 - 6 - 2             davey paxman & co        1926                 ex isle of wight hooter                                              yes
+3             the bug                steam  0 - 4 - 0               krauss , munich        1926                                   rh&dr  loco back together , awaiting boiler inspection
+4            hercules                steam  4 - 8 - 2             davey paxman & co        1927                                gwr hall  yes (on loan to ravenglass and eskdale railway)
+5              samson                steam  4 - 8 - 2             davey paxman & co        1927                               us crosby                             no awaiting overhaul
+6             typhoon                steam  4 - 6 - 2             davey paxman & co        1927                   br duke of gloucester                                              yes
+7           hurricane                steam  4 - 6 - 2             davey paxman & co        1927                          chrome lner a4                no to be retubed winter 2013 / 14
+8   winston churchill                steam  4 - 6 - 2      yorkshire engine company        1931                                  crosby                                              yes
+9              dr syn                steam  4 - 6 - 2      yorkshire engine company        1931  lner a4 from commonwealth of australia                                  no under repair
+10       black prince                steam  4 - 6 - 2                 krupp , essen        1937                                 bulleid                                              yes
+11     john southland  diesel - mechanical    bo - bo               tma engineering        1983          2 - tone horn (airchime , ltd)                                              yes
+12      captain howey  diesel - mechanical    bo - bo               tma engineering        1989          2 - tone horn (airchime , ltd)                                              yes
+13            simplex  diesel - mechanical  0 - 4 - 0  motor rail ltd (simplex wks)        1938                                    none                                    shunting only
+14            scooter  petrol - mechanical  0 - 4 - 0                         rh&dr        1949                          ex fire engine                                    shunting only
+15       red gauntlet  petrol - mechanical  0 - 4 - 0                  jacot / keef        1975                                halfords                                    shunting only

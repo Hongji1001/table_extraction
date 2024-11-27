@@ -1,0 +1,34 @@
+            artist / band                                song disney affiliated  released us exclusive eu exclusive
+0             miley cyrus                            7 things               yes      2008           no           no
+1             miley cyrus                     fly on the wall               yes      2009           no           no
+2             miley cyrus                           the climb               yes      2009           no           no
+3             miley cyrus                   hoedown throwdown               yes      2009           no           no
+4             demi lovato                            get back               yes      2008           no           no
+5             demi lovato                          la la land               yes      2008           no           no
+6             demi lovato                        don't forget               yes      2009           no           no
+7          jonas brothers                             hold on               yes      2007           no           no
+8          jonas brothers                                 sos               yes      2007           no           no
+9          jonas brothers        when you look me in the eyes               yes      2008           no           no
+10         jonas brothers                             lovebug               yes      2008           no           no
+11         jonas brothers                          burnin' up               yes      2008           no           no
+12         colbie caillat                             realize                no      2008           no           no
+13         colbie caillat                              bubbly                no      2007           no           no
+14        vanessa hudgens                        sneakernight               yes      2008           no           no
+15        jesse mccartney                          it 's over                no      2008          yes           no
+16        jesse mccartney                    how do you sleep                no      2009           no           no
+17           taylor swift       i'm only me when i'm with you                no      2006           no           no
+18           taylor swift                              change                no      2008           no           no
+19            onerepublic                           apologize                no      2006           no           no
+20                  duffy                      warwick avenue                no      2008           no           no
+21                  duffy                               mercy                no      2008           no           no
+22               coldplay                         violet hill                no      2008           no           no
+23          steve rushton                           emergency                no      2009           no           no
+24           love & theft                       don't wake me                no      2009          yes           no
+25          mitchel musso  let it go (with tiffany thornton )               yes      2009          yes           no
+26          mitchel musso                        the in crowd               yes      2008          yes           no
+27         hannah montana                      let 's do this               yes      2009           no           no
+28         hannah montana                    let 's get crazy               yes      2009           no           no
+29                    jem                       it 's amazing                no      2008           no           no
+30  high school musical 3              right here , right now               yes      2008           no          yes
+31  high school musical 3                              scream               yes      2008           no          yes
+32                 ismael                          dame besos               yes      2009           no          yes

@@ -1,0 +1,7 @@
+   year  1st venue    2nd venue  3rd venue   4th venue 5th venue
+0  2007  sheffield  mexico city    nanjing          na        na
+1  2008    tijuana    sheffield    nanjing          na        na
+2  2009       doha    changzhou  sheffield     tijuana        na
+3  2010    qingdao     veracruz   veracruz          na        na
+4  2011     moscow      beijing  sheffield  guanajuato        na
+5  2012      dubai      beijing     moscow     tijuana        na

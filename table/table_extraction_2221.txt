@@ -1,0 +1,13 @@
+    no in series  no in season                                      title      directed by         written by original air date
+0             14             1                                in the game  rodrigo garcã­a          alan ball    march 3 , 2002
+1             15             2                     out , out brief candle      kathy bates   laurence andries   march 10 , 2002
+2             16             3                                   the plan      rose troche         kate robin   march 17 , 2002
+3             17             4                        driving mr mossback   michael cuesta     rick cleveland   march 24 , 2002
+4             18             5                        the invisible woman   jeremy podeswa  bruce eric kaplan   march 31 , 2002
+5             19             6                          in place of anger   michael engler   christian taylor    april 7 , 2002
+6             20             7                         back to the garden       dan attias       jill soloway   april 14 , 2002
+7             21             8  it 's the most wonderful time of the year      alan taylor         scott buck   april 21 , 2002
+8             22             9                       someone else 's eyes   michael cuesta          alan ball   april 28 , 2002
+9             23            10                                 the secret        alan poul  bruce eric kaplan      may 5 , 2002
+10            24            11                     the liar and the whore    miguel arteta     rick cleveland     may 12 , 2002
+11            25            12                              i'll take you   michael engler       jill soloway     may 19 , 2002

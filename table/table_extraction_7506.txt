@@ -1,0 +1,10 @@
+                                         language   number percentage (%)    males  females
+0                                          polish  681 061          83.57  336 398  344 663
+1                                         yiddish  112 123          13.75   54 524   57 599
+2                                         russian    9 581           1.17    7 969    1 612
+3                                          german    8 755           1.07    4 381    4 374
+4                                       ukrainian    1 642            0.2    1 548       94
+5                                        romanian    1 343           0.42    1 343        0
+6                                           other      430          >0.01      430      154
+7  persons that didn't name their native language       12          >0.01       10        2
+8                                           total  814 947            100  406 449  408 498

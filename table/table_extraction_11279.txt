@@ -1,0 +1,9 @@
+      class  quantity      manufacturer                            motor  seats
+0   bs 1897        16        falkenried                              ueg     16
+1   bs 1910         6           unknown                              aeg     16
+2   bs 1913         8        nordwaggon                              aeg     24
+3   bs 1915        10  p herbrand & cie                              aeg     18
+4   bs 1921        19        nordwaggon                              aeg     24
+5  kes 1909         1  p herbrand & cie                          siemens     24
+6  kss 1913         1        falkenried                          siemens     16
+7   bs 1947        10          strãmmen  norsk elektrisk og brown boveri     23

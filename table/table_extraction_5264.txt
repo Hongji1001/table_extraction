@@ -1,0 +1,17 @@
+         club                                     city              stadium  capacity                        201112 season
+0   andriabat                                   andria          degli ulivi      9140   12th in lega pro prima divisione b
+1    avellino                                 avellino  partenio - lombardi      7450    5th in lega pro prima divisione a
+2    barletta                                 barletta      cosimo puttilli      4018    6th in lega pro prima divisione b
+3   benevento                                benevento        ciro vigorito     12847    6th in lega pro prima divisione a
+4   carrarese                                  carrara            dei marmi      9500    8th in lega pro prima divisione b
+5   catanzaro                                catanzaro      nicola ceravolo     14650  2nd in lega pro seconda divisione b
+6   frosinone                                frosinone               matusa      9680    9th in lega pro prima divisione b
+7      gubbio                                   gubbio      pietro barbetti      5300                      21st in serie b
+8      latina                                   latina   domenico francioni      6850   16th in lega pro prima divisione b
+9    nocerina                         nocera inferiore        san francesco      7632                      20th in serie b
+10   paganese                                   pagani       marcello torre      5900  6th in lega pro seconda divisione b
+11    perugia                                  perugia          renato curi     28000  1st in lega pro seconda divisione b
+12       pisa                                     pisa      arena garibaldi     14869    7th in lega pro prima divisione a
+13      prato                                    prato        lungobisenzio      6750   14th in lega pro prima divisione b
+14   sorrento  sorrento (playing in cava de' tirreni )   simonetta lamberti      5200    4th in lega pro prima divisione a
+15  viareggio                                viareggio   torquato bresciani      7000   14th in lega pro prima divisione a

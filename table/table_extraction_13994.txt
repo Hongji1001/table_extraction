@@ -1,0 +1,11 @@
+                   team             coach             home ground       location  founded
+0  adelaide blue eagles    zoran karadzic   marden sports complex         marden     1958
+1         adelaide city       damian mori      adelaide city park         oakden     1946
+2       adelaide galaxy     brenton heirn         con makris park  novar gardens     1933
+3      adelaide raiders   michael barnett  croatian sports centre    gepps cross     1952
+4     campbelltown city    jason trimboli     newton sportsground   campbelltown     1963
+5         croydon kings      john kosmina         polonia reserve        croydon     1950
+6          modbury jets       earl pudler                jet park  modbury north     1964
+7            metrostars  david terminello      tk shutter reserve        klemzig     1994
+8    para hills knights      kenneth tosh            the paddocks     para hills     1964
+9      western strikers   charlie villani        carnegie reserve     royal park     1998

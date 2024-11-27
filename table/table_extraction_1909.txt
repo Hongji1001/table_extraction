@@ -1,0 +1,14 @@
+            contestant                background original team  age                    hometown       result
+0        ryan mayberry          internet dreamer    team power   24    lancaster , pennsylvania       winner
+1           larry wade      financial consultant    team money   26             tampa , florida  runner - up
+2   maurice cornbreadd      aspiring music mogul    team money   26             houston , texas    3rd place
+3         mehgan james            business major    team power   18             houston , texas    4th place
+4     derrick hargrove             civil servant    team power   18        plant city , florida    5th place
+5      nikki shallwani           advertising rep    team money   26           aurora , illinois    6th place
+6       lawrence musso  bartender / entrepreneur    team power   23         brooklyn , new york    7th place
+7        jennifer jenn       merchandising major    team money   18      san diego , california    8th place
+8       dajuan watkins      independent promoter    team power   22              gary , indiana    9th place
+9        rebecca clark           yoga instructor    team power   21   santa monica , california   10th place
+10     precious bogard      small business owner    team money   20      lancaster , california   11th place
+11      nima blue eyes           advertising rep    team money   21  thousand oaks , california   12th place
+12   nathan strickland        marketing director    team power   20           calhoun , georgia   13th place

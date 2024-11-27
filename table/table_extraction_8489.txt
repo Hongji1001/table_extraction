@@ -1,0 +1,20 @@
+                     term              executive         first minister                 deputy                                       parties
+0                    term              executive         first minister                 deputy                                       parties
+1             1998 - 2002                  first          david trimble          seamus mallon               ulster unionist party (4 seats)
+2             1998 - 2002                  first          david trimble          seamus mallon  social democratic and labour party (4 seats)
+3             1998 - 2002                  first          david trimble            mark durkan           democratic unionist party (2 seats)
+4             1998 - 2002                  first          david trimble            mark durkan                           sinn féin (2 seats)
+5   2nd assembly ( mlas )  2nd assembly ( mlas )  2nd assembly ( mlas )  2nd assembly ( mlas )                         2nd assembly ( mlas )
+6             2003 - 2007              suspended                 vacant                 vacant                                          none
+7   3rd assembly ( mlas )  3rd assembly ( mlas )  3rd assembly ( mlas )  3rd assembly ( mlas )                         3rd assembly ( mlas )
+8             2007 - 2011                 second            ian paisley      martin mcguinness           democratic unionist party (5 seats)
+9             2007 - 2011                 second            ian paisley      martin mcguinness                           sinn féin (4 seats)
+10            2007 - 2011                 second         peter robinson      martin mcguinness               ulster unionist party (2 seats)
+11            2007 - 2011                 second         peter robinson      martin mcguinness   social democratic and labour party (1 seat)
+12            2007 - 2011                 second         peter robinson      martin mcguinness   alliance party of northern ireland (1 seat)
+13  4th assembly ( mlas )  4th assembly ( mlas )  4th assembly ( mlas )  4th assembly ( mlas )                         4th assembly ( mlas )
+14                 2011 -                  third         peter robinson      martin mcguinness           democratic unionist party (5 seats)
+15                 2011 -                  third         peter robinson      martin mcguinness                           sinn féin (4 seats)
+16                 2011 -                  third         peter robinson      martin mcguinness                ulster unionist party (1 seat)
+17                 2011 -                  third         peter robinson      martin mcguinness   social democratic and labour party (1 seat)
+18                 2011 -                  third         peter robinson      martin mcguinness  alliance party of northern ireland (2 seats)

@@ -1,0 +1,17 @@
+    year                     competition                       venue position               notes
+0   2000       european race walking cup  eisenhüttenstadt , germany     42nd               20 km
+1   2001       european race walking cup          dudince , slovakia     25th               20 km
+2   2001             world championships           edmonton , canada      dsq               20 km
+3   2002          european championships            munich , germany     15th               20 km
+4   2004                   olympic games             athens , greece     25th               20 km
+5   2005             world championships          helsinki , finland     27th               20 km
+6   2006          european championships         gothenburg , sweden     12th               20 km
+7   2006          world race walking cup           la coruña , spain     13th               20 km
+8   2007             world championships               osaka , japan      7th               20 km
+9   2008          world race walking cup         cheboksary , russia     19th               20 km
+10  2009       european race walking cup               metz , france      dsq               20 km
+11  2009             world championships            berlin , germany     11th               20 km
+12  2010  ibero - american championships        san fernando , spain      3rd               10 km
+13  2010          european championships           barcelona , spain      9th               20 km
+14  2011             world championships         daegu , south korea     10th  20 kilometres walk
+15  2012                   olympic games      london , great britain     15th               20 km

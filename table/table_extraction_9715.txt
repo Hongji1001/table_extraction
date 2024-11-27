@@ -1,0 +1,9 @@
+      score         opposition                 venue                   city  year
+0  423 runs           somerset               aigurth              liverpool  1911
+1  385 runs           somerset              aigburth              liverpool  1908
+2  372 runs     worcestershire             amblecote            stourbridge  1911
+3  370 runs  oxford university  the university parks                 oxford  1985
+4  361 runs          middlesex          old trafford             manchester  1994
+5  350 runs             durham      riverside ground  chester - le - street  1998
+6  345 runs             durham      riverside ground  chester - le - street  1996
+7  336 runs           somerset          stanley park              blackpool  2002

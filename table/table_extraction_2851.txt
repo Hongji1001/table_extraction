@@ -1,0 +1,15 @@
+                 name    nationality position  appearances  starts  minutes  goals  assists
+0       yael averbuch  united states       mf            3       3      270      0        2
+1        jenni branam  united states       gk            3       3      270      0        0
+2      jen buczkowski  united states       mf            3       3      270      0        0
+3      keeley dowling  united states       df            3       3      270      1        0
+4          francielle         brazil       mf            3       1      137      1        0
+5         kerri hanks  united states       fw            3       2      122      0        0
+6         natasha kai  united states       fw            3       1      148      1        1
+7     noelle keselica  united states       fw            1       0        7      0        0
+8   collette mccallum      australia       mf            3       2      152      0        0
+9   heather o 'reilly  united states       fw            3       3      236      1        0
+10       kelly parker         canada       mf            2       0       46      0        0
+11   christie rampone  united states       df            3       3      270      0        0
+12             rosana         brazil       mf            3       3      251      0        0
+13      meghan schnur  united states       mf            3       3      270      0        0

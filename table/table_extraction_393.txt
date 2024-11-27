@@ -1,0 +1,14 @@
+    departure            going to                             calling at  arrival operator
+0        3.54   peterborough east                      peterborough east     4.05     lnwr
+1        8.29  peterborough north  castor , overton , peterborough north     8.48      gnr
+2        8.40   peterborough east   castor , overton , peterborough east     9.04     lnwr
+3       10.19   peterborough east             castor , peterborough east    10.37     lnwr
+4       10.50   peterborough east            overton , peterborough east    11.05     lnwr
+5       11.47  peterborough north  castor , overton , peterborough north    12.06      gnr
+6       12.28   peterborough east                      peterborough east    12.40     lnwr
+7       13.52   peterborough east   castor , overton , peterborough east    14.12     lnwr
+8       14.49   peterborough east            overton , peterborough east    15.05     lnwr
+9       16.16   peterborough east   castor , overton , peterborough east    16.33     lnwr
+10      17.30  peterborough north            castor , peterborough north    17.46      gnr
+11      19.37   peterborough east   castor , overton , peterborough east    19.58     lnwr
+12      22.01   peterborough east                      peterborough east    22.15     lnwr

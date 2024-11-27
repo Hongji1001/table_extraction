@@ -1,0 +1,18 @@
+              player    pos    nationality              previous team  years of nba experience career with the franchise
+0      dennis awtrey      c  united states              chicago bulls                        4                         -
+1        jim barnett  g / f  united states      golden state warriors                        8               1974 - 1975
+2       walt bellamy      c  united states              atlanta hawks                       13                      1974
+3       john block +  f / c  united states  kansas city - omaha kings                        8                      1974
+4      barry clemens      f  united states        cleveland cavaliers                        9                         -
+5        e c coleman      f  united states            houston rockets                        1               1974 - 1977
+6        lamar green  f / c  united states               phoenix suns                        5                      1974
+7     nate hawthorne      g  united states         los angeles lakers                        1                         -
+8      ollie johnson      f  united states     portland trail blazers                        2               1974 - 1975
+9     bob kauffman +  f / c  united states             buffalo braves                        6                         -
+10      toby kimball  f / c  united states         philadelphia 76ers                        8                      1974
+11    steve kuberski  f / c  united states             boston celtics                        5                         -
+12         stu lantz      g  united states            detroit pistons                        6                      1974
+13     dean meminger      g  united states            new york knicks                        3                         -
+14      louie nelson      g  united states         washington bullets                        1               1974 - 1976
+15      curtis perry      f  united states            milwaukee bucks                        4                         -
+16  isaac stallworth  g / f  united states        seattle supersonics                        2               1974 - 1977

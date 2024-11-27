@@ -1,0 +1,20 @@
+    rank            county                  name      type elevation
+0      1           oppland          galdhøpiggen  mountain         -
+1      2  sogn og fjordane  store skagastølstind  mountain         -
+2      3           hedmark           rondslottet  mountain         -
+3      4   møre og romsdal              puttegga  mountain         -
+4      5   sør - trøndelag          storskrymten  mountain         -
+5      6          buskerud       folarskardnuten  mountain         -
+6      7          nordland            oksskolten  mountain         -
+7      8          telemark          gaustatoppen  mountain         -
+8      9         hordaland      hardangerjøkulen   glacier         -
+9     10             troms          jiehkkevárri  mountain         -
+10    11          rogaland          vassdalseggi  mountain         -
+11    12      aust - agder         sæbyggjenuten  mountain         -
+12    13  nord - trøndelag        jetnamsklumpen  mountain         -
+13    14      vest - agder         urddalsknuten  mountain         -
+14    15          finnmark       øksfjordjøkelen   glacier         -
+15    16          akershus        fjellsjøkampen  mountain         -
+16    17          vestfold        skibergfjellet  mountain         -
+17    18              oslo          kjerkeberget      hill         -
+18    19           østfold          slavasshøgda      hill         -

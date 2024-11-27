@@ -1,0 +1,9 @@
+    ntfa div 1  wins  byes  losses  draws  against
+0  bridgenorth    15     0       3      0     1247
+1    rocherlea    13     0       5      0     1661
+2    bracknell    12     0       5      1     1589
+3  george town     9     0       8      1     1431
+4   scottsdale     8     0      10      0     1607
+5    deloraine     6     0      10      2     1639
+6     longford     5     0      12      1     1607
+7     hillwood     1     0      16      1     2071

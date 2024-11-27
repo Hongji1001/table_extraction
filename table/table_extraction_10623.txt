@@ -1,0 +1,12 @@
+                   name faith     type  dcsf number  ofsted number
+0             belswains     -  primary         2466         117365
+1          chambersbury     -  primary         2210         117214
+2       hobbs hill wood     -  primary         2469         117368
+3      leverstock green    ce  primary         3054         117416
+4             lime walk     -  primary         2422         117333
+5            nash mills    ce  primary         3302         117418
+6              reddings     -  primary         2251         117234
+7   st albert the great    rc  primary         3391         117471
+8                 tudor     -  primary         2045         117109
+9            two waters     -  primary         2044         117108
+10            woodfield     -  special         7025         117682

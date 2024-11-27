@@ -1,0 +1,20 @@
+                 team                  chairman             head coach             captain kitmaker                             shirt sponsor
+0     athletic bilbao              josu urrutia         marcelo bielsa     carlos gurpegui    umbro                                  petronor
+1     atlético madrid            enrique cerezo          diego simeone       antonio lópez     nike       rixos hotels , huawei , and kyocera
+2           barcelona             sandro rosell        josep guardiola        carles puyol     nike               qatar foundation and unicef
+3               betis            miguel guillén               pepe mel              iriney      rbb                                     cirsa
+4            espanyol              ramon condal    mauricio pochettino    cristian álvarez  li ning                                    cancún
+5              getafe              ángel torres      luis garcía plaza     javier casquero     joma                 burger king and confremar
+6             granada               quique pina            abel resino       manuel lucena    legea                              caja granada
+7             levante             quico catalán  juan ignacio martínez  sergio ballesteros   luanvi                      comunitat valenciana
+8              málaga  sheikh abdullah al thani      manuel pellegrini         jesús gámez     nike                                    unesco
+9            mallorca             jaume cladera       joaquín caparrós               nunes   macron                        bet - at - homecom
+10            osasuna                patxi izco   josé luis mendilibar     francisco puñal   astore                                       can
+11   racing santander          francisco pernía         álvaro cervera       pedro munitis     slam                                  palacios
+12     rayo vallecano               raúl martín    josé ramón sandoval              míchel    erreà                            los vengadores
+13        real madrid          florentino pérez          josé mourinho       iker casillas   adidas                                      bwin
+14      real sociedad           jokin aperribay     philippe montanier      mikel aranburu     nike                 gipuzkoa euskararekin bat
+15            sevilla       josé maría del nido        míchel gonzález        andrés palop  li ning                               interwetten
+16  sporting de gijón      manuel vega - arango        javier clemente        david barral    kappa                          gijón / asturias
+17           valencia           manuel llorente             unai emery       david albelda     joma  jinko solar , herbalife and msc cruceros
+18         villarreal             fernando roig    miguel ángel lotina        marcos senna     xtep                      comunitat valenciana

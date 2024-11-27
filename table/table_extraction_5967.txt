@@ -1,0 +1,23 @@
+                     driver         constructor  laps time / retired  grid
+0        michael schumacher             ferrari    55    1:47:34.801     1
+1        rubens barrichello             ferrari    55       + 23.660     2
+2           david coulthard  mclaren - mercedes    55       + 28.555     8
+3   heinz - harald frentzen      jordan - honda    55       + 46.543     9
+4           ralf schumacher      williams - bmw    55       + 48.233     3
+5             mika häkkinen  mclaren - mercedes    55       + 48.606     4
+6            jos verstappen   arrows - asiatech    55     + 1:21.560    18
+7              jarno trulli      jordan - honda    54        + 1 lap     5
+8                jean alesi        prost - acer    54        + 1 lap    13
+9             luciano burti   jaguar - cosworth    54        + 1 lap    15
+10            jenson button  benetton - renault    53       + 2 laps    17
+11         gastón mazzacane        prost - acer    53       + 2 laps    19
+12          fernando alonso  minardi - european    52       + 3 laps    21
+13            tarso marques  minardi - european    51       + 4 laps    20
+14     giancarlo fisichella  benetton - renault    31  fuel pressure    16
+15       jacques villeneuve         bar - honda     3       spun off     7
+16            nick heidfeld   sauber - petronas     3       spun off    11
+17         enrique bernoldi   arrows - asiatech     3       spun off    22
+18       juan pablo montoya      williams - bmw     3       spun off     6
+19             eddie irvine   jaguar - cosworth     3     water leak    12
+20            olivier panis         bar - honda     1       oil leak    10
+21           kimi räikkönen   sauber - petronas     0     driveshaft    14

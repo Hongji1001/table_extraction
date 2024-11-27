@@ -1,0 +1,8 @@
+  opposing teams  against            date                           venue        status
+0        ireland        0  20 / 01 / 1990             twickenham , london  five nations
+1         france        7  03 / 02 / 1990        parc des princes , paris  five nations
+2          wales        6  17 / 02 / 1990             twickenham , london  five nations
+3       scotland       13  17 / 03 / 1990         murrayfield , edinburgh  five nations
+4      argentina       12  28 / 07 / 1990  vélez sársfield , buenos aires    first test
+5      argentina       15  04 / 08 / 1990  vélez sársfield , buenos aires   second test
+6      argentina        0  03 / 11 / 1990             twickenham , london    test match

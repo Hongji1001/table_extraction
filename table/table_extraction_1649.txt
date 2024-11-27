@@ -1,0 +1,17 @@
+    series  season                                title     directed by                                  written by    original air date  us viewers (millions)
+0       71       1                         now you know      larry shaw                                 marc cherry  september 30 , 2007                  19.32
+1       72       2             smiles of a summer night  david grossman                      bob daily & matt berry     october 7 , 2007                  17.82
+2       73       3                             the game  bethany rooney                   joey murphy & john pardee    october 14 , 2007                  18.89
+3       74       4   if there 's anything i can't stand      larry shaw  alexandra cunningham & lori kirkland baker    october 21 , 2007                  18.21
+4       75       5                       art isn't easy  david grossman                                jason ganzel    october 28 , 2007                  18.28
+5       76       6         now i know , don't be scared      larry shaw           susan nirah jaffee & dahvi waller    november 4 , 2007                  18.58
+6       77       7  you can't judge a book by its cover    david warren       chuck ranberg & anne flett - giordano   november 11 , 2007                  18.63
+7       78       8                         distant past      jay torres                                  joe keenan   november 25 , 2007                  18.64
+8       79       9                  something 's coming  david grossman                   joey murphy & john pardee    december 2 , 2007                  20.65
+9       80      10                  welcome to kanagawa      larry shaw            jamie gorenberg & jordon nardino     january 6 , 2008                  19.78
+10      81      11                               sunday  david grossman  alexandra cunningham & lori kirkland baker      april 13 , 2008                  16.37
+11      82      12                     in buddy 's eyes      larry shaw                             jeff greenstein      april 20 , 2008                  15.75
+12      83      13                  hello , little girl  bethany rooney        susan nirah jaffee & jamie gorenberg      april 27 , 2008                  16.35
+13      84      14                        opening doors  david grossman               dahvi waller & jordon nardino         may 4 , 2008                  16.76
+14      85      15                          mother said    david warren       chuck ranberg & anne flett - giordano        may 11 , 2008                  15.43
+15      86      16                         the gun song  bethany rooney                      bob daily & matt berry        may 18 , 2008                  16.84

@@ -1,0 +1,25 @@
+                       station              extension         city / neighborhood      projected opening park and ride funded by st2 
+0           boeing access road           central link                     tukwila  deferred indefinitely            no             no
+1                 jackson park     north corridor hct                   shoreline                   2023           yes            yes
+2                    shoreline     north corridor hct                   shoreline                   2023           yes            yes
+3            mountlake terrace     north corridor hct           mountlake terrace                   2023           yes            yes
+4                     lynnwood     north corridor hct                    lynnwood                   2023           yes            yes
+5                    alderwood  future north corridor   alderwood mall , lynnwood                   2023            no             no
+6              164th / ash way  future north corridor                    lynnwood                   2023           yes             no
+7              everett station  future north corridor                     everett                unknown           yes             no
+8   highline community college             south link                  des moines                   2020           yes            yes
+9          redondo / star lake             south link                 federal way                   2023           yes            yes
+10  federal way transit center             south link                 federal way                unknown           yes             no
+11           south federal way             south link                 federal way                unknown           yes             no
+12       port of tacoma / fife             south link                        fife                unknown           yes             no
+13                     rainier              east link  central district , seattle                   2020            no            yes
+14               mercer island              east link               mercer island                   2020           yes            yes
+15              south bellevue              east link                    bellevue                   2020           yes            yes
+16                   east main              east link                    bellevue                   2020            no            yes
+17     bellevue transit center              east link           downtown bellevue                   2020            no            yes
+18                    hospital              east link                    bellevue                   2021            no            yes
+19                       120th              east link                    bellevue                   2021            no            yes
+20                       130th              east link                    bellevue                   2021           yes            yes
+21            overlake village              east link                    overlake                   2021           yes            yes
+22     overlake transit center              east link                    overlake                   2021           yes            yes
+23                  se redmond              east link                     redmond                unknown            no             no

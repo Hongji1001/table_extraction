@@ -1,0 +1,36 @@
+                   date                                      event         circuit                 driver         race
+0        26th june 1950  brdc international trophy qualifying heat     silverstone         raymond sommer          ret
+1        26th june 1950  brdc international trophy qualifying heat     silverstone           raymond mays    withdrawn
+2        26th june 1950            brdc international trophy final     silverstone         raymond sommer          dns
+3   30th september 1950                            goodwood trophy        goodwood            reg parnell            1
+4     29th october 1950                  gran premio de penya rhin       pedralbes            reg parnell          ret
+5     29th october 1950                  gran premio de penya rhin       pedralbes           peter walker          ret
+6         27th may 1951                           swiss grand prix      bremgarten            reg parnell  not present
+7         27th may 1951                           swiss grand prix      bremgarten                 b bira  not present
+8         1st july 1951                          french grand prix           reims                 b bira  not present
+9        14th july 1951                         british grand prix     silverstone            reg parnell            5
+10       14th july 1951                         british grand prix     silverstone           peter walker            7
+11  16th september 1951                         italian grand prix           monza            reg parnell          dns
+12  16th september 1951                         italian grand prix           monza         ken richardson           ex
+13  16th september 1951                         italian grand prix           monza             hans stuck          dns
+14    28th october 1951                         spanish grand prix       pedralbes            reg parnell  not present
+15    28th october 1951                         spanish grand prix       pedralbes        (not specified)  not present
+16  29th september 1951                            goodwood trophy        goodwood            reg parnell  not present
+17  29th september 1951                            goodwood trophy        goodwood        (not specified)  not present
+18       6th april 1952                  gran premio del valentino  valentino park     juan manuel fangio  not present
+19       6th april 1952                  gran premio del valentino  valentino park          stirling moss  not present
+20       6th april 1952                  gran premio del valentino  valentino park            ken wharton  not present
+21        1st june 1952                  grand prix de l'albigeois            albi     juan manuel fangio          ret
+22        1st june 1952                  grand prix de l'albigeois            albi  jose froilan gonzalez          ret
+23        7th june 1952                              ulster trophy         dundrod     juan manuel fangio          ret
+24        7th june 1952                              ulster trophy         dundrod          stirling moss          ret
+25      2nd august 1952                          daily mail trophy         boreham  jose froilan gonzalez          ret
+26      2nd august 1952                          daily mail trophy         boreham            ken wharton           16
+27       6th april 1953                              glover trophy        goodwood            reg parnell          ret
+28       6th april 1953                              glover trophy        goodwood            ken wharton            1
+29        31st may 1953  grand prix de l'albigeois qualifying heat            albi     juan manuel fangio            1
+30        31st may 1953  grand prix de l'albigeois qualifying heat            albi  jose froilan gonzalez            5
+31        31st may 1953  grand prix de l'albigeois qualifying heat            albi            ken wharton            2
+32        31st may 1953            grand prix de l'albigeois final            albi     juan manuel fangio          ret
+33        31st may 1953            grand prix de l'albigeois final            albi  jose froilan gonzalez            2
+34        31st may 1953            grand prix de l'albigeois final            albi            ken wharton          ret

@@ -1,0 +1,12 @@
+             character                                actor                   duration                             role appearances
+0         stupid brian                         kevin bishop                       2001               janey 's boyfriend           3
+1   hotel receptionist                          andy taylor  2001 , 2002 , 2004 , 2007               hotel receptionist           5
+2   mr alexander casey                       nickolas grace         2001 , 2008 , 2010                        neighbour           3
+3       richard harper        anthony head nathaniel parker                  2003 2009  ben 's cousin and abi 's father         1 1
+4                fiona                 rachel hyde - harvey                       2003            michael 's girlfriend           3
+5               hubert                          alex dawson         2003 , 2004 , 2006                michael 's friend           7
+6                vicar                         mike walling  2006 , 2007 , 2009 , 2011                   a parish vicar           6
+7         james garret                      robert bathurst         2006 , 2007 , 2009                    art collector           3
+8                 mark  theo fraser steele alastair southey                  2007 2011                  kenzo 's father         1 1
+9          scott marsh                         nathan brine                  2010 - 11             michael 's boyfriend           4
+10    craig willoughby                           ben uttley                  2010 - 11               janey 's boyfriend           3

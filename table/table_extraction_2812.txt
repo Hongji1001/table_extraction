@@ -1,0 +1,22 @@
+                      name    position       period  appearances  goals nationality square
+0            mamadou sakho    defender       2006 -          201      7             france
+1           daniel sanchez     forward  1981 - 1982           22      2             france
+2           liazid sandjak    defender  1986 - 1992           84      8            algeria
+3       younousse sankharé  midfielder  2007 - 2011           47      1             france
+4        jean - luc sassus    defender  1992 - 1994           76      4             france
+5            pascal schmit  midfielder  1972 - 1973           18      0             france
+6   jean - philippe séchet  midfielder  1994 - 1995           34      2             france
+7           patrice ségura     forward  1984 - 1985            4      1             france
+8             sergei semak  midfielder  2004 - 2006           31      1             russia
+9               oumar sène  midfielder  1985 - 1992          200     18            senegal
+10      stéphane sessègnon  midfielder  2008 - 2011          105     10              benin
+11            thiago silva    defender         2012           34      3             brazil
+12             amara simba     forward  1986 - 1993          109     22             france
+13            marco simone     forward  1997 - 1999           79     32              italy
+14        salvatore sirigu  goalkeeper       2011 -           84      0              italy
+15         mohamed sissoko  midfielder       2011 -           37      2               mali
+16            daniel solas    defender  1971 - 1972           27      0             france
+17        juan pablo sorín  midfielder  2003 - 2004           26      2          argentina
+18                   souza  midfielder         2008           17      0             brazil
+19      mordechai spiegler  midfielder  1973 - 1974           21     10             israel
+20            ivica šurjak     forward  1981 - 1982           40     12         yugoslavia

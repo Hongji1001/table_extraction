@@ -1,0 +1,9 @@
+   round                       opponent result  opp                  venue
+0      1         south sydney rabbitohs    win   22         aussie stadium
+1      2                melbourne storm   loss   16                    sfs
+2      3               canberra raiders    win   26                    sfs
+3      4               manly sea eagles   loss   30         brookvale oval
+4      5                cronulla sharks    win   24            toyota park
+5      6               brisbane broncos   loss   24                    sfs
+6      7  st george - illawarra dragons   loss   22         aussie stadium
+7      8       north queensland cowboys    win   18  dairy farmers stadium

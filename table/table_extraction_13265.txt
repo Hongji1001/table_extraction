@@ -1,0 +1,9 @@
+   round  pick  overall                 name position            college
+0      1    18       18             art monk       wr           syracuse
+1      2    27       55       mat mendenhall       de      brigham young
+2      6    17      155          farley bell       lb         cincinnati
+3      7    22      187         melvin jones        g            houston
+4      9    20      241  lawrence mccullough       wr           illinois
+5     10    19      268         lewis walker       rb               utah
+6     11    18      295         mike matocha       de  texas - arlington
+7     12    22      327       marcene emmett       db      north alabama

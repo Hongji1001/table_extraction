@@ -1,0 +1,13 @@
+                     name    nationality 4.30 4.45 4.55  result
+0       yelena isinbayeva         russia    -    -    -    5.05
+1     jennifer stuczynski  united states    -    -    o    4.80
+2      svetlana feofanova         russia    -    o    o    4.75
+3      yulia golubchikova         russia    -    o    o    4.75
+4            monika pyrek         poland    -    o    o    4.70
+5          carolin hingst        germany    o    o    o    4.65
+6       silke spiegelburg        germany    o   xo    o    4.65
+7   april steiner bennett  united states    o    o    o    4.55
+8          vanessa boslak         france    o    o   xo    4.55
+9           fabiana murer         brazil    -    o    -    4.45
+10          anna rogowska         poland    -    o  xxx    4.45
+11            gao shuying          china    o  xxo  xxx    4.45

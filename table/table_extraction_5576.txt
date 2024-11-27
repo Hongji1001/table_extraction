@@ -1,0 +1,12 @@
+               name                                    species                    overview             introduced feral     threat level
+0         cane toad                               bufo marinus     cane toads in australia                   1935    no          extreme
+1           red fox                              vulpes vulpes    feral foxes in australia                   1855    no          extreme
+2   european rabbit                      oryctolagus cuniculus        rabbits in australia                   1854    no             high
+3   dromedary camel                        camelus dromedarius      australian feral camel                   1841   yes   medium to high
+4     water buffalo                            bubalus bubalis               water buffalo  between 1824 and 1849   yes           medium
+5        feral goat                               capra hircus    feral goats in australia                   1840   yes             high
+6         feral cat                                felis catus           cats in australia                 c 1838   yes  high to extreme
+7            brumby                       equus ferus caballus                      brumby                   1788   yes   medium to high
+8      feral donkey                               equus asinus  feral donkeys in australia                   1866   yes   medium to high
+9         feral pig                                 sus scrofa                   feral pig                   1788   yes             high
+10       feral deer  dama dama , rusa timorensis and axis axis                  feral deer           19th century   yes   medium to high

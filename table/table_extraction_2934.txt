@@ -1,0 +1,12 @@
+                team           home city              home ground  in toppserien since  first appearance  seasons
+0    amazon grimstad            grimstad        jj ugland stadion                 2006              2006        8
+1     arna - bjørnar  ytre arna (bergen)         arna idrettspark                 2006              1997       16
+2          avaldsnes           avaldsnes  avaldsnes idrettssenter                 2013              2013        1
+3              klepp  kleppe (stavanger)            klepp stadion                 1987              1987       27
+4            kolbotn      kolbotn (oslo)                 sofiemyr                 1995              1995       19
+5        lsk kvinner   lillestrøm (oslo)             lsk - hallen                 1987              1987       27
+6            medkila             harstad          harstad stadion                 2013              2004        3
+7                røa                oslo                 røabanen                 2001              2001       13
+8          sandviken              bergen              stemmemyren                 2011              1987       21
+9             stabæk        bærum (oslo)         nadderud stadion                 2009              2009        5
+10  trondheims - ørn           trondheim            dnb nor arena                 1987              1987       27

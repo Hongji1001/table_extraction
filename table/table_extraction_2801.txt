@@ -1,0 +1,8 @@
+   pick                  cfl team                         player position             school
+0    39  saskatchewan roughriders                 jamie forsythe       ol    western ontario
+1    40     winnipeg blue bombers               matthew sheridan       ol           manitoba
+2    41          edmonton eskimos                   yves dossous       lb         kent state
+3    42         toronto argonauts  jean - vincent posy - audette       db              laval
+4    43        montreal alouettes                    andre clark       db  se missouri state
+5    44                  bc lions                   fabian rayne       rb    western ontario
+6    45        calgary stampeders                    brock balog       db            calgary

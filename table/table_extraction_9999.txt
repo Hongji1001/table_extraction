@@ -1,0 +1,23 @@
+    stage              winner general classification points classification mountains classification young rider classification team classification   combativity award
+0       1   fabian cancellara      fabian cancellara     fabian cancellara         alberto contador            roman kreuziger              astana            no award
+1       2      mark cavendish      fabian cancellara        mark cavendish          jussi veikkanen            roman kreuziger              astana        stef clement
+2       3      mark cavendish      fabian cancellara        mark cavendish          jussi veikkanen                tony martin              astana     samuel dumoulin
+3       4              astana      fabian cancellara        mark cavendish          jussi veikkanen                tony martin              astana            no award
+4       5     thomas voeckler      fabian cancellara        mark cavendish          jussi veikkanen                tony martin              astana    mikhail ignatiev
+5       6        thor hushovd      fabian cancellara        mark cavendish            stéphane augé                tony martin              astana        david millar
+6       7        brice feillu      rinaldo nocentini        mark cavendish             brice feillu                tony martin              astana   christophe riblon
+7       8   luis león sánchez      rinaldo nocentini          thor hushovd          christophe kern                tony martin  ag2r - la mondiale         sandy casar
+8       9    pierrick fédrigo      rinaldo nocentini          thor hushovd            egoi martínez                tony martin  ag2r - la mondiale   franco pellizotti
+9      10      mark cavendish      rinaldo nocentini          thor hushovd            egoi martínez                tony martin  ag2r - la mondiale      thierry hupond
+10     11      mark cavendish      rinaldo nocentini        mark cavendish            egoi martínez                tony martin  ag2r - la mondiale  johan van summeren
+11     12      nicki sørensen      rinaldo nocentini        mark cavendish            egoi martínez                tony martin      team saxo bank      nicki sørensen
+12     13   heinrich haussler      rinaldo nocentini          thor hushovd        franco pellizotti                tony martin      team saxo bank   heinrich haussler
+13     14       sergei ivanov      rinaldo nocentini          thor hushovd        franco pellizotti                tony martin  ag2r - la mondiale    martijn maaskant
+14     15    alberto contador       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana        simon špilak
+15     16         sandy casar       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana   franco pellizotti
+16     17       fränk schleck       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana        thor hushovd
+17     18    alberto contador       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana            no award
+18     19      mark cavendish       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana      leonardo duque
+19     20  juan manuel gárate       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana         tony martin
+20     21      mark cavendish       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana      fumiyuki beppu
+21  final               final       alberto contador          thor hushovd        franco pellizotti               andy schleck              astana   franco pellizotti

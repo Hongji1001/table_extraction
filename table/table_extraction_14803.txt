@@ -1,0 +1,7 @@
+   frequency    callsign             brand  city of license              type
+0        580        xehp   la mas prendida  ciudad victoria           norteño
+1        640       xetam       la poderosa      santa elena           norteño
+2        970   xebj - am         radio 970  ciudad victoria      contemporary
+3       1340  xerpv - am        la cotorra  ciudad victoria           norteño
+4       1380        xegw    planeta w 1380  ciudad victoria     christian pop
+5       1480       xevic  radio tamaulipas  ciudad victoria  state government

@@ -1,0 +1,9 @@
+           region                date                                             label    format        catalog
+0   united states  february 17 , 1995                                       cargo music        cd     crgd 86136
+1   united states  february 17 , 1995                                    grilled cheese        cd      grl - 001
+2   united states  february 17 , 1995                                    grilled cheese  cassette      grl - 001
+3   united states                1996                                    grilled cheese        lp      grl - 001
+4           japan                1996                                    toy 's factory        cd   tfck - 88798
+5  united kingdom                1998                                    geffen records        cd    486 136 - 2
+6          russia                2002                            universal music russia        cd    486 136 - 9
+7   united states                2010  geffen records / universal music special markets        lp  b0014942 - 01

@@ -1,0 +1,41 @@
+                 branding    callsign       ch            power kw station type      location (transmitter site)
+0            ptv 4 manila   dwgt - tv   tv - 4  50 kw (500 kw erp)  originating                     metro manila
+1            ptv 8 baguio   dwzm - tv   tv - 8                5 kw  originating                           baguio
+2             ptv 4 laoag   dwzv - tv   tv - 4                1 kw        relay                            laoag
+3           ptv 4 dagupan   dzdm - tv   tv - 4                5 kw  originating                          dagupan
+4            ptv 13 vigan   dzfb - tv  tv - 13                1 kw        relay                            vigan
+5           ptv 4 isabela   dzza - tv   tv - 4                1 kw        relay                 ilagan , isabela
+6         ptv 42 pampanga   dygs - tv   tv - 4                5 kw        relay          san fernando , pampanga
+7            ptv 13 baler   dzva - tv  tv - 13                1 kw        relay                   baler , aurora
+8          ptv 13 romblon   dyml - tv  tv - 13                1 kw    affiliate                          romblon
+9           ptv 4 palawan   dygs - tv   tv - 4                5 kw  originating                  puerto princesa
+10             ptv 8 naga   dwma - tv   tv - 8                1 kw  originating                             naga
+11              ptv 4 goa   dzga - tv   tv - 4              0.5 kw    affiliate              goa , camarines sur
+12          ptv 8 legazpi   dzpn - tv   tv - 8                1 kw        relay                          legazpi
+13        ptv 7 caramoran  d - 7 - zv   tv - 7             0.01 kw    affiliate          caramoran , catanduanes
+14       ptv 9 panganiban  d - 9 - zv   tv - 9             0.01 kw    affiliate         panganiban , catanduanes
+15       ptv 2 san miguel  d - 2 - zv   tv - 2             0.02 kw    affiliate         san miguel , catanduanes
+16         ptv 5 sorsogon   dwsn - tv   tv - 5                1 kw    affiliate                         sorsogon
+17         ptv 2 guimaras   dyyb - tv   tv - 2                5 kw        relay                jordan , guimaras
+18           ptv 2 iloilo   dydy - tv   tv - 2                5 kw  originating                           iloilo
+19          ptv 25 kalibo   dysl - tv  tv - 25                1 kw        relay                   kalibo , aklan
+20          ptv 2 bacolod   dytl - tv   tv - 2                5 kw  originating                          bacolod
+21            ptv 11 cebu   dypt - tv  tv - 11               10 kw  originating                             cebu
+22       ptv 10 dumaguete   dymy - tv  tv - 10               10 kw        relay                        dumaguete
+23         ptv 8 tacloban   dyco - tv   tv - 8                5 kw  originating                         tacloban
+24        ptv 12 calbayog   dywp - tv  tv - 12                1 kw        relay                         calbayog
+25         ptv 4 borongan   dyes - tv   tv - 4                5 kw        relay                         borongan
+26        ptv 7 zamboanga   dxvc - tv   tv - 7                5 kw  originating                        zamboanga
+27          ptv 7 dapitan  d - 7 - xd   tv - 7              0.5 kw   translator                          dapitan
+28        ptv 9 sindangan  d - 9 - sd   tv - 9              0.5 kw   translator  sindangan , zamboanga del norte
+29         ptv 11 sibugay   dxsi - tv  tv - 11                1 kw        relay         ipil , zamboanga sibugay
+30  ptv 27 cagayan de oro   dxnl - tv  tv - 27                5 kw  originating                   cagayan de oro
+31           ptv 11 davao   dxnp - tv  tv - 11               10 kw  originating                            davao
+32   ptv 5 general santos   dxwp - tv   tv - 5                1 kw  originating                   general santos
+33           ptv 9 butuan   dxbn - tv   tv - 9                5 kw  originating                           butuan
+34          ptv 10 bislig   dxcl - tv   tv - 3               10 kw        relay         bislig , surigao del sur
+35          ptv 32 tandag   dxnt - tv  tv - 32                1 kw        relay         tandag , surigao del sur
+36           ptv 8 agusan   dxsk - tv   tv - 8                1 kw  originating   san francisco , agusan del sur
+37           ptv 4 marawi   dxmi - tv   tv - 4                5 kw        relay                           marawi
+38         ptv 8 cotabato   dxaa - tv   tv - 8                5 kw        relay                         cotabato
+39        ptv 8 kidapawan   dxkn - tv   tv - 8                5 kw        relay                        kidapawan

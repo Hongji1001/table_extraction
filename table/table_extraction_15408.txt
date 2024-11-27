@@ -1,0 +1,7 @@
+   year               award                                      work                        category     result
+0  2009  teen choice awards  the secret life of the american teenager    choice summer tv star : male        won
+1  2009  teen choice awards  the secret life of the american teenager  choice tv breakout star : male  nominated
+2  2010  teen choice awards  the secret life of the american teenager         choice tv actor : drama  nominated
+3  2010  teen choice awards  the secret life of the american teenager    choice summer tv star : male  nominated
+4  2011  teen choice awards  the secret life of the american teenager         choice tv actor : drama  nominated
+5  2012  teen choice awards  the secret life of the american teenager    choice summer tv star : male  nominated

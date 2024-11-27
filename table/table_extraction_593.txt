@@ -1,0 +1,7 @@
+      district       incumbent       party  first elected        result                    candidates
+0  louisiana 1  bob livingston  republican           1977  re - elected  bob livingston (r) unopposed
+1  louisiana 2     lindy boggs  democratic           1973  re - elected     lindy boggs (d) unopposed
+2  louisiana 3      dave treen  republican           1972  re - elected      dave treen (r) unopposed
+3  louisiana 5   jerry huckaby  democratic           1976  re - elected   jerry huckaby (d) unopposed
+4  louisiana 6    henson moore  republican           1974  re - elected    henson moore (r) unopposed
+5  louisiana 7     john breaux  democratic           1972  re - elected     john breaux (d) unopposed

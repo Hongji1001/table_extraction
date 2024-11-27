@@ -1,0 +1,21 @@
+                     driver             constructor  laps time / retired  grid
+0                damon hill      williams - renault    58      1:32:50.4     2
+1        jacques villeneuve      williams - renault    58       + 38.020     1
+2              eddie irvine                 ferrari    58     + 1:02.571     3
+3            gerhard berger      benetton - renault    58     + 1:17.037     7
+4            mika hã¤kkinen      mclaren - mercedes    58     + 1:35.071     5
+5                 mika salo        tyrrell - yamaha    57        + 1 lap    10
+6             olivier panis  ligier - mugen - honda    57        + 1 lap    11
+7   heinz - harald frentzen           sauber - ford    57        + 1 lap     9
+8            ricardo rosset         footwork - hart    56       + 2 laps    18
+9               pedro diniz  ligier - mugen - honda    56       + 2 laps    20
+10            ukyo katayama        tyrrell - yamaha    55       + 3 laps    15
+11               pedro lamy          minardi - ford    42    safety belt    17
+12       michael schumacher                 ferrari    32         brakes     4
+13     giancarlo fisichella          minardi - ford    32         clutch    16
+14       rubens barrichello        jordan - peugeot    29         engine     8
+15          david coulthard      mclaren - mercedes    24       throttle    13
+16           jos verstappen         footwork - hart    15         engine    12
+17               jean alesi      benetton - renault     9      collision     6
+18           martin brundle        jordan - peugeot     1      collision    19
+19           johnny herbert           sauber - ford     0      collision    14

@@ -1,0 +1,12 @@
+              player            no    nationality          position         years for jazz      school / club team
+0        enes kanter             0         turkey            center         2011 - present                kentucky
+1         adam keefe            31  united states           forward            1994 - 2000                stanford
+2        rich kelley  53 (also 44)  united states  forward - center  1974 - 79 , 1982 - 85                stanford
+3    carl kilpatrick            51  united states            center              1979 - 80      louisiana - monroe
+4       toby kimball             7  united states           forward              1974 - 75             connecticut
+5       bernard king            22  united states           forward              1979 - 80               tennessee
+6         chris king            33  united states           forward              1998 - 99             wake forest
+7   andrei kirilenko            47         russia     combo forward              2001 - 11  cska moscow ( russia )
+8      brevin knight             2  united states             guard              2008 - 09                stanford
+9        bart kofoed            11  united states   guard - forward              1987 - 89        hastings college
+10       kyle korver            26  united states   guard - forward            2007 - 2010               creighton

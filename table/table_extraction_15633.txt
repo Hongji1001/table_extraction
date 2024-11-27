@@ -1,0 +1,15 @@
+    year us hot 100 us r&b us rap                                              album
+0   1999         36     13     10                         chopper city in the ghetto
+1   1999          -    106      -                         chopper city in the ghetto
+2   2000          -     86      -                                          checkmate
+3   2003          -     74      -                                      livin' legend
+4   2003          -      -      -                                      livin' legend
+5   2004          -    105      -                              life after cash money
+6   2005          -     65      -                   the heart of tha streetz , vol 1
+7   2006        113     52      -  the heart of tha streetz , vol 2 (i am what i am)
+8   2007          -      -      -                                        we got this
+9   2008          -      -      -                        life in the concrete jungle
+10  2008          -      -      -                            too hood 2 be hollywood
+11  2009          -      -      -                            too hood 2 be hollywood
+12  2009          -     70      -                            too hood 2 be hollywood
+13  2010          -      -      -                            too hood 2 be hollywood

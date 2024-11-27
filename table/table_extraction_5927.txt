@@ -1,0 +1,23 @@
+                     driver            constructor  laps time / retired  grid
+0        michael schumacher                ferrari    72    1:38:50.492     1
+1   heinz - harald frentzen     williams - renault    72       + 23.537     2
+2              eddie irvine                ferrari    72     + 1:14.801     5
+3        jacques villeneuve     williams - renault    72     + 1:21.784     4
+4                jean alesi     benetton - renault    72     + 1:22.735     8
+5           ralf schumacher       jordan - peugeot    72     + 1:29.871     3
+6           david coulthard     mclaren - mercedes    71      collision     9
+7            johnny herbert      sauber - petronas    71        + 1 lap    14
+8      giancarlo fisichella       jordan - peugeot    71        + 1 lap    11
+9              jarno trulli  prost - mugen - honda    70       + 2 laps     6
+10            ukyo katayama         minardi - hart    70       + 2 laps    21
+11               damon hill        arrows - yamaha    69       + 3 laps    17
+12                mika salo         tyrrell - ford    61     electrical    19
+13           alexander wurz     benetton - renault    60       spun off     7
+14              pedro diniz        arrows - yamaha    58       spun off    16
+15         norberto fontana      sauber - petronas    40       spun off    20
+16       rubens barrichello         stewart - ford    36         engine    13
+17            jan magnussen         stewart - ford    33         brakes    15
+18           mika hã¤kkinen     mclaren - mercedes    18         engine    10
+19           jos verstappen         tyrrell - ford    15       spun off    18
+20            shinji nakano  prost - mugen - honda     7       spun off    12
+21            tarso marques         minardi - hart     5         engine    22

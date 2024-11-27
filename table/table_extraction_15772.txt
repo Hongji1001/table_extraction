@@ -1,0 +1,6 @@
+              player        country  year won  total to par finish
+0       lorena ochoa         mexico      2007    277     11     t7
+1        karrie webb      australia      2002    278     10     t9
+2   annika sörenstam         sweden      2003    282      6    t24
+3     karen stupples        england      2004    282      6    t24
+4  sherri steinhauer  united states      2006    290    + 2    t64

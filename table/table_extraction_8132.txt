@@ -1,0 +1,14 @@
+    frequency callsign            brand city of license                   website      webcast
+0         530  wpmq285        txdot har          laredo                         -            -
+1         790     xefe      la mera ley    nuevo laredo                         -  listen live
+2         890     kvoz  radio cristiana   del mar hills  lanuevaradiocristianacom            -
+3         960      xek        la grande    nuevo laredo                    xekcom  listen live
+4        1000    xenlt    radio formula    nuevo laredo           radioformulacom            -
+5        1090     xewl        w - radio    nuevo laredo               wradiocommx  listen live
+6        1300     klar      radio poder          laredo               feypodercom  listen live
+7        1340     xebk           exa fm    nuevo laredo                exafmcommx            -
+8        1370    xegnk   radio mexicana    nuevo laredo                         -  listen live
+9        1410     xeas         ke buena    nuevo laredo                kebuenacom  listen live
+10       1490     klnt       espn radio          laredo                         -            -
+11       1550     xenu    la rancherita    nuevo laredo                         -  listen live
+12       1610  wpmq285        txdot har          laredo                         -            -

@@ -1,0 +1,6 @@
+   pos              driver       time  best time  points
+0    1  sergey mokshantcev  21:19.329  01:44.972      21
+1    2      maksim chernev  21:24.663  01:45.270      17
+2    3    david ramishvili  20:01.099  01:46.367      15
+3    4       denis komarov  20:18.966  01:48.077      13
+4    5  stanislav chemakin  20:39.171  01:46.323      11

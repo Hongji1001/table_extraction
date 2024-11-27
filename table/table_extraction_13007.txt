@@ -1,0 +1,11 @@
+                          elector nationality                                    order and title            elevated     elevator
+0               joão pedro julião  portuguese                      cardinal - bishop of frascati       june 3 , 1273    gregory x
+1  bertrand de saint - martin osb      french                        cardinal - bishop of sabina       june 3 , 1273    gregory x
+2                simone paltineri     n padua        cardinal - priest of ss silvestro e martino  december 17 , 1261     urban iv
+3              anchero pantaleone      french                    cardinal - priest of s prassede            may 1262     urban iv
+4               guillaume de bray      french                       cardinal - priest of s marco            may 1262     urban iv
+5              riccardo annibaldi       roman         cardinal - deacon of s angelo in pescheria                1238   gregory ix
+6         giovanni gaetano orsini       roman  cardinal - deacon of s nicola in carcere tulliano       may 28 , 1244  innocent iv
+7                 giacomo savelli       roman           cardinal - deacon of s maria in cosmedin  december 17 , 1261     urban iv
+8              goffredo da alatri      alatri          cardinal - deacon of s giorgio in velabro  december 17 , 1261     urban iv
+9             matteo orsini rosso       roman            cardinal - deacon of s maria in portico            may 1262     urban iv

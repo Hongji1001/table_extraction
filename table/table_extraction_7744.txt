@@ -1,0 +1,21 @@
+                                           name   years gender               area   authority  decile  roll
+0                                kapanui school   1 - 8   coed           waikanae       state       8   532
+1                                kapiti college  9 - 13   coed      raumati beach       state       8  1223
+2                                 kapiti school   1 - 8   coed        paraparaumu       state       5   242
+3                               kenakena school   1 - 8   coed  paraparaumu beach       state       8   555
+4                                 otaki college  7 - 13   coed              otaki       state       4   426
+5                                  otaki school   1 - 6   coed              otaki       state       3   196
+6                            paekakariki school   1 - 8   coed        paekakariki       state       7   174
+7                      paraparaumu beach school   1 - 8   coed  paraparaumu beach       state       9   629
+8                           paraparaumu college  9 - 13   coed        paraparaumu       state       8  1215
+9                            paraparaumu school   1 - 8   coed        paraparaumu       state       6   164
+10                         raumati beach school   1 - 8   coed      raumati beach       state       9   655
+11                         raumati south school   1 - 8   coed      raumati south       state       8   418
+12                         st patrick 's school   1 - 8   coed        paraparaumu  integrated       8   121
+13                       st peter chanel school   1 - 8   coed              otaki  integrated       3    17
+14                               te horo school   1 - 6   coed            te horo       state       9   206
+15  te kura - a - iwi o whakatupuranga rua mano  1 - 13   coed              otaki       state       3   158
+16                                 te ra school   1 - 8   coed      raumati south  integrated       9   167
+17                               tkkm o te rito  1 - 13   coed              otaki       state       3    57
+18                              waikanae school   1 - 8   coed           waikanae       state       8   451
+19                               waitohu school   1 - 6   coed              otaki       state       4   254

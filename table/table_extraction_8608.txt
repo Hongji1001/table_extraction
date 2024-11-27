@@ -1,0 +1,14 @@
+                  club  played  drawn  lost  try bp  losing bp
+0                 club  played  drawn  lost  try bp  losing bp
+1             uwic rfc      22      0     3      10          2
+2        llanharan rfc      22      0     5      13          3
+3        blackwood rfc      22      0     6       9          4
+4          bargoed rfc      22      0     6      10          2
+5        newbridge rfc      22      0     9       7          2
+6           rumney rfc      22      0    12       5          3
+7         bedlinog rfc      22      0    13       0          5
+8          merthyr rfc      22      1    14       5          5
+9   ystrad rhondda rfc      22      0    15       6          3
+10          beddau rfc      22      1    14       3          4
+11        tredegar rfc      22      0    15       4          4
+12      caerphilly rfc      22      0    19       1          5

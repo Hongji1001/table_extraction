@@ -1,0 +1,9 @@
+                    opposition         span  lost  tied  win %
+0                auckland aces  2011 - 2012     1     0   50.0
+1           chevrolet warriors  2011 - 2011     0     0  100.0
+2             delhi daredevils  2012 - 2012     1     0    0.0
+3              perth scorchers  2012 - 2012     0     0    0.0
+4  royal challengers bangalore  2011 - 2011     0     0  100.0
+5              somerset sabres  2011 - 2011     2     0    0.0
+6     south australia redbacks  2011 - 2011     1     0    0.0
+7                nashua titans  2012 - 2012     0     0  100.0

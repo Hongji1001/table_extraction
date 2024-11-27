@@ -1,0 +1,10 @@
+                   office         type         location  elected         term began         term ended
+0       state assemblyman  legislature       sacramento     1974  december 7 , 1974  december 2 , 1976
+1           state senator  legislature       sacramento     1976  december 2 , 1976  december 8 , 1980
+2           state senator  legislature       sacramento     1980  december 8 , 1980  december 3 , 1984
+3           state senator  legislature       sacramento     1984  december 3 , 1984  december 5 , 1988
+4           state senator  legislature       sacramento     1988  december 5 , 1988  december 3 , 1990
+5  insurance commissioner    executive       sacramento     1990   january 7 , 1991   january 2 , 1995
+6  insurance commissioner    executive       sacramento     2002   january 6 , 2003   january 8 , 2007
+7     lieutenant governor    executive       sacramento     2006   january 8 , 2007  november 5 , 2009
+8       us representative  legislative  washington , dc     2009  november 5 , 2009   january 3 , 2011

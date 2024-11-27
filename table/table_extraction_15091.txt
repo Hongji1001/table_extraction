@@ -1,0 +1,13 @@
+                                      name in english                                 name in malay  acronym foundation       location
+0                   alor setar professional institute               institut profesional alor setar        -          -     alor setar
+1          a n s technological institute , alor setar           institut teknologi a n s alor setar        -          -     alor setar
+2                  bandar darulaman community college               kolej komuniti bandar darulaman        -          -          jitra
+3   daya ilmu technological institute , sungai petani    institut teknologi daya ilmu sungai petani        -          -  sungai petani
+4                                    hasani institute                               institut hasani        -          -  sungai petani
+5               informatics institute , sungai petani          institut informatics , sungai petani        -          -  sungai petani
+6   international northern higher education institute  institut pengajian tinggi utara antarabangsa        -      petua     alor setar
+7                             kulim community college                          kolej komuniti kulim        -          -          kulim
+8                                   kulim polytechnic                              politeknik kulim      pku          -          kulim
+9     northern management and technological institute       institut pengurusan dan teknologi utara        -     iptura     alor setar
+10                   sultan abdul halim mu'adzam shah   politeknik sultan abdul halim mu'adzam shah  polimas       1984          jitra
+11                    sungai petani community college                  kolej komuniti sungai petani     2002      kkspe  sungai petani

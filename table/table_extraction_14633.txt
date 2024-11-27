@@ -1,0 +1,9 @@
+                    team       country              domestic tournament     position group
+0       rajasthan royals         india       2008 indian premier league       winner     b
+1    chennai super kings         india       2008 indian premier league  runner - up     a
+2                 titans  south africa    2007 - 08 standard bank pro20       winner     a
+3               dolphins  south africa    2007 - 08 standard bank pro20  runner - up     b
+4  victorian bushrangers     australia  2007 - 08 kfc twenty20 big bash       winner     a
+5       western warriors     australia  2007 - 08 kfc twenty20 big bash  runner - up     b
+6    middlesex crusaders       england                2008 twenty20 cup       winner     a
+7      sialkot stallions      pakistan    2008 - 09 rbs twenty - 20 cup       winner     b

@@ -1,0 +1,12 @@
+                   player        position                        school                   hometown              college
+0            su'a cravens  defensive back    vista murrieta high school      murrieta , california  southern california
+1         jabrill peppers  defensive back  paramus catholic high school       paramus , new jersey             michigan
+2         marlon humphrey  defensive back            hoover high school           hoover , alabama            undecided
+3   vernon hargreaves iii  defensive back           wharton high school            tampa , florida              florida
+4           reuben foster      linebacker            auburn high school           auburn , alabama              alabama
+5         peter kalambayi      linebacker            butler high school  matthews , north carolina             stanford
+6            jaylon smith      linebacker      bishop luers high school       fort wayne , indiana           notre dame
+7            andrew brown  defensive line       oscar smith high school      chesapeake , virginia             virginia
+8        montravius adams  defensive line      dooly county high school           vienna , georgia               auburn
+9        robert nkemdiche  defensive line           grayson high school       loganville , georgia          mississippi
+10              dee liner  defensive line     muscle shoals high school    muscle shoals , alabama              alabama

@@ -1,0 +1,17 @@
+             school        location       mascot         county  year joined  year left                          conference joined
+0             brook           brook         aces      56 newton         1955       1966     none (consolidated into south newton )
+1         brookston       brookston      bombers       91 white         1955       1965         none (consolidated into frontier )
+2            camden          camden   red devils     08 carroll         1955       1965             none (consolidated into delphi
+3            fowler          fowler     bulldogs      04 benton         1955       1968   none (consolidated into benton central )
+4          kentland        kentland  blue devils      56 newton         1955       1966     none (consolidated into south newton )
+5             monon           monon  railroaders       91 white         1955       1963      none (consolidated into north white )
+6      royal center    royal center     bulldogs        09 cass         1955       1963          none (consolidated into pioneer )
+7           wolcott         wolcott     wildcats       91 white         1955       1971     none (consolidated into tri - county )
+8      francesville    francesville       zebras     66 pulaski         1957       1965     none (consolidated into west central )
+9          klondike  west lafayette      nuggets  79 tippecanoe         1961       1970         none (consolidated into harrison )
+10          demotte         demotte      indians      37 jasper         1967       1970  none (consolidated into kankakee valley )
+11     north newton         morocco     spartans      56 newton         1967       1975                          northwest hoosier
+12     west central     medaryville      trojans     66 pulaski         1967       1975                          northwest hoosier
+13  kankakee valley      wheatfield      kougars      37 jasper         1970       1972                          northwest hoosier
+14          carroll           flora      cougars     08 carroll         1977       1992                          hoosier heartland
+15        rossville       rossville      hornets     12 clinton         1977       1989                          hoosier heartland

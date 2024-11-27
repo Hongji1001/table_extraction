@@ -1,0 +1,19 @@
+    year kit supplier              sponsor    shirt printing                               notes
+0   1996       rapido  samsung electronics         bluewings                           team name
+1   1997       rapido  samsung electronics            名品 + 1                    television brand
+2   1998       rapido  samsung electronics            名品 + 1                    television brand
+3   1999       rapido  samsung electronics           anycall                  mobile phone brand
+4   2000       rapido  samsung electronics           anycall                  mobile phone brand
+5   2001       rapido  samsung electronics     sensq bluewin  laptop brand air conditioner brand
+6   2002       adidas  samsung electronics            hauzen                   electronics brand
+7   2003       adidas  samsung electronics            hauzen                   electronics brand
+8   2004       adidas  samsung electronics              pavv                    television brand
+9   2005       adidas  samsung electronics              pavv                    television brand
+10  2006       adidas  samsung electronics              pavv                    television brand
+11  2007       adidas  samsung electronics              pavv                    television brand
+12  2008       adidas  samsung electronics              pavv                    television brand
+13  2009       adidas  samsung electronics      samsung pavv                    television brand
+14  2010       adidas  samsung electronics      samsung pavv                    television brand
+15  2011       adidas  samsung electronics  samsung smart tv                    television brand
+16  2012       adidas  samsung electronics  samsung smart tv                    television brand
+17  2013       adidas  samsung electronics  samsung smart tv                    television brand

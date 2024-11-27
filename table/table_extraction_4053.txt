@@ -1,0 +1,9 @@
+   draw            artist              song  place  points
+0     1      vicky gordon      groovy chick      6      23
+1     2        craig lees     clear the air      4      35
+2     3           lizzi m   devil in a hood      7      17
+3     4   sarah robertson        in my life      3      36
+4     5       joni fuller  how does it feel      1      43
+5     6      jack garratt          the girl      8      13
+6     7  jessica stretton         about you      5      26
+7     8         ben smith            lovely      2      41

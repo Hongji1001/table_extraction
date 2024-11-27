@@ -1,0 +1,9 @@
+   year                       entrant        chassis  engine  pts
+0  1963            reg parnell racing       lotus 24  climax    0
+1  1963            reg parnell racing       lola mk4  climax    0
+2  1964            reg parnell racing       lotus 25     brm    1
+3  1965            reg parnell racing       lotus 25     brm    0
+4  1971                  team surtees    surtees ts9    ford    3
+5  1972  brooke bond oxo team surtees   surtees ts9b    ford   13
+6  1973  brooke bond oxo team surtees  surtees ts14a    ford    0
+7  1974          yardley team mclaren    mclaren m23    ford   12

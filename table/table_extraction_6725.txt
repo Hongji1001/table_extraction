@@ -1,0 +1,15 @@
+    year                 driver      constructor location  report
+0   1940        giuseppe farina       alfa romeo  mellaha  report
+1   1939           hermann lang  mercedes - benz  mellaha  report
+2   1938           hermann lang  mercedes - benz  mellaha  report
+3   1937           hermann lang  mercedes - benz  mellaha  report
+4   1936          achille varzi       auto union  mellaha  report
+5   1935      rudolf caracciola  mercedes - benz  mellaha  report
+6   1934          achille varzi       alfa romeo  mellaha  report
+7   1933          achille varzi          bugatti  mellaha  report
+8   1930    baconin borzacchini         maserati  tripoli  report
+9   1929  gastone brilli - peri           talbot  tripoli  report
+10  1928         tazio nuvolari          bugatti  tripoli  report
+11  1927       emilio materassi          bugatti  tripoli  report
+12  1926    franã§ois eysermann          bugatti  tripoli  report
+13  1925      renato balestrero               om  tripoli  report

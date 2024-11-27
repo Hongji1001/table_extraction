@@ -1,0 +1,35 @@
+            nation  gold  silver  bronze  total
+0            china    12       8       6     26
+1           russia     4       1       3      8
+2      south korea     2       4       3      9
+3          ukraine     2       4       3      9
+4           norway     2       1       3      6
+5           turkey     2       0       0      2
+6    great britain     1       2       0      3
+7         bulgaria     1       1       0      2
+8           france     1       1       0      2
+9           latvia     1       0       2      3
+10             usa     1       0       1      2
+11     north korea     1       0       0      1
+12          sweden     1       0       0      1
+13         denmark     1       0       0      1
+14         ecuador     1       0       0      1
+15         hungary     1       0       0      1
+16           italy     1       0       0      1
+17         vietnam     0       2       3      5
+18          poland     0       2       1      3
+19         moldova     0       2       1      3
+20     netherlands     0       1       0      1
+21         romania     0       1       0      1
+22  chinese taipei     0       1       0      1
+23       australia     0       1       0      1
+24        barbados     0       1       0      1
+25           india     0       1       0      1
+26          israel     0       1       0      1
+27       hong kong     0       0       2      2
+28            iran     0       0       2      2
+29           japan     0       0       2      2
+30        malaysia     0       0       1      1
+31       singapore     0       0       1      1
+32          greece     0       0       1      1
+33           total    35      35      35    105

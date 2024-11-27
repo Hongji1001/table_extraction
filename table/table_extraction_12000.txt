@@ -1,0 +1,19 @@
+    district         incumbent    2008 status          democratic        republican
+0          1      steve chabot  re - election      steve driehaus      steve chabot
+1          2      jean schmidt  re - election     victoria wulsin      jean schmidt
+2          3       mike turner  re - election      jane mitakides       mike turner
+3          4        jim jordan  re - election        mike carroll        jim jordan
+4          5         bob latta  re - election         george mays         bob latta
+5          6    charlie wilson  re - election      charlie wilson    richard stobbs
+6          7      david hobson           open     sharen neuhardt     steve austria
+7          8      john boehner  re - election  nicholas von stein      john boehner
+8          9      marcy kaptur  re - election        marcy kaptur   bradley leavitt
+9         10   dennis kucinich  re - election     dennis kucinich        jim trakas
+10        11    marcia l fudge  re - election      marcia l fudge    thomas pekarek
+11        12        pat tiberi  re - election      david robinson        pat tiberi
+12        13      betty sutton  re - election        betty sutton      david potter
+13        14  steve latourette  re - election        bill o'neill  steve latourette
+14        15     deborah pryce           open      mary jo kilroy     steve stivers
+15        16      ralph regula           open       john boccieri     kirk schuring
+16        17          tim ryan  re - election            tim ryan    duane grassell
+17        18        zack space  re - election          zack space       fred dailey

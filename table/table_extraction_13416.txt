@@ -1,0 +1,44 @@
+    rank                                          title                        studio                                  director (s)      gross
+0      1  star wars episode v : the empire strikes back  lucasfilm / 20th century fox                                irvin kershner  290475067
+1      2                                         9 to 5              20th century fox                                 colin higgins  103290500
+2      3                                     stir crazy                      columbia                                sidney poitier  101300000
+3      4                                      airplane!                     paramount  david zucker , jim abrahams and jerry zucker   83453539
+4      5                          any which way you can                   warner bros                                buddy van horn   70687344
+5      6                               private benjamin                   warner bros                                  howard zieff   69847348
+6      7                         coal miner 's daughter                     universal                                 michael apted   67182787
+7      8                       smokey and the bandit ii            rastar / universal                                   hal needham   66132626
+8      9                                the blue lagoon                      columbia                                randal kleiser   58853106
+9     10                             the blues brothers                     universal                                   john landis   57229890
+10    11                                ordinary people                     paramount                                robert redford   54766923
+11    12                                         popeye                     paramount                                 robert altman   49823037
+12    13                                   urban cowboy                     paramount                                 james bridges   46918287
+13    14                                    the shining                   warner bros                               stanley kubrick   44017374
+14    15                           seems like old times             rastar / columbia                                  jay sandrich   43995918
+15    16                   cheech & chong 's next movie                     universal                                   tommy chong   41675194
+16    17                                     caddyshack           orion / warner bros                                  harold ramis   39846344
+17    18                                friday the 13th                     paramount                             sean s cunningham   39754601
+18    19                                       brubaker              20th century fox                              stuart rosenberg   37121708
+19    20                                little darlings                     paramount                              ronald f maxwell   34326249
+20    21                                dressed to kill                      filmways                                brian de palma   31899000
+21    22                                the jazz singer  associated film distribution          richard fleischer and sidney j furie   27118000
+22    23                                   flash gordon                     universal                                   mike hodges   27107960
+23    24                               the elephant man                     paramount                                   david lynch   26010864
+24    25                                   bronco billy                   warner bros                                clint eastwood   24265659
+25    26                                    raging bull                united artists                               martin scorsese   23334953
+26    27                                         xanadu                     universal                              robert greenwald   22762571
+27    28                                american gigolo                     paramount                                 paul schrader   22743674
+28    29                                   my bodyguard              20th century fox                                     tony bill   22482952
+29    30                                        the fog                  avco embassy                                john carpenter   21378361
+30    31                                           fame          united artists / mgm                                   alan parker   21202829
+31    32                                           tess                      columbia                                roman polanski   20093330
+32    33                                 altered states                   warner bros                                   ken russell   19853892
+33    34                                       cruising      lorimar / united artists                              william friedkin   19784223
+34    35                                    the octagon               american cinema                                   eric karson   18971000
+35    36                               honeysuckle rose                   warner bros                              jerry schatzberg   17815212
+36    37                            herbie goes bananas                        disney                              vincent mceveety   17000000
+37    38                                      rough cut                     paramount                                    don siegel   16656125
+38    39                            the final countdown                united artists                                    don taylor   16647800
+39    40                                     the hunter            rastar / paramount                                    buzz kulik   16274150
+40    41                                  hero at large          mgm / united artists                               martin davidson   15934737
+41    42                                the long riders                united artists                                   walter hill   15795189
+42    43                                     the island                     universal                               michael ritchie   15716828

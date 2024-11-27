@@ -1,0 +1,15 @@
+                network flagship    programming                                  region           origin                                     owner
+0            7 saltillo    xhrcg  entertainment                                coahuila         saltillo                                  televisa
+1             tv cu4tro    xhleg    educational                              guanajuato             león                      estado de guanajuato
+2          soy guerrero    xhhcg    educational                                guerrero     chilpancingo                        estado de guerrero
+3            c3 hidalgo    xhpah    educational                                 hidalgo          pachuca                         estado de hidalgo
+4         tv mexiquense    xhptp    educational                         state of mexico      mexico city  sistema de radio y televisión mexiquense
+5                 smrtv    xhmor    educational                               michoacán          morelia                       estado de michoacán
+6     tv azteca noreste     xhfn  entertainment  coahuila , nuevo león , and tamaulipas        monterrey                                 tv azteca
+7                  tvnl    xhmnl    educational                              nuevo león        monterrey                      estado de nuevo león
+8             oaxaca tv    xhaox    educational                                  oaxaca           oaxaca                          estado de oaxaca
+9                 sicom    xhpue    educational                                  puebla           puebla                          estado de puebla
+10                  rtv     xhgv    educational                                veracruz           xalapa                        estado de veracruz
+11              telemax     xewh    educational                                  sonora       hermosillo                          estado de sonora
+12        tv tabasqueña    xhsta    educational                                 tabasco     villahermosa                         estado de tabasco
+13  televisa tamaulipas     xhtk  entertainment                              tamaulipas  ciudad victoria                                  televisa

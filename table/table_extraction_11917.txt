@@ -1,0 +1,18 @@
+                            name main span metres main span feet  year to open      country
+0               izmit bay bridge             1550           5085          2017       turkey
+1      yavuz sultan selim bridge             1408           4619          2015       turkey
+2         longjiang river bridge             1196           3924          2015        china
+3       longmen bridge (guangxi)             1160           3806          2016        china
+4                   ulsan bridge             1150           3773          2014  south korea
+5              hålogaland bridge             1145           3757          2017       norway
+6               ma'anshan bridge        1080 (x2)      3543 (x2)          2013        china
+7           second namhae bridge              890           2920          2016  south korea
+8                  cuntan bridge              880           2887          2016        china
+9                  lishui bridge              856           2808          2013        china
+10               jeokgeum bridge              850           2790          2013  south korea
+11             yingwuzhou bridge         850 (x2)      2790 (x2)          2015        china
+12              qincaobei bridge              788           2585          2013        china
+13                   puli bridge              628           2060          2015        china
+14           dimuhe river bridge              538           1765          2015        china
+15  taohuayu yellow river bridge              406           1332          2013        china
+16               dandeung bridge              400           1312          2014  south korea

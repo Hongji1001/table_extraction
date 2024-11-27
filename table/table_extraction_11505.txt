@@ -1,0 +1,27 @@
+   position  jersey number         name v t e  height (cm)  weight (kg)                   birthplace           1995 - 96 team
+0         g             30          jim carey          188           86   dorchester , massachusetts      washington capitals
+1         g             31         guy hebert          180           84              troy , new york  mighty ducks of anaheim
+2         g             35       mike richter          180           86      abington , pennsylvania         new york rangers
+3         d             28     shawn chambers          188           91  sterling heights , michigan        new jersey devils
+4         d              7      chris chelios          180           87           chicago , illinois       chicago blackhawks
+5         d              3     derian hatcher          196          107  sterling heights , michigan             dallas stars
+6         d              4      kevin hatcher          191          105           detroit , michigan             dallas stars
+7         d              6       phil housley          178           84       saint paul , minnesota           calgary flames
+8         d              2   brian leetch - c          183           84       corpus christi , texas         new york rangers
+9         d              5  mathieu schneider          180           92          new york , new york      toronto maple leafs
+10        d             20         gary suter          183           93          madison , wisconsin       chicago blackhawks
+11       lw             10       john leclair          191          107          st albans , vermont      philadelphia flyers
+12       lw             14    shawn mceachern          180           88      waltham , massachusetts            boston bruins
+13       lw             17      keith tkachuk          188          105       boston , massachusetts            winnipeg jets
+14        c             18     adam deadmarsh          183           93     trail , british columbia       colorado avalanche
+15        c             22  steve konowalchuk          185           88        salt lake city , utah      washington capitals
+16        c             16     pat lafontaine          178           82          st louis , missouri           buffalo sabres
+17        c              9        mike modano          191           95           livonia , michigan             dallas stars
+18        c             29          joel otto          193          100        elk river , minnesota      philadelphia flyers
+19        c             25      brian rolston          188           97             flint , michigan        new jersey devils
+20        c              8    bryan smolinski          185           93                toledo , ohio      pittsburgh penguins
+21        c             19        doug weight          180           89            warren , michigan          edmonton oilers
+22       rw             11        tony amonte          183           92      hingham , massachusetts       chicago blackhawks
+23       rw             12        bill guerin          188          100    wilbraham , massachusetts        new jersey devils
+24       rw             15         brett hull          178           91         belleville , ontario           st louis blues
+25       rw             21        scott young          183           86      clinton , massachusetts       colorado avalanche

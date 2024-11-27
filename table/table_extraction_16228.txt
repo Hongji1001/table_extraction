@@ -1,0 +1,16 @@
+                      title series         director    release date                    characters
+0             the astroduck     lt  robert mckimson  1966 - 01 - 01                daffy , speedy
+1         shot and bothered     lt     rudy larriva  1966 - 01 - 08          wile e , road runner
+2          out and out rout     mm     rudy larriva  1966 - 01 - 29          wile e , road runner
+3               mucho locos     mm  robert mckimson  1966 - 02 - 05                daffy , speedy
+4      the solid tin coyote     lt     rudy larriva  1966 - 02 - 19          wile e , road runner
+5        mexican mousepiece     mm  robert mckimson  1966 - 02 - 26                daffy , speedy
+6        clippety clobbered     lt     rudy larriva  1966 - 03 - 12          wile e , road runner
+7               daffy rents     lt  robert mckimson  1966 - 03 - 26                daffy , speedy
+8   a - haunting we will go     lt  robert mckimson  1966 - 04 - 16  daffy , speedy , witch hazel
+9               snow excuse     mm  robert mckimson  1966 - 05 - 21                daffy , speedy
+10     a squeak in the deep     lt  robert mckimson  1966 - 07 - 19                daffy , speedy
+11           feather finger     mm  robert mckimson  1966 - 08 - 20                daffy , speedy
+12         swing ding amigo     lt  robert mckimson  1966 - 09 - 17                daffy , speedy
+13          sugar and spies     lt  robert mckimson  1966 - 11 - 05          wile e , road runner
+14        a taste of catnip     mm  robert mckimson  1966 - 12 - 03    daffy , speedy , sylvester

@@ -1,0 +1,9 @@
+                   team  match  points  draw  lost
+0   stal świętochłowice     14      25     1     1
+1  ostrovia ostrów wlkp     14      24     0     2
+2          stal rzeszów     14      22     0     3
+3            lpż lublin     14      15     1     6
+4      gwardia katowice     14      12     0     8
+5        górnik czeladź     14       6     0    11
+6      ślęza wrocław ii     14       5     1    11
+7         amk nowa huta     14       3     1    12

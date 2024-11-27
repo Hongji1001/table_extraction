@@ -1,0 +1,9 @@
+   pick                                  cfl team             player      position            college
+0  41.0                     hamilton tiger - cats  micheal goncalves            dl            toronto
+1   NaN                          edmonton eskimos       forfeit pick  forfeit pick       forfeit pick
+2  42.0                     winnipeg blue bombers        travis noel            db  st francis xavier
+3  43.0  hamilton tiger - cats (via saskatchewan)         adam kania            de  st francis xavier
+4  44.0                         toronto argonauts         brad smith            wr           queen 's
+5  45.0                        calgary stampeders  greg hetherington            sb             mcgill
+6  46.0                        montreal alouettes       braden smith            qb                ubc
+7  47.0                                  bc lions         nic edgson            db        idaho state

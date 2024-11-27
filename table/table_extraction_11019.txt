@@ -1,0 +1,37 @@
+                 date         opponent venue result  attendance
+0       4 august 2007   airdrie united     a  1 - 0        1645
+1      11 august 2007  berwick rangers     h  3 - 1        2020
+2      18 august 2007            alloa     h  2 - 1        1978
+3      25 august 2007      cowdenbeath     a  0 - 1        1953
+4    1 september 2007    queen 's park     a  5 - 2        1015
+5   15 september 2007      ross county     h  0 - 2        2101
+6   22 september 2007       ayr united     h  2 - 3        1760
+7     29 october 2007     brechin city     a  1 - 0         668
+8      6 october 2007        peterhead     a  1 - 0         855
+9     20 october 2007   airdrie united     h  2 - 1        1729
+10    27 october 2007            alloa     a  1 - 2        1053
+11    3 november 2007      cowdenbeath     h  2 - 0        2357
+12   10 november 2007    queen 's park     h  0 - 2        1860
+13    1 december 2007      ross county     a  3 - 2        2729
+14    8 december 2007     brechin city     h  1 - 1        1475
+15   15 december 2007       ayr united     a  3 - 0        1044
+16   22 december 2007        peterhead     h  2 - 2        1454
+17   26 december 2007  berwick rangers     a  1 - 2         570
+18   29 december 2007            alloa     h  3 - 2        1896
+19     2 january 2008      cowdenbeath     a  4 - 1        1896
+20     5 january 2008      ross county     h  0 - 1        2319
+21    19 january 2008    queen 's park     a  1 - 0         743
+22    26 january 2008  berwick rangers     h  3 - 0        1466
+23    2 february 2008   airdrie united     a  0 - 3        1252
+24    9 february 2008     brechin city     a  2 - 3         656
+25   16 february 2008       ayr united     h  1 - 2        1513
+26   23 february 2008            alloa     a  0 - 2         712
+27       1 march 2008      cowdenbeath     h  3 - 2        1607
+28       8 march 2008        peterhead     a  0 - 1         751
+29      15 march 2008   airdrie united     h  1 - 0        1458
+30      22 march 2008      ross county     a  3 - 2        2973
+31      29 march 2008    queen 's park     h  0 - 1        1836
+32       5 april 2008       ayr united     a  1 - 0        1212
+33      12 april 2008     brechin city     h  1 - 1        1955
+34      19 april 2008  berwick rangers     a  5 - 2         545
+35      26 april 2008        peterhead     h  2 - 5        1349

@@ -1,0 +1,18 @@
+                  tournament           winner      runner - up                  score      third place
+0                     dublin     john mcenroe    henri leconte          6 - 4 , 6 - 3         pat cash
+1           naples , florida     john mcenroe    henri leconte  6 - 0 , 0 - 1 retired             none
+2                       doha       björn borg    mats wilander          3 - 6 , 6 - 3     john mcenroe
+3                    majorca    anders järryd    mats wilander          6 - 1 , 6 - 1         pat cash
+4        richmond , virginia     john mcenroe     andrés gómez          6 - 1 , 6 - 2             none
+5   raleigh , north carolina     john mcenroe    mats wilander          6 - 1 , 6 - 4             none
+6                   new york  mikael pernfors    henri leconte          6 - 2 , 6 - 2             none
+7     san diego , california         pat cash     john mcenroe          6 - 3 , 7 - 5     andrés gómez
+8                      aland       björn borg    anders järryd          6 - 3 , 5 - 7   veli paloheimo
+9               chicago , il     john mcenroe    mats wilander          6 - 2 , 6 - 4             none
+10                     paris       guy forget         pat cash          7 - 6 , 6 - 2     john mcenroe
+11    palo alto , california     john mcenroe  josé luis clerc          6 - 2 , 6 - 3             none
+12                    geneva     john mcenroe       guy forget          7 - 6 , 6 - 2     yannick noah
+13                 singapore     john mcenroe  mansour bahrami          6 - 2 , 6 - 2             none
+14                 hong kong     john mcenroe    mats wilander          6 - 1 , 6 - 3  mikael pernfors
+15                 frankfurt     john mcenroe    henri leconte          6 - 1 , 6 - 3  mikael pernfors
+16                    london         pat cash     john mcenroe          6 - 7 , 7 - 5             none

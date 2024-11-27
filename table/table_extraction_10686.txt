@@ -1,0 +1,8 @@
+   round  pick           player       position school / club team
+0      1     1      ernie davis   running back           syracuse
+1      2    15    joe hernandez  wide receiver            arizona
+2      3    29     bob mitinger     linebacker         penn state
+3      4    43  billy neighbors          guard            alabama
+4      7    85        bert coan       halfback             kansas
+5      8    99      ron hatcher       fullback     michigan state
+6      9   113        dave viti            end  boston university

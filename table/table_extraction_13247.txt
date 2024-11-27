@@ -1,0 +1,31 @@
+    round  pick  overall               name position            college
+0       1     9        9       don bosseler       fb         miami (fl)
+1       2     8       21         joe walton        e         pittsburgh
+2       3     8       33          ed sutton       hb     north carolina
+3       4     3       40        jim podoley       hb   central michigan
+4       4     8       45     vince scorsone        g         pittsburgh
+5       6     8       69  j t frankenberger       ot           kentucky
+6       7     8       81         wally merz       ot           colorado
+7       8     8       93        paul lopata        e   central michigan
+8       9     8      105        galen laack        g            pacific
+9      10     8      117        don dobrino       rb               iowa
+10     11     8      129        dick foster       ot              idaho
+11     12     8      141      wade mitchell       qb       georgia tech
+12     13     8      153      claude austin       rb  george washington
+13     14     8      165        george rice       ot            wofford
+14     15     8      177         brad bomba        e            indiana
+15     16     8      189        joe brodsky       rb            florida
+16     17     8      201         fred brock       rb            wheaton
+17     18     8      213          ed sakach        g  george washington
+18     19     8      225         john bauer       rb          villanova
+19     20     8      237        buddy frick        e     south carolina
+20     21     8      249           sam owen       rb       georgia tech
+21     22     8      261          ed voytek        g             purdue
+22     23     8      273           al viola        g       northwestern
+23     24     8      285       bob jennings        c             furman
+24     25     8      297       dick sassels       ot            catawba
+25     26     8      309    paul rotenberry       rb       georgia tech
+26     27     8      321    ormand anderson       ot       georgia tech
+27     28     8      333         guy martin       rb            colgate
+28     29     8      345    george benedict        e        springfield
+29     30     7      356        art luppino       rb            arizona

@@ -1,0 +1,14 @@
+   frequency      call sign                   format                                         owner    notes
+0    fm 88.1      cfpp - fm          christian radio  fabrique notre - dame du perpétuel - secours   french
+1    fm 88.3      cfak - fm             campus radio                      université de sherbrooke   french
+2    fm 88.9      cjmq - fm          community radio                          bishop 's university  english
+3    fm 89.7   cbm - fm - 1             public music             canadian broadcasting corporation  english
+4    fm 90.7  cbfx - fm - 2             public music                        société radio - canada   french
+5    fm 91.7      cbmb - fm       public news / talk             canadian broadcasting corporation  english
+6    fm 93.7      cfge - fm       adult contemporary                                        cogeco   french
+7    fm 95.5      cflx - fm          community radio               radio communautaire de l'estrie   french
+8   fm 100.3  cira - fm - 1          christian radio                           radio ville - marie   french
+9   fm 101.1  cbf - fm - 10       public news / talk                        société radio - canada   french
+10  fm 102.7  cite - fm - 1  soft adult contemporary                              bell media radio   french
+11  fm 106.1      cimo - fm   contemporary hit radio                              bell media radio   french
+12  fm 107.7      ckoy - fm               talk radio                                        cogeco   french

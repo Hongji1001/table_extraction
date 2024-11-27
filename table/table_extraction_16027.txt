@@ -1,0 +1,26 @@
+                    opposing team  against                 date                              venue      status
+0               western transvaal        9       june 22 , 1955          olen park , potchefstroom  tour match
+1                  giqualand west       14       june 25 , 1955       de beers stadium , kimberley  tour match
+2           northern universities        6       june 29 , 1955          ellis park , johannesburg  tour match
+3               orange free state        3        july 2 , 1955           loubser park , kroonstad  tour match
+4               south west africa        0        july 5 , 1955      mable volk stadium , windhoek  tour match
+5                western province        3        july 9 , 1955               newlands , cape town  tour match
+6            south west districts        3       july 13 , 1955         recreation ground , george  tour match
+7                eastern province       20       july 16 , 1955  crusaders ground , port elizabeth  tour match
+8          north eastern district        6       july 20 , 1955                       aliwal north  tour match
+9                       transvaal       13       july 23 , 1955          ellis park , johannesburg  tour match
+10                       rhodesia       14       july 27 , 1955             rokhana ground , kitwe  tour match
+11                       rhodesia       12       july 30 , 1955          police ground , salisbury  tour match
+12                   south africa       22      august 6 , 1955          ellis park , johannesburg  test match
+13             central university       14     august 10 , 1955                 kingsmead , durban  tour match
+14                         boland        0     august 13 , 1955                         wellington  tour match
+15  western province universities       17     august 16 , 1955               newlands , cape town  tour match
+16                   south africa       25     august 20 , 1955               newlands , cape town  test match
+17              eastern transvaal       17     august 24 , 1955                pam brink , springs  tour match
+18             northern transvaal       11     august 27 , 1955         loftus versfeld , pretoria  tour match
+19                   south africa        6   september 3 , 1955         loftus versfeld , pretoria  test match
+20                          natal        8  september 10 , 1955                 kingsmead , durban  tour match
+21              junior springboks       12  september 14 , 1955  free state stadium , bloemfontein  tour match
+22                         border       14  september 17 , 1955                        east london  tour match
+23                   south africa       22  september 24 , 1955  crusaders ground , port elizabeth  test match
+24                    east africa       12  september 27 , 1955        ngong road ground , nairobi  tour match

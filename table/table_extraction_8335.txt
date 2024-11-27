@@ -1,0 +1,36 @@
+                                    species                order             family  species worldwide  species on rãunion
+0                               albatrosses    procellariiformes        diomedeidae                 21                   6
+1                   shearwaters and petrels    procellariiformes     procellariidae                 75                  11
+2                           storm - petrels    procellariiformes       hydrobatidae                 21                   2
+3                               tropicbirds       pelecaniformes      phaethontidae                  3                   1
+4                       boobies and gannets       pelecaniformes            sulidae                  9                   2
+5                              frigatebirds       pelecaniformes         fregatidae                  5                   2
+6              bitterns , herons and egrets        ciconiiformes           ardeidae                 61                   2
+7                     ibises and spoonbills        ciconiiformes  threskiornithidae                 36                   1
+8                                 flamingos  phoenicopteriformes   phoenicopteridae                  6                   2
+9                   ducks , geese and swans         anseriformes           anatidae                131                   3
+10                 hawks , kites and eagles        falconiformes       accipitridae                233                   2
+11                    caracaras and falcons        falconiformes         falconidae                 62                   2
+12                 pheasants and partridges          galliformes        phasianidae                156                   7
+13                             buttonquails           gruiformes         turnicidae                 16                   1
+14  rails , crakes , gallinules , and coots           gruiformes           rallidae                143                   1
+15                              crab plover      charadriiformes         dromadidae                  1                   1
+16                 pratincoles and coursers      charadriiformes        glareolidae                 17                   2
+17                     plovers and lapwings      charadriiformes       charadriidae                 66                   3
+18                    sandpipers and allies      charadriiformes       scolopacidae                 89                   9
+19                                    terns      charadriiformes          sternidae                 44                   9
+20                        pigeons and doves        columbiformes         columbidae                308                   2
+21              parrots , macaws and allies       psittaciformes        psittacidae                335                   1
+22                                   swifts          apodiformes           apodidae                 98                   1
+23                          typical rollers        coraciiformes         coraciidae                 12                   1
+24                     swallows and martins        passeriformes       hirundinidae                 75                   1
+25                         cuckoo - shrikes        passeriformes      campephagidae                 82                   1
+26                                  bulbuls        passeriformes       pycnonotidae                130                   2
+27                    old world flycatchers        passeriformes       muscicapidae                274                   1
+28                      monarch flycatchers        passeriformes        monarchidae                 99                   1
+29                             white - eyes        passeriformes       zosteropidae                 96                   2
+30                                starlings        passeriformes          sturnidae                125                   1
+31                       weavers and allies        passeriformes          ploceidae                116                   2
+32                      waxbills and allies        passeriformes        estrildidae                141                   3
+33          siskins , crossbills and allies        passeriformes       fringillidae                137                   2
+34                                 sparrows        passeriformes         passeridae                 35                   1

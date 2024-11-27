@@ -1,0 +1,11 @@
+            player        country        year (s) won  total to par
+0      ian woosnam          wales                1991    149    + 5
+1    raymond floyd  united states                1976    152    + 8
+2       nick faldo        england  1989 , 1990 , 1996    153    + 9
+3  bernhard langer        germany         1985 , 1993    153    + 9
+4     mark o'meara  united states                1998    154   + 10
+5       tom watson  united states         1977 , 1981    154   + 10
+6    craig stadler  united states                1982    155   + 11
+7    fuzzy zoeller  united states                1979    159   + 15
+8      gary player   south africa  1961 , 1974 , 1978    160   + 16
+9       sandy lyle       scotland                1988    161   + 17

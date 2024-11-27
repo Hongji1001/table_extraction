@@ -1,0 +1,9 @@
+   lane               name            nationality  reaction time  result
+0     5         usain bolt                jamaica          0.182   19.30
+1     4     shawn crawford          united states          0.210   19.96
+2     8         walter dix          united states          0.151   19.98
+3     6      brian dzingai               zimbabwe          0.185   20.22
+4     3  christian malcolm          great britain          0.212   20.40
+5     2        kim collins  saint kitts and nevis          0.165   20.59
+6     7   churandy martina   netherlands antilles          0.144   19.82
+7     9   wallace spearmon          united states          0.167   19.95

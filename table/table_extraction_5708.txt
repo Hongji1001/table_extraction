@@ -1,0 +1,11 @@
+                       team  points  played  drawn  lost  against  diff
+0              ua maracaibo      41      18      5     1       11  + 17
+1     deportivo tã¡chira fc      31      18      4     5       23   + 9
+2        mineros de guayana      27      18      6     5       19   + 5
+3               carabobo fc      27      18      6     5       24   + 4
+4                caracas fc      24      18      3     8       25   + 3
+5          cd italmaracaibo      24      18      6     6       22   + 1
+6                 aragua fc      22      18      4     8       27  - 11
+7            trujillanos fc      18      18      6     8       24  - 10
+8  estudiantes de mãrida fc      15      18      6     9       30   - 9
+9                monagas sc      15      18      6     9       28   - 9

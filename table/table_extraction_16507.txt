@@ -1,0 +1,14 @@
+              name pos height weight                  2012 club
+0    merrill moses  gk      m      -     new york athletic club
+1   peter varellas   d      m      -           the olympic club
+2     peter hudnut  cb      m      -        los angeles wp club
+3      jeff powers  cf      m      -      newport wp foundation
+4      adam wright   d      m      -     new york athletic club
+5     shea buckner   d      m      -     new york athletic club
+6   layne beaubien   d      m      -     new york athletic club
+7     tony azevedo   d      m      -     new york athletic club
+8      ryan bailey  cf      m      -      newport wp foundation
+9       tim hutten  cb      m      -      newport wp foundation
+10     jesse smith  cb      m      -     new york athletic club
+11       john mann  cf      m      -     new york athletic club
+12      chay lapin  gk      m      -  long beach shore aquatics

@@ -1,0 +1,8 @@
+                city  country iata  icao                          airport
+0          krasnodar   russia  krr  urkk               pashkovsky airport
+1             moscow   russia  vko  uuww    vnukovo international airport
+2  rostov - on - don   russia  rov  urrr        rostov - on - don airport
+3   saint petersburg   russia  led  ulli                  pulkovo airport
+4             samara   russia  kuf  uwww   kurumoch international airport
+5              sochi   russia  aer  urss      sochi international airport
+6            yerevan  armenia  evn  udyz  zvartnots international airport

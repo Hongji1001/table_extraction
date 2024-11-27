@@ -1,0 +1,22 @@
+   position  height (cm)  weight (kg)                   birthplace               2009 - 10 team
+0         g          175           78          boisbriand , quebec              mcgill martlets
+1         g          175           70          chteauguay , quebec               montreal stars
+2         g          172           66           edmonton , alberta       grant macewan griffins
+3         d          170           63            sudbury , ontario       calgary oval x - treme
+4         d          162           60       spruce grove , alberta       calgary oval x - treme
+5         d          170           70        hagersville , ontario        burlington barracudas
+6         d          162           78       kennedy , saskatchewan       calgary oval x - treme
+7         d          175           74        regina , saskatchewan              edmonton chimos
+8         d          167           61            montreal , quebec              mcgill martlets
+9         f          167           66            ruthven , ontario            mercyhurst lakers
+10        f          182           78            toronto , ontario             brampton thunder
+11        f          175           69          winnipeg , manitoba           mississauga chiefs
+12        f          165           63           kingston , ontario             brampton thunder
+13        f          170           74        thunder bay , ontario  minnesota - duluth bulldogs
+14        f          170           61            sudbury , ontario              cornell big red
+15        f          172           62  uranium city , saskatchewan       calgary oval x - treme
+16        f          180           78            montreal , quebec               montreal stars
+17        f          167           75            toronto , ontario       calgary oval x - treme
+18        f          167           73         beauceville , quebec                 dawson blues
+19        f          167           63          sherbrooke , quebec              harvard crimson
+20        f          177           77     shaunavon , saskatchewan            eskilstuna linden

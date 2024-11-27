@@ -1,0 +1,14 @@
+                    category                                     film           director (s)                 country     nominating festival
+0   short film 2005 prix uip                     undressing my mother            ken wardrop                 ireland        prix uip tampere
+1   short film 2005 prix uip                         little terrorist           ashvin kumar          united kingdom          prix uip ghent
+2   short film 2005 prix uip                                  rendevú            ferenc cakó                 hungary     prix uip valladolid
+3   short film 2005 prix uip                          rain is falling           holger ernst                 germany     prix uip valladolid
+4   short film 2005 prix uip                                 flatlife        jonas geirnaert                 belgium         prix uip angers
+5   short film 2005 prix uip                                 hoi maya         claudia lorenz             switzerland         prix uip berlin
+6   short film 2005 prix uip                             toz ( dust )   halit fatih kizilgok                  turkey         prix uip cracow
+7   short film 2005 prix uip                                    bawke           hisham zaman                  norway       prix uip grimstad
+8   short film 2005 prix uip                               a serpente         sandro aguilar                portugal  prix uip vila do conde
+9   short film 2005 prix uip                 scen nr 6882 ur mitt liv          ruben östlund                  sweden      prix uip edinburgh
+10  short film 2005 prix uip                               prva plata          alen drljević  bosnia and herzegovina       prix uip sarajevo
+11  short film 2005 prix uip                              butterflies             max jacoby              luxembourg        prix uip venezia
+12  short film 2005 prix uip  minotauromaquia , pablo en el laberinto  juan pablo etcheverry                   spain          prix uip drama

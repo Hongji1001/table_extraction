@@ -1,0 +1,6 @@
+   rank   bowling         player         opponent                    venue     season
+0     1   15 / 73  william brown         victoria      tca ground , hobart  1857 / 58
+1     2  13 / 185   charles eady         victoria      tca ground , hobart  1906 / 07
+2     3   12 / 63   charles eady         victoria          mcg , melbourne  1895 - 96
+3     4  12 / 119   colin miller  south australia  bellerive oval , hobart  1997 - 98
+4     5  12 / 129   charles eady         victoria      tca ground , hobart  1898 - 99

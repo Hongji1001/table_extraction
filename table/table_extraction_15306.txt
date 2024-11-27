@@ -1,0 +1,11 @@
+   draft  round  pick             player    nationality
+0   1973      1     2       glenn goldup         canada
+1   1973      1    12       blake dunlop         canada
+2   1973      2    26        mike clarke         canada
+3   1973      3    38         tom colley         canada
+4   1973      4    41         randy holt         canada
+5   1973      4    51    alan hangsleben  united states
+6   1973      5    53        larry patey         canada
+7   1973      5    64  robert cap raeder  united states
+8   1973      6    77      rick chinnick         canada
+9   1973      7    90        steve alley  united states

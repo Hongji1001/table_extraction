@@ -1,0 +1,16 @@
+    pick                mls team            player    position                                      affiliation
+0     37  vancouver whitecaps fc     bilal duckett    defender                         university of notre dame
+1     38      new york red bulls      billy cortes    defender                           university of maryland
+2     39  new england revolution      steven perry     forward        university of notre dame indiana invaders
+3     40              chivas usa        jon okafor  midfielder         brown university central jersey spartans
+4     42  new england revolution        ryan kinne  midfielder      monmouth university central jersey spartans
+5     43              toronto fc         matt gold    defender                            ohio state university
+6     45            chicago fire     jason herrick     forward                           university of maryland
+7     46    sporting kansas city   konrad warzycha  midfielder                            ohio state university
+8     47     seattle sounders fc       alex caskey  midfielder              davidson college atlanta blackhawks
+9     48           columbus crew     bernardo anor  midfielder  university of south florida bradenton academics
+10    49              toronto fc        joao plata  midfielder                                        ldu quito
+11    50               dc united        joe willis  goalkeeper         university of denver real colorado foxes
+12    51            chicago fire        davis paul     forward              university of california , berkeley
+13    52          real salt lake  jarad van schaik  midfielder                           university of portland
+14    53               fc dallas      scott gordon    defender             lynn university baton rouge capitals

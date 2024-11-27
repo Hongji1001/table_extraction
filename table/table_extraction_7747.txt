@@ -1,0 +1,10 @@
+                       name   years gender           area   authority  decile  roll
+0        featherston school   1 - 8   coed    featherston       state       3    64
+1           greytown school   1 - 8   coed       greytown       state       6   348
+2           kahutara school   1 - 8   coed       kahutara       state       7   100
+3           kuranui college  9 - 13   coed       greytown       state       5   488
+4      martinborough school   1 - 8   coed  martinborough       state       7   251
+5            pirinoa school   1 - 8   coed        pirinoa       state       6    26
+6  south featherston school   1 - 8   coed    featherston       state       5    65
+7       st teresa 's school   1 - 8   coed    featherston  integrated       7   111
+8         tuturumuri school   1 - 8   coed  martinborough       state       7    17

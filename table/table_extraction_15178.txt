@@ -1,0 +1,7 @@
+  opposing teams  against            date                               venue        status
+0          wales       21  17 / 01 / 1981         cardiff arms park , cardiff  five nations
+1       scotland       17  21 / 02 / 1981                 twickenham , london  five nations
+2        ireland        6  07 / 03 / 1981             lansdowne road , dublin  five nations
+3         france       16  21 / 03 / 1981                 twickenham , london  five nations
+4      argentina       19  30 / 05 / 1981  ferrocarril stadium , buenos aires    first test
+5      argentina        6  06 / 06 / 1981  ferrocarril stadium , buenos aires   second test

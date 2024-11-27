@@ -1,0 +1,11 @@
+  place             player        country  score to par
+0     1          ben hogan  united states     67    - 5
+1    t2     walter burkemo  united states     70    - 2
+2    t2       george fazio  united states     70    - 2
+3    t2  frank souchak (a)  united states     70    - 2
+4    t5      jimmy demaret  united states     71    - 1
+5    t5         bill ogden  united states     71    - 1
+6    t7        lou barbaro  united states     72      e
+7    t7       jerry barber  united states     72      e
+8    t7         jay hebert  united states     72      e
+9    t7          sam snead  united states     72      e

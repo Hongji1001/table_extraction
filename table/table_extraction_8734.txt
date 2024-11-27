@@ -1,0 +1,8 @@
+                     riding candidate 's name gender   residence                    occupation  votes rank
+0  chilliwack-fraser canyon   harold j ludwig      m  abbotsford                       retired    653  5th
+1                   langley          ron gray      m     langely        political party leader    594  5th
+2           nanaimo-alberni      frank wagner      m     nanaimo                 foster father    176  5th
+3      saanich-gulf islands        dan moreau      m      sidney  environmental health officer    114  8th
+4     skeena-bulkley valley        rod taylor      m    smithers    quality control supervisor   1125  5th
+5              surrey north      kevin pielak      m      surrey                       teacher    484  5th
+6                  victoria       john cooper      m    victoria                     physician    237  5th

@@ -1,0 +1,27 @@
+          city         country iata  icao                            airport
+0    amsterdam     netherlands  ams  eham         amsterdam airport schiphol
+1       berlin         germany  txl  eddt               berlin tegel airport
+2   birmingham  united kingdom  bhx  egbb                 birmingham airport
+3      cardiff  united kingdom  cwl  egff                    cardiff airport
+4        knock         ireland  noc  eikn         ireland west airport knock
+5   düsseldorf         germany  dus  eddl   düsseldorf international airport
+6       geneva     switzerland  gva  lsgg                     geneva airport
+7      glasgow  united kingdom  gla  egpf                    glasgow airport
+8      hamburg         germany  ham  eddh                    hamburg airport
+9      leipzig         germany  lej  eddp            leipzig / halle airport
+10        lyon          france  lys  lfll       lyon - saint exupéry airport
+11  manchester  united kingdom  man  egcc                 manchester airport
+12       milan           italy  mxp  limc                   malpensa airport
+13   newcastle  united kingdom  ncl  egnt                  newcastle airport
+14   nuremberg         germany  nue  eddn                  nuremberg airport
+15        oslo          norway  osl  engm          oslo airport , gardermoen
+16       paris          france  cdg  lfpg  paris - charles de gaulle airport
+17      poznan          poland  poz  eppo            poznan - lawica airport
+18      prague  czech republic  prg  lkpr              prague ruzyne airport
+19       sofia        bulgaria  sof  lbsf                      sofia airport
+20   stuttgart         germany  str  edds                  stuttgart airport
+21       turin           italy  trn  limf              turin caselle airport
+22      vienna         austria  vie  loww       vienna international airport
+23  westerland         germany  gwt  edxm                       sylt airport
+24     wroclaw          poland  wro  epwr         copernicus airport wroclaw
+25   stockholm          sweden  arn  essa          stockholm arlanda airport

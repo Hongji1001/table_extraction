@@ -1,0 +1,6 @@
+   rank         player        country  earnings  wins
+0     1    don january  united states    791990    14
+1     2  miller barber  united states    720134    14
+2     3  arnold palmer  united states    442974     8
+3     4   billy casper  united states    395386     4
+4     5   gene littler  united states    358770     3

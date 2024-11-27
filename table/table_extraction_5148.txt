@@ -1,0 +1,29 @@
+           date        competition               venue result    score
+0   21 / 2 / 03  super league viii       knowsley road      l  22 - 46
+1    9 / 3 / 03  super league viii       odsal stadium      w  22 - 10
+2   23 / 3 / 03  super league viii       odsal stadium      w  62 - 22
+3   30 / 3 / 03  super league viii      halton stadium      w  26 - 18
+4    6 / 4 / 03  super league viii       odsal stadium      w   32 - 8
+5   18 / 4 / 03  super league viii       odsal stadium      w  48 - 24
+6    2 / 5 / 03  super league viii         jjb stadium      w   14 - 8
+7   11 / 5 / 03  super league viii       odsal stadium      w  30 - 10
+8   18 / 5 / 03  super league viii    mcalpine stadium      w   52 - 6
+9   23 / 5 / 03  super league viii       odsal stadium      w  48 - 22
+10   1 / 6 / 03  super league viii       odsal stadium      l  12 - 22
+11   8 / 6 / 03  super league viii          kc stadium      w  26 - 20
+12  15 / 6 / 03  super league viii         wilderspool      w  24 - 20
+13  21 / 6 / 03  super league viii       odsal stadium      l  22 - 35
+14  27 / 6 / 03  super league viii       odsal stadium      l   0 - 35
+15   6 / 7 / 03  super league viii           belle vue      w  30 - 18
+16  11 / 7 / 03  super league viii        shay stadium      w  60 - 12
+17  20 / 7 / 03  super league viii       odsal stadium      w   40 - 8
+18  27 / 7 / 03  super league viii          the jungle      w  40 - 20
+19  30 / 7 / 03  super league viii        griffin park      w   60 - 6
+20   3 / 8 / 03  super league viii       odsal stadium      w  30 - 16
+21   8 / 8 / 03  super league viii  headingley stadium      w  18 - 16
+22  16 / 8 / 03  super league viii       odsal stadium      w  36 - 22
+23  25 / 8 / 03  super league viii         jjb stadium      l  12 - 26
+24  31 / 8 / 03  super league viii        griffin park      w  54 - 12
+25   7 / 9 / 03  super league viii       odsal stadium      w  22 - 21
+26  14 / 9 / 03  super league viii       odsal stadium      l  14 - 28
+27  19 / 9 / 03  super league viii       knowsley road      w  22 - 18

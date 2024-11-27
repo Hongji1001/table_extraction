@@ -1,0 +1,9 @@
+   rank  lane             name    nationality   time
+0     1     4   inge de bruijn    netherlands  53.77
+1     2     5   jenny thompson  united states  54.40
+2     3     3    helene muller   south africa  55.24
+3     4     2  sumika minamoto          japan  55.62
+4     5     1  karen pickering  great britain  55.71
+5     6     8     rania elwani          egypt  55.85
+6     7     7   louise jöhncke         sweden  55.94
+7     8     6    sandra völker        germany  55.97

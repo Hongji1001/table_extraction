@@ -1,0 +1,13 @@
+                club     position in 2013  first season  first season of current spell  number of seasons in superettan  number of seasons in second tier
+0       assyriska ff                  8th          2000                           2008                               12                              17.0
+1       degerfors if                  4th          2005                           2010                                8                              35.0
+2               gais                  7th          2001                           2013                                4                              29.0
+3        hammarby if                  5th          2010                           2010                                4                              36.5
+4       husqvarna ff   1st in div 1 södra          2014                           2014                                0                               1.0
+5   jönköpings södra                 11th          2006                           2006                                8                              35.0
+6    landskrona bois                 12th          2000                           2006                               10                              51.0
+7      ljungskile sk                  9th          2000                           2009                                9                              14.0
+8          ik sirius   1st in div 1 norra          2007                           2014                                3                              23.0
+9       syrianska fc  16th in allsvenskan          2009                           2014                                2                               2.0
+10     ängelholms ff                  6th          2002                           2008                                7                              11.0
+11         östers if  15th in allsvenskan          2000                           2014                                9                              19.0

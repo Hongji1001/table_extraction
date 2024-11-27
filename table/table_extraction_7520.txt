@@ -1,0 +1,18 @@
+                 driver                       team  laps time / retired  grid  points
+0    sãbastien bourdais           n / h / l racing    96    1:45:41.953     2      33
+1         justin wilson                    rsports    96     + 3.9 secs     3      27
+2          graham rahal           n / h / l racing    96     + 6.6 secs     4      25
+3    simon pagenaud (r)             team australia    96    + 24.8 secs     7      23
+4            paul tracy            forsythe racing    96    + 28.1 secs    14      22
+5          oriol servia            forsythe racing    96    + 30.0 secs    13      19
+6       bruno junqueira          dale coyne racing    96    + 30.7 secs     6      17
+7            dan clarke           minardi team usa    96    + 35.3 secs    10      15
+8         neel jani (r)                 pkv racing    96    + 37.8 secs     5      13
+9            jan heylen            conquest racing    96    + 58.7 secs    12      11
+10  robert doornbos (r)           minardi team usa    95        + 1 lap    11      10
+11         ryan dalziel  pacific coast motorsports    95        + 1 lap     8       9
+12       alex figge (r)  pacific coast motorsports    95        + 1 lap    16       8
+13        alex tagliani                    rsports    69        contact     9       7
+14           will power             team australia    69     mechanical     1       7
+15      katherine legge          dale coyne racing    36     mechanical    15       5
+16      mario dominguez                 pkv racing    32     mechanical    17       4

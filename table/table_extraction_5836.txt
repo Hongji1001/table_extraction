@@ -1,0 +1,26 @@
+              driver        constructor  laps time / retired  grid
+0        denny hulme    brabham - repco    15      2:05:55.7     2
+1       jack brabham    brabham - repco    15         + 38.5     7
+2         chris amon            ferrari    15         + 39.0     8
+3       john surtees              honda    15       + 2:25.7     6
+4      jackie oliver       lotus - ford    15       + 5:30.7    19
+5         jo bonnier  cooper - maserati    15       + 8:42.1    16
+6          alan rees     brabham - ford    15       + 8:47.9    20
+7         guy ligier    brabham - repco    14        + 1 lap    17
+8        chris irwin                brm    13       + 2 laps    15
+9        david hobbs         lola - bmw    13       + 2 laps    22
+10  pedro rodrã­guez  cooper - maserati    13       + 2 laps    10
+11        dan gurney    eagle - weslake    12      halfshaft     4
+12        jacky ickx       matra - ford    12     suspension    18
+13        brian hart      protos - ford    12       + 3 laps    25
+14        jo siffert  cooper - maserati    12      fuel pump    12
+15       graham hill       lotus - ford     8     suspension    13
+16      hubert hahne         lola - bmw     6     suspension    14
+17    jackie stewart                brm     5   differential     3
+18         jim clark       lotus - ford     4     suspension     1
+19      jochen rindt  cooper - maserati     4       radiator     9
+20  kurt ahrens , jr      protos - ford     4       radiator    23
+21     bruce mclaren    eagle - weslake     3       oil leak     5
+22       mike spence                brm     3   differential    11
+23      jo schlesser       matra - ford     2         engine    21
+24    gerhard mitter     brabham - ford     0         engine    24

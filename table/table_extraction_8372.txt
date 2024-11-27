@@ -1,0 +1,12 @@
+    year manufacturer start finish              team
+0   1988      pontiac   dnq    dnq            ulrich
+1   1989      pontiac    33     41            ulrich
+2   1990         ford    18     13          donlavey
+3   1991    chevrolet     2      1  morgan - mcclure
+4   1992    chevrolet     7     28  morgan - mcclure
+5   1993    chevrolet     8     37  morgan - mcclure
+6   1994         ford     3      2             yates
+7   1996         ford     2     35             yates
+8   1997         ford     5     20             yates
+9   1998      pontiac    10      6               mb2
+10  1999      pontiac    31     14               mb2

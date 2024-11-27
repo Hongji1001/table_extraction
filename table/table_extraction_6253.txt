@@ -1,0 +1,23 @@
+   prr class builders model   build date  total produced wheel arrangement   service  power output
+0        es6             sw         1937              12             b - b  switcher           NaN
+1        es6            sw1  1942 - 1950              85             b - b  switcher           NaN
+2       es10            nw2  1941 - 1948              32             b - b  switcher           NaN
+3       es12      sw7 - sw9  1950 - 1953              84             b - b  switcher           NaN
+4       es12         sw1200         1957              35             b - b  switcher           NaN
+5       ef15      f3a , f7a  1947 - 1952             203             b - b   freight           NaN
+6       ef15      f3b , f7b  1947 - 1952             107             b - b   freight           NaN
+7      epf15           fp7a         1952              40             b - b      pass           NaN
+8      epf15           fp7b         1952              14             b - b      pass           NaN
+9       ep20            e7a  1945 - 1949              46         a1a - a1a      pass           NaN
+10      ep20            e7b  1945 - 1949              14         a1a - a1a      pass           NaN
+11      ep22            e8a  1950 - 1952              74         a1a - a1a      pass           NaN
+12     ers15            gp7  1952 - 1953              66             b - b   freight           NaN
+13   ers15ax            sd7         1953               2             b - b   freight           NaN
+14     ers17            gp9  1955 - 1959             310             b - b   freight           NaN
+15    ers17a            sd9  1957 - 1958              25             c - c   freight           NaN
+16      ef22           gp30         1963              52             b - b   freight           NaN
+17      ef25           gp35  1964 - 1965             119             b - b   freight           NaN
+18     ef25a           sd35         1965              40             c - c   freight           NaN
+19     ef30a           sd40         1966              65             c - c   freight           NaN
+20      ef36           sd45         1966              65             c - c   freight           NaN
+21     ef20a           gp38         1967               5             b - b   freight           NaN

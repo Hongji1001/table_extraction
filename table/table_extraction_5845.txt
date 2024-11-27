@@ -1,0 +1,21 @@
+                    driver       constructor  laps  time / retired  grid
+0               jacky ickx    brabham - ford    90       1:59:25.7     1
+1             jack brabham    brabham - ford    90          + 46.2     6
+2             jochen rindt      lotus - ford    90          + 52.0     3
+3   jean - pierre beltoise      matra - ford    89         + 1 lap     2
+4            bruce mclaren    mclaren - ford    87        + 3 laps     9
+5    johnny servoz - gavin      matra - ford    84        + 6 laps    15
+6              pete lovely      lotus - ford    81        + 9 laps    16
+7               bill brack               brm    80  not classified    18
+8              graham hill      lotus - ford    42          engine     7
+9               jo siffert      lotus - ford    40       halfshaft     8
+10              john miles      lotus - ford    40         gearbox    11
+11         pedro rodriguez           ferrari    37    oil pressure    13
+12          jackie stewart      matra - ford    32       collision     4
+13                al pease    eagle - climax    22    disqualified    17
+14            john surtees               brm    15          engine    14
+15           piers courage    brabham - ford    13       fuel leak    10
+16             john cordts  brabham - climax    10        oil leak    19
+17             denny hulme    mclaren - ford     9     distributor     5
+18           jackie oliver               brm     2          engine    12
+19            silvio moser    brabham - ford     0        accident    20

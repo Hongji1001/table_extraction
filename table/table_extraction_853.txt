@@ -1,0 +1,15 @@
+       month  week         overall        offensive         defensive      transition          rookie
+0    january     1  blaine manning     casey powell    kevin croswell   scott stewart     andrew watt
+1    january     2       gary gait    pat maddalena       ken montour  brodie merrill    sean thomson
+2    january     3  mark steenhuis   mark steenhuis       ken montour     greg peyser   daryl veltman
+3    january     4        dan teat       dan dawson  michael thompson    tyler codron   daryl veltman
+4    january     5     matt disher     mike accursi       matt disher  curtis hodgson   matt danowski
+5   february     6     gary bining   tracey kelusky      pat campbell  chris driscoll     gary bining
+6   february     7  mark steenhuis   mark steenhuis     anthony cosmo     jason bloom  tyler crompton
+7   february     8      dan dawson   mark steenhuis       jon harnett   bobby mcbride       rhys duch
+8   february     9     shawn evans      shawn evans       matt disher       kyle ross  kevin buchanan
+9      march    10     shawn evans      shawn evans     sandy chapman    pat mccready  kevin buchanan
+10     march    11      bob watson     john tavares       ken montour      paul rabil  tyler crompton
+11     march    12  athan iannucci      andy secore         matt vinc  brodie merrill       rhys duch
+12     march    13    john tavares      colin doyle    tyler richards  brodie merrill       rhys duch
+13     april    14   anthony cosmo  merrick thomson       matt disher   scott stewart       rhys duch

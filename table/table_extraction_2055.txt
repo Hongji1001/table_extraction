@@ -1,0 +1,17 @@
+    week               player team opponent  carries  yards  average  touchdowns
+0      1       clinton portis  den      cin       24    120      5.0           2
+1      2          jamal lewis  bal      cle       30    295      9.8           2
+2      3       ricky williams  mia      buf       42    153      3.6           1
+3      4          ahman green   gb      chi       19    176      9.3           2
+4      5          ahman green   gb      sea       27    118      4.4           2
+5      6        william green  cle      oak       26    145      5.6           1
+6      7         travis henry  buf      was       31    167      5.4           2
+7      8        stephen davis  car       no       31    178      5.7           2
+8      9          ahman green   gb      min       21    137      6.5           0
+9     10  ladainian tomlinson   sd      min       16    162     10.1           2
+10    11     deuce mcallister   no      atl       28    173      6.2           2
+11    12     deuce mcallister   no      phi       19    184      9.7           2
+12    13       clinton portis  den      oak       34    170      5.0           2
+13    14       clinton portis  den       kc       22    218      9.9           5
+14    15         rudi johnson  cin       sf       21    174      8.3           2
+15    16          jamal lewis  bal      cle       22    205      9.3           2

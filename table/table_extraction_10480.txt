@@ -1,0 +1,13 @@
+     medal                 name             games       sport                          event
+0   silver      blagoja vidinić    1956 melbourne    football                    men 's team
+1     gold      blagoja vidinić         1960 rome    football                    men 's team
+2   silver  blagoja georgievski     1976 montreal  basketball                    men 's team
+3   bronze         ace rusevski     1976 montreal      boxing             men 's lightweight
+4   bronze          šaban sejdi       1980 moscow   wrestling   men 's freestyle lightweight
+5     gold        šaban trstena  1984 los angeles   wrestling     men 's freestyle flyweight
+6   silver   redzep redzepovski  1984 los angeles      boxing               men 's flyweight
+7   bronze          aziz salihu  1984 los angeles      boxing       men 's super heavyweight
+8   bronze       milko đurovski  1984 los angeles    football                    men 's team
+9   bronze          šaban sejdi  1984 los angeles   wrestling  men 's freestyle welterweight
+10  silver   stojna vangelovska        1988 seoul  basketball                  women 's team
+11  silver        šaban trstena        1988 seoul   wrestling         men 's freestyle 52 kg

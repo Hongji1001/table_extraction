@@ -1,0 +1,21 @@
+                   team                              manager 1           captain kit manufacturer        shirt sponsor
+0               arsenal                          arsène wenger        tony adams             nike                  jvc
+1           aston villa                           john gregory  gareth southgate           reebok                  ast
+2              barnsley                           danny wilson     neil redfearn          admiral                  ora
+3      blackburn rovers                            roy hodgson      tim sherwood            asics                  cis
+4      bolton wanderers                             colin todd    guðni bergsson           reebok               reebok
+5               chelsea                        gianluca vialli       dennis wise            umbro            autoglass
+6         coventry city                        gordon strachan   gary mcallister   le coq sportif               subaru
+7        crystal palace  ron noades ray lewington (caretakers)     andy linighan           adidas                  tdk
+8          derby county                              jim smith       igor štimac             puma                 puma
+9               everton                         howard kendall       dave watson            umbro              one2one
+10         leeds united                          george graham      david hopkin             puma         packard bell
+11       leicester city                         martin o'neill       steve walsh      fox leisure              walkers
+12            liverpool                              roy evans         paul ince           reebok            carlsberg
+13    manchester united                          alex ferguson         roy keane            umbro                sharp
+14     newcastle united                         kenny dalglish           rob lee           adidas  newcastle brown ale
+15  sheffield wednesday               ron atkinson (caretaker)    peter atherton             puma            sanderson
+16          southampton                             dave jones   matt le tissier             pony            sanderson
+17    tottenham hotspur                        christian gross  colin calderwood             pony    hewlett - packard
+18      west ham united                         harry redknapp       steve lomas             pony         (no sponsor)
+19            wimbledon                            joe kinnear      robbie earle            lotto               elonex

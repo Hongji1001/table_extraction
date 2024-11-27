@@ -1,0 +1,12 @@
+              player    nationality jersey number (s) position             years            from
+0      gerald paddio  united states                21  sf / sg       1992 - 1993            unlv
+1    ruben patterson  united states                21       sf       1999 - 2001      cincinnati
+2        gary payton  united states            2 , 20    guard       1990 - 2003    oregon state
+3        sam perkins  united states                14        c       1993 - 1998  north carolina
+4       chuck person  united states                45       sf       1999 - 2000          auburn
+5        johan petro         france                27        c       2005 - 2007    pau - orthez
+6        mike phelps  united states                25       sg       1986 - 1987    alcorn state
+7       ricky pierce  united states           21 , 22  sg / sf       1991 - 1994            rice
+8     olden polynice          haiti            23 , 0        c  1988 - 1991 1999        virginia
+9         david pope  united states                51        f              1986   norfolk state
+10  vitaly potapenko        ukraine                 9        c       2003 - 2006    wright state

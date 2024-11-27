@@ -1,0 +1,11 @@
+   pos  car          driver       make                      team
+0    1   11    denny hamlin     toyota          joe gibbs racing
+1    2    2      kurt busch      dodge             penske racing
+2    3   24     jeff gordon  chevrolet      hendrick motorsports
+3    4    5     mark martin  chevrolet      hendrick motorsports
+4    5   18      kyle busch     toyota          joe gibbs racing
+5    6   33    clint bowyer  chevrolet  richard childress racing
+6    7   83   brian vickers     toyota      red bull racing team
+7    8   77  sam hornish jr      dodge             penske racing
+8    9   29   kevin harvick  chevrolet  richard childress racing
+9   10   39     ryan newman  chevrolet       stewart haas racing

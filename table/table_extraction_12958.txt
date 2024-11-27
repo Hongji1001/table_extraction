@@ -1,0 +1,12 @@
+   place             player        country  score to par
+0     t1       justin hicks  united states     68    - 3
+1     t1    kevin streelman  united states     68    - 3
+2     t3     stuart appleby      australia     69    - 2
+3     t3         eric axley  united states     69    - 2
+4     t3      rocco mediate  united states     69    - 2
+5     t3       geoff ogilvy      australia     69    - 2
+6     t7     robert allenby      australia     70    - 1
+7     t7          ernie els   south africa     70    - 1
+8     t7  rickie fowler (a)  united states     70    - 1
+9     t7    robert karlsson         sweden     70    - 1
+10    t7       lee westwood        england     70    - 1

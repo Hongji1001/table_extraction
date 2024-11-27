@@ -1,0 +1,27 @@
+              player       position  tries  goals  points
+0        robbie paul       fullback     13      0      52
+1     tevita vaikona           wing     20      0      80
+2         leon pryce         centre     21      0      84
+3     shontayne hape         centre     16      0      64
+4   lesley vainikolo           wing     26      0     104
+5    michael withers       fullback      2      0       8
+6        paul deacon     scrum half     10    173     389
+7         joe vagana           prop      5      0      20
+8        james lowes         hooker     10      2      44
+9      paul anderson           prop      5      0      20
+10    daniel gartner     second row      8      0      32
+11     jamie peacock     second row      4      0      16
+12      mike forshaw  loose forward      6      0      24
+13       lee gilmour         centre      5      0      20
+14        karl pratt      stand off      9      0      36
+15    alex wilkinson           wing      0      0       0
+16    stuart reardon       fullback      5      0      20
+17       lee radford           prop     10     12      64
+18     jamie langley  loose forward      2      0       8
+19      scott naylor         centre      9      0      36
+20        karl pryce           wing      0      0       0
+21       vinny myler           prop      0      0       0
+22      chris bridge         centre      0      0       0
+23        rob parker           prop      6      0      24
+24    stuart fielden           prop      1      0       4
+25     richard moore           wing      0      0       0

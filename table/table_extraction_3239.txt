@@ -1,0 +1,11 @@
+                       institution                   location team nickname        years             new conference          new classification
+0                augustana college     rock island , illinois       vikings  2002 - 2011                independent           ncaa division iii
+1            lindenwood university      st charles , missouri         lions  2003 - 2011                       wila            ncaa division ii
+2     northern illinois university          dekalb , illinois       huskies  2002 - 2005           chicago division                        glll
+3             northwestern college         orange city , iowa   red raiders  2006 - 2009  ceased operations in 2009                       n / a
+4             rockhurst university     kansas city , missouri         hawks  2008 - 2010  ceased operations in 2010                       n / a
+5            university of memphis        memphis , tennessee        tigers  2005 - 2011        independent in 2011  ncll deep south conference
+6        university of mississippi       oxford , mississippi        rebels  2008 - 2009                       selc             mcla division i
+7  university of nebraska at omaha           omaha , nebraska     mavericks  2005 - 2010  ceased operations in 2010                       n / a
+8       university of south dakota  vermillion , south dakota       coyotes  2002 - 2010  ceased operations in 2010                       n / a
+9      western illinois university          macomb , illinois  leathernecks  2002 - 2007           chicago division                        glll

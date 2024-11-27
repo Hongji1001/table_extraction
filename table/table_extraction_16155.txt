@@ -1,0 +1,9 @@
+           school     location       mascot  enrollment 08 - 09 ihsaa class / football class     county  year joined   previous conference
+0   adams central       monroe  flying jets                 404                      2a / 1a   01 adams         1969           independent
+1        bluffton     bluffton       tigers                 467                      2a / 2a   90 wells         1989  northeastern indiana
+2         garrett      garrett  railroaders                 598                      3a / 3a  17 dekalb         2005      northeast corner
+3        heritage  monroeville     patriots                 734                      3a / 3a   02 allen         1969           independent
+4             leo          leo        lions                 980                      3a / 4a   02 allen         1969           independent
+5     south adams        berne    starfires                 398                      2a / 1a   01 adams         1989  northeastern indiana
+6  southern wells       poneto      raiders                 227                      1a / 1a   90 wells         1971     none (new school)
+7         woodlan     woodburn     warriors                 591                      3a / 2a   02 allen         1969          independents

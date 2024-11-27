@@ -1,0 +1,26 @@
+       period manufacturer   shirt main sponsor         shirt back sponsor        shorts sponsor sleeves sponsor
+0   1976 - 82       adidas                    -                          -                     -               -
+1   1982 - 83       adidas              citizen                          -                     -               -
+2   1983 - 85  zita hellas               nissan                          -                     -               -
+3   1985 - 89  zita hellas  ethniki asfalistiki                          -                     -               -
+4   1989 - 92      diadora  ethniki asfalistiki                          -                     -               -
+5   1992 - 93      diadora    phoenix asfaleies                          -                     -               -
+6   1993 - 95        basic    phoenix asfaleies                          -                     -               -
+7   1995 - 96        kappa  ethniki asfalistiki                          -                     -               -
+8   1995 - 96        kappa              filmnet                          -                     -               -
+9   1996 - 98        kappa          geniki bank                          -                     -               -
+10  1998 - 99        kappa            firestone                          -                     -               -
+11  1999 - 00        kappa               marfin                          -                     -               -
+12  2000 - 01         nike               marfin                    samsung               samsung               -
+13  2001 - 02         nike        alpha digital                          -                     -               -
+14  2002 - 03         nike         piraeus bank                          -                     -               -
+15  2003 - 04         nike         piraeus bank                   telestet              telestet               -
+16  2003 - 04         nike         piraeus bank                        tim                   tim               -
+17  2004 - 05         nike                  tim                          -                     -               -
+18  2004 - 05       adidas                  tim                          -                     -               -
+19  2005 - 06       adidas                  tim                diners club  galaxias asfalistiki               -
+20  2006 - 07       adidas              lg corp                diners club              forthnet               -
+21  2007 - 08         puma              lg corp                diners club              forthnet       chevrolet
+22  2008 - 09         puma              lg corp                diners club                     -       chevrolet
+23  2009 - 10         puma          diners club                          -                     -               -
+24  2010 - 13         puma                 kino  international service oil                     -               -

@@ -1,0 +1,11 @@
+  place          player        country  score to par
+0     1     grant waite    new zealand     64    - 6
+1    t2  stuart appleby      australia     66    - 4
+2    t2        k j choi    south korea     66    - 4
+3    t2     david duval  united states     66    - 4
+4    t2    niclas fasth         sweden     66    - 4
+5    t2      brad faxon  united states     66    - 4
+6    t2       fred funk  united states     66    - 4
+7    t2     dudley hart  united states     66    - 4
+8    t2  phil mickelson  united states     66    - 4
+9    t2      david toms  united states     66    - 4

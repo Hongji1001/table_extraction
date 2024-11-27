@@ -1,0 +1,7 @@
+  parish (prestegjeld) sub - parish (sokn)                 church name  year built location of the church
+0       askvoll parish             askvoll              askvoll kyrkje        1863                askvoll
+1       askvoll parish             askvoll      bulandet bedehuskapell        1905                 musãya
+2       askvoll parish             askvoll             holmedal kyrkje        1868               holmedal
+3       askvoll parish             askvoll              kvammen kapell        1977                kvammen
+4       askvoll parish             askvoll  stongfjorden bedehuskapell        1908           stongfjorden
+5       askvoll parish             askvoll               vilnes kyrkje        1674                 vilnes

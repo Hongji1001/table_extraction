@@ -1,0 +1,10 @@
+          player    nationality          position  years for jazz    school / club team
+0   mark jackson  united states       point guard       2002 - 03            st john 's
+1  dave jamerson  united states   guard - forward            1993                  ohio
+2    aaron james  united states           forward       1974 - 79       grambling state
+3    henry james  united states           forward            1993       st mary 's (tx)
+4   al jefferson  united states  forward - center  2010 - present  prentiss high school
+5   eric johnson  united states             guard       1989 - 90              nebraska
+6  ollie johnson  united states           forward       1974 - 75                temple
+7  nate johnston  united states           forward       1989 - 90                 tampa
+8   jeff judkins  united states             guard       1980 - 81                  utah

@@ -1,0 +1,9 @@
+                                        race name                   circuit         date winning driver       constructor  report
+0                          i rostock osthafenkurs                   rostock     20 april   paul greifzu    bmw - eigenbau  report
+1                       i bernau autobahnschleife                    bernau        4 may  rudolf krause        bmw - reif  report
+2                         i dessau autobahnspinne                    dessau       11 may    fritz riess  veritas - meteor  report
+3                     iii leipzig stadtparkrennen                   leipzig       2 june    edgar barth   ifa - kollektiv  report
+4  iii strassen - rennen halle - saale - schleife  halle - saale - schleife       8 june    edgar barth   ifa - kollektiv  report
+5                     i strassen - rennen leipzig                   leipzig    17 august     hans stuck         afm - bmw  report
+6                       v dmv grenzlandringrennen             grenzlandring    31 august     toni ulmen           veritas  report
+7                            iv sachsenringrennen               sachsenring  7 september    edgar barth         emw - bmw  report

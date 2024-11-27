@@ -1,0 +1,9 @@
+       regional                champions          runners - up        third place              fourth place
+0      hokkaido          sapporo univ gp     norbritz hokkaido  sapporo shukyudan              sapporo wins
+1        tohoku           grulla morioka      fukushima united          nec tokin                  primeiro
+2         kanto                     yscc   hitachi tochigi uva       club dragons                   saitama
+3  hokushinetsu     japan soccer college       nagano parceiro   zweigen kanazawa          matsumoto yamaga
+4         tokai           yazaki valente  hamamatsu university           shizuoka   fujieda city government
+5        kansai    sanyo electric sumoto         laranja kyoto           ain food       banditonce kakogawa
+6       chugoku   sagawa express chugoku      renofa yamaguchi        ntn okayama           ube yahhh - man
+7       shikoku  tokushima vortis second     kamatamare sanuki    ehime shimanami  sanyo electric tokushima

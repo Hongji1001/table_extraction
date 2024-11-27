@@ -1,0 +1,44 @@
+    round               name position                                school             signed
+0       1    terry mcdermott        c                  st agnes high school                yes
+1       2           lee lacy      lhp               putnam city high school                yes
+2       3          al dawson       of                 lyndhurst high school                yes
+3       4        bob o'brien       of                  texas a&m university                yes
+4       5        mark mechuk      rhp                st bernard high school                 no
+5       6          stan wall      lhp             raytown south high school                yes
+6       7     james cardasis       of                   new york university                yes
+7       8      kenneth bruno       ss            cliffside park high school                yes
+8       9    larry president      lhp                    temple high school                yes
+9      10    ronald mitchell       of                 aqua fria high school                yes
+10     11        john hughes       1b                  parkwood high school                yes
+11     12    stanley russell      rhp                villa park high school                yes
+12     13       ronald dolan       2b                 seton hall university                 no
+13     14       arthur pauls      rhp                      lewis university                yes
+14     15        roy staiger       ss                        bacone college     no mets - 1970
+15     16         jimmy page      rhp                  hardesty high school                 no
+16     17      edgar bellamy       ss                 fort cobb high school                 no
+17     18    mark pastrovich      lhp                 mascoutah high school    no twins - 1970
+18     19    anthony blakley       ss             sullivan west high school  no pirates - 1971
+19     20   donald sweetland        c                    saddleback college                 no
+20     21    joseph szewczyk       1b                   new york university                yes
+21     22     royle stillman       of            north torrance high school                yes
+22     23  manuel washington       of          mississippi state university                yes
+23     24        david allen      lhp         california western university                yes
+24     25       william owen       3b                willington high school                 no
+25     26         jim fuller       of                san diego city college  no orioles - 1970
+26     27     johnny hatcher      rhp                   andrews high school                 no
+27     28      harry chapman      rhp                  sarasota high school                 no
+28     29      george horman        c                  crawford high school                 no
+29     30    nick devirgilis       of                  sarasota high school                 no
+30     31      jeffrey hogan       ss              florida state university   no tigers - 1970
+31     32   raymond ippolito       ss                   new york university                 no
+32     33         robert cox      rhp                 southeast high school                 no
+33     34    vincent d'amico       1b             university of albuquerque                yes
+34     35       jerry arnold      lhp                  woodward high school                 no
+35     36      william wyles      lhp         new mexico military institute                 no
+36     37     gary granville       of                     el camino college   no angels - 1970
+37     38     johnny rodgers      inf                      tech high school                 no
+38     39       gary erskine       of                  anderson high school                 no
+39     40       dennis haren       of         bishop montgomery high school                yes
+40     41          rod boone        c                  crawford high school   no royals - 1972
+41     42     robert sicilia       of             john r rogers high school                yes
+42     43       robert payne       of  university of california , riverside                yes

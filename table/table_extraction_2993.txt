@@ -1,0 +1,12 @@
+                     team               manager              captain kit manufacturer              shirt sponsor  average squad age
+0            fc bunyodkor      mirjalol qosimov      viktor karpenko             nike                   uzgazoil              24.92
+1   fc pakhtakor tashkent     ravshan khaydarov         odil ahmedov           adidas               kapital bank              23.56
+2        fc shurtan guzar            edgar gess       asror aliqulov           adidas      sho'rtan gaz mahsulot              26.61
+3              fk andijan       orif mamatkazin     abdumajid toirov             puma                   uzdaewoo              27.21
+4     fk neftchi farg'ona       yuriy sarkisyan        aziz alijonov           adidas              uzbekneftegaz              26.17
+5   fk samarqand - dinamo       viktor djalilov      denis romanenco           adidas                unsponsored              26.94
+6      lokomotiv tashkent  tachmurad agamuradov  aleksandr filimonov             puma  o'zbekiston temir yollari              25.46
+7         mash'al mubarek     vladimir fomichev         fozil musaev           adidas              uzbekneftegaz              24.60
+8       metalourg bekabad     rustam mirsodiqov        odil isaboyev           adidas                       uzmk              28.24
+9            nasaf qarshi   anatoliy demyanenko     hayrulla karimov             puma      sho'rtan gaz mahsulot              27.09
+10     qizilqum zarafshon       sergei arslanov  shavkat nasibullaev           adidas                       ngmk              27.19

@@ -1,0 +1,9 @@
+       school   nickname                      location               colors       tenure
+0   barberton     magics     barberton , summit county       purple , white  2005 - 2011
+1    coventry     comets  coventry twp , summit county          blue , gold  1969 - 1983
+2       field    falcons    brimfield , portage county  red , white , black  1978 - 1990
+3      hudson  explorers        hudson , summit county    navy blue , white  1949 - 1997
+4  manchester   panthers  new franklin , summit county          red , black  1949 - 1976
+5    mogadore   wildcats     mogadore , portage county        green , white  1958 - 1968
+6      norton   panthers        norton , summit county  red , black , white  1972 - 2005
+7   twinsburg     tigers     twinsburg , summit county         blue , white  1958 - 1964

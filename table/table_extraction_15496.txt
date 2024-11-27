@@ -1,0 +1,41 @@
+                      artist        record label  released  chart peak  number of times certified platinum
+0                      queen          parlophone      1981           1                                  11
+1                       abba             polydor      1992           1                                  14
+2                the beatles          parlophone      1967           1                                   3
+3                      adele                  xl      2011           1                                  16
+4                      oasis            creation      1995           1                                  14
+5            michael jackson                epic      1982           1                                  11
+6               dire straits             vertigo      1985           1                                  13
+7                 pink floyd             harvest      1973           2                                   9
+8            michael jackson                epic      1987           1                                  13
+9                      queen          parlophone      1991           1                                   8
+10                   madonna                sire      1990           1                                  12
+11             amy winehouse              island      2006           1                                  11
+12                simply red           east west      1991           1                                  12
+13             fleetwood mac         warner bros      1977           1                                  11
+14              shania twain             mercury      1998           1                                  11
+15               james blunt            atlantic      2004           1                                  10
+16                 the verve                 hut      1997           1                                  10
+17         simon & garfunkel                 cbs      1970           1                                   1
+18                      dido              cheeky      2000           1                                  10
+19               leona lewis                syco      2007           1                                  10
+20  bob marley & the wailers  island / tuff gong      1984           1                                   6
+21                 meat loaf                epic      1977           9                                   6
+22       original soundtrack                 rca      1987           4                                   5
+23               the beatles               apple      2000           1                                  10
+24                 the corrs            atlantic      1997           1                                   9
+25                david gray     iht / east west      1998           1                                   9
+26               spice girls              virgin      1996           1                                  10
+27             michael bublé             reprise      2009           1                                  10
+28                      dido              cheeky      2003           1                                   9
+29                 take that             polydor      2006           1                                   8
+30                 lady gaga          interscope      2009           1                                   9
+31                  coldplay          parlophone      2002           1                                   9
+32                     keane              island      2004           1                                   9
+33                        u2              island      1987           1                                   6
+34              phil collins              virgin      1989           1                                   8
+35           scissor sisters             polydor      2004           1                                   9
+36             kings of leon        hand me down      2008           1                                   9
+37                jeff wayne                 cbs      1978           5                                   5
+38                    travis       independiente      1999           1                                   9
+39                  coldplay          parlophone      2005           1                                   9

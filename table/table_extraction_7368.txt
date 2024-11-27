@@ -1,0 +1,9 @@
+                     metropolitan area  media market ranking  since                                       mlb team (s)        nba team (s)
+0               boston , massachusetts                     7   1996                                            red sox             celtics
+1                   chicago , illinois                     3   1998                                     cubs white sox               bulls
+2   dallasfort worth metroplex , texas                     5   1996                         rangers ( arlington , tx )           mavericks
+3                    denver , colorado                    16   1996                                            rockies             nuggets
+4                  new york , new york                     1   1996                                       mets yankees         knicks nets
+5          philadelphia , pennsylvania                     4   2010                                           phillies               76ers
+6  san francisco bay area , california                     6   2008  giants ( san francisco , ca ) athletics (oakland)  warriors (oakland)
+7                      washington , dc                     9   2005                                          nationals             wizards

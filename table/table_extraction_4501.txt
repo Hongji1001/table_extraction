@@ -1,0 +1,31 @@
+                               name      pos  caps  goals                      club
+0                       olle åhlund       mf     1      0              degerfors if
+1        sune mona - lisa andersson       mf     3      1                 aik solna
+2          magnus skjorta bergström       gk     1      0              degerfors if
+3          rune killing emanuelsson       mf     2      0              ifk göteborg
+4         gunnar il professore gren       fw     5      2              ifk göteborg
+5                   kjell hjertsson       mf     1      0                  malmö ff
+6              egon hemliga jönsson       fw     1      2                  malmö ff
+7                     bror karlsson       fw     1      1           hälsingborgs if
+8             eric prosten karlsson       fw     1      1                 aik solna
+9                     börje leander  df / mf     4      2                 aik solna
+10     nils lidas / greven liedholm       fw     3      1            ifk norrköping
+11           torsten lindy lindberg       gk     3      0            ifk norrköping
+12                 lennart lindskog       fw     1      1              degerfors if
+13                   hans malmström       df     1      0                  malmö ff
+14  malte svarta blixten mårtensson       fw     1      1           hälsingborgs if
+15                 sture mårtensson       mf     1      0                  malmö ff
+16                     erik nilsson       df     1      0                  malmö ff
+17                   gustaf nilsson       fw     1      3                  malmö ff
+18                    harry nilsson       df     5      0                 aik solna
+19                  stellan nilsson       fw     2      0                  malmö ff
+20                   bertil nordahl       mf     2      0              degerfors if
+21                   gunnar nordahl       fw     4      8            ifk norrköping
+22                     knut nordahl  fw / df     5      1            ifk norrköping
+23                      arne nyberg       fw     2      1              ifk göteborg
+24                     stig nyström       fw     4      1  djurgårdens if stockholm
+25             sven skuggan persson       fw     1      1            ifk norrköping
+26                      kjell rosén       mf     5      1                  malmö ff
+27             gustav gurra sjöberg       gk     2      0                 aik solna
+28                     börje tapper       fw     1      0                  malmö ff
+29               john nonne wikdahl       df     1      0           hälsingborgs if
